@@ -12,6 +12,7 @@ export type SectionId =
 export interface Translation {
   title: string;
   summary: string;
+  aiSummary?: string | undefined;
   paragraphs: string[];
   correction?: string | undefined;
 }

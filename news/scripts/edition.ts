@@ -12,7 +12,11 @@ interface Selection {
 }
 const id = process.argv[2];
 if (!id || !/^[a-z0-9-]+$/.test(id))
-  throw new Error('Usage: npx tsx scripts/edition.ts EDITION_ID');
+  throw new Error(
+    'Usage: npx tsx scripts/edition.ts EDITION_ID [--lead ARTICLE_ID]',
+  );
+const leadIndex = process.argv.indexOf('--lead');
+const requestedLead = leadIndex >= 0 ? process.argv[leadIndex + 1] : undefined;
 const { articles, editions } = await readContent();
 if (editions.some((entry) => entry.id === id))
   throw new Error('An edition identity is immutable; choose a new edition ID');
@@ -37,9 +41,11 @@ const sectionRecords = Object.fromEntries(
     },
   ]),
 );
-const leadArticleId = articles.find(
-  (article) => article.section === 'brasil',
-)?.id;
+const leadArticleId = requestedLead
+  ? articles.find((article) => article.id === requestedLead)?.id
+  : articles.find((article) => article.section === 'brasil')?.id;
+if (requestedLead && !leadArticleId)
+  throw new Error(`Lead article is not in the catalog: ${requestedLead}`);
 const edition = editionSchema.parse({
   id,
   cutoff: selections[0]!.data.cutoff,

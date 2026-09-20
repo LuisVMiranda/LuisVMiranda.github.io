@@ -25,10 +25,13 @@ source names/HTTPS URLs, PT-BR and EN title, summary, and two original concise
 context paragraphs. Attribute estimates and allegations. Do not copy source
 articles. Keep translations factually equivalent, including dates and numbers.
 
-Stage each JSON draft under `content/articles`. Record source checks under
-`research/editorial`; neither research folder is copied into the website.
-Use one identity for an event shared by multiple sections. Add secondary
-section references rather than publishing a duplicate article.
+- Stage each JSON draft under `content/articles`. Record source checks under
+  `research/editorial`; neither research folder is copied into the website.
+- For every selected story, add `contentReview.bodyComplete: true` and
+  `contentReview.aiSummaryReviewed: true` only after checking the full reading
+  version and its bilingual AI summary against the retrieved source.
+  Use one identity for an event shared by multiple sections. Add secondary
+  section references rather than publishing a duplicate article.
 
 ## Review and publish
 

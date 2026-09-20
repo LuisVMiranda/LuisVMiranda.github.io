@@ -5,6 +5,41 @@ import { renderShell } from '../../src/render/shell.js';
 import type { RenderContext } from '../../src/render/types';
 import { article, edition } from './fixtures';
 
+it('renders an optional AI summary block without replacing the article body', () => {
+  const story = {
+    ...article,
+    translations: {
+      ...article.translations,
+      en: {
+        ...article.translations.en,
+        aiSummary:
+          'This verified summary explains the event, its immediate consequence, and why readers should care.',
+      },
+    },
+  } as unknown as RenderContext['article'];
+  const context: RenderContext = {
+    locale: 'en',
+    path: `artigos/${story!.slug}`,
+    title: story!.translations.en.title,
+    article: story,
+    articles: [story!],
+    editions: [edition],
+    related: [],
+    preview: false,
+    site: 'https://example.com',
+    assets: {
+      styles: '/news/assets/main.hash.css',
+      client: '/news/assets/main.hash.js',
+      search: '/news/assets/search.hash.js',
+      themeInit: '',
+    },
+  };
+  const markup = renderArticle(context);
+  expect(markup).toContain('AI summary');
+  expect(markup).toContain('This verified summary explains the event');
+  expect(markup).toContain('First paragraph for automated testing.');
+});
+
 it('renders source text safely and retains bilingual metadata without a framework', () => {
   const headline =
     'An escaped </script><img src=x onerror="alert(1)"> headline';

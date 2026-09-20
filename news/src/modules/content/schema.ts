@@ -14,6 +14,7 @@ const timestamp = z.iso.datetime({ offset: true });
 const translation = z.object({
   title: z.string().trim().min(5),
   summary: z.string().trim().min(15),
+  aiSummary: z.string().trim().min(20).max(600).optional(),
   paragraphs: z.array(z.string().trim().min(20)).min(2),
   correction: z.string().trim().min(5).optional(),
 });

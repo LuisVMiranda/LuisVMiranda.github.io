@@ -144,25 +144,14 @@ The future AI-summary presentation has these requirements:
 - Keep the full reading body visible below it, with existing A−/A+ controls.
   Do not introduce a new page layout, global font scaling or extra theme buttons.
 
-**Current implementation boundary:** `translations[locale].summary` is the
-existing synopsis used in cards, article leads and metadata. `paragraphs`
-already accepts a longer body. There is currently no separate labeled AI-summary
-field or compact AI-summary component. Do not claim that feature already exists,
-and do not silently turn every card synopsis into an AI disclosure.
-
-Before the first future edition using this feature, make one narrowly scoped
-shared-template enhancement: add an optional bilingual AI-summary field to the
-content contract and render it conditionally in the article template. Older
-articles without the field must keep their existing presentation. New editions
-must include the field once that enhancement is supported. Keep the existing
-synopsis separate. Any reproduction/rights fields must likewise be explicitly
-supported by the schema before relying on them in published data.
-
-That template change follows the required page-owner process: GPT-5.6 Luna at
-maximum reasoning, explicit ownership, primary-agent independent review,
-all relevant checks, and a score of at least 9/10. Below 9, the same agent must
-correct the submission. Update affected source-bound reviews only after the
-work actually passes. Do not fabricate approval hashes or scores.
+The shared template now supports this presentation through the optional
+`translations[locale].aiSummary` field. Older articles without the field keep
+their existing presentation. New automated selections must include the field,
+at least three substantive body paragraphs, and a reviewed `contentReview`
+record in each section manifest. The existing synopsis remains separate and is
+still used by cards, article leads and metadata. Reproduction/rights fields
+must likewise be explicitly supported by the schema before relying on them in
+published data.
 
 ## 5. Verify, deduplicate, rank and translate
 
@@ -213,7 +202,7 @@ they must not write the shared edition or approval file simultaneously.
 
 ```powershell
 # Replace the example with a new, unused edition identity.
-npx tsx scripts/edition.ts 2026-09-21
+npx tsx scripts/edition.ts 2026-09-21 --lead brasil-story-id
 ```
 
 The command validates references and appends a new edition. It refuses an

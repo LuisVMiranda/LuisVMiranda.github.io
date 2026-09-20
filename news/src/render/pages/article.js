@@ -22,6 +22,7 @@ const copy = {
     increase: 'Aumentar tamanho do texto',
     decrease: 'Diminuir tamanho do texto',
     correction: 'Correção',
+    aiSummary: 'Resumo por IA',
     sources: 'Fontes',
     related: 'Leia também',
     backToSection: 'Mais notícias de',
@@ -41,6 +42,7 @@ const copy = {
     increase: 'Increase text size',
     decrease: 'Decrease text size',
     correction: 'Correction',
+    aiSummary: 'AI summary',
     sources: 'Sources',
     related: 'More stories',
     backToSection: 'More news from',
@@ -125,6 +127,12 @@ export default function renderArticle(context) {
   const paragraphs = translation.paragraphs
     .map((paragraph) => `<p>${escapeHtml(paragraph)}</p>`)
     .join('');
+  const aiSummary = translation.aiSummary
+    ? `<aside class="article-ai-summary" aria-label="${escapeHtml(labels.aiSummary)}">
+        <p class="article-ai-summary__label text-xs font-semibold uppercase tracking-widest">${escapeHtml(labels.aiSummary)}</p>
+        <p>${escapeHtml(translation.aiSummary)}</p>
+      </aside>`
+    : '';
   const correction = translation.correction
     ? `<aside class="correction" aria-label="${escapeHtml(labels.correction)}">
         <p class="correction-label text-xs font-semibold uppercase tracking-widest">${escapeHtml(labels.correction)}</p>
@@ -192,6 +200,7 @@ export default function renderArticle(context) {
     </header>
 
     <div class="article-content mx-auto w-full max-w-3xl" data-article-body style="font-size:var(--article-size, 18px)">
+      ${aiSummary}
       ${paragraphs}
       ${correction}
       ${sourcesList(article, locale)}

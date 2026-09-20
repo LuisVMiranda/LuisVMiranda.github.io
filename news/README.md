@@ -35,10 +35,14 @@ future full reading versions and AI summaries, design preservation, and publicat
 Use [the research template](research/TEMPLATE.md) to retain selection evidence.
 The local SearXNG endpoint
 defaults to `http://localhost:8080`; `SEARXNG_URL` may select another local port.
-`npm run research` writes separate candidate runs; it never approves stories.
+`npm run research` writes separate candidate runs; it never approves stories. The
+repeatable daily agent brief is stored at `automation/daily-news-prompt.md`; it
+stages reviewable updates on `automation/daily-news` and never edits approval or
+publishes unreviewed content.
 
 ```powershell
 npm run research
+npm run news:verify
 npm run review
 npm run quality
 npm run build:preview
@@ -47,7 +51,12 @@ npm run test:e2e
 npm run test:performance
 ```
 
-Original source verification and explicit editorial approval are mandatory.
+`npm run news:verify` is the automation gate. It refuses an edition unless all
+sections contain ten ordered references, every selected article has a bilingual
+AI summary and at least three body paragraphs, and every editorial manifest
+records source evidence, selection reasoning, a complete-body review and an
+AI-summary review. `--legacy-ok` is only a smoke-test escape hatch for the
+pre-feature catalog; it must not be used by the daily job or for publication.
 The review command documents its required digest and reviewer arguments in
 the research template. New edits invalidate approval. Corrected stories retain
 their identity, update timestamp, and bilingual correction note.
