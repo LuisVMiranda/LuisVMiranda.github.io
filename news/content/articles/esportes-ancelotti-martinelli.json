@@ -1,0 +1,32 @@
+{
+  "id": "esportes-ancelotti-martinelli",
+  "slug": "esportes-ancelotti-martinelli",
+  "section": "esportes",
+  "secondarySections": [],
+  "publishedAt": "2026-09-16T14:13:00-03:00",
+  "updatedAt": "2026-09-16T14:13:00-03:00",
+  "sources": [
+    {
+      "name": "Agência Brasil",
+      "url": "https://agenciabrasil.ebc.com.br/esportes/noticia/2026-09/ancelotti-convoca-martinelli-do-fluminense-para-amistosos-na-asia"
+    }
+  ],
+  "translations": {
+    "pt-BR": {
+      "title": "Ancelotti convoca Martinelli para amistosos da seleção na Ásia",
+      "summary": "Atacante do Fluminense integra grupo de 26 para jogos contra Austrália e Índia.",
+      "paragraphs": [
+        "Carlo Ancelotti convocou o atacante Martinelli, do Fluminense, para a série de amistosos que o Brasil fará contra Austrália e Índia. A lista tem 26 jogadores e abre o ciclo da seleção rumo à Copa do Mundo de 2030.",
+        "Os dois primeiros jogos serão na Austrália, em 25 e 29 de setembro, e o terceiro será contra a Índia, em 3 de outubro. Nove convocados estiveram no Mundial de 2026, no qual o Brasil foi eliminado nas oitavas de final."
+      ]
+    },
+    "en": {
+      "title": "Ancelotti calls up Martinelli for Brazil friendlies in Asia",
+      "summary": "The Fluminense forward joins a 26-player group for matches against Australia and India.",
+      "paragraphs": [
+        "Carlo Ancelotti called up Fluminense forward Martinelli for Brazil's series of friendlies against Australia and India. The 26-player list opens the national team's cycle toward the 2030 World Cup.",
+        "The first two matches will be in Australia on September 25 and 29, followed by a game against India on October 3. Nine players were part of the 2026 World Cup squad, when Brazil went out in the round of 16."
+      ]
+    }
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "id": "ciencia-biomarcadores-cancer-pulmao",
+  "slug": "ciencia-biomarcadores-cancer-pulmao",
+  "section": "ciencia",
+  "secondarySections": ["brasil"],
+  "publishedAt": "2026-09-17T00:00:00-03:00",
+  "updatedAt": "2026-09-17T00:00:00-03:00",
+  "sources": [
+    {
+      "name": "Agência FAPESP",
+      "url": "https://agencia.fapesp.br/index.php/biomarcadores-no-sangue-ajudam-a-prever-eficacia-de-imunoterapia-contra-cancer-de-pulmao/59210"
+    },
+    {
+      "name": "iScience",
+      "url": "https://www.cell.com/iscience/fulltext/S2589-0042(26)01499-9"
+    }
+  ],
+  "translations": {
+    "pt-BR": {
+      "title": "Biomarcadores podem orientar resposta à imunoterapia contra câncer de pulmão",
+      "summary": "Estudo apoiado pela FAPESP encontrou uma assinatura de proteínas em linfócitos de pacientes metastáticos.",
+      "paragraphs": [
+        "Pesquisadores apoiados pela FAPESP analisaram amostras de sangue de 33 pacientes com câncer de pulmão de células não pequenas metastático antes da terapia. Uma combinação de marcadores presentes na membrana dos linfócitos T distinguiu 22 pessoas que responderam ao tratamento de 11 que não responderam.",
+        "O estudo, publicado na iScience, usou citometria de fluxo, técnica já disponível em laboratórios clínicos. Os autores veem potencial para selecionar pacientes com maior chance de benefício, mas a abordagem ainda precisa de novos ensaios clínicos antes de orientar decisões de rotina."
+      ]
+    },
+    "en": {
+      "title": "Biomarkers may help predict response to lung-cancer immunotherapy",
+      "summary": "FAPESP-supported research found a protein signature in immune cells from patients with metastatic disease.",
+      "paragraphs": [
+        "FAPESP-supported researchers analyzed blood samples from 33 patients with metastatic non-small-cell lung cancer before treatment. A combination of markers on the surface of T cells distinguished 22 people who responded to therapy from 11 who did not.",
+        "The study, published in iScience, used flow cytometry, a technique already available in clinical laboratories. The authors see potential for selecting patients most likely to benefit, but the approach needs further clinical trials before it can guide routine decisions."
+      ]
+    }
+  }
+}

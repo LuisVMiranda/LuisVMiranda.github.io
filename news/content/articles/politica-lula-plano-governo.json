@@ -1,0 +1,32 @@
+{
+  "id": "politica-lula-plano-governo",
+  "slug": "politica-lula-plano-governo",
+  "section": "politica",
+  "secondarySections": [],
+  "publishedAt": "2026-09-18T08:00:00-03:00",
+  "updatedAt": "2026-09-18T08:00:00-03:00",
+  "sources": [
+    {
+      "name": "Agência Brasil",
+      "url": "https://agenciabrasil.ebc.com.br/politica/noticia/2026-09/lula-propoe-criar-ministerio-da-seguranca-e-aumento-real-do-minimo"
+    }
+  ],
+  "translations": {
+    "pt-BR": {
+      "title": "Lula propõe Ministério da Segurança e aumento real do mínimo",
+      "summary": "Plano para uma eventual reeleição reúne propostas de segurança, saúde, educação e renda.",
+      "paragraphs": [
+        "O plano de governo de Lula para uma eventual reeleição prevê aumento real do salário mínimo, investimento em defesa e a criação de um Ministério da Segurança Pública.",
+        "O documento também promete ampliar a Farmácia Popular com exames, expandir institutos federais e priorizar a integração regional pelo Mercosul."
+      ]
+    },
+    "en": {
+      "title": "Lula proposes a Security Ministry and real minimum-wage growth",
+      "summary": "The possible reelection platform covers security, health, education and income policies.",
+      "paragraphs": [
+        "Lula's platform for a possible reelection promises real minimum-wage growth, investment in defense and the creation of a Ministry of Public Security.",
+        "The document also promises to expand Farmácia Popular with tests, extend federal institutes and prioritize regional integration through Mercosur."
+      ]
+    }
+  }
+}

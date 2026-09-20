@@ -1,0 +1,32 @@
+{
+  "id": "mundo-cuba-apagao",
+  "slug": "mundo-cuba-apagao",
+  "section": "mundo",
+  "secondarySections": [],
+  "publishedAt": "2026-09-18T17:03:00-04:00",
+  "updatedAt": "2026-09-18T17:03:00-04:00",
+  "sources": [
+    {
+      "name": "Associated Press via Local 10",
+      "url": "https://www.local10.com/news/world/2026/09/18/cuba-hit-with-another-blackout-as-millions-across-the-island-are-left-without-electricity/"
+    }
+  ],
+  "translations": {
+    "pt-BR": {
+      "title": "Novo apagão deixa milhões de cubanos sem eletricidade",
+      "summary": "A rede elétrica nacional entrou em colapso pela sexta vez desde janeiro, segundo a Associated Press.",
+      "paragraphs": [
+        "A rede elétrica de Cuba entrou novamente em colapso na sexta-feira, deixando milhões de pessoas sem eletricidade em toda a ilha. O Ministério de Energia e Minas anunciou a interrupção no X e informou que ativou protocolos para restaurar o serviço.",
+        "A Associated Press registrou que foi pelo menos o sexto apagão nacional desde janeiro, quando o governo Trump cortou o fornecimento de combustível à ilha. A sequência de colapsos ocorre em meio a uma crise de energia que tornou os apagões recorrentes em Cuba."
+      ]
+    },
+    "en": {
+      "title": "Another blackout leaves millions in Cuba without electricity",
+      "summary": "The national grid collapsed for at least the sixth time since January, according to the Associated Press.",
+      "paragraphs": [
+        "Cuba's power grid collapsed again on Friday, leaving millions of people across the island without electricity. The Ministry of Energy and Mines announced the outage on X and said it had activated service-restoration protocols.",
+        "The Associated Press reported that this was at least the sixth nationwide blackout since January, when the Trump administration cut off fuel supplies to the island. The repeated collapses come amid an energy crisis that has made blackouts routine in Cuba."
+      ]
+    }
+  }
+}

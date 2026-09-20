@@ -1,0 +1,32 @@
+{
+  "id": "politica-flavio-bolsonaro-plano",
+  "slug": "politica-flavio-bolsonaro-plano",
+  "section": "politica",
+  "secondarySections": [],
+  "publishedAt": "2026-09-18T07:15:00-03:00",
+  "updatedAt": "2026-09-18T07:15:00-03:00",
+  "sources": [
+    {
+      "name": "Agência Brasil",
+      "url": "https://agenciabrasil.ebc.com.br/politica/noticia/2026-09/flavio-bolsonaro-propoe-enxugar-estado-e-endurecer-acoes-de-seguranca"
+    }
+  ],
+  "translations": {
+    "pt-BR": {
+      "title": "Flávio Bolsonaro propõe enxugar Estado e endurecer segurança",
+      "summary": "Plano prevê cortes administrativos, medidas penais mais duras e compartilhamento de dados do SUS.",
+      "paragraphs": [
+        "O plano de Flávio Bolsonaro prevê reduzir dez ministérios, cortar cargos e despesas e rever o pacto federativo como parte de um “tesouraço” nos gastos.",
+        "Na segurança, o candidato propõe classificar facções e milícias como organizações narcoterroristas e reduzir a idade penal para 14 anos em crimes hediondos."
+      ]
+    },
+    "en": {
+      "title": "Flávio Bolsonaro proposes a smaller state and tougher security",
+      "summary": "The platform calls for administrative cuts, tougher criminal measures and SUS data sharing.",
+      "paragraphs": [
+        "Flávio Bolsonaro's platform proposes cutting ten ministries, jobs and expenses and revising the federal pact as part of a major spending reduction.",
+        "On security, the candidate proposes classifying factions and militias as narcoterrorist organizations and lowering the age of criminal responsibility to 14 for heinous crimes."
+      ]
+    }
+  }
+}

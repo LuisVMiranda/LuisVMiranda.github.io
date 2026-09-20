@@ -1,0 +1,32 @@
+{
+  "id": "mundo-groenlandia-acordo",
+  "slug": "mundo-groenlandia-acordo",
+  "section": "mundo",
+  "secondarySections": [],
+  "publishedAt": "2026-09-19T09:37:44Z",
+  "updatedAt": "2026-09-19T09:37:44Z",
+  "sources": [
+    {
+      "name": "AP News",
+      "url": "https://apnews.com/article/trump-greenland-military-denmark-0eac9ad2196551525bcb8c71e80c480e"
+    }
+  ],
+  "translations": {
+    "pt-BR": {
+      "title": "Acordo sobre a Groenlândia prevê ampliar presença militar dos EUA",
+      "summary": "Trump anunciou pacto com Dinamarca e Groenlândia; a ilha permanece sob controle dinamarquês e os detalhes ainda não foram publicados.",
+      "paragraphs": [
+        "O presidente Donald Trump anunciou um acordo com a Dinamarca para ampliar a presença militar dos Estados Unidos na Groenlândia, território autônomo de um aliado da Otan. O anúncio ocorreu após meses de ameaças de tomar a ilha à força.",
+        "O pacto mantém a Groenlândia sob controle dinamarquês, mas o texto ainda não é público. Autoridades disseram que a assinatura está prevista para a Assembleia Geral da ONU e que os governos dinamarquês e groenlandês ainda precisam aprovar o acordo."
+      ]
+    },
+    "en": {
+      "title": "Greenland deal would expand the U.S. military presence",
+      "summary": "Trump announced a pact with Denmark and Greenland; the island remains under Danish control and details have not been published.",
+      "paragraphs": [
+        "President Donald Trump announced an agreement with Denmark to expand the U.S. military presence in Greenland, an autonomous territory of a NATO ally. The announcement followed months of threats to take the island by force.",
+        "The pact keeps Greenland under Danish control, but its text has not been made public. Officials said it is expected to be signed at the U.N. General Assembly and still needs approval from Denmark and Greenland."
+      ]
+    }
+  }
+}

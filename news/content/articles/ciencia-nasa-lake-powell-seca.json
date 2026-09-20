@@ -1,0 +1,33 @@
+{
+  "id": "ciencia-nasa-lake-powell-seca",
+  "slug": "ciencia-nasa-lake-powell-seca",
+  "section": "ciencia",
+  "secondarySections": ["mundo"],
+  "publishedAt": "2026-09-18T00:00:00Z",
+  "publishedDate": "2026-09-18",
+  "updatedAt": "2026-09-18T00:00:00Z",
+  "sources": [
+    {
+      "name": "NASA Earth Observatory",
+      "url": "https://science.nasa.gov/earth/earth-observatory/lake-powell-drops-to-record-low-levels/"
+    }
+  ],
+  "translations": {
+    "pt-BR": {
+      "title": "Lake Powell atinge nível recorde de baixa após inverno seco",
+      "summary": "Imagens Landsat mostram o reservatório no Colorado em nível recorde após pouca neve e calor incomum.",
+      "paragraphs": [
+        "A NASA informou que o Lake Powell, no oeste dos Estados Unidos, chegou a um nível recorde de baixa no início de setembro. Imagens do satélite Landsat 8 mostraram 3.517,24 pés de elevação da água em 10 de setembro, abaixo do recorde anterior de 2023.",
+        "A agência atribui a queda à pouca neve acumulada na bacia superior do Colorado no inverno de 2025–2026 e ao calor que reduziu a reposição por derretimento. O reservatório é o segundo maior dos Estados Unidos e integra um sistema que fornece água e energia a mais de 40 milhões de pessoas."
+      ]
+    },
+    "en": {
+      "title": "Lake Powell reaches a record low after a dry winter",
+      "summary": "Landsat images show the Colorado reservoir at a record low after sparse snow and unusually warm weather.",
+      "paragraphs": [
+        "NASA reported that Lake Powell in the western United States reached a record low in early September. Landsat 8 images showed the water surface at 3,517.24 feet on September 10, below the previous record set in 2023.",
+        "The agency attributes the decline to sparse snowpack in the Upper Colorado Basin during winter 2025–2026 and heat that reduced snowmelt replenishment. The reservoir is the second largest in the United States and part of a system supplying water and power to more than 40 million people."
+      ]
+    }
+  }
+}

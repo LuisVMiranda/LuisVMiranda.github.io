@@ -1,0 +1,32 @@
+{
+  "id": "economia-brasil-soberano3",
+  "slug": "economia-brasil-soberano3",
+  "section": "economia",
+  "secondarySections": [],
+  "publishedAt": "2026-09-17T14:19:00-03:00",
+  "updatedAt": "2026-09-17T14:19:00-03:00",
+  "sources": [
+    {
+      "name": "Agência Brasil",
+      "url": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-09/brasil-soberano-3-comeca-a-receber-pedidos-de-emprestimos-de-empresas"
+    }
+  ],
+  "translations": {
+    "pt-BR": {
+      "title": "Brasil Soberano 3 abre pedidos de crédito para empresas",
+      "summary": "Terceira fase do programa disponibiliza R$ 22,6 bilhões a empresas afetadas por tarifas dos EUA, guerra e setores estratégicos.",
+      "paragraphs": [
+        "Empresas afetadas pelo tarifaço americano e pelos impactos da guerra no Oriente Médio já podem se habilitar a empréstimos do Plano Brasil Soberano 3. O BNDES abriu o protocolo em 17 de setembro.",
+        "A linha reúne R$ 13,5 bilhões do Tesouro e R$ 9,1 bilhões do BNDES, com juros de 4,3% a 17,5% ao ano. O programa também alcança setores como fertilizantes, minerais críticos, farmacêutico, automotivo e máquinas e equipamentos."
+      ]
+    },
+    "en": {
+      "title": "Brazil Soberano 3 opens credit applications for companies",
+      "summary": "The program's third phase makes R$22.6 billion available to firms affected by US tariffs, war and strategic-sector pressures.",
+      "paragraphs": [
+        "Companies affected by US tariffs and the effects of the war in the Middle East can now apply for loans under Plano Brasil Soberano 3. The BNDES opened the application protocol on September 17.",
+        "The credit line combines R$13.5 billion from the Treasury with R$9.1 billion from BNDES, at annual rates ranging from 4.3% to 17.5%. It also covers sectors such as fertilizers, critical minerals, pharmaceuticals, automobiles and machinery."
+      ]
+    }
+  }
+}

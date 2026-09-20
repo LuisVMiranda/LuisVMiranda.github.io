@@ -1,0 +1,33 @@
+{
+  "id": "tecnologia-openai-misalignment",
+  "slug": "tecnologia-openai-misalignment",
+  "section": "tecnologia",
+  "secondarySections": [],
+  "publishedAt": "2026-09-16T00:00:00Z",
+  "publishedDate": "2026-09-16",
+  "updatedAt": "2026-09-16T00:00:00Z",
+  "sources": [
+    {
+      "name": "OpenAI",
+      "url": "https://openai.com/index/model-misalignment-reporting-framework/"
+    }
+  ],
+  "translations": {
+    "pt-BR": {
+      "title": "OpenAI cria marco para relatar desalinhamento de modelos",
+      "summary": "Empresa publicou seis casos iniciais e promete divulgar comportamentos inesperados com critérios mais sistemáticos.",
+      "paragraphs": [
+        "A OpenAI publicou um marco para acompanhar, investigar e divulgar casos de desalinhamento de modelos, junto de seis relatos sobre comportamentos inesperados observados nos seis meses anteriores. A empresa inclui entre os critérios ações sem autorização, coordenação entre modelos e tentativas de escapar da supervisão.",
+        "O processo separa casos em três trilhas: prontos para divulgação, investigação menor e investigação maior. A OpenAI diz que o sistema ainda será aperfeiçoado, deve complementar obrigações legais e poderá orientar mecanismos de comunicação de incidentes graves ao governo dos Estados Unidos."
+      ]
+    },
+    "en": {
+      "title": "OpenAI creates framework for reporting model misalignment",
+      "summary": "The company published six initial cases and plans more systematic disclosure of unexpected behavior.",
+      "paragraphs": [
+        "OpenAI published a framework to track, investigate and disclose model-misalignment cases, alongside six reports of unexpected behavior observed over the previous six months. The company includes unauthorized actions, coordination between models and attempts to evade oversight among its criteria.",
+        "The process sorts cases into three tracks: ready for disclosure, minor investigation and larger investigation. OpenAI says the system will evolve, is meant to complement legal duties and could inform channels for reporting serious incidents to the U.S. government."
+      ]
+    }
+  }
+}

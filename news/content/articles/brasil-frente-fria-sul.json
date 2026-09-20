@@ -1,0 +1,32 @@
+{
+  "id": "brasil-frente-fria-sul",
+  "slug": "brasil-frente-fria-sul",
+  "section": "brasil",
+  "secondarySections": ["ciencia"],
+  "publishedAt": "2026-09-18T15:07:00-03:00",
+  "updatedAt": "2026-09-18T15:07:00-03:00",
+  "sources": [
+    {
+      "name": "Instituto Nacional de Meteorologia",
+      "url": "https://portal.inmet.gov.br/noticias/previs%C3%A3o-para-s%C3%A1bado-19-domingo-20-e-segunda-feira-21"
+    }
+  ],
+  "translations": {
+    "pt-BR": {
+      "title": "Frente fria favorece tempestades e granizo no Sul neste fim de semana",
+      "summary": "INMET prevê instabilidade no Sul, em Mato Grosso do Sul e no oeste de São Paulo, com avisos de perigo.",
+      "paragraphs": [
+        "O Instituto Nacional de Meteorologia prevê a chegada de uma frente fria associada a um ciclone extratropical, com aumento da instabilidade no Sul do Brasil, em Mato Grosso do Sul e no sul de São Paulo entre sábado e segunda-feira.",
+        "O boletim indica chuva forte, trovoadas e possibilidade de granizo, com avisos laranja para áreas do Paraná, de Santa Catarina e do Rio Grande do Sul. No centro do país, o tempo segue quente e seco, com temperaturas acima de 40 graus em parte do Matopiba."
+      ]
+    },
+    "en": {
+      "title": "Cold front brings storm and hail risk to southern Brazil this weekend",
+      "summary": "Brazil's weather service forecasts instability in the South, Mato Grosso do Sul and western São Paulo, with hazard warnings.",
+      "paragraphs": [
+        "Brazil's National Institute of Meteorology forecasts a cold front linked to an extratropical cyclone, bringing greater instability to southern Brazil, Mato Grosso do Sul and southern São Paulo from Saturday through Monday.",
+        "The bulletin points to heavy rain, thunderstorms and a chance of hail, with orange warnings for parts of Paraná, Santa Catarina and Rio Grande do Sul. Central Brazil remains hot and dry, with temperatures above 40 degrees Celsius in parts of the Matopiba region."
+      ]
+    }
+  }
+}

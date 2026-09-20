@@ -1,0 +1,32 @@
+{
+  "id": "brasil-copa-davis-suica",
+  "slug": "brasil-copa-davis-suica",
+  "section": "brasil",
+  "secondarySections": ["esportes"],
+  "publishedAt": "2026-09-19T16:49:00-03:00",
+  "updatedAt": "2026-09-19T16:49:00-03:00",
+  "sources": [
+    {
+      "name": "Agência Brasil",
+      "url": "https://agenciabrasil.ebc.com.br/esportes/noticia/2026-09/brasil-bate-suica-e-avanca-na-copa-davis"
+    }
+  ],
+  "translations": {
+    "pt-BR": {
+      "title": "Brasil vence a Suíça e avança na Copa Davis",
+      "summary": "Dupla Orlando Luz e Rafael Matos fecha o confronto por 3 a 0 e garante o Brasil nos Qualifiers.",
+      "paragraphs": [
+        "Orlando Luz e Rafael Matos venceram Jakub Paul e Dominic Stricker por 2 sets a 0, no Rio de Janeiro, e fizeram o terceiro ponto do Brasil contra a Suíça. As parciais foram 7/6(1) e 6/2, em 1h45 de partida.",
+        "João Fonseca e Gustavo Heide já haviam vencido os jogos de simples na sexta-feira. Com o 3 a 0, o Brasil avançou no Grupo Mundial 1 e garantiu vaga nos Qualifiers, com chance de buscar a fase final em 2027."
+      ]
+    },
+    "en": {
+      "title": "Brazil beat Switzerland to advance in the Davis Cup",
+      "summary": "Orlando Luz and Rafael Matos sealed a 3–0 tie and sent Brazil into the Qualifiers.",
+      "paragraphs": [
+        "Orlando Luz and Rafael Matos beat Switzerland's Jakub Paul and Dominic Stricker in straight sets in Rio de Janeiro, earning Brazil's third point. The score was 7–6(1), 6–2 after 1 hour and 45 minutes.",
+        "João Fonseca and Gustavo Heide had already won the singles matches on Friday. The 3–0 result moves Brazil on from World Group I and secures a place in the Qualifiers, with a chance to reach the 2027 finals stage."
+      ]
+    }
+  }
+}

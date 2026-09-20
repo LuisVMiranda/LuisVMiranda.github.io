@@ -1,0 +1,32 @@
+{
+  "id": "politica-renan-plano-previdencia",
+  "slug": "politica-renan-plano-previdencia",
+  "section": "politica",
+  "secondarySections": [],
+  "publishedAt": "2026-09-19T08:00:00-03:00",
+  "updatedAt": "2026-09-19T08:00:00-03:00",
+  "sources": [
+    {
+      "name": "Agência Brasil",
+      "url": "https://agenciabrasil.ebc.com.br/politica/noticia/2026-09/renan-propoe-cortes-na-previdencia-e-alterar-pisos-da-saude-e-educacao"
+    }
+  ],
+  "translations": {
+    "pt-BR": {
+      "title": "Renan propõe cortes na Previdência e mudanças em pisos sociais",
+      "summary": "Plano do candidato do Missão defende ajuste fiscal e alterações no financiamento de saúde e educação.",
+      "paragraphs": [
+        "O plano de governo de Renan Santos, do Missão, propõe um ajuste fiscal urgente e limita reajustes de benefícios à inflação, sem ganho real.",
+        "O documento também prevê desvincular os pisos constitucionais de saúde e educação da receita corrente líquida e substituir o Bolsa Família por Frentes Cidadãs."
+      ]
+    },
+    "en": {
+      "title": "Renan proposes pension cuts and changes to social spending floors",
+      "summary": "The Missão candidate's platform calls for fiscal adjustment and changes to health and education funding.",
+      "paragraphs": [
+        "Renan Santos's platform, from Missão, proposes an urgent fiscal adjustment and would limit benefit increases to inflation, without real gains.",
+        "The document would also delink constitutional health and education floors from net current revenue and replace Bolsa Família with Frentes Cidadãs."
+      ]
+    }
+  }
+}

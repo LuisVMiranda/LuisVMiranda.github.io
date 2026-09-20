@@ -1,0 +1,32 @@
+{
+  "id": "tecnologia-redata-datacenters",
+  "slug": "tecnologia-redata-datacenters",
+  "section": "tecnologia",
+  "secondarySections": [],
+  "publishedAt": "2026-09-15T16:12:00-03:00",
+  "updatedAt": "2026-09-19T11:04:00-03:00",
+  "sources": [
+    {
+      "name": "Ministério do Desenvolvimento, Indústria, Comércio e Serviços",
+      "url": "https://www.gov.br/mdic/pt-br/assuntos/noticias/2026-periodo-eleitoral/setembro/presidente-sanciona-o-redata-que-estimula-datacenters-e-desenvolvimento-tecnologico-no-brasil"
+    }
+  ],
+  "translations": {
+    "pt-BR": {
+      "title": "Lei do Redata cria incentivos para data centers no Brasil",
+      "summary": "Regime tributário busca atrair infraestrutura digital e exige contrapartidas em pesquisa e capacidade nacional.",
+      "paragraphs": [
+        "O governo federal sancionou em 15 de setembro a lei que cria o Regime Especial de Tributação para Serviços de Datacenter (Redata). O programa prevê incentivos para instalar e ampliar centros de dados, com foco em computação em nuvem, inteligência artificial e indústria 4.0.",
+        "As empresas beneficiadas terão de investir 2% do valor dos equipamentos em projetos de pesquisa, desenvolvimento e inovação e disponibilizar ao mercado brasileiro ao menos 10% da capacidade de processamento, armazenamento e tratamento de dados. A política também exige critérios de eficiência hídrica e energia renovável ou de baixa emissão."
+      ]
+    },
+    "en": {
+      "title": "Brazil's Redata law creates data-center incentives",
+      "summary": "A tax regime seeks digital infrastructure investment while requiring research and domestic-capacity commitments.",
+      "paragraphs": [
+        "Brazil's federal government enacted on September 15 the law creating the Special Tax Regime for Data Center Services, known as Redata. It offers incentives for building and expanding data centers, with a focus on cloud computing, artificial intelligence and Industry 4.0.",
+        "Beneficiary companies must invest 2% of equipment value in research, development and innovation projects and make at least 10% of processing, storage and data-treatment capacity available to the Brazilian market. The policy also requires water-efficiency and renewable or low-emission energy criteria."
+      ]
+    }
+  }
+}

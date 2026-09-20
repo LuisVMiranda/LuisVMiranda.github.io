@@ -1,0 +1,12 @@
+node_modules/
+dist/
+.astro/
+test-results/
+playwright-report/
+coverage/
+.cache/
+.env
+.env.*
+!.env.example
+research/runs/
+artifacts/

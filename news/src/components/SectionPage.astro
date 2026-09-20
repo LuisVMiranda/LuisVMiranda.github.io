@@ -1,0 +1,144 @@
+---
+import type {
+  Article,
+  Edition,
+  Locale,
+  SectionId,
+} from '../modules/content/types';
+import { sectionLabel, sectionStyle } from '../modules/content/sections';
+import { formatDate, localUrl } from '../modules/content/urls';
+import StoryCard from './StoryCard.astro';
+interface Props {
+  locale: Locale;
+  articles: Article[];
+  edition?: Edition | undefined;
+  sectionId: SectionId;
+  kicker: string;
+  intro: string;
+}
+const { locale, articles, edition, sectionId, kicker, intro } = Astro.props;
+const ids = edition?.sections[sectionId].articleIds || [];
+const ordered = ids
+  .map((id) => articles.find((article) => article.id === id))
+  .filter((article): article is Article => Boolean(article));
+const en = locale === 'en';
+---
+
+<div class="section-page" style={sectionStyle(sectionId)}>
+  <header class="section-header">
+    <p class="eyebrow">{kicker}</p>
+    <h1>{sectionLabel(sectionId, locale)}</h1>
+    <p class="intro">{intro}</p>
+    <div class="edition-line">
+      <span>{en ? 'The essential selection' : 'A seleção essencial'}</span>
+      {edition && (
+        <time datetime={edition.cutoff}>
+          {formatDate(edition.cutoff, locale)}
+        </time>
+      )}
+    </div>
+  </header>
+  <div class="section-content">
+    <section aria-labelledby="top-ten-title">
+      <h2 id="top-ten-title">{en ? 'Top 10 stories' : 'Top 10 notícias'}</h2>
+      {ordered.length > 0 ? (
+        <div class="ranked-stories">
+          {ordered.map((article, index) => (
+            <StoryCard article={article} locale={locale} rank={index + 1} />
+          ))}
+        </div>
+      ) : (
+        <p class="empty">
+          {en
+            ? 'This desk is awaiting its first reviewed edition.'
+            : 'Esta editoria aguarda sua primeira edição revisada.'}
+        </p>
+      )}
+      {ordered.length < 10 && (
+        <p class="shortfall">
+          {en
+            ? `${ordered.length} verified stories available. We publish fewer than ten when the available evidence does not support a complete selection.`
+            : `${ordered.length} notícias verificadas disponíveis. Publicamos menos de dez quando as evidências disponíveis não sustentam uma seleção completa.`}
+        </p>
+      )}
+    </section>
+    <aside>
+      <p class="eyebrow">{en ? 'Our commitment' : 'Nosso compromisso'}</p>
+      <h2>{en ? 'Context before noise.' : 'Contexto antes do ruído.'}</h2>
+      <p>
+        {en
+          ? 'Sources are checked individually. Recent reporting comes first, with a seven-day window when needed.'
+          : 'As fontes são verificadas individualmente. Priorizamos as últimas 24 horas, com uma janela de sete dias quando necessário.'}
+      </p>
+      <a href={localUrl('editorial', locale)}>
+        {en ? 'How we select stories' : 'Como selecionamos as notícias'} ↗
+      </a>
+      <a href={localUrl(`arquivo/secao/${sectionId}`, locale)}>
+        {en ? 'Earlier editions' : 'Edições anteriores'} →
+      </a>
+    </aside>
+  </div>
+</div>
+<style>
+  .section-header {
+    border-bottom: 1px solid var(--rule);
+    padding-bottom: 2rem;
+  }
+  h1 {
+    color: var(--section-accent);
+    margin-block: 0.7rem;
+  }
+  .intro {
+    color: var(--muted);
+    max-width: 62ch;
+    font-family: 'Source Serif 4', serif;
+    font-size: 1.2rem;
+  }
+  .edition-line {
+    display: flex;
+    gap: 1rem;
+    justify-content: space-between;
+    flex-wrap: wrap;
+    font-size: 0.75rem;
+    color: var(--muted);
+  }
+  .section-content {
+    display: grid;
+    grid-template-columns: minmax(0, 2fr) minmax(0, 1fr);
+    gap: 3rem;
+    padding-top: 2rem;
+  }
+  h2 {
+    font-size: 1.6rem;
+  }
+  aside {
+    border-left: 1px solid var(--rule);
+    padding-left: 2rem;
+  }
+  aside p {
+    font-size: 0.9rem;
+    color: var(--muted);
+  }
+  aside a {
+    display: block;
+    margin-block: 1.5rem;
+    color: var(--section-accent);
+    font-size: 0.85rem;
+  }
+  .shortfall {
+    font-size: 0.8rem;
+    color: var(--muted);
+    border-top: 1px solid var(--rule);
+    padding-top: 1.5rem;
+  }
+  @media (max-width: 700px) {
+    .section-content {
+      grid-template-columns: 1fr;
+    }
+    aside {
+      border-left: 0;
+      border-top: 1px solid var(--rule);
+      padding: 1.5rem 0 0;
+    }
+  }
+</style>

@@ -1,0 +1,37 @@
+{
+  "id": "ciencia-stanford-organoides-cerebrais",
+  "slug": "ciencia-stanford-organoides-cerebrais",
+  "section": "ciencia",
+  "secondarySections": ["mundo"],
+  "publishedAt": "2026-09-16T00:00:00Z",
+  "publishedDate": "2026-09-16",
+  "updatedAt": "2026-09-16T00:00:00Z",
+  "sources": [
+    {
+      "name": "Stanford Medicine",
+      "url": "https://med.stanford.edu/news/all-news/2026/09/model-to-study-brain-development.html"
+    },
+    {
+      "name": "Nature",
+      "url": "https://www.nature.com/articles/s41586-026-11032-2"
+    }
+  ],
+  "translations": {
+    "pt-BR": {
+      "title": "Organoides cerebrais humanos criam conexões em modelo de camundongo",
+      "summary": "Equipe de Stanford transplantou tecido cerebral cultivado em laboratório para estudar doenças do desenvolvimento.",
+      "paragraphs": [
+        "Pesquisadores de Stanford transplantaram organoides corticais humanos, cultivados em laboratório, para camundongos cuja maior parte do córtex havia sido removida por engenharia genética. O tecido sobreviveu, cresceu e formou conexões com o cérebro do animal e a medula espinhal.",
+        "O estudo publicado na Nature encontrou um tipo de célula nervosa que não havia sido observado em cultura e só era conhecido em autópsias humanas. O modelo pode apoiar pesquisas sobre esquizofrenia, epilepsia, autismo e paralisia cerebral, mas não é tratamento clínico."
+      ]
+    },
+    "en": {
+      "title": "Human brain organoids form connections in a mouse model",
+      "summary": "A Stanford team transplanted lab-grown brain tissue to study developmental disorders.",
+      "paragraphs": [
+        "Stanford researchers transplanted human cortical organoids grown in the laboratory into mice whose cerebral cortex had largely been removed through genetic engineering. The tissue survived, grew and formed connections with the animals' brains and spinal cords.",
+        "The Nature study found a nerve-cell type not previously seen in culture and previously known only from human autopsies. The model may support research into schizophrenia, epilepsy, autism and cerebral palsy, but it is not a clinical treatment."
+      ]
+    }
+  }
+}

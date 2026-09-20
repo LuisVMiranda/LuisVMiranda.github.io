@@ -1,0 +1,32 @@
+{
+  "id": "cultura-gabi-terra-duelo-guitarras",
+  "slug": "cultura-gabi-terra-duelo-guitarras",
+  "section": "cultura",
+  "secondarySections": [],
+  "publishedAt": "2026-09-19T09:05:00-03:00",
+  "updatedAt": "2026-09-19T09:05:00-03:00",
+  "sources": [
+    {
+      "name": "Agência Brasil",
+      "url": "https://agenciabrasil.ebc.com.br/cultura/noticia/2026-09/gabi-terra-e-destaque-do-reality-duelo-de-guitarras-na-tv-brasil"
+    }
+  ],
+  "translations": {
+    "pt-BR": {
+      "title": "Gabi Terra é destaque do reality Duelo de Guitarras",
+      "summary": "Programa da TV Brasil acompanha a guitarrista capixaba em disputas de blues e heavy metal e apresenta seu trabalho autoral.",
+      "paragraphs": [
+        "A TV Brasil exibe neste sábado (19), às 13h30, episódio inédito do reality musical Duelo de Guitarras com a guitarrista capixaba Gabi Terra. A atração acompanha a artista nas disputas de blues e heavy metal e apresenta sua trajetória.",
+        "Terra desenvolve o projeto My Magical Glowing Lens, que mistura psicodelia, rock progressivo e pop lisérgico. O reality tem 16 episódios, reúne seis artistas e avalia as apresentações por técnica, precisão, emoção e criatividade."
+      ]
+    },
+    "en": {
+      "title": "Gabi Terra featured on the Duelo de Guitarras reality show",
+      "summary": "The TV Brasil program follows the Espírito Santo guitarist in blues and heavy-metal contests and presents her original work.",
+      "paragraphs": [
+        "TV Brasil airs an inédit episode of the music reality show Duelo de Guitarras this Saturday at 1:30 p.m. featuring Espírito Santo guitarist Gabi Terra. The program follows her in blues and heavy-metal contests and presents her career.",
+        "Terra leads the My Magical Glowing Lens project, which blends psychedelia, progressive rock and psychedelic pop. The reality show has 16 episodes, brings together six artists and evaluates performances for technique, precision, emotion and creativity."
+      ]
+    }
+  }
+}

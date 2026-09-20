@@ -1,0 +1,33 @@
+{
+  "id": "tecnologia-anthropic-accenture-avaliacao",
+  "slug": "tecnologia-anthropic-accenture-avaliacao",
+  "section": "tecnologia",
+  "secondarySections": [],
+  "publishedAt": "2026-09-18T00:00:00Z",
+  "publishedDate": "2026-09-18",
+  "updatedAt": "2026-09-18T00:00:00Z",
+  "sources": [
+    {
+      "name": "Anthropic",
+      "url": "https://www.anthropic.com/news/accenture-embedded-evaluation"
+    }
+  ],
+  "translations": {
+    "pt-BR": {
+      "title": "Anthropic e Accenture anunciam avaliação independente de IA",
+      "summary": "Parceria prevê avaliadores incorporados, testes de segurança e investimento de cada empresa em cinco anos.",
+      "paragraphs": [
+        "A Anthropic anunciou parceria com a Accenture, liderada pela Faculty, para avaliar modelos de fronteira de forma independente. O trabalho inclui red-teaming, análises de alinhamento e testes das salvaguardas dos sistemas.",
+        "As empresas afirmam esperar investir pelo menos US$ 1 bilhão cada na capacidade de avaliação ao longo de cinco anos. Os avaliadores deverão trabalhar dentro das empresas com acesso comparável ao de funcionários, enquanto os detalhes operacionais ainda estão sendo definidos."
+      ]
+    },
+    "en": {
+      "title": "Anthropic and Accenture announce independent AI evaluation",
+      "summary": "The partnership plans embedded evaluators, safety tests and investment by each company over five years.",
+      "paragraphs": [
+        "Anthropic announced a partnership with Accenture, led by its specialist AI business Faculty, to independently evaluate frontier models. The work includes red-teaming, alignment assessments and tests of system safeguards.",
+        "The companies say each expects to invest at least $1 billion in evaluation capacity over five years. Evaluators are expected to work inside the companies with employee-like access, while operational details are still being worked out."
+      ]
+    }
+  }
+}

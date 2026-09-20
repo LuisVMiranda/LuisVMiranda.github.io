@@ -1,0 +1,32 @@
+{
+  "id": "cultura-leci-brandao-grammy",
+  "slug": "cultura-leci-brandao-grammy",
+  "section": "cultura",
+  "secondarySections": [],
+  "publishedAt": "2026-09-17T15:06:00-03:00",
+  "updatedAt": "2026-09-17T15:06:00-03:00",
+  "sources": [
+    {
+      "name": "Agência Brasil",
+      "url": "https://agenciabrasil.ebc.com.br/cultura/noticia/2026-09/aos-82-anos-leci-brandao-e-indicada-ao-grammy-latino"
+    }
+  ],
+  "translations": {
+    "pt-BR": {
+      "title": "Leci Brandão é indicada ao Grammy Latino aos 82 anos",
+      "summary": "Álbum de 50 anos de carreira concorre na categoria Melhor Álbum de Samba/Pagode.",
+      "paragraphs": [
+        "A sambista e ativista política Leci Brandão foi indicada ao Grammy Latino 2026 pelo álbum Leci Brandão – 50 Anos de Carreira. O disco concorre na categoria Melhor Álbum de Samba/Pagode e marca o retorno da artista à produção após um intervalo desde 2013.",
+        "O trabalho reúne composições originais e novas interpretações de clássicos do samba, com canções de nomes como Jorge Jargão, Grupo Revelação, Elis Regina e Grupo Fundo de Quintal. A trajetória de Brandão inclui referências ao Candomblé e à cultura afro-brasileira."
+      ]
+    },
+    "en": {
+      "title": "Leci Brandão receives Latin Grammy nomination at 82",
+      "summary": "Her 50-year career album is competing in the Best Samba/Pagode Album category.",
+      "paragraphs": [
+        "Samba singer and political activist Leci Brandão was nominated for the 2026 Latin Grammy for the album Leci Brandão – 50 Anos de Carreira. The record is competing for Best Samba/Pagode Album and marks her return to recording after a break since 2013.",
+        "The work combines original compositions with new interpretations of samba classics, including songs by Jorge Jargão, Grupo Revelação, Elis Regina and Grupo Fundo de Quintal. Brandão's career includes references to Candomblé and Afro-Brazilian culture."
+      ]
+    }
+  }
+}

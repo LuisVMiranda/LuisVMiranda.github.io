@@ -1,0 +1,33 @@
+---
+import type { Article, Edition, Locale } from '../../modules/content/types';
+import SectionPage from '../../components/SectionPage.astro';
+
+interface Props {
+  locale: Locale;
+  articles: Article[];
+  edition?: Edition;
+}
+
+const { locale, articles, edition } = Astro.props;
+const copy =
+  locale === 'pt-BR'
+    ? {
+        kicker: 'Esporte em movimento',
+        intro:
+          'Resultados, competições e histórias que ajudam a ler o esporte brasileiro — com contexto para além do placar.',
+      }
+    : {
+        kicker: 'Sport in motion',
+        intro:
+          'Results, competitions and stories that help make sense of Brazilian sport — with context beyond the score.',
+      };
+---
+
+<SectionPage
+  locale={locale}
+  articles={articles}
+  edition={edition}
+  sectionId="esportes"
+  kicker={copy.kicker}
+  intro={copy.intro}
+/>

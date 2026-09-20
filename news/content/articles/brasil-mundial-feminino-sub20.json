@@ -1,0 +1,32 @@
+{
+  "id": "brasil-mundial-feminino-sub20",
+  "slug": "brasil-mundial-feminino-sub20",
+  "section": "brasil",
+  "secondarySections": ["esportes"],
+  "publishedAt": "2026-09-19T16:17:00-03:00",
+  "updatedAt": "2026-09-19T16:17:00-03:00",
+  "sources": [
+    {
+      "name": "Agência Brasil",
+      "url": "https://agenciabrasil.ebc.com.br/esportes/noticia/2026-09/brasil-e-eliminado-pela-espanha-nas-quartas-da-copa-feminina-sub-20"
+    }
+  ],
+  "translations": {
+    "pt-BR": {
+      "title": "Brasil cai para a Espanha nas quartas do Mundial feminino sub-20",
+      "summary": "Seleção perde por 1 a 0 na Polônia e encerra a campanha nas quartas de final.",
+      "paragraphs": [
+        "A seleção brasileira feminina sub-20 perdeu para a Espanha por 1 a 0 neste sábado, na Arena Sosnowiec, na Polônia, e foi eliminada nas quartas de final da Copa do Mundo. Pau Comendador marcou de cabeça aos 26 minutos do primeiro tempo.",
+        "O Brasil havia vencido os três jogos da primeira fase e avançado nas oitavas após disputa de pênaltis contra os Estados Unidos. A Espanha, atual campeã, enfrenta a Itália na semifinal; a seleção brasileira ainda busca seu primeiro título mundial na categoria."
+      ]
+    },
+    "en": {
+      "title": "Brazil fall to Spain in the Under-20 Women's World Cup quarterfinals",
+      "summary": "The national team lost 1–0 in Poland and ended its campaign in the last eight.",
+      "paragraphs": [
+        "Brazil's Under-20 women's team lost 1–0 to Spain at Arena Sosnowiec in Poland on Saturday and exited the World Cup in the quarterfinals. Pau Comendador headed in the European side's goal in the 26th minute.",
+        "Brazil had won all three group matches and reached the quarterfinals after a penalty shootout against the United States. Spain, the defending champion, will meet Italy in the semifinal; Brazil is still seeking its first title in the age group."
+      ]
+    }
+  }
+}

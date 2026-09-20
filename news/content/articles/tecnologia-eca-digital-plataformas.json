@@ -1,0 +1,32 @@
+{
+  "id": "tecnologia-eca-digital-plataformas",
+  "slug": "tecnologia-eca-digital-plataformas",
+  "section": "tecnologia",
+  "secondarySections": [],
+  "publishedAt": "2026-09-18T11:57:00-03:00",
+  "updatedAt": "2026-09-18T14:54:00-03:00",
+  "sources": [
+    {
+      "name": "Ministério da Justiça e Segurança Pública",
+      "url": "https://www.gov.br/mj/pt-br/assuntos/noticias-1/eca-digital-completa-um-ano-e-mjsp-consolida-acoes-de-enfrentamento-a-violencia-contra-criancas-e-adolescentes-na-internet"
+    }
+  ],
+  "translations": {
+    "pt-BR": {
+      "title": "ECA Digital completa um ano com novas regras para plataformas",
+      "summary": "MJSP destaca transparência, ANPD e proteção contra violência no ambiente digital.",
+      "paragraphs": [
+        "O Estatuto Digital da Criança e do Adolescente completou um ano da sanção em 17 de setembro de 2026, enquanto suas regras regulamentadas chegaram a seis meses de vigência. Os decretos publicados em março detalharam prevenção, aferição de idade e supervisão parental para serviços digitais.",
+        "O prazo para plataformas com mais de 1 milhão de usuários crianças e adolescentes publicarem o primeiro relatório semestral de transparência terminou junto do aniversário. O ministério também destacou a criminalização de deepfakes e montagens gerados por IA que simulem violência sexual contra menores."
+      ]
+    },
+    "en": {
+      "title": "Brazil's Digital ECA turns one with new platform rules",
+      "summary": "The Justice Ministry highlights transparency, the data regulator and protection from online abuse.",
+      "paragraphs": [
+        "Brazil's Digital Statute for Children and Adolescents marked one year since its enactment on September 17, 2026, while its implementing rules reached six months in force. Decrees published in March detailed prevention, age assessment and parental supervision for digital services.",
+        "The deadline for platforms with more than 1 million child and adolescent users to publish their first semiannual transparency report ended alongside the anniversary. The ministry also highlighted criminal penalties for AI-generated deepfakes and montages simulating sexual violence against minors."
+      ]
+    }
+  }
+}

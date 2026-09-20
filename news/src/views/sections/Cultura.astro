@@ -1,0 +1,33 @@
+---
+import type { Article, Edition, Locale } from '../../modules/content/types';
+import SectionPage from '../../components/SectionPage.astro';
+
+interface Props {
+  locale: Locale;
+  articles: Article[];
+  edition?: Edition;
+}
+
+const { locale, articles, edition } = Astro.props;
+const copy =
+  locale === 'pt-BR'
+    ? {
+        kicker: 'Cultura em contexto',
+        intro:
+          'As obras, vozes, instituições e políticas que ajudam a ler a vida cultural brasileira — com contexto além da agenda.',
+      }
+    : {
+        kicker: 'Culture in context',
+        intro:
+          'The works, voices, institutions and policies that help read Brazil’s cultural life — with context beyond the listings.',
+      };
+---
+
+<SectionPage
+  locale={locale}
+  articles={articles}
+  edition={edition}
+  sectionId="cultura"
+  kicker={copy.kicker}
+  intro={copy.intro}
+/>

@@ -1,0 +1,338 @@
+<!doctype html>
+<html lang="pt-BR" data-locale="pt-BR">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <meta name="robots" content="noindex" />
+    <title>Página não encontrada — Notícias</title>
+    <script>
+      const getLocale = () => {
+        const path = location.pathname;
+        const english = path.startsWith('/news/en/');
+        const base = english ? '/news/en/' : '/news/';
+        return {
+          english,
+          locale: english ? 'en' : 'pt-BR',
+          base,
+          alternateBase: english ? '/news/' : '/news/en/',
+          currentPath: path.startsWith(base) ? path.slice(base.length) : '',
+        };
+      };
+
+      const getSystemTheme = () =>
+        matchMedia('(prefers-color-scheme: dark)').matches ? 'dark' : 'light';
+
+      const getSavedTheme = () => {
+        try {
+          const preferences = JSON.parse(
+            localStorage.getItem('noticias.preferences.v1') || '{}',
+          );
+          return preferences.theme === 'light' || preferences.theme === 'dark'
+            ? preferences.theme
+            : '';
+        } catch {
+          return '';
+        }
+      };
+
+      const applyTheme = (root) => {
+        root.dataset.theme = getSavedTheme() || getSystemTheme();
+      };
+
+      const applyLocale = (root, route) => {
+        root.lang = route.locale;
+        root.dataset.locale = route.locale;
+        document.title = route.english
+          ? 'Page not found — Notícias'
+          : 'Página não encontrada — Notícias';
+      };
+
+      const setNavigationLink = (selector, href) => {
+        const link = document.querySelector(selector);
+        if (link) link.setAttribute('href', href);
+      };
+
+      const setLanguageLink = (route) => {
+        const language = document.querySelector('[data-language]');
+        if (!language) return;
+        const alternateLocale = route.english ? 'pt-BR' : 'en';
+        const label = route.english ? 'Ler em português' : 'Read in English';
+        language.setAttribute(
+          'href',
+          `${route.alternateBase}${route.currentPath || '404/'}`,
+        );
+        language.setAttribute('lang', alternateLocale);
+        language.setAttribute('hreflang', alternateLocale);
+        language.setAttribute('aria-label', label);
+      };
+
+      const setNavigationLabel = (route) => {
+        const navigation = document.querySelector('[data-navigation]');
+        if (navigation) {
+          navigation.setAttribute(
+            'aria-label',
+            route.english ? 'Recovery navigation' : 'Navegação de recuperação',
+          );
+        }
+      };
+
+      const updateNavigation = (route) => {
+        setNavigationLink('[data-home]', route.base);
+        setNavigationLink('[data-search]', `${route.base}busca/`);
+        setLanguageLink(route);
+        setNavigationLabel(route);
+      };
+
+      const onDocumentReady = (callback) => {
+        if (document.readyState === 'loading') {
+          document.addEventListener('DOMContentLoaded', callback, {
+            once: true,
+          });
+          return;
+        }
+        callback();
+      };
+
+      const initialize = () => {
+        const root = document.documentElement;
+        const route = getLocale();
+        applyLocale(root, route);
+        applyTheme(root);
+        onDocumentReady(() => updateNavigation(route));
+      };
+
+      initialize();
+    </script>
+    <style>
+      :root {
+        color-scheme: light;
+        --paper: #faf9f5;
+        --surface: #f0f0e9;
+        --ink: #18242b;
+        --muted: #536168;
+        --rule: #d2d8d4;
+        --section-accent: #166534;
+        font-family: Inter, system-ui, sans-serif;
+        color: var(--ink);
+        background: var(--paper);
+      }
+
+      :root[data-theme='dark'] {
+        color-scheme: dark;
+        --paper: #161b21;
+        --surface: #232c32;
+        --ink: #edf0f0;
+        --muted: #bac4c9;
+        --rule: #455158;
+        --section-accent: #86efac;
+      }
+
+      @media (prefers-color-scheme: dark) {
+        :root:not([data-theme='light']) {
+          color-scheme: dark;
+          --paper: #161b21;
+          --surface: #232c32;
+          --ink: #edf0f0;
+          --muted: #bac4c9;
+          --rule: #455158;
+          --section-accent: #86efac;
+        }
+      }
+
+      * {
+        box-sizing: border-box;
+      }
+
+      span[data-locale] {
+        display: none;
+      }
+
+      html[data-locale='pt-BR'] [data-locale='pt-BR'],
+      html[data-locale='en'] [data-locale='en'] {
+        display: inline;
+      }
+
+      body {
+        background: var(--paper);
+        color: var(--ink);
+        line-height: 1.6;
+        margin: 0;
+        min-width: 320px;
+      }
+
+      .error-page {
+        margin: 0 auto;
+        max-width: 58rem;
+        min-height: 100vh;
+        padding: clamp(3rem, 9vw, 7rem) clamp(1rem, 5vw, 4rem)
+          clamp(4rem, 10vw, 7rem);
+      }
+
+      .error-page__content {
+        background: var(--surface);
+        border-top: 2px solid var(--section-accent);
+        max-width: 48rem;
+        padding: clamp(1.25rem, 3vw, 2rem) clamp(1.25rem, 4vw, 3rem)
+          clamp(1.75rem, 4vw, 3rem);
+      }
+
+      .error-page__eyebrow {
+        color: var(--section-accent);
+        font-size: 0.72rem;
+        font-weight: 700;
+        letter-spacing: 0.13em;
+        margin: 0 0 1.5rem;
+        text-transform: uppercase;
+      }
+
+      h1 {
+        color: var(--ink);
+        font-family: 'Source Serif 4', Georgia, serif;
+        font-size: clamp(2.7rem, 7vw, 5.25rem);
+        font-weight: 600;
+        letter-spacing: -0.055em;
+        line-height: 0.98;
+        margin: 0 0 1.5rem;
+        max-width: 12ch;
+      }
+
+      .error-page__description {
+        color: var(--muted);
+        font-family: 'Source Serif 4', Georgia, serif;
+        font-size: clamp(1.15rem, 2.4vw, 1.5rem);
+        line-height: 1.4;
+        margin: 0;
+        max-width: 42ch;
+      }
+
+      .error-page__actions {
+        align-items: center;
+        border-top: 1px solid var(--rule);
+        display: flex;
+        flex-wrap: wrap;
+        gap: 0.75rem 1rem;
+        margin: clamp(2rem, 5vw, 3rem) 0 0;
+        padding-top: 1.25rem;
+      }
+
+      .error-page__action {
+        align-items: center;
+        border: 1px solid var(--rule);
+        color: var(--ink);
+        display: inline-flex;
+        font-size: 0.8rem;
+        font-weight: 600;
+        gap: 0.55rem;
+        justify-content: center;
+        min-height: 2.9rem;
+        padding: 0.65rem 0.9rem;
+        text-decoration: none;
+        text-underline-offset: 0.2em;
+      }
+
+      .error-page__action:hover,
+      .error-page__action:focus-visible {
+        border-color: var(--section-accent);
+        color: var(--section-accent);
+        text-decoration: underline;
+      }
+
+      .error-page__action--primary {
+        background: var(--ink);
+        border-color: var(--ink);
+        color: var(--paper);
+      }
+
+      .error-page__action--primary:hover,
+      .error-page__action--primary:focus-visible {
+        background: var(--section-accent);
+        border-color: var(--section-accent);
+        color: var(--paper);
+      }
+
+      @media (max-width: 30rem) {
+        .error-page {
+          padding-inline: 1rem;
+        }
+
+        .error-page__actions {
+          align-items: stretch;
+          flex-direction: column;
+        }
+
+        .error-page__action {
+          width: 100%;
+        }
+      }
+
+      @media (prefers-reduced-motion: reduce) {
+        *,
+        *::before,
+        *::after {
+          scroll-behavior: auto;
+        }
+      }
+    </style>
+  </head>
+  <body>
+    <main class="error-page" aria-labelledby="error-page-title">
+      <div class="error-page__content">
+        <p class="error-page__eyebrow">
+          <span data-locale="pt-BR">Erro 404</span>
+          <span data-locale="en">Error 404</span>
+        </p>
+        <h1 id="error-page-title">
+          <span data-locale="pt-BR">Esta página não foi encontrada.</span>
+          <span data-locale="en">This page could not be found.</span>
+        </h1>
+        <p class="error-page__description">
+          <span data-locale="pt-BR">
+            O endereço pode ter mudado. Continue pela capa ou encontre uma
+            notícia na busca.
+          </span>
+          <span data-locale="en">
+            The address may have changed. Continue from the front page or search
+            our coverage.
+          </span>
+        </p>
+
+        <nav
+          class="error-page__actions"
+          data-navigation
+          aria-label="Navegação de recuperação"
+        >
+          <a
+            class="error-page__action error-page__action--primary"
+            data-home
+            href="/news/"
+          >
+            <span data-locale="pt-BR">Capa</span>
+            <span data-locale="en">Front page</span>
+            <span aria-hidden="true">↗</span>
+          </a>
+          <a class="error-page__action" data-search href="/news/busca/">
+            <span data-locale="pt-BR">Buscar notícias</span>
+            <span data-locale="en">Search news</span>
+            <span aria-hidden="true">↗</span>
+          </a>
+          <a class="error-page__action" href="/">
+            <span data-locale="pt-BR">Portfólio</span>
+            <span data-locale="en">Portfolio</span>
+            <span aria-hidden="true">↗</span>
+          </a>
+          <a
+            class="error-page__action"
+            data-language
+            href="/news/en/404/"
+            lang="en"
+            hreflang="en"
+            aria-label="Read in English"
+          >
+            <span data-locale="pt-BR">English</span>
+            <span data-locale="en">Português</span>
+          </a>
+        </nav>
+      </div>
+    </main>
+  </body>
+</html>

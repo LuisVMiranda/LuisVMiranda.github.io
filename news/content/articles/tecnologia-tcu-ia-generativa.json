@@ -1,0 +1,32 @@
+{
+  "id": "tecnologia-tcu-ia-generativa",
+  "slug": "tecnologia-tcu-ia-generativa",
+  "section": "tecnologia",
+  "secondarySections": [],
+  "publishedAt": "2026-09-18T00:00:00-03:00",
+  "updatedAt": "2026-09-18T00:00:00-03:00",
+  "sources": [
+    {
+      "name": "Tribunal de Contas da União",
+      "url": "https://portal.tcu.gov.br/imprensa/noticias/pesquisa-traca-diagnostico-sobre-maturidade-da-ia-generativa-no-tcu"
+    }
+  ],
+  "translations": {
+    "pt-BR": {
+      "title": "Pesquisa do TCU mostra uso amplo de IA generativa",
+      "summary": "Levantamento com 1.122 servidores aponta adoção frequente e revisão humana de resultados no tribunal.",
+      "paragraphs": [
+        "Pesquisa interna respondida por 1.122 servidores e colaboradores do TCU indica que 88,1% já usam ferramentas de inteligência artificial, enquanto 45,1% fazem isso diariamente. Entre os usuários, 64,5% relatam reduzir em mais de 30% o tempo de tarefas rotineiras.",
+        "O ChatTCU é usado por 76,6% dos servidores que recorrem à IA, e 77,8% dizem revisar integralmente o material produzido antes de incorporá-lo a documentos oficiais. O tribunal afirma que usará os dados para orientar governança, segurança, capacitação e novas soluções."
+      ]
+    },
+    "en": {
+      "title": "TCU survey shows broad use of generative AI",
+      "summary": "A survey of 1,122 workers points to frequent adoption and human review of results at Brazil's audit court.",
+      "paragraphs": [
+        "An internal survey answered by 1,122 TCU workers and collaborators found that 88.1% already use artificial-intelligence tools, while 45.1% do so every day. Among users, 64.5% report cutting the time spent on routine tasks by more than 30%.",
+        "ChatTCU is used by 76.6% of the court's AI users, and 77.8% say they fully review generated material before putting it into official documents. The court says it will use the data to guide governance, security, training and new solutions."
+      ]
+    }
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "id": "esportes-flavia-saraiva-assimetricas",
+  "slug": "esportes-flavia-saraiva-assimetricas",
+  "section": "esportes",
+  "secondarySections": [],
+  "publishedAt": "2026-09-19T14:54:00-03:00",
+  "updatedAt": "2026-09-19T14:54:00-03:00",
+  "sources": [
+    {
+      "name": "Agência Brasil",
+      "url": "https://agenciabrasil.ebc.com.br/esportes/noticia/2026-09/flavia-saraiva-e-ouro-nas-assimetricas-da-copa-do-mundo-de-ginastica"
+    }
+  ],
+  "translations": {
+    "pt-BR": {
+      "title": "Flávia Saraiva conquista ouro nas barras assimétricas",
+      "summary": "Brasileira soma 13,366 na etapa húngara da Copa do Mundo de ginástica.",
+      "paragraphs": [
+        "Flávia Saraiva foi campeã nas barras assimétricas na etapa da Hungria da Copa do Mundo de ginástica. A brasileira somou 13,366 pontos na apresentação deste sábado (19), enquanto Lorrane Oliveira terminou em quarto, a 0,067 do pódio.",
+        "A norte-americana Tatum Drusch ficou com a prata e a eslovaca Barbora Kundraft levou o bronze. A etapa húngara é a penúltima do circuito na temporada; Paris encerra a série na próxima semana, antes do Mundial de Roterdã, de 17 a 25 de outubro."
+      ]
+    },
+    "en": {
+      "title": "Flávia Saraiva wins uneven-bars gold",
+      "summary": "The Brazilian scored 13.366 at the gymnastics World Cup stop in Hungary.",
+      "paragraphs": [
+        "Flávia Saraiva won the uneven-bars final at the gymnastics World Cup stop in Hungary. The Brazilian scored 13.366 in Saturday's (September 19) routine, while fellow Brazilian Lorrane Oliveira finished fourth, just 0.067 points from the podium.",
+        "American Tatum Drusch took silver and Slovakia's Barbora Kundraft won bronze. Hungary is the penultimate stop on the season's challenge and World Cup circuit; Paris closes the series next week before the World Championships in Rotterdam from October 17 to 25."
+      ]
+    }
+  }
+}

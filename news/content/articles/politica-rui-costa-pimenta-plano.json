@@ -1,0 +1,32 @@
+{
+  "id": "politica-rui-costa-pimenta-plano",
+  "slug": "politica-rui-costa-pimenta-plano",
+  "section": "politica",
+  "secondarySections": [],
+  "publishedAt": "2026-09-19T08:30:00-03:00",
+  "updatedAt": "2026-09-19T08:30:00-03:00",
+  "sources": [
+    {
+      "name": "Agência Brasil",
+      "url": "https://agenciabrasil.ebc.com.br/politica/noticia/2026-09/rui-costa-pimenta-quer-ampliar-direitos-trabalhistas-e-verbas-da-saude"
+    }
+  ],
+  "translations": {
+    "pt-BR": {
+      "title": "Rui Costa Pimenta propõe ampliar direitos trabalhistas e verbas da saúde",
+      "summary": "Plano do candidato do PCO reúne propostas para trabalho, saúde, reforma agrária e habitação.",
+      "paragraphs": [
+        "O plano de governo de Rui Costa Pimenta, candidato do PCO, está organizado em 15 temas e prevê ampliar recursos para a saúde pública.",
+        "O documento também propõe cancelar a reforma trabalhista, revogar reformas previdenciárias e contratar profissionais por meio do Mais Médicos."
+      ]
+    },
+    "en": {
+      "title": "Rui Costa Pimenta proposes broader labor rights and health funding",
+      "summary": "The PCO candidate's platform covers work, health, agrarian reform and housing.",
+      "paragraphs": [
+        "Rui Costa Pimenta's platform, from the PCO, is organized around 15 themes and proposes more funding for public health.",
+        "The document also proposes canceling the labor reform, repealing pension reforms and hiring professionals through the Mais Médicos program."
+      ]
+    }
+  }
+}

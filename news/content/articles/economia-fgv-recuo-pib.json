@@ -1,0 +1,32 @@
+{
+  "id": "economia-fgv-recuo-pib",
+  "slug": "economia-fgv-recuo-pib",
+  "section": "economia",
+  "secondarySections": [],
+  "publishedAt": "2026-09-17T17:05:00-03:00",
+  "updatedAt": "2026-09-17T17:05:00-03:00",
+  "sources": [
+    {
+      "name": "Agência Brasil",
+      "url": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-09/economia-recua-04-na-passagem-de-junho-para-julho-estima-fgv"
+    }
+  ],
+  "translations": {
+    "pt-BR": {
+      "title": "Economia recua 0,4% entre junho e julho, estima FGV",
+      "summary": "Monitor do PIB aponta segundo mês consecutivo de queda, apesar de alta de 1,8% em 12 meses.",
+      "paragraphs": [
+        "A economia brasileira recuou 0,4% na passagem de junho para julho, segundo o Monitor do PIB do Ibre-FGV. Julho foi o segundo mês seguido de variação negativa, após queda de 1% em junho.",
+        "Na comparação com julho de 2025, houve alta de 1,3%; em 12 meses, avanço de 1,8%. A pesquisa citou retração da agropecuária e estagnação da indústria e dos serviços, além de juros altos, endividamento das famílias, tarifas americanas e petróleo caro."
+      ]
+    },
+    "en": {
+      "title": "Brazil's economy shrank 0.4% from June to July, FGV estimates",
+      "summary": "The GDP Monitor records a second consecutive monthly decline despite 1.8% growth over 12 months.",
+      "paragraphs": [
+        "Brazil's economy shrank 0.4% from June to July, according to the GDP Monitor from Ibre-FGV. July was the second straight month of negative variation, after a 1% drop in June.",
+        "Compared with July 2025, output rose 1.3%; over 12 months, it increased 1.8%. The study cited a contraction in agriculture and stagnation in industry and services, alongside high interest rates, household debt, US tariffs and expensive oil."
+      ]
+    }
+  }
+}

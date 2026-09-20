@@ -1,0 +1,32 @@
+{
+  "id": "brasil-pf-medicamentos-rio",
+  "slug": "brasil-pf-medicamentos-rio",
+  "section": "brasil",
+  "secondarySections": [],
+  "publishedAt": "2026-09-19T14:53:00-03:00",
+  "updatedAt": "2026-09-19T14:53:00-03:00",
+  "sources": [
+    {
+      "name": "Polícia Federal",
+      "url": "https://www.gov.br/pf/pt-br/assuntos/noticias/2026/09/pf-prende-italiano-em-flagrante-por-transporte-irregular-de-medicamentos-no-rio-de-janeiro"
+    }
+  ],
+  "translations": {
+    "pt-BR": {
+      "title": "Polícia Federal prende italiano com 52 frascos de medicamento no Rio",
+      "summary": "Passageiro vindo de Londres foi detido por transportar produto sem a documentação exigida para importação.",
+      "paragraphs": [
+        "A Polícia Federal prendeu em flagrante, no Aeroporto Internacional do Rio de Janeiro, um cidadão italiano residente no Brasil. Segundo a corporação, ele desembarcou de Londres com 52 frascos de medicamento vasodilatador sem a autorização sanitária exigida.",
+        "O passageiro foi levado à delegacia para a formalização do flagrante e encaminhado ao sistema prisional do estado. A PF informou que ele poderá responder por tráfico internacional de drogas e contrabando, à disposição da Justiça."
+      ]
+    },
+    "en": {
+      "title": "Brazil's Federal Police arrest Italian man with 52 medicine bottles in Rio",
+      "summary": "A passenger arriving from London was detained for carrying a product without the import documents required by law.",
+      "paragraphs": [
+        "Brazil's Federal Police arrested an Italian man who lives in Brazil at Rio de Janeiro International Airport. The agency said he had arrived from London with 52 bottles of a vasodilator medicine without the required health authorization.",
+        "The passenger was taken to a police station for the arrest proceedings and sent to the state prison system. The Federal Police said he may face charges of international drug trafficking and smuggling while awaiting court proceedings."
+      ]
+    }
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "id": "ciencia-nasa-cratera-lunar",
+  "slug": "ciencia-nasa-cratera-lunar",
+  "section": "ciencia",
+  "secondarySections": ["mundo"],
+  "publishedAt": "2026-09-16T00:00:00Z",
+  "publishedDate": "2026-09-16",
+  "updatedAt": "2026-09-16T00:00:00Z",
+  "sources": [
+    {
+      "name": "NASA Science",
+      "url": "https://science.nasa.gov/solar-system/moon/nasas-moon-orbiter-spots-new-once-in-century-moon-crater/"
+    }
+  ],
+  "translations": {
+    "pt-BR": {
+      "title": "Sonda lunar identifica cratera formada em impacto raro",
+      "summary": "Imagens do Lunar Reconnaissance Orbiter revelaram a cratera McGetchin, aberta entre abril e maio de 2024.",
+      "paragraphs": [
+        "A NASA informou que o Lunar Reconnaissance Orbiter identificou a cratera McGetchin em imagens comparativas da superfície lunar. O impacto ocorreu entre 11 de abril e 22 de maio de 2024, quando um fragmento do tamanho aproximado de um prédio de três a seis andares atingiu a Lua.",
+        "A cratera mede cerca de 222 metros de largura e 43 metros de profundidade, e impactos dessa escala são estimados em cerca de uma vez por século ou mais. O instrumento Diviner também encontrou uma área fria de aproximadamente 6,4 quilômetros ao redor do local, resultado do regolito mais solto."
+      ]
+    },
+    "en": {
+      "title": "Lunar orbiter identifies a crater from a rare impact",
+      "summary": "Images from the Lunar Reconnaissance Orbiter revealed McGetchin crater, formed between April and May 2024.",
+      "paragraphs": [
+        "NASA said its Lunar Reconnaissance Orbiter identified McGetchin crater by comparing images of the lunar surface. The impact occurred between April 11 and May 22, 2024, when a fragment roughly the size of a three- to six-story building struck the Moon.",
+        "The crater is about 222 meters wide and 43 meters deep, and impacts of this scale are estimated to happen roughly once a century or less often. The Diviner instrument also found a roughly 6.4-kilometer cold area around the site, caused by looser regolith."
+      ]
+    }
+  }
+}

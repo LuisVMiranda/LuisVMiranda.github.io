@@ -1,0 +1,32 @@
+{
+  "id": "tecnologia-hackathon-sus-oncologia",
+  "slug": "tecnologia-hackathon-sus-oncologia",
+  "section": "tecnologia",
+  "secondarySections": [],
+  "publishedAt": "2026-09-14T11:02:00-03:00",
+  "updatedAt": "2026-09-14T11:02:00-03:00",
+  "sources": [
+    {
+      "name": "Ministério da Saúde",
+      "url": "https://www.gov.br/saude/pt-br/assuntos/noticias-ms/2026/setembro/ministerio-da-saude-realiza-etapa-nordeste-do-hackathon-sus-e-seleciona-startups-para-desafio-nacional-em-oncologia"
+    }
+  ],
+  "translations": {
+    "pt-BR": {
+      "title": "Hackathon SUS seleciona startups nordestinas para oncologia",
+      "summary": "Três equipes apresentaram tecnologias para triagem, diagnóstico e apoio a cirurgias no SUS.",
+      "paragraphs": [
+        "A etapa Nordeste do Hackathon SUS ocorreu em Recife nos dias 10 e 11 de setembro, sob coordenação da Secretaria de Ciência, Tecnologia e Inovação em Saúde. Três startups foram selecionadas para a fase nacional do desafio tecnológico em oncologia.",
+        "As propostas incluem uma câmera microscópica para triagem de anemia e neutropenia, um teste molecular que identifica 14 subtipos de HPV e um dispositivo sem fio de imagens de fluorescência para apoiar exames e cirurgias."
+      ]
+    },
+    "en": {
+      "title": "Brazil's SUS hackathon selects Northeast oncology startups",
+      "summary": "Three teams presented technologies for screening, diagnosis and surgical support in the public system.",
+      "paragraphs": [
+        "The Northeast stage of Brazil's SUS Hackathon took place in Recife on September 10 and 11 under the Health Science, Technology and Innovation Secretariat. Three startups were selected for the national stage of the oncology technology challenge.",
+        "Their proposals include a microscopic camera for anemia and neutropenia screening, a molecular test that identifies 14 HPV subtypes, and a wireless fluorescence-imaging device to support examinations and surgery."
+      ]
+    }
+  }
+}

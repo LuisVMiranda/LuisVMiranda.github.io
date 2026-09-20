@@ -1,0 +1,32 @@
+{
+  "id": "mundo-paquistao-mesquita",
+  "slug": "mundo-paquistao-mesquita",
+  "section": "mundo",
+  "secondarySections": [],
+  "publishedAt": "2026-09-19T06:43:00Z",
+  "updatedAt": "2026-09-19T06:43:00Z",
+  "sources": [
+    {
+      "name": "AP News",
+      "url": "https://apnews.com/article/pakistan-police-mosque-bombing-militant-attack-northwest-b63e9cf30e8b871616b7d0f94cbaff6d"
+    }
+  ],
+  "translations": {
+    "pt-BR": {
+      "title": "Ataque a mesquita no Paquistão deixa 21 mortos e 103 feridos",
+      "summary": "Homem-bomba atingiu mesquita junto a complexo policial; confronto com militantes terminou após 20 horas.",
+      "paragraphs": [
+        "Um homem-bomba lançou um veículo carregado de explosivos contra uma mesquita próxima a um complexo policial em Kohat, no noroeste do Paquistão. Homens armados invadiram o local, e 21 pessoas morreram e 103 ficaram feridas, segundo autoridades.",
+        "As forças paquistanesas encerraram o cerco após cerca de 20 horas e localizaram os corpos de oito atacantes, de acordo com a polícia local. O Ministério da Informação atribuiu o ataque a militantes com raízes no Afeganistão e acusou o Talibã afegão de abrigar grupos que atacam o Paquistão."
+      ]
+    },
+    "en": {
+      "title": "Mosque attack in Pakistan kills 21 and wounds 103",
+      "summary": "A suicide bomber struck a mosque beside a police compound; the standoff with militants ended after 20 hours.",
+      "paragraphs": [
+        "A suicide bomber drove an explosives-laden vehicle into a mosque near a police compound in Kohat, northwestern Pakistan. Gunmen stormed the site, killing 21 people and wounding 103, according to officials.",
+        "Pakistani forces ended the standoff after about 20 hours and recovered the bodies of eight attackers, local police said. Pakistan's Information Ministry blamed militants with roots in Afghanistan and accused the Afghan Taliban of sheltering groups that attack Pakistan."
+      ]
+    }
+  }
+}

@@ -1,0 +1,33 @@
+---
+import type { Article, Edition, Locale } from '../../modules/content/types';
+import SectionPage from '../../components/SectionPage.astro';
+
+interface Props {
+  locale: Locale;
+  articles: Article[];
+  edition?: Edition;
+}
+
+const { locale, articles, edition } = Astro.props;
+const copy =
+  locale === 'pt-BR'
+    ? {
+        kicker: 'Ciência em contexto',
+        intro:
+          'Descobertas, pesquisas e decisões que ajudam a entender como o conhecimento muda o país e o mundo.',
+      }
+    : {
+        kicker: 'Science in context',
+        intro:
+          'Discoveries, research and decisions that help explain how knowledge is changing Brazil and the world.',
+      };
+---
+
+<SectionPage
+  locale={locale}
+  articles={articles}
+  edition={edition}
+  sectionId="ciencia"
+  kicker={copy.kicker}
+  intro={copy.intro}
+/>

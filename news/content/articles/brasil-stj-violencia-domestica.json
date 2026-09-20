@@ -1,0 +1,32 @@
+{
+  "id": "brasil-stj-violencia-domestica",
+  "slug": "brasil-stj-violencia-domestica",
+  "section": "brasil",
+  "secondarySections": [],
+  "publishedAt": "2026-09-19T09:52:00-03:00",
+  "updatedAt": "2026-09-19T09:52:00-03:00",
+  "sources": [
+    {
+      "name": "Agência Brasil",
+      "url": "https://agenciabrasil.ebc.com.br/justica/noticia/2026-09/condenados-por-violencia-domestica-terao-de-passar-por-reabilitacao"
+    }
+  ],
+  "translations": {
+    "pt-BR": {
+      "title": "STJ restabelece grupos reflexivos obrigatórios para condenados por violência doméstica",
+      "summary": "Decisão da Sexta Turma reforça medidas educativas e preventivas previstas na Lei Maria da Penha.",
+      "paragraphs": [
+        "A Sexta Turma do Superior Tribunal de Justiça restabeleceu a obrigatoriedade de participação de pessoas condenadas por violência doméstica em grupos reflexivos de reeducação. A decisão foi obtida pelo Ministério Público do Rio de Janeiro.",
+        "O entendimento trata a resposta penal como uma combinação de punição, educação e prevenção. A medida prevista na Lei Maria da Penha busca responsabilizar os agressores, reduzir a reincidência e fortalecer a proteção das vítimas."
+      ]
+    },
+    "en": {
+      "title": "Brazil's Superior Court restores mandatory reflection groups for domestic-violence offenders",
+      "summary": "The court's Sixth Panel reinforced the educational and preventive measures provided by the Maria da Penha Law.",
+      "paragraphs": [
+        "Brazil's Superior Court of Justice restored mandatory participation in rehabilitation and reflection groups for people convicted of domestic violence. The decision was secured by the Rio de Janeiro state prosecutor's office.",
+        "The Sixth Panel treated the criminal response as a combination of punishment, education and prevention. The measure provided by the Maria da Penha Law is intended to hold offenders accountable, reduce repeat violence and strengthen protection for victims."
+      ]
+    }
+  }
+}

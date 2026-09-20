@@ -1,0 +1,32 @@
+{
+  "id": "tecnologia-ats-doencas-ultrarraras",
+  "slug": "tecnologia-ats-doencas-ultrarraras",
+  "section": "tecnologia",
+  "secondarySections": [],
+  "publishedAt": "2026-09-19T09:49:00-03:00",
+  "updatedAt": "2026-09-19T09:49:00-03:00",
+  "sources": [
+    {
+      "name": "Ministério da Saúde",
+      "url": "https://www.gov.br/saude/pt-br/assuntos/noticias-ms/2026/setembro/ministerio-da-saude-debate-avaliacao-de-tecnologias-em-saude-para-doencas-ultrarraras-em-evento-internacional"
+    }
+  ],
+  "translations": {
+    "pt-BR": {
+      "title": "Ministério discute avaliação de tecnologias para doenças ultrarraras",
+      "summary": "Workshop no Rio reuniu especialistas para aperfeiçoar evidências usadas em decisões do SUS.",
+      "paragraphs": [
+        "Em workshop realizado nos dias 16 e 17 de setembro no Rio de Janeiro, o Ministério da Saúde discutiu métodos para avaliar tecnologias destinadas a doenças ultrarraras. O encontro reuniu especialistas brasileiros e estrangeiros sob o tema de evidências, avaliação e decisão em saúde.",
+        "A cooperação com a Universidade de York inclui pesquisas sobre custo-efetividade, equidade e impacto de políticas. Segundo o ministério, os resultados deverão apoiar a Conitec nas decisões sobre medicamentos e procedimentos oferecidos pelo SUS."
+      ]
+    },
+    "en": {
+      "title": "Brazil's Health Ministry discusses technology assessment for ultra-rare diseases",
+      "summary": "A Rio workshop brought specialists together to improve evidence used in public-health decisions.",
+      "paragraphs": [
+        "At a workshop held in Rio de Janeiro on September 16 and 17, Brazil's Health Ministry discussed methods for assessing technologies for ultra-rare diseases. Brazilian and international specialists met under a theme focused on evidence, assessment and health decisions.",
+        "Cooperation with the University of York includes research on cost-effectiveness, equity and policy impact. The ministry says the results are expected to support Conitec decisions on medicines and procedures offered by the public health system."
+      ]
+    }
+  }
+}

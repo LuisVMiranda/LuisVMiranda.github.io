@@ -1,0 +1,32 @@
+{
+  "id": "cultura-artrio-78-galerias",
+  "slug": "cultura-artrio-78-galerias",
+  "section": "cultura",
+  "secondarySections": [],
+  "publishedAt": "2026-09-16T19:12:00-03:00",
+  "updatedAt": "2026-09-16T19:12:00-03:00",
+  "sources": [
+    {
+      "name": "Agência Brasil",
+      "url": "https://agenciabrasil.ebc.com.br/cultura/noticia/2026-09/com-78-galerias-artrio-traz-obras-ineditas"
+    }
+  ],
+  "translations": {
+    "pt-BR": {
+      "title": "ArtRio reúne 78 galerias e amplia programação de arte no Rio",
+      "summary": "Feira na Marina da Glória apresenta obras inéditas e integra a primeira Semana de Arte do Rio.",
+      "paragraphs": [
+        "A 16ª ArtRio reúne 78 galerias entre 16 e 20 de setembro, na Marina da Glória. A feira apresenta obras inéditas, incluindo uma peça de cerâmica de Adriana Varejão e uma obra de sete metros de Gabriel Massan.",
+        "A programação inclui os recortes Solo_Duo, Brasil Contemporâneo, Jardim de Esculturas e Mira, dedicado à videoarte. Em paralelo, a prefeitura promove a primeira Semana de Arte do Rio, de 16 a 27 de setembro, com mais de 400 atrações e atividades em museus, teatros, centros culturais e galerias."
+      ]
+    },
+    "en": {
+      "title": "ArtRio brings 78 galleries and expands Rio's art program",
+      "summary": "The Marina da Glória fair presents new works and joins Rio's first Art Week.",
+      "paragraphs": [
+        "The 16th ArtRio brings together 78 galleries from September 16 to 20 at Marina da Glória. The fair presents new works, including a ceramic piece by Adriana Varejão and a seven-meter work by Gabriel Massan.",
+        "Its program includes Solo_Duo, Brasil Contemporâneo, Jardim de Esculturas and Mira, dedicated to video art. At the same time, the city hosts its first Rio Art Week from September 16 to 27, with more than 400 attractions at museums, theaters, cultural centers and galleries."
+      ]
+    }
+  }
+}

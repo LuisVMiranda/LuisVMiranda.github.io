@@ -1,0 +1,32 @@
+{
+  "id": "mundo-ucrania-cimeira",
+  "slug": "mundo-ucrania-cimeira",
+  "section": "mundo",
+  "secondarySections": [],
+  "publishedAt": "2026-09-18T11:17:27Z",
+  "updatedAt": "2026-09-18T11:17:27Z",
+  "sources": [
+    {
+      "name": "AP News",
+      "url": "https://apnews.com/article/russia-ukraine-war-zelenskyy-summit-b05ea50c3ed8b64cf25e254783a17d39"
+    }
+  ],
+  "translations": {
+    "pt-BR": {
+      "title": "Zelenskyy reúne sete países para ampliar cooperação regional",
+      "summary": "Cimeira na Ucrânia discutiu segurança, energia, logística e vínculos econômicos enquanto a guerra continua.",
+      "paragraphs": [
+        "O presidente ucraniano Volodymyr Zelenskyy recebeu líderes e representantes de sete países da região, além da Ucrânia, para uma cimeira de cooperação. O encontro inaugural da chamada Carpathian Eight reuniu Romênia, Sérvia, Polônia, Eslováquia, República Tcheca, Áustria e Hungria, com participação da União Europeia.",
+        "Zelenskyy disse que os participantes trabalharão em segurança, energia, logística, vínculos econômicos transfronteiriços e apoio a comunidades locais. A reunião ocorreu enquanto tentativas mediadas pelos Estados Unidos para encerrar a guerra seguem travadas."
+      ]
+    },
+    "en": {
+      "title": "Zelenskyy hosts seven countries to deepen regional cooperation",
+      "summary": "A summit in Ukraine discussed security, energy, logistics and economic ties as the war continues.",
+      "paragraphs": [
+        "Ukrainian President Volodymyr Zelenskyy hosted leaders and representatives from seven regional countries, in addition to Ukraine, for a cooperation summit. The inaugural meeting of the so-called Carpathian Eight brought together Romania, Serbia, Poland, Slovakia, the Czech Republic, Austria and Hungary, with the European Union involved.",
+        "Zelenskyy said participants would work on security, energy, logistics, cross-border economic ties and support for local communities. The meeting came as U.S.-mediated efforts to end the war remain stalled."
+      ]
+    }
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "id": "esportes-luisa-stefani-sp-open",
+  "slug": "esportes-luisa-stefani-sp-open",
+  "section": "esportes",
+  "secondarySections": [],
+  "publishedAt": "2026-09-18T16:52:00-03:00",
+  "updatedAt": "2026-09-18T16:52:00-03:00",
+  "sources": [
+    {
+      "name": "Agência Brasil",
+      "url": "https://agenciabrasil.ebc.com.br/esportes/noticia/2026-09/nana-e-victoria-caem-mas-luisa-stefani-vai-semifinais-do-sp-open"
+    }
+  ],
+  "translations": {
+    "pt-BR": {
+      "title": "Luisa Stefani avança às semifinais do SP Open por W.O.",
+      "summary": "Parceria com Gabriela Dabrowski segue viva após desistência de uma rival por doença.",
+      "paragraphs": [
+        "Luisa Stefani e a canadense Gabriela Dabrowski avançaram às semifinais do SP Open sem entrar em quadra. A tcheca Dominika Salkova, que jogaria com a espanhola Katlin Quevedo, passou mal e retirou a dupla do principal torneio profissional de tênis feminino no Brasil.",
+        "As brasileiras Nahuany Silva, a Naná, e Victória Barros foram eliminadas nas quartas por Anastasia Tikhonova e Valeriya Strakhova, por 2 sets a 0, com parciais de 6/2 e 7/5. Apesar da derrota, as duas adolescentes terão ganhos relevantes nos rankings da WTA."
+      ]
+    },
+    "en": {
+      "title": "Luisa Stefani reaches the SP Open semifinals by walkover",
+      "summary": "The partnership with Gabriela Dabrowski advanced after an opponent withdrew because of illness.",
+      "paragraphs": [
+        "Luisa Stefani and Canada's Gabriela Dabrowski reached the SP Open semifinals without taking the court. Czech player Dominika Salkova became ill and withdrew the team she formed with Spain's Katlin Quevedo from Brazil's main professional women's tennis tournament.",
+        "Brazilian teenagers Nahuany Silva, known as Naná, and Victória Barros lost their quarterfinal to Anastasia Tikhonova and Valeriya Strakhova in straight sets, 6–2, 7–5. Despite the defeat, both will make notable gains in the WTA rankings."
+      ]
+    }
+  }
+}

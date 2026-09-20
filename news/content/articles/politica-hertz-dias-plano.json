@@ -1,0 +1,32 @@
+{
+  "id": "politica-hertz-dias-plano",
+  "slug": "politica-hertz-dias-plano",
+  "section": "politica",
+  "secondarySections": [],
+  "publishedAt": "2026-09-18T07:30:00-03:00",
+  "updatedAt": "2026-09-18T07:30:00-03:00",
+  "sources": [
+    {
+      "name": "Agência Brasil",
+      "url": "https://agenciabrasil.ebc.com.br/politica/noticia/2026-09/fim-da-escala-6x1-e-de-privatizacoes-e-prioridade-de-hertz-dias"
+    }
+  ],
+  "translations": {
+    "pt-BR": {
+      "title": "Fim da escala 6x1 e de privatizações é prioridade de Hertz Dias",
+      "summary": "Plano do candidato do PSTU defende jornada de 36 horas e revogação de reformas.",
+      "paragraphs": [
+        "O plano de Hertz Dias, do PSTU, coloca o fim da escala 6x1, sem redução salarial, e a jornada de 36 horas entre as prioridades.",
+        "O programa também defende revogar reformas trabalhista e previdenciária, reestatizar empresas e ampliar o investimento público em saúde."
+      ]
+    },
+    "en": {
+      "title": "Ending the six-day work schedule is a priority for Hertz Dias",
+      "summary": "The PSTU candidate's platform supports a 36-hour week and repealing reforms.",
+      "paragraphs": [
+        "Hertz Dias's platform, from the PSTU, makes ending the six-day work schedule without a pay cut and adopting a 36-hour week priorities.",
+        "The program also supports repealing labor and pension reforms, renationalizing companies and increasing public investment in health."
+      ]
+    }
+  }
+}

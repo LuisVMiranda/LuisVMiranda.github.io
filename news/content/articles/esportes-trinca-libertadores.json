@@ -1,0 +1,32 @@
+{
+  "id": "esportes-trinca-libertadores",
+  "slug": "esportes-trinca-libertadores",
+  "section": "esportes",
+  "secondarySections": [],
+  "publishedAt": "2026-09-18T07:19:00-03:00",
+  "updatedAt": "2026-09-18T07:19:00-03:00",
+  "sources": [
+    {
+      "name": "Agência Brasil",
+      "url": "https://agenciabrasil.ebc.com.br/esportes/noticia/2026-09/pela-quinta-vez-brasil-poe-trinca-nas-semifinais-da-libertadores"
+    }
+  ],
+  "translations": {
+    "pt-BR": {
+      "title": "Brasil põe três clubes nas semifinais da Libertadores",
+      "summary": "Flamengo se junta a Fluminense e Palmeiras entre os quatro semifinalistas.",
+      "paragraphs": [
+        "A classificação do Flamengo diante do Independiente del Valle confirmou a quinta presença de três clubes brasileiros nas semifinais da Libertadores, a quarta no formato atual. Fluminense e Palmeiras já haviam garantido suas vagas; o Estudiantes, da Argentina, é o único estrangeiro entre os quatro.",
+        "O Flamengo empatou por 1 a 1 no Maracanã, depois de vencer por 2 a 0 em Quito, e jogou parte do segundo tempo com um atleta a menos após a expulsão de Jorginho. Arrascaeta marcou o gol da classificação; na próxima fase, o time carioca enfrenta o Estudiantes, enquanto Fluminense e Palmeiras fazem o outro duelo."
+      ]
+    },
+    "en": {
+      "title": "Brazil place three clubs in the Libertadores semifinals",
+      "summary": "Flamengo joined Fluminense and Palmeiras among the final four.",
+      "paragraphs": [
+        "Flamengo's elimination of Independiente del Valle gave Brazil three clubs in the Libertadores semifinals for the fifth time, and the fourth under the current format. Fluminense and Palmeiras had already qualified; Argentina's Estudiantes is the only non-Brazilian team in the final four.",
+        "Flamengo drew 1–1 at the Maracanã after a 2–0 win in Quito, playing part of the second half with ten men after Jorginho was sent off. Arrascaeta scored the goal that sealed qualification; Flamengo will meet Estudiantes, while Fluminense and Palmeiras contest the other semifinal."
+      ]
+    }
+  }
+}

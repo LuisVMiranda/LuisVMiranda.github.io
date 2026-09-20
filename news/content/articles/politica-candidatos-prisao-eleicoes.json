@@ -1,0 +1,32 @@
+{
+  "id": "politica-candidatos-prisao-eleicoes",
+  "slug": "politica-candidatos-prisao-eleicoes",
+  "section": "politica",
+  "secondarySections": [],
+  "publishedAt": "2026-09-18T12:10:00-03:00",
+  "updatedAt": "2026-09-18T12:10:00-03:00",
+  "sources": [
+    {
+      "name": "Agência Brasil",
+      "url": "https://agenciabrasil.ebc.com.br/politica/noticia/2026-09/candidatos-nao-poderao-ser-presos-partir-deste-sabado"
+    }
+  ],
+  "translations": {
+    "pt-BR": {
+      "title": "Candidatos não poderão ser presos a partir deste sábado",
+      "summary": "Regra eleitoral vale até 48 horas depois do primeiro turno, salvo flagrante delito.",
+      "paragraphs": [
+        "Candidatas e candidatos registrados nas eleições de 2026 não podem ser presos ou detidos a partir de 19 de setembro, conforme regra do Código Eleitoral.",
+        "A exceção é o flagrante delito; a proteção vale até 48 horas depois do primeiro turno, marcado para 4 de outubro."
+      ]
+    },
+    "en": {
+      "title": "Candidates cannot be arrested from Saturday onward",
+      "summary": "The election rule lasts until 48 hours after the first round, except in cases of flagrante delicto.",
+      "paragraphs": [
+        "Candidates registered for Brazil's 2026 elections cannot be arrested or detained from September 19 under a rule in the Electoral Code.",
+        "The exception is arrest in the act; the protection lasts until 48 hours after the first round, scheduled for October 4."
+      ]
+    }
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "id": "ciencia-fsu-meteoritos-quimica-organica",
+  "slug": "ciencia-fsu-meteoritos-quimica-organica",
+  "section": "ciencia",
+  "secondarySections": ["mundo"],
+  "publishedAt": "2026-09-16T00:00:00Z",
+  "publishedDate": "2026-09-16",
+  "updatedAt": "2026-09-16T00:00:00Z",
+  "sources": [
+    {
+      "name": "National MagLab",
+      "url": "https://maglabweb.magnet.fsu.edu/news-events/news/molecular-structure-of-meteorite/"
+    },
+    {
+      "name": "Planetary Science Journal",
+      "url": "https://doi.org/10.3847/psj/ae9a8d"
+    }
+  ],
+  "translations": {
+    "pt-BR": {
+      "title": "Meteoritos revelam diversidade de moléculas orgânicas",
+      "summary": "Análises de alta resolução encontraram dezenas de milhares de moléculas em amostras de dois meteoritos.",
+      "paragraphs": [
+        "Pesquisadores do National High Magnetic Field Laboratory e do Brookhaven National Laboratory combinaram espectrometria de massa e microscopia para analisar amostras dos meteoritos Murchison e Aguas Zarcas. O estudo identificou dezenas de milhares de moléculas à base de carbono em pequenas amostras.",
+        "As assinaturas químicas dos meteoritos, embora pertençam à mesma família, compartilharam apenas uma fração dos compostos complexos. O resultado amplia o retrato da química orgânica do Sistema Solar primitivo, mas não demonstra que os meteoritos contenham vida."
+      ]
+    },
+    "en": {
+      "title": "Meteorites reveal a diversity of organic molecules",
+      "summary": "High-resolution analyses found tens of thousands of molecules in samples from two meteorites.",
+      "paragraphs": [
+        "Researchers at the National High Magnetic Field Laboratory and Brookhaven National Laboratory combined mass spectrometry and microscopy to analyze samples from the Murchison and Aguas Zarcas meteorites. The study identified tens of thousands of carbon-based molecules in small samples.",
+        "Although the meteorites belong to the same family, their chemical signatures shared only a fraction of the complex compounds. The result expands the picture of organic chemistry in the early Solar System, but it does not show that the meteorites contain life."
+      ]
+    }
+  }
+}

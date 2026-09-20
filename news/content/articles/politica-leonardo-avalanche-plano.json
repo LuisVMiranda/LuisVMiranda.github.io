@@ -1,0 +1,32 @@
+{
+  "id": "politica-leonardo-avalanche-plano",
+  "slug": "politica-leonardo-avalanche-plano",
+  "section": "politica",
+  "secondarySections": [],
+  "publishedAt": "2026-09-18T07:45:00-03:00",
+  "updatedAt": "2026-09-18T07:45:00-03:00",
+  "sources": [
+    {
+      "name": "Agência Brasil",
+      "url": "https://agenciabrasil.ebc.com.br/politica/noticia/2026-09/leonardo-avalanche-quer-reduzir-impostos-e-zerar-fila-do-sus"
+    }
+  ],
+  "translations": {
+    "pt-BR": {
+      "title": "Leonardo Avalanche propõe reduzir impostos e zerar fila do SUS",
+      "summary": "Plano do candidato do PRTB combina imposto único, mutirões de saúde e monitoramento por IA.",
+      "paragraphs": [
+        "O plano de governo de Leonardo Avalanche, do PRTB, propõe reduzir progressivamente impostos e substituir tributos por um imposto único de 3,5%.",
+        "Na saúde, o candidato promete zerar a fila do SUS com mutirões, telemedicina e parcerias com hospitais privados, além de monitorar estoques com inteligência artificial."
+      ]
+    },
+    "en": {
+      "title": "Leonardo Avalanche proposes lower taxes and an end to the SUS queue",
+      "summary": "The PRTB candidate's platform combines a single tax, health campaigns and AI monitoring.",
+      "paragraphs": [
+        "Leonardo Avalanche's platform, from the PRTB, proposes progressively lowering taxes and replacing existing levies with a single 3.5% tax.",
+        "In health, the candidate promises to clear the SUS queue through campaigns, telemedicine and partnerships with private hospitals, while monitoring supplies with artificial intelligence."
+      ]
+    }
+  }
+}

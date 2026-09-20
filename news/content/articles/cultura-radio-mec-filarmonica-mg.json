@@ -1,0 +1,32 @@
+{
+  "id": "cultura-radio-mec-filarmonica-mg",
+  "slug": "cultura-radio-mec-filarmonica-mg",
+  "section": "cultura",
+  "secondarySections": [],
+  "publishedAt": "2026-09-19T16:14:00-03:00",
+  "updatedAt": "2026-09-19T16:14:00-03:00",
+  "sources": [
+    {
+      "name": "Agência Brasil",
+      "url": "https://agenciabrasil.ebc.com.br/cultura/noticia/2026-09/radio-mec-transmite-domingo-o-concerto-da-orquestra-filarmonica-de-mg"
+    }
+  ],
+  "translations": {
+    "pt-BR": {
+      "title": "Rádio MEC transmite concerto da Filarmônica de Minas Gerais",
+      "summary": "Apresentação da série Concertos para a Juventude vai ao ar no domingo, com solistas e repertório de Copland, Haydn, Curnow, Elgar, Suppé e Verdi.",
+      "paragraphs": [
+        "A Rádio MEC transmite ao vivo no domingo (20), às 11h, o quinto concerto da série Concertos para a Juventude, diretamente da Sala Minas Gerais, em Belo Horizonte. A apresentação será regida por José Soares e terá Rafael Mendes, na tuba, e Isaac Carvalho, no trompete, como solistas.",
+        "O repertório reúne obras de Copland, Haydn, Curnow, Elgar, Suppé e Verdi. A Orquestra Filarmônica de Minas Gerais, fundada em 2008, reúne 90 músicos e mantém ações de formação e transmissões de seus concertos."
+      ]
+    },
+    "en": {
+      "title": "Rádio MEC to broadcast Minas Gerais Philharmonic concert",
+      "summary": "The Concertos para a Juventude performance airs Sunday with soloists and a program by Copland, Haydn, Curnow, Elgar, Suppé and Verdi.",
+      "paragraphs": [
+        "Rádio MEC will broadcast live on Sunday at 11 a.m. the fifth concert in the Concertos para a Juventude series, directly from Sala Minas Gerais in Belo Horizonte. José Soares will conduct, with Rafael Mendes on tuba and Isaac Carvalho on trumpet as soloists.",
+        "The program brings works by Copland, Haydn, Curnow, Elgar, Suppé and Verdi. Founded in 2008, the Minas Gerais Philharmonic has 90 musicians and maintains training initiatives and broadcasts of its concerts."
+      ]
+    }
+  }
+}

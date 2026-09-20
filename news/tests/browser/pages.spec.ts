@@ -1,0 +1,62 @@
+import { expect, test } from '@playwright/test';
+import { readFile } from 'node:fs/promises';
+import AxeBuilder from '@axe-core/playwright';
+
+test('the combined artifact preserves the portfolio and keeps project sources private', async ({
+  request,
+}) => {
+  const root = await request.get('/');
+  expect(await root.text()).toBe(await readFile('../index.html', 'utf8'));
+  for (const path of [
+    'content/approval.json',
+    'research/editorial/brasil.json',
+    'src/pages/index.astro',
+    'package.json',
+    'reviews/pages.json',
+  ]) {
+    expect((await request.get(`/news/${path}`)).status()).toBe(404);
+  }
+});
+
+test('GitHub Pages root 404 localizes without changing the missing address', async ({
+  page,
+}) => {
+  for (const locale of ['pt-BR', 'en']) {
+    const path =
+      locale === 'en' ? '/news/en/missing-address/' : '/news/missing-address/';
+    expect((await page.goto(path))?.status()).toBe(404);
+    await expect(page).toHaveURL(path);
+    await expect(page.locator('html')).toHaveAttribute('lang', locale);
+    await expect(page.locator('h1:visible')).toHaveCount(1);
+    const result = await new AxeBuilder({ page }).analyze();
+    expect(
+      result.violations.filter((item) =>
+        ['serious', 'critical'].includes(item.impact || ''),
+      ),
+    ).toEqual([]);
+  }
+});
+
+test('two-times zoom viewport keeps reading and controls available', async ({
+  browser,
+}) => {
+  // A 1440 physical-pixel window at 200% zoom exposes a 720 CSS-pixel viewport.
+  const context = await browser.newContext({
+    viewport: { width: 720, height: 500 },
+    deviceScaleFactor: 2,
+  });
+  const page = await context.newPage();
+  for (const route of [
+    '/news/',
+    '/news/en/artigos/brasil-petrobras-subsidio-diesel/',
+  ]) {
+    await page.goto(`http://127.0.0.1:4321${route}`);
+    await expect(page.locator('h1')).toBeVisible();
+    expect(
+      await page.evaluate(
+        () => document.documentElement.scrollWidth <= innerWidth + 1,
+      ),
+    ).toBe(true);
+  }
+  await context.close();
+});

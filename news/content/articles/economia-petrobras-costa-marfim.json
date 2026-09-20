@@ -1,0 +1,32 @@
+{
+  "id": "economia-petrobras-costa-marfim",
+  "slug": "economia-petrobras-costa-marfim",
+  "section": "economia",
+  "secondarySections": [],
+  "publishedAt": "2026-09-17T10:35:00-03:00",
+  "updatedAt": "2026-09-17T10:35:00-03:00",
+  "sources": [
+    {
+      "name": "Agência Brasil",
+      "url": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-09/petrobras-vai-buscar-petroleo-na-margem-equatorial-da-costa-do-marfim"
+    }
+  ],
+  "translations": {
+    "pt-BR": {
+      "title": "Petrobras assina contrato para explorar oito blocos na Costa do Marfim",
+      "summary": "A estatal terá 90% e será operadora de oito blocos offshore na margem equatorial africana.",
+      "paragraphs": [
+        "A Petrobras assinou contrato de partilha de produção para explorar oito blocos offshore na margem equatorial da Costa do Marfim. A subsidiária Petrobras Netherlands B.V. terá 90% dos blocos e será a operadora; a estatal Petroci Holding ficará com 10%.",
+        "A companhia disse que o acordo faz parte da estratégia de recompor reservas de óleo e gás com novas fronteiras. A Petrobras também informou atuação em Namíbia, São Tomé e Príncipe e África do Sul, além de negociações em Gana."
+      ]
+    },
+    "en": {
+      "title": "Petrobras signs contract to explore eight blocks off Côte d'Ivoire",
+      "summary": "The state oil company will hold 90% and operate eight offshore blocks on Africa's equatorial margin.",
+      "paragraphs": [
+        "Petrobras signed a production-sharing contract to explore eight offshore blocks on Côte d'Ivoire's equatorial margin. Its subsidiary Petrobras Netherlands B.V. will hold 90% and operate the blocks; state company Petroci Holding will hold the remaining 10%.",
+        "The company said the deal is part of a strategy to replenish oil and gas reserves by exploring new frontiers. Petrobras also operates in Namibia, São Tomé and Príncipe and South Africa, and is negotiating blocks in Ghana."
+      ]
+    }
+  }
+}

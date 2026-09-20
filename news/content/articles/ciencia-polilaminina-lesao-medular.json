@@ -1,0 +1,32 @@
+{
+  "id": "ciencia-polilaminina-lesao-medular",
+  "slug": "ciencia-polilaminina-lesao-medular",
+  "section": "ciencia",
+  "secondarySections": ["brasil"],
+  "publishedAt": "2026-09-18T20:10:00-03:00",
+  "updatedAt": "2026-09-18T20:10:00-03:00",
+  "sources": [
+    {
+      "name": "Ministério da Saúde",
+      "url": "https://www.gov.br/saude/pt-br/assuntos/noticias-ms/2026/setembro/ministerio-da-saude-mobiliza-samu-192-para-treinar-equipes-e-apoiar-estudo-clinico-com-polilaminina"
+    }
+  ],
+  "translations": {
+    "pt-BR": {
+      "title": "SUS prepara triagem para estudo de polilaminina em lesões medulares",
+      "summary": "SAMU de São Paulo treinará equipes para encaminhar cinco voluntários a ensaio clínico de fase 1.",
+      "paragraphs": [
+        "O Ministério da Saúde anunciou treinamento do SAMU 192 de São Paulo para identificar e encaminhar ao HC-FMUSP pessoas que possam participar de um estudo clínico sobre polilaminina. O protocolo prevê incluir cinco voluntários com lesão aguda completa da medula torácica ocorrida há menos de 72 horas.",
+        "O ensaio de fase 1, autorizado pela Anvisa, começará com foco na segurança e terá acompanhamento de seis meses. A pesquisa é conduzida por pesquisadores da UFRJ em parceria com a Cristália; resultados positivos seriam necessários antes de fases posteriores para avaliar eficácia."
+      ]
+    },
+    "en": {
+      "title": "Brazil's public health system prepares screening for spinal-cord trial",
+      "summary": "São Paulo's SAMU will train teams to refer five volunteers to a phase 1 clinical trial of polylaminin.",
+      "paragraphs": [
+        "Brazil's Ministry of Health announced training for São Paulo's SAMU 192 to identify and refer possible participants to the HC-FMUSP for a clinical study of polylaminin. The protocol plans to include five volunteers with acute complete thoracic spinal-cord injuries sustained less than 72 hours earlier.",
+        "The phase 1 trial, authorized by Anvisa, will focus first on safety and follow participants for six months. Researchers at the Federal University of Rio de Janeiro are conducting the study with Cristália; positive results would be needed before later phases assess efficacy."
+      ]
+    }
+  }
+}

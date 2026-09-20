@@ -1,0 +1,32 @@
+{
+  "id": "esportes-brasil-venezuela-volei",
+  "slug": "esportes-brasil-venezuela-volei",
+  "section": "esportes",
+  "secondarySections": [],
+  "publishedAt": "2026-09-19T13:00:00-03:00",
+  "updatedAt": "2026-09-19T13:00:00-03:00",
+  "sources": [
+    {
+      "name": "Agência Brasil",
+      "url": "https://agenciabrasil.ebc.com.br/esportes/noticia/2026-09/brasil-vence-venezuela-e-esta-no-mundial-de-volei-masculino"
+    }
+  ],
+  "translations": {
+    "pt-BR": {
+      "title": "Brasil vence Venezuela e garante vaga no Mundial de Vôlei",
+      "summary": "Seleção masculina faz 3 a 0 no Sul-Americano e assegura lugar no torneio de 2027.",
+      "paragraphs": [
+        "A seleção masculina de vôlei venceu a Venezuela por 3 sets a 0 na manhã de sábado (19), no Maracanãzinho, pela quarta rodada do Sul-Americano. O resultado garantiu ao Brasil uma vaga no Mundial de 2027.",
+        "As parciais foram 25/19, 25/14 e 25/19 diante de mais de 7,2 mil pessoas. O Brasil manteve 100% de aproveitamento, com Bryan como maior pontuador, e enfrenta a Argentina no domingo pela decisão do título e pela vaga olímpica de Los Angeles 2028."
+      ]
+    },
+    "en": {
+      "title": "Brazil beat Venezuela to secure men's volleyball world berth",
+      "summary": "The men's team won 3–0 at the South American tournament and secured a place in the 2027 worlds.",
+      "paragraphs": [
+        "Brazil's men's volleyball team beat Venezuela 3–0 on Saturday morning (September 19) at Rio de Janeiro's Maracanãzinho in the South American tournament's fourth round. The result secured Brazil a place at the 2027 world championship.",
+        "The sets ended 25–19, 25–14 and 25–19 before more than 7,200 spectators. Brazil stayed unbeaten, with Bryan as the leading scorer, and will face Argentina on Sunday for the title and the Los Angeles 2028 Olympic berth."
+      ]
+    }
+  }
+}

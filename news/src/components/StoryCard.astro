@@ -1,0 +1,54 @@
+---
+import type { Article, Locale } from '../modules/content/types';
+import { sectionLabel, sectionStyle } from '../modules/content/sections';
+import {
+  articleDate,
+  articleUrl,
+  formatArticleDate,
+} from '../modules/content/urls';
+interface Props {
+  article: Article;
+  locale: Locale;
+  rank?: number;
+}
+const { article, locale, rank } = Astro.props;
+const copy = article.translations[locale];
+---
+
+<article class="story" style={sectionStyle(article.section)}>
+  <div class="eyebrow">
+    {rank && <span class="rank">{String(rank).padStart(2, '0')} / </span>}
+    {sectionLabel(article.section, locale)}
+  </div>
+  <h3>
+    <a href={articleUrl(article, locale)}>{copy.title}</a>
+  </h3>
+  <p>{copy.summary}</p>
+  <time datetime={articleDate(article)}>
+    {formatArticleDate(article, locale)}
+  </time>
+</article>
+<style>
+  .story {
+    padding-block: 1.5rem;
+    border-top: 1px solid var(--rule);
+  }
+  h3 {
+    margin-block: 0.6rem;
+    color: var(--section-accent);
+  }
+  h3 a {
+    text-decoration: none;
+  }
+  h3 a:hover {
+    text-decoration: underline;
+  }
+  p {
+    color: var(--muted);
+    font-size: 0.9rem;
+  }
+  time {
+    color: var(--muted);
+    font-size: 0.75rem;
+  }
+</style>

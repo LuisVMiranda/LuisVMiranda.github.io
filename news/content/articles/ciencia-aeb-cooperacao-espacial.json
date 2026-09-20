@@ -1,0 +1,32 @@
+{
+  "id": "ciencia-aeb-cooperacao-espacial",
+  "slug": "ciencia-aeb-cooperacao-espacial",
+  "section": "ciencia",
+  "secondarySections": ["tecnologia"],
+  "publishedAt": "2026-09-18T12:04:00-03:00",
+  "updatedAt": "2026-09-18T12:04:00-03:00",
+  "sources": [
+    {
+      "name": "Agência Espacial Brasileira",
+      "url": "https://www.gov.br/aeb/pt-br/assuntos/noticias/missao-brasil2013europa-2026-reune-empresas-para-cooperacao-no-setor-espacial"
+    }
+  ],
+  "translations": {
+    "pt-BR": {
+      "title": "Brasil e Europa ampliam cooperação no setor espacial",
+      "summary": "Missão da AEB aproxima empresas e instituições em pesquisa, inovação e desenvolvimento tecnológico.",
+      "paragraphs": [
+        "A Missão Brasil–Europa 2026, conduzida pela Agência Espacial Brasileira em parceria com o UNOOSA, reuniu empresas, universidades e centros de pesquisa brasileiros e europeus em atividades sobre inovação e desenvolvimento espacial.",
+        "Durante o ESA Industry Days, a brasileira Concert Space e a austríaca LEOTREK AI assinaram um memorando de entendimento para estruturar um projeto conjunto. O acordo registra uma intenção de colaboração, ainda sem anunciar um projeto executado."
+      ]
+    },
+    "en": {
+      "title": "Brazil and Europe expand cooperation in space",
+      "summary": "An AEB mission brought companies and institutions together around research, innovation and space technology.",
+      "paragraphs": [
+        "The 2026 Brazil–Europe Mission, led by the Brazilian Space Agency with UNOOSA, brought Brazilian and European companies, universities and research centers together for work on innovation and space development.",
+        "During ESA Industry Days, Brazil's Concert Space and Austria's LEOTREK AI signed a memorandum of understanding to structure a joint project. The agreement records an intention to collaborate; it does not announce a project already under execution."
+      ]
+    }
+  }
+}

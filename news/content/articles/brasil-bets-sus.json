@@ -1,0 +1,32 @@
+{
+  "id": "brasil-bets-sus",
+  "slug": "brasil-bets-sus",
+  "section": "brasil",
+  "secondarySections": [],
+  "publishedAt": "2026-09-19T12:43:00-03:00",
+  "updatedAt": "2026-09-19T12:43:00-03:00",
+  "sources": [
+    {
+      "name": "Agência Brasil",
+      "url": "https://agenciabrasil.ebc.com.br/saude/noticia/2026-09/impacto-financeiro-de-bets-no-sus-chega-30-6-bilhoes-por-ano"
+    }
+  ],
+  "translations": {
+    "pt-BR": {
+      "title": "Apostas online geram impacto anual de R$ 30,6 bilhões no SUS",
+      "summary": "Estudo estima custo dos danos à saúde, enquanto a procura por atendimento ligado à dependência cresceu 140% em cinco anos.",
+      "paragraphs": [
+        "Um estudo do Instituto de Estudos para Políticas de Saúde estima em R$ 30,6 bilhões por ano o impacto dos danos causados por apostas online no SUS. A conta inclui gastos associados a depressão, ansiedade e efeitos das mortes por suicídio; apenas 1% da arrecadação das operadoras vai para a Saúde.",
+        "O Ministério da Saúde registrou aumento de 140% na busca por atendimento relacionado à dependência nos últimos cinco anos. A pasta ampliou o teleatendimento de 600 para até 100 mil atendimentos mensais e informou que mais de 5 milhões de CPFs foram bloqueados em sites autorizados."
+      ]
+    },
+    "en": {
+      "title": "Online betting carries an annual R$30.6 billion impact on Brazil's SUS",
+      "summary": "A study estimates the health burden while demand for addiction care rose 140% in five years.",
+      "paragraphs": [
+        "A study by the Institute for Health Policy Studies estimates that the health damage from online betting costs Brazil's SUS public health system R$30.6 billion a year. The estimate includes spending tied to depression, anxiety and the effects of suicide deaths; only 1% of operators' revenue goes to the Health Ministry.",
+        "The Health Ministry recorded a 140% rise over five years in demand for care related to betting addiction. It expanded electronic care capacity from 600 to up to 100,000 monthly appointments and said more than 5 million taxpayer IDs were blocked on authorized betting sites."
+      ]
+    }
+  }
+}

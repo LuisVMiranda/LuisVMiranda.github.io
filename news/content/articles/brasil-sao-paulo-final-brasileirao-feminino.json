@@ -1,0 +1,32 @@
+{
+  "id": "brasil-sao-paulo-final-brasileirao-feminino",
+  "slug": "brasil-sao-paulo-final-brasileirao-feminino",
+  "section": "brasil",
+  "secondarySections": ["esportes"],
+  "publishedAt": "2026-09-19T18:44:00-03:00",
+  "updatedAt": "2026-09-19T18:44:00-03:00",
+  "sources": [
+    {
+      "name": "Agência Brasil",
+      "url": "https://agenciabrasil.ebc.com.br/esportes/noticia/2026-09/equipe-do-sao-paulo-e-primeira-finalista-do-brasileirao-feminino"
+    }
+  ],
+  "translations": {
+    "pt-BR": {
+      "title": "São Paulo é o primeiro finalista do Brasileirão Feminino",
+      "summary": "Soberanas batem o Flamengo por 1 a 0 e voltam à decisão da elite nacional.",
+      "paragraphs": [
+        "O São Paulo garantiu vaga na final do Brasileirão Feminino de 2026 ao vencer o Flamengo por 1 a 0, neste sábado, em Campinas. O time paulista já havia vencido o primeiro jogo por 3 a 1, no Rio de Janeiro.",
+        "Kesia marcou no fim, em um contra-ataque rápido. O adversário da decisão sai do confronto entre Corinthians e Bahia, marcado para segunda-feira; o Corinthians leva vantagem de 1 a 0."
+      ]
+    },
+    "en": {
+      "title": "São Paulo reach Brazil's women's league final",
+      "summary": "The Soberanas beat Flamengo 1–0 and return to the top-flight final.",
+      "paragraphs": [
+        "São Paulo reached the 2026 Brazilian women's league final by beating Flamengo 1–0 in Campinas on Saturday. The São Paulo side had already won the first leg 3–1 in Rio de Janeiro.",
+        "Kesia scored late after a quick counterattack. The other finalist will come from Monday's Corinthians–Bahia match; Corinthians hold a 1–0 lead from the first leg."
+      ]
+    }
+  }
+}

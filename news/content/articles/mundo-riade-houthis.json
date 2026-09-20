@@ -1,0 +1,32 @@
+{
+  "id": "mundo-riade-houthis",
+  "slug": "mundo-riade-houthis",
+  "section": "mundo",
+  "secondarySections": [],
+  "publishedAt": "2026-09-19T20:10:52Z",
+  "updatedAt": "2026-09-19T20:10:52Z",
+  "sources": [
+    {
+      "name": "AP News",
+      "url": "https://apnews.com/article/yemen-saudi-arabia-b1286cad816dd3e553f50f6dd5205972"
+    }
+  ],
+  "translations": {
+    "pt-BR": {
+      "title": "Arábia Saudita diz que Houthis tentaram atacar Riad com míssil balístico",
+      "summary": "Coalizão saudita afirma que o projétil foi interceptado; moradores relataram explosão e fumaça perto do aeroporto.",
+      "paragraphs": [
+        "A Arábia Saudita confirmou que rebeldes houthis do Iêmen tentaram atingir Riad com um míssil balístico na madrugada de sábado. A coalizão saudita disse que o projétil foi interceptado; moradores ouviram uma explosão e viram fumaça perto do aeroporto.",
+        "Segundo a coalizão, também foram frustradas tentativas contra infraestrutura civil em Yanbu, Taif, Baysh e Farasan. Os houthis afirmaram ter atingido locais sensíveis e uma instalação da Aramco, mas não apresentaram provas; não houve relatos de mortos ou danos."
+      ]
+    },
+    "en": {
+      "title": "Saudi Arabia says Houthis tried to attack Riyadh with a ballistic missile",
+      "summary": "The Saudi-led coalition says the missile was intercepted; residents reported an explosion and smoke near the airport.",
+      "paragraphs": [
+        "Saudi Arabia confirmed that Yemen's Houthi rebels tried to strike Riyadh with a ballistic missile early Saturday. The Saudi-led coalition said the projectile was intercepted; residents heard an explosion and later saw smoke near the airport.",
+        "The coalition also said attempts against civilian infrastructure in Yanbu, Taif, Baysh and Farasan were thwarted. The Houthis claimed they hit sensitive sites and an Aramco facility, but provided no evidence; there were no reports of deaths or damage."
+      ]
+    }
+  }
+}

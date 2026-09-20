@@ -1,0 +1,32 @@
+{
+  "id": "brasil-pnd-uniao-vitoria",
+  "slug": "brasil-pnd-uniao-vitoria",
+  "section": "brasil",
+  "secondarySections": [],
+  "publishedAt": "2026-09-19T14:39:00-03:00",
+  "updatedAt": "2026-09-19T14:39:00-03:00",
+  "sources": [
+    {
+      "name": "Agência Brasil",
+      "url": "https://agenciabrasil.ebc.com.br/educacao/noticia/2026-09/inep-muda-locais-de-exame-da-pnd-em-uniao-da-vitoria-pr"
+    }
+  ],
+  "translations": {
+    "pt-BR": {
+      "title": "Inep altera locais da Prova Nacional Docente em União da Vitória",
+      "summary": "Dois colégios serão usados por pessoas afetadas por eventos climáticos; participantes devem consultar o cartão.",
+      "paragraphs": [
+        "O Inep alterou os endereços de dois locais da Prova Nacional Docente em União da Vitória, no Paraná. O exame será aplicado na tarde de domingo, em 800 municípios, mas os candidatos que estavam em dois colégios farão a prova em uma escola municipal e no campus da Unespar.",
+        "Segundo o instituto, as escolas originais passaram a abrigar pessoas afetadas por eventos climáticos. Os participantes devem conferir novamente o cartão no Sistema PND e responder ao questionário até as 23h59 de sábado para visualizar o local atualizado."
+      ]
+    },
+    "en": {
+      "title": "Inep changes National Teaching Exam locations in União da Vitória",
+      "summary": "Two schools are sheltering people affected by severe weather, so candidates must check their confirmation cards again.",
+      "paragraphs": [
+        "Brazil's Inep changed the addresses of two National Teaching Exam sites in União da Vitória, Paraná. The test will be held Sunday afternoon in 800 municipalities, but candidates assigned to the two schools will now sit the exam at a municipal school and the Unespar campus.",
+        "The institute said the original schools are being used to shelter people affected by local weather events. Candidates must check the PND system again and complete the questionnaire by 11:59 p.m. Saturday to see the updated location."
+      ]
+    }
+  }
+}

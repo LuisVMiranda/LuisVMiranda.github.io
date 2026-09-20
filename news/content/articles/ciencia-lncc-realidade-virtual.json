@@ -1,0 +1,32 @@
+{
+  "id": "ciencia-lncc-realidade-virtual",
+  "slug": "ciencia-lncc-realidade-virtual",
+  "section": "ciencia",
+  "secondarySections": ["tecnologia"],
+  "publishedAt": "2026-09-18T16:22:00-03:00",
+  "updatedAt": "2026-09-18T16:22:00-03:00",
+  "sources": [
+    {
+      "name": "Laboratório Nacional de Computação Científica",
+      "url": "https://www.gov.br/lncc/pt-br/assuntos/noticias/ultimas-noticias-1/missao-cientifica-na-alemanha-amplia-intercambio-em-realidade-virtual-ia-e-sustentabilidade"
+    }
+  ],
+  "translations": {
+    "pt-BR": {
+      "title": "Pesquisa brasileira testa realidade virtual para logística sustentável",
+      "summary": "Missão do LNCC na Alemanha combinou realidade virtual, IA e simulação em treinamentos e análise de riscos.",
+      "paragraphs": [
+        "O pesquisador Thiago Malheiros Porcino, do Laboratório Nacional de Computação Científica, realizou missão científica na Alemanha com apoio da Fundação Alexander von Humboldt. O trabalho tratou de realidade virtual, inteligência artificial, sustentabilidade e simulação.",
+        "Em colaboração com a Technische Universität München, ele desenvolveu e testou simuladores imersivos que usam telemetria para analisar desempenho e decisões em cenários logísticos. A missão também apresentou um projeto do LNCC que aplica IA e sensoriamento remoto à análise de desastres na Região Serrana do Rio de Janeiro."
+      ]
+    },
+    "en": {
+      "title": "Brazilian research tests virtual reality for sustainable logistics",
+      "summary": "An LNCC mission in Germany combined virtual reality, AI and simulation for training and risk analysis.",
+      "paragraphs": [
+        "Thiago Malheiros Porcino, a researcher at Brazil's National Laboratory for Scientific Computing, carried out a scientific mission in Germany with support from the Alexander von Humboldt Foundation. The work covered virtual reality, artificial intelligence, sustainability and simulation.",
+        "Working with the Technical University of Munich, he developed and tested immersive simulators that use telemetry to analyze performance and decisions in logistics scenarios. The mission also presented an LNCC project using AI and remote sensing to analyze natural-disaster risks in Rio de Janeiro's mountainous region."
+      ]
+    }
+  }
+}

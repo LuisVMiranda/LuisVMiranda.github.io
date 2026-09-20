@@ -1,0 +1,37 @@
+{
+  "id": "ciencia-berkeley-papiros-carbonizados",
+  "slug": "ciencia-berkeley-papiros-carbonizados",
+  "section": "ciencia",
+  "secondarySections": ["cultura"],
+  "publishedAt": "2026-09-16T00:00:00Z",
+  "publishedDate": "2026-09-16",
+  "updatedAt": "2026-09-16T00:00:00Z",
+  "sources": [
+    {
+      "name": "UC Berkeley",
+      "url": "https://news.berkeley.edu/2026/09/16/to-read-2000-year-old-burned-scrolls-scientists-burn-their-own/"
+    },
+    {
+      "name": "PLOS ONE",
+      "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0353485"
+    }
+  ],
+  "translations": {
+    "pt-BR": {
+      "title": "Teste com papiro carbonizado ajuda a localizar tinta legível por raios X",
+      "summary": "Equipe da UC Berkeley mostrou que chumbo na tinta aumenta o contraste de letras em tomografias.",
+      "paragraphs": [
+        "Pesquisadores da UC Berkeley e do NIST criaram e carbonizaram um modelo de papiro para estudar como ler os rolos preservados pela erupção do Vesúvio em Herculano. Em artigo na PLOS ONE, eles mostraram que pequenas quantidades de chumbo fazem as letras absorverem muito mais raios X que o papiro carbonizado.",
+        "A equipe conseguiu desenrolar virtualmente o modelo com tomografia e também detectou o chumbo com um scanner portátil de fluorescência de raios X. O resultado é uma prova de conceito para selecionar rolos antigos com maior chance de leitura, não a leitura de um rolo original."
+      ]
+    },
+    "en": {
+      "title": "Carbonized-papyrus test helps locate ink readable by X-rays",
+      "summary": "A UC Berkeley team showed that lead in ink increases the contrast of letters in tomography scans.",
+      "paragraphs": [
+        "Researchers at UC Berkeley and NIST made and carbonized a papyrus model to study how to read scrolls preserved by the eruption of Mount Vesuvius at Herculaneum. In a PLOS ONE paper, they showed that small amounts of lead make letters absorb far more X-rays than carbonized papyrus.",
+        "The team virtually unrolled the model with tomography and also detected lead with a handheld X-ray fluorescence scanner. The result is a proof of concept for selecting ancient scrolls more likely to be readable, not a reading of an original scroll."
+      ]
+    }
+  }
+}

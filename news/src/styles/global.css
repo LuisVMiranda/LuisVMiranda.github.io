@@ -1,0 +1,162 @@
+@import '@fontsource/inter/latin-400.css';
+@import '@fontsource/inter/latin-600.css';
+@import '@fontsource/source-serif-4/latin-400.css';
+@import '@fontsource/source-serif-4/latin-600.css';
+
+:root {
+  color-scheme: light;
+  --paper: #faf9f5;
+  --surface: #f0f0e9;
+  --ink: #18242b;
+  --muted: #536168;
+  --rule: #d2d8d4;
+  --section-light: #166534;
+  --section-dark: #86efac;
+  --article-size: 18px;
+  font-family: 'Inter', sans-serif;
+  color: var(--ink);
+  background: var(--paper);
+}
+:root[data-theme='dark'] {
+  color-scheme: dark;
+  --paper: #161b21;
+  --surface: #232c32;
+  --ink: #edf0f0;
+  --muted: #bac4c9;
+  --rule: #455158;
+}
+* {
+  box-sizing: border-box;
+}
+[style*='--section-light'],
+:root {
+  --section-accent: var(--section-light);
+}
+:root[data-theme='dark'],
+:root[data-theme='dark'] [style*='--section-light'] {
+  --section-accent: var(--section-dark);
+}
+body {
+  margin: 0;
+  line-height: 1.6;
+}
+a {
+  color: inherit;
+  text-underline-offset: 0.2em;
+}
+a:hover {
+  text-decoration-thickness: 2px;
+}
+button,
+input,
+select {
+  font: inherit;
+  color: inherit;
+}
+button,
+select {
+  cursor: pointer;
+}
+button {
+  min-height: 44px;
+}
+button:disabled {
+  cursor: default;
+  opacity: 0.45;
+}
+:focus-visible {
+  outline: 3px solid var(--section-accent);
+  outline-offset: 4px;
+}
+button,
+input,
+select {
+  background: var(--paper);
+  border: 1px solid var(--rule);
+  border-radius: 4px;
+  padding: 0.5rem 0.75rem;
+}
+h1,
+h2,
+h3 {
+  font-family: 'Source Serif 4', Georgia, serif;
+  line-height: 1.15;
+  font-weight: 600;
+  text-wrap: balance;
+}
+h1 {
+  font-size: clamp(2rem, 4.5vw, 3.8rem);
+  letter-spacing: -0.045em;
+}
+h2 {
+  font-size: clamp(1.5rem, 3vw, 2.3rem);
+  letter-spacing: -0.025em;
+}
+h3 {
+  font-size: 1.35rem;
+}
+p,
+li,
+h1,
+h2,
+h3,
+a {
+  overflow-wrap: anywhere;
+}
+img {
+  max-width: 100%;
+  height: auto;
+}
+main {
+  min-height: 50vh;
+}
+.container {
+  width: min(1160px, calc(100% - 48px));
+  margin-inline: auto;
+}
+.eyebrow {
+  font-size: 0.75rem;
+  font-weight: 600;
+  letter-spacing: 0.12em;
+  text-transform: uppercase;
+  color: var(--section-accent);
+}
+.muted {
+  color: var(--muted);
+}
+.sr-only {
+  position: absolute;
+  width: 1px;
+  height: 1px;
+  padding: 0;
+  margin: -1px;
+  overflow: hidden;
+  clip-path: inset(50%);
+  white-space: nowrap;
+  border: 0;
+}
+.skip-link {
+  position: absolute;
+  top: -100px;
+  left: 1rem;
+  background: var(--paper);
+  padding: 0.75rem;
+  z-index: 10;
+}
+.skip-link:focus {
+  top: 1rem;
+}
+@media (max-width: 480px) {
+  .container {
+    width: calc(100% - 32px);
+  }
+}
+@media (prefers-reduced-motion: reduce) {
+  *,
+  *::before,
+  *::after {
+    scroll-behavior: auto !important;
+    animation: none !important;
+    transition: none !important;
+  }
+}

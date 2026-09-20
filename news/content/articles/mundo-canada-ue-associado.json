@@ -1,0 +1,32 @@
+{
+  "id": "mundo-canada-ue-associado",
+  "slug": "mundo-canada-ue-associado",
+  "section": "mundo",
+  "secondarySections": [],
+  "publishedAt": "2026-09-18T09:41:37Z",
+  "updatedAt": "2026-09-18T09:41:37Z",
+  "sources": [
+    {
+      "name": "AP News",
+      "url": "https://apnews.com/article/5e9f9486a4c92120d9371cfefc472a97"
+    }
+  ],
+  "translations": {
+    "pt-BR": {
+      "title": "UE abre discussão sobre status de membro associado para o Canadá",
+      "summary": "Von der Leyen propôs aproximar Ottawa do bloco, mas a categoria ainda não existe nos tratados europeus.",
+      "paragraphs": [
+        "A presidente da Comissão Europeia, Ursula von der Leyen, propôs que o Canadá se torne o primeiro membro associado da União Europeia. O primeiro-ministro canadense Mark Carney recebeu a proposta durante sua visita ao Parlamento Europeu.",
+        "A ideia pretende elevar a cooperação política e econômica sem adesão plena, mas o status não está previsto nos tratados da UE e ainda não tem regras definidas. A discussão ocorre enquanto Ottawa busca reduzir a dependência dos Estados Unidos em meio a tensões comerciais."
+      ]
+    },
+    "en": {
+      "title": "EU opens discussion on associate membership for Canada",
+      "summary": "Von der Leyen proposed closer ties with Ottawa, but the category does not yet exist in European treaties.",
+      "paragraphs": [
+        "European Commission President Ursula von der Leyen proposed that Canada become the European Union's first associate member. Canadian Prime Minister Mark Carney received the proposal during his visit to the European Parliament.",
+        "The idea would deepen political and economic cooperation without full accession, but the status is not defined in EU treaties and has no rules yet. The discussion comes as Ottawa seeks to reduce its dependence on the United States amid trade tensions."
+      ]
+    }
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "id": "cultura-shostakovich-radio-mec",
+  "slug": "cultura-shostakovich-radio-mec",
+  "section": "cultura",
+  "secondarySections": [],
+  "publishedAt": "2026-09-19T18:00:00-03:00",
+  "updatedAt": "2026-09-19T18:00:00-03:00",
+  "sources": [
+    {
+      "name": "Agência Brasil",
+      "url": "https://agenciabrasil.ebc.com.br/cultura/noticia/2026-09/caderno-de-musica-lembra-120-anos-de-nascimento-de-dmitri-shostakovich"
+    }
+  ],
+  "translations": {
+    "pt-BR": {
+      "title": "Rádio MEC celebra 120 anos de Dmitri Shostakovich",
+      "summary": "Programa Caderno de Música revisita a trajetória do compositor russo e seleciona obras para a edição deste domingo.",
+      "paragraphs": [
+        "O programa Caderno de Música, da Rádio MEC, dedica a edição de domingo (20), às 12h30, aos 120 anos de nascimento de Dmitri Shostakovich, um dos principais compositores do século 20. A atração contextualiza a trajetória do músico, nascido em São Petersburgo em 1906, sob as transformações políticas e culturais da União Soviética.",
+        "A seleção inclui trechos da Sinfonia nº 1, da Sinfonia nº 5 e da Suíte para Orquestra de Jazz nº 2, em gravações de diferentes orquestras. O programa também explica termos como sonata, sinfonia, concerto, spalla, allegro e moderato."
+      ]
+    },
+    "en": {
+      "title": "Rádio MEC marks Dmitri Shostakovich's 120th anniversary",
+      "summary": "The Caderno de Música program revisits the Russian composer's path and selects works for Sunday's broadcast.",
+      "paragraphs": [
+        "Rádio MEC's Caderno de Música devotes Sunday's edition, at 12:30 p.m., to the 120th anniversary of Dmitri Shostakovich's birth, one of the 20th century's major composers. The program places the musician's life, born in St. Petersburg in 1906, in the political and cultural changes of the Soviet Union.",
+        "The selection includes excerpts from Symphony No. 1, Symphony No. 5 and Suite for Jazz Orchestra No. 2, performed by different orchestras. The program also explains terms such as sonata, symphony, concerto, spalla, allegro and moderato."
+      ]
+    }
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "id": "cultura-escolas-livres-cultura",
+  "slug": "cultura-escolas-livres-cultura",
+  "section": "cultura",
+  "secondarySections": [],
+  "publishedAt": "2026-09-18T14:35:00-03:00",
+  "updatedAt": "2026-09-18T14:37:00-03:00",
+  "sources": [
+    {
+      "name": "Ministério da Cultura",
+      "url": "https://www.gov.br/cultura/pt-br/assuntos/noticias-defeso-eleitoral/minc-divulga-etapa-da-analise-da-certificacao-do-ii-edital-de-escolas-livres-de-formacao-em-arte-e-cultura"
+    }
+  ],
+  "translations": {
+    "pt-BR": {
+      "title": "MinC divulga etapa de certificação de Escolas Livres de Arte e Cultura",
+      "summary": "Organizações podem recorrer até 22 de setembro após a publicação da segunda etapa de análise do edital.",
+      "paragraphs": [
+        "O Ministério da Cultura publicou o resultado da segunda etapa de análise da certificação do II Edital de Escolas Livres de Formação em Arte e Cultura. Organizações interessadas podem apresentar recursos entre 18 e 22 de setembro, exclusivamente pela oportunidade nº 8204 na plataforma Mapa da Cultura.",
+        "O cronograma prevê análise dos recursos de 23 a 29 de setembro, divulgação do resultado em 30 de setembro e uma última etapa de documentação complementar, com resultado final previsto até 5 de novembro. A certificação reconhece organizações sem fins lucrativos e não implica repasse de recursos por si só."
+      ]
+    },
+    "en": {
+      "title": "Culture Ministry announces certification stage for free arts schools",
+      "summary": "Organizations may appeal through September 22 after the publication of the call's second review stage.",
+      "paragraphs": [
+        "Brazil's Ministry of Culture published the result of the second review stage for certification under the second call for Free Schools for Arts and Cultural Training. Organizations may appeal from September 18 to 22 exclusively through opportunity No. 8204 on the Mapa da Cultura platform.",
+        "The schedule sets review of appeals for September 23–29, publication of the result on September 30 and a final stage for complementary documents, with the final result expected by November 5. Certification recognizes nonprofit organizations and does not itself provide ministry funding."
+      ]
+    }
+  }
+}

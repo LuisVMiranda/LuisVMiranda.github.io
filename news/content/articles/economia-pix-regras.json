@@ -1,0 +1,32 @@
+{
+  "id": "economia-pix-regras",
+  "slug": "economia-pix-regras",
+  "section": "economia",
+  "secondarySections": [],
+  "publishedAt": "2026-09-18T11:47:00-03:00",
+  "updatedAt": "2026-09-18T11:47:00-03:00",
+  "sources": [
+    {
+      "name": "Agência Brasil",
+      "url": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-09/pix-tera-novas-regras-para-fraudes-cobranca-hibrida-e-contas-salario"
+    }
+  ],
+  "translations": {
+    "pt-BR": {
+      "title": "Pix terá regras novas para fraudes e contas-salário",
+      "summary": "Banco Central regulamenta cobrança híbrida e autoriza Pix Automático em contas-salário a partir de julho de 2027.",
+      "paragraphs": [
+        "O Banco Central anunciou mudanças no regulamento do Pix para ampliar funcionalidades, reforçar a segurança e aperfeiçoar a participação de instituições. O Pix Automático poderá ser usado em contas-salário a partir de julho de 2027.",
+        "A cobrança híbrida reunirá boleto e QR Code do Pix no mesmo documento para reduzir pagamentos indevidos ou duplicados, com regras válidas a partir de fevereiro de 2027. A exclusão do Pix de instituições em certas situações também terá efeito imediato."
+      ]
+    },
+    "en": {
+      "title": "Brazil's Pix gets new rules for fraud and salary accounts",
+      "summary": "The Central Bank regulates hybrid billing and authorizes Pix Automatic in salary accounts from July 2027.",
+      "paragraphs": [
+        "Brazil's Central Bank announced changes to Pix rules to expand functionality, strengthen security and refine institutions' participation. Pix Automatic will be available in salary accounts from July 2027.",
+        "Hybrid billing will put a bank slip and Pix QR Code on the same document to reduce mistaken or duplicate payments, with the rules taking effect in February 2027. In certain cases, institutions can also be removed from Pix immediately."
+      ]
+    }
+  }
+}

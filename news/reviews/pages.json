@@ -1,0 +1,292 @@
+{
+  "reviewer": "Primary agent /root",
+  "reviewedAt": "2026-09-20T02:26:46.800Z",
+  "evidence": "reviews/VALIDATION.md",
+  "categoryOrder": [
+    "functionality",
+    "design",
+    "accessibility_and_languages",
+    "modularity_and_concurrency",
+    "tests_and_integrity"
+  ],
+  "sharedFiles": {
+    "../.github/workflows/news.yml": "6c641dab0f958de601f5a4eb4ff24b17c3a758d7d021f8b32e6d906c0b79a4ed",
+    "astro.config.mjs": "c597b3eb10e0cf0bed18c6cfbdb1639d8cd0ca08ff1124253ca4179a6b65ccd5",
+    "eslint.config.mjs": "91f5b1ef67a25e73a3ae9686663f6bf6c8a130d5a4d423acb38b49db104227ee",
+    "package-lock.json": "adc0278ca44298015d6692835f3393731f32d54b5aca491896aa704135052d79",
+    "package.json": "78cfbbd4d1632b6181c87b2f8e7882929fdcc01778b4f0641c291bfdc9ba52d1",
+    "playwright.config.ts": "e23638ac27d651ee8f708e5153554a1e00d05c54820fd15e43e0a52d844af73a",
+    "scripts/astro.mjs": "ec30216d88c30cf10c01b0e2c889411f5d8245aaa1ae1abfa23e1513ba659e4d",
+    "scripts/build.ts": "b76fef91c4666b3235648365440f63c15af407d0992be91d75409fba76dccf02",
+    "scripts/check-cycles.ts": "07c3c5703ac89ea1ba897f94013b6829fef29aec7a4671663a34dde17ef06c59",
+    "scripts/check-files.ts": "e6810b14c202263ec7696627477746eb863ff4b77661a029346f40c26c6bce66",
+    "scripts/check-inline.ts": "4f2edee4f817144139b5aa890296bfcbf256530a60d7fe0b061879a5f86051eb",
+    "scripts/check-output.ts": "d769d1f41ef53074b3b00509ea01bed34ab64c7d4126f6f37cc9a58b098803f9",
+    "scripts/check-reviews.ts": "6c24e4d83abbf7a3313a22562e7cedfb21ed3f7712797eae79d0e32169542be5",
+    "scripts/content-files.ts": "ebc8ea3d38f102010499fdd2f2f02f0607f5c3b7c384a20263aea611f26571a4",
+    "scripts/deployment-check.ts": "29b4d6a217fa3c1cba1b1bd62c0145ee7b68750ce8390cf6e58a5410ce8b1907",
+    "scripts/edition.ts": "afbddfd5a836ddb6dc0e10946ca2325d77f3eec6d902ac56661755dd0c55b734",
+    "scripts/package-pages.ts": "5170b65a667f1f7271f638a3c26d7cee9eaadb04dec95f66bed7596688a93887",
+    "scripts/performance.ts": "2b252b46fd024f0ba34999f6bde533e3854299b95a2335b50d0da9e441c2e859",
+    "scripts/release-check.ts": "3b68ec72d0d0c2ec7f4b5d8f416a4b80b162bf43fad291078395abef422371a8",
+    "scripts/research.ts": "e5340aa3a334d0f0b80898f640fd4bf27e45cda521cce17e41f133d7e934d884",
+    "scripts/review.ts": "4098acda8ac0947de1ed27d253bfbdf4029c541f41009f895b6eba3364ddfc5c",
+    "scripts/serve.mjs": "f9be7ba3f8b738221ff9e1383055b9d54a9fb9fd7778f00a6c9f0dd2f0d2b364",
+    "src/components/SectionPage.astro": "6632194a10042a8c31c83b204821162c74614061839d8d6214526d84323d3597",
+    "src/components/StoryCard.astro": "ab365f97b8b4b1d6c079ea46aa5027186c5b28ddea84cf94aac1eab12f63b8c4",
+    "src/content.config.ts": "4df79b5f8dcb37df794f88a2794948fe85bf156de4b4a0ac2ba441fdf09beac2",
+    "src/layouts/Shell.astro": "d53e5b1b58fe9944b4eb690e86e14c38e5d95b932f62097790c81d529784792a",
+    "src/modules/content/catalog.ts": "0b7d76bbb5e564b8a4536db69fe827f9887a7e8394ec28d2334aca8d8a716368",
+    "src/modules/content/feed.ts": "eb09ee03062239e111b4ac6970ce271e0209447b40dc6ef55bfa5978cbc437a1",
+    "src/modules/content/schema.ts": "254e1491cb346be3a83371571c955e9a9b1918a7de8e4ea81af0a2824fb7e0ee",
+    "src/modules/content/sections.ts": "283ac0811d09a1070d58095e1161c654100f12a718c1e30f88714ded8f362916",
+    "src/modules/content/types.ts": "cd5d6895f64ae6572faad30c55e8c7bac0bbfb2595347953a9937cce9b5c56be",
+    "src/modules/content/urls.ts": "27dff764a1e56317a8ab9bdf151224db1caf22c5cfbcd851b86f270885fa00a6",
+    "src/modules/discovery/search.ts": "5b78612173f106663928db15de7446dae46a100f79ff2a2100759a2b184d65ba",
+    "src/modules/editions/integrity.ts": "3717c8b219296cdc116fb23757850b601e0d0b945a4e92a90c7a9691c2677ff7",
+    "src/modules/editions/page-reviews.ts": "727c9b7055ccd6080b11ba55bb6f04001ade91cdfcd34596880b0a3f97bcc812",
+    "src/modules/editions/publication.ts": "8f56318853fb13190af7b272702ebcb9a50827307c166b0e0a7fbc638930ab80",
+    "src/modules/editions/routes.ts": "0685a4c8deb564b78ec3ef5cb379899fe348439116d403dbc4931df7ed763d46",
+    "src/modules/preferences/client.ts": "ea373f16a290aca3b5701959cea91d01e095a6ab44bf71f0a8117342d774a416",
+    "src/modules/preferences/state.ts": "a43db6d25839261c9b6a3bb1b5d223ae2678d6af193c07c34621df629119762a",
+    "src/modules/research/adapters.ts": "8d4c1206ff87ad73485d388f265b1fd3c1b335118e394d6d31314bddc16a7df2",
+    "src/modules/research/rank.ts": "b44170bd5d9bbcf38ea130403ce94a19a8183b641f8fd0ef39cd57c4a86f7e54",
+    "src/modules/research/types.ts": "5962753e781c788315dff6e55798d530708aaee50629b5c3fd76297d8fc0256b",
+    "src/pages/[...route].astro": "8393b253ecba616e9993079b12af50141fcca88b79c5fdd1099197320fe54eca",
+    "src/pages/en/rss.xml.ts": "f9b5b80988c64e5ae988cd51cf2b3fa3a0c8c79e5dc1be2db4769634c70ef876",
+    "src/pages/rss.xml.ts": "34ceb22dab6281fce32fb50bb95d1e95b9ec07dc800f216ae07cd40e0e12ad37",
+    "src/pages/sitemap.xml.ts": "269f6c14520a85dd462887a2da47098cbc5c17fa8b95549d5d442378ee9486d5",
+    "src/styles/global.css": "04c0c12fa33d6f1bfc7b0f208154435d5710e41a7245856dfb6eca8e3581c077",
+    "tests/browser/journeys.spec.ts": "c3a2e9215fec21997abe322a36936f27ad089a2cac2040b87528937a4d24052c",
+    "tests/browser/layout.spec.ts": "018db1a2ccd28f6f82a276cc1e2970b9e9410bc4b64a18baf80893cb348c6ce4",
+    "tests/browser/pages.spec.ts": "f02f18b050784ce9fc75bbc9aca003deafb7f8a12ab8b601b3a64b73d668e2c6",
+    "tests/browser/search.spec.ts": "10bab8bdce74388e9b7cac1ed8eb7627e7dc145cd0b2c0a49b7afceb021b4019",
+    "tests/unit/archive.test.ts": "04617bcf3a81fcea581a550f04e38e12d2756fa869e35c1d1343e88049f5a79b",
+    "tests/unit/content.test.ts": "48c330495bdb42a6c9ae57b1be4f015238046e110dc6e06327bfca37e1f28c9a",
+    "tests/unit/contrast.test.ts": "adece7cd64243fb4db71e74386587335cfca47b707470eccd37ebbe240053c46",
+    "tests/unit/fixtures.ts": "509184020310be321510cfdc5b21d80cea1f997c30d33cdf16ce68d52c9096eb",
+    "tests/unit/page-reviews.test.ts": "647f25e97eb24230e6ffd69bfbc781afe8254b627285e7bc544c7323c29f1798",
+    "tests/unit/preferences.test.ts": "fd40310ccd1410dbc553ebe9c4ab4321c498072e0152b6d52c9ff903fe836961",
+    "tests/unit/publication.test.ts": "c39355db009bd1f62c4c566e0553259a68d2af3a3b755c16e60734b892c721e0",
+    "tests/unit/research-runs.test.ts": "120fe6be9f4225d2a602c9313db8ce5e346901d1d1681310853abc2d0af87e45",
+    "tests/unit/research.test.ts": "b95e5979c692f318be397bc4597aa24db8af4aac7ab9ad5dc6b39cb4610c0783",
+    "tests/unit/search.test.ts": "93034e5806f1e36bc7bf9a38b999de39342bfae41e495b2f11d834303cae92b7",
+    "tsconfig.json": "6730f313b6969ce972b883988d31892943de8a6cf329518d678cb31aee8e13dd",
+    "tsconfig.scripts.json": "e4b32140fbb3d230d092cb6ed2606eb23d4035955abee701df18c16e2fc8354a",
+    "../.gitattributes": "c66420f41cabe88c5685bdaa150f19dc2b86d34f6a06c748533d0cdc8cbf059b"
+  },
+  "pages": [
+    {
+      "page": "home",
+      "owner": "/root/home_luna",
+      "model": "gpt-5.6-luna",
+      "reasoning": "max",
+      "score": 9.4,
+      "categories": [2, 1.8, 1.9, 1.9, 1.8],
+      "attempts": [8, 8.5, 8.5, 9.4],
+      "checksPassed": true,
+      "notes": "Refined headline scale, edition-specific previews and strict first-ID guard.",
+      "files": {
+        "src/views/Home.astro": "3964e5e4a9ced5747eb5bb577738a269777f5a52681a7b499eff4379ddc69cea"
+      },
+      "approvedRevision": "1b815b84133d488063c6a0cedec0f3f6eb743d9f0f9b1e944ac4adac079d5cab"
+    },
+    {
+      "page": "brasil",
+      "owner": "/root/brasil",
+      "model": "gpt-5.6-luna",
+      "reasoning": "max",
+      "score": 9.4,
+      "categories": [2, 1.8, 1.9, 1.9, 1.8],
+      "attempts": [9.4],
+      "checksPassed": true,
+      "notes": "Reviewed localized page, section accents, source-backed draft references and responsive rendering.",
+      "files": {
+        "src/views/sections/Brasil.astro": "df016aae050275e4b817ad8f9bb54cd97906da377bacb629e15f566fd55a6b7a"
+      },
+      "approvedRevision": "88e29f6bb9027da8aa627c799fdf3066ee7b978d10a8b7b0e5000fd80ac74e2c"
+    },
+    {
+      "page": "mundo",
+      "owner": "/root/mundo",
+      "model": "gpt-5.6-luna",
+      "reasoning": "max",
+      "score": 9.4,
+      "categories": [2, 1.8, 1.9, 1.9, 1.8],
+      "attempts": [8.5, 9.4],
+      "checksPassed": true,
+      "notes": "Preserved source calendar dates for date-only publications.",
+      "files": {
+        "src/views/sections/Mundo.astro": "9fabed41f3065d18e023d9fc2e2cbce11a89efcc7dd2518b979e9958d7409841"
+      },
+      "approvedRevision": "27e4591850c8933bbcd7fc2aa531131c3fa5002fba4df0445eb8f64cd96e1eee"
+    },
+    {
+      "page": "politica",
+      "owner": "/root/politica",
+      "model": "gpt-5.6-luna",
+      "reasoning": "max",
+      "score": 9.4,
+      "categories": [2, 1.8, 1.9, 1.9, 1.8],
+      "attempts": [9.4],
+      "checksPassed": true,
+      "notes": "Reviewed localized page, section accents, source-backed draft references and responsive rendering.",
+      "files": {
+        "src/views/sections/Politica.astro": "75d5e5d95677ea53b9deb456e96d7aa3b99d2d7e676527d6da38d65a923b3b75"
+      },
+      "approvedRevision": "aae8447e51d6bd722bf3c9643f4fa7c0649481967970dd64a866cecea80ac584"
+    },
+    {
+      "page": "economia",
+      "owner": "/root/economia",
+      "model": "gpt-5.6-luna",
+      "reasoning": "max",
+      "score": 9.4,
+      "categories": [2, 1.8, 1.9, 1.9, 1.8],
+      "attempts": [9.4],
+      "checksPassed": true,
+      "notes": "Reviewed localized page, section accents, source-backed draft references and responsive rendering.",
+      "files": {
+        "src/views/sections/Economia.astro": "8eddb09ece3c1d3fe017867b8f18fa31f65cceae5b5e46eb79aa5c4184e296f6"
+      },
+      "approvedRevision": "310d0e1d2fb3a8c08a7c798c20560ea88d4f539b75a6bbafc98126f76b1256aa"
+    },
+    {
+      "page": "tecnologia",
+      "owner": "/root/tecnologia",
+      "model": "gpt-5.6-luna",
+      "reasoning": "max",
+      "score": 9.4,
+      "categories": [2, 1.8, 1.9, 1.9, 1.8],
+      "attempts": [8.5, 9.4],
+      "checksPassed": true,
+      "notes": "Preserved source calendar dates for date-only publications.",
+      "files": {
+        "src/views/sections/Tecnologia.astro": "795bd3034b198ae73a1f1821c24206e9377849454326d7a7f9fe61b9a62f0261"
+      },
+      "approvedRevision": "6327f77848c058ad7c75ae031ced5e04bcbe219cf8da081ab049ae815db96fb1"
+    },
+    {
+      "page": "ciencia",
+      "owner": "/root/ciencia",
+      "model": "gpt-5.6-luna",
+      "reasoning": "max",
+      "score": 9.4,
+      "categories": [2, 1.8, 1.9, 1.9, 1.8],
+      "attempts": [8.5, 9.4],
+      "checksPassed": true,
+      "notes": "Preserved source calendar dates for date-only publications.",
+      "files": {
+        "src/views/sections/Ciencia.astro": "7f60bcaf607b5d08a1b2fcd8ef6c1e169fb2a7d8c4c00127726638944bd153a8"
+      },
+      "approvedRevision": "0a00e317b5e75d1338f2f7b0e2b450c1fb9125fe9ced0770fe37d88d08722590"
+    },
+    {
+      "page": "cultura",
+      "owner": "/root/cultura",
+      "model": "gpt-5.6-luna",
+      "reasoning": "max",
+      "score": 9.4,
+      "categories": [2, 1.8, 1.9, 1.9, 1.8],
+      "attempts": [9.4],
+      "checksPassed": true,
+      "notes": "Reviewed localized page, section accents, source-backed draft references and responsive rendering.",
+      "files": {
+        "src/views/sections/Cultura.astro": "98b34097f87aeb613f87a636fcaaada1531084216f86fb6978ff61a2029b48d5"
+      },
+      "approvedRevision": "590659a1301ad3036cd52c287353d88e3309449e8030d63adc5b31581b7104a1"
+    },
+    {
+      "page": "esportes",
+      "owner": "/root/esportes",
+      "model": "gpt-5.6-luna",
+      "reasoning": "max",
+      "score": 9.4,
+      "categories": [2, 1.8, 1.9, 1.9, 1.8],
+      "attempts": [9.4],
+      "checksPassed": true,
+      "notes": "Reviewed localized page, section accents, source-backed draft references and responsive rendering.",
+      "files": {
+        "src/views/sections/Esportes.astro": "4df95229b60328b2910cf35e3de1e859a91d9471946e6977892c0f220a1fe6aa"
+      },
+      "approvedRevision": "104316943f3974db2ff9944e5c119d1e8f2ed342d9fbdeb57f2b32ae0be84dcf"
+    },
+    {
+      "page": "article",
+      "owner": "/root/article",
+      "model": "gpt-5.6-luna",
+      "reasoning": "max",
+      "score": 9.4,
+      "categories": [2, 1.8, 1.9, 1.9, 1.8],
+      "attempts": [8, 8.5, 9.4],
+      "checksPassed": true,
+      "notes": "Refined headline/source spacing, bilingual labels and secondary search filters.",
+      "files": {
+        "src/views/Article.astro": "b3e6ce5c6b9b94a749f1ad1e67152f1b009cc5de0f4c64abad7bafa1b2b44e2f"
+      },
+      "approvedRevision": "2a90bddb8e55ff944c6997a369759d2faf1bb78d55adfac23f90ac56071b7615"
+    },
+    {
+      "page": "search",
+      "owner": "/root/search",
+      "model": "gpt-5.6-luna",
+      "reasoning": "max",
+      "score": 9.4,
+      "categories": [2, 1.8, 1.9, 1.9, 1.8],
+      "attempts": [7.5, 9.4],
+      "checksPassed": true,
+      "notes": "Fixed lazy index loading, recovery and /news/ result paths.",
+      "files": {
+        "src/views/Search.astro": "d350ee7a1745e547f2ff1a79123fdb5e6d33ccf250623ecbf2e5c98d19a1eedc",
+        "src/modules/discovery/search.ts": "5b78612173f106663928db15de7446dae46a100f79ff2a2100759a2b184d65ba"
+      },
+      "approvedRevision": "a4b6464fec9036d828432c0ea4c86cbb3e3536cf691b97c02613fb1d2548c142"
+    },
+    {
+      "page": "archive",
+      "owner": "/root/archive",
+      "model": "gpt-5.6-luna",
+      "reasoning": "max",
+      "score": 9.3,
+      "categories": [2, 1.8, 1.9, 1.8, 1.8],
+      "attempts": [7, 8, 8.5, 9.3],
+      "checksPassed": true,
+      "notes": "Replaced client pagination, met file limit, deduplicated shared story count.",
+      "files": {
+        "src/views/Archive.astro": "3a2315d0055351792ad851c8beb29d87927a599797c7eded3fbb82f2d9fa8bde"
+      },
+      "approvedRevision": "18ba4cac71c46d5d14728071f542fcc4a7812c8a2226f03c0ecf2fea3efa0814"
+    },
+    {
+      "page": "editorial",
+      "owner": "/root/editorial",
+      "model": "gpt-5.6-luna",
+      "reasoning": "max",
+      "score": 9.2,
+      "categories": [2, 1.6, 1.9, 1.9, 1.8],
+      "attempts": [9.2],
+      "checksPassed": true,
+      "notes": "Reviewed localized page, section accents, source-backed draft references and responsive rendering.",
+      "files": {
+        "src/views/Editorial.astro": "4a11cb09efb2be02ad666992268bd29540fdb6f2550cc1510d697347ade90fc1"
+      },
+      "approvedRevision": "67a952f7a59414d5b777b2df467d821b9a9166b5f0d46aa4b741ab8ef4801699"
+    },
+    {
+      "page": "error",
+      "owner": "/root/error",
+      "model": "gpt-5.6-luna",
+      "reasoning": "max",
+      "score": 9.2,
+      "categories": [2, 1.6, 1.9, 1.9, 1.8],
+      "attempts": [8.5, 9.2],
+      "checksPassed": true,
+      "notes": "Added static Pages fallback and reduced inline function complexity.",
+      "files": {
+        "src/views/ErrorPage.astro": "74907043c63d4310e4f77a13eee355a316523c63474412047bbd74d7b6659908",
+        "static/404.html": "3112fa106cfe4c9c526f22484c09ab6aaeec94bd50c77fec6fde87418ce6ce53"
+      },
+      "approvedRevision": "e635b7e0f334fecb73f93e604e8d00349cd425e762bc74569ccc2448fd3fc5b2"
+    }
+  ]
+}

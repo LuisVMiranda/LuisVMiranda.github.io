@@ -1,0 +1,32 @@
+{
+  "id": "economia-bolsa-familia-reajuste",
+  "slug": "economia-bolsa-familia-reajuste",
+  "section": "economia",
+  "secondarySections": [],
+  "publishedAt": "2026-09-17T12:36:00-03:00",
+  "updatedAt": "2026-09-17T12:36:00-03:00",
+  "sources": [
+    {
+      "name": "Agência Brasil",
+      "url": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-09/bolsa-familia-e-reajustado-em-15-medida-vale-partir-de-outubro"
+    }
+  ],
+  "translations": {
+    "pt-BR": {
+      "title": "Bolsa Família terá reajuste de 15% a partir de outubro",
+      "summary": "Decreto eleva benefício mínimo para R$ 691 e valor médio para R$ 777, com correção baseada no INPC.",
+      "paragraphs": [
+        "O Bolsa Família será reajustado em 15%, variação do INPC entre março de 2023 e agosto de 2026. O benefício mínimo subirá para R$ 691 e o médio chegará a R$ 777.",
+        "O decreto foi publicado em edição extra do Diário Oficial e produz efeitos financeiros em 1º de outubro. Também fixa em R$ 164 o Benefício de Renda de Cidadania, R$ 173 o Benefício Primeira Infância e R$ 58 o Benefício Variável Familiar."
+      ]
+    },
+    "en": {
+      "title": "Bolsa Família benefit to rise 15% from October",
+      "summary": "A decree raises the minimum benefit to R$691 and the average to R$777, using the INPC inflation index.",
+      "paragraphs": [
+        "Brazil's Bolsa Família benefit will rise 15%, matching the INPC inflation variation from March 2023 to August 2026. The minimum benefit will reach R$691 and the average will reach R$777.",
+        "The decree was published in an extra edition of the official gazette and takes financial effect on October 1. It also sets the Citizenship Income Benefit at R$164, the Early Childhood Benefit at R$173 and the Family Variable Benefit at R$58."
+      ]
+    }
+  }
+}

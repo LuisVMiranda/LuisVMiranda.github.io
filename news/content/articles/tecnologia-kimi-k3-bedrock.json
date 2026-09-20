@@ -1,0 +1,33 @@
+{
+  "id": "tecnologia-kimi-k3-bedrock",
+  "slug": "tecnologia-kimi-k3-bedrock",
+  "section": "tecnologia",
+  "secondarySections": [],
+  "publishedAt": "2026-09-18T00:00:00Z",
+  "publishedDate": "2026-09-18",
+  "updatedAt": "2026-09-18T00:00:00Z",
+  "sources": [
+    {
+      "name": "AWS",
+      "url": "https://aws.amazon.com/about-aws/whats-new/2026/09/moonshot-ai-kimi-k3-on-amazon-bedrock/"
+    }
+  ],
+  "translations": {
+    "pt-BR": {
+      "title": "Kimi K3 chega ao Amazon Bedrock com janela de um milhão de tokens",
+      "summary": "Modelo aberto da Moonshot AI combina visão nativa e ferramentas para programação e análise de documentos.",
+      "paragraphs": [
+        "A AWS anunciou em 18 de setembro a disponibilidade geral do Kimi K3, da Moonshot AI, no serviço Amazon Bedrock. A empresa descreve o modelo como sua opção aberta mais capaz e registra a alegação da Moonshot de que ele tem 2,8 trilhões de parâmetros.",
+        "O Kimi K3 oferece visão nativa, janela de contexto de 1 milhão de tokens e cache explícito de prompts, recursos voltados a código, documentos longos e agentes. A AWS informa que o modelo pode ser usado nas regiões em que o Bedrock está disponível por inferência entre regiões."
+      ]
+    },
+    "en": {
+      "title": "Kimi K3 reaches Amazon Bedrock with a one-million-token window",
+      "summary": "Moonshot AI's open model combines native vision with tools for coding and long-document analysis.",
+      "paragraphs": [
+        "AWS announced on September 18 the general availability of Moonshot AI's Kimi K3 on Amazon Bedrock. The company describes it as Moonshot's most capable open model and records Moonshot's claim that it has 2.8 trillion parameters.",
+        "Kimi K3 offers native vision, a one-million-token context window and explicit prompt caching for coding, long documents and agent workflows. AWS says it can be used in regions where Bedrock is available through cross-Region inference."
+      ]
+    }
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "id": "brasil-petrobras-subsidio-diesel",
+  "slug": "brasil-petrobras-subsidio-diesel",
+  "section": "brasil",
+  "secondarySections": ["economia"],
+  "publishedAt": "2026-09-19T17:55:00-03:00",
+  "updatedAt": "2026-09-19T17:55:00-03:00",
+  "sources": [
+    {
+      "name": "Agência Brasil",
+      "url": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-09/petrobras-aprova-adesao-subvencao-ao-oleo-diesel"
+    }
+  ],
+  "translations": {
+    "pt-BR": {
+      "title": "Petrobras adere a subsídio de R$ 1 por litro para o diesel",
+      "summary": "Conselho aprovou adesão ao programa federal por 30 dias, com desconto repassado às revendedoras.",
+      "paragraphs": [
+        "O Conselho de Administração da Petrobras aprovou a adesão da empresa à subvenção econômica para produtores e importadores de óleo diesel. O programa, criado pela Medida Provisória 1.391, prevê R$ 1 por litro do diesel A rodoviário por 30 dias, com possibilidade de prorrogação.",
+        "A companhia informou que o valor será convertido em desconto para as revendedoras. Como também elevou em R$ 1 o preço de venda nesta semana, a combinação mantém o valor do diesel no mesmo nível; a Petrobras ainda recebeu R$ 448 milhões de outro programa de subvenção."
+      ]
+    },
+    "en": {
+      "title": "Petrobras joins R$1-per-liter diesel subsidy program",
+      "summary": "The board approved a 30-day participation in the federal program, with the discount passed to retailers.",
+      "paragraphs": [
+        "Petrobras's board approved the company's participation in an economic subsidy for diesel producers and importers. Created by Provisional Measure 1,391, the program provides R$1 per liter of road diesel A for 30 days, with a possible extension.",
+        "The company said the amount will become a discount for retailers. Because it also raised its selling price by R$1 this week, the two measures keep the diesel price at the same level; Petrobras separately received R$448 million from another subsidy program."
+      ]
+    }
+  }
+}

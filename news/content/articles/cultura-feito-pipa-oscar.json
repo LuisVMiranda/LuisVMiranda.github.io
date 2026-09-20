@@ -1,0 +1,32 @@
+{
+  "id": "cultura-feito-pipa-oscar",
+  "slug": "cultura-feito-pipa-oscar",
+  "section": "cultura",
+  "secondarySections": [],
+  "publishedAt": "2026-09-16T17:04:00-03:00",
+  "updatedAt": "2026-09-16T17:04:00-03:00",
+  "sources": [
+    {
+      "name": "Agência Brasil",
+      "url": "https://agenciabrasil.ebc.com.br/cultura/noticia/2026-09/filme-feito-pipa-e-escolhido-para-representar-brasil-no-oscar-2027"
+    }
+  ],
+  "translations": {
+    "pt-BR": {
+      "title": "Feito Pipa é escolhido para representar o Brasil no Oscar 2027",
+      "summary": "Filme de Allan Deberton foi selecionado entre seis títulos e chega à disputa após premiações no Festival de Gramado.",
+      "paragraphs": [
+        "Feito Pipa, de Allan Deberton, foi escolhido pela Academia Brasileira de Cinema e Artes Visuais para disputar uma indicação de Melhor Filme Internacional no Oscar 2027. O longa foi selecionado entre seis pré-finalistas, depois de 15 filmes inscritos.",
+        "Rodado em Quixadá, no sertão do Ceará, o filme acompanha um menino de 11 anos que tenta lidar com a saúde fragilizada da avó. No Festival de Gramado, recebeu prêmios de direção, atriz, ator coadjuvante, filme pelo júri popular e menção honrosa."
+      ]
+    },
+    "en": {
+      "title": "Feito Pipa chosen to represent Brazil at the 2027 Oscars",
+      "summary": "Allan Deberton's film was selected from six titles after receiving awards at the Gramado Film Festival.",
+      "paragraphs": [
+        "Feito Pipa, directed by Allan Deberton, was chosen by the Brazilian Academy of Cinema and Audiovisual Arts to compete for a 2027 Oscar nomination for Best International Feature. The film was selected from six finalists after 15 entries were submitted.",
+        "Shot in Quixadá in Ceará's backlands, it follows an 11-year-old boy trying to deal with his grandmother's fragile health. At the Gramado Film Festival, it received awards for direction, actress, supporting actor and audience-voted film, as well as an honorable mention."
+      ]
+    }
+  }
+}

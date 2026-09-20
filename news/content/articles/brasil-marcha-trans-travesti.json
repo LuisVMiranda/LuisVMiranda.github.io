@@ -1,0 +1,32 @@
+{
+  "id": "brasil-marcha-trans-travesti",
+  "slug": "brasil-marcha-trans-travesti",
+  "section": "brasil",
+  "secondarySections": [],
+  "publishedAt": "2026-09-19T18:41:00-03:00",
+  "updatedAt": "2026-09-19T18:41:00-03:00",
+  "sources": [
+    {
+      "name": "Agência Brasil",
+      "url": "https://agenciabrasil.ebc.com.br/direitos-humanos/noticia/2026-09/transexuais-e-travestis-fazem-ato-em-defesa-da-democracia"
+    }
+  ],
+  "translations": {
+    "pt-BR": {
+      "title": "Marcha Trans e Travesti reúne participantes no Rio em defesa da democracia",
+      "summary": "A quinta edição levou mobilização por direitos e serviços de saúde e cidadania ao centro da cidade.",
+      "paragraphs": [
+        "A quinta Marcha Trans & Travesti ocupou o centro do Rio de Janeiro neste sábado, com defesa dos direitos da população trans e travesti. O tema da edição foi a defesa da democracia e o direito de existir, circular e acessar políticas públicas.",
+        "Além da mobilização, o evento ofereceu retificação do nome civil pela Defensoria Pública, vacinação contra a gripe e testes para HIV e outras infecções. A marcha começou em 2022, inspirada em uma caminhada realizada em 1993."
+      ]
+    },
+    "en": {
+      "title": "Trans and travesti march brings Rio gathering in defense of democracy",
+      "summary": "The fifth edition combined a rights demonstration with health and citizenship services in downtown Rio.",
+      "paragraphs": [
+        "The fifth Trans & Travesti March took place in downtown Rio de Janeiro on Saturday, calling for the rights of trans and travesti people. This year's theme was defending democracy and the right to exist, move through the city and access public services.",
+        "Alongside the demonstration, the event offered civil-name changes through the public defender's office, flu vaccination and testing for HIV and other infections. The march began in 2022, inspired by a 1993 walk."
+      ]
+    }
+  }
+}

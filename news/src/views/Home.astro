@@ -1,0 +1,491 @@
+---
+import type {
+  Article,
+  Edition,
+  Locale,
+  SectionId,
+} from '../modules/content/types';
+import {
+  sectionLabel,
+  sections,
+  sectionStyle,
+} from '../modules/content/sections';
+import {
+  articleDate,
+  articleUrl,
+  formatArticleDate,
+  sectionUrl,
+} from '../modules/content/urls';
+import StoryCard from '../components/StoryCard.astro';
+
+interface Props {
+  locale: Locale;
+  articles: Article[];
+  edition?: Edition;
+}
+
+const { locale, articles, edition } = Astro.props;
+const articlesById = new Map(articles.map((article) => [article.id, article]));
+
+function orderedEditionArticles(): Article[] {
+  const ordered: Article[] = [];
+  const seen = new Set<string>();
+  const addArticle = (id: string | undefined) => {
+    const article = id ? articlesById.get(id) : undefined;
+    if (!article || seen.has(article.id)) return;
+    seen.add(article.id);
+    ordered.push(article);
+  };
+
+  addArticle(edition?.leadArticleId);
+  sections.forEach(({ id }) => {
+    edition?.sections[id].articleIds.forEach(addArticle);
+  });
+  return ordered;
+}
+
+const approvedArticles = edition ? orderedEditionArticles() : articles;
+const leadArticle = edition?.leadArticleId
+  ? (articlesById.get(edition.leadArticleId) ?? approvedArticles[0])
+  : approvedArticles[0];
+const latestArticles = leadArticle
+  ? approvedArticles
+      .filter((article) => article.id !== leadArticle.id)
+      .sort(
+        (left, right) =>
+          Date.parse(right.publishedAt) - Date.parse(left.publishedAt),
+      )
+      .slice(0, 3)
+  : [...approvedArticles]
+      .sort(
+        (left, right) =>
+          Date.parse(right.publishedAt) - Date.parse(left.publishedAt),
+      )
+      .slice(0, 3);
+
+function belongsToSection(article: Article, sectionId: SectionId): boolean {
+  return (
+    article.section === sectionId ||
+    article.secondarySections.includes(sectionId)
+  );
+}
+
+const copy =
+  locale === 'pt-BR'
+    ? {
+        kicker: 'O que importa hoje',
+        latest: 'Últimas notícias',
+        sections: 'Por editoria',
+        readStory: 'Ler a reportagem',
+        viewSection: 'Ver editoria',
+        published: 'Publicado',
+        noStories: 'Ainda não há notícias aprovadas para esta edição.',
+        noStoriesHint:
+          'As editorias abaixo serão preenchidas quando houver uma seleção aprovada.',
+        noLatest: 'Ainda não há outras notícias aprovadas.',
+        sectionEmpty: 'Nenhuma notícia aprovada nesta editoria.',
+      }
+    : {
+        kicker: 'The stories that matter',
+        latest: 'Latest news',
+        sections: 'Across the desks',
+        readStory: 'Read the story',
+        viewSection: 'View section',
+        published: 'Published',
+        noStories: 'No approved stories are available for this edition yet.',
+        noStoriesHint:
+          'These desks will fill when an approved selection is ready.',
+        noLatest: 'There are no other approved stories yet.',
+        sectionEmpty: 'No approved story in this section yet.',
+      };
+---
+
+<div class="home-page">
+  <section class="brief" aria-labelledby="brief-title">
+    <p class="eyebrow">{copy.kicker}</p>
+
+    <div class="brief-grid">
+      {leadArticle ? (
+        <article class="lead-story" style={sectionStyle(leadArticle.section)}>
+          <p class="story-label">
+            <span>{sectionLabel(leadArticle.section, locale)}</span>
+          </p>
+          <h1 id="brief-title">{leadArticle.translations[locale].title}</h1>
+          <p class="lead-summary">{leadArticle.translations[locale].summary}</p>
+          <p class="lead-meta">
+            {copy.published} {formatArticleDate(leadArticle, locale)}
+          </p>
+          <a class="read-link" href={articleUrl(leadArticle, locale)}>
+            {copy.readStory} <span aria-hidden="true">↗</span>
+          </a>
+        </article>
+      ) : (
+        <div class="lead-empty">
+          <h1 id="brief-title">{copy.noStories}</h1>
+          <p>{copy.noStoriesHint}</p>
+        </div>
+      )}
+
+      <aside class="latest-news" aria-labelledby="latest-title">
+        <p class="eyebrow" id="latest-title">
+          {copy.latest}
+        </p>
+        {latestArticles.length > 0 ? (
+          <div class="latest-list">
+            {latestArticles.map((article, index) => {
+              const translation = article.translations[locale];
+              return (
+                <article
+                  class="latest-item"
+                  style={sectionStyle(article.section)}
+                >
+                  <p class="latest-meta">
+                    <span class="latest-rank">
+                      {String(index + 1).padStart(2, '0')}
+                    </span>
+                    <span>{sectionLabel(article.section, locale)}</span>
+                    <time datetime={articleDate(article)}>
+                      {formatArticleDate(article, locale)}
+                    </time>
+                  </p>
+                  <h3>
+                    <a href={articleUrl(article, locale)}>
+                      {translation.title}
+                    </a>
+                  </h3>
+                </article>
+              );
+            })}
+          </div>
+        ) : (
+          <p class="quiet-state">{copy.noLatest}</p>
+        )}
+      </aside>
+    </div>
+  </section>
+
+  <section class="section-previews" aria-labelledby="sections-title">
+    <div class="section-intro">
+      <p class="eyebrow" id="sections-title">
+        {copy.sections}
+      </p>
+    </div>
+
+    <div class="section-grid">
+      {sections.map((section) => {
+        const firstArticleId = edition?.sections[section.id].articleIds[0];
+        const sectionArticle = edition
+          ? firstArticleId
+            ? articlesById.get(firstArticleId)
+            : undefined
+          : approvedArticles.find((article) =>
+              belongsToSection(article, section.id),
+            );
+        return (
+          <article class="section-preview" style={sectionStyle(section.id)}>
+            <header class="section-preview-header">
+              <p class="section-name">{sectionLabel(section.id, locale)}</p>
+              <a
+                href={sectionUrl(section.id, locale)}
+                aria-label={`${copy.viewSection}: ${sectionLabel(section.id, locale)}`}
+              >
+                {copy.viewSection} <span aria-hidden="true">↗</span>
+              </a>
+            </header>
+            {sectionArticle ? (
+              <StoryCard article={sectionArticle} locale={locale} />
+            ) : (
+              <p class="section-empty">{copy.sectionEmpty}</p>
+            )}
+          </article>
+        );
+      })}
+    </div>
+  </section>
+</div>
+
+<style>
+  .home-page {
+    color: var(--ink);
+    margin: 0 auto;
+    max-width: 76rem;
+    padding: clamp(1rem, 3vw, 2rem) 0 clamp(2rem, 4vw, 4rem);
+  }
+
+  .home-page * {
+    box-sizing: border-box;
+  }
+
+  .home-page a {
+    color: inherit;
+  }
+
+  .brief,
+  .section-previews {
+    border-top: 1px solid var(--rule);
+  }
+
+  .brief {
+    padding-top: 1.35rem;
+  }
+
+  .eyebrow,
+  .story-label,
+  .section-name,
+  .section-preview-header a,
+  .lead-meta,
+  .quiet-state,
+  .section-empty {
+    font-family: 'Inter', sans-serif;
+  }
+
+  .eyebrow {
+    color: var(--muted);
+    font-size: 0.72rem;
+    font-weight: 700;
+    letter-spacing: 0.13em;
+    margin: 0 0 1.8rem;
+    text-transform: uppercase;
+  }
+
+  .brief-grid {
+    display: grid;
+    gap: clamp(2.5rem, 6vw, 5rem);
+    grid-template-columns: minmax(0, 1.65fr) minmax(16rem, 0.85fr);
+  }
+
+  .lead-story,
+  .lead-empty {
+    border-bottom: 1px solid var(--rule);
+    padding: 0 0 clamp(2rem, 4vw, 3.4rem);
+  }
+
+  .lead-story {
+    --lead-accent: var(--section-accent, var(--section-dark));
+  }
+
+  .story-label {
+    align-items: center;
+    color: var(--lead-accent);
+    display: flex;
+    flex-wrap: wrap;
+    font-size: 0.72rem;
+    font-weight: 700;
+    gap: 0.5rem;
+    letter-spacing: 0.09em;
+    margin: 0 0 1.2rem;
+    text-transform: uppercase;
+  }
+
+  h1,
+  h2,
+  p {
+    margin-top: 0;
+  }
+
+  h1 {
+    color: var(--lead-accent, var(--ink));
+    font-family: 'Source Serif 4', Georgia, serif;
+    font-size: clamp(2rem, 4.5vw, 3.75rem);
+    font-weight: 650;
+    letter-spacing: -0.045em;
+    line-height: 0.99;
+    margin-bottom: 1.5rem;
+    max-width: 20ch;
+  }
+
+  .lead-summary {
+    color: var(--muted);
+    font-family: 'Source Serif 4', Georgia, serif;
+    font-size: clamp(1.2rem, 2.5vw, 1.65rem);
+    line-height: 1.35;
+    margin-bottom: 1.7rem;
+    max-width: 50ch;
+  }
+
+  .lead-meta {
+    color: var(--muted);
+    font-size: 0.74rem;
+    line-height: 1.5;
+    margin-bottom: 1.25rem;
+  }
+
+  .read-link {
+    border-bottom: 1px solid var(--lead-accent, var(--ink));
+    color: var(--lead-accent, var(--ink));
+    display: inline-block;
+    font-family: 'Inter', sans-serif;
+    font-size: 0.8rem;
+    font-weight: 700;
+    padding-bottom: 0.45rem;
+    text-decoration: none;
+  }
+
+  .read-link:hover,
+  .read-link:focus-visible,
+  .section-preview-header a:hover,
+  .section-preview-header a:focus-visible {
+    text-decoration: underline;
+    text-underline-offset: 0.25em;
+  }
+
+  .latest-news {
+    border-left: 1px solid var(--rule);
+    padding-left: clamp(1.25rem, 3vw, 2rem);
+  }
+
+  .latest-news .eyebrow {
+    color: var(--muted);
+    margin-bottom: 0.6rem;
+  }
+
+  .latest-list {
+    display: grid;
+    gap: 0;
+  }
+
+  .latest-item {
+    --latest-accent: var(--section-accent, var(--section-dark));
+    border-top: 1px solid var(--rule);
+    padding: 0.75rem 0 0.85rem;
+  }
+
+  .latest-item:first-child {
+    border-top: 0;
+    padding-top: 0.25rem;
+  }
+
+  .latest-meta {
+    align-items: baseline;
+    color: var(--muted);
+    display: flex;
+    flex-wrap: wrap;
+    font-family: 'Inter', sans-serif;
+    font-size: 0.67rem;
+    gap: 0.35rem 0.55rem;
+    letter-spacing: 0.04em;
+    line-height: 1.35;
+    margin: 0 0 0.35rem;
+    text-transform: uppercase;
+  }
+
+  .latest-meta time {
+    margin-left: auto;
+    text-transform: none;
+  }
+
+  .latest-rank {
+    color: var(--latest-accent);
+    font-variant-numeric: tabular-nums;
+    font-weight: 700;
+  }
+
+  .latest-item h3 {
+    color: var(--latest-accent);
+    font-family: 'Source Serif 4', Georgia, serif;
+    font-size: clamp(1.05rem, 1.8vw, 1.35rem);
+    letter-spacing: -0.02em;
+    line-height: 1.15;
+    margin: 0;
+  }
+
+  .latest-item h3 a {
+    text-decoration: none;
+  }
+
+  .latest-item h3 a:hover,
+  .latest-item h3 a:focus-visible {
+    text-decoration: underline;
+    text-underline-offset: 0.18em;
+  }
+
+  .quiet-state,
+  .section-empty {
+    color: var(--muted);
+    font-size: 0.83rem;
+    line-height: 1.55;
+    margin-bottom: 0;
+  }
+
+  .section-previews {
+    margin-top: clamp(3rem, 8vw, 6.5rem);
+    padding-top: 1.35rem;
+  }
+
+  .section-intro .eyebrow {
+    margin-bottom: 1.8rem;
+  }
+
+  .section-grid {
+    display: grid;
+    gap: 1px;
+    background: var(--rule);
+    border: 1px solid var(--rule);
+    grid-template-columns: repeat(4, minmax(0, 1fr));
+  }
+
+  .section-preview {
+    --preview-accent: var(--section-accent, var(--section-dark));
+    background: var(--paper);
+    min-width: 0;
+    padding: 1.2rem;
+  }
+
+  .section-preview-header {
+    align-items: baseline;
+    border-bottom: 2px solid var(--preview-accent);
+    display: flex;
+    gap: 0.75rem;
+    justify-content: space-between;
+    margin-bottom: 1rem;
+    padding-bottom: 0.65rem;
+  }
+
+  .section-name {
+    color: var(--preview-accent);
+    font-size: 0.74rem;
+    font-weight: 800;
+    letter-spacing: 0.09em;
+    margin-bottom: 0;
+    text-transform: uppercase;
+  }
+
+  .section-preview-header a {
+    color: var(--muted);
+    flex: 0 0 auto;
+    font-size: 0.65rem;
+    text-decoration: none;
+  }
+
+  @media (max-width: 60rem) {
+    .section-grid {
+      grid-template-columns: repeat(2, minmax(0, 1fr));
+    }
+  }
+
+  @media (max-width: 48rem) {
+    .brief-grid {
+      grid-template-columns: 1fr;
+    }
+
+    .latest-news {
+      border-left: 0;
+      border-top: 1px solid var(--rule);
+      padding: 1.5rem 0 0;
+    }
+
+    .section-grid {
+      grid-template-columns: 1fr;
+    }
+  }
+
+  @media (max-width: 30rem) {
+    h1 {
+      font-size: clamp(2rem, 12vw, 3rem);
+    }
+
+    .section-preview {
+      padding: 1rem;
+    }
+  }
+</style>

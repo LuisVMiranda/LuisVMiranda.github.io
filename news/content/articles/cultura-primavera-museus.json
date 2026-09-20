@@ -1,0 +1,32 @@
+{
+  "id": "cultura-primavera-museus",
+  "slug": "cultura-primavera-museus",
+  "section": "cultura",
+  "secondarySections": [],
+  "publishedAt": "2026-09-18T08:35:00-03:00",
+  "updatedAt": "2026-09-18T14:04:00-03:00",
+  "sources": [
+    {
+      "name": "Instituto Brasileiro de Museus (Ibram)",
+      "url": "https://www.gov.br/museus/pt-br/comunicados-defeso-eleitoral/20a-primavera-dos-museus-comeca-nesta-segunda-feira-em-todo-o-brasil"
+    }
+  ],
+  "translations": {
+    "pt-BR": {
+      "title": "Primavera dos Museus reúne instituições de todo o país a partir do dia 21",
+      "summary": "A 20ª edição será realizada de 21 a 27 de setembro com o tema “Museus para Todas as Pessoas” e cerca de 2.700 atividades cadastradas.",
+      "paragraphs": [
+        "A 20ª Primavera dos Museus acontece de 21 a 27 de setembro, reunindo museus, Pontos de Memória e instituições culturais de diferentes regiões. Promovida pelo Instituto Brasileiro de Museus, a edição tem como tema “Museus para Todas as Pessoas”.",
+        "A programação cadastrada inclui exposições, palestras, oficinas, seminários, rodas de conversa, visitas mediadas e ações educativas. A abertura será no dia 21, em Brasília, com lançamento de selo postal e palestra sobre acessibilidade, diversidade, representatividade, direito à memória e pertencimento."
+      ]
+    },
+    "en": {
+      "title": "Museum Spring brings institutions across Brazil together from September 21",
+      "summary": "The 20th edition runs from September 21 to 27 under the theme “Museums for Everyone” with about 2,700 activities registered.",
+      "paragraphs": [
+        "The 20th Museum Spring takes place from September 21 to 27, bringing together museums, Memory Points and cultural institutions from different regions. Organized by the Brazilian Institute of Museums, this year's theme is “Museums for Everyone.”",
+        "The registered program includes exhibitions, talks, workshops, seminars, discussion circles, guided visits and educational activities. The opening on September 21 in Brasília will feature a commemorative stamp and a talk on accessibility, diversity, representation, the right to memory and belonging."
+      ]
+    }
+  }
+}

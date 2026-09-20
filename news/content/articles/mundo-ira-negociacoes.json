@@ -1,0 +1,33 @@
+{
+  "id": "mundo-ira-negociacoes",
+  "slug": "mundo-ira-negociacoes",
+  "section": "mundo",
+  "secondarySections": [],
+  "publishedAt": "2026-09-19T00:00:00Z",
+  "publishedDate": "2026-09-19",
+  "updatedAt": "2026-09-19T00:00:00Z",
+  "sources": [
+    {
+      "name": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/9/19/iran-says-conditions-to-re-engage-in-talks-end-war-sent-to-us-via-qatar"
+    }
+  ],
+  "translations": {
+    "pt-BR": {
+      "title": "Irã envia a Washington condições para retomar negociações",
+      "summary": "Chefe de segurança diz que Teerã quer fim da guerra, liberação de fundos congelados e fim do bloqueio naval.",
+      "paragraphs": [
+        "Mohsen Rezaei, secretário do Conselho Supremo de Segurança Nacional do Irã, disse à Al Jazeera que mediadores do Catar transmitiram a Washington as condições de Teerã para encerrar a guerra. Ele afirmou que o governo aguarda a resposta do presidente Donald Trump.",
+        "As condições citadas incluem o fim da guerra em todas as frentes, a liberação de fundos iranianos congelados e o fim do bloqueio naval. Catar e Paquistão tentam reabrir as negociações, enquanto Rezaei disse que o Irã continua preparado para um novo confronto."
+      ]
+    },
+    "en": {
+      "title": "Iran sends Washington conditions for renewed negotiations",
+      "summary": "The security chief says Tehran wants an end to the war, the release of frozen funds and an end to the naval blockade.",
+      "paragraphs": [
+        "Mohsen Rezaei, secretary of Iran's Supreme National Security Council, told Al Jazeera that Qatari mediators had conveyed Tehran's conditions to Washington for ending the war. He said the government is awaiting President Donald Trump's response.",
+        "The conditions include ending the war on all fronts, releasing frozen Iranian funds and ending the naval blockade. Qatar and Pakistan are working to reopen negotiations, while Rezaei said Iran remains prepared for another confrontation."
+      ]
+    }
+  }
+}

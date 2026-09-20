@@ -1,0 +1,32 @@
+{
+  "id": "economia-bc-selic",
+  "slug": "economia-bc-selic",
+  "section": "economia",
+  "secondarySections": [],
+  "publishedAt": "2026-09-16T18:39:00-03:00",
+  "updatedAt": "2026-09-16T18:39:00-03:00",
+  "sources": [
+    {
+      "name": "Agência Brasil",
+      "url": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-09/bc-reduz-juros-basicos-para-1375-ao-ano"
+    }
+  ],
+  "translations": {
+    "pt-BR": {
+      "title": "Banco Central reduz Selic para 13,75% ao ano",
+      "summary": "Copom faz o quinto corte seguido em meio à incerteza externa, inflação abaixo do teto e projeções de crescimento para 2026.",
+      "paragraphs": [
+        "O Comitê de Política Monetária reduziu a Selic em 0,25 ponto percentual, para 13,75% ao ano, no quinto corte consecutivo. A decisão foi unânime e era esperada pelo mercado.",
+        "O Banco Central citou a incerteza dos conflitos no Oriente Médio e o El Niño. A inflação de agosto ficou em -0,32%, enquanto o Focus projetava 4,9% para 2026; a autoridade elevou sua previsão de crescimento para 2% no último relatório."
+      ]
+    },
+    "en": {
+      "title": "Brazil's Central Bank cuts Selic to 13.75% a year",
+      "summary": "The Copom delivers a fifth straight cut amid external uncertainty, inflation below the ceiling and 2026 growth projections.",
+      "paragraphs": [
+        "Brazil's Monetary Policy Committee cut the Selic rate by 0.25 percentage point to 13.75% a year, the fifth consecutive cut. The decision was unanimous and had been expected by financial markets.",
+        "The Central Bank cited uncertainty from conflicts in the Middle East and the El Niño climate pattern. August inflation was -0.32%, while the Focus survey projected 4.9% for 2026; the bank's latest report raised its growth forecast to 2%."
+      ]
+    }
+  }
+}

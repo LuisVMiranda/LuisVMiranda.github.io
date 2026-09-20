@@ -1,0 +1,95 @@
+{
+  "section": "mundo",
+  "cutoff": "2026-09-20T00:38:06.402Z",
+  "queries": [
+    "Mundo notícias internacionais",
+    "World latest news world",
+    "site:apnews.com world September 19 2026 Saudi Arabia Greenland Pakistan",
+    "site:aljazeera.com September 19 2026 Iran talks conditions Qatar",
+    "site:apnews.com September 18 2026 Cuba blackout millions",
+    "site:apnews.com September 18 2026 Canada associate membership EU",
+    "site:apnews.com September 18 2026 Zelenskyy regional summit",
+    "site:apnews.com September 17 2026 IOM migrants Europe deaths",
+    "site:aljazeera.com September 19 2026 South Africa nine women bodies",
+    "site:apnews.com September 18 2026 UN chief Guterres"
+  ],
+  "verified": [
+    {
+      "articleId": "mundo-riade-houthis",
+      "url": "https://apnews.com/article/yemen-saudi-arabia-b1286cad816dd3e553f50f6dd5205972",
+      "publishedAt": "2026-09-19T20:10:52Z",
+      "evidence": "A página original da AP informa publicação em 19/09/2026 e confirma que a Arábia Saudita disse ter interceptado um míssil balístico lançado pelos houthis contra Riad; também registra explosão, fumaça e ausência de relatos de mortos ou danos.",
+      "selectionReason": "Crise regional de impacto internacional, com implicações para segurança do Golfo e rotas de energia, verificada em fonte global no mesmo dia."
+    },
+    {
+      "articleId": "mundo-groenlandia-acordo",
+      "url": "https://apnews.com/article/trump-greenland-military-denmark-0eac9ad2196551525bcb8c71e80c480e",
+      "publishedAt": "2026-09-19T09:37:44Z",
+      "evidence": "A reportagem original da AP, publicada em 19/09/2026, relata o anúncio de um acordo para ampliar a presença militar dos EUA na Groenlândia, manter a ilha sob controle dinamarquês e submeter o pacto a aprovações futuras.",
+      "selectionReason": "Decisão estratégica envolvendo EUA, Dinamarca, Groenlândia e Otan, com relevância para a segurança do Ártico e diplomacia transatlântica."
+    },
+    {
+      "articleId": "mundo-ira-negociacoes",
+      "url": "https://www.aljazeera.com/news/2026/9/19/iran-says-conditions-to-re-engage-in-talks-end-war-sent-to-us-via-qatar",
+      "publishedAt": "2026-09-19T00:00:00Z",
+      "publishedDate": "2026-09-19",
+      "evidence": "A página original da Al Jazeera informa apenas a data de publicação, 19/09/2026, e atribui ao chefe de segurança iraniano a confirmação de condições transmitidas pelos mediadores do Catar: fim da guerra, liberação de fundos congelados e fim do bloqueio naval. publishedDate preserva a data exibida; publishedAt permanece normalizado em 00:00Z apenas para ordenação.",
+      "selectionReason": "Sinal diplomático direto em um conflito com efeitos regionais e globais; a fonte identifica o entrevistado e separa declarações de fatos confirmados."
+    },
+    {
+      "articleId": "mundo-paquistao-mesquita",
+      "url": "https://apnews.com/article/pakistan-police-mosque-bombing-militant-attack-northwest-b63e9cf30e8b871616b7d0f94cbaff6d",
+      "publishedAt": "2026-09-19T06:43:00Z",
+      "evidence": "A página original da AP, publicada em 19/09/2026, registra o atentado em Kohat, com 21 mortos e 103 feridos, e o fim do cerco de 20 horas pelas forças paquistanesas.",
+      "selectionReason": "Ataque de grande impacto humano na fronteira com o Afeganistão, com risco de escalada regional e informações confirmadas por autoridades locais citadas pela AP."
+    },
+    {
+      "articleId": "mundo-cuba-apagao",
+      "url": "https://www.local10.com/news/world/2026/09/18/cuba-hit-with-another-blackout-as-millions-across-the-island-are-left-without-electricity/",
+      "publishedAt": "2026-09-18T17:03:00-04:00",
+      "evidence": "A página que reproduz a reportagem da Associated Press informa publicação em 18/09/2026 às 17h03 e relata novo colapso da rede cubana, deixando milhões sem energia e ativando protocolos oficiais de restauração.",
+      "selectionReason": "Crise de infraestrutura com efeito nacional e dimensão geopolítica, verificada por despacho da AP dentro da janela de sete dias."
+    },
+    {
+      "articleId": "mundo-canada-ue-associado",
+      "url": "https://apnews.com/article/5e9f9486a4c92120d9371cfefc472a97",
+      "publishedAt": "2026-09-18T09:41:37Z",
+      "evidence": "A reportagem original da AP informa publicação em 18/09/2026 e explica que a Comissão Europeia abriu a possibilidade de um primeiro membro associado canadense, embora a categoria ainda não exista nos tratados da UE.",
+      "selectionReason": "Mudança diplomática e comercial relevante entre Europa e América do Norte, com limites jurídicos explicitamente registrados pela fonte."
+    },
+    {
+      "articleId": "mundo-ucrania-cimeira",
+      "url": "https://apnews.com/article/russia-ukraine-war-zelenskyy-summit-b05ea50c3ed8b64cf25e254783a17d39",
+      "publishedAt": "2026-09-18T11:17:27Z",
+      "evidence": "A página original da AP informa publicação em 18/09/2026 e descreve a cimeira da Carpathian Eight, com Ucrânia e sete países regionais, dedicada a segurança, energia, logística e vínculos econômicos.",
+      "selectionReason": "Coordenação regional diretamente ligada à guerra na Ucrânia, com participantes e áreas de cooperação identificados na fonte primária de cobertura."
+    },
+    {
+      "articleId": "mundo-migracao-europa",
+      "url": "https://apnews.com/article/migration-refugees-deaths-mediterranean-atlantic-shipwrecks-fa512b3ac2a31b8c4a79ae0e981ec94c",
+      "publishedAt": "2026-09-17T15:14:25Z",
+      "evidence": "A página original da AP informa publicação em 17/09/2026 e cita dados da OIM: quase 60 mil chegadas por mar até 15/09, queda de quase 40%, e quase 2.300 mortes ou desaparecimentos.",
+      "selectionReason": "Tendência humanitária transfronteiriça de grande escala, sustentada por dados de uma agência da ONU e publicada dentro da janela de sete dias."
+    },
+    {
+      "articleId": "mundo-africa-feminicidios",
+      "url": "https://www.aljazeera.com/news/2026/9/19/fear-and-anger-in-south-africa-as-bodies-of-nine-women-found-what-we-know",
+      "publishedAt": "2026-09-19T00:00:00Z",
+      "publishedDate": "2026-09-19",
+      "evidence": "A página original da Al Jazeera informa apenas a data de publicação, 19/09/2026, e registra nove corpos encontrados em Ekurhuleni nos dois meses anteriores, apenas quatro vítimas identificadas e investigação policial sem conclusão sobre vínculos. publishedDate preserva a data exibida; publishedAt permanece normalizado em 00:00Z apenas para ordenação.",
+      "selectionReason": "Crise de violência de gênero com repercussão nacional e contexto de direitos humanos, apresentada com cautela sobre o que a investigação ainda não estabeleceu."
+    },
+    {
+      "articleId": "mundo-onu-guterres",
+      "url": "https://apnews.com/article/ca2c4ed803381fd12ca7259f1ce4f34d",
+      "publishedAt": "2026-09-18T01:27:33Z",
+      "evidence": "A reportagem original da AP informa publicação em 18/09/2026 e registra a avaliação de António Guterres sobre a divisão internacional, a paralisia do Conselho de Segurança e os riscos de IA, clima e desigualdade.",
+      "selectionReason": "Leitura institucional de alcance global antes da Assembleia Geral da ONU, com declarações atribuídas diretamente ao secretário-geral em entrevista."
+    }
+  ],
+  "shortfall": {
+    "pt-BR": "",
+    "en": ""
+  },
+  "improvements": []
+}

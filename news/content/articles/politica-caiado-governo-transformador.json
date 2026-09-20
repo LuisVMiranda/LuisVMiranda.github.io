@@ -1,0 +1,32 @@
+{
+  "id": "politica-caiado-governo-transformador",
+  "slug": "politica-caiado-governo-transformador",
+  "section": "politica",
+  "secondarySections": [],
+  "publishedAt": "2026-09-19T08:15:00-03:00",
+  "updatedAt": "2026-09-19T08:15:00-03:00",
+  "sources": [
+    {
+      "name": "Agência Brasil",
+      "url": "https://agenciabrasil.ebc.com.br/politica/noticia/2026-09/caiado-promete-governo-transformador-e-reformas-estruturais"
+    }
+  ],
+  "translations": {
+    "pt-BR": {
+      "title": "Caiado promete governo transformador e reformas estruturais",
+      "summary": "Plano do candidato do PSD combina segurança, responsabilidade fiscal e cooperação entre Poderes.",
+      "paragraphs": [
+        "O plano de Ronaldo Caiado combina pacificação democrática, responsabilidade fiscal, segurança, investimento e inserção internacional pragmática.",
+        "Na segurança, o candidato promete propor um Ministério da Segurança Pública e leis para enquadrar organizações criminosas e milícias como grupos terroristas domésticos."
+      ]
+    },
+    "en": {
+      "title": "Caiado promises a transformative government and structural reforms",
+      "summary": "The PSD candidate's platform combines security, fiscal responsibility and cooperation among branches.",
+      "paragraphs": [
+        "Ronaldo Caiado's platform combines democratic pacification, fiscal responsibility, security, investment and pragmatic international engagement.",
+        "On security, the candidate promises to propose a Ministry of Public Security and laws classifying criminal organizations and militias as domestic terrorist groups."
+      ]
+    }
+  }
+}

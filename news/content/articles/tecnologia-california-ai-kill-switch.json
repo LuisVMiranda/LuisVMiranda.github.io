@@ -1,0 +1,32 @@
+{
+  "id": "tecnologia-california-ai-kill-switch",
+  "slug": "tecnologia-california-ai-kill-switch",
+  "section": "tecnologia",
+  "secondarySections": [],
+  "publishedAt": "2026-09-18T00:00:00-07:00",
+  "updatedAt": "2026-09-18T00:00:00-07:00",
+  "sources": [
+    {
+      "name": "Governor of California",
+      "url": "https://www.gov.ca.gov/2026/09/18/governor-newsom-issues-executive-order-to-accelerate-independent-oversight-and-advance-the-creation-of-an-ai-kill-switch/"
+    }
+  ],
+  "translations": {
+    "pt-BR": {
+      "title": "Califórnia acelera supervisão independente de IA",
+      "summary": "Ordem executiva propõe auditorias e recomendações para desligamento emergencial de modelos de fronteira.",
+      "paragraphs": [
+        "O governador da Califórnia, Gavin Newsom, assinou em 18 de setembro uma ordem executiva para acelerar a implementação de supervisão independente e auditorias de segurança para empresas de IA. O texto convoca especialistas a elaborar, em dois meses, recomendações para reforçar as leis estaduais.",
+        "Entre as propostas estão planos de segurança escritos por terceiros, verificação independente de avaliações e a criação de um mecanismo de desligamento emergencial para modelos de fronteira. A ordem inicia o processo de recomendações; ela não afirma que um kill switch já esteja implantado."
+      ]
+    },
+    "en": {
+      "title": "California accelerates independent AI oversight",
+      "summary": "An executive order seeks audits and recommendations for emergency shutdowns of frontier models.",
+      "paragraphs": [
+        "California Governor Gavin Newsom signed an executive order on September 18 to accelerate independent oversight and safety audits for AI companies. The order convenes experts to produce recommendations within two months for strengthening state laws.",
+        "Proposals include safety plans written by third parties, independent verification of assessments and the creation of an emergency shutdown mechanism for frontier models. The order starts a recommendation process; it does not say that a kill switch is already deployed."
+      ]
+    }
+  }
+}

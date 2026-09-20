@@ -1,0 +1,32 @@
+{
+  "id": "mundo-migracao-europa",
+  "slug": "mundo-migracao-europa",
+  "section": "mundo",
+  "secondarySections": [],
+  "publishedAt": "2026-09-17T15:14:25Z",
+  "updatedAt": "2026-09-17T15:14:25Z",
+  "sources": [
+    {
+      "name": "AP News",
+      "url": "https://apnews.com/article/migration-refugees-deaths-mediterranean-atlantic-shipwrecks-fa512b3ac2a31b8c4a79ae0e981ec94c"
+    }
+  ],
+  "translations": {
+    "pt-BR": {
+      "title": "Menos migrantes chegam por mar à Europa, mas mais morrem",
+      "summary": "Dados da OIM apontam queda de quase 40% nas chegadas e cerca de 2.300 mortos ou desaparecidos até 15 de setembro.",
+      "paragraphs": [
+        "Quase 60 mil migrantes e refugiados chegaram às costas europeias por mar em 2026 até 15 de setembro, cerca de 40% menos que no mesmo período do ano anterior. A Organização Internacional para as Migrações informou, porém, que quase 2.300 pessoas morreram ou desapareceram nas travessias.",
+        "Na rota central do Mediterrâneo, as chegadas caíram de mais de 48 mil para mais de 21 mil, enquanto 996 pessoas morreram, contra 844 no ano anterior. A OIM pediu cooperação internacional, combate ao tráfico e vias legais de migração, alertando que o total real pode ser maior."
+      ]
+    },
+    "en": {
+      "title": "Fewer migrants reach Europe by sea, but more are dying",
+      "summary": "IOM data show arrivals down nearly 40%, while about 2,300 people died or went missing by September 15.",
+      "paragraphs": [
+        "Nearly 60,000 migrants and refugees reached European shores by sea in 2026 through September 15, about 40% fewer than in the same period last year. The International Organization for Migration said, however, that nearly 2,300 people died or went missing on the crossings.",
+        "On the central Mediterranean route, arrivals fell from more than 48,000 to more than 21,000, while 996 people died, up from 844 last year. IOM called for international cooperation, action against trafficking and legal migration routes, warning that the real toll may be higher."
+      ]
+    }
+  }
+}

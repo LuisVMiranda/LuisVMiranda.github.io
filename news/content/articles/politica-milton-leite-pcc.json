@@ -1,0 +1,32 @@
+{
+  "id": "politica-milton-leite-pcc",
+  "slug": "politica-milton-leite-pcc",
+  "section": "politica",
+  "secondarySections": [],
+  "publishedAt": "2026-09-18T18:29:00-03:00",
+  "updatedAt": "2026-09-18T18:29:00-03:00",
+  "sources": [
+    {
+      "name": "Agência Brasil",
+      "url": "https://agenciabrasil.ebc.com.br/politica/noticia/2026-09/ex-vereador-milton-leite-se-entrega-policia-apos-operacao-contra-pcc"
+    }
+  ],
+  "translations": {
+    "pt-BR": {
+      "title": "Ex-vereador Milton Leite se entrega após operação contra PCC",
+      "summary": "Político compareceu à polícia em Mogi das Cruzes acompanhado de advogado.",
+      "paragraphs": [
+        "O ex-vereador e ex-presidente da Câmara de São Paulo Milton Leite se entregou à polícia em Mogi das Cruzes nesta sexta-feira (18), acompanhado de advogado.",
+        "Ele era alvo de prisão temporária em operação da Polícia Civil e do Ministério Público que investiga a atuação do PCC no transporte coletivo paulistano; Leite declarou-se inocente."
+      ]
+    },
+    "en": {
+      "title": "Former councilman Milton Leite turns himself in after PCC operation",
+      "summary": "The politician went to police in Mogi das Cruzes accompanied by a lawyer.",
+      "paragraphs": [
+        "Milton Leite, a former councilman and former president of São Paulo's city council, turned himself in to police in Mogi das Cruzes on Friday, September 18, accompanied by a lawyer.",
+        "He was the subject of a temporary arrest order in a Civil Police and São Paulo Prosecutor's Office operation investigating the PCC's activity in the city's public transport; Leite said he was innocent."
+      ]
+    }
+  }
+}

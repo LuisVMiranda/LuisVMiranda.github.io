@@ -1,0 +1,90 @@
+name: GitHub Pages portal
+on:
+  pull_request:
+  push:
+    branches: [main]
+  workflow_dispatch:
+    inputs:
+      approved_revision:
+        description: 'Exact content SHA-256 explicitly approved by the editor'
+        required: true
+permissions:
+  contents: read
+jobs:
+  validate:
+    runs-on: ubuntu-latest
+    defaults:
+      run:
+        working-directory: news
+    env:
+      ASTRO_TELEMETRY_DISABLED: '1'
+      SITE_URL: ${{ vars.NEWS_SITE_URL || 'https://luisvmiranda.github.io' }}
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '24'
+          cache: npm
+          cache-dependency-path: news/package-lock.json
+      - run: npm ci
+      - run: npm run quality
+      - run: npx playwright install --with-deps chromium firefox webkit
+      - run: npm run build:preview
+      - run: npm run package:pages
+      - run: npm run test:e2e
+      - run: npm run test:performance
+      - uses: actions/upload-artifact@v4
+        if: always()
+        with:
+          name: news-validation-${{ github.sha }}
+          path: |
+            news/artifacts/performance-summary.json
+            news/playwright-report
+  publish:
+    if: github.event_name == 'workflow_dispatch' && github.ref == 'refs/heads/main'
+    needs: validate
+    runs-on: ubuntu-latest
+    concurrency:
+      group: github-pages
+      cancel-in-progress: false
+    permissions:
+      contents: read
+      pages: write
+      id-token: write
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    defaults:
+      run:
+        working-directory: news
+    env:
+      ASTRO_TELEMETRY_DISABLED: '1'
+      SITE_URL: ${{ vars.NEWS_SITE_URL || 'https://luisvmiranda.github.io' }}
+      APPROVED_REVISION: ${{ inputs.approved_revision }}
+      GH_TOKEN: ${{ github.token }}
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '24'
+          cache: npm
+          cache-dependency-path: news/package-lock.json
+      - run: npm ci
+      - run: npx tsx scripts/release-check.ts
+      - run: npm run build
+      - id: package
+        run: npm run package:pages
+      - uses: actions/configure-pages@v5
+      - uses: actions/upload-pages-artifact@v3
+        with:
+          path: ${{ steps.package.outputs.directory }}
+      - name: Preserve complete artifact for rollback review
+        uses: actions/upload-artifact@v4
+        with:
+          name: approved-pages-${{ github.sha }}
+          path: ${{ steps.package.outputs.directory }}
+          retention-days: 30
+      - name: Reject obsolete builds immediately before deployment
+        run: npx tsx scripts/deployment-check.ts
+      - id: deployment
+        uses: actions/deploy-pages@v4

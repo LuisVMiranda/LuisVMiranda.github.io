@@ -1,0 +1,32 @@
+{
+  "id": "cultura-cineastas-indigenas-editais",
+  "slug": "cultura-cineastas-indigenas-editais",
+  "section": "cultura",
+  "secondarySections": [],
+  "publishedAt": "2026-09-17T12:32:00-03:00",
+  "updatedAt": "2026-09-17T12:32:00-03:00",
+  "sources": [
+    {
+      "name": "Agência Brasil",
+      "url": "https://agenciabrasil.ebc.com.br/cultura/noticia/2026-09/pesquisa-mostra-desafio-de-cineastas-indigenas-para-financiar-filmes"
+    }
+  ],
+  "translations": {
+    "pt-BR": {
+      "title": "Pesquisa aponta barreiras para cineastas indígenas em editais",
+      "summary": "Levantamento com 60 cineastas de 40 povos registra desistências ligadas à burocracia e à linguagem dos concursos.",
+      "paragraphs": [
+        "Pesquisa da Rede Katahirine com 60 cineastas de 40 povos indígenas mostra dificuldades para disputar editais de fomento. Embora 81,7% já tenham exibido filmes em mostras ou festivais, 71,7% dizem ter desistido de concorrer a um edital.",
+        "Entre os motivos relatados aparecem a burocracia, citada por 70%, a falta de atendimento a requisitos, por 43%, e a linguagem técnica, por 41%. O estudo acompanhou o lançamento, em Brasília, do livro Ler o vento, filmar o mundo, sobre o cinema de mulheres indígenas, e de diretrizes para um audiovisual ético."
+      ]
+    },
+    "en": {
+      "title": "Research finds barriers for Indigenous filmmakers in grant calls",
+      "summary": "A survey of 60 filmmakers from 40 Indigenous peoples records withdrawals linked to bureaucracy and the language of calls.",
+      "paragraphs": [
+        "A Rede Katahirine survey of 60 filmmakers from 40 Indigenous peoples found difficulties in applying for funding calls. Although 81.7% had shown films at exhibitions or festivals, 71.7% said they had given up applying to a call.",
+        "Reported reasons included bureaucracy, cited by 70%, failure to meet participation requirements, cited by 43%, and technical language, cited by 41%. The research accompanied the launch in Brasília of Ler o vento, filmar o mundo, a book about Indigenous women's cinema, and guidelines for ethical audiovisual work."
+      ]
+    }
+  }
+}

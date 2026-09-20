@@ -1,0 +1,32 @@
+{
+  "id": "politica-agenda-presidenciaveis-19-20",
+  "slug": "politica-agenda-presidenciaveis-19-20",
+  "section": "politica",
+  "secondarySections": [],
+  "publishedAt": "2026-09-19T10:01:00-03:00",
+  "updatedAt": "2026-09-19T10:01:00-03:00",
+  "sources": [
+    {
+      "name": "Agência Brasil",
+      "url": "https://agenciabrasil.ebc.com.br/politica/noticia/2026-09/confira-agenda-dos-presidenciaveis-nesta-fim-de-semana-19-e-20"
+    }
+  ],
+  "translations": {
+    "pt-BR": {
+      "title": "Agenda dos presidenciáveis reúne atos e sabatinas no fim de semana",
+      "summary": "Candidatos têm compromissos de campanha em diferentes cidades no sábado e no domingo.",
+      "paragraphs": [
+        "A agenda divulgada pela Agência Brasil reúne sabatinas, atos, caminhadas e panfletagens de candidatos à Presidência nos dias 19 e 20 de setembro.",
+        "Entre os compromissos listados estão comícios de Flávio Bolsonaro, ato de Lula em Florianópolis, sabatina de Ronaldo Caiado e atividades de outros concorrentes."
+      ]
+    },
+    "en": {
+      "title": "Presidential candidates schedule rallies and interviews this weekend",
+      "summary": "Candidates have campaign events in different cities on Saturday and Sunday.",
+      "paragraphs": [
+        "The schedule published by Agência Brasil lists interviews, rallies, walks and leafleting by presidential candidates on September 19 and 20.",
+        "It includes rallies by Flávio Bolsonaro, an event for Lula in Florianópolis, an interview with Ronaldo Caiado and activities by other candidates."
+      ]
+    }
+  }
+}

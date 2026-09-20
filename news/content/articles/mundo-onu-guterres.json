@@ -1,0 +1,32 @@
+{
+  "id": "mundo-onu-guterres",
+  "slug": "mundo-onu-guterres",
+  "section": "mundo",
+  "secondarySections": [],
+  "publishedAt": "2026-09-18T01:27:33Z",
+  "updatedAt": "2026-09-18T01:27:33Z",
+  "sources": [
+    {
+      "name": "AP News",
+      "url": "https://apnews.com/article/ca2c4ed803381fd12ca7259f1ce4f34d"
+    }
+  ],
+  "translations": {
+    "pt-BR": {
+      "title": "Guterres alerta para conflitos, clima e IA antes de deixar ONU",
+      "summary": "Secretário-geral diz que divisões paralisam o Conselho de Segurança e pede cooperação internacional.",
+      "paragraphs": [
+        "António Guterres, que deixará o cargo de secretário-geral da ONU no fim do ano, disse à Associated Press que o mundo está profundamente dividido e que o Conselho de Segurança está paralisado para encerrar conflitos. Ele vê espaço para avanços se os governos cooperarem.",
+        "Guterres apontou três problemas existenciais: inteligência artificial sem controle, mudança climática e desigualdade crescente, que alimenta instabilidade e conflitos. Também pediu que os governos enfrentem a divisão geopolítica e a impunidade de países que violam o direito internacional."
+      ]
+    },
+    "en": {
+      "title": "Guterres warns about conflict, climate and AI before leaving the U.N.",
+      "summary": "The secretary-general says divisions have paralyzed the Security Council and calls for international cooperation.",
+      "paragraphs": [
+        "António Guterres, who will leave his post as U.N. secretary-general at the end of the year, told the Associated Press that the world is deeply divided and the Security Council is paralyzed when it comes to ending conflicts. He sees room for progress if governments cooperate.",
+        "Guterres identified three existential problems: unchecked artificial intelligence, climate change and growing inequality that drives instability and conflict. He also urged governments to confront geopolitical division and impunity by countries that violate international law."
+      ]
+    }
+  }
+}

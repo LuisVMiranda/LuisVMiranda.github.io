@@ -1,0 +1,32 @@
+{
+  "id": "esportes-colombia-sulamericano-volei",
+  "slug": "esportes-colombia-sulamericano-volei",
+  "section": "esportes",
+  "secondarySections": [],
+  "publishedAt": "2026-09-17T22:05:00-03:00",
+  "updatedAt": "2026-09-17T22:05:00-03:00",
+  "sources": [
+    {
+      "name": "Agência Brasil",
+      "url": "https://agenciabrasil.ebc.com.br/esportes/noticia/2026-09/brasil-bate-colombia-e-segue-100-no-sul-americano-masculino-de-volei"
+    }
+  ],
+  "translations": {
+    "pt-BR": {
+      "title": "Brasil vence Colômbia e mantém 100% no Sul-Americano de vôlei",
+      "summary": "Seleção masculina chega à terceira vitória sem perder sets no torneio que dá vaga olímpica.",
+      "paragraphs": [
+        "O Brasil venceu a Colômbia por 3 sets a 0 no Maracanãzinho, no Rio de Janeiro, e chegou à terceira vitória em três partidas no Sul-Americano masculino. As parciais foram 25/23, 25/14 e 25/16, em uma hora e 18 minutos.",
+        "A seleção liderava com nove pontos, ao lado da Argentina, mas à frente por ainda não ter cedido sets. Darlan comandou o triunfo com 19 pontos; o campeão do torneio garante vaga antecipada nos Jogos de Los Angeles 2028, e o Brasil ainda enfrentaria Venezuela e Argentina."
+      ]
+    },
+    "en": {
+      "title": "Brazil beat Colombia to stay perfect in South American volleyball",
+      "summary": "The men's team won a third match without dropping a set in the tournament that awards an Olympic berth.",
+      "paragraphs": [
+        "Brazil beat Colombia 3–0 at the Maracanãzinho in Rio de Janeiro for a third win in three matches at the men's South American championship. The sets ended 25–23, 25–14 and 25–16 after one hour and 18 minutes.",
+        "Brazil led with nine points, level with Argentina but ahead because it had not dropped a set. Darlan led the victory with 19 points; the tournament champion earns an early place at the Los Angeles 2028 Olympics, with Brazil still due to face Venezuela and Argentina."
+      ]
+    }
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "id": "economia-agricultura-2025",
+  "slug": "economia-agricultura-2025",
+  "section": "economia",
+  "secondarySections": [],
+  "publishedAt": "2026-09-17T10:01:00-03:00",
+  "updatedAt": "2026-09-17T10:01:00-03:00",
+  "sources": [
+    {
+      "name": "Agência Brasil",
+      "url": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-09/producao-agricola-brasileira-superou-r-927-bilhoes-em-2025"
+    }
+  ],
+  "translations": {
+    "pt-BR": {
+      "title": "Produção agrícola brasileira supera R$ 927 bilhões em 2025",
+      "summary": "IBGE registra 345,4 milhões de toneladas e alta de 18,4% no valor da produção, com a soja respondendo por 34%.",
+      "paragraphs": [
+        "A agricultura brasileira produziu 345,4 milhões de toneladas de cereais, leguminosas e oleaginosas em 2025, alta de 18,2% sobre 2024. O valor da produção chegou a R$ 927,2 bilhões, avanço de 18,4%.",
+        "A soja representou 34% do valor, com R$ 315,2 bilhões, e a área colhida rompeu pela primeira vez 100 milhões de hectares. O IBGE também registrou alta de 16,4% no algodão e valor de quase R$ 100 bilhões para o café."
+      ]
+    },
+    "en": {
+      "title": "Brazil's agricultural output topped R$927 billion in 2025",
+      "summary": "IBGE records 345.4 million tonnes and an 18.4% rise in production value, with soy accounting for 34%.",
+      "paragraphs": [
+        "Brazilian agriculture produced 345.4 million tonnes of cereals, legumes and oilseeds in 2025, up 18.2% from 2024. The value of production reached R$927.2 billion, an 18.4% increase.",
+        "Soy accounted for 34% of the value, or R$315.2 billion, and harvested area crossed 100 million hectares for the first time. IBGE also recorded a 16.4% rise in cotton and coffee production worth nearly R$100 billion."
+      ]
+    }
+  }
+}

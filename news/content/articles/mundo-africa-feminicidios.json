@@ -1,0 +1,33 @@
+{
+  "id": "mundo-africa-feminicidios",
+  "slug": "mundo-africa-feminicidios",
+  "section": "mundo",
+  "secondarySections": [],
+  "publishedAt": "2026-09-19T00:00:00Z",
+  "publishedDate": "2026-09-19",
+  "updatedAt": "2026-09-19T00:00:00Z",
+  "sources": [
+    {
+      "name": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/9/19/fear-and-anger-in-south-africa-as-bodies-of-nine-women-found-what-we-know"
+    }
+  ],
+  "translations": {
+    "pt-BR": {
+      "title": "Nove mulheres encontradas mortas elevam temor de feminicídios na África do Sul",
+      "summary": "A polícia investiga possíveis conexões entre corpos achados em Ekurhuleni nos últimos dois meses.",
+      "paragraphs": [
+        "Os corpos de nove mulheres foram encontrados no município de Ekurhuleni, na região de Joanesburgo, ao longo dos últimos dois meses. A polícia sul-africana investiga se os crimes estão ligados, mas diz que ainda considera múltiplos suspeitos ou autores separados.",
+        "A descoberta mais recente ocorreu em 17 de setembro, quando investigadores localizaram o corpo de uma mulher em Dawn Park. Apenas quatro das nove vítimas haviam sido identificadas, segundo a cobertura local citada pela Al Jazeera, enquanto comunidades expressaram medo diante da violência de gênero."
+      ]
+    },
+    "en": {
+      "title": "Nine women found dead raise fears of femicide in South Africa",
+      "summary": "Police are investigating possible links among bodies found in Ekurhuleni over the past two months.",
+      "paragraphs": [
+        "The bodies of nine women were found in Ekurhuleni municipality, in the Johannesburg area, over the past two months. South African police are investigating possible links, while saying they are still considering multiple suspects or separate perpetrators.",
+        "The latest discovery came on September 17, when investigators found a woman's body in Dawn Park. Only four of the nine victims had been identified, according to local coverage cited by Al Jazeera, as communities voiced fear over gender-based violence."
+      ]
+    }
+  }
+}

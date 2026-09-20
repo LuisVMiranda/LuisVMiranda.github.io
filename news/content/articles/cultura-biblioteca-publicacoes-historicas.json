@@ -1,0 +1,32 @@
+{
+  "id": "cultura-biblioteca-publicacoes-historicas",
+  "slug": "cultura-biblioteca-publicacoes-historicas",
+  "section": "cultura",
+  "secondarySections": [],
+  "publishedAt": "2026-09-17T20:41:00-03:00",
+  "updatedAt": "2026-09-17T20:41:00-03:00",
+  "sources": [
+    {
+      "name": "Agência Brasil",
+      "url": "https://agenciabrasil.ebc.com.br/cultura/noticia/2026-09/publicacoes-historicas-sao-devolvidas-biblioteca-nacional"
+    }
+  ],
+  "translations": {
+    "pt-BR": {
+      "title": "Biblioteca Nacional reintegra 164 publicações históricas ao acervo",
+      "summary": "Itens recuperados pela Polícia Federal incluem exemplares de O Guri, um almanaque de 1848 e uma revista do Superman de 1949.",
+      "paragraphs": [
+        "A Biblioteca Nacional reintegrou ao acervo 164 publicações históricas que haviam sido furtadas. O conjunto inclui 162 exemplares de O Guri, um exemplar do Almanak Administrativo Mercantil e Industrial da Corte e Província do Rio de Janeiro de 1848 e o Almanaque dos Heróis Comandado por Superman, de 1949.",
+        "A Polícia Federal recuperou as peças em 2020 e as entregou à Biblioteca após análise técnica. A equipe examinou 217 itens e usou carimbos, registros, etiquetas e códigos para confirmar a ligação com o acervo; a devolução cumpriu decisão da 4ª Vara Federal Criminal do Rio."
+      ]
+    },
+    "en": {
+      "title": "Brazil's National Library returns 164 historic publications to its collection",
+      "summary": "Items recovered by the Federal Police include copies of O Guri, an 1848 almanac and a 1949 Superman magazine.",
+      "paragraphs": [
+        "Brazil's National Library returned 164 historic publications to its collection after they had been stolen. The group includes 162 copies of O Guri, an 1848 copy of the Almanak Administrativo Mercantil e Industrial da Corte e Província do Rio de Janeiro and a 1949 Superman Heroes Almanac.",
+        "The Federal Police recovered the items in 2020 and handed them over after technical analysis. Library staff examined 217 items and used stamps, records, labels and identification codes to confirm their link to the collection; the return followed a decision by Rio's 4th Federal Criminal Court."
+      ]
+    }
+  }
+}
