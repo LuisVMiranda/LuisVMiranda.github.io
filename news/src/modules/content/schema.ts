@@ -11,6 +11,16 @@ export const sectionIdSchema = z.enum([
   'esportes',
 ]);
 const timestamp = z.iso.datetime({ offset: true });
+const rights = z
+  .object({
+    mode: z.enum(['original-report', 'licensed-reproduction']),
+    license: z.string().trim().min(3).optional(),
+    permissionRef: z.string().trim().min(3).optional(),
+  })
+  .refine(
+    (value) => value.mode === 'original-report' || Boolean(value.permissionRef),
+    { message: 'Licensed reproduction requires permissionRef' },
+  );
 const translation = z.object({
   title: z.string().trim().min(5),
   summary: z.string().trim().min(15),
@@ -18,6 +28,13 @@ const translation = z.object({
   paragraphs: z.array(z.string().trim().min(20)).min(2),
   correction: z.string().trim().min(5).optional(),
 });
+const translations = z
+  .object({ 'pt-BR': translation, en: translation })
+  .refine(
+    ({ 'pt-BR': portuguese, en }) =>
+      Boolean(portuguese.aiSummary) === Boolean(en.aiSummary),
+    { message: 'AI summary must exist in both locales or neither' },
+  );
 export const articleSchema = z
   .object({
     id: z.string().regex(/^[a-z0-9-]+$/),
@@ -40,7 +57,8 @@ export const articleSchema = z
         }),
       )
       .min(1),
-    translations: z.object({ 'pt-BR': translation, en: translation }),
+    rights: rights.optional(),
+    translations,
   })
   .refine(
     (article) =>

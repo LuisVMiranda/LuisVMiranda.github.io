@@ -21,6 +21,26 @@ describe('publication invariants', () => {
         .success,
     ).toBe(false);
   });
+  it('rejects a one-sided AI summary', () => {
+    const result = articleSchema.safeParse({
+      ...article,
+      translations: {
+        ...article.translations,
+        en: {
+          ...article.translations.en,
+          aiSummary: 'An English-only summary should not be publishable.',
+        },
+      },
+    });
+    expect(result.success).toBe(false);
+  });
+  it('requires permission evidence for licensed reproductions', () => {
+    const result = articleSchema.safeParse({
+      ...article,
+      rights: { mode: 'licensed-reproduction' },
+    });
+    expect(result.success).toBe(false);
+  });
   it('rejects duplicate identities and broken edition references', () => {
     expect(() => validateCatalog([article, article], [edition])).toThrow(
       'Duplicate',

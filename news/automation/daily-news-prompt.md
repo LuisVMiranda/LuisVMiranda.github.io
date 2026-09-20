@@ -10,8 +10,13 @@ Goal: prepare one reviewable edition with up to ten verified stories in each of 
 2. Run `npm run research` to freeze one cutoff and retain the candidate run. Use web search and the original publisher pages to improve the candidates; search snippets are not evidence.
 3. For every selected story, read the complete accessible article body. Reject paywalled, incomplete, undated, future, duplicate, rumor-only, or inaccessible sources. Do not bypass access controls. Keep raw retrieval evidence in ignored `research/runs/`.
 4. Never pad a desk. If any desk has fewer than ten qualified stories, leave the current content untouched, write a failure report under `artifacts/`, and stop without committing.
-5. Produce rights-safe original reporting, not near-verbatim copies. Each selected article must have paired PT-BR and EN title, synopsis, an original reading body with at least three substantive paragraphs, and an `aiSummary` of two or three factual sentences. Label the field only through the existing template: `Resumo por IA` / `AI summary`.
-6. Update `research/editorial/<section>.json` with the shared cutoff, the exact ordered ten IDs, source evidence, selection reasons, and for every selected entry:
+5. Produce rights-safe original reporting, not near-verbatim copies. Each selected article must have paired PT-BR and EN title, synopsis, an original reading body with at least three substantive paragraphs, an `aiSummary` of two or three factual sentences, and:
+
+```json
+"rights": { "mode": "original-report" }
+```
+
+Use `licensed-reproduction` only when a real permission reference and license are recorded. Label the AI field only through the existing template: `Resumo por IA` / `AI summary`. 6. Update `research/editorial/<section>.json` with the shared cutoff, the exact ordered ten IDs, source evidence, selection reasons, and for every selected entry:
 
 ```json
 "contentReview": {

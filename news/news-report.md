@@ -147,11 +147,10 @@ The future AI-summary presentation has these requirements:
 The shared template now supports this presentation through the optional
 `translations[locale].aiSummary` field. Older articles without the field keep
 their existing presentation. New automated selections must include the field,
-at least three substantive body paragraphs, and a reviewed `contentReview`
-record in each section manifest. The existing synopsis remains separate and is
-still used by cards, article leads and metadata. Reproduction/rights fields
-must likewise be explicitly supported by the schema before relying on them in
-published data.
+`rights.mode` (`original-report` or a permission-backed
+`licensed-reproduction`), at least three substantive body paragraphs, and a
+reviewed `contentReview` record in each section manifest. The existing synopsis
+remains separate and is still used by cards, article leads and metadata.
 
 ## 5. Verify, deduplicate, rank and translate
 

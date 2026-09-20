@@ -29,7 +29,9 @@ articles. Keep translations factually equivalent, including dates and numbers.
   `research/editorial`; neither research folder is copied into the website.
 - For every selected story, add `contentReview.bodyComplete: true` and
   `contentReview.aiSummaryReviewed: true` only after checking the full reading
-  version and its bilingual AI summary against the retrieved source.
+  version and its bilingual AI summary against the retrieved source. New
+  article JSON must also declare `rights.mode`; licensed reproductions require
+  a permission reference.
   Use one identity for an event shared by multiple sections. Add secondary
   section references rather than publishing a duplicate article.
 

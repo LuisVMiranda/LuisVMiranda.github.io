@@ -16,6 +16,7 @@ describe('daily news automation gate', () => {
 
   it('accepts a complete article in every selected section', () => {
     const complete = structuredClone(article);
+    complete.rights = { mode: 'original-report' };
     complete.translations['pt-BR'].aiSummary =
       'Resumo verificado com contexto, consequência imediata e relevância pública.';
     complete.translations.en.aiSummary =

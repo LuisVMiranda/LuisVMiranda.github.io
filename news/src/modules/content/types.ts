@@ -26,6 +26,13 @@ export interface Article {
   publishedDate?: string | undefined;
   updatedAt: string;
   sources: { name: string; url: string }[];
+  rights?:
+    | {
+        mode: 'original-report' | 'licensed-reproduction';
+        license?: string | undefined;
+        permissionRef?: string | undefined;
+      }
+    | undefined;
   translations: Record<Locale, Translation>;
 }
 

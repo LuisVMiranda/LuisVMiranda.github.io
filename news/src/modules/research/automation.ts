@@ -25,9 +25,15 @@ function articleIssues(
   requireRichArticle: boolean,
 ): string[] {
   if (!requireRichArticle) return [];
-  return locales.flatMap((locale) =>
-    translationIssues(article.id, locale, article.translations[locale]),
-  );
+  const rightsIssues = article.rights
+    ? []
+    : [`${article.id} is missing rights metadata`];
+  return [
+    ...rightsIssues,
+    ...locales.flatMap((locale) =>
+      translationIssues(article.id, locale, article.translations[locale]),
+    ),
+  ];
 }
 
 function sectionIssues(

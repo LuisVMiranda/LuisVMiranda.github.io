@@ -26,6 +26,11 @@ jobs:
           cache: npm
           cache-dependency-path: news/package-lock.json
       - run: npm ci
+      - run: npm run news:verify -- --legacy-ok
+      - run: npx tsx scripts/check-reviews.ts
+      - name: Enforce the rich-article gate for daily automation
+        if: github.head_ref == 'automation/daily-news'
+        run: npm run news:verify
       - run: npm run quality
       - run: npx playwright install --with-deps chromium firefox webkit
       - run: npm run build:preview
