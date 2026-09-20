@@ -1,6 +1,6 @@
 {
   "reviewer": "Primary agent /root",
-  "reviewedAt": "2026-09-20T02:26:46.800Z",
+  "reviewedAt": "2026-09-20T02:57:23.886Z",
   "evidence": "reviews/VALIDATION.md",
   "categoryOrder": [
     "functionality",
@@ -59,7 +59,7 @@
     "src/styles/global.css": "04c0c12fa33d6f1bfc7b0f208154435d5710e41a7245856dfb6eca8e3581c077",
     "tests/browser/journeys.spec.ts": "c3a2e9215fec21997abe322a36936f27ad089a2cac2040b87528937a4d24052c",
     "tests/browser/layout.spec.ts": "018db1a2ccd28f6f82a276cc1e2970b9e9410bc4b64a18baf80893cb348c6ce4",
-    "tests/browser/pages.spec.ts": "f02f18b050784ce9fc75bbc9aca003deafb7f8a12ab8b601b3a64b73d668e2c6",
+    "tests/browser/pages.spec.ts": "56fb983abd24434cb297e9555d8f3cd7d311352ee77249ff425d52f5166778fe",
     "tests/browser/search.spec.ts": "10bab8bdce74388e9b7cac1ed8eb7627e7dc145cd0b2c0a49b7afceb021b4019",
     "tests/unit/archive.test.ts": "04617bcf3a81fcea581a550f04e38e12d2756fa869e35c1d1343e88049f5a79b",
     "tests/unit/content.test.ts": "48c330495bdb42a6c9ae57b1be4f015238046e110dc6e06327bfca37e1f28c9a",
@@ -89,7 +89,7 @@
       "files": {
         "src/views/Home.astro": "3964e5e4a9ced5747eb5bb577738a269777f5a52681a7b499eff4379ddc69cea"
       },
-      "approvedRevision": "1b815b84133d488063c6a0cedec0f3f6eb743d9f0f9b1e944ac4adac079d5cab"
+      "approvedRevision": "955c26471e277d2863c24edb4b7afc4d81c100c3e8aca9928e236bfb0dcc568a"
     },
     {
       "page": "brasil",
@@ -104,7 +104,7 @@
       "files": {
         "src/views/sections/Brasil.astro": "df016aae050275e4b817ad8f9bb54cd97906da377bacb629e15f566fd55a6b7a"
       },
-      "approvedRevision": "88e29f6bb9027da8aa627c799fdf3066ee7b978d10a8b7b0e5000fd80ac74e2c"
+      "approvedRevision": "f5667363cce7306c035a82a936342ac1a6b62bb633baae77aef72ff72330c6fd"
     },
     {
       "page": "mundo",
@@ -119,7 +119,7 @@
       "files": {
         "src/views/sections/Mundo.astro": "9fabed41f3065d18e023d9fc2e2cbce11a89efcc7dd2518b979e9958d7409841"
       },
-      "approvedRevision": "27e4591850c8933bbcd7fc2aa531131c3fa5002fba4df0445eb8f64cd96e1eee"
+      "approvedRevision": "11cc4239026d11dce7e623d25c28c649d74fb021acc27c21119f7150d06ffbb4"
     },
     {
       "page": "politica",
@@ -134,7 +134,7 @@
       "files": {
         "src/views/sections/Politica.astro": "75d5e5d95677ea53b9deb456e96d7aa3b99d2d7e676527d6da38d65a923b3b75"
       },
-      "approvedRevision": "aae8447e51d6bd722bf3c9643f4fa7c0649481967970dd64a866cecea80ac584"
+      "approvedRevision": "717f2b576873466d0a3a7666f7a60db3e665aa8f3596d01035d3377c6c385339"
     },
     {
       "page": "economia",
@@ -149,7 +149,7 @@
       "files": {
         "src/views/sections/Economia.astro": "8eddb09ece3c1d3fe017867b8f18fa31f65cceae5b5e46eb79aa5c4184e296f6"
       },
-      "approvedRevision": "310d0e1d2fb3a8c08a7c798c20560ea88d4f539b75a6bbafc98126f76b1256aa"
+      "approvedRevision": "ff4603dcfd5549b9f7ee419aff57403bc80017f86002819521104819c0c62dc6"
     },
     {
       "page": "tecnologia",
@@ -164,7 +164,7 @@
       "files": {
         "src/views/sections/Tecnologia.astro": "795bd3034b198ae73a1f1821c24206e9377849454326d7a7f9fe61b9a62f0261"
       },
-      "approvedRevision": "6327f77848c058ad7c75ae031ced5e04bcbe219cf8da081ab049ae815db96fb1"
+      "approvedRevision": "1418373e7830975cfa75672d13183b1cd368d83896e07f22bd429847205e364d"
     },
     {
       "page": "ciencia",
@@ -179,7 +179,7 @@
       "files": {
         "src/views/sections/Ciencia.astro": "7f60bcaf607b5d08a1b2fcd8ef6c1e169fb2a7d8c4c00127726638944bd153a8"
       },
-      "approvedRevision": "0a00e317b5e75d1338f2f7b0e2b450c1fb9125fe9ced0770fe37d88d08722590"
+      "approvedRevision": "ff9f46493da62a9a0a56131baf9bdbb38c8a6d337784802e1e85a12bd7eff71e"
     },
     {
       "page": "cultura",
@@ -194,7 +194,7 @@
       "files": {
         "src/views/sections/Cultura.astro": "98b34097f87aeb613f87a636fcaaada1531084216f86fb6978ff61a2029b48d5"
       },
-      "approvedRevision": "590659a1301ad3036cd52c287353d88e3309449e8030d63adc5b31581b7104a1"
+      "approvedRevision": "056543def94d104ceeeea00a4d64cafb346773f6e24503c17d19439087d65fcf"
     },
     {
       "page": "esportes",
@@ -209,7 +209,7 @@
       "files": {
         "src/views/sections/Esportes.astro": "4df95229b60328b2910cf35e3de1e859a91d9471946e6977892c0f220a1fe6aa"
       },
-      "approvedRevision": "104316943f3974db2ff9944e5c119d1e8f2ed342d9fbdeb57f2b32ae0be84dcf"
+      "approvedRevision": "73efb24384cd060006973887d7483b1946614b0e8f9e61c36229598afb512f88"
     },
     {
       "page": "article",
@@ -224,7 +224,7 @@
       "files": {
         "src/views/Article.astro": "b3e6ce5c6b9b94a749f1ad1e67152f1b009cc5de0f4c64abad7bafa1b2b44e2f"
       },
-      "approvedRevision": "2a90bddb8e55ff944c6997a369759d2faf1bb78d55adfac23f90ac56071b7615"
+      "approvedRevision": "52c37fa5eae2b332ab09f4a08ca24297c50a10d7ad3c2bc03be86a34c30a52cc"
     },
     {
       "page": "search",
@@ -240,7 +240,7 @@
         "src/views/Search.astro": "d350ee7a1745e547f2ff1a79123fdb5e6d33ccf250623ecbf2e5c98d19a1eedc",
         "src/modules/discovery/search.ts": "5b78612173f106663928db15de7446dae46a100f79ff2a2100759a2b184d65ba"
       },
-      "approvedRevision": "a4b6464fec9036d828432c0ea4c86cbb3e3536cf691b97c02613fb1d2548c142"
+      "approvedRevision": "81558c3e982143e7d1e9b61417854c741439bdcc1ad6f4f0d0a5ec01bf5b348e"
     },
     {
       "page": "archive",
@@ -255,7 +255,7 @@
       "files": {
         "src/views/Archive.astro": "3a2315d0055351792ad851c8beb29d87927a599797c7eded3fbb82f2d9fa8bde"
       },
-      "approvedRevision": "18ba4cac71c46d5d14728071f542fcc4a7812c8a2226f03c0ecf2fea3efa0814"
+      "approvedRevision": "5efe53736f7b9136a8b2de4b7d0b1bbd65d06d047b6a86adc8a20af4b33118f2"
     },
     {
       "page": "editorial",
@@ -270,7 +270,7 @@
       "files": {
         "src/views/Editorial.astro": "4a11cb09efb2be02ad666992268bd29540fdb6f2550cc1510d697347ade90fc1"
       },
-      "approvedRevision": "67a952f7a59414d5b777b2df467d821b9a9166b5f0d46aa4b741ab8ef4801699"
+      "approvedRevision": "a884e2e08672e3e40a790e5f22273cdb9538766b32e4c05a9de0c21ea711a96b"
     },
     {
       "page": "error",
@@ -286,7 +286,7 @@
         "src/views/ErrorPage.astro": "74907043c63d4310e4f77a13eee355a316523c63474412047bbd74d7b6659908",
         "static/404.html": "3112fa106cfe4c9c526f22484c09ab6aaeec94bd50c77fec6fde87418ce6ce53"
       },
-      "approvedRevision": "e635b7e0f334fecb73f93e604e8d00349cd425e762bc74569ccc2448fd3fc5b2"
+      "approvedRevision": "ef993720e837ab3422090993095129c1a32b05f231b50ebb5e2472b04f8e5925"
     }
   ]
 }

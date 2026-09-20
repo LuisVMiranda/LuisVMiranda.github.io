@@ -2,6 +2,32 @@ import { expect, test } from '@playwright/test';
 import { readFile } from 'node:fs/promises';
 import AxeBuilder from '@axe-core/playwright';
 
+test('directory and explicit index URLs serve the built bilingual homepage', async ({
+  page,
+  request,
+}) => {
+  for (const [path, locale] of [
+    ['/news/', 'pt-BR'],
+    ['/news/en/', 'en'],
+  ] as const) {
+    const directory = await request.get(path);
+    const index = await request.get(`${path}index.html`);
+    expect(directory.status()).toBe(200);
+    expect(index.status()).toBe(200);
+    expect(await index.text()).toBe(await directory.text());
+    await page.goto(`${path}index.html`);
+    await expect(page.locator('html')).toHaveAttribute('lang', locale);
+    await expect(page.locator('main h1')).toBeVisible();
+    await expect(page.locator('link[rel="stylesheet"]')).toHaveAttribute(
+      'href',
+      /^\/news\/_astro\/.+\.css$/,
+    );
+    await expect(
+      page.getByText('Local development', { exact: true }),
+    ).toHaveCount(0);
+  }
+});
+
 test('the combined artifact preserves the portfolio and keeps project sources private', async ({
   request,
 }) => {
@@ -13,6 +39,8 @@ test('the combined artifact preserves the portfolio and keeps project sources pr
     'src/pages/index.astro',
     'package.json',
     'reviews/pages.json',
+    'README.md',
+    'news-report.md',
   ]) {
     expect((await request.get(`/news/${path}`)).status()).toBe(404);
   }

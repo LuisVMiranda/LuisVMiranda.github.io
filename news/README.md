@@ -88,6 +88,15 @@ GitHub's built-in token; no hosting secret is needed. Protect the github-pages
 environment with reviewers. NEWS_SITE_URL optionally changes the HTTPS origin;
 the portal remains under /news/.
 
+Do not select **Deploy from a branch**: that runs Jekyll against the source
+repository and can render `news/README.md` as the news homepage. The actual
+homepage is generated as `news/dist/index.html` and packaged at
+`news/index.html` in the deployment artifact. Both `/news/` and
+`/news/index.html` must display this built page; English uses `/news/en/`.
+A successful push validation alone does not deploy the site: run the manual
+publication workflow with the approved digest and confirm its **publish** job
+succeeds. Verify the live homepage, its CSS, and the unchanged portfolio.
+
 A fresh immutable artifact combines the unchanged root index.html and assets/
 with the generated news/dist/ at /news/. Private source, research artifacts,
 review files and Node dependencies are never packaged. The workflow serializes

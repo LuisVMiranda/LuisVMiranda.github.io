@@ -2,7 +2,8 @@
 
 Validated on 20 September 2026 UTC (19 September in São Paulo).
 Deployment target: GitHub Pages only, portfolio at `/`, portal at `/news/`.
-The local preview contains drafts; no production publication was performed.
+The initial local validation used drafts. Production release validation and
+the editor's subsequent approval are recorded below.
 
 ## Evidence
 
@@ -67,16 +68,44 @@ checkouts. Design approval does not grant editorial approval of the stories.
 
 ## Editorial handoff
 
-One draft edition contains ten selections in each section, comprising
-76 distinct bilingual articles and 80 section references. Editorial approval
-is still `null`. Its content revision is:
+The editor explicitly approved the existing edition on 20 September 2026 UTC
+(19 September in São Paulo), recorded in `content/approval.json`. It contains
+ten selections in each section, comprising 76 distinct bilingual articles and
+80 section references. Its approved content revision is:
 
 `426008592b16e0af326b04ae3b407c5241bdcc0718795bd0aa86027dd65f8aaf`
 
-Review original sources and both translations before approving this revision.
 The portal can be inspected with `npm run build:preview`, then
 `npm run package:pages` and `npm run preview` at `/news/`.
 
 Publishing requires the reviewed changes in GitHub, Pages configured to use
 GitHub Actions, explicit editorial approval, and the protected manual workflow.
 No Cloudflare service, hosting credential, or runtime backend is required.
+
+## GitHub Pages homepage correction
+
+The live `/news/` response reproduced the reported README page: HTTP 200,
+"Local development" text present, and no `/news/_astro/` assets. The Pages API
+confirmed `build_type: legacy` with `main:/` as its source. The successful
+portal workflow had validated source only; its manual publish job had not run.
+The API setting is now `build_type: workflow`, so the combined static artifact
+can supply `/news/index.html` without Jekyll rendering the source README.
+
+Production validation after explicit editorial approval:
+
+- `npm run quality` passed, including all 23 unit tests and 196 static pages.
+- The production artifact passed 41 Playwright tests in Chromium, Firefox and
+  WebKit. Four duplicate crawl/layout runs were intentionally skipped.
+- The new regression check confirms `/news/` and `/news/index.html` have
+  identical HTML, a visible headline, the expected locale, and compiled CSS.
+  The same check covers `/news/en/` and `/news/en/index.html`.
+- The portfolio still matches its original HTML; README, update guide,
+  content, review files and source code return 404 from the packaged site.
+- All generated routes and internal assets resolved. Bilingual search,
+  accessibility, themes, text sizing and the responsive matrix passed.
+
+Primary review revalidated the shared browser-test change against the
+production artifact. No page template, layout, stylesheet or story text changed;
+the existing page design scores and owners are retained. The manifest records
+the reviewed test revision. The manual release still checks exact editorial
+approval and rejects obsolete commits before deploying.
