@@ -1,8 +1,8 @@
 {
   "reviewer": "Primary agent /root",
-  "reviewedAt": "2026-09-20T04:11:10.362Z",
-  "baseCommit": "c8476758d5aaf7a1ad7d1d15d7bf23828506a941",
-  "approvedSourceRevision": "ff5615655ea228614d45324e277d7dc4990acc58ead7c4e90768001f284d5630",
+  "reviewedAt": "2026-09-20T04:21:47.834Z",
+  "baseCommit": "37eece180ceecb5b886b7e5aadf6a563c1571c3c",
+  "approvedSourceRevision": "bb6e5ed9eecdf373a0c06a42db4e98172cca52170b20330c5d356e9d780497eb",
   "evidence": "reviews/VALIDATION.md",
   "categoryOrder": [
     "functionality",
@@ -19,7 +19,7 @@
     "README.md": "11d65c92c75bdc449677bf1786c6af98ef3cde3a44578871cdfe59a580892431",
     "eslint.config.mjs": "ac8d177e0c3f8a9bf003371c75ba5feb8b8c9e45555203311c6707cba4372be0",
     "news-report.md": "6538a3d5b24604c5d90d02e6d8f86b5d44d794bf3f854c94127a1e2f3f2d77e5",
-    "package-lock.json": "30ce22e1688904a65ec45ba10a93c53c9593de548a906807f612f1e844915499",
+    "package-lock.json": "35e74f451a05a5669679a4f2dc54599c67b75d5620d7791818c738ba61ddff08",
     "package.json": "69ca84979845a9848422c68dbdde7287e0e947b5bd946f4a9d1e72e94a6794e5",
     "playwright.config.ts": "e23638ac27d651ee8f708e5153554a1e00d05c54820fd15e43e0a52d844af73a",
     "public/favicon.svg": "e8d52932b184475a40abb0a44d12dec3a220b790c63927911320a00be5255e92",
@@ -429,6 +429,14 @@
         {
           "score": 9.4,
           "result": "Approved after primary source inspection, rendered review and passing relevant integration checks."
+        },
+        {
+          "score": 8.8,
+          "reason": "Clean GitHub npm ci rejected missing bundled Tailwind WASI dependencies in the lockfile; returned to the same owner."
+        },
+        {
+          "score": 9.4,
+          "result": "Same owner regenerated the lockfile. Primary independently passed clean Linux npm ci and full quality with Node 24.20.0/npm 11.19.0; all 196 HTML pages match except the CSS fingerprint, whose only change is removal of an unused inline utility. Shared page approvals revalidated."
         }
       ],
       "files": {

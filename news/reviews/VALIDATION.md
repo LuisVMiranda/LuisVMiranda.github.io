@@ -117,3 +117,19 @@ that every possible race is mathematically absent.
 All authored JavaScript combined: 3,449 bytes gzipped,
 including the lazy search entry point and excluding generated Pagefind libraries.
 Every release budget passed.
+
+## Clean Linux installation follow-up
+
+The first deployment attempt for `37eece1` stopped at `npm ci` because its
+lockfile omitted bundled Tailwind WASI dependencies. The primary reviewer
+returned the build to the same Luna/max owner at 8.8/10. That owner regenerated
+the lockfile with npm; package versions and source code were unchanged.
+
+The primary reviewer then independently ran a clean Linux `npm ci` and the full
+quality command with Node 24.20.0 and npm 11.19.0, matching GitHub. Installation,
+all 31 unit tests, constraints and the production build passed. All 196 HTML
+files match the previously reviewed build except their stylesheet fingerprint.
+The only CSS difference removes an unused `.inline` utility; authored JavaScript
+is unchanged. Pagefind generated files were rebuilt for Linux. The build owner
+was rescored 9.4/10 and shared approvals were renewed against the new lockfile.
+GitHub repeats the complete browser and performance suite before publication.
