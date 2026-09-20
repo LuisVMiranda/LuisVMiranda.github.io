@@ -2,6 +2,7 @@
 @source "../render";
 @source "../client";
 @import './base.css';
+@import './section-masthead.css';
 @import './article.css';
 @import './home.css';
 @import './archive.css';

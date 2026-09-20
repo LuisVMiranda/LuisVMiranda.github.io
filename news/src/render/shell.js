@@ -1,5 +1,14 @@
-import { sections, sectionStyle } from '../modules/content/sections.ts';
-import { articleDate, assetUrl, localUrl } from '../modules/content/urls.ts';
+import {
+  sectionLabel,
+  sections,
+  sectionStyle,
+} from '../modules/content/sections.ts';
+import {
+  articleDate,
+  assetUrl,
+  formatDate,
+  localUrl,
+} from '../modules/content/urls.ts';
 import { escapeHtml as escaped } from './html.js';
 
 const DEFAULT_DESCRIPTION = {
@@ -30,29 +39,89 @@ function renderThemeButton(context) {
   </button>`;
 }
 
+/** @param {string} path */
+function sectionForPath(path) {
+  if (!path.startsWith('secao/')) return undefined;
+  const id = path.slice('secao/'.length).replace(/\/$/, '');
+  return sections.find((section) => section.id === id);
+}
+
 /** @param {import('./types.ts').RenderContext} context */
-function renderNavigation(context) {
+function latestEdition(context) {
+  if (context.edition) return context.edition;
+  return [...(context.editions || [])].sort((left, right) =>
+    right.cutoff.localeCompare(left.cutoff),
+  )[0];
+}
+
+/** @param {import('./types.ts').RenderContext} context @param {import('../modules/content/sections.ts').Section} section */
+function renderSectionIdentity(context, section) {
+  const edition = latestEdition(context);
+  const date = edition
+    ? `<time class="section-masthead__date" datetime="${escaped(edition.cutoff)}">${escaped(formatDate(edition.cutoff, context.locale))}</time>`
+    : '';
+  return `<div class="section-masthead">
+      <span class="section-masthead__divider" aria-hidden="true">/</span>
+      <div class="section-masthead__identity">
+        <h1 id="section-page-title">${escaped(sectionLabel(section.id, context.locale))}</h1>
+        ${date}
+      </div>
+    </div>`;
+}
+
+/** @param {import('./types.ts').RenderContext} context */
+function renderNavigationLinks(context) {
   const { locale, path } = context;
-  const en = locale === 'en';
-  const searchUrl = localUrl('busca', locale);
-  const language = en ? 'pt-BR' : 'en';
-  const languageLabel = en ? 'Ler em português' : 'Read in English';
-  const links = sections
+  return sections
     .map((section) => {
       const current =
         path === `secao/${section.id}` ? ' aria-current="page"' : '';
       return `<a style="${escaped(sectionStyle(section.id))}" href="${escaped(localUrl(`secao/${section.id}`, locale))}"${current}>${escaped(section.label[locale])}</a>`;
     })
     .join('');
-  return `<header class="site-header container" data-pagefind-ignore>
-    <div class="masthead">
-      <a class="brand" href="${escaped(localUrl('', locale))}">Notícias<span>${en ? 'Sources. Context. Clarity.' : 'Fontes. Contexto. Clareza.'}</span></a>
+}
+
+/** @param {import('./types.ts').RenderContext} context @param {import('../modules/content/sections.ts').Section | undefined} section */
+function renderMastheadBrand(context, section) {
+  const { locale } = context;
+  const en = locale === 'en';
+  const brand = `<a class="brand" href="${escaped(localUrl('', locale))}">Notícias<span>${en ? 'Sources. Context. Clarity.' : 'Fontes. Contexto. Clareza.'}</span></a>`;
+  const sectionIdentity = section
+    ? renderSectionIdentity(context, section)
+    : '';
+  const mastheadBrand = section
+    ? `<div class="masthead-lockup">${brand}${sectionIdentity}</div>`
+    : brand;
+  return mastheadBrand;
+}
+
+/** @param {import('./types.ts').RenderContext} context @param {import('../modules/content/sections.ts').Section | undefined} section */
+function renderMasthead(context, section) {
+  const { locale } = context;
+  const en = locale === 'en';
+  return `<div class="masthead${section ? ' masthead--section' : ''}">
+      ${renderMastheadBrand(context, section)}
       <div class="utilities">
-        <a class="search-link" href="${escaped(searchUrl)}">${en ? 'Search' : 'Buscar'} <span aria-hidden="true">↗</span></a>
-        <a class="language-link" href="${escaped(localUrl(path, language))}" lang="${language}" hreflang="${language}" aria-label="${escaped(languageLabel)}">${en ? 'PT-BR' : 'EN'}</a>
+        <a class="search-link" href="${escaped(localUrl('busca', locale))}">${en ? 'Search' : 'Buscar'} <span aria-hidden="true">↗</span></a>
+        <a class="language-link" href="${escaped(localUrl(context.path, en ? 'pt-BR' : 'en'))}" lang="${en ? 'pt-BR' : 'en'}" hreflang="${en ? 'pt-BR' : 'en'}" aria-label="${escaped(en ? 'Ler em português' : 'Read in English')}">${en ? 'PT-BR' : 'EN'}</a>
         ${renderThemeButton(context)}
       </div>
-    </div>
+    </div>`;
+}
+
+/** @param {import('./types.ts').RenderContext} context */
+function renderNavigation(context) {
+  const { locale, path } = context;
+  const en = locale === 'en';
+  const section = sectionForPath(path);
+  const searchUrl = localUrl('busca', locale);
+  const links = renderNavigationLinks(context);
+  const sectionClass = section ? ' site-header--section' : '';
+  const sectionStyleAttribute = section
+    ? ` style="${escaped(sectionStyle(section.id))}"`
+    : '';
+  return `<header class="site-header container${sectionClass}"${sectionStyleAttribute} data-pagefind-ignore>
+    ${renderMasthead(context, section)}
     <nav class="desktop-nav" aria-label="${escaped(en ? 'Sections' : 'Editorias')}">${links}</nav>
     <details class="mobile-nav">
       <summary>${en ? 'Browse sections' : 'Explorar editorias'}</summary>
@@ -178,6 +247,12 @@ function renderPreview(context) {
 export function renderShell(context, body) {
   const skipLabel =
     context.locale === 'en' ? 'Skip to content' : 'Ir para o conteúdo';
+  const mainLabel = context.path.startsWith('secao/')
+    ? ' aria-labelledby="section-page-title"'
+    : '';
+  const mainClass = context.path.startsWith('secao/')
+    ? 'container shell-main shell-main--section'
+    : 'container shell-main';
   return `<!doctype html>
 <html lang="${escaped(context.locale)}">
   ${renderHead(context)}
@@ -185,7 +260,7 @@ export function renderShell(context, body) {
     <a href="#main" class="skip-link" tabindex="0">${skipLabel}</a>
     ${renderNavigation(context)}
     ${renderPreview(context)}
-    <main id="main" class="container shell-main" tabindex="-1">${body}</main>
+    <main id="main" class="${mainClass}"${mainLabel} tabindex="-1">${body}</main>
     ${renderFooter(context)}
     ${renderClientScripts(context)}
   </body>

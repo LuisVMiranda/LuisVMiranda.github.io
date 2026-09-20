@@ -1,9 +1,9 @@
 {
   "reviewer": "Primary agent /root",
-  "reviewedAt": "2026-09-20T04:21:47.834Z",
-  "baseCommit": "37eece180ceecb5b886b7e5aadf6a563c1571c3c",
-  "approvedSourceRevision": "bb6e5ed9eecdf373a0c06a42db4e98172cca52170b20330c5d356e9d780497eb",
-  "evidence": "reviews/VALIDATION.md",
+  "reviewedAt": "2026-09-20T11:32:17.755Z",
+  "baseCommit": "fe6918c2e899b8d38b8aa9a46f6ec5f59f80665e",
+  "approvedSourceRevision": "8fef993f93442a61aa6cacbd2298d6f7ae6f71d08036c2dacbd4746c4565a02b",
+  "evidence": "reviews/UI-TWEAKS.md",
   "categoryOrder": [
     "functionality",
     "design",
@@ -61,8 +61,8 @@
     "src/modules/research/adapters.ts": "8d4c1206ff87ad73485d388f265b1fd3c1b335118e394d6d31314bddc16a7df2",
     "src/modules/research/rank.ts": "b44170bd5d9bbcf38ea130403ce94a19a8183b641f8fd0ef39cd57c4a86f7e54",
     "src/modules/research/types.ts": "5962753e781c788315dff6e55798d530708aaee50629b5c3fd76297d8fc0256b",
-    "src/render/components/section-page.js": "073f4f19f996914a1a680c9abe550e5110b9b4a90459d75b20de4b1e2293cad5",
-    "src/render/components/story-card.js": "2dd43289b748cb4e1452988eda410ebf40d0cc9c3bd6b236e5f9b692eb58c0a2",
+    "src/render/components/section-page.js": "266ab4344bbd648796290f14caa37443ed3bfd24336aa1070a95de66b5cd0c6f",
+    "src/render/components/story-card.js": "4380369a290d0219c097228db8f4128fa1dfaf8edab88d5e3cfcc2570610e6f3",
     "src/render/html.js": "0a89927af21abca6e140978ad376528bba26b68b0cb180819c7726fffc63bd4f",
     "src/render/index.js": "d94c7293b016496b210acd7eb16de128279a2b0cec63380a645a67b539e892ef",
     "src/render/pages/archive.js": "107facf125215f0aff983c626bc24719beaf19eff5d905f097b1de2a37200c97",
@@ -71,30 +71,30 @@
     "src/render/pages/error.js": "d224443dde6c513ef7567df5dd33e9770a7e3fd3aa42c512f0e2d59832d8b4db",
     "src/render/pages/home.js": "af4b70b3522362b670d05c41351bab857e89d38b59855a8e8c0fc32cf5d31f7f",
     "src/render/pages/search.js": "a6db7bc90cfb960bde7beec6f710bc1c39f71e7f40a208220760638ceffae165",
-    "src/render/pages/sections/brasil.js": "77a7e159b61af4f71d2de4cdf4b6a19a17d3b370db9d5a020a99b11ce889e2ab",
-    "src/render/pages/sections/ciencia.js": "9c34b1ab7c0163634d9d742d2e0e440763b9e76688181fa39aba7f0c2a689f54",
-    "src/render/pages/sections/cultura.js": "a81f858ddba559c61e440fd1a2ed11f7e6f394138b3c12fb7cf518071faac93c",
-    "src/render/pages/sections/economia.js": "1eb19097a41c87f4eda2e0a5f3bed2f6deef8ae36233bda8321c4f567051d5da",
-    "src/render/pages/sections/esportes.js": "324e724c4d51b0dec132a9beef50de59cb5faad20860693a3dcc003c4c80c2c4",
-    "src/render/pages/sections/mundo.js": "70942629654484df1ce52f62eae5d5c16f54c137273c4eb3c92dba7cb6ed5668",
-    "src/render/pages/sections/politica.js": "a7c37529b70f76c0b10f8fcbde1661a95a892a98149032d233f2d5b8d8830645",
-    "src/render/pages/sections/tecnologia.js": "df8cd77557fbbefb9f26f231dfec714a38190bd4079f6840dded001f88b6cfbb",
+    "src/render/pages/sections/brasil.js": "3e1f46f1a7d0ede3e0c6d3a3893c4a664c525f73eaf1fbc728c8bdc7b89189c7",
+    "src/render/pages/sections/ciencia.js": "ec9d90a3a45c60be28ef6332a827831df81445c80bedbff7be1ff173a7cb8003",
+    "src/render/pages/sections/cultura.js": "68892fe36e43298a25da0f86903985e3a4b22b6e72424a023af0575d94298ce3",
+    "src/render/pages/sections/economia.js": "f91f253d3c1a9f64eab07b8344e07b527c2eb9ea87368026fc96752cb7ccd66d",
+    "src/render/pages/sections/esportes.js": "ecd7b9105419395ed45e6c1118b802b859bd2c1aef753be1faa526ae2a21bc29",
+    "src/render/pages/sections/mundo.js": "1d1379c42bbd6d6e0021e94fa92b2ffc5e84919a96e4d11fa11b0624c4a11e54",
+    "src/render/pages/sections/politica.js": "da6b047a849fd4c3f9cef467ce604d778185913a0d49319a002ac8ff9e2e060e",
+    "src/render/pages/sections/tecnologia.js": "03a3fcd73d9c0d4994e11f016af33cfc75a48bf99260f655f42dd3aad4cec69a",
     "src/render/routes.js": "feb5a7ff0227d29db42e9b2ff19edfc46711da79fb11046b9c16ce2e9853bb98",
-    "src/render/shell.js": "05f549413684aa88ca93148b5d4a1dedbbe6ddbc0d7bbfa85d9543757db4eeb9",
+    "src/render/shell.js": "ca71e4fccadf4e5a8d5fa86e2ca15fca5e6757d8e1dc43e962a459d6319ba81e",
     "src/render/types.ts": "c8f55cd51b387c5ea281e3c236ad76acd11423a5b82d29c06a2d37a20da646e1",
     "src/styles/archive.css": "96b8ca9651ae33ce36fef5880e2a801d891fff54b4c0a91635a7b103f76bc1f6",
     "src/styles/article.css": "5a952d32de43f7f2cc020f0e54f43623a3acfa45895e8b95d33952eed5ab6acc",
-    "src/styles/base.css": "fc8abd737d8a17d71808f211dc7cffd662b78a080e0fa81364bd5aaae262762b",
+    "src/styles/base.css": "c9791f8035a7ca291891e88943ce941bca278d81030d2a01e25b4b460c340976",
     "src/styles/editorial.css": "0a080446d22cef3afa42d98224496f8eab6284d494c8ffd8f688bbd7f228e78c",
     "src/styles/error.css": "f9f6ecbb521ff8c4cf20b63a0735c255646e8be75e3c04366d0241ede2c66b8c",
-    "src/styles/home.css": "72be4bcd04bdf4cf3d161a3711fedc9cb0cff4b53df9ee0dd6a63ce610ddd36e",
-    "src/styles/main.css": "0e358c8c8a8361c27918f6134bc27bb622852a3e118c24bd6ea44c675614dc89",
+    "src/styles/home.css": "e7c4066ac957e9e63f1c57cd582c6ed5a49222eb18b7c87ccbbe61289695467c",
+    "src/styles/main.css": "8a81b80bfc2756fb5766785e92563c4dbb55cb24af25adc5945996891a6caeef",
     "src/styles/search.css": "5987fb944dbc9ef8ccdc88e8ba16d1a7ac82c563e0f127b1aca2f992b3cf2578",
     "static/404.html": "2d7930b2625c01398b0922af2ada2fbb24c0065d1161bb416b6f76c3d37fa3d9",
     "tests/browser/journeys.spec.ts": "7d418303715793635a896b162b8299e6f2315cd531dec312ec454fae82d85adc",
     "tests/browser/layout.spec.ts": "80c072008f9151aa03c73ce73e04e6c9828311f56649a20b31846398f59f7808",
     "tests/browser/pages.spec.ts": "5d4e2ae924232f53b40dd3462628c015d11d76f3cfffc7932fa544699ae8fe55",
-    "tests/browser/redesign.spec.ts": "a713ccb75300088466f3e75f71d9bcabb062c7d2f868f5253e17c057259bc2f3",
+    "tests/browser/redesign.spec.ts": "e400c89cab31de7c9f817b5550f0dd1c6ee46f9af90c1b1532a678e40c0b0402",
     "tests/browser/search.spec.ts": "10bab8bdce74388e9b7cac1ed8eb7627e7dc145cd0b2c0a49b7afceb021b4019",
     "tests/fixtures/search.json": "1a1f7b4f53a9c65e571415ef948e7bbbc700998e3f73d5a02b1a050a11008086",
     "tests/unit/archive-render.test.ts": "64e40e83d5577aa372e63a26a7690904b750e19e8b9cd792d7ff4c0fd51f9eb7",
@@ -113,7 +113,9 @@
     "tests/unit/search.test.ts": "93034e5806f1e36bc7bf9a38b999de39342bfae41e495b2f11d834303cae92b7",
     "tsconfig.json": "801a99ac8dc7f259cf04749cf11071b0557aad6864f695960da95798297881c8",
     "tsconfig.scripts.json": "395de83b54bd766a02845ab0b82ef4dfc2c5e162220dbe9ee433faff4a039059",
-    "vitest.config.ts": "29b431c77dda2c0e612f42a4785e598036817af1f3c67c5c6e9f2a936b8aaa69"
+    "vitest.config.ts": "29b431c77dda2c0e612f42a4785e598036817af1f3c67c5c6e9f2a936b8aaa69",
+    "src/styles/section-masthead.css": "d2460fa8ab7bed2a84585159001d51b79e3d1eb0c66d2f89775ccb240d7b5f14",
+    "tests/browser/compact-sections.spec.ts": "832ed00dffff31c425582ad3c4f057465c37fee53b49ac1e5b19bdc645fecf05"
   },
   "pages": [
     {
@@ -132,11 +134,15 @@
         {
           "score": 9.4,
           "result": "Approved after primary source inspection, rendered review and passing relevant integration checks."
+        },
+        {
+          "score": 9.4,
+          "result": "Shared UI refinements revalidated by primary; see reviews/UI-TWEAKS.md."
         }
       ],
       "files": {
         "src/render/pages/home.js": "af4b70b3522362b670d05c41351bab857e89d38b59855a8e8c0fc32cf5d31f7f",
-        "src/styles/home.css": "72be4bcd04bdf4cf3d161a3711fedc9cb0cff4b53df9ee0dd6a63ce610ddd36e"
+        "src/styles/home.css": "e7c4066ac957e9e63f1c57cd582c6ed5a49222eb18b7c87ccbbe61289695467c"
       }
     },
     {
@@ -151,10 +157,14 @@
         {
           "score": 9.3,
           "result": "Approved after primary source inspection, rendered review and passing relevant integration checks."
+        },
+        {
+          "score": 9.3,
+          "result": "Shared UI refinements revalidated by primary; see reviews/UI-TWEAKS.md."
         }
       ],
       "files": {
-        "src/render/pages/sections/brasil.js": "77a7e159b61af4f71d2de4cdf4b6a19a17d3b370db9d5a020a99b11ce889e2ab"
+        "src/render/pages/sections/brasil.js": "3e1f46f1a7d0ede3e0c6d3a3893c4a664c525f73eaf1fbc728c8bdc7b89189c7"
       }
     },
     {
@@ -169,10 +179,14 @@
         {
           "score": 9.3,
           "result": "Approved after primary source inspection, rendered review and passing relevant integration checks."
+        },
+        {
+          "score": 9.3,
+          "result": "Shared UI refinements revalidated by primary; see reviews/UI-TWEAKS.md."
         }
       ],
       "files": {
-        "src/render/pages/sections/mundo.js": "70942629654484df1ce52f62eae5d5c16f54c137273c4eb3c92dba7cb6ed5668"
+        "src/render/pages/sections/mundo.js": "1d1379c42bbd6d6e0021e94fa92b2ffc5e84919a96e4d11fa11b0624c4a11e54"
       }
     },
     {
@@ -187,10 +201,14 @@
         {
           "score": 9.3,
           "result": "Approved after primary source inspection, rendered review and passing relevant integration checks."
+        },
+        {
+          "score": 9.3,
+          "result": "Shared UI refinements revalidated by primary; see reviews/UI-TWEAKS.md."
         }
       ],
       "files": {
-        "src/render/pages/sections/politica.js": "a7c37529b70f76c0b10f8fcbde1661a95a892a98149032d233f2d5b8d8830645"
+        "src/render/pages/sections/politica.js": "da6b047a849fd4c3f9cef467ce604d778185913a0d49319a002ac8ff9e2e060e"
       }
     },
     {
@@ -205,10 +223,14 @@
         {
           "score": 9.3,
           "result": "Approved after primary source inspection, rendered review and passing relevant integration checks."
+        },
+        {
+          "score": 9.3,
+          "result": "Shared UI refinements revalidated by primary; see reviews/UI-TWEAKS.md."
         }
       ],
       "files": {
-        "src/render/pages/sections/economia.js": "1eb19097a41c87f4eda2e0a5f3bed2f6deef8ae36233bda8321c4f567051d5da"
+        "src/render/pages/sections/economia.js": "f91f253d3c1a9f64eab07b8344e07b527c2eb9ea87368026fc96752cb7ccd66d"
       }
     },
     {
@@ -223,10 +245,14 @@
         {
           "score": 9.3,
           "result": "Approved after primary source inspection, rendered review and passing relevant integration checks."
+        },
+        {
+          "score": 9.3,
+          "result": "Shared UI refinements revalidated by primary; see reviews/UI-TWEAKS.md."
         }
       ],
       "files": {
-        "src/render/pages/sections/tecnologia.js": "df8cd77557fbbefb9f26f231dfec714a38190bd4079f6840dded001f88b6cfbb"
+        "src/render/pages/sections/tecnologia.js": "03a3fcd73d9c0d4994e11f016af33cfc75a48bf99260f655f42dd3aad4cec69a"
       }
     },
     {
@@ -241,10 +267,14 @@
         {
           "score": 9.3,
           "result": "Approved after primary source inspection, rendered review and passing relevant integration checks."
+        },
+        {
+          "score": 9.3,
+          "result": "Shared UI refinements revalidated by primary; see reviews/UI-TWEAKS.md."
         }
       ],
       "files": {
-        "src/render/pages/sections/ciencia.js": "9c34b1ab7c0163634d9d742d2e0e440763b9e76688181fa39aba7f0c2a689f54"
+        "src/render/pages/sections/ciencia.js": "ec9d90a3a45c60be28ef6332a827831df81445c80bedbff7be1ff173a7cb8003"
       }
     },
     {
@@ -259,10 +289,14 @@
         {
           "score": 9.3,
           "result": "Approved after primary source inspection, rendered review and passing relevant integration checks."
+        },
+        {
+          "score": 9.3,
+          "result": "Shared UI refinements revalidated by primary; see reviews/UI-TWEAKS.md."
         }
       ],
       "files": {
-        "src/render/pages/sections/cultura.js": "a81f858ddba559c61e440fd1a2ed11f7e6f394138b3c12fb7cf518071faac93c"
+        "src/render/pages/sections/cultura.js": "68892fe36e43298a25da0f86903985e3a4b22b6e72424a023af0575d94298ce3"
       }
     },
     {
@@ -277,10 +311,14 @@
         {
           "score": 9.3,
           "result": "Approved after primary source inspection, rendered review and passing relevant integration checks."
+        },
+        {
+          "score": 9.3,
+          "result": "Shared UI refinements revalidated by primary; see reviews/UI-TWEAKS.md."
         }
       ],
       "files": {
-        "src/render/pages/sections/esportes.js": "324e724c4d51b0dec132a9beef50de59cb5faad20860693a3dcc003c4c80c2c4"
+        "src/render/pages/sections/esportes.js": "ecd7b9105419395ed45e6c1118b802b859bd2c1aef753be1faa526ae2a21bc29"
       }
     },
     {
@@ -299,6 +337,10 @@
         {
           "score": 9.4,
           "result": "Approved after primary source inspection, rendered review and passing relevant integration checks."
+        },
+        {
+          "score": 9.4,
+          "result": "Shared UI refinements revalidated by primary; see reviews/UI-TWEAKS.md."
         }
       ],
       "files": {
@@ -318,6 +360,10 @@
         {
           "score": 9.3,
           "result": "Approved after primary source inspection, rendered review and passing relevant integration checks."
+        },
+        {
+          "score": 9.3,
+          "result": "Shared UI refinements revalidated by primary; see reviews/UI-TWEAKS.md."
         }
       ],
       "files": {
@@ -338,6 +384,10 @@
         {
           "score": 9.2,
           "result": "Approved after primary source inspection, rendered review and passing relevant integration checks."
+        },
+        {
+          "score": 9.2,
+          "result": "Shared UI refinements revalidated by primary; see reviews/UI-TWEAKS.md."
         }
       ],
       "files": {
@@ -361,6 +411,10 @@
         {
           "score": 9.3,
           "result": "Approved after primary source inspection, rendered review and passing relevant integration checks."
+        },
+        {
+          "score": 9.3,
+          "result": "Shared UI refinements revalidated by primary; see reviews/UI-TWEAKS.md."
         }
       ],
       "files": {
@@ -380,6 +434,10 @@
         {
           "score": 9.2,
           "result": "Approved after primary source inspection, rendered review and passing relevant integration checks."
+        },
+        {
+          "score": 9.2,
+          "result": "Shared UI refinements revalidated by primary; see reviews/UI-TWEAKS.md."
         }
       ],
       "files": {
@@ -400,14 +458,18 @@
         {
           "score": 9.3,
           "result": "Approved after primary source inspection, rendered review and passing relevant integration checks."
+        },
+        {
+          "score": 9.3,
+          "result": "Shared UI refinements revalidated by primary; see reviews/UI-TWEAKS.md."
         }
       ],
       "files": {
-        "src/render/shell.js": "05f549413684aa88ca93148b5d4a1dedbbe6ddbc0d7bbfa85d9543757db4eeb9",
-        "src/render/components/story-card.js": "2dd43289b748cb4e1452988eda410ebf40d0cc9c3bd6b236e5f9b692eb58c0a2",
-        "src/render/components/section-page.js": "073f4f19f996914a1a680c9abe550e5110b9b4a90459d75b20de4b1e2293cad5",
-        "src/styles/base.css": "fc8abd737d8a17d71808f211dc7cffd662b78a080e0fa81364bd5aaae262762b",
-        "src/styles/main.css": "0e358c8c8a8361c27918f6134bc27bb622852a3e118c24bd6ea44c675614dc89",
+        "src/render/shell.js": "ca71e4fccadf4e5a8d5fa86e2ca15fca5e6757d8e1dc43e962a459d6319ba81e",
+        "src/render/components/story-card.js": "4380369a290d0219c097228db8f4128fa1dfaf8edab88d5e3cfcc2570610e6f3",
+        "src/render/components/section-page.js": "266ab4344bbd648796290f14caa37443ed3bfd24336aa1070a95de66b5cd0c6f",
+        "src/styles/base.css": "c9791f8035a7ca291891e88943ce941bca278d81030d2a01e25b4b460c340976",
+        "src/styles/main.css": "8a81b80bfc2756fb5766785e92563c4dbb55cb24af25adc5945996891a6caeef",
         "src/client/main.js": "c40cf4f97c4ef01d76feb787c6f7a642a82056ae0ce14070ec3b0a17f486282a",
         "src/client/theme-init.js": "1b205f57b853add62eda71bbd9d9a2d4c588dd740607d635dc081c07bec5a3b4",
         "src/client/scroll-top.js": "d0201ca6304963e905c97fc012d61386fbe8f5bb8861e94d956d2f9094588c37"
@@ -437,6 +499,10 @@
         {
           "score": 9.4,
           "result": "Same owner regenerated the lockfile. Primary independently passed clean Linux npm ci and full quality with Node 24.20.0/npm 11.19.0; all 196 HTML pages match except the CSS fingerprint, whose only change is removal of an unused inline utility. Shared page approvals revalidated."
+        },
+        {
+          "score": 9.4,
+          "result": "Shared UI refinements revalidated by primary; see reviews/UI-TWEAKS.md."
         }
       ],
       "files": {
@@ -447,6 +513,34 @@
         "scripts/dev.mjs": "8638416b80d6317dc7a1a7eee2bb2711d0b7137c3a5436803aa5c2ee36598122",
         "src/modules/content/catalog.ts": "e556c447875b2088445175146a8b7a14810975063c108cdf8123e00b2be92abe"
       }
+    }
+  ],
+  "refinements": [
+    {
+      "owner": "/root/date_button_luna",
+      "model": "gpt-5.6-luna",
+      "reasoning": "max",
+      "score": 9.4,
+      "categoryScores": [2, 1.9, 1.9, 1.8, 1.8],
+      "checksPassed": true
+    },
+    {
+      "owner": "/root/compact_sections_luna",
+      "model": "gpt-5.6-luna",
+      "reasoning": "max",
+      "score": 9.3,
+      "categoryScores": [2, 1.8, 1.9, 1.8, 1.8],
+      "checksPassed": true,
+      "attempts": [
+        {
+          "score": 8.3,
+          "reason": "Mobile language wrapping, small date, excessive content gap and complexity above ten."
+        },
+        {
+          "score": 9.3,
+          "result": "Same owner corrected defects; independent primary render review and checks passed."
+        }
+      ]
     }
   ]
 }

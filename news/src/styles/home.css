@@ -194,8 +194,10 @@
 
 .home-latest .story-card__date,
 .home-section .story-card__date {
-  display: block;
-  margin-top: 0.55rem;
+  display: flex;
+  margin-top: 1rem;
+  padding-top: 0.5rem;
+  border-top: 1px solid color-mix(in srgb, var(--rule) 80%, transparent);
   color: var(--muted);
   font-family: 'Inter', ui-sans-serif, system-ui, sans-serif;
   font-size: 0.68rem;

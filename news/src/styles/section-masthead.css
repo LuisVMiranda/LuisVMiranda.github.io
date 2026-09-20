@@ -1,0 +1,118 @@
+.site-header--section {
+  --section-accent: var(--section-light);
+}
+
+.shell-main--section {
+  padding-top: clamp(0.75rem, 1.5vw, 1.25rem);
+}
+
+.shell-main--section .section-content {
+  padding-top: 0;
+}
+
+.masthead-lockup {
+  display: flex;
+  min-width: 0;
+  align-items: center;
+  gap: clamp(0.6rem, 1.6vw, 1.1rem);
+}
+
+.masthead--section {
+  gap: 0.75rem;
+}
+
+.masthead--section .masthead-lockup {
+  flex: 1 1 auto;
+}
+
+.masthead--section .brand {
+  flex: 0 1 auto;
+}
+
+.section-masthead {
+  display: flex;
+  min-width: 0;
+  align-items: center;
+  gap: clamp(0.45rem, 1vw, 0.8rem);
+}
+
+.section-masthead__divider {
+  color: var(--section-accent);
+  font-family: 'Source Serif 4', Georgia, serif;
+  font-size: clamp(1.5rem, 3vw, 2.2rem);
+  line-height: 1;
+}
+
+.section-masthead__identity {
+  display: grid;
+  min-width: max-content;
+  gap: 0.2rem;
+}
+
+.section-masthead__identity h1 {
+  margin: 0;
+  color: var(--section-accent);
+  font-size: clamp(1.25rem, 2.8vw, 2.1rem);
+  letter-spacing: -0.04em;
+  line-height: 1;
+  white-space: nowrap;
+}
+
+.section-masthead__date {
+  display: block;
+  color: var(--muted);
+  font-family: 'Inter', ui-sans-serif, system-ui, sans-serif;
+  font-size: 0.7rem;
+  font-variant-numeric: tabular-nums;
+  letter-spacing: 0.06em;
+  line-height: 1.25;
+  text-transform: uppercase;
+  white-space: nowrap;
+}
+
+@media (max-width: 42rem) {
+  .masthead--section {
+    display: grid;
+    grid-template-columns: minmax(0, 1fr);
+    min-height: 0;
+  }
+
+  .masthead--section .masthead-lockup {
+    width: 100%;
+  }
+
+  .masthead--section .utilities {
+    justify-self: end;
+  }
+
+  .masthead--section .masthead-lockup {
+    gap: 0.55rem;
+  }
+
+  .masthead--section .brand span {
+    max-width: 8rem;
+  }
+
+  .section-masthead {
+    gap: 0.4rem;
+  }
+
+  .section-masthead__identity h1 {
+    font-size: clamp(1.15rem, 5vw, 1.6rem);
+  }
+}
+
+@media (max-width: 30rem) {
+  .masthead--section {
+    gap: 0.35rem;
+  }
+
+  .masthead--section .brand {
+    font-size: 2rem;
+  }
+
+  .section-masthead__date {
+    font-size: 0.7rem;
+    letter-spacing: 0.04em;
+  }
+}

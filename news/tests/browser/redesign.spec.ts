@@ -66,6 +66,10 @@ test('arrow-only scroll-to-top supports keyboard, both locales and reduced motio
       language ? 'Back to top' : 'Voltar ao topo',
     );
     await expect(button.locator('svg')).toHaveCount(1);
+    await expect(button).toHaveCSS('border-radius', '0px');
+    const size = (await button.boundingBox())!;
+    expect(size.width).toBeCloseTo(43.2, 1);
+    expect(size.height).toBeCloseTo(43.2, 1);
     expect((await button.textContent())!.trim()).toBe('');
     await button.focus();
     await page.keyboard.press('Enter');

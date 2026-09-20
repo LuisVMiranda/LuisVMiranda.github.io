@@ -19,11 +19,12 @@ export function renderStoryCard({ article, locale, rank, compact = false }) {
     Number.isFinite(safeRank) && safeRank > 0
       ? `<span class="story-card__rank" aria-label="${escapeHtml(locale === 'en' ? `Rank ${safeRank}` : `Posição ${safeRank}`)}">${String(safeRank).padStart(2, '0')} / </span>`
       : '';
+  const dateLabel = locale === 'en' ? 'Published' : 'Publicado';
   const modifier = compact ? ' story-card--compact' : '';
   return `<article class="story-card story${modifier}" style="${escapeHtml(sectionStyle(article.section))}">
     <p class="story-card__eyebrow eyebrow">${rankMarkup}${escapeHtml(sectionLabel(article.section, locale))}</p>
     <h3 class="story-card__title"><a href="${escapeHtml(articleUrl(article, locale))}">${escapeHtml(translation.title)}</a></h3>
     <p class="story-card__summary">${escapeHtml(translation.summary)}</p>
-    <time class="story-card__date" datetime="${escapeHtml(articleDate(article))}">${escapeHtml(formatArticleDate(article, locale))}</time>
+    <time class="story-card__date" datetime="${escapeHtml(articleDate(article))}"><span class="story-card__date-label">${escapeHtml(dateLabel)}</span> <span class="story-card__date-value">${escapeHtml(formatArticleDate(article, locale))}</span></time>
   </article>`;
 }

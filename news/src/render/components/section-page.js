@@ -1,5 +1,5 @@
-import { sectionLabel, sectionStyle } from '../../modules/content/sections.ts';
-import { formatDate, localUrl } from '../../modules/content/urls.ts';
+import { sectionStyle } from '../../modules/content/sections.ts';
+import { localUrl } from '../../modules/content/urls.ts';
 import { escapeHtml } from '../html.js';
 import { renderStoryCard } from './story-card.js';
 
@@ -15,7 +15,6 @@ function portugueseShortfall(count) {
 
 const COPY = {
   en: {
-    edition: 'The essential selection',
     top: 'Top 10 stories',
     empty: 'This desk is awaiting its first reviewed edition.',
     shortfall: englishShortfall,
@@ -27,7 +26,6 @@ const COPY = {
     archive: 'Earlier editions',
   },
   'pt-BR': {
-    edition: 'A seleção essencial',
     top: 'Top 10 notícias',
     empty: 'Esta editoria aguarda sua primeira edição revisada.',
     shortfall: portugueseShortfall,
@@ -108,19 +106,13 @@ function renderSectionAside(context, sectionId) {
   </aside>`;
 }
 
-/** @param {import('../types.ts').RenderContext} context @param {{sectionId: import('../../modules/content/types.ts').SectionId, kicker: string, intro: string}} input */
-export function renderSectionPage(context, { sectionId, kicker, intro }) {
+/** @param {import('../types.ts').RenderContext} context @param {{sectionId: import('../../modules/content/types.ts').SectionId}} input */
+export function renderSectionPage(context, { sectionId }) {
   const copy = copyFor(context.locale);
   const edition = latestEdition(context);
   const stories = orderedStories(context, sectionId);
   const section = edition?.sections[sectionId];
   return `<div class="section-page" style="${escapeHtml(sectionStyle(sectionId))}">
-    <header class="section-header">
-      <p class="eyebrow">${escapeHtml(kicker)}</p>
-      <h1>${escapeHtml(sectionLabel(sectionId, context.locale))}</h1>
-      <p class="intro">${escapeHtml(intro)}</p>
-      <div class="edition-line"><span>${copy.edition}</span>${edition ? `<time datetime="${escapeHtml(edition.cutoff)}">${escapeHtml(formatDate(edition.cutoff, context.locale))}</time>` : ''}</div>
-    </header>
     <div class="section-content">
       <section aria-labelledby="top-ten-title">
         <h2 id="top-ten-title">${copy.top}</h2>
