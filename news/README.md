@@ -18,6 +18,9 @@ block indexing, and omit draft RSS/sitemap entries. Production builds include
 content only when its SHA-256 matches the editorial approval record. No
 runtime connection to the local search instance is needed by readers.
 
+`npm run dev` builds and packages a fresh preview before starting the local
+static server. It does not watch source files; restart it after changes.
+
 PT-BR routes start at `/news/`; English routes start at `/news/en/`. Language switching
 preserves story, section and edition identity. Pagefind builds language-specific
 indexes. Source Serif 4 and Inter are bundled locally.
@@ -39,6 +42,7 @@ npm run research
 npm run review
 npm run quality
 npm run build:preview
+npm run package:pages
 npm run test:e2e
 npm run test:performance
 ```
@@ -49,6 +53,24 @@ the research template. New edits invalidate approval. Corrected stories retain
 their identity, update timestamp, and bilingual correction note.
 
 ## Design and architecture
+
+The frontend uses HTML rendered at build time by small JavaScript modules,
+compiled Tailwind CSS, and vanilla browser JavaScript. There is no Astro,
+hydration framework, Tailwind CDN, or runtime content fetch. Existing strict
+TypeScript content and research modules remain build-time validation tools.
+
+`src/render/pages/` owns page markup, `src/render/components/` shares repeated
+editorial markup, and `src/styles/` owns the compiled design tokens and
+typesetting. `src/client/` contains browser entry points. Escape editorial
+values with `escapeHtml` before inserting them into HTML. Generated files are
+recreated in `dist/`; do not edit them directly.
+
+Article headers have a wider measure than body text, so long headlines can
+use the available desktop space without forcing short lines. The reading
+controls still affect only article copy. The SVG arrow button appears after
+scrolling, returns keyboard focus to the main content, and respects reduced
+motion preferences.
+The homepage's main headline is a native link to the matching localized article.
 
 Content validates paired translations and references. Editions validates
 rankings and approval digests. Research hides search access behind live and
@@ -76,7 +98,8 @@ are explicitly excluded from source-size checks. Test reports go to ignored
 
 ## GitHub Pages operation
 
-GitHub Pages is the only production host. Astro produces HTML, CSS, fonts and
+GitHub Pages is the only production host. The build produces plain HTML,
+locally compiled Tailwind CSS, self-hosted fonts and
 JavaScript. Pagefind runs entirely in the reader's browser. Research, validation
 and editorial approval happen before the build; there are no runtime functions,
 Workers, database connections, API credentials or application servers.

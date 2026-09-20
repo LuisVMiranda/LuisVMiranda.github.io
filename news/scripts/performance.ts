@@ -59,12 +59,12 @@ try {
       JSON.stringify(report.lhr),
     );
   }
-  const jsFiles = (await readdir('dist/_astro')).filter((name) =>
+  const jsFiles = (await readdir('dist/assets')).filter((name) =>
     name.endsWith('.js'),
   );
   const compressed = await Promise.all(
     jsFiles.map(
-      async (name) => gzipSync(await readFile(`dist/_astro/${name}`)).length,
+      async (name) => gzipSync(await readFile(`dist/assets/${name}`)).length,
     ),
   );
   const total = compressed.reduce((sum, size) => sum + size, 0);

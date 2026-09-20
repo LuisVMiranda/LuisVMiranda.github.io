@@ -3,12 +3,12 @@
   <head>
     <meta charset="utf-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1" />
-    <meta name="robots" content="noindex" />
+    <meta name="robots" content="noindex, nofollow" />
     <title>Página não encontrada — Notícias</title>
     <script>
-      const getLocale = () => {
+      const getRoute = () => {
         const path = location.pathname;
-        const english = path.startsWith('/news/en/');
+        const english = path === '/news/en' || path.startsWith('/news/en/');
         const base = english ? '/news/en/' : '/news/';
         return {
           english,
@@ -19,8 +19,15 @@
         };
       };
 
-      const getSystemTheme = () =>
-        matchMedia('(prefers-color-scheme: dark)').matches ? 'dark' : 'light';
+      const getSystemTheme = () => {
+        try {
+          return matchMedia('(prefers-color-scheme: dark)').matches
+            ? 'dark'
+            : 'light';
+        } catch {
+          return 'light';
+        }
+      };
 
       const getSavedTheme = () => {
         try {
@@ -35,11 +42,7 @@
         }
       };
 
-      const applyTheme = (root) => {
-        root.dataset.theme = getSavedTheme() || getSystemTheme();
-      };
-
-      const applyLocale = (root, route) => {
+      const setLocale = (root, route) => {
         root.lang = route.locale;
         root.dataset.locale = route.locale;
         document.title = route.english
@@ -47,58 +50,45 @@
           : 'Página não encontrada — Notícias';
       };
 
-      const setNavigationLink = (selector, href) => {
+      const setLink = (selector, href) => {
         const link = document.querySelector(selector);
         if (link) link.setAttribute('href', href);
       };
 
-      const setLanguageLink = (route) => {
+      const updateNavigation = (route) => {
+        setLink('[data-home]', route.base);
+        setLink('[data-search]', `${route.base}busca/`);
         const language = document.querySelector('[data-language]');
-        if (!language) return;
-        const alternateLocale = route.english ? 'pt-BR' : 'en';
-        const label = route.english ? 'Ler em português' : 'Read in English';
-        language.setAttribute(
-          'href',
-          `${route.alternateBase}${route.currentPath || '404/'}`,
-        );
-        language.setAttribute('lang', alternateLocale);
-        language.setAttribute('hreflang', alternateLocale);
-        language.setAttribute('aria-label', label);
-      };
-
-      const setNavigationLabel = (route) => {
-        const navigation = document.querySelector('[data-navigation]');
-        if (navigation) {
-          navigation.setAttribute(
+        if (language) {
+          const alternateLocale = route.english ? 'pt-BR' : 'en';
+          language.setAttribute(
+            'href',
+            `${route.alternateBase}${route.currentPath || '404/'}`,
+          );
+          language.setAttribute('lang', alternateLocale);
+          language.setAttribute('hreflang', alternateLocale);
+          language.setAttribute(
             'aria-label',
-            route.english ? 'Recovery navigation' : 'Navegação de recuperação',
+            route.english ? 'Ler em português' : 'Read in English',
           );
         }
-      };
-
-      const updateNavigation = (route) => {
-        setNavigationLink('[data-home]', route.base);
-        setNavigationLink('[data-search]', `${route.base}busca/`);
-        setLanguageLink(route);
-        setNavigationLabel(route);
-      };
-
-      const onDocumentReady = (callback) => {
-        if (document.readyState === 'loading') {
-          document.addEventListener('DOMContentLoaded', callback, {
-            once: true,
-          });
-          return;
-        }
-        callback();
+        const navigation = document.querySelector('[data-navigation]');
+        if (navigation)
+          navigation.setAttribute(
+            'aria-label',
+            route.english ? 'Page navigation' : 'Navegação da página',
+          );
       };
 
       const initialize = () => {
         const root = document.documentElement;
-        const route = getLocale();
-        applyLocale(root, route);
-        applyTheme(root);
-        onDocumentReady(() => updateNavigation(route));
+        const route = getRoute();
+        setLocale(root, route);
+        root.dataset.theme = getSavedTheme() || getSystemTheme();
+        const ready = () => updateNavigation(route);
+        if (document.readyState === 'loading')
+          document.addEventListener('DOMContentLoaded', ready, { once: true });
+        else ready();
       };
 
       initialize();
@@ -112,7 +102,7 @@
         --muted: #536168;
         --rule: #d2d8d4;
         --section-accent: #166534;
-        font-family: Inter, system-ui, sans-serif;
+        font-family: Inter, ui-sans-serif, system-ui, sans-serif;
         color: var(--ink);
         background: var(--paper);
       }
@@ -143,6 +133,29 @@
         box-sizing: border-box;
       }
 
+      html,
+      body {
+        min-width: 320px;
+        min-height: 100%;
+      }
+
+      body {
+        margin: 0;
+        background: var(--paper);
+        color: var(--ink);
+        line-height: 1.6;
+      }
+
+      a {
+        color: inherit;
+        text-underline-offset: 0.2em;
+      }
+
+      :focus-visible {
+        outline: 3px solid var(--section-accent);
+        outline-offset: 4px;
+      }
+
       span[data-locale] {
         display: none;
       }
@@ -152,82 +165,99 @@
         display: inline;
       }
 
-      body {
-        background: var(--paper);
-        color: var(--ink);
-        line-height: 1.6;
-        margin: 0;
-        min-width: 320px;
-      }
-
       .error-page {
-        margin: 0 auto;
-        max-width: 58rem;
+        display: grid;
+        align-items: center;
+        width: min(100% - 2rem, 60rem);
         min-height: 100vh;
-        padding: clamp(3rem, 9vw, 7rem) clamp(1rem, 5vw, 4rem)
-          clamp(4rem, 10vw, 7rem);
+        margin-inline: auto;
+        padding-block: clamp(3rem, 9vw, 7rem) clamp(4rem, 10vw, 7rem);
       }
 
       .error-page__content {
-        background: var(--surface);
+        position: relative;
+        isolation: isolate;
+        max-width: 52rem;
+        padding: clamp(1.35rem, 3.2vw, 2.6rem) clamp(1.15rem, 4.5vw, 3.8rem)
+          clamp(1.7rem, 4vw, 3.2rem);
         border-top: 2px solid var(--section-accent);
-        max-width: 48rem;
-        padding: clamp(1.25rem, 3vw, 2rem) clamp(1.25rem, 4vw, 3rem)
-          clamp(1.75rem, 4vw, 3rem);
+        background: var(--surface);
+        overflow: hidden;
+      }
+
+      .error-page__content::after {
+        position: absolute;
+        z-index: -1;
+        top: -0.25em;
+        right: clamp(-0.15em, 1vw, 0.35em);
+        color: color-mix(in srgb, var(--section-accent) 10%, transparent);
+        content: '404';
+        font-family: Georgia, serif;
+        font-size: clamp(7rem, 25vw, 17rem);
+        font-weight: 600;
+        letter-spacing: -0.09em;
+        line-height: 0.8;
+        pointer-events: none;
+        user-select: none;
       }
 
       .error-page__eyebrow {
+        position: relative;
+        margin: 0 0 clamp(1.25rem, 3vw, 2rem);
         color: var(--section-accent);
         font-size: 0.72rem;
         font-weight: 700;
         letter-spacing: 0.13em;
-        margin: 0 0 1.5rem;
+        line-height: 1.4;
         text-transform: uppercase;
       }
 
-      h1 {
+      .error-page h1 {
+        position: relative;
+        max-width: 13ch;
+        margin: 0 0 clamp(1.25rem, 3vw, 1.7rem);
         color: var(--ink);
-        font-family: 'Source Serif 4', Georgia, serif;
+        font-family: Georgia, serif;
         font-size: clamp(2.7rem, 7vw, 5.25rem);
         font-weight: 600;
         letter-spacing: -0.055em;
         line-height: 0.98;
-        margin: 0 0 1.5rem;
-        max-width: 12ch;
       }
 
       .error-page__description {
+        position: relative;
+        max-width: 44ch;
+        margin: 0;
         color: var(--muted);
-        font-family: 'Source Serif 4', Georgia, serif;
+        font-family: Georgia, serif;
         font-size: clamp(1.15rem, 2.4vw, 1.5rem);
         line-height: 1.4;
-        margin: 0;
-        max-width: 42ch;
       }
 
       .error-page__actions {
-        align-items: center;
-        border-top: 1px solid var(--rule);
+        position: relative;
         display: flex;
         flex-wrap: wrap;
+        align-items: center;
         gap: 0.75rem 1rem;
         margin: clamp(2rem, 5vw, 3rem) 0 0;
         padding-top: 1.25rem;
+        border-top: 1px solid var(--rule);
       }
 
       .error-page__action {
-        align-items: center;
-        border: 1px solid var(--rule);
-        color: var(--ink);
         display: inline-flex;
-        font-size: 0.8rem;
-        font-weight: 600;
-        gap: 0.55rem;
+        align-items: center;
         justify-content: center;
         min-height: 2.9rem;
+        gap: 0.55rem;
         padding: 0.65rem 0.9rem;
+        border: 1px solid var(--rule);
+        color: var(--ink);
+        font-size: 0.8rem;
+        font-weight: 600;
+        line-height: 1.35;
         text-decoration: none;
-        text-underline-offset: 0.2em;
       }
 
       .error-page__action:hover,
@@ -238,20 +268,25 @@
       }
 
       .error-page__action--primary {
-        background: var(--ink);
         border-color: var(--ink);
+        background: var(--ink);
         color: var(--paper);
       }
 
       .error-page__action--primary:hover,
       .error-page__action--primary:focus-visible {
-        background: var(--section-accent);
         border-color: var(--section-accent);
+        background: var(--section-accent);
         color: var(--paper);
       }
 
       @media (max-width: 30rem) {
         .error-page {
+          width: calc(100% - 1.25rem);
+          padding-inline: 0;
+        }
+
+        .error-page__content {
           padding-inline: 1rem;
         }
 
@@ -287,32 +322,32 @@
         </h1>
         <p class="error-page__description">
           <span data-locale="pt-BR">
-            O endereço pode ter mudado. Continue pela capa ou encontre uma
-            notícia na busca.
+            O endereço pode estar desatualizado, ou a página pode ter mudado.
+            Volte à edição mais recente ou pesquise em nosso acervo.
           </span>
           <span data-locale="en">
-            The address may have changed. Continue from the front page or search
-            our coverage.
+            The address may be out of date, or the page may have moved. Start
+            again from the latest edition or search our reporting.
           </span>
         </p>
 
         <nav
           class="error-page__actions"
           data-navigation
-          aria-label="Navegação de recuperação"
+          aria-label="Navegação da página"
         >
           <a
             class="error-page__action error-page__action--primary"
             data-home
             href="/news/"
           >
-            <span data-locale="pt-BR">Capa</span>
-            <span data-locale="en">Front page</span>
+            <span data-locale="pt-BR">Voltar para a capa</span>
+            <span data-locale="en">Back to the front page</span>
             <span aria-hidden="true">↗</span>
           </a>
           <a class="error-page__action" data-search href="/news/busca/">
-            <span data-locale="pt-BR">Buscar notícias</span>
-            <span data-locale="en">Search news</span>
+            <span data-locale="pt-BR">Buscar nas Notícias</span>
+            <span data-locale="en">Search Notícias</span>
             <span aria-hidden="true">↗</span>
           </a>
           <a class="error-page__action" href="/">
@@ -321,12 +356,12 @@
             <span aria-hidden="true">↗</span>
           </a>
           <a
-            class="error-page__action"
+            class="error-page__action error-page__action--language"
             data-language
             href="/news/en/404/"
             lang="en"
             hreflang="en"
-            aria-label="Read in English"
+            aria-label="Ler em inglês"
           >
             <span data-locale="pt-BR">English</span>
             <span data-locale="en">Português</span>

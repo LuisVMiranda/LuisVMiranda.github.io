@@ -7,11 +7,11 @@
     "node": ">=24.0.0"
   },
   "scripts": {
-    "dev": "node scripts/astro.mjs dev --host 127.0.0.1",
+    "dev": "node scripts/dev.mjs",
     "build": "tsx scripts/build.ts",
     "build:preview": "tsx scripts/build.ts --preview",
     "preview": "node scripts/serve.mjs",
-    "check": "node scripts/astro.mjs check && tsc --noEmit -p tsconfig.scripts.json",
+    "check": "tsc --noEmit -p tsconfig.json && tsc --noEmit -p tsconfig.scripts.json",
     "lint": "eslint . && tsx scripts/check-files.ts && tsx scripts/check-cycles.ts && tsx scripts/check-inline.ts",
     "format": "prettier --write .",
     "format:check": "prettier --check .",
@@ -26,21 +26,20 @@
   "dependencies": {
     "@fontsource/inter": "5.3.0",
     "@fontsource/source-serif-4": "5.3.0",
-    "astro": "7.3.3",
     "zod": "4.6.5"
   },
   "devDependencies": {
-    "@astrojs/check": "0.9.10",
     "@axe-core/playwright": "4.13.0",
+    "@tailwindcss/cli": "4.3.3",
     "@playwright/test": "1.63.0",
     "@types/node": "26.6.2",
+    "esbuild": "0.28.2",
     "eslint": "10.11.0",
-    "eslint-plugin-astro": "1.7.0",
     "happy-dom": "20.14.5",
     "lighthouse": "13.5.0",
     "pagefind": "1.5.2",
     "prettier": "3.9.8",
-    "prettier-plugin-astro": "1.0.1",
+    "tailwindcss": "4.3.3",
     "tsx": "4.23.13",
     "typescript": "5.9.3",
     "typescript-eslint": "8.70.0",

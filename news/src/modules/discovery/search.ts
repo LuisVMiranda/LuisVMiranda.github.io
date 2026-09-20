@@ -89,9 +89,9 @@ const copyByLocale: Record<SearchLocale, SearchCopy> = {
 };
 
 const defaultPagefindLoader: PagefindLoader = async () => {
-  // The static site build creates this module after Astro has finished.
+  // The static build generates the index after rendering the approved pages.
   const modulePath = assetUrl('pagefind/pagefind.js');
-  const pagefindModule = await import(/* @vite-ignore */ modulePath);
+  const pagefindModule = await import(modulePath);
   return (pagefindModule.default ?? pagefindModule) as PagefindSearchInterface;
 };
 

@@ -1,111 +1,119 @@
-# Implementation validation
+# HTML, Tailwind and JavaScript rebuild validation
 
-Validated on 20 September 2026 UTC (19 September in São Paulo).
-Deployment target: GitHub Pages only, portfolio at `/`, portal at `/news/`.
-The initial local validation used drafts. Production release validation and
-the editor's subsequent approval are recorded below.
+Primary review performed on 20 September 2026. This review supersedes the
+Astro implementation review; its history remains available in Git.
 
-## Evidence
+## Scope and content integrity
 
-- `npm run quality`: formatting, strict Astro/TypeScript checks, ESLint,
-  inline HTML script checks, dependency-cycle detection, file limits,
-  23 unit tests, and the production build passed.
-- 196 static preview pages generated; all URLs crawled for a single heading,
-  canonical metadata, working internal links and static assets.
-- 38 browser tests passed. Four duplicate layout/crawl runs were intentionally
-  skipped in Firefox/WebKit; those checks ran once in Chromium.
-- Critical journeys ran in Chromium, Firefox and WebKit in the official
-  `mcr.microsoft.com/playwright:v1.63.0-noble` container, with external networking
-  disabled. The existing Windows Firefox executable could not start, so its
-  failure was resolved for validation by using the official Linux environment.
-- Axe scans: no serious or critical violations on representative bilingual
-  pages or the actual GitHub Pages fallback. Accent contrast tests pass for
-  all eight sections in both themes.
-- Responsive screenshots cover both languages and themes at 320, 768 and
-  1440 CSS pixels, including the largest article text size. Text enlargement
-  and a 200% zoom-equivalent viewport also pass.
-- Primary-agent visual review inspected the homepage, article, archive,
-  search, policy, error design and all eight section designs. Keyboard checks
-  verified visible skip-link focus and movement into the main reading order.
-- The combined artifact's portfolio HTML matches the repository original.
-  Research, source code, package files and approval records return 404.
-- After the final archive count correction, the full generated-URL crawl was
-  repeated successfully. The archive displays 76 unique stories, not 80
-  section placements. Date-only source display was also checked in the browser.
+The frontend now consists of plain HTML rendered by JavaScript modules,
+locally compiled Tailwind CSS and vanilla browser JavaScript. Astro source,
+configuration and dependencies have been removed. Strict TypeScript and
+JSDoc checking remain for the content, research and build modules.
 
-## Performance
-
-Lighthouse default mobile simulated throttling, local static Pages artifact.
-The tested paths are relative to `/news/`.
-
-| Page           | Score |     LCP |    CLS |  TBT |
-| -------------- | ----: | ------: | -----: | ---: |
-| Homepage       |    98 | 1.804 s | 0.0026 | 0 ms |
-| English Brasil |    98 | 1.804 s | 0.0012 | 0 ms |
-| Search         |    98 | 1.804 s | 0.0006 | 0 ms |
-| Article        |    98 | 1.803 s | 0.0406 | 0 ms |
-
-All authored JavaScript combined is 2,768 bytes gzipped, excluding the
-lazy-loaded Pagefind library/index. Each release budget passed. These are
-local lab measurements; production field performance is not yet measured.
-
-Raw evidence remains in ignored `artifacts/` and `playwright-report/`.
-The workflow retains validation reports and approved deployment artifacts.
-
-## Page ownership and approval
-
-All 14 page owners used GPT-5.6 Luna with maximum reasoning. The primary
-agent returned failing submissions to the same owners. Recorded corrections
-include homepage hierarchy and section selection, archive pagination and
-unique counts, article typography and search filters, search initialization,
-date-only source precision, and 404 script complexity.
-
-`pages.json` records scores, category points, attempts, owners and source
-hashes. Final scores range from 9.2 to 9.4. Relevant source changes invalidate
-the approvals; the release guard checks every recorded file before publishing.
-Git attributes pin portal/workflow text to LF so hashes survive Windows/Linux
-checkouts. Design approval does not grant editorial approval of the stories.
-
-## Editorial handoff
-
-The editor explicitly approved the existing edition on 20 September 2026 UTC
-(19 September in São Paulo), recorded in `content/approval.json`. It contains
-ten selections in each section, comprising 76 distinct bilingual articles and
-80 section references. Its approved content revision is:
+GitHub Pages remains the only deployment target. The combined artifact
+preserves the portfolio at `/` and places the portal at `/news/`, including
+real bilingual `index.html` files. No runtime application server is required.
+The existing 76 bilingual articles, eight ranked selections and editorial
+approval were not edited. Approved content revision:
 
 `426008592b16e0af326b04ae3b407c5241bdcc0718795bd0aa86027dd65f8aaf`
 
-The portal can be inspected with `npm run build:preview`, then
-`npm run package:pages` and `npm run preview` at `/news/`.
+## Primary validation evidence
 
-Publishing requires the reviewed changes in GitHub, Pages configured to use
-GitHub Actions, explicit editorial approval, and the protected manual workflow.
-No Cloudflare service, hosting credential, or runtime backend is required.
+- Full `npm run quality` passed: strict TypeScript/checkJs, formatting,
+  ESLint complexity <=10, depth <=3, parameters <=5, 599-line file limit,
+  dependency-cycle and inline-script checks, 31 unit tests and production build.
+- The build generated 196 static HTML pages. Pagefind indexed only the 152
+  article pages across PT-BR and English. Sources, reviews and research are private.
+- The final Playwright run passed 56 tests in Chromium, Firefox and WebKit.
+  Four duplicate crawl/layout cases were intentionally skipped in Firefox/WebKit;
+  both complete checks ran in Chromium. The official Playwright 1.63.0 Linux
+  container ran with external networking disabled.
+- Every generated URL was crawled for a single main heading, canonical metadata,
+  working internal links and assets. `/news/` and `/news/index.html`, plus both
+  English equivalents, return identical built homepages. Portfolio HTML matches
+  the original repository file byte for byte.
+- Both languages and themes were captured at 320, 768 and 1440 CSS pixels, with
+  24px article text. Enlarged text and a 200% zoom-equivalent viewport passed.
+  The primary reviewer inspected the homepage, all eight section designs,
+  article, archive, search, editorial policy and error-page renders.
+- Axe scans found no serious or critical violations in either theme on
+  representative bilingual pages and the actual GitHub Pages fallback.
+- Reader journeys verify locale-preserving links, Pagefind filtering and URL
+  history, empty/unavailable search, theme persistence, unavailable storage,
+  font limits, mobile navigation, keyboard order and reading without JavaScript.
+- The long politics headline occupies two desktop lines in PT-BR and English.
+  Its header measures 1080px and the body 800px at a 1440px viewport.
+- The new native headline link opens its matching article by keyboard in both
+  languages. The SVG arrow-only button appears after scrolling, returns to the
+  top and focuses main content; reduced-motion and accessible labels pass.
+- Unit tests protect out-of-order search responses, content approval invalidation,
+  duplicate identities/ranks, research deduplication and date windows, source
+  outages, simultaneous output protection and obsolete deployment rejection.
+- Four build/package failure tests prove that failed builds preserve preceding
+  output, competing operations respect the output lock, and failed CI output
+  leaves the previous packaged-artifact pointer intact.
 
-## GitHub Pages homepage correction
+## Page ownership and scoring
 
-The live `/news/` response reproduced the reported README page: HTTP 200,
-"Local development" text present, and no `/news/_astro/` assets. The Pages API
-confirmed `build_type: legacy` with `main:/` as its source. The successful
-portal workflow had validated source only; its manual publish job had not run.
-The API setting is now `build_type: workflow`, so the combined static artifact
-can supply `/news/index.html` without Jekyll rendering the source README.
+Every owner used GPT-5.6 Luna at maximum reasoning. At most three owners worked
+concurrently. The primary agent independently inspected source changes, rendered
+pages and test results. Scores use five equally weighted categories: functionality,
+design, accessibility/languages, modularity/concurrency, and tests/integrity.
+All final scores require passing mandatory checks and no critical defects.
 
-Production validation after explicit editorial approval:
+| Owner                             | Final score |
+| --------------------------------- | ----------: |
+| Homepage                          |         9.4 |
+| Brasil                            |         9.3 |
+| Mundo                             |         9.3 |
+| Política                          |         9.3 |
+| Economia                          |         9.3 |
+| Tecnologia                        |         9.3 |
+| Ciência                           |         9.3 |
+| Cultura                           |         9.3 |
+| Esportes                          |         9.3 |
+| Article template                  |         9.4 |
+| Search                            |         9.3 |
+| Archive and edition               |         9.2 |
+| Editorial policy                  |         9.3 |
+| Error pages                       |         9.2 |
+| Shared shell and reading controls |         9.3 |
+| Static build and packaging        |         9.4 |
 
-- `npm run quality` passed, including all 23 unit tests and 196 static pages.
-- The production artifact passed 41 Playwright tests in Chromium, Firefox and
-  WebKit. Four duplicate crawl/layout runs were intentionally skipped.
-- The new regression check confirms `/news/` and `/news/index.html` have
-  identical HTML, a visible headline, the expected locale, and compiled CSS.
-  The same check covers `/news/en/` and `/news/en/index.html`.
-- The portfolio still matches its original HTML; README, update guide,
-  content, review files and source code return 404 from the packaged site.
-- All generated routes and internal assets resolved. Bilingual search,
-  accessibility, themes, text sizing and the responsive matrix passed.
+Failed submissions returned to the same owner:
 
-Primary review revalidated the shared browser-test change against the
-production artifact. No page template, layout, stylesheet or story text changed;
-the existing page design scores and owners are retained. The manifest records
-the reviewed test revision. The manual release still checks exact editorial
-approval and rejects obsolete commits before deploying.
+- Homepage: 8.6; reduced oversized/constrained lead typography and localized the
+  edition date. The same owner subsequently added the requested headline link.
+- Article: 8.5; reduced the source heading and excessive gap above reading text.
+- Editorial policy: 8.7; removed the artificial 11ch desktop heading constraint.
+- Static build: 8.7; fixed the reproduced package-pointer failure and passed its
+  new regression test. Earlier integration feedback also corrected staging,
+  font selection, catalog paths and build/package serialization.
+
+`pages.json` records owner identities, category scores, attempts and source hashes.
+Its aggregate source revision binds the approval to the reviewed implementation;
+shared-source changes invalidate approval. Original article approval remains separate.
+
+## Performance and release
+
+Lighthouse uses its default mobile simulated-throttling profile against the local
+combined static artifact. Raw reports, responsive screenshots and browser traces
+remain in ignored `artifacts/` and `playwright-report/`. CI retains validation reports.
+Performance values are local lab measurements, not production field measurements.
+
+The production workflow revalidates the implementation and content approvals,
+serializes deployment, rejects obsolete commits and preserves a complete artifact
+for rollback. The tests establish these specific invariants; they do not prove
+that every possible race is mathematically absent.
+
+| Page                      | Score |    LCP |    CLS | TBT |
+| ------------------------- | ----: | -----: | -----: | --: |
+| /                         |    97 | 2.105s | 0.0464 | 0ms |
+| /en/secao/brasil/         |    98 | 1.955s | 0.0120 | 0ms |
+| /busca/                   |    97 | 2.106s | 0.0019 | 0ms |
+| /artigos/brasil-bets-sus/ |    98 | 1.956s | 0.0204 | 0ms |
+
+All authored JavaScript combined: 3,449 bytes gzipped,
+including the lazy search entry point and excluding generated Pagefind libraries.
+Every release budget passed.

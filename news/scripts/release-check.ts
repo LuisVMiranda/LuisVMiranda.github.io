@@ -16,4 +16,4 @@ if (site.protocol !== 'https:' || site.pathname !== '/')
   throw new Error(
     'SITE_URL must be an HTTPS origin; /news/ is configured separately',
   );
-console.log('Editorial revision and all 14 page reviews are valid.');
+console.log('Editorial revision and all implementation reviews are valid.');

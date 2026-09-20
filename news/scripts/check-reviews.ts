@@ -16,4 +16,6 @@ export async function checkReviews(): Promise<void> {
   );
 }
 await checkReviews();
-console.log('All 14 page approvals match the current source revision.');
+console.log(
+  'All page and shared-module approvals match the current source revision.',
+);

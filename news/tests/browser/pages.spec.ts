@@ -20,7 +20,7 @@ test('directory and explicit index URLs serve the built bilingual homepage', asy
     await expect(page.locator('main h1')).toBeVisible();
     await expect(page.locator('link[rel="stylesheet"]')).toHaveAttribute(
       'href',
-      /^\/news\/_astro\/.+\.css$/,
+      /^\/news\/assets\/.+\.css$/,
     );
     await expect(
       page.getByText('Local development', { exact: true }),
@@ -36,7 +36,7 @@ test('the combined artifact preserves the portfolio and keeps project sources pr
   for (const path of [
     'content/approval.json',
     'research/editorial/brasil.json',
-    'src/pages/index.astro',
+    'src/render/pages/home.js',
     'package.json',
     'reviews/pages.json',
     'README.md',

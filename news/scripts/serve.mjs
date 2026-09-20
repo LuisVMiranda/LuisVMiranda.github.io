@@ -7,6 +7,7 @@ const manifest = JSON.parse(
   await readFile('artifacts/pages-build.json', 'utf8'),
 );
 const root = path.resolve(process.env.PAGES_DIRECTORY || manifest.directory);
+/** @type {Record<string, string>} */
 const mime = {
   '.html': 'text/html; charset=utf-8',
   '.css': 'text/css',

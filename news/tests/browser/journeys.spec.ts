@@ -83,6 +83,7 @@ test('essential reading survives disabled storage', async ({ page }) => {
 test('representative pages meet accessibility requirements', async ({
   page,
 }) => {
+  test.setTimeout(120000);
   const article = await firstArticle();
   const routes = [
     '/',
@@ -98,14 +99,19 @@ test('representative pages meet accessibility requirements', async ({
     routes.push(`/artigos/${article.slug}/`, `/en/artigos/${article.slug}/`);
   for (const route of routes) {
     await page.goto('/news' + route);
-    const result = await new AxeBuilder({ page })
-      .withTags(['wcag2a', 'wcag2aa', 'wcag21aa'])
-      .analyze();
-    expect(
-      result.violations.filter((item) =>
-        ['serious', 'critical'].includes(item.impact || ''),
-      ),
-      route,
-    ).toEqual([]);
+    for (const theme of ['light', 'dark']) {
+      await page.evaluate((value) => {
+        document.documentElement.dataset.theme = value;
+      }, theme);
+      const result = await new AxeBuilder({ page })
+        .withTags(['wcag2a', 'wcag2aa', 'wcag21aa'])
+        .analyze();
+      expect(
+        result.violations.filter((item) =>
+          ['serious', 'critical'].includes(item.impact || ''),
+        ),
+        `${route} ${theme}`,
+      ).toEqual([]);
+    }
   }
 });

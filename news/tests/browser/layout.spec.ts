@@ -8,7 +8,7 @@ async function routes(directory: string): Promise<string[]> {
     entries
       .filter(
         (entry) =>
-          entry.isDirectory() && !['_astro', 'pagefind'].includes(entry.name),
+          entry.isDirectory() && !['assets', 'pagefind'].includes(entry.name),
       )
       .map((entry) => routes(path.join(directory, entry.name))),
   );

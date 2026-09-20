@@ -1,6 +1,8 @@
 {
   "reviewer": "Primary agent /root",
-  "reviewedAt": "2026-09-20T02:57:23.886Z",
+  "reviewedAt": "2026-09-20T04:11:10.362Z",
+  "baseCommit": "c8476758d5aaf7a1ad7d1d15d7bf23828506a941",
+  "approvedSourceRevision": "ff5615655ea228614d45324e277d7dc4990acc58ead7c4e90768001f284d5630",
   "evidence": "reviews/VALIDATION.md",
   "categoryOrder": [
     "functionality",
@@ -10,41 +12,48 @@
     "tests_and_integrity"
   ],
   "sharedFiles": {
-    "../.github/workflows/news.yml": "6c641dab0f958de601f5a4eb4ff24b17c3a758d7d021f8b32e6d906c0b79a4ed",
-    "astro.config.mjs": "c597b3eb10e0cf0bed18c6cfbdb1639d8cd0ca08ff1124253ca4179a6b65ccd5",
-    "eslint.config.mjs": "91f5b1ef67a25e73a3ae9686663f6bf6c8a130d5a4d423acb38b49db104227ee",
-    "package-lock.json": "adc0278ca44298015d6692835f3393731f32d54b5aca491896aa704135052d79",
-    "package.json": "78cfbbd4d1632b6181c87b2f8e7882929fdcc01778b4f0641c291bfdc9ba52d1",
+    "../.github/workflows/news.yml": "cce1883362de3cdae215a59f64cfd4481c83f19e43b4d895abaa3e8849d1b9b9",
+    ".gitignore": "8a133dd0a6fb070e7a40a8b9d8b8a52cc23ae56d862c37302c8befdbcec79259",
+    ".prettierignore": "2ab123f0aba282c5e5ab96f6ff283359bd1a3998bbb7d9cb17853770c329870c",
+    ".prettierrc.json": "e51419e8206a0a5493e85ef1f4dea080982dc9187992bb253220a93d0784f6b2",
+    "README.md": "11d65c92c75bdc449677bf1786c6af98ef3cde3a44578871cdfe59a580892431",
+    "eslint.config.mjs": "ac8d177e0c3f8a9bf003371c75ba5feb8b8c9e45555203311c6707cba4372be0",
+    "news-report.md": "6538a3d5b24604c5d90d02e6d8f86b5d44d794bf3f854c94127a1e2f3f2d77e5",
+    "package-lock.json": "30ce22e1688904a65ec45ba10a93c53c9593de548a906807f612f1e844915499",
+    "package.json": "69ca84979845a9848422c68dbdde7287e0e947b5bd946f4a9d1e72e94a6794e5",
     "playwright.config.ts": "e23638ac27d651ee8f708e5153554a1e00d05c54820fd15e43e0a52d844af73a",
-    "scripts/astro.mjs": "ec30216d88c30cf10c01b0e2c889411f5d8245aaa1ae1abfa23e1513ba659e4d",
-    "scripts/build.ts": "b76fef91c4666b3235648365440f63c15af407d0992be91d75409fba76dccf02",
-    "scripts/check-cycles.ts": "07c3c5703ac89ea1ba897f94013b6829fef29aec7a4671663a34dde17ef06c59",
-    "scripts/check-files.ts": "e6810b14c202263ec7696627477746eb863ff4b77661a029346f40c26c6bce66",
-    "scripts/check-inline.ts": "4f2edee4f817144139b5aa890296bfcbf256530a60d7fe0b061879a5f86051eb",
-    "scripts/check-output.ts": "d769d1f41ef53074b3b00509ea01bed34ab64c7d4126f6f37cc9a58b098803f9",
-    "scripts/check-reviews.ts": "6c24e4d83abbf7a3313a22562e7cedfb21ed3f7712797eae79d0e32169542be5",
+    "public/favicon.svg": "e8d52932b184475a40abb0a44d12dec3a220b790c63927911320a00be5255e92",
+    "scripts/build-assets.ts": "8a9efef70bbe74e9eb1b62af91549fdb84f05482cf3907445f96fc6721fab964",
+    "scripts/build.ts": "ab350992a95e2405220154b26a14ed4daa90f092620494abdb425776cb24eace",
+    "scripts/check-cycles.ts": "36456a917d86ca7440b5203fb4d70032049e4f5e76170b7915a106d0d77d675c",
+    "scripts/check-files.ts": "5378323959f9587c2077787578f53855e1e5f6e639fec85e55f647fbc8036405",
+    "scripts/check-inline.ts": "42cd0d6d08cfe3bbb0c00b127b8226657df3f4c2b23c1a847d21bd7b2eda195e",
+    "scripts/check-output.ts": "f3cfd3866867580e9b75091a227139ce6d274f4fe17611d3ca2489ce28fae4df",
+    "scripts/check-reviews.ts": "6cab842644a0c739f3cf91472c85ff1f3deddf7be3b71b7a24c7df07417a6f9a",
     "scripts/content-files.ts": "ebc8ea3d38f102010499fdd2f2f02f0607f5c3b7c384a20263aea611f26571a4",
     "scripts/deployment-check.ts": "29b4d6a217fa3c1cba1b1bd62c0145ee7b68750ce8390cf6e58a5410ce8b1907",
+    "scripts/dev.mjs": "8638416b80d6317dc7a1a7eee2bb2711d0b7137c3a5436803aa5c2ee36598122",
     "scripts/edition.ts": "afbddfd5a836ddb6dc0e10946ca2325d77f3eec6d902ac56661755dd0c55b734",
-    "scripts/package-pages.ts": "5170b65a667f1f7271f638a3c26d7cee9eaadb04dec95f66bed7596688a93887",
-    "scripts/performance.ts": "2b252b46fd024f0ba34999f6bde533e3854299b95a2335b50d0da9e441c2e859",
-    "scripts/release-check.ts": "3b68ec72d0d0c2ec7f4b5d8f416a4b80b162bf43fad291078395abef422371a8",
+    "scripts/package-pages.ts": "0f446305bc84eb37b39aef4dd4bd2e8e44d08a8734a371194a9a97b131865fa0",
+    "scripts/performance.ts": "f082c14222458d54db017c434968bc0345a544a6aed0e626c54da7e491c9ec6a",
+    "scripts/release-check.ts": "aa3a805019846442ce80f17e3dfc5ef9d3f0ecb0d62c3102f9c3944317743c79",
     "scripts/research.ts": "e5340aa3a334d0f0b80898f640fd4bf27e45cda521cce17e41f133d7e934d884",
     "scripts/review.ts": "4098acda8ac0947de1ed27d253bfbdf4029c541f41009f895b6eba3364ddfc5c",
-    "scripts/serve.mjs": "f9be7ba3f8b738221ff9e1383055b9d54a9fb9fd7778f00a6c9f0dd2f0d2b364",
-    "src/components/SectionPage.astro": "6632194a10042a8c31c83b204821162c74614061839d8d6214526d84323d3597",
-    "src/components/StoryCard.astro": "ab365f97b8b4b1d6c079ea46aa5027186c5b28ddea84cf94aac1eab12f63b8c4",
-    "src/content.config.ts": "4df79b5f8dcb37df794f88a2794948fe85bf156de4b4a0ac2ba441fdf09beac2",
-    "src/layouts/Shell.astro": "d53e5b1b58fe9944b4eb690e86e14c38e5d95b932f62097790c81d529784792a",
-    "src/modules/content/catalog.ts": "0b7d76bbb5e564b8a4536db69fe827f9887a7e8394ec28d2334aca8d8a716368",
+    "scripts/serve.mjs": "04d53ebc32be11b8c3a5be4fed353a6005c7841aac91f17eb3177c048a1a78ae",
+    "scripts/static-build.ts": "8e3aaf725f8d2ba478cec069d2cd6654c361ce2146052a11509bf53772a6f111",
+    "src/client/main.js": "c40cf4f97c4ef01d76feb787c6f7a642a82056ae0ce14070ec3b0a17f486282a",
+    "src/client/scroll-top.js": "d0201ca6304963e905c97fc012d61386fbe8f5bb8861e94d956d2f9094588c37",
+    "src/client/search.js": "4736154bb8209886a11a72feee019eb98354798eb348f5fdc4d303b3a53ec691",
+    "src/client/theme-init.js": "1b205f57b853add62eda71bbd9d9a2d4c588dd740607d635dc081c07bec5a3b4",
+    "src/modules/content/catalog.ts": "e556c447875b2088445175146a8b7a14810975063c108cdf8123e00b2be92abe",
     "src/modules/content/feed.ts": "eb09ee03062239e111b4ac6970ce271e0209447b40dc6ef55bfa5978cbc437a1",
     "src/modules/content/schema.ts": "254e1491cb346be3a83371571c955e9a9b1918a7de8e4ea81af0a2824fb7e0ee",
     "src/modules/content/sections.ts": "283ac0811d09a1070d58095e1161c654100f12a718c1e30f88714ded8f362916",
     "src/modules/content/types.ts": "cd5d6895f64ae6572faad30c55e8c7bac0bbfb2595347953a9937cce9b5c56be",
     "src/modules/content/urls.ts": "27dff764a1e56317a8ab9bdf151224db1caf22c5cfbcd851b86f270885fa00a6",
-    "src/modules/discovery/search.ts": "5b78612173f106663928db15de7446dae46a100f79ff2a2100759a2b184d65ba",
+    "src/modules/discovery/search.ts": "a22dbb74c5b80d1f1c2ea039bc9534d6b684ba67ad64cea0ce9eb504790ade6a",
     "src/modules/editions/integrity.ts": "3717c8b219296cdc116fb23757850b601e0d0b945a4e92a90c7a9691c2677ff7",
-    "src/modules/editions/page-reviews.ts": "727c9b7055ccd6080b11ba55bb6f04001ade91cdfcd34596880b0a3f97bcc812",
+    "src/modules/editions/page-reviews.ts": "d856d3d91e4f0dbf2e963f926e3791121e17ff718f07ecf79ada2ecb8a611edf",
     "src/modules/editions/publication.ts": "8f56318853fb13190af7b272702ebcb9a50827307c166b0e0a7fbc638930ab80",
     "src/modules/editions/routes.ts": "0685a4c8deb564b78ec3ef5cb379899fe348439116d403dbc4931df7ed763d46",
     "src/modules/preferences/client.ts": "ea373f16a290aca3b5701959cea91d01e095a6ab44bf71f0a8117342d774a416",
@@ -52,241 +61,384 @@
     "src/modules/research/adapters.ts": "8d4c1206ff87ad73485d388f265b1fd3c1b335118e394d6d31314bddc16a7df2",
     "src/modules/research/rank.ts": "b44170bd5d9bbcf38ea130403ce94a19a8183b641f8fd0ef39cd57c4a86f7e54",
     "src/modules/research/types.ts": "5962753e781c788315dff6e55798d530708aaee50629b5c3fd76297d8fc0256b",
-    "src/pages/[...route].astro": "8393b253ecba616e9993079b12af50141fcca88b79c5fdd1099197320fe54eca",
-    "src/pages/en/rss.xml.ts": "f9b5b80988c64e5ae988cd51cf2b3fa3a0c8c79e5dc1be2db4769634c70ef876",
-    "src/pages/rss.xml.ts": "34ceb22dab6281fce32fb50bb95d1e95b9ec07dc800f216ae07cd40e0e12ad37",
-    "src/pages/sitemap.xml.ts": "269f6c14520a85dd462887a2da47098cbc5c17fa8b95549d5d442378ee9486d5",
-    "src/styles/global.css": "04c0c12fa33d6f1bfc7b0f208154435d5710e41a7245856dfb6eca8e3581c077",
-    "tests/browser/journeys.spec.ts": "c3a2e9215fec21997abe322a36936f27ad089a2cac2040b87528937a4d24052c",
-    "tests/browser/layout.spec.ts": "018db1a2ccd28f6f82a276cc1e2970b9e9410bc4b64a18baf80893cb348c6ce4",
-    "tests/browser/pages.spec.ts": "56fb983abd24434cb297e9555d8f3cd7d311352ee77249ff425d52f5166778fe",
+    "src/render/components/section-page.js": "073f4f19f996914a1a680c9abe550e5110b9b4a90459d75b20de4b1e2293cad5",
+    "src/render/components/story-card.js": "2dd43289b748cb4e1452988eda410ebf40d0cc9c3bd6b236e5f9b692eb58c0a2",
+    "src/render/html.js": "0a89927af21abca6e140978ad376528bba26b68b0cb180819c7726fffc63bd4f",
+    "src/render/index.js": "d94c7293b016496b210acd7eb16de128279a2b0cec63380a645a67b539e892ef",
+    "src/render/pages/archive.js": "107facf125215f0aff983c626bc24719beaf19eff5d905f097b1de2a37200c97",
+    "src/render/pages/article.js": "5c8779445816cba22988318057a9bb4da539ae37072bc13026b17be87ec91a47",
+    "src/render/pages/editorial.js": "729880724e9eef90d3ccae7ba3bc8117ada58524a384178e66bfeb61b03f624d",
+    "src/render/pages/error.js": "d224443dde6c513ef7567df5dd33e9770a7e3fd3aa42c512f0e2d59832d8b4db",
+    "src/render/pages/home.js": "af4b70b3522362b670d05c41351bab857e89d38b59855a8e8c0fc32cf5d31f7f",
+    "src/render/pages/search.js": "a6db7bc90cfb960bde7beec6f710bc1c39f71e7f40a208220760638ceffae165",
+    "src/render/pages/sections/brasil.js": "77a7e159b61af4f71d2de4cdf4b6a19a17d3b370db9d5a020a99b11ce889e2ab",
+    "src/render/pages/sections/ciencia.js": "9c34b1ab7c0163634d9d742d2e0e440763b9e76688181fa39aba7f0c2a689f54",
+    "src/render/pages/sections/cultura.js": "a81f858ddba559c61e440fd1a2ed11f7e6f394138b3c12fb7cf518071faac93c",
+    "src/render/pages/sections/economia.js": "1eb19097a41c87f4eda2e0a5f3bed2f6deef8ae36233bda8321c4f567051d5da",
+    "src/render/pages/sections/esportes.js": "324e724c4d51b0dec132a9beef50de59cb5faad20860693a3dcc003c4c80c2c4",
+    "src/render/pages/sections/mundo.js": "70942629654484df1ce52f62eae5d5c16f54c137273c4eb3c92dba7cb6ed5668",
+    "src/render/pages/sections/politica.js": "a7c37529b70f76c0b10f8fcbde1661a95a892a98149032d233f2d5b8d8830645",
+    "src/render/pages/sections/tecnologia.js": "df8cd77557fbbefb9f26f231dfec714a38190bd4079f6840dded001f88b6cfbb",
+    "src/render/routes.js": "feb5a7ff0227d29db42e9b2ff19edfc46711da79fb11046b9c16ce2e9853bb98",
+    "src/render/shell.js": "05f549413684aa88ca93148b5d4a1dedbbe6ddbc0d7bbfa85d9543757db4eeb9",
+    "src/render/types.ts": "c8f55cd51b387c5ea281e3c236ad76acd11423a5b82d29c06a2d37a20da646e1",
+    "src/styles/archive.css": "96b8ca9651ae33ce36fef5880e2a801d891fff54b4c0a91635a7b103f76bc1f6",
+    "src/styles/article.css": "5a952d32de43f7f2cc020f0e54f43623a3acfa45895e8b95d33952eed5ab6acc",
+    "src/styles/base.css": "fc8abd737d8a17d71808f211dc7cffd662b78a080e0fa81364bd5aaae262762b",
+    "src/styles/editorial.css": "0a080446d22cef3afa42d98224496f8eab6284d494c8ffd8f688bbd7f228e78c",
+    "src/styles/error.css": "f9f6ecbb521ff8c4cf20b63a0735c255646e8be75e3c04366d0241ede2c66b8c",
+    "src/styles/home.css": "72be4bcd04bdf4cf3d161a3711fedc9cb0cff4b53df9ee0dd6a63ce610ddd36e",
+    "src/styles/main.css": "0e358c8c8a8361c27918f6134bc27bb622852a3e118c24bd6ea44c675614dc89",
+    "src/styles/search.css": "5987fb944dbc9ef8ccdc88e8ba16d1a7ac82c563e0f127b1aca2f992b3cf2578",
+    "static/404.html": "2d7930b2625c01398b0922af2ada2fbb24c0065d1161bb416b6f76c3d37fa3d9",
+    "tests/browser/journeys.spec.ts": "7d418303715793635a896b162b8299e6f2315cd531dec312ec454fae82d85adc",
+    "tests/browser/layout.spec.ts": "80c072008f9151aa03c73ce73e04e6c9828311f56649a20b31846398f59f7808",
+    "tests/browser/pages.spec.ts": "5d4e2ae924232f53b40dd3462628c015d11d76f3cfffc7932fa544699ae8fe55",
+    "tests/browser/redesign.spec.ts": "a713ccb75300088466f3e75f71d9bcabb062c7d2f868f5253e17c057259bc2f3",
     "tests/browser/search.spec.ts": "10bab8bdce74388e9b7cac1ed8eb7627e7dc145cd0b2c0a49b7afceb021b4019",
+    "tests/fixtures/search.json": "1a1f7b4f53a9c65e571415ef948e7bbbc700998e3f73d5a02b1a050a11008086",
+    "tests/unit/archive-render.test.ts": "64e40e83d5577aa372e63a26a7690904b750e19e8b9cd792d7ff4c0fd51f9eb7",
     "tests/unit/archive.test.ts": "04617bcf3a81fcea581a550f04e38e12d2756fa869e35c1d1343e88049f5a79b",
+    "tests/unit/article-render.test.ts": "5bcdf9718cce2cc951516738f2c3e3f05dddfa41c5a36cf427dfa82d92af28c9",
+    "tests/unit/build-boundaries.test.ts": "f01536c51b44ed5040e7c074a143081bcb6b4caea902b8c5b6786511b4f432c4",
     "tests/unit/content.test.ts": "48c330495bdb42a6c9ae57b1be4f015238046e110dc6e06327bfca37e1f28c9a",
     "tests/unit/contrast.test.ts": "adece7cd64243fb4db71e74386587335cfca47b707470eccd37ebbe240053c46",
     "tests/unit/fixtures.ts": "509184020310be321510cfdc5b21d80cea1f997c30d33cdf16ce68d52c9096eb",
     "tests/unit/page-reviews.test.ts": "647f25e97eb24230e6ffd69bfbc781afe8254b627285e7bc544c7323c29f1798",
     "tests/unit/preferences.test.ts": "fd40310ccd1410dbc553ebe9c4ab4321c498072e0152b6d52c9ff903fe836961",
     "tests/unit/publication.test.ts": "c39355db009bd1f62c4c566e0553259a68d2af3a3b755c16e60734b892c721e0",
+    "tests/unit/render.test.ts": "75b2bb9ea97ed9c37773681ee025fc47f7226b4ef8815fb4b806d2250f5715ae",
     "tests/unit/research-runs.test.ts": "120fe6be9f4225d2a602c9313db8ce5e346901d1d1681310853abc2d0af87e45",
     "tests/unit/research.test.ts": "b95e5979c692f318be397bc4597aa24db8af4aac7ab9ad5dc6b39cb4610c0783",
     "tests/unit/search.test.ts": "93034e5806f1e36bc7bf9a38b999de39342bfae41e495b2f11d834303cae92b7",
-    "tsconfig.json": "6730f313b6969ce972b883988d31892943de8a6cf329518d678cb31aee8e13dd",
-    "tsconfig.scripts.json": "e4b32140fbb3d230d092cb6ed2606eb23d4035955abee701df18c16e2fc8354a",
-    "../.gitattributes": "c66420f41cabe88c5685bdaa150f19dc2b86d34f6a06c748533d0cdc8cbf059b"
+    "tsconfig.json": "801a99ac8dc7f259cf04749cf11071b0557aad6864f695960da95798297881c8",
+    "tsconfig.scripts.json": "395de83b54bd766a02845ab0b82ef4dfc2c5e162220dbe9ee433faff4a039059",
+    "vitest.config.ts": "29b431c77dda2c0e612f42a4785e598036817af1f3c67c5c6e9f2a936b8aaa69"
   },
   "pages": [
     {
       "page": "home",
-      "owner": "/root/home_luna",
+      "owner": "/root/home_rebuild_luna",
       "model": "gpt-5.6-luna",
       "reasoning": "max",
       "score": 9.4,
-      "categories": [2, 1.8, 1.9, 1.9, 1.8],
-      "attempts": [8, 8.5, 8.5, 9.4],
+      "categoryScores": [2, 1.8, 2, 1.8, 1.8],
       "checksPassed": true,
-      "notes": "Refined headline scale, edition-specific previews and strict first-ID guard.",
+      "attempts": [
+        {
+          "score": 8.6,
+          "reason": "Oversized constrained lead; unlocalized edition date."
+        },
+        {
+          "score": 9.4,
+          "result": "Approved after primary source inspection, rendered review and passing relevant integration checks."
+        }
+      ],
       "files": {
-        "src/views/Home.astro": "3964e5e4a9ced5747eb5bb577738a269777f5a52681a7b499eff4379ddc69cea"
-      },
-      "approvedRevision": "955c26471e277d2863c24edb4b7afc4d81c100c3e8aca9928e236bfb0dcc568a"
+        "src/render/pages/home.js": "af4b70b3522362b670d05c41351bab857e89d38b59855a8e8c0fc32cf5d31f7f",
+        "src/styles/home.css": "72be4bcd04bdf4cf3d161a3711fedc9cb0cff4b53df9ee0dd6a63ce610ddd36e"
+      }
     },
     {
       "page": "brasil",
-      "owner": "/root/brasil",
-      "model": "gpt-5.6-luna",
-      "reasoning": "max",
-      "score": 9.4,
-      "categories": [2, 1.8, 1.9, 1.9, 1.8],
-      "attempts": [9.4],
-      "checksPassed": true,
-      "notes": "Reviewed localized page, section accents, source-backed draft references and responsive rendering.",
-      "files": {
-        "src/views/sections/Brasil.astro": "df016aae050275e4b817ad8f9bb54cd97906da377bacb629e15f566fd55a6b7a"
-      },
-      "approvedRevision": "f5667363cce7306c035a82a936342ac1a6b62bb633baae77aef72ff72330c6fd"
-    },
-    {
-      "page": "mundo",
-      "owner": "/root/mundo",
-      "model": "gpt-5.6-luna",
-      "reasoning": "max",
-      "score": 9.4,
-      "categories": [2, 1.8, 1.9, 1.9, 1.8],
-      "attempts": [8.5, 9.4],
-      "checksPassed": true,
-      "notes": "Preserved source calendar dates for date-only publications.",
-      "files": {
-        "src/views/sections/Mundo.astro": "9fabed41f3065d18e023d9fc2e2cbce11a89efcc7dd2518b979e9958d7409841"
-      },
-      "approvedRevision": "11cc4239026d11dce7e623d25c28c649d74fb021acc27c21119f7150d06ffbb4"
-    },
-    {
-      "page": "politica",
-      "owner": "/root/politica",
-      "model": "gpt-5.6-luna",
-      "reasoning": "max",
-      "score": 9.4,
-      "categories": [2, 1.8, 1.9, 1.9, 1.8],
-      "attempts": [9.4],
-      "checksPassed": true,
-      "notes": "Reviewed localized page, section accents, source-backed draft references and responsive rendering.",
-      "files": {
-        "src/views/sections/Politica.astro": "75d5e5d95677ea53b9deb456e96d7aa3b99d2d7e676527d6da38d65a923b3b75"
-      },
-      "approvedRevision": "717f2b576873466d0a3a7666f7a60db3e665aa8f3596d01035d3377c6c385339"
-    },
-    {
-      "page": "economia",
-      "owner": "/root/economia",
-      "model": "gpt-5.6-luna",
-      "reasoning": "max",
-      "score": 9.4,
-      "categories": [2, 1.8, 1.9, 1.9, 1.8],
-      "attempts": [9.4],
-      "checksPassed": true,
-      "notes": "Reviewed localized page, section accents, source-backed draft references and responsive rendering.",
-      "files": {
-        "src/views/sections/Economia.astro": "8eddb09ece3c1d3fe017867b8f18fa31f65cceae5b5e46eb79aa5c4184e296f6"
-      },
-      "approvedRevision": "ff4603dcfd5549b9f7ee419aff57403bc80017f86002819521104819c0c62dc6"
-    },
-    {
-      "page": "tecnologia",
-      "owner": "/root/tecnologia",
-      "model": "gpt-5.6-luna",
-      "reasoning": "max",
-      "score": 9.4,
-      "categories": [2, 1.8, 1.9, 1.9, 1.8],
-      "attempts": [8.5, 9.4],
-      "checksPassed": true,
-      "notes": "Preserved source calendar dates for date-only publications.",
-      "files": {
-        "src/views/sections/Tecnologia.astro": "795bd3034b198ae73a1f1821c24206e9377849454326d7a7f9fe61b9a62f0261"
-      },
-      "approvedRevision": "1418373e7830975cfa75672d13183b1cd368d83896e07f22bd429847205e364d"
-    },
-    {
-      "page": "ciencia",
-      "owner": "/root/ciencia",
-      "model": "gpt-5.6-luna",
-      "reasoning": "max",
-      "score": 9.4,
-      "categories": [2, 1.8, 1.9, 1.9, 1.8],
-      "attempts": [8.5, 9.4],
-      "checksPassed": true,
-      "notes": "Preserved source calendar dates for date-only publications.",
-      "files": {
-        "src/views/sections/Ciencia.astro": "7f60bcaf607b5d08a1b2fcd8ef6c1e169fb2a7d8c4c00127726638944bd153a8"
-      },
-      "approvedRevision": "ff9f46493da62a9a0a56131baf9bdbb38c8a6d337784802e1e85a12bd7eff71e"
-    },
-    {
-      "page": "cultura",
-      "owner": "/root/cultura",
-      "model": "gpt-5.6-luna",
-      "reasoning": "max",
-      "score": 9.4,
-      "categories": [2, 1.8, 1.9, 1.9, 1.8],
-      "attempts": [9.4],
-      "checksPassed": true,
-      "notes": "Reviewed localized page, section accents, source-backed draft references and responsive rendering.",
-      "files": {
-        "src/views/sections/Cultura.astro": "98b34097f87aeb613f87a636fcaaada1531084216f86fb6978ff61a2029b48d5"
-      },
-      "approvedRevision": "056543def94d104ceeeea00a4d64cafb346773f6e24503c17d19439087d65fcf"
-    },
-    {
-      "page": "esportes",
-      "owner": "/root/esportes",
-      "model": "gpt-5.6-luna",
-      "reasoning": "max",
-      "score": 9.4,
-      "categories": [2, 1.8, 1.9, 1.9, 1.8],
-      "attempts": [9.4],
-      "checksPassed": true,
-      "notes": "Reviewed localized page, section accents, source-backed draft references and responsive rendering.",
-      "files": {
-        "src/views/sections/Esportes.astro": "4df95229b60328b2910cf35e3de1e859a91d9471946e6977892c0f220a1fe6aa"
-      },
-      "approvedRevision": "73efb24384cd060006973887d7483b1946614b0e8f9e61c36229598afb512f88"
-    },
-    {
-      "page": "article",
-      "owner": "/root/article",
-      "model": "gpt-5.6-luna",
-      "reasoning": "max",
-      "score": 9.4,
-      "categories": [2, 1.8, 1.9, 1.9, 1.8],
-      "attempts": [8, 8.5, 9.4],
-      "checksPassed": true,
-      "notes": "Refined headline/source spacing, bilingual labels and secondary search filters.",
-      "files": {
-        "src/views/Article.astro": "b3e6ce5c6b9b94a749f1ad1e67152f1b009cc5de0f4c64abad7bafa1b2b44e2f"
-      },
-      "approvedRevision": "52c37fa5eae2b332ab09f4a08ca24297c50a10d7ad3c2bc03be86a34c30a52cc"
-    },
-    {
-      "page": "search",
-      "owner": "/root/search",
-      "model": "gpt-5.6-luna",
-      "reasoning": "max",
-      "score": 9.4,
-      "categories": [2, 1.8, 1.9, 1.9, 1.8],
-      "attempts": [7.5, 9.4],
-      "checksPassed": true,
-      "notes": "Fixed lazy index loading, recovery and /news/ result paths.",
-      "files": {
-        "src/views/Search.astro": "d350ee7a1745e547f2ff1a79123fdb5e6d33ccf250623ecbf2e5c98d19a1eedc",
-        "src/modules/discovery/search.ts": "5b78612173f106663928db15de7446dae46a100f79ff2a2100759a2b184d65ba"
-      },
-      "approvedRevision": "81558c3e982143e7d1e9b61417854c741439bdcc1ad6f4f0d0a5ec01bf5b348e"
-    },
-    {
-      "page": "archive",
-      "owner": "/root/archive",
+      "owner": "/root/brasil_rebuild_luna",
       "model": "gpt-5.6-luna",
       "reasoning": "max",
       "score": 9.3,
-      "categories": [2, 1.8, 1.9, 1.8, 1.8],
-      "attempts": [7, 8, 8.5, 9.3],
+      "categoryScores": [2, 1.8, 2, 1.8, 1.7],
       "checksPassed": true,
-      "notes": "Replaced client pagination, met file limit, deduplicated shared story count.",
+      "attempts": [
+        {
+          "score": 9.3,
+          "result": "Approved after primary source inspection, rendered review and passing relevant integration checks."
+        }
+      ],
       "files": {
-        "src/views/Archive.astro": "3a2315d0055351792ad851c8beb29d87927a599797c7eded3fbb82f2d9fa8bde"
-      },
-      "approvedRevision": "5efe53736f7b9136a8b2de4b7d0b1bbd65d06d047b6a86adc8a20af4b33118f2"
+        "src/render/pages/sections/brasil.js": "77a7e159b61af4f71d2de4cdf4b6a19a17d3b370db9d5a020a99b11ce889e2ab"
+      }
+    },
+    {
+      "page": "mundo",
+      "owner": "/root/mundo_rebuild_luna",
+      "model": "gpt-5.6-luna",
+      "reasoning": "max",
+      "score": 9.3,
+      "categoryScores": [2, 1.8, 2, 1.8, 1.7],
+      "checksPassed": true,
+      "attempts": [
+        {
+          "score": 9.3,
+          "result": "Approved after primary source inspection, rendered review and passing relevant integration checks."
+        }
+      ],
+      "files": {
+        "src/render/pages/sections/mundo.js": "70942629654484df1ce52f62eae5d5c16f54c137273c4eb3c92dba7cb6ed5668"
+      }
+    },
+    {
+      "page": "politica",
+      "owner": "/root/politica_rebuild_luna",
+      "model": "gpt-5.6-luna",
+      "reasoning": "max",
+      "score": 9.3,
+      "categoryScores": [2, 1.8, 2, 1.8, 1.7],
+      "checksPassed": true,
+      "attempts": [
+        {
+          "score": 9.3,
+          "result": "Approved after primary source inspection, rendered review and passing relevant integration checks."
+        }
+      ],
+      "files": {
+        "src/render/pages/sections/politica.js": "a7c37529b70f76c0b10f8fcbde1661a95a892a98149032d233f2d5b8d8830645"
+      }
+    },
+    {
+      "page": "economia",
+      "owner": "/root/economia_rebuild_luna",
+      "model": "gpt-5.6-luna",
+      "reasoning": "max",
+      "score": 9.3,
+      "categoryScores": [2, 1.8, 2, 1.8, 1.7],
+      "checksPassed": true,
+      "attempts": [
+        {
+          "score": 9.3,
+          "result": "Approved after primary source inspection, rendered review and passing relevant integration checks."
+        }
+      ],
+      "files": {
+        "src/render/pages/sections/economia.js": "1eb19097a41c87f4eda2e0a5f3bed2f6deef8ae36233bda8321c4f567051d5da"
+      }
+    },
+    {
+      "page": "tecnologia",
+      "owner": "/root/tecnologia_rebuild_luna",
+      "model": "gpt-5.6-luna",
+      "reasoning": "max",
+      "score": 9.3,
+      "categoryScores": [2, 1.8, 2, 1.8, 1.7],
+      "checksPassed": true,
+      "attempts": [
+        {
+          "score": 9.3,
+          "result": "Approved after primary source inspection, rendered review and passing relevant integration checks."
+        }
+      ],
+      "files": {
+        "src/render/pages/sections/tecnologia.js": "df8cd77557fbbefb9f26f231dfec714a38190bd4079f6840dded001f88b6cfbb"
+      }
+    },
+    {
+      "page": "ciencia",
+      "owner": "/root/ciencia_rebuild_luna",
+      "model": "gpt-5.6-luna",
+      "reasoning": "max",
+      "score": 9.3,
+      "categoryScores": [2, 1.8, 2, 1.8, 1.7],
+      "checksPassed": true,
+      "attempts": [
+        {
+          "score": 9.3,
+          "result": "Approved after primary source inspection, rendered review and passing relevant integration checks."
+        }
+      ],
+      "files": {
+        "src/render/pages/sections/ciencia.js": "9c34b1ab7c0163634d9d742d2e0e440763b9e76688181fa39aba7f0c2a689f54"
+      }
+    },
+    {
+      "page": "cultura",
+      "owner": "/root/cultura_rebuild_luna",
+      "model": "gpt-5.6-luna",
+      "reasoning": "max",
+      "score": 9.3,
+      "categoryScores": [2, 1.8, 2, 1.8, 1.7],
+      "checksPassed": true,
+      "attempts": [
+        {
+          "score": 9.3,
+          "result": "Approved after primary source inspection, rendered review and passing relevant integration checks."
+        }
+      ],
+      "files": {
+        "src/render/pages/sections/cultura.js": "a81f858ddba559c61e440fd1a2ed11f7e6f394138b3c12fb7cf518071faac93c"
+      }
+    },
+    {
+      "page": "esportes",
+      "owner": "/root/esportes_rebuild_luna",
+      "model": "gpt-5.6-luna",
+      "reasoning": "max",
+      "score": 9.3,
+      "categoryScores": [2, 1.8, 2, 1.8, 1.7],
+      "checksPassed": true,
+      "attempts": [
+        {
+          "score": 9.3,
+          "result": "Approved after primary source inspection, rendered review and passing relevant integration checks."
+        }
+      ],
+      "files": {
+        "src/render/pages/sections/esportes.js": "324e724c4d51b0dec132a9beef50de59cb5faad20860693a3dcc003c4c80c2c4"
+      }
+    },
+    {
+      "page": "article",
+      "owner": "/root/article_rebuild_luna",
+      "model": "gpt-5.6-luna",
+      "reasoning": "max",
+      "score": 9.4,
+      "categoryScores": [2, 1.8, 2, 1.8, 1.8],
+      "checksPassed": true,
+      "attempts": [
+        {
+          "score": 8.5,
+          "reason": "Sources heading too large; excessive reading-area gap."
+        },
+        {
+          "score": 9.4,
+          "result": "Approved after primary source inspection, rendered review and passing relevant integration checks."
+        }
+      ],
+      "files": {
+        "src/render/pages/article.js": "5c8779445816cba22988318057a9bb4da539ae37072bc13026b17be87ec91a47",
+        "src/styles/article.css": "5a952d32de43f7f2cc020f0e54f43623a3acfa45895e8b95d33952eed5ab6acc"
+      }
+    },
+    {
+      "page": "search",
+      "owner": "/root/search_rebuild_luna",
+      "model": "gpt-5.6-luna",
+      "reasoning": "max",
+      "score": 9.3,
+      "categoryScores": [2, 1.8, 2, 1.8, 1.7],
+      "checksPassed": true,
+      "attempts": [
+        {
+          "score": 9.3,
+          "result": "Approved after primary source inspection, rendered review and passing relevant integration checks."
+        }
+      ],
+      "files": {
+        "src/render/pages/search.js": "a6db7bc90cfb960bde7beec6f710bc1c39f71e7f40a208220760638ceffae165",
+        "src/styles/search.css": "5987fb944dbc9ef8ccdc88e8ba16d1a7ac82c563e0f127b1aca2f992b3cf2578",
+        "src/client/search.js": "4736154bb8209886a11a72feee019eb98354798eb348f5fdc4d303b3a53ec691"
+      }
+    },
+    {
+      "page": "archive",
+      "owner": "/root/archive_rebuild_luna",
+      "model": "gpt-5.6-luna",
+      "reasoning": "max",
+      "score": 9.2,
+      "categoryScores": [2, 1.8, 1.9, 1.8, 1.7],
+      "checksPassed": true,
+      "attempts": [
+        {
+          "score": 9.2,
+          "result": "Approved after primary source inspection, rendered review and passing relevant integration checks."
+        }
+      ],
+      "files": {
+        "src/render/pages/archive.js": "107facf125215f0aff983c626bc24719beaf19eff5d905f097b1de2a37200c97",
+        "src/styles/archive.css": "96b8ca9651ae33ce36fef5880e2a801d891fff54b4c0a91635a7b103f76bc1f6"
+      }
     },
     {
       "page": "editorial",
-      "owner": "/root/editorial",
+      "owner": "/root/editorial_rebuild_luna",
       "model": "gpt-5.6-luna",
       "reasoning": "max",
-      "score": 9.2,
-      "categories": [2, 1.6, 1.9, 1.9, 1.8],
-      "attempts": [9.2],
+      "score": 9.3,
+      "categoryScores": [2, 1.8, 2, 1.8, 1.7],
       "checksPassed": true,
-      "notes": "Reviewed localized page, section accents, source-backed draft references and responsive rendering.",
+      "attempts": [
+        {
+          "score": 8.7,
+          "reason": "Desktop hero title artificially constrained to 11ch."
+        },
+        {
+          "score": 9.3,
+          "result": "Approved after primary source inspection, rendered review and passing relevant integration checks."
+        }
+      ],
       "files": {
-        "src/views/Editorial.astro": "4a11cb09efb2be02ad666992268bd29540fdb6f2550cc1510d697347ade90fc1"
-      },
-      "approvedRevision": "a884e2e08672e3e40a790e5f22273cdb9538766b32e4c05a9de0c21ea711a96b"
+        "src/render/pages/editorial.js": "729880724e9eef90d3ccae7ba3bc8117ada58524a384178e66bfeb61b03f624d",
+        "src/styles/editorial.css": "0a080446d22cef3afa42d98224496f8eab6284d494c8ffd8f688bbd7f228e78c"
+      }
     },
     {
       "page": "error",
-      "owner": "/root/error",
+      "owner": "/root/error_rebuild_luna",
       "model": "gpt-5.6-luna",
       "reasoning": "max",
       "score": 9.2,
-      "categories": [2, 1.6, 1.9, 1.9, 1.8],
-      "attempts": [8.5, 9.2],
+      "categoryScores": [2, 1.8, 1.9, 1.8, 1.7],
       "checksPassed": true,
-      "notes": "Added static Pages fallback and reduced inline function complexity.",
+      "attempts": [
+        {
+          "score": 9.2,
+          "result": "Approved after primary source inspection, rendered review and passing relevant integration checks."
+        }
+      ],
       "files": {
-        "src/views/ErrorPage.astro": "74907043c63d4310e4f77a13eee355a316523c63474412047bbd74d7b6659908",
-        "static/404.html": "3112fa106cfe4c9c526f22484c09ab6aaeec94bd50c77fec6fde87418ce6ce53"
-      },
-      "approvedRevision": "ef993720e837ab3422090993095129c1a32b05f231b50ebb5e2472b04f8e5925"
+        "src/render/pages/error.js": "d224443dde6c513ef7567df5dd33e9770a7e3fd3aa42c512f0e2d59832d8b4db",
+        "src/styles/error.css": "f9f6ecbb521ff8c4cf20b63a0735c255646e8be75e3c04366d0241ede2c66b8c",
+        "static/404.html": "2d7930b2625c01398b0922af2ada2fbb24c0065d1161bb416b6f76c3d37fa3d9"
+      }
+    },
+    {
+      "page": "shell",
+      "owner": "/root/shell_luna",
+      "model": "gpt-5.6-luna",
+      "reasoning": "max",
+      "score": 9.3,
+      "categoryScores": [2, 1.8, 2, 1.8, 1.7],
+      "checksPassed": true,
+      "attempts": [
+        {
+          "score": 9.3,
+          "result": "Approved after primary source inspection, rendered review and passing relevant integration checks."
+        }
+      ],
+      "files": {
+        "src/render/shell.js": "05f549413684aa88ca93148b5d4a1dedbbe6ddbc0d7bbfa85d9543757db4eeb9",
+        "src/render/components/story-card.js": "2dd43289b748cb4e1452988eda410ebf40d0cc9c3bd6b236e5f9b692eb58c0a2",
+        "src/render/components/section-page.js": "073f4f19f996914a1a680c9abe550e5110b9b4a90459d75b20de4b1e2293cad5",
+        "src/styles/base.css": "fc8abd737d8a17d71808f211dc7cffd662b78a080e0fa81364bd5aaae262762b",
+        "src/styles/main.css": "0e358c8c8a8361c27918f6134bc27bb622852a3e118c24bd6ea44c675614dc89",
+        "src/client/main.js": "c40cf4f97c4ef01d76feb787c6f7a642a82056ae0ce14070ec3b0a17f486282a",
+        "src/client/theme-init.js": "1b205f57b853add62eda71bbd9d9a2d4c588dd740607d635dc081c07bec5a3b4",
+        "src/client/scroll-top.js": "d0201ca6304963e905c97fc012d61386fbe8f5bb8861e94d956d2f9094588c37"
+      }
+    },
+    {
+      "page": "static-build",
+      "owner": "/root/static_build_luna",
+      "model": "gpt-5.6-luna",
+      "reasoning": "max",
+      "score": 9.4,
+      "categoryScores": [2, 1.8, 2, 1.8, 1.8],
+      "checksPassed": true,
+      "attempts": [
+        {
+          "score": 8.7,
+          "reason": "Failed CI output could leave the preview pointer referencing a removed package."
+        },
+        {
+          "score": 9.4,
+          "result": "Approved after primary source inspection, rendered review and passing relevant integration checks."
+        }
+      ],
+      "files": {
+        "scripts/static-build.ts": "8e3aaf725f8d2ba478cec069d2cd6654c361ce2146052a11509bf53772a6f111",
+        "scripts/build-assets.ts": "8a9efef70bbe74e9eb1b62af91549fdb84f05482cf3907445f96fc6721fab964",
+        "scripts/build.ts": "ab350992a95e2405220154b26a14ed4daa90f092620494abdb425776cb24eace",
+        "scripts/package-pages.ts": "0f446305bc84eb37b39aef4dd4bd2e8e44d08a8734a371194a9a97b131865fa0",
+        "scripts/dev.mjs": "8638416b80d6317dc7a1a7eee2bb2711d0b7137c3a5436803aa5c2ee36598122",
+        "src/modules/content/catalog.ts": "e556c447875b2088445175146a8b7a14810975063c108cdf8123e00b2be92abe"
+      }
     }
   ]
 }

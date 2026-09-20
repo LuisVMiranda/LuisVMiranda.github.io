@@ -22,7 +22,7 @@ For a normal content run, work in these locations:
 | `content/editions.json`             | Append a new edition and its ordered references                |
 | `content/approval.json`             | Exact-revision approval, only after explicit editorial consent |
 
-Do not edit `src/views/`, `src/components/`, `src/layouts/`, `src/styles/`,
+Do not edit `src/render/`, `src/templates/`, `src/client/`, `src/styles/`,
 routing, dependencies, deployment configuration or page-review scores merely
 to make a new set of stories fit. Do not edit generated HTML or Pagefind files.
 If a content issue exposes a software defect, report it separately and validate
@@ -222,7 +222,7 @@ an approved edition to disguise new selections. Choose the new edition's
 `leadArticleId` explicitly before review: the script's default is merely the
 first Brasil article in the catalog and may belong to an older edition.
 
-Do not add new public routes by hand. Astro generates PT-BR/EN article, section
+Do not add new public routes by hand. The static build generates PT-BR/EN article, section
 and edition pages from the data. Pagefind, feeds and sitemaps are rebuilt from
 the same catalog. A failed search or compilation must leave the live edition
 untouched.

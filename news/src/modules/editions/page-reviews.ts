@@ -13,6 +13,8 @@ export const requiredPages = [
   'archive',
   'editorial',
   'error',
+  'shell',
+  'static-build',
 ];
 export interface PageReview {
   page: string;

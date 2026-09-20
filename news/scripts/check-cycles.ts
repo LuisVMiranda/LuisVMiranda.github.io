@@ -9,14 +9,14 @@ async function sourceFiles(directory: string): Promise<string[]> {
       return entry.isDirectory() ? sourceFiles(file) : [file];
     }),
   );
-  return groups.flat().filter((file) => /\.(ts|mjs|js|astro)$/.test(file));
+  return groups.flat().filter((file) => /\.(ts|mjs|js)$/.test(file));
 }
 async function resolveImport(
   from: string,
   specifier: string,
 ): Promise<string | undefined> {
   const base = path.resolve(path.dirname(from), specifier);
-  for (const suffix of ['', '.ts', '.js', '.mjs', '.astro', '/index.ts']) {
+  for (const suffix of ['', '.ts', '.js', '.mjs', '/index.ts']) {
     const candidate = base + suffix;
     const exists = await stat(candidate)
       .then((info) => info.isFile())
@@ -52,5 +52,5 @@ function visit(file: string, trail: string[]): void {
 }
 for (const file of graph.keys()) visit(file, []);
 console.log(
-  `No dependency cycles across ${graph.size} TypeScript and Astro modules.`,
+  `No dependency cycles across ${graph.size} TypeScript and JavaScript modules.`,
 );

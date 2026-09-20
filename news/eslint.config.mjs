@@ -1,12 +1,10 @@
 import tseslint from 'typescript-eslint';
-import astro from 'eslint-plugin-astro';
 
 export default [
   {
     ignores: [
       'dist/**',
       'node_modules/**',
-      '.astro/**',
       'research/runs/**',
       'artifacts/**',
       'test-results/**',
@@ -14,9 +12,8 @@ export default [
     ],
   },
   ...tseslint.configs.recommended,
-  ...astro.configs['flat/recommended'],
   {
-    files: ['**/*.{ts,js,mjs,astro}'],
+    files: ['**/*.{ts,js,mjs}'],
     rules: {
       complexity: ['error', 10],
       'max-depth': ['error', 3],

@@ -4,7 +4,6 @@ import path from 'node:path';
 const excluded = new Set([
   'node_modules',
   'dist',
-  '.astro',
   '.cache',
   'artifacts',
   'test-results',
@@ -15,7 +14,6 @@ const textExtensions = new Set([
   '.ts',
   '.js',
   '.mjs',
-  '.astro',
   '.css',
   '.json',
   '.jsonc',
