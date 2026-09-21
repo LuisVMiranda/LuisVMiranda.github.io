@@ -36,7 +36,7 @@ Use [the research template](research/TEMPLATE.md) to retain selection evidence.
 The local SearXNG endpoint
 defaults to `http://localhost:8080`; `SEARXNG_URL` may select another local port.
 `npm run research` writes separate candidate runs; it never approves stories. The
-`github-news` automation runs daily at 08:00 GMT-3 using
+`github-news` automation runs daily at 07:45 GMT-3 using
 `automation/daily-news-prompt.md`; it prepares exactly ten verified stories per
 section, deploys an independent read-only reviewer, records machine approval,
 and pushes verified editions directly to `main` for GitHub Pages deployment.
