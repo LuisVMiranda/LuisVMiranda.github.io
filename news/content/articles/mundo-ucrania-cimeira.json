@@ -7,8 +7,8 @@
   "updatedAt": "2026-09-18T11:17:27Z",
   "sources": [
     {
-      "name": "AP News",
-      "url": "https://apnews.com/article/russia-ukraine-war-zelenskyy-summit-b05ea50c3ed8b64cf25e254783a17d39"
+      "name": "Carpathian 8 Summit",
+      "url": "https://c8summit.org/en"
     }
   ],
   "translations": {
@@ -16,17 +16,24 @@
       "title": "Zelenskyy reúne sete países para ampliar cooperação regional",
       "summary": "Cimeira na Ucrânia discutiu segurança, energia, logística e vínculos econômicos enquanto a guerra continua.",
       "paragraphs": [
-        "O presidente ucraniano Volodymyr Zelenskyy recebeu líderes e representantes de sete países da região, além da Ucrânia, para uma cimeira de cooperação. O encontro inaugural da chamada Carpathian Eight reuniu Romênia, Sérvia, Polônia, Eslováquia, República Tcheca, Áustria e Hungria, com participação da União Europeia.",
-        "Zelenskyy disse que os participantes trabalharão em segurança, energia, logística, vínculos econômicos transfronteiriços e apoio a comunidades locais. A reunião ocorreu enquanto tentativas mediadas pelos Estados Unidos para encerrar a guerra seguem travadas."
-      ]
+        "A C8 Summit reuniu em Bukovel, na Ucrânia, de 18 a 20 de setembro, oito países da região dos Cárpatos, instituições da União Europeia, parceiros internacionais, comunidades, empresas e investidores. O site oficial descreve o encontro como a cimeira fundadora de uma nova iniciativa regional.",
+        "A agenda combina segurança, desenvolvimento econômico, investimentos e cooperação transfronteiriça, com projetos em energia, logística, manufatura e infraestrutura apresentados a investidores. O formato pretende ligar diálogo político a implementação de projetos e apoio às comunidades locais.",
+        "O encontro amplia a coordenação regional em uma área diretamente afetada pela guerra e por desafios de conectividade. A fonte institucional confirma a realização e os objetivos do evento, mas não substitui a avaliação posterior sobre quais compromissos ou projetos serão efetivamente executados."
+      ],
+      "aiSummary": "A reportagem explica que Cimeira na Ucrânia discutiu segurança, energia, logística e vínculos econômicos enquanto a guerra continua . O caso importa para as disputas de segurança, diplomacia e cooperação que conectam governos e populações além das fronteiras. O texto contextualiza o episódio com protagonistas, números e próximos passos já descritos na fonte, distinguindo fatos confirmados de declarações, estimativas ou efeitos ainda esperados."
     },
     "en": {
       "title": "Zelenskyy hosts seven countries to deepen regional cooperation",
       "summary": "A summit in Ukraine discussed security, energy, logistics and economic ties as the war continues.",
       "paragraphs": [
-        "Ukrainian President Volodymyr Zelenskyy hosted leaders and representatives from seven regional countries, in addition to Ukraine, for a cooperation summit. The inaugural meeting of the so-called Carpathian Eight brought together Romania, Serbia, Poland, Slovakia, the Czech Republic, Austria and Hungary, with the European Union involved.",
-        "Zelenskyy said participants would work on security, energy, logistics, cross-border economic ties and support for local communities. The meeting came as U.S.-mediated efforts to end the war remain stalled."
-      ]
+        "The C8 Summit brought together eight Carpathian countries, European Union institutions, international partners, communities, companies and investors in Bukovel, Ukraine, from September 18 to 20. The official site describes the meeting as the founding summit of a new regional initiative.",
+        "The agenda combines security, economic development, investment and cross-border cooperation, with energy, logistics, manufacturing and infrastructure projects presented to investors. The format aims to connect political dialogue with project implementation and support for local communities.",
+        "The meeting expands regional coordination in an area directly affected by war and connectivity challenges. The institutional source confirms the event and its aims, but later assessments are still needed to determine which commitments or projects will actually be implemented."
+      ],
+      "aiSummary": "The report explains that A summit in Ukraine discussed security, energy, logistics and economic ties as the war continues . The case matters for the security, diplomatic and cooperation disputes that connect governments and populations across borders. It places the event in context with the protagonists, figures and next steps described by the source, distinguishing confirmed facts from statements, estimates or effects that are still expected."
     }
+  },
+  "rights": {
+    "mode": "original-report"
   }
 }

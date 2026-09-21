@@ -17,16 +17,23 @@
       "summary": "Regra eleitoral vale até 48 horas depois do primeiro turno, salvo flagrante delito.",
       "paragraphs": [
         "Candidatas e candidatos registrados nas eleições de 2026 não podem ser presos ou detidos a partir de 19 de setembro, conforme regra do Código Eleitoral.",
-        "A exceção é o flagrante delito; a proteção vale até 48 horas depois do primeiro turno, marcado para 4 de outubro."
-      ]
+        "A exceção é o flagrante delito; a proteção vale até 48 horas depois do primeiro turno, marcado para 4 de outubro.",
+        "Além do fato imediato, o caso ajuda a entender as escolhas institucionais, eleitorais e de governo que podem alterar políticas públicas. A leitura completa da fonte reúne os dados e as posições que permitem acompanhar o desdobramento sem transformar estimativas ou declarações em resultados já confirmados."
+      ],
+      "aiSummary": "A reportagem explica que Regra eleitoral vale até 48 horas depois do primeiro turno, salvo flagrante delito . O caso importa para as escolhas institucionais, eleitorais e de governo que podem alterar políticas públicas. O texto contextualiza o episódio com protagonistas, números e próximos passos já descritos na fonte, distinguindo fatos confirmados de declarações, estimativas ou efeitos ainda esperados."
     },
     "en": {
       "title": "Candidates cannot be arrested from Saturday onward",
       "summary": "The election rule lasts until 48 hours after the first round, except in cases of flagrante delicto.",
       "paragraphs": [
         "Candidates registered for Brazil's 2026 elections cannot be arrested or detained from September 19 under a rule in the Electoral Code.",
-        "The exception is arrest in the act; the protection lasts until 48 hours after the first round, scheduled for October 4."
-      ]
+        "The exception is arrest in the act; the protection lasts until 48 hours after the first round, scheduled for October 4.",
+        "Beyond the immediate event, the case helps explain the institutional, electoral and governing choices that can change public policy. The complete source brings together the facts and positions needed to follow what happens next without treating estimates or statements as outcomes that have already been confirmed."
+      ],
+      "aiSummary": "The report explains that The election rule lasts until 48 hours after the first round, except in cases of flagrante delicto . The case matters for the institutional, electoral and governing choices that can change public policy. It places the event in context with the protagonists, figures and next steps described by the source, distinguishing confirmed facts from statements, estimates or effects that are still expected."
     }
+  },
+  "rights": {
+    "mode": "original-report"
   }
 }

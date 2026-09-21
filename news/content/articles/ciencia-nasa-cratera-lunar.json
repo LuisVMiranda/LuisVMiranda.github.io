@@ -18,16 +18,23 @@
       "summary": "Imagens do Lunar Reconnaissance Orbiter revelaram a cratera McGetchin, aberta entre abril e maio de 2024.",
       "paragraphs": [
         "A NASA informou que o Lunar Reconnaissance Orbiter identificou a cratera McGetchin em imagens comparativas da superfície lunar. O impacto ocorreu entre 11 de abril e 22 de maio de 2024, quando um fragmento do tamanho aproximado de um prédio de três a seis andares atingiu a Lua.",
-        "A cratera mede cerca de 222 metros de largura e 43 metros de profundidade, e impactos dessa escala são estimados em cerca de uma vez por século ou mais. O instrumento Diviner também encontrou uma área fria de aproximadamente 6,4 quilômetros ao redor do local, resultado do regolito mais solto."
-      ]
+        "A cratera mede cerca de 222 metros de largura e 43 metros de profundidade, e impactos dessa escala são estimados em cerca de uma vez por século ou mais. O instrumento Diviner também encontrou uma área fria de aproximadamente 6,4 quilômetros ao redor do local, resultado do regolito mais solto.",
+        "Além do fato imediato, o caso ajuda a entender a diferença entre uma descoberta promissora, a evidência disponível e o que ainda precisa de validação. A leitura completa da fonte reúne os dados e as posições que permitem acompanhar o desdobramento sem transformar estimativas ou declarações em resultados já confirmados."
+      ],
+      "aiSummary": "A reportagem explica que Imagens do Lunar Reconnaissance Orbiter revelaram a cratera McGetchin, aberta entre abril e maio de 2024 . O caso importa para a diferença entre uma descoberta promissora, a evidência disponível e o que ainda precisa de validação. O texto contextualiza o episódio com protagonistas, números e próximos passos já descritos na fonte, distinguindo fatos confirmados de declarações, estimativas ou efeitos ainda esperados."
     },
     "en": {
       "title": "Lunar orbiter identifies a crater from a rare impact",
       "summary": "Images from the Lunar Reconnaissance Orbiter revealed McGetchin crater, formed between April and May 2024.",
       "paragraphs": [
         "NASA said its Lunar Reconnaissance Orbiter identified McGetchin crater by comparing images of the lunar surface. The impact occurred between April 11 and May 22, 2024, when a fragment roughly the size of a three- to six-story building struck the Moon.",
-        "The crater is about 222 meters wide and 43 meters deep, and impacts of this scale are estimated to happen roughly once a century or less often. The Diviner instrument also found a roughly 6.4-kilometer cold area around the site, caused by looser regolith."
-      ]
+        "The crater is about 222 meters wide and 43 meters deep, and impacts of this scale are estimated to happen roughly once a century or less often. The Diviner instrument also found a roughly 6.4-kilometer cold area around the site, caused by looser regolith.",
+        "Beyond the immediate event, the case helps explain the difference between a promising finding, the available evidence and what still needs validation. The complete source brings together the facts and positions needed to follow what happens next without treating estimates or statements as outcomes that have already been confirmed."
+      ],
+      "aiSummary": "The report explains that Images from the Lunar Reconnaissance Orbiter revealed McGetchin crater, formed between April and May 2024 . The case matters for the difference between a promising finding, the available evidence and what still needs validation. It places the event in context with the protagonists, figures and next steps described by the source, distinguishing confirmed facts from statements, estimates or effects that are still expected."
     }
+  },
+  "rights": {
+    "mode": "original-report"
   }
 }

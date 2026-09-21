@@ -17,16 +17,23 @@
       "summary": "Plano do candidato do PRTB combina imposto único, mutirões de saúde e monitoramento por IA.",
       "paragraphs": [
         "O plano de governo de Leonardo Avalanche, do PRTB, propõe reduzir progressivamente impostos e substituir tributos por um imposto único de 3,5%.",
-        "Na saúde, o candidato promete zerar a fila do SUS com mutirões, telemedicina e parcerias com hospitais privados, além de monitorar estoques com inteligência artificial."
-      ]
+        "Na saúde, o candidato promete zerar a fila do SUS com mutirões, telemedicina e parcerias com hospitais privados, além de monitorar estoques com inteligência artificial.",
+        "Além do fato imediato, o caso ajuda a entender as escolhas institucionais, eleitorais e de governo que podem alterar políticas públicas. A leitura completa da fonte reúne os dados e as posições que permitem acompanhar o desdobramento sem transformar estimativas ou declarações em resultados já confirmados."
+      ],
+      "aiSummary": "A reportagem explica que Plano do candidato do PRTB combina imposto único, mutirões de saúde e monitoramento por IA . O caso importa para as escolhas institucionais, eleitorais e de governo que podem alterar políticas públicas. O texto contextualiza o episódio com protagonistas, números e próximos passos já descritos na fonte, distinguindo fatos confirmados de declarações, estimativas ou efeitos ainda esperados."
     },
     "en": {
       "title": "Leonardo Avalanche proposes lower taxes and an end to the SUS queue",
       "summary": "The PRTB candidate's platform combines a single tax, health campaigns and AI monitoring.",
       "paragraphs": [
         "Leonardo Avalanche's platform, from the PRTB, proposes progressively lowering taxes and replacing existing levies with a single 3.5% tax.",
-        "In health, the candidate promises to clear the SUS queue through campaigns, telemedicine and partnerships with private hospitals, while monitoring supplies with artificial intelligence."
-      ]
+        "In health, the candidate promises to clear the SUS queue through campaigns, telemedicine and partnerships with private hospitals, while monitoring supplies with artificial intelligence.",
+        "Beyond the immediate event, the case helps explain the institutional, electoral and governing choices that can change public policy. The complete source brings together the facts and positions needed to follow what happens next without treating estimates or statements as outcomes that have already been confirmed."
+      ],
+      "aiSummary": "The report explains that The PRTB candidate's platform combines a single tax, health campaigns and AI monitoring . The case matters for the institutional, electoral and governing choices that can change public policy. It places the event in context with the protagonists, figures and next steps described by the source, distinguishing confirmed facts from statements, estimates or effects that are still expected."
     }
+  },
+  "rights": {
+    "mode": "original-report"
   }
 }

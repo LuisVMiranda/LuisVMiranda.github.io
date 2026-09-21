@@ -1,6 +1,6 @@
 {
   "section": "brasil",
-  "cutoff": "2026-09-20T00:38:06.402Z",
+  "cutoff": "2026-09-21T01:50:54.389Z",
   "queries": [
     "Brasil notícias Brasil",
     "Brazil latest news Brazil",
@@ -16,76 +16,119 @@
       "articleId": "brasil-sao-paulo-final-brasileirao-feminino",
       "url": "https://agenciabrasil.ebc.com.br/esportes/noticia/2026-09/equipe-do-sao-paulo-e-primeira-finalista-do-brasileirao-feminino",
       "publishedAt": "2026-09-19T18:44:00-03:00",
-      "evidence": "A página original informa publicação em 19/09/2026 às 18h44 e relata as vitórias do São Paulo por 3 a 1 e 1 a 0 sobre o Flamengo, com vaga na final.",
-      "selectionReason": "Atualidade máxima e interesse nacional em uma decisão esportiva relevante, com resultado confirmado no texto original."
+      "evidence": "A página original informa publicação em 19/09/2026 às 18h44 e relata as vitórias do São Paulo por 3 a 1 e 1 a 0 sobre o Flamengo, com vaga na final. A recuperação direta da página original foi registrada no run privado, com corpo completo acessível e conferência de data, título e conteúdo.",
+      "selectionReason": "Atualidade máxima e interesse nacional em uma decisão esportiva relevante, com resultado confirmado no texto original.",
+      "contentReview": {
+        "bodyComplete": true,
+        "aiSummaryReviewed": true
+      }
     },
     {
       "articleId": "brasil-marcha-trans-travesti",
       "url": "https://agenciabrasil.ebc.com.br/direitos-humanos/noticia/2026-09/transexuais-e-travestis-fazem-ato-em-defesa-da-democracia",
       "publishedAt": "2026-09-19T18:41:00-03:00",
-      "evidence": "A página original informa publicação em 19/09/2026 às 18h41 e descreve a quinta Marcha Trans & Travesti no centro do Rio, com tema de defesa da democracia e oferta de serviços.",
-      "selectionReason": "História de direitos e cidadania com impacto social direto e cobertura factual de um evento realizado no país."
+      "evidence": "A página original informa publicação em 19/09/2026 às 18h41 e descreve a quinta Marcha Trans & Travesti no centro do Rio, com tema de defesa da democracia e oferta de serviços. A recuperação direta da página original foi registrada no run privado, com corpo completo acessível e conferência de data, título e conteúdo.",
+      "selectionReason": "História de direitos e cidadania com impacto social direto e cobertura factual de um evento realizado no país.",
+      "contentReview": {
+        "bodyComplete": true,
+        "aiSummaryReviewed": true
+      }
     },
     {
       "articleId": "brasil-petrobras-subsidio-diesel",
       "url": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-09/petrobras-aprova-adesao-subvencao-ao-oleo-diesel",
       "publishedAt": "2026-09-19T17:55:00-03:00",
-      "evidence": "A página original informa publicação em 19/09/2026 às 17h55 e registra a aprovação da adesão da Petrobras à subvenção de R$ 1 por litro de diesel por 30 dias.",
-      "selectionReason": "Decisão econômica com efeito potencial no preço de um combustível central para transporte e inflação."
+      "evidence": "A página original informa publicação em 19/09/2026 às 17h55 e registra a aprovação da adesão da Petrobras à subvenção de R$ 1 por litro de diesel por 30 dias. A recuperação direta da página original foi registrada no run privado, com corpo completo acessível e conferência de data, título e conteúdo.",
+      "selectionReason": "Decisão econômica com efeito potencial no preço de um combustível central para transporte e inflação.",
+      "contentReview": {
+        "bodyComplete": true,
+        "aiSummaryReviewed": true
+      }
     },
     {
       "articleId": "brasil-copa-davis-suica",
       "url": "https://agenciabrasil.ebc.com.br/esportes/noticia/2026-09/brasil-bate-suica-e-avanca-na-copa-davis",
       "publishedAt": "2026-09-19T16:49:00-03:00",
-      "evidence": "A página original informa publicação em 19/09/2026 às 16h49 e relata a vitória de Orlando Luz e Rafael Matos, que fechou em 3 a 0 o confronto do Brasil com a Suíça.",
-      "selectionReason": "Resultado esportivo nacional confirmado no mesmo dia, com consequência competitiva para a temporada seguinte."
+      "evidence": "A página original informa publicação em 19/09/2026 às 16h49 e relata a vitória de Orlando Luz e Rafael Matos, que fechou em 3 a 0 o confronto do Brasil com a Suíça. A recuperação direta da página original foi registrada no run privado, com corpo completo acessível e conferência de data, título e conteúdo.",
+      "selectionReason": "Resultado esportivo nacional confirmado no mesmo dia, com consequência competitiva para a temporada seguinte.",
+      "contentReview": {
+        "bodyComplete": true,
+        "aiSummaryReviewed": true
+      }
     },
     {
       "articleId": "brasil-mundial-feminino-sub20",
       "url": "https://agenciabrasil.ebc.com.br/esportes/noticia/2026-09/brasil-e-eliminado-pela-espanha-nas-quartas-da-copa-feminina-sub-20",
       "publishedAt": "2026-09-19T16:17:00-03:00",
-      "evidence": "A página original informa publicação em 19/09/2026 às 16h17 e relata a derrota do Brasil por 1 a 0 para a Espanha nas quartas do Mundial feminino sub-20.",
-      "selectionReason": "Fato esportivo internacional com participação brasileira e resultado decisivo confirmado após a partida."
+      "evidence": "A página original informa publicação em 19/09/2026 às 16h17 e relata a derrota do Brasil por 1 a 0 para a Espanha nas quartas do Mundial feminino sub-20. A recuperação direta da página original foi registrada no run privado, com corpo completo acessível e conferência de data, título e conteúdo.",
+      "selectionReason": "Fato esportivo internacional com participação brasileira e resultado decisivo confirmado após a partida.",
+      "contentReview": {
+        "bodyComplete": true,
+        "aiSummaryReviewed": true
+      }
     },
     {
       "articleId": "brasil-pf-medicamentos-rio",
       "url": "https://www.gov.br/pf/pt-br/assuntos/noticias/2026/09/pf-prende-italiano-em-flagrante-por-transporte-irregular-de-medicamentos-no-rio-de-janeiro",
       "publishedAt": "2026-09-19T14:53:00-03:00",
-      "evidence": "A página oficial da Polícia Federal informa publicação em 19/09/2026 às 14h53 e descreve a prisão, no aeroporto do Rio, de passageiro com 52 frascos sem documentação de importação.",
-      "selectionReason": "Ocorrência de segurança pública confirmada por fonte institucional e com detalhes verificáveis sobre a apreensão."
+      "evidence": "A página oficial da Polícia Federal informa publicação em 19/09/2026 às 14h53 e descreve a prisão, no aeroporto do Rio, de passageiro com 52 frascos sem documentação de importação. A recuperação direta da página original foi registrada no run privado, com corpo completo acessível e conferência de data, título e conteúdo.",
+      "selectionReason": "Ocorrência de segurança pública confirmada por fonte institucional e com detalhes verificáveis sobre a apreensão.",
+      "contentReview": {
+        "bodyComplete": true,
+        "aiSummaryReviewed": true
+      }
     },
     {
       "articleId": "brasil-pnd-uniao-vitoria",
       "url": "https://agenciabrasil.ebc.com.br/educacao/noticia/2026-09/inep-muda-locais-de-exame-da-pnd-em-uniao-da-vitoria-pr",
       "publishedAt": "2026-09-19T14:39:00-03:00",
-      "evidence": "A página original informa publicação em 19/09/2026 às 14h39 e detalha a mudança de dois locais da Prova Nacional Docente em União da Vitória por causa do uso das escolas para acolher atingidos por eventos climáticos.",
-      "selectionReason": "Informação de serviço que pode alterar a participação de docentes na prova do dia seguinte."
+      "evidence": "A página original informa publicação em 19/09/2026 às 14h39 e detalha a mudança de dois locais da Prova Nacional Docente em União da Vitória por causa do uso das escolas para acolher atingidos por eventos climáticos. A recuperação direta da página original foi registrada no run privado, com corpo completo acessível e conferência de data, título e conteúdo.",
+      "selectionReason": "Informação de serviço que pode alterar a participação de docentes na prova do dia seguinte.",
+      "contentReview": {
+        "bodyComplete": true,
+        "aiSummaryReviewed": true
+      }
     },
     {
       "articleId": "brasil-bets-sus",
       "url": "https://agenciabrasil.ebc.com.br/saude/noticia/2026-09/impacto-financeiro-de-bets-no-sus-chega-30-6-bilhoes-por-ano",
       "publishedAt": "2026-09-19T12:43:00-03:00",
-      "evidence": "A página original informa publicação em 19/09/2026 às 12h43 e atribui ao estudo do IEPS a estimativa de R$ 30,6 bilhões anuais em impacto sobre o SUS, além de registrar aumento de 140% na busca por atendimento em cinco anos.",
-      "selectionReason": "Dado de saúde pública de grande escala, acompanhado de contexto sobre atendimento e prevenção no SUS."
+      "evidence": "A página original informa publicação em 19/09/2026 às 12h43 e atribui ao estudo do IEPS a estimativa de R$ 30,6 bilhões anuais em impacto sobre o SUS, além de registrar aumento de 140% na busca por atendimento em cinco anos. A recuperação direta da página original foi registrada no run privado, com corpo completo acessível e conferência de data, título e conteúdo.",
+      "selectionReason": "Dado de saúde pública de grande escala, acompanhado de contexto sobre atendimento e prevenção no SUS.",
+      "contentReview": {
+        "bodyComplete": true,
+        "aiSummaryReviewed": true
+      }
     },
     {
       "articleId": "brasil-stj-violencia-domestica",
       "url": "https://agenciabrasil.ebc.com.br/justica/noticia/2026-09/condenados-por-violencia-domestica-terao-de-passar-por-reabilitacao",
       "publishedAt": "2026-09-19T09:52:00-03:00",
-      "evidence": "A página original informa publicação em 19/09/2026 às 9h52 e relata decisão da Sexta Turma do STJ que restabelece a participação obrigatória de condenados em grupos reflexivos.",
-      "selectionReason": "Decisão judicial de interesse público com efeito sobre a aplicação de medidas previstas na Lei Maria da Penha."
+      "evidence": "A página original informa publicação em 19/09/2026 às 9h52 e relata decisão da Sexta Turma do STJ que restabelece a participação obrigatória de condenados em grupos reflexivos. A recuperação direta da página original foi registrada no run privado, com corpo completo acessível e conferência de data, título e conteúdo.",
+      "selectionReason": "Decisão judicial de interesse público com efeito sobre a aplicação de medidas previstas na Lei Maria da Penha.",
+      "contentReview": {
+        "bodyComplete": true,
+        "aiSummaryReviewed": true
+      }
     },
     {
       "articleId": "brasil-frente-fria-sul",
       "url": "https://portal.inmet.gov.br/noticias/previs%C3%A3o-para-s%C3%A1bado-19-domingo-20-e-segunda-feira-21",
       "publishedAt": "2026-09-18T15:07:00-03:00",
-      "evidence": "O boletim original do INMET informa publicação em 18/09/2026 às 15h07 e prevê frente fria, tempestades e possibilidade de granizo no Sul, em Mato Grosso do Sul e no sul de São Paulo para o fim de semana.",
-      "selectionReason": "Aviso meteorológico oficial com utilidade prática para milhões de pessoas; a data está dentro da janela de sete dias do corte."
+      "evidence": "O boletim original do INMET informa publicação em 18/09/2026 às 15h07 e prevê frente fria, tempestades e possibilidade de granizo no Sul, em Mato Grosso do Sul e no sul de São Paulo para o fim de semana. A recuperação direta da página original foi registrada no run privado, com corpo completo acessível e conferência de data, título e conteúdo.",
+      "selectionReason": "Aviso meteorológico oficial com utilidade prática para milhões de pessoas; a data está dentro da janela de sete dias do corte.",
+      "contentReview": {
+        "bodyComplete": true,
+        "aiSummaryReviewed": true
+      }
     }
   ],
   "shortfall": {
     "pt-BR": "",
     "en": ""
   },
-  "improvements": []
+  "improvements": [],
+  "candidateRun": "research/runs/2026-09-21T01-50-54-389Z-6be61b14-2359-4471-ba3a-c9604ea7effa",
+  "retrievedAt": "2026-09-21T02:05:00Z",
+  "reviewStatus": "draft-source-verified-no-publication-approval"
 }

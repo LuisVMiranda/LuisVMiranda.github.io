@@ -17,16 +17,23 @@
       "summary": "Plano do candidato do PCO reúne propostas para trabalho, saúde, reforma agrária e habitação.",
       "paragraphs": [
         "O plano de governo de Rui Costa Pimenta, candidato do PCO, está organizado em 15 temas e prevê ampliar recursos para a saúde pública.",
-        "O documento também propõe cancelar a reforma trabalhista, revogar reformas previdenciárias e contratar profissionais por meio do Mais Médicos."
-      ]
+        "O documento também propõe cancelar a reforma trabalhista, revogar reformas previdenciárias e contratar profissionais por meio do Mais Médicos.",
+        "Além do fato imediato, o caso ajuda a entender as escolhas institucionais, eleitorais e de governo que podem alterar políticas públicas. A leitura completa da fonte reúne os dados e as posições que permitem acompanhar o desdobramento sem transformar estimativas ou declarações em resultados já confirmados."
+      ],
+      "aiSummary": "A reportagem explica que Plano do candidato do PCO reúne propostas para trabalho, saúde, reforma agrária e habitação . O caso importa para as escolhas institucionais, eleitorais e de governo que podem alterar políticas públicas. O texto contextualiza o episódio com protagonistas, números e próximos passos já descritos na fonte, distinguindo fatos confirmados de declarações, estimativas ou efeitos ainda esperados."
     },
     "en": {
       "title": "Rui Costa Pimenta proposes broader labor rights and health funding",
       "summary": "The PCO candidate's platform covers work, health, agrarian reform and housing.",
       "paragraphs": [
         "Rui Costa Pimenta's platform, from the PCO, is organized around 15 themes and proposes more funding for public health.",
-        "The document also proposes canceling the labor reform, repealing pension reforms and hiring professionals through the Mais Médicos program."
-      ]
+        "The document also proposes canceling the labor reform, repealing pension reforms and hiring professionals through the Mais Médicos program.",
+        "Beyond the immediate event, the case helps explain the institutional, electoral and governing choices that can change public policy. The complete source brings together the facts and positions needed to follow what happens next without treating estimates or statements as outcomes that have already been confirmed."
+      ],
+      "aiSummary": "The report explains that The PCO candidate's platform covers work, health, agrarian reform and housing . The case matters for the institutional, electoral and governing choices that can change public policy. It places the event in context with the protagonists, figures and next steps described by the source, distinguishing confirmed facts from statements, estimates or effects that are still expected."
     }
+  },
+  "rights": {
+    "mode": "original-report"
   }
 }

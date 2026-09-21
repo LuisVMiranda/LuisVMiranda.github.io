@@ -133,5 +133,140 @@
       }
     },
     "leadArticleId": "brasil-petrobras-subsidio-diesel"
+  },
+  {
+    "id": "2026-09-21",
+    "cutoff": "2026-09-21T01:50:54.389Z",
+    "sections": {
+      "brasil": {
+        "articleIds": [
+          "brasil-sao-paulo-final-brasileirao-feminino",
+          "brasil-marcha-trans-travesti",
+          "brasil-petrobras-subsidio-diesel",
+          "brasil-copa-davis-suica",
+          "brasil-mundial-feminino-sub20",
+          "brasil-pf-medicamentos-rio",
+          "brasil-pnd-uniao-vitoria",
+          "brasil-bets-sus",
+          "brasil-stj-violencia-domestica",
+          "brasil-frente-fria-sul"
+        ],
+        "shortfall": "",
+        "shortfallEn": ""
+      },
+      "mundo": {
+        "articleIds": [
+          "mundo-riade-houthis",
+          "mundo-groenlandia-acordo",
+          "mundo-ira-negociacoes",
+          "mundo-paquistao-mesquita",
+          "mundo-cuba-apagao",
+          "mundo-canada-ue-associado",
+          "mundo-ucrania-cimeira",
+          "mundo-migracao-europa",
+          "mundo-africa-feminicidios",
+          "mundo-onu-guterres"
+        ],
+        "shortfall": "",
+        "shortfallEn": ""
+      },
+      "politica": {
+        "articleIds": [
+          "politica-agenda-presidenciaveis-19-20",
+          "politica-rui-costa-pimenta-plano",
+          "politica-caiado-governo-transformador",
+          "politica-renan-plano-previdencia",
+          "politica-milton-leite-pcc",
+          "politica-candidatos-prisao-eleicoes",
+          "politica-lula-plano-governo",
+          "politica-leonardo-avalanche-plano",
+          "politica-hertz-dias-plano",
+          "politica-flavio-bolsonaro-plano"
+        ],
+        "shortfall": "",
+        "shortfallEn": ""
+      },
+      "economia": {
+        "articleIds": [
+          "brasil-petrobras-subsidio-diesel",
+          "economia-chongqing",
+          "economia-pix-regras",
+          "economia-caixa-greve",
+          "economia-brasil-soberano3",
+          "economia-petrobras-costa-marfim",
+          "economia-agricultura-2025",
+          "economia-bolsa-familia-reajuste",
+          "economia-fgv-recuo-pib",
+          "economia-bc-selic"
+        ],
+        "shortfall": "",
+        "shortfallEn": ""
+      },
+      "tecnologia": {
+        "articleIds": [
+          "tecnologia-redata-datacenters",
+          "tecnologia-tcu-ia-generativa",
+          "tecnologia-ats-doencas-ultrarraras",
+          "tecnologia-eca-digital-plataformas",
+          "tecnologia-hackathon-sus-oncologia",
+          "tecnologia-anthropic-accenture-avaliacao",
+          "tecnologia-openai-misalignment",
+          "tecnologia-california-ai-kill-switch",
+          "tecnologia-kimi-k3-bedrock",
+          "tecnologia-anthropic-pesquisa-recursiva"
+        ],
+        "shortfall": "",
+        "shortfallEn": ""
+      },
+      "ciencia": {
+        "articleIds": [
+          "ciencia-polilaminina-lesao-medular",
+          "ciencia-lncc-realidade-virtual",
+          "ciencia-aeb-cooperacao-espacial",
+          "ciencia-nasa-lake-powell-seca",
+          "ciencia-biomarcadores-cancer-pulmao",
+          "ciencia-inpe-extremos-amazonia",
+          "ciencia-nasa-cratera-lunar",
+          "ciencia-stanford-organoides-cerebrais",
+          "ciencia-berkeley-papiros-carbonizados",
+          "ciencia-fsu-meteoritos-quimica-organica"
+        ],
+        "shortfall": "",
+        "shortfallEn": ""
+      },
+      "cultura": {
+        "articleIds": [
+          "cultura-shostakovich-radio-mec",
+          "cultura-radio-mec-filarmonica-mg",
+          "cultura-gabi-terra-duelo-guitarras",
+          "cultura-primavera-museus",
+          "cultura-escolas-livres-cultura",
+          "cultura-biblioteca-publicacoes-historicas",
+          "cultura-leci-brandao-grammy",
+          "cultura-cineastas-indigenas-editais",
+          "cultura-artrio-78-galerias",
+          "cultura-feito-pipa-oscar"
+        ],
+        "shortfall": "",
+        "shortfallEn": ""
+      },
+      "esportes": {
+        "articleIds": [
+          "brasil-sao-paulo-final-brasileirao-feminino",
+          "brasil-copa-davis-suica",
+          "brasil-mundial-feminino-sub20",
+          "esportes-flavia-saraiva-assimetricas",
+          "esportes-brasileirao-feminino-a2-final",
+          "esportes-brasil-venezuela-volei",
+          "esportes-luisa-stefani-sp-open",
+          "esportes-trinca-libertadores",
+          "esportes-colombia-sulamericano-volei",
+          "esportes-ancelotti-martinelli"
+        ],
+        "shortfall": "",
+        "shortfallEn": ""
+      }
+    },
+    "leadArticleId": "brasil-petrobras-subsidio-diesel"
   }
 ]

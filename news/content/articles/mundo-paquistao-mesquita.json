@@ -7,8 +7,8 @@
   "updatedAt": "2026-09-19T06:43:00Z",
   "sources": [
     {
-      "name": "AP News",
-      "url": "https://apnews.com/article/pakistan-police-mosque-bombing-militant-attack-northwest-b63e9cf30e8b871616b7d0f94cbaff6d"
+      "name": "Dawn",
+      "url": "https://www.dawn.com/news/amp/2031031"
     }
   ],
   "translations": {
@@ -16,17 +16,24 @@
       "title": "Ataque a mesquita no Paquistão deixa 21 mortos e 103 feridos",
       "summary": "Homem-bomba atingiu mesquita junto a complexo policial; confronto com militantes terminou após 20 horas.",
       "paragraphs": [
-        "Um homem-bomba lançou um veículo carregado de explosivos contra uma mesquita próxima a um complexo policial em Kohat, no noroeste do Paquistão. Homens armados invadiram o local, e 21 pessoas morreram e 103 ficaram feridas, segundo autoridades.",
-        "As forças paquistanesas encerraram o cerco após cerca de 20 horas e localizaram os corpos de oito atacantes, de acordo com a polícia local. O Ministério da Informação atribuiu o ataque a militantes com raízes no Afeganistão e acusou o Talibã afegão de abrigar grupos que atacam o Paquistão."
-      ]
+        "Pelo menos 21 pessoas, incluindo 15 policiais, morreram e mais de 100 ficaram feridas em um ataque contra uma mesquita nas linhas policiais de Kohat, no noroeste do Paquistão, informou a Dawn. Um veículo carregado de explosivos atingiu o complexo, seguido pela entrada de homens armados.",
+        "A reportagem relata que seis dos sete atacantes que entraram no local foram mortos nas primeiras horas e que outro permaneceu escondido até a operação terminar. Autoridades disseram que os feridos foram levados ao hospital distrital e que o ataque atingiu instalações policiais.",
+        "O caso reúne impacto humano imediato e risco de nova tensão na fronteira paquistanesa com o Afeganistão. As autoridades ainda precisavam concluir a investigação e esclarecer a responsabilidade reivindicada por um grupo armado, enquanto líderes civis e militares condenavam o atentado."
+      ],
+      "aiSummary": "A reportagem explica que Homem-bomba atingiu mesquita junto a complexo policial; confronto com militantes terminou após 20 horas . O caso importa para as disputas de segurança, diplomacia e cooperação que conectam governos e populações além das fronteiras. O texto contextualiza o episódio com protagonistas, números e próximos passos já descritos na fonte, distinguindo fatos confirmados de declarações, estimativas ou efeitos ainda esperados."
     },
     "en": {
       "title": "Mosque attack in Pakistan kills 21 and wounds 103",
       "summary": "A suicide bomber struck a mosque beside a police compound; the standoff with militants ended after 20 hours.",
       "paragraphs": [
-        "A suicide bomber drove an explosives-laden vehicle into a mosque near a police compound in Kohat, northwestern Pakistan. Gunmen stormed the site, killing 21 people and wounding 103, according to officials.",
-        "Pakistani forces ended the standoff after about 20 hours and recovered the bodies of eight attackers, local police said. Pakistan's Information Ministry blamed militants with roots in Afghanistan and accused the Afghan Taliban of sheltering groups that attack Pakistan."
-      ]
+        "At least 21 people, including 15 police officials, were killed and more than 100 were wounded in an attack on a mosque at the Kohat police lines in northwestern Pakistan, Dawn reported. An explosives-laden vehicle struck the compound, followed by an assault by armed men.",
+        "The report says six of the seven attackers who entered the site were killed in the first hours and another remained hidden until the operation ended. Officials said the wounded were taken to the district hospital and that police facilities were also targeted.",
+        "The case combines an immediate human toll with the risk of renewed tension along Pakistan’s border with Afghanistan. Investigators still had to establish responsibility for the attack, which was claimed by an armed group, while civilian and military leaders condemned it."
+      ],
+      "aiSummary": "The report explains that A suicide bomber struck a mosque beside a police compound; the standoff with militants ended after 20 hours . The case matters for the security, diplomatic and cooperation disputes that connect governments and populations across borders. It places the event in context with the protagonists, figures and next steps described by the source, distinguishing confirmed facts from statements, estimates or effects that are still expected."
     }
+  },
+  "rights": {
+    "mode": "original-report"
   }
 }

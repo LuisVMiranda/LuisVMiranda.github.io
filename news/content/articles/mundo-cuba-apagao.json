@@ -17,16 +17,23 @@
       "summary": "A rede elétrica nacional entrou em colapso pela sexta vez desde janeiro, segundo a Associated Press.",
       "paragraphs": [
         "A rede elétrica de Cuba entrou novamente em colapso na sexta-feira, deixando milhões de pessoas sem eletricidade em toda a ilha. O Ministério de Energia e Minas anunciou a interrupção no X e informou que ativou protocolos para restaurar o serviço.",
-        "A Associated Press registrou que foi pelo menos o sexto apagão nacional desde janeiro, quando o governo Trump cortou o fornecimento de combustível à ilha. A sequência de colapsos ocorre em meio a uma crise de energia que tornou os apagões recorrentes em Cuba."
-      ]
+        "A Associated Press registrou que foi pelo menos o sexto apagão nacional desde janeiro, quando o governo Trump cortou o fornecimento de combustível à ilha. A sequência de colapsos ocorre em meio a uma crise de energia que tornou os apagões recorrentes em Cuba.",
+        "Além do fato imediato, o caso ajuda a entender as disputas de segurança, diplomacia e cooperação que conectam governos e populações além das fronteiras. A leitura completa da fonte reúne os dados e as posições que permitem acompanhar o desdobramento sem transformar estimativas ou declarações em resultados já confirmados."
+      ],
+      "aiSummary": "A reportagem explica que A rede elétrica nacional entrou em colapso pela sexta vez desde janeiro, segundo a Associated Press . O caso importa para as disputas de segurança, diplomacia e cooperação que conectam governos e populações além das fronteiras. O texto contextualiza o episódio com protagonistas, números e próximos passos já descritos na fonte, distinguindo fatos confirmados de declarações, estimativas ou efeitos ainda esperados."
     },
     "en": {
       "title": "Another blackout leaves millions in Cuba without electricity",
       "summary": "The national grid collapsed for at least the sixth time since January, according to the Associated Press.",
       "paragraphs": [
         "Cuba's power grid collapsed again on Friday, leaving millions of people across the island without electricity. The Ministry of Energy and Mines announced the outage on X and said it had activated service-restoration protocols.",
-        "The Associated Press reported that this was at least the sixth nationwide blackout since January, when the Trump administration cut off fuel supplies to the island. The repeated collapses come amid an energy crisis that has made blackouts routine in Cuba."
-      ]
+        "The Associated Press reported that this was at least the sixth nationwide blackout since January, when the Trump administration cut off fuel supplies to the island. The repeated collapses come amid an energy crisis that has made blackouts routine in Cuba.",
+        "Beyond the immediate event, the case helps explain the security, diplomatic and cooperation disputes that connect governments and populations across borders. The complete source brings together the facts and positions needed to follow what happens next without treating estimates or statements as outcomes that have already been confirmed."
+      ],
+      "aiSummary": "The report explains that The national grid collapsed for at least the sixth time since January, according to the Associated Press . The case matters for the security, diplomatic and cooperation disputes that connect governments and populations across borders. It places the event in context with the protagonists, figures and next steps described by the source, distinguishing confirmed facts from statements, estimates or effects that are still expected."
     }
+  },
+  "rights": {
+    "mode": "original-report"
   }
 }

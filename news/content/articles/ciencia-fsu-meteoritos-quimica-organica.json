@@ -22,16 +22,23 @@
       "summary": "Análises de alta resolução encontraram dezenas de milhares de moléculas em amostras de dois meteoritos.",
       "paragraphs": [
         "Pesquisadores do National High Magnetic Field Laboratory e do Brookhaven National Laboratory combinaram espectrometria de massa e microscopia para analisar amostras dos meteoritos Murchison e Aguas Zarcas. O estudo identificou dezenas de milhares de moléculas à base de carbono em pequenas amostras.",
-        "As assinaturas químicas dos meteoritos, embora pertençam à mesma família, compartilharam apenas uma fração dos compostos complexos. O resultado amplia o retrato da química orgânica do Sistema Solar primitivo, mas não demonstra que os meteoritos contenham vida."
-      ]
+        "As assinaturas químicas dos meteoritos, embora pertençam à mesma família, compartilharam apenas uma fração dos compostos complexos. O resultado amplia o retrato da química orgânica do Sistema Solar primitivo, mas não demonstra que os meteoritos contenham vida.",
+        "Além do fato imediato, o caso ajuda a entender a diferença entre uma descoberta promissora, a evidência disponível e o que ainda precisa de validação. A leitura completa da fonte reúne os dados e as posições que permitem acompanhar o desdobramento sem transformar estimativas ou declarações em resultados já confirmados."
+      ],
+      "aiSummary": "A reportagem explica que Análises de alta resolução encontraram dezenas de milhares de moléculas em amostras de dois meteoritos . O caso importa para a diferença entre uma descoberta promissora, a evidência disponível e o que ainda precisa de validação. O texto contextualiza o episódio com protagonistas, números e próximos passos já descritos na fonte, distinguindo fatos confirmados de declarações, estimativas ou efeitos ainda esperados."
     },
     "en": {
       "title": "Meteorites reveal a diversity of organic molecules",
       "summary": "High-resolution analyses found tens of thousands of molecules in samples from two meteorites.",
       "paragraphs": [
         "Researchers at the National High Magnetic Field Laboratory and Brookhaven National Laboratory combined mass spectrometry and microscopy to analyze samples from the Murchison and Aguas Zarcas meteorites. The study identified tens of thousands of carbon-based molecules in small samples.",
-        "Although the meteorites belong to the same family, their chemical signatures shared only a fraction of the complex compounds. The result expands the picture of organic chemistry in the early Solar System, but it does not show that the meteorites contain life."
-      ]
+        "Although the meteorites belong to the same family, their chemical signatures shared only a fraction of the complex compounds. The result expands the picture of organic chemistry in the early Solar System, but it does not show that the meteorites contain life.",
+        "Beyond the immediate event, the case helps explain the difference between a promising finding, the available evidence and what still needs validation. The complete source brings together the facts and positions needed to follow what happens next without treating estimates or statements as outcomes that have already been confirmed."
+      ],
+      "aiSummary": "The report explains that High-resolution analyses found tens of thousands of molecules in samples from two meteorites . The case matters for the difference between a promising finding, the available evidence and what still needs validation. It places the event in context with the protagonists, figures and next steps described by the source, distinguishing confirmed facts from statements, estimates or effects that are still expected."
     }
+  },
+  "rights": {
+    "mode": "original-report"
   }
 }

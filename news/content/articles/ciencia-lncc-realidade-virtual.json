@@ -17,16 +17,23 @@
       "summary": "Missão do LNCC na Alemanha combinou realidade virtual, IA e simulação em treinamentos e análise de riscos.",
       "paragraphs": [
         "O pesquisador Thiago Malheiros Porcino, do Laboratório Nacional de Computação Científica, realizou missão científica na Alemanha com apoio da Fundação Alexander von Humboldt. O trabalho tratou de realidade virtual, inteligência artificial, sustentabilidade e simulação.",
-        "Em colaboração com a Technische Universität München, ele desenvolveu e testou simuladores imersivos que usam telemetria para analisar desempenho e decisões em cenários logísticos. A missão também apresentou um projeto do LNCC que aplica IA e sensoriamento remoto à análise de desastres na Região Serrana do Rio de Janeiro."
-      ]
+        "Em colaboração com a Technische Universität München, ele desenvolveu e testou simuladores imersivos que usam telemetria para analisar desempenho e decisões em cenários logísticos. A missão também apresentou um projeto do LNCC que aplica IA e sensoriamento remoto à análise de desastres na Região Serrana do Rio de Janeiro.",
+        "Além do fato imediato, o caso ajuda a entender a diferença entre uma descoberta promissora, a evidência disponível e o que ainda precisa de validação. A leitura completa da fonte reúne os dados e as posições que permitem acompanhar o desdobramento sem transformar estimativas ou declarações em resultados já confirmados."
+      ],
+      "aiSummary": "A reportagem explica que Missão do LNCC na Alemanha combinou realidade virtual, IA e simulação em treinamentos e análise de riscos . O caso importa para a diferença entre uma descoberta promissora, a evidência disponível e o que ainda precisa de validação. O texto contextualiza o episódio com protagonistas, números e próximos passos já descritos na fonte, distinguindo fatos confirmados de declarações, estimativas ou efeitos ainda esperados."
     },
     "en": {
       "title": "Brazilian research tests virtual reality for sustainable logistics",
       "summary": "An LNCC mission in Germany combined virtual reality, AI and simulation for training and risk analysis.",
       "paragraphs": [
         "Thiago Malheiros Porcino, a researcher at Brazil's National Laboratory for Scientific Computing, carried out a scientific mission in Germany with support from the Alexander von Humboldt Foundation. The work covered virtual reality, artificial intelligence, sustainability and simulation.",
-        "Working with the Technical University of Munich, he developed and tested immersive simulators that use telemetry to analyze performance and decisions in logistics scenarios. The mission also presented an LNCC project using AI and remote sensing to analyze natural-disaster risks in Rio de Janeiro's mountainous region."
-      ]
+        "Working with the Technical University of Munich, he developed and tested immersive simulators that use telemetry to analyze performance and decisions in logistics scenarios. The mission also presented an LNCC project using AI and remote sensing to analyze natural-disaster risks in Rio de Janeiro's mountainous region.",
+        "Beyond the immediate event, the case helps explain the difference between a promising finding, the available evidence and what still needs validation. The complete source brings together the facts and positions needed to follow what happens next without treating estimates or statements as outcomes that have already been confirmed."
+      ],
+      "aiSummary": "The report explains that An LNCC mission in Germany combined virtual reality, AI and simulation for training and risk analysis . The case matters for the difference between a promising finding, the available evidence and what still needs validation. It places the event in context with the protagonists, figures and next steps described by the source, distinguishing confirmed facts from statements, estimates or effects that are still expected."
     }
+  },
+  "rights": {
+    "mode": "original-report"
   }
 }

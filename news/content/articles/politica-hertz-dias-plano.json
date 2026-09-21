@@ -17,16 +17,23 @@
       "summary": "Plano do candidato do PSTU defende jornada de 36 horas e revogação de reformas.",
       "paragraphs": [
         "O plano de Hertz Dias, do PSTU, coloca o fim da escala 6x1, sem redução salarial, e a jornada de 36 horas entre as prioridades.",
-        "O programa também defende revogar reformas trabalhista e previdenciária, reestatizar empresas e ampliar o investimento público em saúde."
-      ]
+        "O programa também defende revogar reformas trabalhista e previdenciária, reestatizar empresas e ampliar o investimento público em saúde.",
+        "Além do fato imediato, o caso ajuda a entender as escolhas institucionais, eleitorais e de governo que podem alterar políticas públicas. A leitura completa da fonte reúne os dados e as posições que permitem acompanhar o desdobramento sem transformar estimativas ou declarações em resultados já confirmados."
+      ],
+      "aiSummary": "A reportagem explica que Plano do candidato do PSTU defende jornada de 36 horas e revogação de reformas . O caso importa para as escolhas institucionais, eleitorais e de governo que podem alterar políticas públicas. O texto contextualiza o episódio com protagonistas, números e próximos passos já descritos na fonte, distinguindo fatos confirmados de declarações, estimativas ou efeitos ainda esperados."
     },
     "en": {
       "title": "Ending the six-day work schedule is a priority for Hertz Dias",
       "summary": "The PSTU candidate's platform supports a 36-hour week and repealing reforms.",
       "paragraphs": [
         "Hertz Dias's platform, from the PSTU, makes ending the six-day work schedule without a pay cut and adopting a 36-hour week priorities.",
-        "The program also supports repealing labor and pension reforms, renationalizing companies and increasing public investment in health."
-      ]
+        "The program also supports repealing labor and pension reforms, renationalizing companies and increasing public investment in health.",
+        "Beyond the immediate event, the case helps explain the institutional, electoral and governing choices that can change public policy. The complete source brings together the facts and positions needed to follow what happens next without treating estimates or statements as outcomes that have already been confirmed."
+      ],
+      "aiSummary": "The report explains that The PSTU candidate's platform supports a 36-hour week and repealing reforms . The case matters for the institutional, electoral and governing choices that can change public policy. It places the event in context with the protagonists, figures and next steps described by the source, distinguishing confirmed facts from statements, estimates or effects that are still expected."
     }
+  },
+  "rights": {
+    "mode": "original-report"
   }
 }

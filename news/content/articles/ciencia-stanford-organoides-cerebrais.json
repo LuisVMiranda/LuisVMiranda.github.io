@@ -22,16 +22,23 @@
       "summary": "Equipe de Stanford transplantou tecido cerebral cultivado em laboratório para estudar doenças do desenvolvimento.",
       "paragraphs": [
         "Pesquisadores de Stanford transplantaram organoides corticais humanos, cultivados em laboratório, para camundongos cuja maior parte do córtex havia sido removida por engenharia genética. O tecido sobreviveu, cresceu e formou conexões com o cérebro do animal e a medula espinhal.",
-        "O estudo publicado na Nature encontrou um tipo de célula nervosa que não havia sido observado em cultura e só era conhecido em autópsias humanas. O modelo pode apoiar pesquisas sobre esquizofrenia, epilepsia, autismo e paralisia cerebral, mas não é tratamento clínico."
-      ]
+        "O estudo publicado na Nature encontrou um tipo de célula nervosa que não havia sido observado em cultura e só era conhecido em autópsias humanas. O modelo pode apoiar pesquisas sobre esquizofrenia, epilepsia, autismo e paralisia cerebral, mas não é tratamento clínico.",
+        "Além do fato imediato, o caso ajuda a entender a diferença entre uma descoberta promissora, a evidência disponível e o que ainda precisa de validação. A leitura completa da fonte reúne os dados e as posições que permitem acompanhar o desdobramento sem transformar estimativas ou declarações em resultados já confirmados."
+      ],
+      "aiSummary": "A reportagem explica que Equipe de Stanford transplantou tecido cerebral cultivado em laboratório para estudar doenças do desenvolvimento . O caso importa para a diferença entre uma descoberta promissora, a evidência disponível e o que ainda precisa de validação. O texto contextualiza o episódio com protagonistas, números e próximos passos já descritos na fonte, distinguindo fatos confirmados de declarações, estimativas ou efeitos ainda esperados."
     },
     "en": {
       "title": "Human brain organoids form connections in a mouse model",
       "summary": "A Stanford team transplanted lab-grown brain tissue to study developmental disorders.",
       "paragraphs": [
         "Stanford researchers transplanted human cortical organoids grown in the laboratory into mice whose cerebral cortex had largely been removed through genetic engineering. The tissue survived, grew and formed connections with the animals' brains and spinal cords.",
-        "The Nature study found a nerve-cell type not previously seen in culture and previously known only from human autopsies. The model may support research into schizophrenia, epilepsy, autism and cerebral palsy, but it is not a clinical treatment."
-      ]
+        "The Nature study found a nerve-cell type not previously seen in culture and previously known only from human autopsies. The model may support research into schizophrenia, epilepsy, autism and cerebral palsy, but it is not a clinical treatment.",
+        "Beyond the immediate event, the case helps explain the difference between a promising finding, the available evidence and what still needs validation. The complete source brings together the facts and positions needed to follow what happens next without treating estimates or statements as outcomes that have already been confirmed."
+      ],
+      "aiSummary": "The report explains that A Stanford team transplanted lab-grown brain tissue to study developmental disorders . The case matters for the difference between a promising finding, the available evidence and what still needs validation. It places the event in context with the protagonists, figures and next steps described by the source, distinguishing confirmed facts from statements, estimates or effects that are still expected."
     }
+  },
+  "rights": {
+    "mode": "original-report"
   }
 }

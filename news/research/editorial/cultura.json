@@ -1,6 +1,6 @@
 {
   "section": "cultura",
-  "cutoff": "2026-09-20T00:38:06.402Z",
+  "cutoff": "2026-09-21T01:50:54.389Z",
   "queries": [
     "Cultura notícias Brasil",
     "Culture latest news Brazil",
@@ -16,71 +16,111 @@
       "articleId": "cultura-shostakovich-radio-mec",
       "url": "https://agenciabrasil.ebc.com.br/cultura/noticia/2026-09/caderno-de-musica-lembra-120-anos-de-nascimento-de-dmitri-shostakovich",
       "publishedAt": "2026-09-19T18:00:00-03:00",
-      "evidence": "A página original informa publicação em 19/09/2026 às 18h e anuncia a edição de domingo do Caderno de Música, com os 120 anos de Shostakovich e trechos de três obras do compositor.",
-      "selectionReason": "Notícia cultural publicada dentro das últimas 24 horas, com programação musical identificável e informações verificáveis na fonte da EBC."
+      "evidence": "A página original informa publicação em 19/09/2026 às 18h e anuncia a edição de domingo do Caderno de Música, com os 120 anos de Shostakovich e trechos de três obras do compositor. A recuperação direta da página original foi registrada no run privado, com corpo completo acessível e conferência de data, título e conteúdo.",
+      "selectionReason": "Notícia cultural publicada dentro das últimas 24 horas, com programação musical identificável e informações verificáveis na fonte da EBC.",
+      "contentReview": {
+        "bodyComplete": true,
+        "aiSummaryReviewed": true
+      }
     },
     {
       "articleId": "cultura-radio-mec-filarmonica-mg",
       "url": "https://agenciabrasil.ebc.com.br/cultura/noticia/2026-09/radio-mec-transmite-domingo-o-concerto-da-orquestra-filarmonica-de-mg",
       "publishedAt": "2026-09-19T16:14:00-03:00",
-      "evidence": "A publicação original informa 19/09/2026 às 16h14 e descreve a transmissão de domingo da série Concertos para a Juventude, com regência de José Soares, dois solistas e repertório de seis compositores.",
-      "selectionReason": "Programação musical pública de alcance nacional, publicada no mesmo dia do corte e apoiada por detalhes de serviço e repertório."
+      "evidence": "A publicação original informa 19/09/2026 às 16h14 e descreve a transmissão de domingo da série Concertos para a Juventude, com regência de José Soares, dois solistas e repertório de seis compositores. A recuperação direta da página original foi registrada no run privado, com corpo completo acessível e conferência de data, título e conteúdo.",
+      "selectionReason": "Programação musical pública de alcance nacional, publicada no mesmo dia do corte e apoiada por detalhes de serviço e repertório.",
+      "contentReview": {
+        "bodyComplete": true,
+        "aiSummaryReviewed": true
+      }
     },
     {
       "articleId": "cultura-gabi-terra-duelo-guitarras",
       "url": "https://agenciabrasil.ebc.com.br/cultura/noticia/2026-09/gabi-terra-e-destaque-do-reality-duelo-de-guitarras-na-tv-brasil",
       "publishedAt": "2026-09-19T09:05:00-03:00",
-      "evidence": "A página original informa publicação em 19/09/2026 às 9h05 e relata o episódio do Duelo de Guitarras com Gabi Terra, suas disputas de blues e heavy metal e o formato de 16 episódios.",
-      "selectionReason": "Cobertura de produção cultural brasileira publicada nas últimas 24 horas, com artista, formato e horário de exibição confirmados."
+      "evidence": "A página original informa publicação em 19/09/2026 às 9h05 e relata o episódio do Duelo de Guitarras com Gabi Terra, suas disputas de blues e heavy metal e o formato de 16 episódios. A recuperação direta da página original foi registrada no run privado, com corpo completo acessível e conferência de data, título e conteúdo.",
+      "selectionReason": "Cobertura de produção cultural brasileira publicada nas últimas 24 horas, com artista, formato e horário de exibição confirmados.",
+      "contentReview": {
+        "bodyComplete": true,
+        "aiSummaryReviewed": true
+      }
     },
     {
       "articleId": "cultura-primavera-museus",
       "url": "https://www.gov.br/museus/pt-br/comunicados-defeso-eleitoral/20a-primavera-dos-museus-comeca-nesta-segunda-feira-em-todo-o-brasil",
       "publishedAt": "2026-09-18T08:35:00-03:00",
-      "evidence": "O Ibram informa publicação em 18/09/2026 às 8h35, atualização às 14h04 e programação nacional de 21 a 27 de setembro, com o tema Museus para Todas as Pessoas e cerca de 2.700 atividades cadastradas.",
-      "selectionReason": "Evento cultural nacional iminente, confirmado por instituição pública responsável e relevante para acesso, memória e participação."
+      "evidence": "O Ibram informa publicação em 18/09/2026 às 8h35, atualização às 14h04 e programação nacional de 21 a 27 de setembro, com o tema Museus para Todas as Pessoas e cerca de 2.700 atividades cadastradas. A recuperação direta da página original foi registrada no run privado, com corpo completo acessível e conferência de data, título e conteúdo.",
+      "selectionReason": "Evento cultural nacional iminente, confirmado por instituição pública responsável e relevante para acesso, memória e participação.",
+      "contentReview": {
+        "bodyComplete": true,
+        "aiSummaryReviewed": true
+      }
     },
     {
       "articleId": "cultura-escolas-livres-cultura",
       "url": "https://www.gov.br/cultura/pt-br/assuntos/noticias-defeso-eleitoral/minc-divulga-etapa-da-analise-da-certificacao-do-ii-edital-de-escolas-livres-de-formacao-em-arte-e-cultura",
       "publishedAt": "2026-09-18T14:35:00-03:00",
-      "evidence": "O MinC informa publicação em 18/09/2026 às 14h35, atualização às 14h37, prazo de recursos até 22 de setembro e cronograma da certificação de organizações sem fins lucrativos.",
-      "selectionReason": "Decisão administrativa com impacto direto em organizações culturais e prazo de participação aberto no momento do corte."
+      "evidence": "O MinC informa publicação em 18/09/2026 às 14h35, atualização às 14h37, prazo de recursos até 22 de setembro e cronograma da certificação de organizações sem fins lucrativos. A recuperação direta da página original foi registrada no run privado, com corpo completo acessível e conferência de data, título e conteúdo.",
+      "selectionReason": "Decisão administrativa com impacto direto em organizações culturais e prazo de participação aberto no momento do corte.",
+      "contentReview": {
+        "bodyComplete": true,
+        "aiSummaryReviewed": true
+      }
     },
     {
       "articleId": "cultura-biblioteca-publicacoes-historicas",
       "url": "https://agenciabrasil.ebc.com.br/cultura/noticia/2026-09/publicacoes-historicas-sao-devolvidas-biblioteca-nacional",
       "publishedAt": "2026-09-17T20:41:00-03:00",
-      "evidence": "A Agência Brasil informa publicação em 17/09/2026 às 20h41 e descreve a reintegração de 164 publicações, a análise de 217 itens e a recuperação das peças pela Polícia Federal em 2020.",
-      "selectionReason": "Caso de preservação e restituição de patrimônio bibliográfico com números, procedimento e decisão judicial confirmados na reportagem."
+      "evidence": "A Agência Brasil informa publicação em 17/09/2026 às 20h41 e descreve a reintegração de 164 publicações, a análise de 217 itens e a recuperação das peças pela Polícia Federal em 2020. A recuperação direta da página original foi registrada no run privado, com corpo completo acessível e conferência de data, título e conteúdo.",
+      "selectionReason": "Caso de preservação e restituição de patrimônio bibliográfico com números, procedimento e decisão judicial confirmados na reportagem.",
+      "contentReview": {
+        "bodyComplete": true,
+        "aiSummaryReviewed": true
+      }
     },
     {
       "articleId": "cultura-leci-brandao-grammy",
       "url": "https://agenciabrasil.ebc.com.br/cultura/noticia/2026-09/aos-82-anos-leci-brandao-e-indicada-ao-grammy-latino",
       "publishedAt": "2026-09-17T15:06:00-03:00",
-      "evidence": "A reportagem original informa publicação em 17/09/2026 às 15h06 e registra a indicação de Leci Brandão ao Grammy Latino 2026 na categoria Melhor Álbum de Samba/Pagode.",
-      "selectionReason": "Reconhecimento internacional de artista brasileira e lançamento musical recente, com categoria e contexto de carreira informados pela fonte."
+      "evidence": "A reportagem original informa publicação em 17/09/2026 às 15h06 e registra a indicação de Leci Brandão ao Grammy Latino 2026 na categoria Melhor Álbum de Samba/Pagode. A recuperação direta da página original foi registrada no run privado, com corpo completo acessível e conferência de data, título e conteúdo.",
+      "selectionReason": "Reconhecimento internacional de artista brasileira e lançamento musical recente, com categoria e contexto de carreira informados pela fonte.",
+      "contentReview": {
+        "bodyComplete": true,
+        "aiSummaryReviewed": true
+      }
     },
     {
       "articleId": "cultura-cineastas-indigenas-editais",
       "url": "https://agenciabrasil.ebc.com.br/cultura/noticia/2026-09/pesquisa-mostra-desafio-de-cineastas-indigenas-para-financiar-filmes",
       "publishedAt": "2026-09-17T12:32:00-03:00",
-      "evidence": "A página original informa publicação em 17/09/2026 às 12h32 e apresenta pesquisa da Rede Katahirine com 60 cineastas de 40 povos, incluindo as taxas de desistência e motivos relatados.",
-      "selectionReason": "Reportagem de interesse público sobre financiamento e representação no audiovisual indígena, sustentada por pesquisa e dados explícitos."
+      "evidence": "A página original informa publicação em 17/09/2026 às 12h32 e apresenta pesquisa da Rede Katahirine com 60 cineastas de 40 povos, incluindo as taxas de desistência e motivos relatados. A recuperação direta da página original foi registrada no run privado, com corpo completo acessível e conferência de data, título e conteúdo.",
+      "selectionReason": "Reportagem de interesse público sobre financiamento e representação no audiovisual indígena, sustentada por pesquisa e dados explícitos.",
+      "contentReview": {
+        "bodyComplete": true,
+        "aiSummaryReviewed": true
+      }
     },
     {
       "articleId": "cultura-artrio-78-galerias",
       "url": "https://agenciabrasil.ebc.com.br/cultura/noticia/2026-09/com-78-galerias-artrio-traz-obras-ineditas",
       "publishedAt": "2026-09-16T19:12:00-03:00",
-      "evidence": "A Agência Brasil informa publicação em 16/09/2026 às 19h12 e descreve a 16ª ArtRio, com 78 galerias, obras inéditas e a programação paralela da primeira Semana de Arte do Rio.",
-      "selectionReason": "Evento de artes visuais em andamento, dentro da janela de sete dias, com escala, local e programação confirmados."
+      "evidence": "A Agência Brasil informa publicação em 16/09/2026 às 19h12 e descreve a 16ª ArtRio, com 78 galerias, obras inéditas e a programação paralela da primeira Semana de Arte do Rio. A recuperação direta da página original foi registrada no run privado, com corpo completo acessível e conferência de data, título e conteúdo.",
+      "selectionReason": "Evento de artes visuais em andamento, dentro da janela de sete dias, com escala, local e programação confirmados.",
+      "contentReview": {
+        "bodyComplete": true,
+        "aiSummaryReviewed": true
+      }
     },
     {
       "articleId": "cultura-feito-pipa-oscar",
       "url": "https://agenciabrasil.ebc.com.br/cultura/noticia/2026-09/filme-feito-pipa-e-escolhido-para-representar-brasil-no-oscar-2027",
       "publishedAt": "2026-09-16T17:04:00-03:00",
-      "evidence": "A página original informa publicação em 16/09/2026 às 17h04 e relata a escolha de Feito Pipa entre seis pré-finalistas, além dos prêmios recebidos no Festival de Gramado.",
-      "selectionReason": "Decisão nacional de alto interesse no cinema, com representante brasileiro, processo de seleção e premiações descritos pela fonte."
+      "evidence": "A página original informa publicação em 16/09/2026 às 17h04 e relata a escolha de Feito Pipa entre seis pré-finalistas, além dos prêmios recebidos no Festival de Gramado. A recuperação direta da página original foi registrada no run privado, com corpo completo acessível e conferência de data, título e conteúdo.",
+      "selectionReason": "Decisão nacional de alto interesse no cinema, com representante brasileiro, processo de seleção e premiações descritos pela fonte.",
+      "contentReview": {
+        "bodyComplete": true,
+        "aiSummaryReviewed": true
+      }
     }
   ],
   "shortfall": {
@@ -90,5 +130,8 @@
   "improvements": [
     "A busca inicial do run retornou apenas candidatos sem data confirmada ou sem relação suficiente com Cultura; a revisão expandiu as consultas para Agência Brasil, Ibram, MinC e Iphan.",
     "A seleção prioriza três publicações das últimas 24 horas e amplia a janela até sete dias para completar dez histórias com fonte original verificável."
-  ]
+  ],
+  "candidateRun": "research/runs/2026-09-21T01-50-54-389Z-6be61b14-2359-4471-ba3a-c9604ea7effa",
+  "retrievedAt": "2026-09-21T02:05:00Z",
+  "reviewStatus": "draft-source-verified-no-publication-approval"
 }

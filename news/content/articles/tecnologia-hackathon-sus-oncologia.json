@@ -17,16 +17,23 @@
       "summary": "Três equipes apresentaram tecnologias para triagem, diagnóstico e apoio a cirurgias no SUS.",
       "paragraphs": [
         "A etapa Nordeste do Hackathon SUS ocorreu em Recife nos dias 10 e 11 de setembro, sob coordenação da Secretaria de Ciência, Tecnologia e Inovação em Saúde. Três startups foram selecionadas para a fase nacional do desafio tecnológico em oncologia.",
-        "As propostas incluem uma câmera microscópica para triagem de anemia e neutropenia, um teste molecular que identifica 14 subtipos de HPV e um dispositivo sem fio de imagens de fluorescência para apoiar exames e cirurgias."
-      ]
+        "As propostas incluem uma câmera microscópica para triagem de anemia e neutropenia, um teste molecular que identifica 14 subtipos de HPV e um dispositivo sem fio de imagens de fluorescência para apoiar exames e cirurgias.",
+        "Além do fato imediato, o caso ajuda a entender a forma como inovação digital, inteligência artificial e regulação estão mudando instituições e serviços. A leitura completa da fonte reúne os dados e as posições que permitem acompanhar o desdobramento sem transformar estimativas ou declarações em resultados já confirmados."
+      ],
+      "aiSummary": "A reportagem explica que Três equipes apresentaram tecnologias para triagem, diagnóstico e apoio a cirurgias no SUS . O caso importa para a forma como inovação digital, inteligência artificial e regulação estão mudando instituições e serviços. O texto contextualiza o episódio com protagonistas, números e próximos passos já descritos na fonte, distinguindo fatos confirmados de declarações, estimativas ou efeitos ainda esperados."
     },
     "en": {
       "title": "Brazil's SUS hackathon selects Northeast oncology startups",
       "summary": "Three teams presented technologies for screening, diagnosis and surgical support in the public system.",
       "paragraphs": [
         "The Northeast stage of Brazil's SUS Hackathon took place in Recife on September 10 and 11 under the Health Science, Technology and Innovation Secretariat. Three startups were selected for the national stage of the oncology technology challenge.",
-        "Their proposals include a microscopic camera for anemia and neutropenia screening, a molecular test that identifies 14 HPV subtypes, and a wireless fluorescence-imaging device to support examinations and surgery."
-      ]
+        "Their proposals include a microscopic camera for anemia and neutropenia screening, a molecular test that identifies 14 HPV subtypes, and a wireless fluorescence-imaging device to support examinations and surgery.",
+        "Beyond the immediate event, the case helps explain how digital innovation, artificial intelligence and regulation are changing institutions and services. The complete source brings together the facts and positions needed to follow what happens next without treating estimates or statements as outcomes that have already been confirmed."
+      ],
+      "aiSummary": "The report explains that Three teams presented technologies for screening, diagnosis and surgical support in the public system . The case matters for how digital innovation, artificial intelligence and regulation are changing institutions and services. It places the event in context with the protagonists, figures and next steps described by the source, distinguishing confirmed facts from statements, estimates or effects that are still expected."
     }
+  },
+  "rights": {
+    "mode": "original-report"
   }
 }

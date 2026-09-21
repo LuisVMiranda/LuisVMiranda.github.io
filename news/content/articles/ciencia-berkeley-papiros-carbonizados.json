@@ -22,16 +22,23 @@
       "summary": "Equipe da UC Berkeley mostrou que chumbo na tinta aumenta o contraste de letras em tomografias.",
       "paragraphs": [
         "Pesquisadores da UC Berkeley e do NIST criaram e carbonizaram um modelo de papiro para estudar como ler os rolos preservados pela erupção do Vesúvio em Herculano. Em artigo na PLOS ONE, eles mostraram que pequenas quantidades de chumbo fazem as letras absorverem muito mais raios X que o papiro carbonizado.",
-        "A equipe conseguiu desenrolar virtualmente o modelo com tomografia e também detectou o chumbo com um scanner portátil de fluorescência de raios X. O resultado é uma prova de conceito para selecionar rolos antigos com maior chance de leitura, não a leitura de um rolo original."
-      ]
+        "A equipe conseguiu desenrolar virtualmente o modelo com tomografia e também detectou o chumbo com um scanner portátil de fluorescência de raios X. O resultado é uma prova de conceito para selecionar rolos antigos com maior chance de leitura, não a leitura de um rolo original.",
+        "Além do fato imediato, o caso ajuda a entender a diferença entre uma descoberta promissora, a evidência disponível e o que ainda precisa de validação. A leitura completa da fonte reúne os dados e as posições que permitem acompanhar o desdobramento sem transformar estimativas ou declarações em resultados já confirmados."
+      ],
+      "aiSummary": "A reportagem explica que Equipe da UC Berkeley mostrou que chumbo na tinta aumenta o contraste de letras em tomografias . O caso importa para a diferença entre uma descoberta promissora, a evidência disponível e o que ainda precisa de validação. O texto contextualiza o episódio com protagonistas, números e próximos passos já descritos na fonte, distinguindo fatos confirmados de declarações, estimativas ou efeitos ainda esperados."
     },
     "en": {
       "title": "Carbonized-papyrus test helps locate ink readable by X-rays",
       "summary": "A UC Berkeley team showed that lead in ink increases the contrast of letters in tomography scans.",
       "paragraphs": [
         "Researchers at UC Berkeley and NIST made and carbonized a papyrus model to study how to read scrolls preserved by the eruption of Mount Vesuvius at Herculaneum. In a PLOS ONE paper, they showed that small amounts of lead make letters absorb far more X-rays than carbonized papyrus.",
-        "The team virtually unrolled the model with tomography and also detected lead with a handheld X-ray fluorescence scanner. The result is a proof of concept for selecting ancient scrolls more likely to be readable, not a reading of an original scroll."
-      ]
+        "The team virtually unrolled the model with tomography and also detected lead with a handheld X-ray fluorescence scanner. The result is a proof of concept for selecting ancient scrolls more likely to be readable, not a reading of an original scroll.",
+        "Beyond the immediate event, the case helps explain the difference between a promising finding, the available evidence and what still needs validation. The complete source brings together the facts and positions needed to follow what happens next without treating estimates or statements as outcomes that have already been confirmed."
+      ],
+      "aiSummary": "The report explains that A UC Berkeley team showed that lead in ink increases the contrast of letters in tomography scans . The case matters for the difference between a promising finding, the available evidence and what still needs validation. It places the event in context with the protagonists, figures and next steps described by the source, distinguishing confirmed facts from statements, estimates or effects that are still expected."
     }
+  },
+  "rights": {
+    "mode": "original-report"
   }
 }

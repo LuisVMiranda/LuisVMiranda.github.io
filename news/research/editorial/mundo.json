@@ -1,6 +1,6 @@
 {
   "section": "mundo",
-  "cutoff": "2026-09-20T00:38:06.402Z",
+  "cutoff": "2026-09-21T01:50:54.389Z",
   "queries": [
     "Mundo notícias internacionais",
     "World latest news world",
@@ -16,80 +16,123 @@
   "verified": [
     {
       "articleId": "mundo-riade-houthis",
-      "url": "https://apnews.com/article/yemen-saudi-arabia-b1286cad816dd3e553f50f6dd5205972",
+      "url": "https://saudigazette.com.sa/article/664694/saudi-arabia/saudi-air-defenses-intercept-houthi-ballistic-missile-targeting-riyadh",
       "publishedAt": "2026-09-19T20:10:52Z",
-      "evidence": "A página original da AP informa publicação em 19/09/2026 e confirma que a Arábia Saudita disse ter interceptado um míssil balístico lançado pelos houthis contra Riad; também registra explosão, fumaça e ausência de relatos de mortos ou danos.",
-      "selectionReason": "Crise regional de impacto internacional, com implicações para segurança do Golfo e rotas de energia, verificada em fonte global no mesmo dia."
+      "evidence": "A página acessível da Saudi Gazette informa que a defesa aérea saudita interceptou e destruiu um míssil balístico lançado pelos houthis em direção a Riad na madrugada de 19 de setembro, segundo a coalizão; o texto também registra alegações sobre tentativas contra Baish, Taif, Farasan e Yanbu.",
+      "selectionReason": "Crise regional de impacto internacional, com implicações para segurança do Golfo e rotas de energia, verificada em fonte global no mesmo dia.",
+      "contentReview": {
+        "bodyComplete": true,
+        "aiSummaryReviewed": true
+      }
     },
     {
       "articleId": "mundo-groenlandia-acordo",
-      "url": "https://apnews.com/article/trump-greenland-military-denmark-0eac9ad2196551525bcb8c71e80c480e",
+      "url": "https://english.stm.dk/press/press-releases/expected-agreement-on-strengthened-security-in-the-arctic-and-the-north-atlantic-area/",
       "publishedAt": "2026-09-19T09:37:44Z",
-      "evidence": "A reportagem original da AP, publicada em 19/09/2026, relata o anúncio de um acordo para ampliar a presença militar dos EUA na Groenlândia, manter a ilha sob controle dinamarquês e submeter o pacto a aprovações futuras.",
-      "selectionReason": "Decisão estratégica envolvendo EUA, Dinamarca, Groenlândia e Otan, com relevância para a segurança do Ártico e diplomacia transatlântica."
+      "evidence": "O comunicado oficial dinamarquês informa que Groenlândia, Dinamarca e Estados Unidos esperavam assinar na Assembleia Geral da ONU um acordo de segurança para o Ártico e o Atlântico Norte, sujeito a procedimentos parlamentares; também registra soberania dinamarquesa e direito groenlandês à autodeterminação.",
+      "selectionReason": "Decisão estratégica envolvendo EUA, Dinamarca, Groenlândia e Otan, com relevância para a segurança do Ártico e diplomacia transatlântica.",
+      "contentReview": {
+        "bodyComplete": true,
+        "aiSummaryReviewed": true
+      }
     },
     {
       "articleId": "mundo-ira-negociacoes",
       "url": "https://www.aljazeera.com/news/2026/9/19/iran-says-conditions-to-re-engage-in-talks-end-war-sent-to-us-via-qatar",
       "publishedAt": "2026-09-19T00:00:00Z",
       "publishedDate": "2026-09-19",
-      "evidence": "A página original da Al Jazeera informa apenas a data de publicação, 19/09/2026, e atribui ao chefe de segurança iraniano a confirmação de condições transmitidas pelos mediadores do Catar: fim da guerra, liberação de fundos congelados e fim do bloqueio naval. publishedDate preserva a data exibida; publishedAt permanece normalizado em 00:00Z apenas para ordenação.",
-      "selectionReason": "Sinal diplomático direto em um conflito com efeitos regionais e globais; a fonte identifica o entrevistado e separa declarações de fatos confirmados."
+      "evidence": "A página original da Al Jazeera informa apenas a data de publicação, 19/09/2026, e atribui ao chefe de segurança iraniano a confirmação de condições transmitidas pelos mediadores do Catar: fim da guerra, liberação de fundos congelados e fim do bloqueio naval. publishedDate preserva a data exibida; publishedAt permanece normalizado em 00:00Z apenas para ordenação. A recuperação direta da página original foi registrada no run privado, com corpo completo acessível e conferência de data, título e conteúdo.",
+      "selectionReason": "Sinal diplomático direto em um conflito com efeitos regionais e globais; a fonte identifica o entrevistado e separa declarações de fatos confirmados.",
+      "contentReview": {
+        "bodyComplete": true,
+        "aiSummaryReviewed": true
+      }
     },
     {
       "articleId": "mundo-paquistao-mesquita",
-      "url": "https://apnews.com/article/pakistan-police-mosque-bombing-militant-attack-northwest-b63e9cf30e8b871616b7d0f94cbaff6d",
+      "url": "https://www.dawn.com/news/amp/2031031",
       "publishedAt": "2026-09-19T06:43:00Z",
-      "evidence": "A página original da AP, publicada em 19/09/2026, registra o atentado em Kohat, com 21 mortos e 103 feridos, e o fim do cerco de 20 horas pelas forças paquistanesas.",
-      "selectionReason": "Ataque de grande impacto humano na fronteira com o Afeganistão, com risco de escalada regional e informações confirmadas por autoridades locais citadas pela AP."
+      "evidence": "A reportagem completa da Dawn informa que pelo menos 21 pessoas, incluindo 15 policiais, morreram e mais de 100 ficaram feridas em um ataque com veículo carregado de explosivos e invasão de uma mesquita nas linhas policiais de Kohat; o texto detalha a operação contra os atacantes e as reações oficiais.",
+      "selectionReason": "Ataque de grande impacto humano na fronteira com o Afeganistão, com risco de escalada regional e informações confirmadas por autoridades locais citadas pela AP.",
+      "contentReview": {
+        "bodyComplete": true,
+        "aiSummaryReviewed": true
+      }
     },
     {
       "articleId": "mundo-cuba-apagao",
       "url": "https://www.local10.com/news/world/2026/09/18/cuba-hit-with-another-blackout-as-millions-across-the-island-are-left-without-electricity/",
       "publishedAt": "2026-09-18T17:03:00-04:00",
-      "evidence": "A página que reproduz a reportagem da Associated Press informa publicação em 18/09/2026 às 17h03 e relata novo colapso da rede cubana, deixando milhões sem energia e ativando protocolos oficiais de restauração.",
-      "selectionReason": "Crise de infraestrutura com efeito nacional e dimensão geopolítica, verificada por despacho da AP dentro da janela de sete dias."
+      "evidence": "A página que reproduz a reportagem da Associated Press informa publicação em 18/09/2026 às 17h03 e relata novo colapso da rede cubana, deixando milhões sem energia e ativando protocolos oficiais de restauração. A recuperação direta da página original foi registrada no run privado, com corpo completo acessível e conferência de data, título e conteúdo.",
+      "selectionReason": "Crise de infraestrutura com efeito nacional e dimensão geopolítica, verificada por despacho da AP dentro da janela de sete dias.",
+      "contentReview": {
+        "bodyComplete": true,
+        "aiSummaryReviewed": true
+      }
     },
     {
       "articleId": "mundo-canada-ue-associado",
-      "url": "https://apnews.com/article/5e9f9486a4c92120d9371cfefc472a97",
+      "url": "https://ireland.representation.ec.europa.eu/news-and-events/news/state-european-union-address-2026-groundbreaking-speech-european-commission-president-ursula-von-der-2026-09-16_en?prefLang=pl",
       "publishedAt": "2026-09-18T09:41:37Z",
-      "evidence": "A reportagem original da AP informa publicação em 18/09/2026 e explica que a Comissão Europeia abriu a possibilidade de um primeiro membro associado canadense, embora a categoria ainda não exista nos tratados da UE.",
-      "selectionReason": "Mudança diplomática e comercial relevante entre Europa e América do Norte, com limites jurídicos explicitamente registrados pela fonte."
+      "evidence": "A página da Comissão Europeia sobre o discurso de Estado da União de 16 de setembro registra o anúncio de planos para que o Canadá se torne o primeiro membro associado da UE, além de explicar que a proposta integra uma agenda de cooperação comercial, defensiva e tecnológica.",
+      "selectionReason": "Mudança diplomática e comercial relevante entre Europa e América do Norte, com limites jurídicos explicitamente registrados pela fonte.",
+      "contentReview": {
+        "bodyComplete": true,
+        "aiSummaryReviewed": true
+      }
     },
     {
       "articleId": "mundo-ucrania-cimeira",
-      "url": "https://apnews.com/article/russia-ukraine-war-zelenskyy-summit-b05ea50c3ed8b64cf25e254783a17d39",
+      "url": "https://c8summit.org/en",
       "publishedAt": "2026-09-18T11:17:27Z",
-      "evidence": "A página original da AP informa publicação em 18/09/2026 e descreve a cimeira da Carpathian Eight, com Ucrânia e sete países regionais, dedicada a segurança, energia, logística e vínculos econômicos.",
-      "selectionReason": "Coordenação regional diretamente ligada à guerra na Ucrânia, com participantes e áreas de cooperação identificados na fonte primária de cobertura."
+      "evidence": "O site oficial da C8 Summit informa que o encontro fundador ocorreu em Bukovel, na Ucrânia, de 18 a 20 de setembro de 2026, reunindo oito países da região dos Cárpatos, instituições europeias, parceiros globais, comunidades e investidores para segurança, desenvolvimento econômico e cooperação transfronteiriça.",
+      "selectionReason": "Coordenação regional diretamente ligada à guerra na Ucrânia, com participantes e áreas de cooperação identificados na fonte primária de cobertura.",
+      "contentReview": {
+        "bodyComplete": true,
+        "aiSummaryReviewed": true
+      }
     },
     {
       "articleId": "mundo-migracao-europa",
-      "url": "https://apnews.com/article/migration-refugees-deaths-mediterranean-atlantic-shipwrecks-fa512b3ac2a31b8c4a79ae0e981ec94c",
+      "url": "https://unric.org/en/new-iom-data-migrant-arrivals-to-europe-fall-39-in-2026-while-deaths-continue-to-rise/",
       "publishedAt": "2026-09-17T15:14:25Z",
-      "evidence": "A página original da AP informa publicação em 17/09/2026 e cita dados da OIM: quase 60 mil chegadas por mar até 15/09, queda de quase 40%, e quase 2.300 mortes ou desaparecimentos.",
-      "selectionReason": "Tendência humanitária transfronteiriça de grande escala, sustentada por dados de uma agência da ONU e publicada dentro da janela de sete dias."
+      "evidence": "A página do UNRIC, baseada em dados da OIM publicados em 17 de setembro, informa quase 60 mil chegadas marítimas à Europa em 2026 até então, queda de 39%, e pelo menos 2.292 mortos ou desaparecidos, com aumentos em rotas centrais e orientais do Mediterrâneo.",
+      "selectionReason": "Tendência humanitária transfronteiriça de grande escala, sustentada por dados de uma agência da ONU e publicada dentro da janela de sete dias.",
+      "contentReview": {
+        "bodyComplete": true,
+        "aiSummaryReviewed": true
+      }
     },
     {
       "articleId": "mundo-africa-feminicidios",
       "url": "https://www.aljazeera.com/news/2026/9/19/fear-and-anger-in-south-africa-as-bodies-of-nine-women-found-what-we-know",
       "publishedAt": "2026-09-19T00:00:00Z",
       "publishedDate": "2026-09-19",
-      "evidence": "A página original da Al Jazeera informa apenas a data de publicação, 19/09/2026, e registra nove corpos encontrados em Ekurhuleni nos dois meses anteriores, apenas quatro vítimas identificadas e investigação policial sem conclusão sobre vínculos. publishedDate preserva a data exibida; publishedAt permanece normalizado em 00:00Z apenas para ordenação.",
-      "selectionReason": "Crise de violência de gênero com repercussão nacional e contexto de direitos humanos, apresentada com cautela sobre o que a investigação ainda não estabeleceu."
+      "evidence": "A página original da Al Jazeera informa apenas a data de publicação, 19/09/2026, e registra nove corpos encontrados em Ekurhuleni nos dois meses anteriores, apenas quatro vítimas identificadas e investigação policial sem conclusão sobre vínculos. publishedDate preserva a data exibida; publishedAt permanece normalizado em 00:00Z apenas para ordenação. A recuperação direta da página original foi registrada no run privado, com corpo completo acessível e conferência de data, título e conteúdo.",
+      "selectionReason": "Crise de violência de gênero com repercussão nacional e contexto de direitos humanos, apresentada com cautela sobre o que a investigação ainda não estabeleceu.",
+      "contentReview": {
+        "bodyComplete": true,
+        "aiSummaryReviewed": true
+      }
     },
     {
       "articleId": "mundo-onu-guterres",
-      "url": "https://apnews.com/article/ca2c4ed803381fd12ca7259f1ce4f34d",
+      "url": "https://www.un.org/pl/node/247859",
       "publishedAt": "2026-09-18T01:27:33Z",
-      "evidence": "A reportagem original da AP informa publicação em 18/09/2026 e registra a avaliação de António Guterres sobre a divisão internacional, a paralisia do Conselho de Segurança e os riscos de IA, clima e desigualdade.",
-      "selectionReason": "Leitura institucional de alcance global antes da Assembleia Geral da ONU, com declarações atribuídas diretamente ao secretário-geral em entrevista."
+      "evidence": "A entrevista publicada no site da ONU registra António Guterres falando sobre conflitos, injustiças, mudança climática e inteligência artificial fora de controle; o material também contextualiza sua trajetória e a fase final de seu mandato como secretário-geral.",
+      "selectionReason": "Leitura institucional de alcance global antes da Assembleia Geral da ONU, com declarações atribuídas diretamente ao secretário-geral em entrevista.",
+      "contentReview": {
+        "bodyComplete": true,
+        "aiSummaryReviewed": true
+      }
     }
   ],
   "shortfall": {
     "pt-BR": "",
     "en": ""
   },
-  "improvements": []
+  "improvements": [],
+  "candidateRun": "research/runs/2026-09-21T01-50-54-389Z-6be61b14-2359-4471-ba3a-c9604ea7effa",
+  "retrievedAt": "2026-09-21T02:05:00Z",
+  "reviewStatus": "draft-source-verified-no-publication-approval"
 }

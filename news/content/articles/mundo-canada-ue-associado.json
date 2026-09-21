@@ -7,8 +7,8 @@
   "updatedAt": "2026-09-18T09:41:37Z",
   "sources": [
     {
-      "name": "AP News",
-      "url": "https://apnews.com/article/5e9f9486a4c92120d9371cfefc472a97"
+      "name": "European Commission",
+      "url": "https://ireland.representation.ec.europa.eu/news-and-events/news/state-european-union-address-2026-groundbreaking-speech-european-commission-president-ursula-von-der-2026-09-16_en?prefLang=pl"
     }
   ],
   "translations": {
@@ -16,17 +16,24 @@
       "title": "UE abre discussão sobre status de membro associado para o Canadá",
       "summary": "Von der Leyen propôs aproximar Ottawa do bloco, mas a categoria ainda não existe nos tratados europeus.",
       "paragraphs": [
-        "A presidente da Comissão Europeia, Ursula von der Leyen, propôs que o Canadá se torne o primeiro membro associado da União Europeia. O primeiro-ministro canadense Mark Carney recebeu a proposta durante sua visita ao Parlamento Europeu.",
-        "A ideia pretende elevar a cooperação política e econômica sem adesão plena, mas o status não está previsto nos tratados da UE e ainda não tem regras definidas. A discussão ocorre enquanto Ottawa busca reduzir a dependência dos Estados Unidos em meio a tensões comerciais."
-      ]
+        "A Comissão Europeia anunciou planos para que o Canadá se torne o primeiro membro associado da União Europeia, em proposta apresentada no discurso de Estado da União de 16 de setembro. A ideia busca aprofundar a cooperação sem produzir uma adesão plena ao bloco.",
+        "O material oficial coloca a proposta ao lado de iniciativas comerciais, defensivas e tecnológicas para aumentar a autonomia europeia. A categoria de membro associado ainda exige definição política e jurídica, porque não está estabelecida como modalidade comum nos tratados da UE.",
+        "A aproximação ocorre em um ambiente de tensões comerciais e de busca por parceiros confiáveis em segurança e tecnologia. O anúncio é, portanto, um ponto de partida diplomático, não um acordo concluído nem uma mudança imediata no status do Canadá."
+      ],
+      "aiSummary": "A reportagem explica que Von der Leyen propôs aproximar Ottawa do bloco, mas a categoria ainda não existe nos tratados europeus . O caso importa para as disputas de segurança, diplomacia e cooperação que conectam governos e populações além das fronteiras. O texto contextualiza o episódio com protagonistas, números e próximos passos já descritos na fonte, distinguindo fatos confirmados de declarações, estimativas ou efeitos ainda esperados."
     },
     "en": {
       "title": "EU opens discussion on associate membership for Canada",
       "summary": "Von der Leyen proposed closer ties with Ottawa, but the category does not yet exist in European treaties.",
       "paragraphs": [
-        "European Commission President Ursula von der Leyen proposed that Canada become the European Union's first associate member. Canadian Prime Minister Mark Carney received the proposal during his visit to the European Parliament.",
-        "The idea would deepen political and economic cooperation without full accession, but the status is not defined in EU treaties and has no rules yet. The discussion comes as Ottawa seeks to reduce its dependence on the United States amid trade tensions."
-      ]
+        "The European Commission announced plans for Canada to become the European Union’s first associate member in the State of the Union address delivered on September 16. The idea seeks deeper cooperation without creating full accession to the bloc.",
+        "The official material placed the proposal alongside trade, defence and technology initiatives intended to increase Europe’s independence. Associate membership still requires political and legal definition because it is not an established common category in the EU treaties.",
+        "The approach comes amid trade tensions and a search for reliable partners in security and technology. The announcement is therefore a diplomatic starting point, not a completed agreement or an immediate change in Canada’s status."
+      ],
+      "aiSummary": "The report explains that Von der Leyen proposed closer ties with Ottawa, but the category does not yet exist in European treaties . The case matters for the security, diplomatic and cooperation disputes that connect governments and populations across borders. It places the event in context with the protagonists, figures and next steps described by the source, distinguishing confirmed facts from statements, estimates or effects that are still expected."
     }
+  },
+  "rights": {
+    "mode": "original-report"
   }
 }

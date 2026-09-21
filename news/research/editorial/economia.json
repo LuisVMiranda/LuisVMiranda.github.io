@@ -1,6 +1,6 @@
 {
   "section": "economia",
-  "cutoff": "2026-09-20T00:38:06.402Z",
+  "cutoff": "2026-09-21T01:50:54.389Z",
   "queries": [
     "Economia notícias Brasil",
     "Economy latest news Brazil",
@@ -13,76 +13,119 @@
       "articleId": "brasil-petrobras-subsidio-diesel",
       "url": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-09/petrobras-aprova-adesao-subvencao-ao-oleo-diesel",
       "publishedAt": "2026-09-19T17:55:00-03:00",
-      "evidence": "A página original informa publicação em 19/09/2026 às 17h55 e registra a aprovação da adesão da Petrobras à subvenção de R$ 1 por litro de diesel por 30 dias.",
-      "selectionReason": "Decisão econômica de efeito imediato sobre um combustível central para transporte e inflação; o ID já existe na editoria Brasil e é reutilizado para evitar duplicação da mesma fonte e evento."
+      "evidence": "A página original informa publicação em 19/09/2026 às 17h55 e registra a aprovação da adesão da Petrobras à subvenção de R$ 1 por litro de diesel por 30 dias. A recuperação direta da página original foi registrada no run privado, com corpo completo acessível e conferência de data, título e conteúdo.",
+      "selectionReason": "Decisão econômica de efeito imediato sobre um combustível central para transporte e inflação; o ID já existe na editoria Brasil e é reutilizado para evitar duplicação da mesma fonte e evento.",
+      "contentReview": {
+        "bodyComplete": true,
+        "aiSummaryReviewed": true
+      }
     },
     {
       "articleId": "economia-chongqing",
       "url": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-09/conheca-chongqing-metropole-chave-da-transformacao-economica-chinesa",
       "publishedAt": "2026-09-19T17:03:00-03:00",
-      "evidence": "A reportagem original informa publicação em 19/09/2026 às 17h03 e descreve Chongqing como polo industrial e logístico de 32 milhões de habitantes, com 39 das 41 grandes indústrias chinesas e conexões da Nova Rota da Seda.",
-      "selectionReason": "Desenvolvimento econômico internacional relevante para o Brasil por tratar da principal parceira comercial do país e da infraestrutura que conecta a produção chinesa aos mercados globais."
+      "evidence": "A reportagem original informa publicação em 19/09/2026 às 17h03 e descreve Chongqing como polo industrial e logístico de 32 milhões de habitantes, com 39 das 41 grandes indústrias chinesas e conexões da Nova Rota da Seda. A recuperação direta da página original foi registrada no run privado, com corpo completo acessível e conferência de data, título e conteúdo.",
+      "selectionReason": "Desenvolvimento econômico internacional relevante para o Brasil por tratar da principal parceira comercial do país e da infraestrutura que conecta a produção chinesa aos mercados globais.",
+      "contentReview": {
+        "bodyComplete": true,
+        "aiSummaryReviewed": true
+      }
     },
     {
       "articleId": "economia-pix-regras",
       "url": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-09/pix-tera-novas-regras-para-fraudes-cobranca-hibrida-e-contas-salario",
       "publishedAt": "2026-09-18T11:47:00-03:00",
-      "evidence": "A página original informa publicação em 18/09/2026 às 11h47 e detalha as novas regras do Banco Central para Pix Automático em contas-salário, cobrança híbrida e suspensão imediata em situações previstas.",
-      "selectionReason": "Mudança regulatória com impacto direto em pagamentos cotidianos, segurança financeira e funcionamento do sistema de pagamentos brasileiro."
+      "evidence": "A página original informa publicação em 18/09/2026 às 11h47 e detalha as novas regras do Banco Central para Pix Automático em contas-salário, cobrança híbrida e suspensão imediata em situações previstas. A recuperação direta da página original foi registrada no run privado, com corpo completo acessível e conferência de data, título e conteúdo.",
+      "selectionReason": "Mudança regulatória com impacto direto em pagamentos cotidianos, segurança financeira e funcionamento do sistema de pagamentos brasileiro.",
+      "contentReview": {
+        "bodyComplete": true,
+        "aiSummaryReviewed": true
+      }
     },
     {
       "articleId": "economia-caixa-greve",
       "url": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-09/trabalhadores-da-caixa-decidem-na-proxima-semana-sobre-fim-da-greve",
       "publishedAt": "2026-09-17T16:25:00-03:00",
-      "evidence": "A página original informa publicação em 17/09/2026 às 16h25 e registra a votação de 21 de setembro sobre a proposta para a greve da Caixa, incluindo a elevação da participação do banco no Saúde Caixa de 6,5% para 9% da folha.",
-      "selectionReason": "Negociação trabalhista em um banco público de grande alcance, com decisão próxima e efeitos sobre empregados, atendimento e custeio de saúde."
+      "evidence": "A página original informa publicação em 17/09/2026 às 16h25 e registra a votação de 21 de setembro sobre a proposta para a greve da Caixa, incluindo a elevação da participação do banco no Saúde Caixa de 6,5% para 9% da folha. A recuperação direta da página original foi registrada no run privado, com corpo completo acessível e conferência de data, título e conteúdo.",
+      "selectionReason": "Negociação trabalhista em um banco público de grande alcance, com decisão próxima e efeitos sobre empregados, atendimento e custeio de saúde.",
+      "contentReview": {
+        "bodyComplete": true,
+        "aiSummaryReviewed": true
+      }
     },
     {
       "articleId": "economia-brasil-soberano3",
       "url": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-09/brasil-soberano-3-comeca-a-receber-pedidos-de-emprestimos-de-empresas",
       "publishedAt": "2026-09-17T14:19:00-03:00",
-      "evidence": "A página original informa publicação em 17/09/2026 às 14h19 e descreve a abertura de pedidos para a terceira fase do Plano Brasil Soberano, com R$ 22,6 bilhões em crédito e juros entre 4,3% e 17,5% ao ano.",
-      "selectionReason": "Política de crédito com efeito sobre empresas expostas a tarifas dos EUA, guerra no Oriente Médio e setores considerados estratégicos para a economia brasileira."
+      "evidence": "A página original informa publicação em 17/09/2026 às 14h19 e descreve a abertura de pedidos para a terceira fase do Plano Brasil Soberano, com R$ 22,6 bilhões em crédito e juros entre 4,3% e 17,5% ao ano. A recuperação direta da página original foi registrada no run privado, com corpo completo acessível e conferência de data, título e conteúdo.",
+      "selectionReason": "Política de crédito com efeito sobre empresas expostas a tarifas dos EUA, guerra no Oriente Médio e setores considerados estratégicos para a economia brasileira.",
+      "contentReview": {
+        "bodyComplete": true,
+        "aiSummaryReviewed": true
+      }
     },
     {
       "articleId": "economia-petrobras-costa-marfim",
       "url": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-09/petrobras-vai-buscar-petroleo-na-margem-equatorial-da-costa-do-marfim",
       "publishedAt": "2026-09-17T10:35:00-03:00",
-      "evidence": "A reportagem original informa publicação em 17/09/2026 às 10h35 e registra o contrato de partilha para oito blocos offshore na Costa do Marfim, com 90% e operação pela Petrobras Netherlands B.V.",
-      "selectionReason": "Expansão internacional da estatal em petróleo e gás, com implicações para reservas, estratégia energética e presença econômica brasileira na África."
+      "evidence": "A reportagem original informa publicação em 17/09/2026 às 10h35 e registra o contrato de partilha para oito blocos offshore na Costa do Marfim, com 90% e operação pela Petrobras Netherlands B.V. A recuperação direta da página original foi registrada no run privado, com corpo completo acessível e conferência de data, título e conteúdo.",
+      "selectionReason": "Expansão internacional da estatal em petróleo e gás, com implicações para reservas, estratégia energética e presença econômica brasileira na África.",
+      "contentReview": {
+        "bodyComplete": true,
+        "aiSummaryReviewed": true
+      }
     },
     {
       "articleId": "economia-agricultura-2025",
       "url": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-09/producao-agricola-brasileira-superou-r-927-bilhoes-em-2025",
       "publishedAt": "2026-09-17T10:01:00-03:00",
-      "evidence": "A página original informa publicação em 17/09/2026 às 10h01 e apresenta os dados do IBGE para 2025: 345,4 milhões de toneladas, R$ 927,2 bilhões em valor da produção e soja responsável por 34% do total.",
-      "selectionReason": "Retrato estrutural de uma atividade central para produção, exportações e renda no Brasil, com números oficiais do IBGE."
+      "evidence": "A página original informa publicação em 17/09/2026 às 10h01 e apresenta os dados do IBGE para 2025: 345,4 milhões de toneladas, R$ 927,2 bilhões em valor da produção e soja responsável por 34% do total. A recuperação direta da página original foi registrada no run privado, com corpo completo acessível e conferência de data, título e conteúdo.",
+      "selectionReason": "Retrato estrutural de uma atividade central para produção, exportações e renda no Brasil, com números oficiais do IBGE.",
+      "contentReview": {
+        "bodyComplete": true,
+        "aiSummaryReviewed": true
+      }
     },
     {
       "articleId": "economia-bolsa-familia-reajuste",
       "url": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-09/bolsa-familia-e-reajustado-em-15-medida-vale-partir-de-outubro",
       "publishedAt": "2026-09-17T12:36:00-03:00",
-      "evidence": "A página original informa publicação em 17/09/2026 às 12h36 e registra o reajuste de 15%, o benefício mínimo de R$ 691, a média de R$ 777 e os efeitos financeiros a partir de 1º de outubro.",
-      "selectionReason": "Mudança de renda com efeito direto sobre famílias beneficiárias e sobre a preservação do poder de compra diante da inflação."
+      "evidence": "A página original informa publicação em 17/09/2026 às 12h36 e registra o reajuste de 15%, o benefício mínimo de R$ 691, a média de R$ 777 e os efeitos financeiros a partir de 1º de outubro. A recuperação direta da página original foi registrada no run privado, com corpo completo acessível e conferência de data, título e conteúdo.",
+      "selectionReason": "Mudança de renda com efeito direto sobre famílias beneficiárias e sobre a preservação do poder de compra diante da inflação.",
+      "contentReview": {
+        "bodyComplete": true,
+        "aiSummaryReviewed": true
+      }
     },
     {
       "articleId": "economia-fgv-recuo-pib",
       "url": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-09/economia-recua-04-na-passagem-de-junho-para-julho-estima-fgv",
       "publishedAt": "2026-09-17T17:05:00-03:00",
-      "evidence": "A página original informa publicação em 17/09/2026 às 17h05 e relata retração de 0,4% entre junho e julho, segundo o Monitor do PIB do Ibre-FGV, com alta de 1,8% em 12 meses.",
-      "selectionReason": "Indicador recente sobre o ritmo da atividade brasileira, com leitura setorial e fatores externos e domésticos explicitados pela fonte."
+      "evidence": "A página original informa publicação em 17/09/2026 às 17h05 e relata retração de 0,4% entre junho e julho, segundo o Monitor do PIB do Ibre-FGV, com alta de 1,8% em 12 meses. A recuperação direta da página original foi registrada no run privado, com corpo completo acessível e conferência de data, título e conteúdo.",
+      "selectionReason": "Indicador recente sobre o ritmo da atividade brasileira, com leitura setorial e fatores externos e domésticos explicitados pela fonte.",
+      "contentReview": {
+        "bodyComplete": true,
+        "aiSummaryReviewed": true
+      }
     },
     {
       "articleId": "economia-bc-selic",
       "url": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-09/bc-reduz-juros-basicos-para-1375-ao-ano",
       "publishedAt": "2026-09-16T18:39:00-03:00",
-      "evidence": "A reportagem original informa publicação em 16/09/2026 às 18h39 e confirma o quinto corte consecutivo da Selic, de 0,25 ponto percentual, para 13,75% ao ano.",
-      "selectionReason": "Decisão de política monetária com impacto transversal sobre crédito, consumo, investimento e inflação; publicada dentro da janela de sete dias."
+      "evidence": "A reportagem original informa publicação em 16/09/2026 às 18h39 e confirma o quinto corte consecutivo da Selic, de 0,25 ponto percentual, para 13,75% ao ano. A recuperação direta da página original foi registrada no run privado, com corpo completo acessível e conferência de data, título e conteúdo.",
+      "selectionReason": "Decisão de política monetária com impacto transversal sobre crédito, consumo, investimento e inflação; publicada dentro da janela de sete dias.",
+      "contentReview": {
+        "bodyComplete": true,
+        "aiSummaryReviewed": true
+      }
     }
   ],
   "shortfall": {
     "pt-BR": "",
     "en": ""
   },
-  "improvements": []
+  "improvements": [],
+  "candidateRun": "research/runs/2026-09-21T01-50-54-389Z-6be61b14-2359-4471-ba3a-c9604ea7effa",
+  "retrievedAt": "2026-09-21T02:05:00Z",
+  "reviewStatus": "draft-source-verified-no-publication-approval"
 }

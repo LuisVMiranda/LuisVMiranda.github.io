@@ -7,8 +7,8 @@
   "updatedAt": "2026-09-17T15:14:25Z",
   "sources": [
     {
-      "name": "AP News",
-      "url": "https://apnews.com/article/migration-refugees-deaths-mediterranean-atlantic-shipwrecks-fa512b3ac2a31b8c4a79ae0e981ec94c"
+      "name": "United Nations Regional Information Centre",
+      "url": "https://unric.org/en/new-iom-data-migrant-arrivals-to-europe-fall-39-in-2026-while-deaths-continue-to-rise/"
     }
   ],
   "translations": {
@@ -16,17 +16,24 @@
       "title": "Menos migrantes chegam por mar à Europa, mas mais morrem",
       "summary": "Dados da OIM apontam queda de quase 40% nas chegadas e cerca de 2.300 mortos ou desaparecidos até 15 de setembro.",
       "paragraphs": [
-        "Quase 60 mil migrantes e refugiados chegaram às costas europeias por mar em 2026 até 15 de setembro, cerca de 40% menos que no mesmo período do ano anterior. A Organização Internacional para as Migrações informou, porém, que quase 2.300 pessoas morreram ou desapareceram nas travessias.",
-        "Na rota central do Mediterrâneo, as chegadas caíram de mais de 48 mil para mais de 21 mil, enquanto 996 pessoas morreram, contra 844 no ano anterior. A OIM pediu cooperação internacional, combate ao tráfico e vias legais de migração, alertando que o total real pode ser maior."
-      ]
+        "Dados da Organização Internacional para as Migrações divulgados pelo UNRIC mostram que quase 60 mil migrantes e refugiados chegaram à Europa por mar em 2026 até meados de setembro, 39% menos que no mesmo período de 2025. No entanto, pelo menos 2.292 pessoas morreram ou desapareceram nas travessias.",
+        "Na rota central do Mediterrâneo, as chegadas caíram de 48.231 para 21.393, mas as mortes subiram de 844 para 996. A OIM também registrou aumento de mortes na rota oriental e manteve o alerta sobre a subnotificação de vítimas.",
+        "A combinação de menos chegadas e mais mortes mostra que a queda dos fluxos não tornou as rotas seguras. A agência defende cooperação internacional, combate ao tráfico e caminhos regulares de migração, enquanto famílias continuam enfrentando a falta de identificação dos mortos."
+      ],
+      "aiSummary": "A reportagem explica que Dados da OIM apontam queda de quase 40% nas chegadas e cerca de 2.300 mortos ou desaparecidos até 15 de setembro . O caso importa para as disputas de segurança, diplomacia e cooperação que conectam governos e populações além das fronteiras. O texto contextualiza o episódio com protagonistas, números e próximos passos já descritos na fonte, distinguindo fatos confirmados de declarações, estimativas ou efeitos ainda esperados."
     },
     "en": {
       "title": "Fewer migrants reach Europe by sea, but more are dying",
       "summary": "IOM data show arrivals down nearly 40%, while about 2,300 people died or went missing by September 15.",
       "paragraphs": [
-        "Nearly 60,000 migrants and refugees reached European shores by sea in 2026 through September 15, about 40% fewer than in the same period last year. The International Organization for Migration said, however, that nearly 2,300 people died or went missing on the crossings.",
-        "On the central Mediterranean route, arrivals fell from more than 48,000 to more than 21,000, while 996 people died, up from 844 last year. IOM called for international cooperation, action against trafficking and legal migration routes, warning that the real toll may be higher."
-      ]
+        "International Organization for Migration data published by UNRIC show that nearly 60,000 migrants and refugees reached Europe by sea in 2026 through mid-September, 39% fewer than in the same period of 2025. Yet at least 2,292 people died or went missing during the crossings.",
+        "On the central Mediterranean route, arrivals fell from 48,231 to 21,393, but deaths rose from 844 to 996. IOM also recorded more deaths on the eastern route and warned that the total number of victims may be understated.",
+        "The combination of fewer arrivals and more deaths shows that lower flows have not made the routes safer. The agency calls for international cooperation, action against trafficking and regular migration pathways, while families still struggle to identify those who died."
+      ],
+      "aiSummary": "The report explains that IOM data show arrivals down nearly 40%, while about 2,300 people died or went missing by September 15 . The case matters for the security, diplomatic and cooperation disputes that connect governments and populations across borders. It places the event in context with the protagonists, figures and next steps described by the source, distinguishing confirmed facts from statements, estimates or effects that are still expected."
     }
+  },
+  "rights": {
+    "mode": "original-report"
   }
 }

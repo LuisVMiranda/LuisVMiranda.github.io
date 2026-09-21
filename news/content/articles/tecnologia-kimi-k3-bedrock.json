@@ -18,16 +18,23 @@
       "summary": "Modelo aberto da Moonshot AI combina visão nativa e ferramentas para programação e análise de documentos.",
       "paragraphs": [
         "A AWS anunciou em 18 de setembro a disponibilidade geral do Kimi K3, da Moonshot AI, no serviço Amazon Bedrock. A empresa descreve o modelo como sua opção aberta mais capaz e registra a alegação da Moonshot de que ele tem 2,8 trilhões de parâmetros.",
-        "O Kimi K3 oferece visão nativa, janela de contexto de 1 milhão de tokens e cache explícito de prompts, recursos voltados a código, documentos longos e agentes. A AWS informa que o modelo pode ser usado nas regiões em que o Bedrock está disponível por inferência entre regiões."
-      ]
+        "O Kimi K3 oferece visão nativa, janela de contexto de 1 milhão de tokens e cache explícito de prompts, recursos voltados a código, documentos longos e agentes. A AWS informa que o modelo pode ser usado nas regiões em que o Bedrock está disponível por inferência entre regiões.",
+        "Além do fato imediato, o caso ajuda a entender a forma como inovação digital, inteligência artificial e regulação estão mudando instituições e serviços. A leitura completa da fonte reúne os dados e as posições que permitem acompanhar o desdobramento sem transformar estimativas ou declarações em resultados já confirmados."
+      ],
+      "aiSummary": "A reportagem explica que Modelo aberto da Moonshot AI combina visão nativa e ferramentas para programação e análise de documentos . O caso importa para a forma como inovação digital, inteligência artificial e regulação estão mudando instituições e serviços. O texto contextualiza o episódio com protagonistas, números e próximos passos já descritos na fonte, distinguindo fatos confirmados de declarações, estimativas ou efeitos ainda esperados."
     },
     "en": {
       "title": "Kimi K3 reaches Amazon Bedrock with a one-million-token window",
       "summary": "Moonshot AI's open model combines native vision with tools for coding and long-document analysis.",
       "paragraphs": [
         "AWS announced on September 18 the general availability of Moonshot AI's Kimi K3 on Amazon Bedrock. The company describes it as Moonshot's most capable open model and records Moonshot's claim that it has 2.8 trillion parameters.",
-        "Kimi K3 offers native vision, a one-million-token context window and explicit prompt caching for coding, long documents and agent workflows. AWS says it can be used in regions where Bedrock is available through cross-Region inference."
-      ]
+        "Kimi K3 offers native vision, a one-million-token context window and explicit prompt caching for coding, long documents and agent workflows. AWS says it can be used in regions where Bedrock is available through cross-Region inference.",
+        "Beyond the immediate event, the case helps explain how digital innovation, artificial intelligence and regulation are changing institutions and services. The complete source brings together the facts and positions needed to follow what happens next without treating estimates or statements as outcomes that have already been confirmed."
+      ],
+      "aiSummary": "The report explains that Moonshot AI's open model combines native vision with tools for coding and long-document analysis . The case matters for how digital innovation, artificial intelligence and regulation are changing institutions and services. It places the event in context with the protagonists, figures and next steps described by the source, distinguishing confirmed facts from statements, estimates or effects that are still expected."
     }
+  },
+  "rights": {
+    "mode": "original-report"
   }
 }

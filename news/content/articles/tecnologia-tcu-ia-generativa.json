@@ -17,16 +17,23 @@
       "summary": "Levantamento com 1.122 servidores aponta adoção frequente e revisão humana de resultados no tribunal.",
       "paragraphs": [
         "Pesquisa interna respondida por 1.122 servidores e colaboradores do TCU indica que 88,1% já usam ferramentas de inteligência artificial, enquanto 45,1% fazem isso diariamente. Entre os usuários, 64,5% relatam reduzir em mais de 30% o tempo de tarefas rotineiras.",
-        "O ChatTCU é usado por 76,6% dos servidores que recorrem à IA, e 77,8% dizem revisar integralmente o material produzido antes de incorporá-lo a documentos oficiais. O tribunal afirma que usará os dados para orientar governança, segurança, capacitação e novas soluções."
-      ]
+        "O ChatTCU é usado por 76,6% dos servidores que recorrem à IA, e 77,8% dizem revisar integralmente o material produzido antes de incorporá-lo a documentos oficiais. O tribunal afirma que usará os dados para orientar governança, segurança, capacitação e novas soluções.",
+        "Além do fato imediato, o caso ajuda a entender a forma como inovação digital, inteligência artificial e regulação estão mudando instituições e serviços. A leitura completa da fonte reúne os dados e as posições que permitem acompanhar o desdobramento sem transformar estimativas ou declarações em resultados já confirmados."
+      ],
+      "aiSummary": "A reportagem explica que Levantamento com 1.122 servidores aponta adoção frequente e revisão humana de resultados no tribunal . O caso importa para a forma como inovação digital, inteligência artificial e regulação estão mudando instituições e serviços. O texto contextualiza o episódio com protagonistas, números e próximos passos já descritos na fonte, distinguindo fatos confirmados de declarações, estimativas ou efeitos ainda esperados."
     },
     "en": {
       "title": "TCU survey shows broad use of generative AI",
       "summary": "A survey of 1,122 workers points to frequent adoption and human review of results at Brazil's audit court.",
       "paragraphs": [
         "An internal survey answered by 1,122 TCU workers and collaborators found that 88.1% already use artificial-intelligence tools, while 45.1% do so every day. Among users, 64.5% report cutting the time spent on routine tasks by more than 30%.",
-        "ChatTCU is used by 76.6% of the court's AI users, and 77.8% say they fully review generated material before putting it into official documents. The court says it will use the data to guide governance, security, training and new solutions."
-      ]
+        "ChatTCU is used by 76.6% of the court's AI users, and 77.8% say they fully review generated material before putting it into official documents. The court says it will use the data to guide governance, security, training and new solutions.",
+        "Beyond the immediate event, the case helps explain how digital innovation, artificial intelligence and regulation are changing institutions and services. The complete source brings together the facts and positions needed to follow what happens next without treating estimates or statements as outcomes that have already been confirmed."
+      ],
+      "aiSummary": "The report explains that A survey of 1,122 workers points to frequent adoption and human review of results at Brazil's audit court . The case matters for how digital innovation, artificial intelligence and regulation are changing institutions and services. It places the event in context with the protagonists, figures and next steps described by the source, distinguishing confirmed facts from statements, estimates or effects that are still expected."
     }
+  },
+  "rights": {
+    "mode": "original-report"
   }
 }

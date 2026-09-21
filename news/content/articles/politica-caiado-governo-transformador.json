@@ -17,16 +17,23 @@
       "summary": "Plano do candidato do PSD combina segurança, responsabilidade fiscal e cooperação entre Poderes.",
       "paragraphs": [
         "O plano de Ronaldo Caiado combina pacificação democrática, responsabilidade fiscal, segurança, investimento e inserção internacional pragmática.",
-        "Na segurança, o candidato promete propor um Ministério da Segurança Pública e leis para enquadrar organizações criminosas e milícias como grupos terroristas domésticos."
-      ]
+        "Na segurança, o candidato promete propor um Ministério da Segurança Pública e leis para enquadrar organizações criminosas e milícias como grupos terroristas domésticos.",
+        "Além do fato imediato, o caso ajuda a entender as escolhas institucionais, eleitorais e de governo que podem alterar políticas públicas. A leitura completa da fonte reúne os dados e as posições que permitem acompanhar o desdobramento sem transformar estimativas ou declarações em resultados já confirmados."
+      ],
+      "aiSummary": "A reportagem explica que Plano do candidato do PSD combina segurança, responsabilidade fiscal e cooperação entre Poderes . O caso importa para as escolhas institucionais, eleitorais e de governo que podem alterar políticas públicas. O texto contextualiza o episódio com protagonistas, números e próximos passos já descritos na fonte, distinguindo fatos confirmados de declarações, estimativas ou efeitos ainda esperados."
     },
     "en": {
       "title": "Caiado promises a transformative government and structural reforms",
       "summary": "The PSD candidate's platform combines security, fiscal responsibility and cooperation among branches.",
       "paragraphs": [
         "Ronaldo Caiado's platform combines democratic pacification, fiscal responsibility, security, investment and pragmatic international engagement.",
-        "On security, the candidate promises to propose a Ministry of Public Security and laws classifying criminal organizations and militias as domestic terrorist groups."
-      ]
+        "On security, the candidate promises to propose a Ministry of Public Security and laws classifying criminal organizations and militias as domestic terrorist groups.",
+        "Beyond the immediate event, the case helps explain the institutional, electoral and governing choices that can change public policy. The complete source brings together the facts and positions needed to follow what happens next without treating estimates or statements as outcomes that have already been confirmed."
+      ],
+      "aiSummary": "The report explains that The PSD candidate's platform combines security, fiscal responsibility and cooperation among branches . The case matters for the institutional, electoral and governing choices that can change public policy. It places the event in context with the protagonists, figures and next steps described by the source, distinguishing confirmed facts from statements, estimates or effects that are still expected."
     }
+  },
+  "rights": {
+    "mode": "original-report"
   }
 }

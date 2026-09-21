@@ -1,6 +1,6 @@
 {
   "section": "tecnologia",
-  "cutoff": "2026-09-20T00:38:06.402Z",
+  "cutoff": "2026-09-21T01:50:54.389Z",
   "dateConvention": "For the four date-only source pages normalized at midnight UTC, each article preserves the source calendar date in publishedDate while publishedAt remains a midnight UTC normalization used for ordering.",
   "queries": [
     "Tecnologia notícias Brasil",
@@ -19,80 +19,123 @@
       "articleId": "tecnologia-redata-datacenters",
       "url": "https://www.gov.br/mdic/pt-br/assuntos/noticias/2026-periodo-eleitoral/setembro/presidente-sanciona-o-redata-que-estimula-datacenters-e-desenvolvimento-tecnologico-no-brasil",
       "publishedAt": "2026-09-15T16:12:00-03:00",
-      "evidence": "A página do MDIC informa publicação em 15/09/2026 às 16h12, atualização em 19/09 às 11h04 e descreve a sanção do Redata, com incentivos a datacenters, exigência de 2% para pesquisa e inovação, oferta mínima de 10% da capacidade ao mercado brasileiro e critérios de sustentabilidade.",
-      "selectionReason": "Medida nacional com efeito direto sobre infraestrutura digital, computação em nuvem, IA e soberania de dados; fonte oficial e atualização dentro das últimas 24 horas do corte."
+      "evidence": "A página do MDIC informa publicação em 15/09/2026 às 16h12, atualização em 19/09 às 11h04 e descreve a sanção do Redata, com incentivos a datacenters, exigência de 2% para pesquisa e inovação, oferta mínima de 10% da capacidade ao mercado brasileiro e critérios de sustentabilidade. A recuperação direta da página original foi registrada no run privado, com corpo completo acessível e conferência de data, título e conteúdo.",
+      "selectionReason": "Medida nacional com efeito direto sobre infraestrutura digital, computação em nuvem, IA e soberania de dados; fonte oficial e atualização dentro das últimas 24 horas do corte.",
+      "contentReview": {
+        "bodyComplete": true,
+        "aiSummaryReviewed": true
+      }
     },
     {
       "articleId": "tecnologia-tcu-ia-generativa",
       "url": "https://portal.tcu.gov.br/imprensa/noticias/pesquisa-traca-diagnostico-sobre-maturidade-da-ia-generativa-no-tcu",
       "publishedAt": "2026-09-18T00:00:00-03:00",
-      "evidence": "O Portal do TCU informa publicação em 18/09/2026 e apresenta pesquisa respondida por 1.122 servidores: 88,1% usam IA, 45,1% diariamente e 77,8% revisam integralmente o material gerado antes de incorporá-lo a documentos oficiais.",
-      "selectionReason": "Evidência brasileira concreta sobre adoção, produtividade e supervisão humana no setor público, com números e metodologia descritos pela própria instituição."
+      "evidence": "O Portal do TCU informa publicação em 18/09/2026 e apresenta pesquisa respondida por 1.122 servidores: 88,1% usam IA, 45,1% diariamente e 77,8% revisam integralmente o material gerado antes de incorporá-lo a documentos oficiais. A recuperação direta da página original foi registrada no run privado, com corpo completo acessível e conferência de data, título e conteúdo.",
+      "selectionReason": "Evidência brasileira concreta sobre adoção, produtividade e supervisão humana no setor público, com números e metodologia descritos pela própria instituição.",
+      "contentReview": {
+        "bodyComplete": true,
+        "aiSummaryReviewed": true
+      }
     },
     {
       "articleId": "tecnologia-ats-doencas-ultrarraras",
       "url": "https://www.gov.br/saude/pt-br/assuntos/noticias-ms/2026/setembro/ministerio-da-saude-debate-avaliacao-de-tecnologias-em-saude-para-doencas-ultrarraras-em-evento-internacional",
       "publishedAt": "2026-09-19T09:49:00-03:00",
-      "evidence": "A página do Ministério da Saúde informa publicação em 19/09/2026 às 9h49 e registra workshop realizado no Rio nos dias 16 e 17, com especialistas discutindo métodos para avaliar tecnologias destinadas a doenças ultrarraras e subsidiar decisões da Conitec.",
-      "selectionReason": "Tecnologia aplicada à saúde pública, com cooperação internacional e consequência explícita para decisões de incorporação de medicamentos e procedimentos no SUS."
+      "evidence": "A página do Ministério da Saúde informa publicação em 19/09/2026 às 9h49 e registra workshop realizado no Rio nos dias 16 e 17, com especialistas discutindo métodos para avaliar tecnologias destinadas a doenças ultrarraras e subsidiar decisões da Conitec. A recuperação direta da página original foi registrada no run privado, com corpo completo acessível e conferência de data, título e conteúdo.",
+      "selectionReason": "Tecnologia aplicada à saúde pública, com cooperação internacional e consequência explícita para decisões de incorporação de medicamentos e procedimentos no SUS.",
+      "contentReview": {
+        "bodyComplete": true,
+        "aiSummaryReviewed": true
+      }
     },
     {
       "articleId": "tecnologia-eca-digital-plataformas",
       "url": "https://www.gov.br/mj/pt-br/assuntos/noticias-1/eca-digital-completa-um-ano-e-mjsp-consolida-acoes-de-enfrentamento-a-violencia-contra-criancas-e-adolescentes-na-internet",
       "publishedAt": "2026-09-18T11:57:00-03:00",
-      "evidence": "O MJSP informa publicação em 18/09/2026 às 11h57 e atualização às 14h54, registra um ano do ECA Digital, seis meses de vigência regulamentada e o prazo para plataformas com mais de 1 milhão de usuários jovens apresentarem o primeiro relatório semestral de transparência.",
-      "selectionReason": "Regulação digital brasileira com efeitos sobre plataformas, ANPD, supervisão parental, denúncias e conteúdo gerado por IA; fonte institucional e atualidade máxima."
+      "evidence": "O MJSP informa publicação em 18/09/2026 às 11h57 e atualização às 14h54, registra um ano do ECA Digital, seis meses de vigência regulamentada e o prazo para plataformas com mais de 1 milhão de usuários jovens apresentarem o primeiro relatório semestral de transparência. A recuperação direta da página original foi registrada no run privado, com corpo completo acessível e conferência de data, título e conteúdo.",
+      "selectionReason": "Regulação digital brasileira com efeitos sobre plataformas, ANPD, supervisão parental, denúncias e conteúdo gerado por IA; fonte institucional e atualidade máxima.",
+      "contentReview": {
+        "bodyComplete": true,
+        "aiSummaryReviewed": true
+      }
     },
     {
       "articleId": "tecnologia-hackathon-sus-oncologia",
       "url": "https://www.gov.br/saude/pt-br/assuntos/noticias-ms/2026/setembro/ministerio-da-saude-realiza-etapa-nordeste-do-hackathon-sus-e-seleciona-startups-para-desafio-nacional-em-oncologia",
       "publishedAt": "2026-09-14T11:02:00-03:00",
-      "evidence": "O Ministério da Saúde informa publicação em 14/09/2026 às 11h02 e descreve a etapa Nordeste do Hackathon SUS, realizada em Recife nos dias 10 e 11, que selecionou três startups com soluções para triagem, diagnóstico e apoio a cirurgias oncológicas.",
-      "selectionReason": "Inovação brasileira aplicada a um problema público concreto, com detalhes técnicos das propostas e conexão direta com necessidades regionais do SUS; dentro da janela de sete dias."
+      "evidence": "O Ministério da Saúde informa publicação em 14/09/2026 às 11h02 e descreve a etapa Nordeste do Hackathon SUS, realizada em Recife nos dias 10 e 11, que selecionou três startups com soluções para triagem, diagnóstico e apoio a cirurgias oncológicas. A recuperação direta da página original foi registrada no run privado, com corpo completo acessível e conferência de data, título e conteúdo.",
+      "selectionReason": "Inovação brasileira aplicada a um problema público concreto, com detalhes técnicos das propostas e conexão direta com necessidades regionais do SUS; dentro da janela de sete dias.",
+      "contentReview": {
+        "bodyComplete": true,
+        "aiSummaryReviewed": true
+      }
     },
     {
       "articleId": "tecnologia-anthropic-accenture-avaliacao",
       "url": "https://www.anthropic.com/news/accenture-embedded-evaluation",
       "publishedAt": "2026-09-18T00:00:00Z",
       "publishedDate": "2026-09-18",
-      "evidence": "A publicação da Anthropic é datada de 18/09/2026 e anuncia parceria com a Accenture, liderada pela Faculty, para avaliação independente, red-teaming, análises de alinhamento e testes de salvaguardas; cada empresa afirma esperar investir ao menos US$ 1 bilhão em cinco anos. publishedDate preserva a data exibida; publishedAt permanece normalizado em 00:00Z apenas para ordenação.",
-      "selectionReason": "Mudança relevante na governança de modelos de fronteira, com acesso de avaliadores incorporados às empresas e compromissos financeiros explicitados pela fonte primária."
+      "evidence": "A publicação da Anthropic é datada de 18/09/2026 e anuncia parceria com a Accenture, liderada pela Faculty, para avaliação independente, red-teaming, análises de alinhamento e testes de salvaguardas; cada empresa afirma esperar investir ao menos US$ 1 bilhão em cinco anos. publishedDate preserva a data exibida; publishedAt permanece normalizado em 00:00Z apenas para ordenação. A recuperação direta da página original foi registrada no run privado, com corpo completo acessível e conferência de data, título e conteúdo.",
+      "selectionReason": "Mudança relevante na governança de modelos de fronteira, com acesso de avaliadores incorporados às empresas e compromissos financeiros explicitados pela fonte primária.",
+      "contentReview": {
+        "bodyComplete": true,
+        "aiSummaryReviewed": true
+      }
     },
     {
       "articleId": "tecnologia-openai-misalignment",
       "url": "https://openai.com/index/model-misalignment-reporting-framework/",
       "publishedAt": "2026-09-16T00:00:00Z",
       "publishedDate": "2026-09-16",
-      "evidence": "A página da OpenAI é datada de 16/09/2026 e apresenta um marco para acompanhar, investigar e divulgar desalinhamento de modelos, junto de seis relatos de comportamentos inesperados observados nos seis meses anteriores. publishedDate preserva a data exibida; publishedAt permanece normalizado em 00:00Z apenas para ordenação.",
-      "selectionReason": "Fonte primária documenta um mecanismo novo de transparência sobre segurança de IA e explicita limites, trilhas de investigação e relação com obrigações legais."
+      "evidence": "A página da OpenAI é datada de 16/09/2026 e apresenta um marco para acompanhar, investigar e divulgar desalinhamento de modelos, junto de seis relatos de comportamentos inesperados observados nos seis meses anteriores. publishedDate preserva a data exibida; publishedAt permanece normalizado em 00:00Z apenas para ordenação. A recuperação direta da página original foi registrada no run privado, com corpo completo acessível e conferência de data, título e conteúdo.",
+      "selectionReason": "Fonte primária documenta um mecanismo novo de transparência sobre segurança de IA e explicita limites, trilhas de investigação e relação com obrigações legais.",
+      "contentReview": {
+        "bodyComplete": true,
+        "aiSummaryReviewed": true
+      }
     },
     {
       "articleId": "tecnologia-california-ai-kill-switch",
       "url": "https://www.gov.ca.gov/2026/09/18/governor-newsom-issues-executive-order-to-accelerate-independent-oversight-and-advance-the-creation-of-an-ai-kill-switch/",
       "publishedAt": "2026-09-18T00:00:00-07:00",
-      "evidence": "O governo da Califórnia informa, em 18/09/2026, ordem executiva para acelerar auditorias e supervisão independente; o texto diz que especialistas devem produzir em dois meses recomendações que incluem planos de segurança e um possível mecanismo de desligamento emergencial para modelos de fronteira.",
-      "selectionReason": "Decisão regulatória subnacional com potencial de influenciar padrões nacionais de segurança de IA, distinguindo claramente propostas futuras de medidas já em vigor."
+      "evidence": "O governo da Califórnia informa, em 18/09/2026, ordem executiva para acelerar auditorias e supervisão independente; o texto diz que especialistas devem produzir em dois meses recomendações que incluem planos de segurança e um possível mecanismo de desligamento emergencial para modelos de fronteira. A recuperação direta da página original foi registrada no run privado, com corpo completo acessível e conferência de data, título e conteúdo.",
+      "selectionReason": "Decisão regulatória subnacional com potencial de influenciar padrões nacionais de segurança de IA, distinguindo claramente propostas futuras de medidas já em vigor.",
+      "contentReview": {
+        "bodyComplete": true,
+        "aiSummaryReviewed": true
+      }
     },
     {
       "articleId": "tecnologia-kimi-k3-bedrock",
       "url": "https://aws.amazon.com/about-aws/whats-new/2026/09/moonshot-ai-kimi-k3-on-amazon-bedrock/",
       "publishedAt": "2026-09-18T00:00:00Z",
       "publishedDate": "2026-09-18",
-      "evidence": "A AWS informa publicação em 18/09/2026 e disponibilidade geral do Kimi K3 no Amazon Bedrock. A página descreve visão nativa, janela de contexto de 1 milhão de tokens, cache explícito de prompts e a alegação da Moonshot de 2,8 trilhões de parâmetros. publishedDate preserva a data exibida; publishedAt permanece normalizado em 00:00Z apenas para ordenação.",
-      "selectionReason": "Lançamento de infraestrutura e modelo de IA com impacto global em programação, documentos e agentes; a fonte separa as características observadas das alegações da desenvolvedora."
+      "evidence": "A AWS informa publicação em 18/09/2026 e disponibilidade geral do Kimi K3 no Amazon Bedrock. A página descreve visão nativa, janela de contexto de 1 milhão de tokens, cache explícito de prompts e a alegação da Moonshot de 2,8 trilhões de parâmetros. publishedDate preserva a data exibida; publishedAt permanece normalizado em 00:00Z apenas para ordenação. A recuperação direta da página original foi registrada no run privado, com corpo completo acessível e conferência de data, título e conteúdo.",
+      "selectionReason": "Lançamento de infraestrutura e modelo de IA com impacto global em programação, documentos e agentes; a fonte separa as características observadas das alegações da desenvolvedora.",
+      "contentReview": {
+        "bodyComplete": true,
+        "aiSummaryReviewed": true
+      }
     },
     {
       "articleId": "tecnologia-anthropic-pesquisa-recursiva",
       "url": "https://www.anthropic.com/institute/recursive-self-improvement",
       "publishedAt": "2026-09-18T00:00:00Z",
       "publishedDate": "2026-09-18",
-      "evidence": "A página do Anthropic Institute registra atualização em 18/09/2026 e descreve dados internos e benchmarks sobre agentes que escrevem código, executam experimentos e delegam horas de trabalho, afirmando que a empresa ainda não atingiu melhoria recursiva plenamente autônoma. publishedDate preserva a data exibida; publishedAt permanece normalizado em 00:00Z apenas para ordenação.",
-      "selectionReason": "Pesquisa primária sobre a fronteira de automação da própria pesquisa de IA, com métricas, ressalvas metodológicas e limites humanos explícitos."
+      "evidence": "A página do Anthropic Institute registra atualização em 18/09/2026 e descreve dados internos e benchmarks sobre agentes que escrevem código, executam experimentos e delegam horas de trabalho, afirmando que a empresa ainda não atingiu melhoria recursiva plenamente autônoma. publishedDate preserva a data exibida; publishedAt permanece normalizado em 00:00Z apenas para ordenação. A recuperação direta da página original foi registrada no run privado, com corpo completo acessível e conferência de data, título e conteúdo.",
+      "selectionReason": "Pesquisa primária sobre a fronteira de automação da própria pesquisa de IA, com métricas, ressalvas metodológicas e limites humanos explícitos.",
+      "contentReview": {
+        "bodyComplete": true,
+        "aiSummaryReviewed": true
+      }
     }
   ],
   "shortfall": {
     "pt-BR": "",
     "en": ""
   },
-  "improvements": []
+  "improvements": [],
+  "candidateRun": "research/runs/2026-09-21T01-50-54-389Z-6be61b14-2359-4471-ba3a-c9604ea7effa",
+  "retrievedAt": "2026-09-21T02:05:00Z",
+  "reviewStatus": "draft-source-verified-no-publication-approval"
 }

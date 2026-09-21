@@ -1,6 +1,6 @@
 {
   "section": "ciencia",
-  "cutoff": "2026-09-20T00:38:06.402Z",
+  "cutoff": "2026-09-21T01:50:54.389Z",
   "dateConvention": "For the five date-only source pages normalized at midnight UTC, each article preserves the source calendar date in publishedDate while publishedAt remains a midnight UTC normalization used for ordering.",
   "queries": [
     "Ciência notícias Brasil",
@@ -17,76 +17,119 @@
       "articleId": "ciencia-polilaminina-lesao-medular",
       "url": "https://www.gov.br/saude/pt-br/assuntos/noticias-ms/2026/setembro/ministerio-da-saude-mobiliza-samu-192-para-treinar-equipes-e-apoiar-estudo-clinico-com-polilaminina",
       "publishedAt": "2026-09-18T20:10:00-03:00",
-      "evidence": "A página do Ministério da Saúde informa publicação em 18/09/2026 às 20h10 e descreve treinamento do SAMU de São Paulo para identificar e encaminhar cinco voluntários a um estudo de fase 1 com polilaminina para lesões medulares agudas.",
-      "selectionReason": "Pesquisa clínica brasileira com possível impacto em lesões graves, critérios de inclusão claros e fonte institucional responsável pelo protocolo de encaminhamento."
+      "evidence": "A página do Ministério da Saúde informa publicação em 18/09/2026 às 20h10 e descreve treinamento do SAMU de São Paulo para identificar e encaminhar cinco voluntários a um estudo de fase 1 com polilaminina para lesões medulares agudas. A recuperação direta da página original foi registrada no run privado, com corpo completo acessível e conferência de data, título e conteúdo.",
+      "selectionReason": "Pesquisa clínica brasileira com possível impacto em lesões graves, critérios de inclusão claros e fonte institucional responsável pelo protocolo de encaminhamento.",
+      "contentReview": {
+        "bodyComplete": true,
+        "aiSummaryReviewed": true
+      }
     },
     {
       "articleId": "ciencia-lncc-realidade-virtual",
       "url": "https://www.gov.br/lncc/pt-br/assuntos/noticias/ultimas-noticias-1/missao-cientifica-na-alemanha-amplia-intercambio-em-realidade-virtual-ia-e-sustentabilidade",
       "publishedAt": "2026-09-18T16:22:00-03:00",
-      "evidence": "A página original informa publicação em 18/09/2026 às 16h22 e relata a missão do LNCC na Alemanha, os simuladores imersivos com telemetria e o projeto brasileiro de IA e sensoriamento remoto para riscos naturais.",
-      "selectionReason": "Pesquisa brasileira recente que conecta computação científica, treinamento imersivo e prevenção de desastres com aplicação descrita pela instituição executora."
+      "evidence": "A página original informa publicação em 18/09/2026 às 16h22 e relata a missão do LNCC na Alemanha, os simuladores imersivos com telemetria e o projeto brasileiro de IA e sensoriamento remoto para riscos naturais. A recuperação direta da página original foi registrada no run privado, com corpo completo acessível e conferência de data, título e conteúdo.",
+      "selectionReason": "Pesquisa brasileira recente que conecta computação científica, treinamento imersivo e prevenção de desastres com aplicação descrita pela instituição executora.",
+      "contentReview": {
+        "bodyComplete": true,
+        "aiSummaryReviewed": true
+      }
     },
     {
       "articleId": "ciencia-aeb-cooperacao-espacial",
       "url": "https://www.gov.br/aeb/pt-br/assuntos/noticias/missao-brasil2013europa-2026-reune-empresas-para-cooperacao-no-setor-espacial",
       "publishedAt": "2026-09-18T12:04:00-03:00",
-      "evidence": "A página da AEB informa publicação em 18/09/2026 às 12h04 e registra a missão Brasil–Europa, o encontro no ESA Industry Days e o memorando de entendimento entre Concert Space e LEOTREK AI.",
-      "selectionReason": "Movimento recente de cooperação espacial com participação brasileira e registro oficial das instituições e do alcance do acordo."
+      "evidence": "A página da AEB informa publicação em 18/09/2026 às 12h04 e registra a missão Brasil–Europa, o encontro no ESA Industry Days e o memorando de entendimento entre Concert Space e LEOTREK AI. A recuperação direta da página original foi registrada no run privado, com corpo completo acessível e conferência de data, título e conteúdo.",
+      "selectionReason": "Movimento recente de cooperação espacial com participação brasileira e registro oficial das instituições e do alcance do acordo.",
+      "contentReview": {
+        "bodyComplete": true,
+        "aiSummaryReviewed": true
+      }
     },
     {
       "articleId": "ciencia-nasa-lake-powell-seca",
       "url": "https://science.nasa.gov/earth/earth-observatory/lake-powell-drops-to-record-low-levels/",
       "publishedAt": "2026-09-18T00:00:00Z",
-      "evidence": "A página da NASA, datada de 18/09/2026, compara imagens Landsat de 2017 e 10/09/2026, registra o nível de 3.517,24 pés e relaciona o recorde à pouca neve e ao calor na bacia do Colorado.",
-      "selectionReason": "Indicador ambiental com medida observacional, consequências para água e energia e contexto de escala regional."
+      "evidence": "A página da NASA, datada de 18/09/2026, compara imagens Landsat de 2017 e 10/09/2026, registra o nível de 3.517,24 pés e relaciona o recorde à pouca neve e ao calor na bacia do Colorado. A recuperação direta da página original foi registrada no run privado, com corpo completo acessível e conferência de data, título e conteúdo.",
+      "selectionReason": "Indicador ambiental com medida observacional, consequências para água e energia e contexto de escala regional.",
+      "contentReview": {
+        "bodyComplete": true,
+        "aiSummaryReviewed": true
+      }
     },
     {
       "articleId": "ciencia-biomarcadores-cancer-pulmao",
       "url": "https://agencia.fapesp.br/index.php/biomarcadores-no-sangue-ajudam-a-prever-eficacia-de-imunoterapia-contra-cancer-de-pulmao/59210",
       "publishedAt": "2026-09-17T00:00:00-03:00",
-      "evidence": "A Agência FAPESP data a reportagem de 17/09/2026, descreve a análise de sangue de 33 pacientes, a distinção entre 22 respondedores e 11 não respondedores e aponta o artigo correspondente publicado na iScience.",
-      "selectionReason": "Pesquisa brasileira de oncologia com amostra e método explicitados, potencial de melhorar a seleção de pacientes e limite clínico reconhecido no próprio relato."
+      "evidence": "A Agência FAPESP data a reportagem de 17/09/2026, descreve a análise de sangue de 33 pacientes, a distinção entre 22 respondedores e 11 não respondedores e aponta o artigo correspondente publicado na iScience. A recuperação direta da página original foi registrada no run privado, com corpo completo acessível e conferência de data, título e conteúdo.",
+      "selectionReason": "Pesquisa brasileira de oncologia com amostra e método explicitados, potencial de melhorar a seleção de pacientes e limite clínico reconhecido no próprio relato.",
+      "contentReview": {
+        "bodyComplete": true,
+        "aiSummaryReviewed": true
+      }
     },
     {
       "articleId": "ciencia-inpe-extremos-amazonia",
       "url": "https://www.gov.br/inpe/pt-br/assuntos/ultimas-noticias/pesquisadores-do-inpe-publicam-estudo-sobre-aumento-de-extremos-climaticos-na-amazonia",
       "publishedAt": "2026-09-16T09:59:00-03:00",
-      "evidence": "O INPE informa publicação em 16/09/2026 às 9h59 e resume artigo na Communications Earth & Environment que analisou 1981–2023, incluindo os aumentos de 0,75 °C e 0,49 °C por década em áreas da Amazônia.",
-      "selectionReason": "Resultado climático brasileiro de alta relevância territorial, amparado por página institucional e pelo artigo científico original ligado no texto."
+      "evidence": "O INPE informa publicação em 16/09/2026 às 9h59 e resume artigo na Communications Earth & Environment que analisou 1981–2023, incluindo os aumentos de 0,75 °C e 0,49 °C por década em áreas da Amazônia. A recuperação direta da página original foi registrada no run privado, com corpo completo acessível e conferência de data, título e conteúdo.",
+      "selectionReason": "Resultado climático brasileiro de alta relevância territorial, amparado por página institucional e pelo artigo científico original ligado no texto.",
+      "contentReview": {
+        "bodyComplete": true,
+        "aiSummaryReviewed": true
+      }
     },
     {
       "articleId": "ciencia-nasa-cratera-lunar",
       "url": "https://science.nasa.gov/solar-system/moon/nasas-moon-orbiter-spots-new-once-in-century-moon-crater/",
       "publishedAt": "2026-09-16T00:00:00Z",
-      "evidence": "A página da NASA, datada de 16/09/2026, identifica a cratera McGetchin, informa impacto entre abril e maio de 2024, dimensões de 222 por 43 metros e uma área fria de cerca de 6,4 quilômetros.",
-      "selectionReason": "Descoberta espacial rara baseada em comparação de imagens e instrumentos orbitais, com relevância para o estudo de impactos e futuras operações lunares."
+      "evidence": "A página da NASA, datada de 16/09/2026, identifica a cratera McGetchin, informa impacto entre abril e maio de 2024, dimensões de 222 por 43 metros e uma área fria de cerca de 6,4 quilômetros. A recuperação direta da página original foi registrada no run privado, com corpo completo acessível e conferência de data, título e conteúdo.",
+      "selectionReason": "Descoberta espacial rara baseada em comparação de imagens e instrumentos orbitais, com relevância para o estudo de impactos e futuras operações lunares.",
+      "contentReview": {
+        "bodyComplete": true,
+        "aiSummaryReviewed": true
+      }
     },
     {
       "articleId": "ciencia-stanford-organoides-cerebrais",
       "url": "https://med.stanford.edu/news/all-news/2026/09/model-to-study-brain-development.html",
       "publishedAt": "2026-09-16T00:00:00Z",
-      "evidence": "A página da Stanford Medicine, datada de 16/09/2026, descreve organoides corticais humanos transplantados em camundongos, conexões com cérebro e medula e a publicação do estudo na Nature.",
-      "selectionReason": "Avanço biomédico com método e limite claramente descritos, além de possível uso futuro para investigar doenças do desenvolvimento neurológico."
+      "evidence": "A página da Stanford Medicine, datada de 16/09/2026, descreve organoides corticais humanos transplantados em camundongos, conexões com cérebro e medula e a publicação do estudo na Nature. A recuperação direta da página original foi registrada no run privado, com corpo completo acessível e conferência de data, título e conteúdo.",
+      "selectionReason": "Avanço biomédico com método e limite claramente descritos, além de possível uso futuro para investigar doenças do desenvolvimento neurológico.",
+      "contentReview": {
+        "bodyComplete": true,
+        "aiSummaryReviewed": true
+      }
     },
     {
       "articleId": "ciencia-berkeley-papiros-carbonizados",
       "url": "https://news.berkeley.edu/2026/09/16/to-read-2000-year-old-burned-scrolls-scientists-burn-their-own/",
       "publishedAt": "2026-09-16T00:00:00Z",
-      "evidence": "A notícia da UC Berkeley, datada de 16/09/2026, explica o modelo de papiro carbonizado e a demonstração publicada na PLOS ONE de que chumbo aumenta o contraste em tomografia e pode ser detectado por fluorescência de raios X.",
-      "selectionReason": "Método interdisciplinar com resultado reproduzível e relevância para a preservação e leitura de patrimônio documental."
+      "evidence": "A notícia da UC Berkeley, datada de 16/09/2026, explica o modelo de papiro carbonizado e a demonstração publicada na PLOS ONE de que chumbo aumenta o contraste em tomografia e pode ser detectado por fluorescência de raios X. A recuperação direta da página original foi registrada no run privado, com corpo completo acessível e conferência de data, título e conteúdo.",
+      "selectionReason": "Método interdisciplinar com resultado reproduzível e relevância para a preservação e leitura de patrimônio documental.",
+      "contentReview": {
+        "bodyComplete": true,
+        "aiSummaryReviewed": true
+      }
     },
     {
       "articleId": "ciencia-fsu-meteoritos-quimica-organica",
       "url": "https://maglabweb.magnet.fsu.edu/news-events/news/molecular-structure-of-meteorite/",
       "publishedAt": "2026-09-16T00:00:00Z",
-      "evidence": "O National MagLab data a página de 16/09/2026 e relata análise combinada de espectrometria e microscopia em Murchison e Aguas Zarcas, com dezenas de milhares de moléculas orgânicas identificadas.",
-      "selectionReason": "Pesquisa internacional sobre a química do Sistema Solar, com instituições participantes, técnicas e limites interpretativos explicitados pela fonte do laboratório."
+      "evidence": "O National MagLab data a página de 16/09/2026 e relata análise combinada de espectrometria e microscopia em Murchison e Aguas Zarcas, com dezenas de milhares de moléculas orgânicas identificadas. A recuperação direta da página original foi registrada no run privado, com corpo completo acessível e conferência de data, título e conteúdo.",
+      "selectionReason": "Pesquisa internacional sobre a química do Sistema Solar, com instituições participantes, técnicas e limites interpretativos explicitados pela fonte do laboratório.",
+      "contentReview": {
+        "bodyComplete": true,
+        "aiSummaryReviewed": true
+      }
     }
   ],
   "shortfall": {
     "pt-BR": "",
     "en": ""
   },
-  "improvements": []
+  "improvements": [],
+  "candidateRun": "research/runs/2026-09-21T01-50-54-389Z-6be61b14-2359-4471-ba3a-c9604ea7effa",
+  "retrievedAt": "2026-09-21T02:05:00Z",
+  "reviewStatus": "draft-source-verified-no-publication-approval"
 }

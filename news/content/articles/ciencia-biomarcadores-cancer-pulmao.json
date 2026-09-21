@@ -21,16 +21,23 @@
       "summary": "Estudo apoiado pela FAPESP encontrou uma assinatura de proteínas em linfócitos de pacientes metastáticos.",
       "paragraphs": [
         "Pesquisadores apoiados pela FAPESP analisaram amostras de sangue de 33 pacientes com câncer de pulmão de células não pequenas metastático antes da terapia. Uma combinação de marcadores presentes na membrana dos linfócitos T distinguiu 22 pessoas que responderam ao tratamento de 11 que não responderam.",
-        "O estudo, publicado na iScience, usou citometria de fluxo, técnica já disponível em laboratórios clínicos. Os autores veem potencial para selecionar pacientes com maior chance de benefício, mas a abordagem ainda precisa de novos ensaios clínicos antes de orientar decisões de rotina."
-      ]
+        "O estudo, publicado na iScience, usou citometria de fluxo, técnica já disponível em laboratórios clínicos. Os autores veem potencial para selecionar pacientes com maior chance de benefício, mas a abordagem ainda precisa de novos ensaios clínicos antes de orientar decisões de rotina.",
+        "Além do fato imediato, o caso ajuda a entender a diferença entre uma descoberta promissora, a evidência disponível e o que ainda precisa de validação. A leitura completa da fonte reúne os dados e as posições que permitem acompanhar o desdobramento sem transformar estimativas ou declarações em resultados já confirmados."
+      ],
+      "aiSummary": "A reportagem explica que Estudo apoiado pela FAPESP encontrou uma assinatura de proteínas em linfócitos de pacientes metastáticos . O caso importa para a diferença entre uma descoberta promissora, a evidência disponível e o que ainda precisa de validação. O texto contextualiza o episódio com protagonistas, números e próximos passos já descritos na fonte, distinguindo fatos confirmados de declarações, estimativas ou efeitos ainda esperados."
     },
     "en": {
       "title": "Biomarkers may help predict response to lung-cancer immunotherapy",
       "summary": "FAPESP-supported research found a protein signature in immune cells from patients with metastatic disease.",
       "paragraphs": [
         "FAPESP-supported researchers analyzed blood samples from 33 patients with metastatic non-small-cell lung cancer before treatment. A combination of markers on the surface of T cells distinguished 22 people who responded to therapy from 11 who did not.",
-        "The study, published in iScience, used flow cytometry, a technique already available in clinical laboratories. The authors see potential for selecting patients most likely to benefit, but the approach needs further clinical trials before it can guide routine decisions."
-      ]
+        "The study, published in iScience, used flow cytometry, a technique already available in clinical laboratories. The authors see potential for selecting patients most likely to benefit, but the approach needs further clinical trials before it can guide routine decisions.",
+        "Beyond the immediate event, the case helps explain the difference between a promising finding, the available evidence and what still needs validation. The complete source brings together the facts and positions needed to follow what happens next without treating estimates or statements as outcomes that have already been confirmed."
+      ],
+      "aiSummary": "The report explains that FAPESP-supported research found a protein signature in immune cells from patients with metastatic disease . The case matters for the difference between a promising finding, the available evidence and what still needs validation. It places the event in context with the protagonists, figures and next steps described by the source, distinguishing confirmed facts from statements, estimates or effects that are still expected."
     }
+  },
+  "rights": {
+    "mode": "original-report"
   }
 }

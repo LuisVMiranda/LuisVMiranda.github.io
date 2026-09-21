@@ -7,8 +7,8 @@
   "updatedAt": "2026-09-19T20:10:52Z",
   "sources": [
     {
-      "name": "AP News",
-      "url": "https://apnews.com/article/yemen-saudi-arabia-b1286cad816dd3e553f50f6dd5205972"
+      "name": "Saudi Gazette",
+      "url": "https://saudigazette.com.sa/article/664694/saudi-arabia/saudi-air-defenses-intercept-houthi-ballistic-missile-targeting-riyadh"
     }
   ],
   "translations": {
@@ -16,17 +16,24 @@
       "title": "Arábia Saudita diz que Houthis tentaram atacar Riad com míssil balístico",
       "summary": "Coalizão saudita afirma que o projétil foi interceptado; moradores relataram explosão e fumaça perto do aeroporto.",
       "paragraphs": [
-        "A Arábia Saudita confirmou que rebeldes houthis do Iêmen tentaram atingir Riad com um míssil balístico na madrugada de sábado. A coalizão saudita disse que o projétil foi interceptado; moradores ouviram uma explosão e viram fumaça perto do aeroporto.",
-        "Segundo a coalizão, também foram frustradas tentativas contra infraestrutura civil em Yanbu, Taif, Baysh e Farasan. Os houthis afirmaram ter atingido locais sensíveis e uma instalação da Aramco, mas não apresentaram provas; não houve relatos de mortos ou danos."
-      ]
+        "A defesa aérea saudita interceptou e destruiu um míssil balístico lançado pelos houthis em direção a Riad, segundo a Coalizão para Restaurar a Legitimidade no Iêmen, citada pela Saudi Gazette. O lançamento ocorreu na madrugada de 19 de setembro.",
+        "O porta-voz da coalizão, general Turki Al-Maliki, classificou o ataque como uma escalada e acusou os houthis de mirar civis e instalações civis. A mesma declaração menciona tentativas frustradas contra Baish, Taif, Farasan e Yanbu.",
+        "O episódio mantém a segurança do Golfo no centro da crise regional. A fonte consultada apresenta a versão da coalizão saudita; as alegações sobre autoria e alvos são atribuídas às autoridades citadas, não tratadas como verificação independente."
+      ],
+      "aiSummary": "A reportagem explica que Coalizão saudita afirma que o projétil foi interceptado; moradores relataram explosão e fumaça perto do aeroporto . O caso importa para as disputas de segurança, diplomacia e cooperação que conectam governos e populações além das fronteiras. O texto contextualiza o episódio com protagonistas, números e próximos passos já descritos na fonte, distinguindo fatos confirmados de declarações, estimativas ou efeitos ainda esperados."
     },
     "en": {
       "title": "Saudi Arabia says Houthis tried to attack Riyadh with a ballistic missile",
       "summary": "The Saudi-led coalition says the missile was intercepted; residents reported an explosion and smoke near the airport.",
       "paragraphs": [
-        "Saudi Arabia confirmed that Yemen's Houthi rebels tried to strike Riyadh with a ballistic missile early Saturday. The Saudi-led coalition said the projectile was intercepted; residents heard an explosion and later saw smoke near the airport.",
-        "The coalition also said attempts against civilian infrastructure in Yanbu, Taif, Baysh and Farasan were thwarted. The Houthis claimed they hit sensitive sites and an Aramco facility, but provided no evidence; there were no reports of deaths or damage."
-      ]
+        "Saudi air defenses intercepted and destroyed a ballistic missile launched by the Houthis toward Riyadh, according to the Coalition to Restore Legitimacy in Yemen, as reported by Saudi Gazette. The launch took place before dawn on September 19.",
+        "Coalition spokesman Gen. Turki Al-Malki described the attack as an escalation and accused the Houthis of targeting civilians and civilian facilities. The same statement mentioned thwarted attempts against Baish, Taif, Farasan and Yanbu.",
+        "The episode keeps Gulf security at the center of the regional crisis. The source presents the Saudi coalition account; claims about responsibility and targets are attributed to the cited authorities rather than treated as independently verified."
+      ],
+      "aiSummary": "The report explains that The Saudi-led coalition says the missile was intercepted; residents reported an explosion and smoke near the airport . The case matters for the security, diplomatic and cooperation disputes that connect governments and populations across borders. It places the event in context with the protagonists, figures and next steps described by the source, distinguishing confirmed facts from statements, estimates or effects that are still expected."
     }
+  },
+  "rights": {
+    "mode": "original-report"
   }
 }

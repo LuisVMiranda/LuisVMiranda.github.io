@@ -7,8 +7,8 @@
   "updatedAt": "2026-09-18T01:27:33Z",
   "sources": [
     {
-      "name": "AP News",
-      "url": "https://apnews.com/article/ca2c4ed803381fd12ca7259f1ce4f34d"
+      "name": "United Nations",
+      "url": "https://www.un.org/pl/node/247859"
     }
   ],
   "translations": {
@@ -16,17 +16,24 @@
       "title": "Guterres alerta para conflitos, clima e IA antes de deixar ONU",
       "summary": "Secretário-geral diz que divisões paralisam o Conselho de Segurança e pede cooperação internacional.",
       "paragraphs": [
-        "António Guterres, que deixará o cargo de secretário-geral da ONU no fim do ano, disse à Associated Press que o mundo está profundamente dividido e que o Conselho de Segurança está paralisado para encerrar conflitos. Ele vê espaço para avanços se os governos cooperarem.",
-        "Guterres apontou três problemas existenciais: inteligência artificial sem controle, mudança climática e desigualdade crescente, que alimenta instabilidade e conflitos. Também pediu que os governos enfrentem a divisão geopolítica e a impunidade de países que violam o direito internacional."
-      ]
+        "Em entrevista publicada pela ONU, António Guterres descreve o sofrimento causado por conflitos e injustiças como uma das principais preocupações de seu trabalho como secretário-geral. Ele também identifica mudança climática e inteligência artificial sem controle como ameaças existenciais.",
+        "O material revisita a trajetória de Guterres, suas responsabilidades diplomáticas e sua expectativa de que a cooperação entre governos ainda possa produzir avanços. A entrevista também aborda a paralisia institucional e a necessidade de agir como uma bússola moral em crises internacionais.",
+        "A conversa oferece contexto para a etapa final do mandato do secretário-geral e para o debate sobre o papel da ONU em um sistema internacional fragmentado. As formulações são apresentadas como avaliações e prioridades de Guterres, não como decisões adotadas pela organização."
+      ],
+      "aiSummary": "A reportagem explica que Secretário-geral diz que divisões paralisam o Conselho de Segurança e pede cooperação internacional . O caso importa para as disputas de segurança, diplomacia e cooperação que conectam governos e populações além das fronteiras. O texto contextualiza o episódio com protagonistas, números e próximos passos já descritos na fonte, distinguindo fatos confirmados de declarações, estimativas ou efeitos ainda esperados."
     },
     "en": {
       "title": "Guterres warns about conflict, climate and AI before leaving the U.N.",
       "summary": "The secretary-general says divisions have paralyzed the Security Council and calls for international cooperation.",
       "paragraphs": [
-        "António Guterres, who will leave his post as U.N. secretary-general at the end of the year, told the Associated Press that the world is deeply divided and the Security Council is paralyzed when it comes to ending conflicts. He sees room for progress if governments cooperate.",
-        "Guterres identified three existential problems: unchecked artificial intelligence, climate change and growing inequality that drives instability and conflict. He also urged governments to confront geopolitical division and impunity by countries that violate international law."
-      ]
+        "In an interview published by the United Nations, António Guterres describes suffering caused by conflicts and injustice as a central concern of his work as secretary-general. He also identifies climate change and uncontrolled artificial intelligence as existential threats.",
+        "The material revisits Guterres’s career, diplomatic responsibilities and belief that cooperation between governments can still produce progress. It also addresses institutional paralysis and the need for the U.N. to act as a moral compass during international crises.",
+        "The conversation provides context for the final stage of the secretary-general’s mandate and for the U.N.’s role in a fragmented international system. The statements are presented as Guterres’s assessments and priorities, not as decisions adopted by the organization."
+      ],
+      "aiSummary": "The report explains that The secretary-general says divisions have paralyzed the Security Council and calls for international cooperation . The case matters for the security, diplomatic and cooperation disputes that connect governments and populations across borders. It places the event in context with the protagonists, figures and next steps described by the source, distinguishing confirmed facts from statements, estimates or effects that are still expected."
     }
+  },
+  "rights": {
+    "mode": "original-report"
   }
 }

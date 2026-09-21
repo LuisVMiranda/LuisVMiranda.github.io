@@ -7,8 +7,8 @@
   "updatedAt": "2026-09-19T09:37:44Z",
   "sources": [
     {
-      "name": "AP News",
-      "url": "https://apnews.com/article/trump-greenland-military-denmark-0eac9ad2196551525bcb8c71e80c480e"
+      "name": "Danish Prime Minister’s Office",
+      "url": "https://english.stm.dk/press/press-releases/expected-agreement-on-strengthened-security-in-the-arctic-and-the-north-atlantic-area/"
     }
   ],
   "translations": {
@@ -16,17 +16,24 @@
       "title": "Acordo sobre a Groenlândia prevê ampliar presença militar dos EUA",
       "summary": "Trump anunciou pacto com Dinamarca e Groenlândia; a ilha permanece sob controle dinamarquês e os detalhes ainda não foram publicados.",
       "paragraphs": [
-        "O presidente Donald Trump anunciou um acordo com a Dinamarca para ampliar a presença militar dos Estados Unidos na Groenlândia, território autônomo de um aliado da Otan. O anúncio ocorreu após meses de ameaças de tomar a ilha à força.",
-        "O pacto mantém a Groenlândia sob controle dinamarquês, mas o texto ainda não é público. Autoridades disseram que a assinatura está prevista para a Assembleia Geral da ONU e que os governos dinamarquês e groenlandês ainda precisam aprovar o acordo."
-      ]
+        "Groenlândia, Dinamarca e Estados Unidos esperavam assinar na Assembleia Geral da ONU um acordo para reforçar a segurança no Ártico e no Atlântico Norte, segundo o comunicado do gabinete do primeiro-ministro dinamarquês. A entrada em vigor dependeria de procedimentos parlamentares nacionais.",
+        "O texto oficial afirma que o acordo reconhece os interesses da Groenlândia, a soberania e a integridade territorial do Reino da Dinamarca e o direito do povo groenlandês à autodeterminação. A iniciativa também é apresentada como relevante para a Otan e a Europa.",
+        "A proposta combina cooperação militar e limites políticos que permanecem centrais para a questão groenlandesa. Como o comunicado não publica o texto integral do acordo, seus efeitos jurídicos e operacionais ainda dependem da assinatura e das aprovações previstas."
+      ],
+      "aiSummary": "A reportagem explica que Trump anunciou pacto com Dinamarca e Groenlândia; a ilha permanece sob controle dinamarquês e os detalhes ainda não foram publicados . O caso importa para as disputas de segurança, diplomacia e cooperação que conectam governos e populações além das fronteiras. O texto contextualiza o episódio com protagonistas, números e próximos passos já descritos na fonte, distinguindo fatos confirmados de declarações, estimativas ou efeitos ainda esperados."
     },
     "en": {
       "title": "Greenland deal would expand the U.S. military presence",
       "summary": "Trump announced a pact with Denmark and Greenland; the island remains under Danish control and details have not been published.",
       "paragraphs": [
-        "President Donald Trump announced an agreement with Denmark to expand the U.S. military presence in Greenland, an autonomous territory of a NATO ally. The announcement followed months of threats to take the island by force.",
-        "The pact keeps Greenland under Danish control, but its text has not been made public. Officials said it is expected to be signed at the U.N. General Assembly and still needs approval from Denmark and Greenland."
-      ]
+        "Greenland, Denmark and the United States were expected to sign an agreement at the U.N. General Assembly to strengthen security in the Arctic and North Atlantic, according to the Danish prime minister’s office. The agreement would enter into force only after national parliamentary procedures.",
+        "The official statement says the deal recognizes Greenland’s interests, the sovereignty and territorial integrity of the Kingdom of Denmark, and the Greenlandic people’s right to self-determination. It also presents the initiative as important for NATO and Europe.",
+        "The proposal combines military cooperation with political limits that remain central to Greenland’s status. Because the statement does not publish the full agreement, its legal and operational effects still depend on the planned signature and approvals."
+      ],
+      "aiSummary": "The report explains that Trump announced a pact with Denmark and Greenland; the island remains under Danish control and details have not been published . The case matters for the security, diplomatic and cooperation disputes that connect governments and populations across borders. It places the event in context with the protagonists, figures and next steps described by the source, distinguishing confirmed facts from statements, estimates or effects that are still expected."
     }
+  },
+  "rights": {
+    "mode": "original-report"
   }
 }

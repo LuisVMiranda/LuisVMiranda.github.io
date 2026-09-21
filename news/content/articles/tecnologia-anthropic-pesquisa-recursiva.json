@@ -18,16 +18,23 @@
       "summary": "Estudo atualizado em 18 de setembro relata ganhos de agentes em código e experimentos, com limites humanos ainda decisivos.",
       "paragraphs": [
         "O Anthropic Institute afirma que a empresa está delegando uma parcela crescente do desenvolvimento de IA a sistemas de IA. O texto atualizado em 18 de setembro relata que engenheiros da Anthropic enviam, em média, oito vezes mais código por trimestre do que no período de 2021 a 2025.",
-        "A página descreve agentes que escrevem código, executam experimentos e delegam horas de trabalho a outros agentes, mas ressalva que a empresa ainda não alcançou melhoria recursiva plenamente autônoma. Escolher objetivos, avaliar resultados e decidir quais problemas importam continuam sendo funções humanas centrais."
-      ]
+        "A página descreve agentes que escrevem código, executam experimentos e delegam horas de trabalho a outros agentes, mas ressalva que a empresa ainda não alcançou melhoria recursiva plenamente autônoma. Escolher objetivos, avaliar resultados e decidir quais problemas importam continuam sendo funções humanas centrais.",
+        "Além do fato imediato, o caso ajuda a entender a forma como inovação digital, inteligência artificial e regulação estão mudando instituições e serviços. A leitura completa da fonte reúne os dados e as posições que permitem acompanhar o desdobramento sem transformar estimativas ou declarações em resultados já confirmados."
+      ],
+      "aiSummary": "A reportagem explica que Estudo atualizado em 18 de setembro relata ganhos de agentes em código e experimentos, com limites humanos ainda decisivos . O caso importa para a forma como inovação digital, inteligência artificial e regulação estão mudando instituições e serviços. O texto contextualiza o episódio com protagonistas, números e próximos passos já descritos na fonte, distinguindo fatos confirmados de declarações, estimativas ou efeitos ainda esperados."
     },
     "en": {
       "title": "Anthropic describes AI progress inside its own model research",
       "summary": "A September 18 update reports gains in coding and experiments while saying human judgment remains decisive.",
       "paragraphs": [
         "The Anthropic Institute says the company is delegating a growing share of AI development to AI systems. The page updated on September 18 reports that Anthropic engineers now ship, on average, eight times as much code per quarter as they did from 2021 to 2025.",
-        "The page describes agents writing code, running experiments and delegating hours of work to other agents, but says the company has not reached fully autonomous recursive self-improvement. Choosing goals, evaluating results and deciding which problems matter remain core human functions."
-      ]
+        "The page describes agents writing code, running experiments and delegating hours of work to other agents, but says the company has not reached fully autonomous recursive self-improvement. Choosing goals, evaluating results and deciding which problems matter remain core human functions.",
+        "Beyond the immediate event, the case helps explain how digital innovation, artificial intelligence and regulation are changing institutions and services. The complete source brings together the facts and positions needed to follow what happens next without treating estimates or statements as outcomes that have already been confirmed."
+      ],
+      "aiSummary": "The report explains that A September 18 update reports gains in coding and experiments while saying human judgment remains decisive . The case matters for how digital innovation, artificial intelligence and regulation are changing institutions and services. It places the event in context with the protagonists, figures and next steps described by the source, distinguishing confirmed facts from statements, estimates or effects that are still expected."
     }
+  },
+  "rights": {
+    "mode": "original-report"
   }
 }

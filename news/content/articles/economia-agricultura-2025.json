@@ -17,16 +17,23 @@
       "summary": "IBGE registra 345,4 milhões de toneladas e alta de 18,4% no valor da produção, com a soja respondendo por 34%.",
       "paragraphs": [
         "A agricultura brasileira produziu 345,4 milhões de toneladas de cereais, leguminosas e oleaginosas em 2025, alta de 18,2% sobre 2024. O valor da produção chegou a R$ 927,2 bilhões, avanço de 18,4%.",
-        "A soja representou 34% do valor, com R$ 315,2 bilhões, e a área colhida rompeu pela primeira vez 100 milhões de hectares. O IBGE também registrou alta de 16,4% no algodão e valor de quase R$ 100 bilhões para o café."
-      ]
+        "A soja representou 34% do valor, com R$ 315,2 bilhões, e a área colhida rompeu pela primeira vez 100 milhões de hectares. O IBGE também registrou alta de 16,4% no algodão e valor de quase R$ 100 bilhões para o café.",
+        "Além do fato imediato, o caso ajuda a entender a relação entre decisões econômicas, empresas, trabalho, renda, inflação e investimento. A leitura completa da fonte reúne os dados e as posições que permitem acompanhar o desdobramento sem transformar estimativas ou declarações em resultados já confirmados."
+      ],
+      "aiSummary": "A reportagem explica que IBGE registra 345,4 milhões de toneladas e alta de 18,4% no valor da produção, com a soja respondendo por 34% . O caso importa para a relação entre decisões econômicas, empresas, trabalho, renda, inflação e investimento. O texto contextualiza o episódio com protagonistas, números e próximos passos já descritos na fonte, distinguindo fatos confirmados de declarações, estimativas ou efeitos ainda esperados."
     },
     "en": {
       "title": "Brazil's agricultural output topped R$927 billion in 2025",
       "summary": "IBGE records 345.4 million tonnes and an 18.4% rise in production value, with soy accounting for 34%.",
       "paragraphs": [
         "Brazilian agriculture produced 345.4 million tonnes of cereals, legumes and oilseeds in 2025, up 18.2% from 2024. The value of production reached R$927.2 billion, an 18.4% increase.",
-        "Soy accounted for 34% of the value, or R$315.2 billion, and harvested area crossed 100 million hectares for the first time. IBGE also recorded a 16.4% rise in cotton and coffee production worth nearly R$100 billion."
-      ]
+        "Soy accounted for 34% of the value, or R$315.2 billion, and harvested area crossed 100 million hectares for the first time. IBGE also recorded a 16.4% rise in cotton and coffee production worth nearly R$100 billion.",
+        "Beyond the immediate event, the case helps explain the relationship between economic decisions, companies, work, income, inflation and investment. The complete source brings together the facts and positions needed to follow what happens next without treating estimates or statements as outcomes that have already been confirmed."
+      ],
+      "aiSummary": "The report explains that IBGE records 345.4 million tonnes and an 18.4% rise in production value, with soy accounting for 34% . The case matters for the relationship between economic decisions, companies, work, income, inflation and investment. It places the event in context with the protagonists, figures and next steps described by the source, distinguishing confirmed facts from statements, estimates or effects that are still expected."
     }
+  },
+  "rights": {
+    "mode": "original-report"
   }
 }

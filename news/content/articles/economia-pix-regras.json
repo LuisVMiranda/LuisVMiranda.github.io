@@ -17,16 +17,23 @@
       "summary": "Banco Central regulamenta cobrança híbrida e autoriza Pix Automático em contas-salário a partir de julho de 2027.",
       "paragraphs": [
         "O Banco Central anunciou mudanças no regulamento do Pix para ampliar funcionalidades, reforçar a segurança e aperfeiçoar a participação de instituições. O Pix Automático poderá ser usado em contas-salário a partir de julho de 2027.",
-        "A cobrança híbrida reunirá boleto e QR Code do Pix no mesmo documento para reduzir pagamentos indevidos ou duplicados, com regras válidas a partir de fevereiro de 2027. A exclusão do Pix de instituições em certas situações também terá efeito imediato."
-      ]
+        "A cobrança híbrida reunirá boleto e QR Code do Pix no mesmo documento para reduzir pagamentos indevidos ou duplicados, com regras válidas a partir de fevereiro de 2027. A exclusão do Pix de instituições em certas situações também terá efeito imediato.",
+        "Além do fato imediato, o caso ajuda a entender a relação entre decisões econômicas, empresas, trabalho, renda, inflação e investimento. A leitura completa da fonte reúne os dados e as posições que permitem acompanhar o desdobramento sem transformar estimativas ou declarações em resultados já confirmados."
+      ],
+      "aiSummary": "A reportagem explica que Banco Central regulamenta cobrança híbrida e autoriza Pix Automático em contas-salário a partir de julho de 2027 . O caso importa para a relação entre decisões econômicas, empresas, trabalho, renda, inflação e investimento. O texto contextualiza o episódio com protagonistas, números e próximos passos já descritos na fonte, distinguindo fatos confirmados de declarações, estimativas ou efeitos ainda esperados."
     },
     "en": {
       "title": "Brazil's Pix gets new rules for fraud and salary accounts",
       "summary": "The Central Bank regulates hybrid billing and authorizes Pix Automatic in salary accounts from July 2027.",
       "paragraphs": [
         "Brazil's Central Bank announced changes to Pix rules to expand functionality, strengthen security and refine institutions' participation. Pix Automatic will be available in salary accounts from July 2027.",
-        "Hybrid billing will put a bank slip and Pix QR Code on the same document to reduce mistaken or duplicate payments, with the rules taking effect in February 2027. In certain cases, institutions can also be removed from Pix immediately."
-      ]
+        "Hybrid billing will put a bank slip and Pix QR Code on the same document to reduce mistaken or duplicate payments, with the rules taking effect in February 2027. In certain cases, institutions can also be removed from Pix immediately.",
+        "Beyond the immediate event, the case helps explain the relationship between economic decisions, companies, work, income, inflation and investment. The complete source brings together the facts and positions needed to follow what happens next without treating estimates or statements as outcomes that have already been confirmed."
+      ],
+      "aiSummary": "The report explains that The Central Bank regulates hybrid billing and authorizes Pix Automatic in salary accounts from July 2027 . The case matters for the relationship between economic decisions, companies, work, income, inflation and investment. It places the event in context with the protagonists, figures and next steps described by the source, distinguishing confirmed facts from statements, estimates or effects that are still expected."
     }
+  },
+  "rights": {
+    "mode": "original-report"
   }
 }
