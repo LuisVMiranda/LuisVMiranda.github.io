@@ -7,8 +7,8 @@
       "articleId": "ciencia-edicao-epigenetica-hepatite-b",
       "url": "https://www.nature.com/articles/d41586-026-02981-9",
       "publishedAt": "2026-09-21T00:00:00.000Z",
-      "evidence": "Complete extraction file 23f4bb9b0fbe.json from Nature, dated 2026-09-21 (calendar date only). It reports CRMA-1001 epigenetic tagging of hepatitis B viral DNA, results in human liver cells, mice and monkeys, and the first participant in a multiple-dose clinical trial. No independent corroboration URL was available in another complete extraction in this run; the source is retained as a complete, directly extracted Nature report.",
-      "selectionReason": "Current, substantive, directly extracted Nature science report with a clear research result and an explicit distinction between preclinical evidence and the early human trial.",
+      "evidence": "Complete extraction file 23f4bb9b0fbe.json from Nature, dated 2026-09-21 (calendar date only). It reports CRMA-1001 epigenetic tagging of hepatitis B viral DNA, results in human liver cells, mice and monkeys, and the first participant in a multiple-dose clinical trial. No independent corroboration URL was available in another complete extraction in this run; the source is retained as a complete, directly extracted Nature report. No independent corroboration was materially necessary: this is a low-risk research report, not medical advice or a treatment claim; the copy separates cell and animal results from the first participant in an early trial and does not promise efficacy.",
+      "selectionReason": "Current, substantive, directly extracted Nature science report with a clear research result and an explicit distinction between preclinical evidence and the early human trial; classified as low-risk because it makes no treatment recommendation or efficacy claim.",
       "contentReview": {
         "bodyComplete": true,
         "aiSummaryReviewed": true
@@ -29,8 +29,8 @@
       "articleId": "ciencia-temporada-de-degelo-do-artico",
       "url": "https://science.nasa.gov/earth/earth-observatory/arctic-melt-season-length-levels-off/",
       "publishedAt": "2026-09-21T00:00:00-04:00",
-      "evidence": "Complete extraction file 830d3c1eb1e2.json from NASA Science, published 2026-09-21 at 00:00:00-04:00. It reports a 1979-2023 satellite analysis finding an Arctic melt season about 40 days longer than in 1979, with most growth before 2010 and relative stabilization afterward, while warning that the pause may be temporary. No independent corroboration URL was available in another complete extraction in this run.",
-      "selectionReason": "Current primary-source NASA science report with a complete timestamp, explicit methods and careful limits on what the stabilization finding means.",
+      "evidence": "Complete extraction file 830d3c1eb1e2.json from NASA Science, published 2026-09-21 at 00:00:00-04:00. It reports a 1979-2023 satellite analysis finding an Arctic melt season about 40 days longer than in 1979, with most growth before 2010 and relative stabilization afterward, while warning that the pause may be temporary. No independent corroboration URL was available in another complete extraction in this run. No independent corroboration was materially necessary: NASA is the primary source for its own satellite analysis, the item is an observational science report, and the copy preserves the warning that stabilization may be temporary.",
+      "selectionReason": "Current primary-source NASA science report with a complete timestamp, explicit methods and careful limits on what the stabilization finding means; classified as low-risk observational science rather than a policy or safety claim.",
       "contentReview": {
         "bodyComplete": true,
         "aiSummaryReviewed": true
@@ -51,8 +51,8 @@
       "articleId": "ciencia-ai-co-cientista",
       "url": "https://www.nature.com/articles/d41586-026-02931-5",
       "publishedAt": "2026-09-21T00:00:00.000Z",
-      "evidence": "Complete extraction file d41918848bb0.json from Nature, dated 2026-09-21. It describes the Co-Scientist system's multi-agent search, synthesis, hypothesis refinement and critique workflow, including Anna Pertl's use of it to explore MYC-related cancer biology, and emphasizes continued human judgment. No independent corroboration URL was available in another complete extraction in this run.",
-      "selectionReason": "Current, substantive Nature report on a scientifically relevant AI workflow, with clear description of both the capability and the human-review limitation.",
+      "evidence": "Complete extraction file d41918848bb0.json from Nature, dated 2026-09-21. It describes the Co-Scientist system's multi-agent search, synthesis, hypothesis refinement and critique workflow, including Anna Pertl's use of it to explore MYC-related cancer biology, and emphasizes continued human judgment. No independent corroboration URL was available in another complete extraction in this run. No independent corroboration was materially necessary: this is a low-risk report of a research workflow, and the copy preserves the human-judgment limitation rather than presenting the system as an autonomous scientific authority.",
+      "selectionReason": "Current, substantive Nature report on a scientifically relevant AI workflow, with clear description of both the capability and the human-review limitation; classified as low-risk research reporting rather than a clinical or product-performance claim.",
       "contentReview": {
         "bodyComplete": true,
         "aiSummaryReviewed": true
@@ -62,8 +62,8 @@
       "articleId": "ciencia-vermes-regeneracao-cerebral",
       "url": "https://news.uga.edu/regenerating-the-brain/",
       "publishedAt": "2026-09-21T13:21:23+00:00",
-      "evidence": "Complete extraction file focused-ciencia-23.json from the University of Georgia, published 2026-09-21 at 13:21 UTC. It reports genes that guide planarian stem cells to form dopamine-producing neurons, the effects of gene knockouts on regeneration and the study's possible relevance to future brain-injury therapies.",
-      "selectionReason": "Current primary university science report with a complete dated body and a concrete regenerative-biology result; the source clearly distinguishes future therapeutic relevance from an available treatment.",
+      "evidence": "Complete extraction file focused-ciencia-23.json from the University of Georgia, published 2026-09-21 at 13:21 UTC. It reports genes that guide planarian stem cells to form dopamine-producing neurons, the effects of gene knockouts on regeneration and the study's possible relevance to future brain-injury therapies. No independent corroboration was materially necessary: this is a primary university report of preclinical planarian research, and the copy explicitly distinguishes possible future relevance from an available human therapy.",
+      "selectionReason": "Current primary university science report with a complete dated body and a concrete regenerative-biology result; the source clearly distinguishes future therapeutic relevance from an available treatment, and the item is classified as low-risk preclinical research.",
       "contentReview": {
         "bodyComplete": true,
         "aiSummaryReviewed": true
@@ -84,8 +84,8 @@
       "articleId": "ciencia-buracos-negros-jatos",
       "url": "https://www.theguardian.com/science/2026/sep/17/black-hole-burps-scientists-solve-mystery-astronomy",
       "publishedAt": "2026-09-17T09:00:44+00:00",
-      "evidence": "Complete extraction file focused-ciencia-21.json from The Guardian, published 2026-09-17 at 09:00 UTC. It reports radio observations of 20 tidal-disruption events, two recurring jet-emission phases and the possible value for telescope scheduling.",
-      "selectionReason": "In-scope, substantive astronomy report within the seven-day window, with a defined observational sample and measured limits rather than a speculative space claim.",
+      "evidence": "Complete extraction file focused-ciencia-21.json from The Guardian, published 2026-09-17 at 09:00 UTC. It reports radio observations of 20 tidal-disruption events, two recurring jet-emission phases and the possible value for telescope scheduling. No independent corroboration was materially necessary: this is a low-risk observational astronomy report with a defined sample and measured limits, not a safety, health or policy claim.",
+      "selectionReason": "In-scope, substantive astronomy report within the seven-day window, with a defined observational sample and measured limits rather than a speculative space claim; classified as low-risk observational astronomy with no health, safety or policy consequence.",
       "contentReview": {
         "bodyComplete": true,
         "aiSummaryReviewed": true

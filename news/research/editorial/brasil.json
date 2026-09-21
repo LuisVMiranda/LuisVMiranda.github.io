@@ -95,8 +95,8 @@
       "articleId": "brasil-bpc-inss-decisoes-2026-09-21",
       "url": "https://www.jornalcruzeiro.com.br/tendencias/noticia-preocupante-acaba-de-chegar-para-quem-solicitou-bpc-ao-inss/",
       "publishedAt": "2026-09-21T09:30:00-03:00",
-      "evidence": "Complete extraction caf657076384.json, status 200 with no warnings, published 2026-09-21; the report gives January–July INSS decision totals and explicitly notes that the 50.8% rejection rate covers multiple benefits, then summarizes BPC criteria and application follow-up steps. It is included as a service item while preserving that the aggregate is not BPC-specific.",
-      "selectionReason": "Current practical service report with a material caveat retained in both locales, avoiding the source headline’s sensational framing.",
+      "evidence": "Complete extraction caf657076384.json, status 200 with no warnings, published 2026-09-21; the report gives January–July INSS decision totals and explicitly notes that the 50.8% rejection rate covers multiple benefits, then summarizes BPC criteria and application follow-up steps. It is included as a service item while preserving that the aggregate is not BPC-specific. No independent corroboration was materially necessary: this is a low-risk service explainer, the figures are explicitly attributed to the report’s cited INSS totals, and the copy does not make an eligibility or legal determination.",
+      "selectionReason": "Current practical service report with a material caveat retained in both locales, avoiding the source headline’s sensational framing; classified as low-risk because it provides attributed administrative guidance rather than alleging misconduct or forecasting an outcome.",
       "contentReview": {
         "bodyComplete": true,
         "aiSummaryReviewed": true
@@ -107,7 +107,7 @@
       "url": "https://www.infomoney.com.br/mercados/ig4-prepara-oferta-para-credores-da-raizen-raiz4-e-mira-controle-da-companhia/",
       "publishedAt": "2026-09-21T14:38:16+00:00",
       "evidence": "Complete extraction 472c3d00c1fc.json, status 200 with no warnings, published 2026-09-21T14:38:16+00:00; the InfoMoney report states that IG4 is preparing a binding offer to Raízen creditors, that the company has about R$ 65 billion in debt, that the proposed structure targets more than 50% of the credits through cash and credit rights convertible into shares, and that the recovery plan would separate the Shell-Cosan venture into fuel and sugar-and-ethanol units. It also attributes the assessment about bond attractiveness and potential valuation effects to Bradesco BBI. Timestamp, market-navigation and related-link noise were excluded from the paraphrase.",
-      "selectionReason": "Pre-cutoff, complete InfoMoney financial reporting inside the preferred 24-hour window; distinct from every selected article across the desk drafts and from the shared IBGE maps and Cine Inclusão items, while adding Brazilian corporate-restructuring coverage without duplicating the Focus forecast story.",
+      "selectionReason": "Pre-cutoff, complete InfoMoney financial reporting inside the preferred 24-hour window; distinct from every selected article across the desk drafts and from the shared IBGE maps and Cine Inclusão items, while adding Brazilian corporate-restructuring coverage without duplicating the Focus forecast story. No independent corroboration was materially necessary for this report of a corporate-finance proposal: no transaction is presented as completed, no investment recommendation is made, and every figure and forward-looking action remains attributed to InfoMoney, IG4 or Bradesco BBI.",
       "contentReview": {
         "bodyComplete": true,
         "aiSummaryReviewed": true
