@@ -16,11 +16,11 @@
     ".gitignore": "8a133dd0a6fb070e7a40a8b9d8b8a52cc23ae56d862c37302c8befdbcec79259",
     ".prettierignore": "2ab123f0aba282c5e5ab96f6ff283359bd1a3998bbb7d9cb17853770c329870c",
     ".prettierrc.json": "e51419e8206a0a5493e85ef1f4dea080982dc9187992bb253220a93d0784f6b2",
-    "README.md": "3e1bf69465d9dcdd05c6d8beedaf4c3b191ab43350f26081fd040adf7a01d867",
+    "README.md": "e2cb285a0b379c1d315fda5128bcebd29b216202d85ea70a84650aeeb450d308",
     "eslint.config.mjs": "ac8d177e0c3f8a9bf003371c75ba5feb8b8c9e45555203311c6707cba4372be0",
     "news-report.md": "b7d4be8711929cdef575f8accb97cc16b9f211829a9f0f9773a6fe395379afeb",
     "package-lock.json": "35e74f451a05a5669679a4f2dc54599c67b75d5620d7791818c738ba61ddff08",
-    "package.json": "27cf40834ec7e26d9acbebbd4b6107604cec6b564acc09d778ef7a3cb68a605e",
+    "package.json": "6dfcfa5666ce51fceee26c35be62441d063464193f3caf13b4c3b34045afebbd",
     "playwright.config.ts": "e23638ac27d651ee8f708e5153554a1e00d05c54820fd15e43e0a52d844af73a",
     "public/favicon.svg": "e8d52932b184475a40abb0a44d12dec3a220b790c63927911320a00be5255e92",
     "scripts/build-assets.ts": "8a9efef70bbe74e9eb1b62af91549fdb84f05482cf3907445f96fc6721fab964",
@@ -86,7 +86,7 @@
     "src/render/shell.js": "ca71e4fccadf4e5a8d5fa86e2ca15fca5e6757d8e1dc43e962a459d6319ba81e",
     "src/render/types.ts": "c8f55cd51b387c5ea281e3c236ad76acd11423a5b82d29c06a2d37a20da646e1",
     "src/styles/archive.css": "96b8ca9651ae33ce36fef5880e2a801d891fff54b4c0a91635a7b103f76bc1f6",
-    "src/styles/article.css": "a06ab907092ed03f9ceb7179264e5d00fb719191469fe8502a957825bda4039d",
+    "src/styles/article.css": "9dd9b343119881078b25a20a9c7eb7b78001b160c546d77c48ba14ee9e8c5353",
     "src/styles/base.css": "c9791f8035a7ca291891e88943ce941bca278d81030d2a01e25b4b460c340976",
     "src/styles/editorial.css": "0a080446d22cef3afa42d98224496f8eab6284d494c8ffd8f688bbd7f228e78c",
     "src/styles/error.css": "f9f6ecbb521ff8c4cf20b63a0735c255646e8be75e3c04366d0241ede2c66b8c",
@@ -348,7 +348,7 @@
       ],
       "files": {
         "src/render/pages/article.js": "a0040d50dedf2f34dbf049fc5b0602bd8f0dcfe940eabe737380eb9309206b70",
-        "src/styles/article.css": "a06ab907092ed03f9ceb7179264e5d00fb719191469fe8502a957825bda4039d"
+        "src/styles/article.css": "9dd9b343119881078b25a20a9c7eb7b78001b160c546d77c48ba14ee9e8c5353"
       }
     },
     {

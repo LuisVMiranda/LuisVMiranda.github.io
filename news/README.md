@@ -66,6 +66,13 @@ The daily job refreshes the current same-date edition in place when newer
 verified stories arrive, so the homepage and section pages always show the
 latest rankings; older dated editions remain in the archive.
 
+The `github-news-retention` job runs daily at 08:30 GMT-3 after publication.
+It keeps the active editions and the three-day archive window, removes older
+unreferenced article files, and prunes old local research/build artifacts. It
+protects articles still referenced by an active edition so cleanup cannot create
+broken routes; the next news refresh replaces those references with fresh
+stories before they leave the active window.
+
 ## Design and architecture
 
 The frontend uses HTML rendered at build time by small JavaScript modules,

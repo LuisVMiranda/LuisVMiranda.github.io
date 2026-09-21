@@ -6,13 +6,14 @@
 }
 
 .article-header {
-  padding-block: clamp(0.5rem, 1.5vw, 1.5rem) clamp(1.25rem, 2.2vw, 1.75rem);
+  padding-block: clamp(0.25rem, 0.75vw, 0.75rem)
+    clamp(0.625rem, 1.1vw, 0.875rem);
 }
 
 .article-eyebrow {
   color: var(--section-accent);
   line-height: 1.4;
-  margin: 0 0 1.25rem;
+  margin: 0 0 0.625rem;
 }
 
 .article-eyebrow a,
@@ -33,7 +34,7 @@
   font-size: clamp(3rem, 5.2vw, 3.625rem);
   letter-spacing: -0.045em;
   line-height: 1;
-  margin: 0 0 1.25rem;
+  margin: 0 0 0.625rem;
   max-width: 100%;
   text-wrap: balance;
 }
@@ -43,7 +44,7 @@
   font-family: 'Source Serif 4', Georgia, serif;
   font-size: clamp(1.2rem, 2.2vw, 1.5rem);
   line-height: 1.4;
-  margin: 0 0 clamp(1.75rem, 4vw, 2.75rem);
+  margin: 0 0 clamp(0.875rem, 2vw, 1.375rem);
 }
 
 .article-meta-row {
@@ -99,7 +100,7 @@
   font-family: 'Source Serif 4', Georgia, serif;
   font-size: var(--article-size, 18px);
   line-height: 1.65;
-  margin-block: clamp(1.5rem, 3vw, 2.25rem) 0;
+  margin-block: clamp(0.75rem, 1.5vw, 1.125rem) 0;
 }
 
 .article-content > p:first-child {
