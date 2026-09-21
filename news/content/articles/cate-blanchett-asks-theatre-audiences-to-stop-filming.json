@@ -4,7 +4,7 @@
   "section": "mundo",
   "secondarySections": ["cultura"],
   "publishedAt": "2026-09-21T14:03:20.131Z",
-  "updatedAt": "2026-09-21T14:03:20.131Z",
+  "updatedAt": "2026-09-21T19:43:50.732Z",
   "sources": [
     {
       "name": "BBC News",
@@ -21,9 +21,14 @@
       "paragraphs": [
         "Cate Blanchett pediu ao público que guardasse os celulares durante as apresentações de Electra/Persona, peça em cartaz no National Theatre de Londres. A atriz fez o apelo durante os aplausos de uma sessão de sexta-feira, e a plateia respondeu com gritos de apoio e palmas.",
         "Um espectador relatou que a gravação ocorreu no intervalo entre os dois atos, quando a equipe limpava o palco e o elenco fazia maquiagem, e não durante a encenação. Segundo esse relato, Blanchett percebeu a pessoa filmando, pediu que parasse e voltou ao assunto no final da sessão.",
-        "A montagem, escrita e dirigida por Benedict Andrews, permanece em cartaz até 10 de outubro e divide papéis entre Blanchett e Nina Hoss por meio de um sorteio realizado no palco. A BBC lembrou que outros artistas, como Rosamund Pike, Cynthia Erivo e Andrew Scott, também já interromperam ou criticaram o uso de celulares em espetáculos."
+        "A montagem, escrita e dirigida por Benedict Andrews, permanece em cartaz até 10 de outubro e divide papéis entre Blanchett e Nina Hoss por meio de um sorteio realizado no palco. A BBC lembrou que outros artistas, como Rosamund Pike, Cynthia Erivo e Andrew Scott, também já interromperam ou criticaram o uso de celulares em espetáculos.",
+        "O relato do espectador acrescenta uma ressalva importante: a gravação teria ocorrido no intervalo, enquanto o palco era limpo e o elenco se maquiava, e não durante a encenação. Blanchett, porém, percebeu o celular, pediu que a pessoa parasse e retomou o assunto nos aplausos finais.",
+        "O episódio ocorre dentro de uma discussão recorrente sobre registro de apresentações ao vivo. Electra/Persona segue em cartaz até 10 de outubro, com Blanchett e Nina Hoss alternando papéis por sorteio no palco, enquanto a BBC relaciona o pedido a protestos semelhantes de outros artistas."
       ],
-      "aiSummary": "Cate Blanchett pediu que espectadores não filmassem durante Electra/Persona, depois de notar uma gravação no intervalo. A reação se soma a uma série de protestos de artistas contra celulares em apresentações ao vivo."
+      "aiSummary": [
+        "Segundo um espectador, a gravação ocorreu no intervalo, não durante a encenação.",
+        "Blanchett se juntou a outros artistas que criticam celulares em espetáculos ao vivo."
+      ]
     },
     "en": {
       "title": "Cate Blanchett asks theater audiences not to film during performances",
@@ -31,9 +36,14 @@
       "paragraphs": [
         "Cate Blanchett asked audiences to put their phones away during performances of Electra/Persona at London’s National Theatre. She made the appeal during the curtain call after a Friday performance, and the audience responded with cheers and applause.",
         "One theatergoer said the recording happened during the interval between the two acts, while staff cleaned the stage and the cast applied makeup, rather than during the performance itself. According to that account, Blanchett noticed the person filming, signaled for them to stop and mentioned it again at the end.",
-        "The production, written and directed by Benedict Andrews, runs until Oct. 10 and has Blanchett and Nina Hoss switching roles through a live coin toss before each performance. The BBC noted that performers including Rosamund Pike, Cynthia Erivo and Andrew Scott have also objected to phone use in theaters."
+        "The production, written and directed by Benedict Andrews, runs until Oct. 10 and has Blanchett and Nina Hoss switching roles through a live coin toss before each performance. The BBC noted that performers including Rosamund Pike, Cynthia Erivo and Andrew Scott have also objected to phone use in theaters.",
+        "The theatergoer’s account adds an important qualification: the recording reportedly happened during the interval, while the stage was being cleaned and the cast applied makeup, not during the performance. Blanchett nevertheless noticed the phone, asked the person to stop and returned to the issue at curtain call.",
+        "The episode sits within a recurring debate over recording live performances. Electra/Persona runs until October 10, with Blanchett and Nina Hoss switching roles through a stage coin toss, while the BBC links the request to similar objections from other performers."
       ],
-      "aiSummary": "Cate Blanchett asked theatergoers not to film Electra/Persona after noticing a recording during the interval. Her reaction joins a series of performers’ complaints about phones during live performances."
+      "aiSummary": [
+        "A theatergoer said the recording happened during the interval, not the performance.",
+        "Blanchett joins other performers who have criticized phones at live shows."
+      ]
     }
   }
 }

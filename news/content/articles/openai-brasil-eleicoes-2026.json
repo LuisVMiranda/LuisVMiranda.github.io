@@ -4,7 +4,7 @@
   "section": "tecnologia",
   "secondarySections": ["politica"],
   "publishedAt": "2026-09-21T13:01:00.000-03:00",
-  "updatedAt": "2026-09-21T13:01:00.000-03:00",
+  "updatedAt": "2026-09-21T19:43:50.732Z",
   "sources": [
     {
       "name": "Canaltech",
@@ -21,9 +21,14 @@
       "paragraphs": [
         "Bruno Lewicki, diretor de políticas públicas da OpenAI na América Latina, afirmou que a eleição brasileira de 2026 será um teste importante para o uso de IA generativa em campanhas. Segundo a empresa, a experiência poderá orientar medidas em pleitos futuros de países como França e Espanha.",
         "A OpenAI diz que criou mecanismos contra interferência eleitoral, operações de influência e tentativas de ocultar a origem de conteúdos gerados por IA. A companhia também afirma que seguirá regras do Tribunal Superior Eleitoral e manterá um canal para comunicações de autoridades brasileiras.",
-        "A matéria descreve ainda regras do TSE que exigem identificação explícita de propaganda produzida ou alterada de forma significativa por IA e restringem novos conteúdos sintéticos com imagem ou voz de candidatos em torno da votação. A empresa reconhece que o problema continua quando o material sai da ferramenta e circula por redes sociais e mensageiros."
+        "A matéria descreve ainda regras do TSE que exigem identificação explícita de propaganda produzida ou alterada de forma significativa por IA e restringem novos conteúdos sintéticos com imagem ou voz de candidatos em torno da votação. A empresa reconhece que o problema continua quando o material sai da ferramenta e circula por redes sociais e mensageiros.",
+        "O texto coloca duas camadas lado a lado: as salvaguardas e o canal de comunicação são compromissos declarados pela OpenAI, enquanto a identificação obrigatória de conteúdo sintético e as restrições próximas à votação pertencem às regras descritas do TSE. São referências diferentes, ainda que atuem no mesmo problema.",
+        "A limitação reconhecida pela própria empresa está no percurso posterior: depois que um material sai da ferramenta, ele pode circular por redes sociais e mensageiros. Assim, o teste brasileiro envolve não apenas a geração, mas também a capacidade de conter abusos e desinformação fora do ambiente controlado."
       ],
-      "aiSummary": "A OpenAI vê a eleição de 2026 no Brasil como um teste de suas medidas contra abusos políticos e conteúdos sintéticos."
+      "aiSummary": [
+        "A OpenAI separa suas salvaguardas declaradas das regras do TSE sobre conteúdo sintético em campanhas.",
+        "A própria empresa reconhece que o material pode continuar circulando por redes sociais e mensageiros após sair da ferramenta."
+      ]
     },
     "en": {
       "title": "OpenAI calls Brazil’s 2026 election a test for its AI safeguards",
@@ -31,9 +36,14 @@
       "paragraphs": [
         "Bruno Lewicki, OpenAI’s public-policy director for Latin America, said Brazil’s 2026 election will be an important test for generative AI in campaigns. The company says the experience could guide measures in future elections in countries such as France and Spain.",
         "OpenAI says it has created mechanisms against election interference, influence operations, and attempts to hide the origin of AI-generated material. The company also says it will follow Superior Electoral Court rules and maintain a channel for communications from Brazilian authorities.",
-        "The report also describes TSE rules requiring explicit labeling of campaign material produced or significantly altered by AI and restricting new synthetic content using candidates’ images or voices around voting. The company acknowledges that the problem continues once material leaves the tool and circulates through social networks and messaging services."
+        "The report also describes TSE rules requiring explicit labeling of campaign material produced or significantly altered by AI and restricting new synthetic content using candidates’ images or voices around voting. The company acknowledges that the problem continues once material leaves the tool and circulates through social networks and messaging services.",
+        "The report places two layers side by side: the safeguards and communications channel are commitments stated by OpenAI, while mandatory labeling of synthetic content and restrictions near voting belong to the TSE rules described. They are different references addressing the same problem.",
+        "The limitation acknowledged by the company lies in what happens afterward: once material leaves the tool, it can circulate through social networks and messaging services. Brazil's test therefore involves not only generation, but also the ability to contain abuse and misinformation outside the controlled environment."
       ],
-      "aiSummary": "OpenAI sees Brazil’s 2026 election as a test of measures against political abuse and synthetic content."
+      "aiSummary": [
+        "OpenAI's stated safeguards are distinct from TSE rules on synthetic campaign content.",
+        "The company acknowledges that material can continue circulating through social networks and messaging services after leaving the tool."
+      ]
     }
   }
 }

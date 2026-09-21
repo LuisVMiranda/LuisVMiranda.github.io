@@ -4,7 +4,7 @@
   "section": "tecnologia",
   "secondarySections": ["economia"],
   "publishedAt": "2026-09-21T12:33:00.748Z",
-  "updatedAt": "2026-09-21T12:33:00.748Z",
+  "updatedAt": "2026-09-21T19:43:50.732Z",
   "sources": [
     {
       "name": "Bloomberg Línea",
@@ -21,9 +21,14 @@
       "paragraphs": [
         "O Bank of America avalia que a adoção de agentes de inteligência artificial amplia o campo de ameaças e cria novas necessidades de segurança e governança. Na leitura do banco, a cibersegurança passa a funcionar como uma camada de controle para que empresas usem esses sistemas.",
         "A análise citada pela Bloomberg Línea relaciona essa percepção ao desempenho recente de fundos do setor e destaca a gestão de identidades como um componente central. Cada agente precisa de autenticação, autorização e monitoramento compatíveis com os acessos que recebe.",
-        "O banco elevou os preços-alvo que acompanha para Okta, SailPoint e CrowdStrike, associando as empresas a diferentes frentes de proteção de identidade, dispositivos e redes. A matéria apresenta essas conclusões como uma avaliação do BofA, não como garantia de desempenho dos papéis."
+        "O banco elevou os preços-alvo que acompanha para Okta, SailPoint e CrowdStrike, associando as empresas a diferentes frentes de proteção de identidade, dispositivos e redes. A matéria apresenta essas conclusões como uma avaliação do BofA, não como garantia de desempenho dos papéis.",
+        "Na prática, a avaliação do banco desloca a discussão do desempenho isolado do modelo para o controle de cada identidade que recebe permissões. Autenticação, autorização e monitoramento aparecem como condições para ampliar o uso de agentes sem perder visibilidade sobre seus acessos.",
+        "Como os preços-alvo e a expectativa de maior gasto foram apresentados pela Bloomberg Línea como leitura do BofA, o alcance da conclusão é limitado: ela descreve uma tese de mercado atribuída ao banco, não uma comprovação de resultados futuros para Okta, SailPoint ou CrowdStrike."
       ],
-      "aiSummary": "O BofA vê a segurança de agentes de IA como um novo motor de demanda para empresas de cibersegurança."
+      "aiSummary": [
+        "A análise do BofA destaca identidade, autorização e monitoramento como controles centrais para agentes de IA.",
+        "Os preços-alvo citados para Okta, SailPoint e CrowdStrike são uma avaliação atribuída ao banco, não uma garantia."
+      ]
     },
     "en": {
       "title": "BofA sees AI agents opening a new front for the cybersecurity market",
@@ -31,9 +36,14 @@
       "paragraphs": [
         "Bank of America says that adopting artificial intelligence agents expands the threat landscape and creates new security and governance needs. In the bank's view, cybersecurity becomes a control layer that allows companies to use these systems.",
         "The analysis cited by Bloomberg Línea links that view to the recent performance of sector funds and highlights identity management as a central component. Each agent needs authentication, authorization, and monitoring suited to the access it receives.",
-        "The bank raised the price targets it follows for Okta, SailPoint, and CrowdStrike, connecting the companies with different areas of protection for identity, devices, and networks. The report presents these conclusions as BofA's assessment, not as a guarantee of stock performance."
+        "The bank raised the price targets it follows for Okta, SailPoint, and CrowdStrike, connecting the companies with different areas of protection for identity, devices, and networks. The report presents these conclusions as BofA's assessment, not as a guarantee of stock performance.",
+        "In practical terms, the bank's assessment shifts the discussion from a model's isolated performance to the control of each identity that receives permissions. Authentication, authorization, and monitoring are presented as conditions for expanding agent use while keeping access visible.",
+        "Because the higher price targets and spending outlook are reported as BofA's analysis, the conclusion has a defined limit: it describes an attributed market thesis, not proof that Okta, SailPoint, or CrowdStrike will deliver future results or that the targets will be met."
       ],
-      "aiSummary": "BofA sees AI-agent security as a new demand driver for cybersecurity companies."
+      "aiSummary": [
+        "BofA identifies identity, authorization, and monitoring as central controls for AI agents.",
+        "The cited price targets for Okta, SailPoint, and CrowdStrike are attributed to the bank and are not guarantees."
+      ]
     }
   }
 }

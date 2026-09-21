@@ -5,7 +5,7 @@
   "secondarySections": ["politica"],
   "publishedAt": "2026-09-21T00:00:00.000Z",
   "publishedDate": "2026-09-21",
-  "updatedAt": "2026-09-21T00:00:00.000Z",
+  "updatedAt": "2026-09-21T19:43:50.732Z",
   "sources": [
     {
       "name": "The Associated Press",
@@ -22,9 +22,14 @@
       "paragraphs": [
         "Uma explosão feriu três militares sul-coreanos durante uma operação na parte oeste da zona desmilitarizada que separa as duas Coreias. Dois foram retirados de helicóptero e o terceiro foi levado por terra antes de também ser transportado de avião para um hospital militar perto de Seul.",
         "O Ministério da Defesa da Coreia do Sul não informou imediatamente o que provocou o incidente. As autoridades também não disseram se a explosão poderia ter sido causada por uma mina instalada pela Coreia do Norte, evitando atribuir responsabilidade pelo episódio.",
-        "A DMZ tem 248 quilômetros de extensão e é uma das fronteiras mais armadas do mundo, com estimativa de cerca de 2 milhões de minas na região. O relato ocorre em um período de tensão elevada, marcado por lançamentos de mísseis, exercícios de fogo real e o comissionamento de um novo navio norte-coreano."
+        "A DMZ tem 248 quilômetros de extensão e é uma das fronteiras mais armadas do mundo, com estimativa de cerca de 2 milhões de minas na região. O relato ocorre em um período de tensão elevada, marcado por lançamentos de mísseis, exercícios de fogo real e o comissionamento de um novo navio norte-coreano.",
+        "O atendimento aos três militares foi descrito em etapas: dois foram retirados de helicóptero, o terceiro saiu por terra e depois também foi levado de avião ao hospital militar. A operação de resgate é conhecida, mas a causa da explosão e eventual presença de uma mina continuam sem confirmação pelas autoridades.",
+        "A localização ajuda a dimensionar o risco sem estabelecer a origem do acidente. A DMZ tem 248 quilômetros e cerca de 2 milhões de minas estimadas, enquanto a tensão recente inclui mísseis, exercícios de fogo real e um novo navio norte-coreano; nenhum desses elementos prova responsabilidade norte-coreana no episódio."
       ],
-      "aiSummary": "A reportagem informa que três militares sul-coreanos foram feridos por uma explosão durante uma operação na DMZ e que a causa continua desconhecida. O incidente ocorreu em uma fronteira densamente minada e sob tensão militar crescente, sem confirmação de envolvimento norte-coreano."
+      "aiSummary": [
+        "Os três militares foram evacuados e levados a hospital, mas a causa da explosão permaneceu desconhecida.",
+        "A DMZ é densamente minada e tensa, sem confirmação de responsabilidade norte-coreana."
+      ]
     },
     "en": {
       "title": "Explosion injures three South Korean officers in the Demilitarized Zone",
@@ -32,9 +37,14 @@
       "paragraphs": [
         "An explosion injured three South Korean officers during an operation in the western section of the Demilitarized Zone separating the two Koreas. Two were airlifted and the third was taken by land before also being flown to a military hospital near Seoul.",
         "South Korea’s Defense Ministry did not immediately identify what caused the incident. Officials also did not say whether a mine planted by North Korea might have been involved, leaving responsibility for the blast unresolved.",
-        "The DMZ is 248 kilometers long and one of the world’s most heavily armed borders, with an estimated 2 million mines in and around the zone. The incident came during heightened tensions marked by missile launches, live-fire exercises and the commissioning of a new North Korean warship."
+        "The DMZ is 248 kilometers long and one of the world’s most heavily armed borders, with an estimated 2 million mines in and around the zone. The incident came during heightened tensions marked by missile launches, live-fire exercises and the commissioning of a new North Korean warship.",
+        "The treatment of the three officers unfolded in stages: two were airlifted, the third left by ground and was later flown to a military hospital as well. The evacuation is documented, but the blast’s cause and any mine involvement remain unconfirmed by officials.",
+        "The setting indicates the level of risk without establishing the accident’s origin. The DMZ is 248 kilometers long and has an estimated 2 million mines, while recent tensions include missiles, live-fire drills and a new North Korean warship; none of those facts proves North Korean responsibility for the blast."
       ],
-      "aiSummary": "The report says three South Korean officers were injured by an explosion during an operation in the DMZ and that the cause remains unknown. The incident occurred along a heavily mined border amid rising military tensions, with no confirmation of North Korean involvement."
+      "aiSummary": [
+        "All three officers were evacuated to a hospital, but the blast’s cause remained unknown.",
+        "The heavily mined DMZ is tense, but North Korean responsibility was not confirmed."
+      ]
     }
   }
 }

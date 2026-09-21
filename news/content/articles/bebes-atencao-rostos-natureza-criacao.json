@@ -5,7 +5,7 @@
   "secondarySections": [],
   "publishedAt": "2026-09-21T09:00:20+00:00",
   "publishedDate": "2026-09-21",
-  "updatedAt": "2026-09-21T09:00:20+00:00",
+  "updatedAt": "2026-09-21T19:43:50.732Z",
   "sources": [
     {
       "name": "The Guardian",
@@ -22,9 +22,14 @@
       "paragraphs": [
         "Em testes com 130 bebês de oito horas a três dias de vida, pesquisadores exibiram lado a lado um rosto e um brinquedo enquanto um rastreador registrava para onde cada criança olhava.",
         "Todos os grupos demonstraram mais interesse pelo rosto, mas as meninas preferiram o vídeo do rosto em proporção maior que os meninos. Como os participantes tinham poucos dias de vida, os autores apontam fatores biológicos, como genética e exposição hormonal no útero, como possíveis explicações.",
-        "O estudo mostra diferenças médias entre grupos e não determina o comportamento de cada criança. Os pesquisadores dizem que serão necessários acompanhamentos mais longos para saber se essa diferença inicial influencia o desenvolvimento social ou a vulnerabilidade a condições neurológicas."
+        "O estudo mostra diferenças médias entre grupos e não determina o comportamento de cada criança. Os pesquisadores dizem que serão necessários acompanhamentos mais longos para saber se essa diferença inicial influencia o desenvolvimento social ou a vulnerabilidade a condições neurológicas.",
+        "O desenho do experimento ajuda a limitar a interpretação: 130 recém-nascidos, com idades entre oito horas e três dias, viram um rosto e um brinquedo lado a lado, enquanto o rastreador registrava o olhar. Todos os grupos mostraram interesse maior pelo rosto.",
+        "A diferença entre meninas e meninos é uma média proporcional, não uma regra individual. Os autores levantam genética e hormônios no útero como possibilidades, mas dizem que somente acompanhamentos mais longos poderão indicar se o padrão inicial tem relação com desenvolvimento social ou condições neurológicas."
       ],
-      "aiSummary": "Um estudo com recém-nascidos encontrou uma diferença média na atenção visual de meninas e meninos diante de rostos e brinquedos. O resultado sugere que fatores biológicos podem participar do padrão, mas não permite prever o desenvolvimento de uma criança individual."
+      "aiSummary": [
+        "O estudo acompanhou o olhar de 130 recém-nascidos com idades entre oito horas e três dias.",
+        "A diferença observada é média de grupo e não prevê o comportamento ou desenvolvimento de uma criança individual."
+      ]
     },
     "en": {
       "title": "Newborn study reopens the nature-versus-nurture debate",
@@ -32,9 +37,14 @@
       "paragraphs": [
         "In tests involving 130 babies aged from eight hours to three days, researchers showed a face and a toy side by side while an eye tracker recorded where each child looked.",
         "All groups showed more interest in the face, but girls preferred the face video by a larger proportion than boys did. Because the participants were only days old, the authors point to biological factors such as genetics and hormone exposure in the womb as possible explanations.",
-        "The study found average differences between groups and does not determine any individual child’s behavior. The researchers say longer follow-up will be needed to learn whether the early difference affects social development or vulnerability to neurological conditions."
+        "The study found average differences between groups and does not determine any individual child’s behavior. The researchers say longer follow-up will be needed to learn whether the early difference affects social development or vulnerability to neurological conditions.",
+        "The experiment's design helps limit the interpretation: 130 newborns aged from eight hours to three days saw a face and a toy side by side while an eye tracker recorded their gaze. All groups showed greater interest in the face.",
+        "The difference between girls and boys is a proportional group average, not an individual rule. The authors raise genetics and hormones in the womb as possibilities, but say only longer follow-up can show whether the early pattern relates to social development or neurological conditions."
       ],
-      "aiSummary": "A newborn study found an average difference in how girls and boys looked at faces versus toys. The result suggests biology may contribute to the pattern, but it cannot predict an individual child’s development."
+      "aiSummary": [
+        "The study tracked the gaze of 130 newborns aged from eight hours to three days.",
+        "The observed difference is a group average and cannot predict an individual child's behavior or development."
+      ]
     }
   }
 }

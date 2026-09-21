@@ -5,7 +5,7 @@
   "secondarySections": ["brasil"],
   "publishedAt": "2026-09-21T12:23:00-03:00",
   "publishedDate": "2026-09-21",
-  "updatedAt": "2026-09-21T12:23:00-03:00",
+  "updatedAt": "2026-09-21T19:43:50.732Z",
   "sources": [
     {
       "name": "Agência Brasil",
@@ -22,9 +22,14 @@
       "paragraphs": [
         "Organizada pelo Instituto Brasileiro de Museus, a Primavera dos Museus reúne mais de 900 instituições brasileiras para aproximar a sociedade de museus e espaços de memória. A edição enfatiza inclusão, diversidade e democratização do acesso à cultura.",
         "A programação inclui mais de 2 mil atividades, entre palestras, oficinas, exposições e ações educativas. Há exemplos de propostas em diferentes regiões, como uma exposição sobre autismo em Salvador, uma visita mediada em Libras em Fortaleza e uma atividade artística com fuligem em Manaus.",
-        "Também participam o Museu das Favelas, em São Paulo, o Museu de História Natural de Mato Grosso, em Cuiabá, o Arquivo Nacional, no Rio de Janeiro, e o Museu da UFRGS, em Porto Alegre. A programação pode ser consultada por cidade, data ou instituição."
+        "Também participam o Museu das Favelas, em São Paulo, o Museu de História Natural de Mato Grosso, em Cuiabá, o Arquivo Nacional, no Rio de Janeiro, e o Museu da UFRGS, em Porto Alegre. A programação pode ser consultada por cidade, data ou instituição.",
+        "A dimensão da iniciativa aparece não apenas no número de instituições, mas na variedade de formatos e públicos. A programação reúne exposições, oficinas, palestras e ações educativas, com exemplos de acessibilidade como visita mediada em Libras e atividades que abordam o autismo.",
+        "Para quem pretende participar, a organização por cidade, data ou instituição transforma uma agenda nacional muito extensa em uma ferramenta de consulta. A presença de museus, arquivos e espaços de memória de diferentes regiões também amplia a leitura do tema para além dos grandes centros culturais."
       ],
-      "aiSummary": "A Primavera dos Museus reúne mais de 900 instituições e mais de 2 mil atividades sobre inclusão, diversidade e acesso cultural em várias regiões do Brasil."
+      "aiSummary": [
+        "A programação combina exposições, oficinas, palestras e ações educativas em várias regiões do Brasil.",
+        "O público pode consultar as atividades da Primavera dos Museus por cidade, data ou instituição."
+      ]
     },
     "en": {
       "title": "Brazil’s Primavera dos Museus brings together more than 900 institutions",
@@ -32,9 +37,14 @@
       "paragraphs": [
         "Organized by the Brazilian Institute of Museums, Primavera dos Museus brings together more than 900 Brazilian institutions to connect the public with museums and memory spaces. This edition emphasizes inclusion, diversity and broader access to culture.",
         "The program includes more than 2,000 activities, including talks, workshops, exhibitions and educational events. Examples from different regions include an exhibition about autism in Salvador, a Brazilian Sign Language tour in Fortaleza and an art activity using soot as pigment in Manaus.",
-        "The Museum of Favelas in São Paulo, the Natural History Museum of Mato Grosso in Cuiabá, the National Archives in Rio de Janeiro and the UFRGS Museum in Porto Alegre are also taking part. Visitors can consult the program by city, date or institution."
+        "The Museum of Favelas in São Paulo, the Natural History Museum of Mato Grosso in Cuiabá, the National Archives in Rio de Janeiro and the UFRGS Museum in Porto Alegre are also taking part. Visitors can consult the program by city, date or institution.",
+        "The initiative’s scale is visible not only in the number of institutions but also in the range of formats and audiences. The program combines exhibitions, workshops, talks and educational actions, including accessibility examples such as a Brazilian Sign Language tour and activities addressing autism.",
+        "For visitors, organizing the national program by city, date or institution turns a very large agenda into a practical discovery tool. The participation of museums, archives and memory spaces in different regions also takes the theme beyond the country’s main cultural centers."
       ],
-      "aiSummary": "Primavera dos Museus brings more than 900 institutions and over 2,000 activities on inclusion, diversity and cultural access to communities across Brazil."
+      "aiSummary": [
+        "The program combines exhibitions, workshops, talks and educational activities across Brazil.",
+        "Visitors can search Primavera dos Museus activities by city, date or institution."
+      ]
     }
   }
 }

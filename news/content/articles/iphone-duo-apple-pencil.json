@@ -4,7 +4,7 @@
   "section": "tecnologia",
   "secondarySections": [],
   "publishedAt": "2026-09-21T07:44:31.000-03:00",
-  "updatedAt": "2026-09-21T07:44:31.000-03:00",
+  "updatedAt": "2026-09-21T19:43:50.732Z",
   "sources": [
     {
       "name": "Canaltech",
@@ -21,9 +21,14 @@
       "paragraphs": [
         "Segundo informações de Mark Gurman reproduzidas pelo Canaltech, a Apple desenvolveu uma versão menor do Apple Pencil para o dobrável iPhone Duo. O acessório teria conexão magnética com a dobradiça, mas foi abandonado antes da produção em massa por problemas técnicos.",
         "A alternativa prevista é liberar compatibilidade com o Apple Pencil USB-C por meio de uma atualização de software, enquanto o modelo Pencil Pro não seria compatível. A caneta USB-C poderá ser usada nas telas interna e externa, mas o suporte não estará disponível no lançamento.",
-        "O aparelho tem lançamento previsto para 23 de outubro, com pré-venda a partir de 16 de outubro, de acordo com a matéria. O texto também informa que a Apple ainda precisa concluir testes internos antes de liberar a função da caneta."
+        "O aparelho tem lançamento previsto para 23 de outubro, com pré-venda a partir de 16 de outubro, de acordo com a matéria. O texto também informa que a Apple ainda precisa concluir testes internos antes de liberar a função da caneta.",
+        "Segundo o relato atribuído a Mark Gurman, a Apple separou o que teria sido abandonado do que ainda está planejado: a Pencil menor com encaixe magnético não chegou à produção em massa, enquanto a compatibilidade com a Pencil USB-C dependeria de atualização e de testes internos concluídos.",
+        "Para quem acompanha o lançamento, a consequência é que o suporte à caneta não estaria disponível no primeiro dia, e o Pencil Pro ficaria fora da compatibilidade descrita. As datas informadas são 16 de outubro para a pré-venda e 23 de outubro para o lançamento."
       ],
-      "aiSummary": "A Apple teria trocado uma Pencil dedicada por suporte à versão USB-C no iPhone Duo, com ativação posterior por software."
+      "aiSummary": [
+        "A Pencil menor com conexão magnética teria sido abandonada antes da produção em massa por problemas técnicos.",
+        "O suporte à Pencil USB-C dependeria de atualização posterior, e o Pencil Pro não seria compatível."
+      ]
     },
     "en": {
       "title": "Apple dropped a smaller Pencil planned for the foldable iPhone Duo",
@@ -31,9 +36,14 @@
       "paragraphs": [
         "According to information from Mark Gurman reproduced by Canaltech, Apple developed a smaller Apple Pencil for the foldable iPhone Duo. The accessory would have attached magnetically to the hinge but was dropped before mass production because of technical problems.",
         "The planned alternative is to enable support for the USB-C Apple Pencil through a software update, while the Pencil Pro would not be compatible. The USB-C stylus will work on both the inner and outer screens, but support will not be available at launch.",
-        "The phone is scheduled to launch on October 23, with preorders starting October 16, according to the report. The article also says Apple still has to complete internal testing before releasing the stylus feature."
+        "The phone is scheduled to launch on October 23, with preorders starting October 16, according to the report. The article also says Apple still has to complete internal testing before releasing the stylus feature.",
+        "According to the report attributed to Mark Gurman, Apple has separated what was reportedly abandoned from what is still planned: the smaller magnetic Pencil did not reach mass production, while USB-C Pencil compatibility would depend on an update and completed internal testing.",
+        "For people following the launch, the consequence is that stylus support would not be available on day one, and the Pencil Pro would be outside the described compatibility. The dates given are October 16 for preorders and October 23 for launch."
       ],
-      "aiSummary": "Apple reportedly replaced a dedicated Pencil plan with USB-C support for the iPhone Duo, to be enabled later by software."
+      "aiSummary": [
+        "The smaller magnetic Pencil was reportedly abandoned before mass production because of technical problems.",
+        "USB-C Pencil support would require a later update, while the Pencil Pro would not be compatible."
+      ]
     }
   }
 }

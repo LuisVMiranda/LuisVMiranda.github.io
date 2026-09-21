@@ -4,7 +4,7 @@
   "section": "economia",
   "secondarySections": ["brasil", "politica"],
   "publishedAt": "2026-09-21T05:00:00.583-03:00",
-  "updatedAt": "2026-09-21T05:00:00.583-03:00",
+  "updatedAt": "2026-09-21T19:43:50.732Z",
   "sources": [
     {
       "name": "Valor Econômico",
@@ -21,9 +21,15 @@
       "paragraphs": [
         "As estimativas dos governos estaduais nas Leis de Diretrizes Orçamentárias apontam déficit primário agregado de R$ 36,9 bilhões para os 26 Estados e o Distrito Federal em 2026. O cenário contrasta com os superávits de R$ 51,6 bilhões em 2022, R$ 25,1 bilhões em 2023 e R$ 31,1 bilhões em 2024, além da quase estabilidade registrada no ano passado.",
         "A deterioração projetada alcança a maior parte das unidades da federação: 18 Estados preveem resultado negativo para este ano, contra sete em 2023. O levantamento combinou dados de execução orçamentária enviados à Secretaria do Tesouro Nacional para 2022 a 2025 com as LDOs estaduais usadas nas estimativas de 2026.",
-        "O Valor relaciona a pressão sobre o resultado primário a investimentos elevados no ciclo eleitoral, contratação de crédito e mudanças associadas ao programa de refinanciamento de dívidas dos Estados. Ainda assim, o resultado abaixo da linha acumulava superávit de R$ 4,98 bilhões de janeiro a julho, enquanto o saldo em 12 meses até julho era deficitário em R$ 9,34 bilhões."
+        "O Valor relaciona a pressão sobre o resultado primário a investimentos elevados no ciclo eleitoral, contratação de crédito e mudanças associadas ao programa de refinanciamento de dívidas dos Estados. Ainda assim, o resultado abaixo da linha acumulava superávit de R$ 4,98 bilhões de janeiro a julho, enquanto o saldo em 12 meses até julho era deficitário em R$ 9,34 bilhões.",
+        "A estimativa de R$ 36,9 bilhões não é o resultado fechado de 2026: ela foi construída a partir das LDOs estaduais. O levantamento combinou essas previsões com dados de execução enviados ao Tesouro para 2022 a 2025, permitindo comparar o cenário projetado com os superávits observados nos anos anteriores.",
+        "Há sinais diferentes conforme o período e o conceito fiscal observado. De janeiro a julho, o resultado abaixo da linha ainda acumulava superávit de R$ 4,98 bilhões, mas o intervalo de 12 meses até julho mostrava déficit de R$ 9,34 bilhões. A reportagem relaciona a pressão projetada a investimentos eleitorais, crédito e mudanças no refinanciamento das dívidas."
       ],
-      "aiSummary": "Projeções das LDOs estaduais indicam déficit primário agregado de R$ 36,9 bilhões em 2026, depois de anos de superávit ou estabilidade. O levantamento aponta 18 Estados no vermelho e associa a piora a investimentos do ciclo eleitoral, operações de crédito e mudanças no financiamento das dívidas."
+      "aiSummary": [
+        "O déficit de R$ 36,9 bilhões é uma projeção das LDOs, não o resultado final de 2026.",
+        "De janeiro a julho houve superávit de R$ 4,98 bilhões no resultado abaixo da linha.",
+        "O levantamento relaciona a piora projetada a investimentos eleitorais, crédito e refinanciamento."
+      ]
     },
     "en": {
       "title": "Brazilian states project a combined R$36.9 billion primary deficit in 2026",
@@ -31,9 +37,15 @@
       "paragraphs": [
         "State governments’ budget-guideline estimates point to a combined primary deficit of R$36.9 billion for Brazil’s 26 states and Federal District in 2026. That would reverse surpluses of R$51.6 billion in 2022, R$25.1 billion in 2023 and R$31.1 billion in 2024, followed by near balance last year.",
         "The projected deterioration covers most states: 18 forecast a negative result this year, compared with seven in 2023. The survey combined budget-execution data sent to the National Treasury Secretariat for 2022 through 2025 with state budget guidelines used for the 2026 estimates.",
-        "Valor linked the pressure on primary balances to high investment during the election cycle, new borrowing and changes connected to the state-debt refinancing program. The below-the-line balance nevertheless showed a R$4.98 billion surplus from January through July, while the 12-month balance through July was a R$9.34 billion deficit."
+        "Valor linked the pressure on primary balances to high investment during the election cycle, new borrowing and changes connected to the state-debt refinancing program. The below-the-line balance nevertheless showed a R$4.98 billion surplus from January through July, while the 12-month balance through July was a R$9.34 billion deficit.",
+        "The R$36.9 billion estimate is not a closed 2026 result: it was built from state budget guidelines. The survey combined those projections with execution data sent to the National Treasury for 2022 through 2025, allowing the projected scenario to be compared with the surpluses recorded in earlier years.",
+        "The figures differ depending on the period and fiscal concept. From January through July, the below-the-line balance still showed a R$4.98 billion surplus, but the 12-month balance through July showed a R$9.34 billion deficit. The report links the projected pressure to election-year investment, borrowing and debt-refinancing changes."
       ],
-      "aiSummary": "State budget guidelines point to a combined R$36.9 billion primary deficit in 2026 after years of surplus or near balance. The survey puts 18 states in the red and links the deterioration to election-year investment, borrowing and changes in debt financing."
+      "aiSummary": [
+        "The R$36.9 billion figure is a budget-guideline projection, not the final 2026 result.",
+        "The January-to-July below-the-line balance showed a R$4.98 billion surplus.",
+        "The report links projected deterioration to election-year investment, borrowing and refinancing."
+      ]
     }
   }
 }

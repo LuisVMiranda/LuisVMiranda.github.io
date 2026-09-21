@@ -4,7 +4,7 @@
   "section": "ciencia",
   "secondarySections": [],
   "publishedAt": "2026-09-21T00:00:00-04:00",
-  "updatedAt": "2026-09-21T00:00:00-04:00",
+  "updatedAt": "2026-09-21T19:43:50.732Z",
   "sources": [
     {
       "name": "NASA Science",
@@ -21,9 +21,14 @@
       "paragraphs": [
         "Um estudo liderado pela NASA analisou observações de satélite de 1979 a 2023 e concluiu que a temporada de degelo do gelo marinho do Ártico está cerca de 40 dias mais longa do que no início da série. A maior parte desse aumento ocorreu antes de 2010.",
         "Segundo a análise, a mudança foi puxada principalmente pelo congelamento mais tardio no outono, e não por um início de derretimento muito mais cedo na primavera. Desde 2010, a duração média ficou relativamente estável, embora continue variando bastante de um ano para outro.",
-        "A NASA relaciona a estabilização recente a mudanças nos padrões de nuvens e ressalta que ela não significa que os efeitos do aquecimento tenham parado. O Ártico continua aquecendo mais rapidamente que a média global, o gelo está mais fino e a pausa pode ser temporária."
+        "A NASA relaciona a estabilização recente a mudanças nos padrões de nuvens e ressalta que ela não significa que os efeitos do aquecimento tenham parado. O Ártico continua aquecendo mais rapidamente que a média global, o gelo está mais fino e a pausa pode ser temporária.",
+        "A série de satélites mostra que a mudança acumulada veio principalmente do congelamento mais tardio no outono, e não de uma antecipação equivalente do derretimento na primavera. Esse detalhe ajuda a interpretar por que o período total ficou mais longo mesmo com a estabilização média posterior.",
+        "A estabilização desde 2010 é, portanto, uma característica da média analisada, não uma volta às condições de 1979. A variabilidade anual continua alta, o gelo está mais fino e a NASA atribui a pausa recente a padrões de nuvens que podem mudar."
       ],
-      "aiSummary": "A NASA encontrou uma estabilização desde 2010 na duração média da temporada de degelo do Ártico, depois de décadas de prolongamento. O resultado descreve uma pausa com grande variabilidade anual, não uma reversão do aquecimento regional ou da perda de gelo."
+      "aiSummary": [
+        "O prolongamento da temporada veio principalmente do congelamento mais tardio no outono.",
+        "A estabilização média desde 2010 ocorre com gelo mais fino, grande variação anual e possibilidade de ser temporária."
+      ]
     },
     "en": {
       "title": "NASA study finds Arctic melt season has leveled off",
@@ -31,9 +36,14 @@
       "paragraphs": [
         "A NASA-led study analyzed satellite observations from 1979 through 2023 and found that the Arctic sea-ice melt season is about 40 days longer than at the start of the record. Most of that increase occurred before 2010.",
         "The analysis indicates that the change was driven mainly by later autumn freezing rather than a much earlier spring melt. Since 2010, the average length has remained relatively stable, although it continues to vary substantially from year to year.",
-        "NASA links the recent leveling to shifts in cloud patterns and stresses that it does not mean warming effects have stopped. The Arctic is still warming faster than the global average, its ice is thinner, and the pause may prove temporary."
+        "NASA links the recent leveling to shifts in cloud patterns and stresses that it does not mean warming effects have stopped. The Arctic is still warming faster than the global average, its ice is thinner, and the pause may prove temporary.",
+        "The satellite record shows that the accumulated change came mainly from later autumn freezing, not from an equivalent advance in spring melting. That detail helps explain why the total season became longer even with the later leveling of the average.",
+        "The leveling since 2010 is therefore a feature of the analyzed average, not a return to 1979 conditions. Year-to-year variation remains high, the ice is thinner, and NASA links the recent pause to cloud patterns that can change."
       ],
-      "aiSummary": "NASA found that the average Arctic melt season has leveled off since 2010 after decades of lengthening. The result describes a pause with strong year-to-year variation, not a reversal of regional warming or ice loss."
+      "aiSummary": [
+        "The longer season was driven mainly by later autumn freezing.",
+        "The average leveling since 2010 comes with thinner ice, substantial yearly variation, and the possibility of being temporary."
+      ]
     }
   }
 }

@@ -24,7 +24,12 @@ const rights = z
 const translation = z.object({
   title: z.string().trim().min(5),
   summary: z.string().trim().min(15),
-  aiSummary: z.string().trim().min(20).max(600).optional(),
+  aiSummary: z
+    .union([
+      z.string().trim().min(20).max(600),
+      z.array(z.string().trim().min(8).max(240)).min(1).max(5),
+    ])
+    .optional(),
   paragraphs: z.array(z.string().trim().min(20)).min(2),
   correction: z.string().trim().min(5).optional(),
 });

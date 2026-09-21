@@ -117,6 +117,16 @@
   padding: 0.9rem 1rem 0.8rem;
 }
 
+.article-ai-summary ul {
+  list-style: disc;
+  margin: 0;
+  padding-left: 1.2rem;
+}
+
+.article-ai-summary li + li {
+  margin-top: 0.35rem;
+}
+
 .article-ai-summary p {
   margin: 0;
 }

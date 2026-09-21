@@ -5,7 +5,7 @@
   "secondarySections": [],
   "publishedAt": "2026-09-21T00:00:00.000Z",
   "publishedDate": "2026-09-21",
-  "updatedAt": "2026-09-21T00:00:00.000Z",
+  "updatedAt": "2026-09-21T19:43:50.732Z",
   "sources": [
     {
       "name": "Nature",
@@ -22,9 +22,14 @@
       "paragraphs": [
         "A ferramenta Co-Scientist, descrita pela Nature, não produz apenas uma resposta em uma única etapa. Ela aciona vários sistemas autônomos para buscar e sintetizar artigos, comparar explicações, refinar hipóteses, fazer críticas e confrontar ideias com evidências publicadas.",
         "A bioquímica Anna Pertl usou o sistema para procurar formas práticas e pouco óbvias de interferir na proteína MYC, ligada à maioria dos cânceres, aproveitando conhecimentos sobre condensados moleculares. O pedido partia de anos de pesquisa de seu grupo sobre como essas estruturas regulam genes e podem ser exploradas por células cancerosas.",
-        "O processo exige grande capacidade computacional e não elimina a necessidade de especialistas. A reportagem apresenta esses sistemas como colaboradores para formular hipóteses, planejar investigações e analisar dados, enquanto os pesquisadores continuam responsáveis por decidir quais propostas fazem sentido e podem ser testadas."
+        "O processo exige grande capacidade computacional e não elimina a necessidade de especialistas. A reportagem apresenta esses sistemas como colaboradores para formular hipóteses, planejar investigações e analisar dados, enquanto os pesquisadores continuam responsáveis por decidir quais propostas fazem sentido e podem ser testadas.",
+        "O Co-Scientist funciona como uma cadeia de trabalho: agentes buscam e sintetizam literatura, confrontam explicações, refinam hipóteses e fazem críticas antes de apresentar uma proposta. A arquitetura tenta ampliar a exploração de ideias, mas depende de computação significativa para executar essas etapas.",
+        "No caso de Anna Pertl, o sistema foi usado para investigar maneiras de interferir na proteína MYC a partir de pesquisas sobre condensados moleculares. O resultado descrito é uma hipótese de pesquisa, não uma descoberta clínica pronta; especialistas ainda decidem o que faz sentido testar."
       ],
-      "aiSummary": "A Nature relata o uso de agentes de IA que trabalham em conjunto para pesquisar literatura, gerar hipóteses e criticá-las com base em evidências. O caso também reforça que a interpretação científica e a decisão sobre testes continuam dependendo de pesquisadores humanos."
+      "aiSummary": [
+        "O Co-Scientist distribui busca, síntese, refinamento e crítica de hipóteses entre vários agentes.",
+        "O sistema ajudou a explorar a proteína MYC, mas pesquisadores humanos continuam decidindo quais propostas testar."
+      ]
     },
     "en": {
       "title": "Multi-agent AI systems are gaining ground in scientific research",
@@ -32,9 +37,14 @@
       "paragraphs": [
         "The Co-Scientist tool described by Nature does not produce only one answer in a single pass. It launches several autonomous systems to search and synthesize papers, compare explanations, refine hypotheses, critique them and test ideas against published evidence.",
         "Biochemist Anna Pertl used the system to look for practical and non-obvious ways to interfere with the MYC protein, which is linked to most cancers, by drawing on research about molecular condensates. Her request built on years of work by her group on how these structures regulate genes and can be exploited by cancer cells.",
-        "The process requires substantial computing power and does not remove the need for experts. The report presents these systems as collaborators for forming hypotheses, designing investigations and analyzing data, while researchers remain responsible for deciding which proposals make sense and can be tested."
+        "The process requires substantial computing power and does not remove the need for experts. The report presents these systems as collaborators for forming hypotheses, designing investigations and analyzing data, while researchers remain responsible for deciding which proposals make sense and can be tested.",
+        "Co-Scientist operates as a workflow: agents search and synthesize literature, compare explanations, refine hypotheses, and critique them before presenting a proposal. The architecture aims to broaden the exploration of ideas, but it requires substantial computing to perform those steps.",
+        "In Anna Pertl's case, the system was used to investigate ways to interfere with the MYC protein by drawing on research about molecular condensates. The reported result is a research hypothesis, not a ready clinical discovery; experts still decide what is sensible to test."
       ],
-      "aiSummary": "Nature reports on AI agents working together to search literature, generate hypotheses and challenge them against evidence. The case also shows that scientific interpretation and decisions about testing still depend on human researchers."
+      "aiSummary": [
+        "Co-Scientist distributes literature search, synthesis, hypothesis refinement, and critique across several agents.",
+        "The system helped explore the MYC protein, but human researchers still decide which proposals to test."
+      ]
     }
   }
 }

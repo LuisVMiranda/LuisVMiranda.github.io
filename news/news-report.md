@@ -151,9 +151,9 @@ extraction as complete.
 ## 4. Prepare a complete reading version and a small AI summary
 
 For **future editions**, the main reading area should provide a complete and
-faithful account of the verified source material, with a short, discreet AI
-summary at the top for readers in a hurry. The summary must not replace the main
-reading experience.
+faithful account of the verified source material, with a short, discreet,
+bulleted AI summary at the top for readers in a hurry. The summary must not
+replace the main reading experience.
 
 Full retrieval and full republication are different permissions. Publish the
 complete source text only when the publisher's license, explicit permission or
@@ -174,16 +174,19 @@ URLs only in the dedicated Sources area. A body that still contains link or imag
 markup is incomplete and blocks publication.
 
 The reading version should explain the event, chronology, material facts,
-attribution, uncertainty and relevant context in coherent original prose. Use
-as many meaningful paragraphs as needed; the schema's two-paragraph minimum
-is not a target or maximum. Do not pad a short source with speculation. Both
-languages must offer the same substantive coverage.
+attribution, uncertainty and relevant context in coherent original prose. Add
+at least two meaningful paragraphs beyond the initial event account, normally
+producing at least five substantive paragraphs per language. Use more when the
+verified material requires it; the five-paragraph gate is a completeness floor,
+not a license to pad a short source with speculation. Both languages must offer
+the same substantive coverage.
 
 The future AI-summary presentation has these requirements:
 
 - Label it `Resumo por IA` in PT-BR and `AI summary` in EN.
-- Use two or three short sentences, normally 40–70 words, grounded in the
-  complete verified article and checked by the editor.
+- Use one to five short factual bullet sentences, grounded in the complete
+  verified article and checked by the editor. Choose the number according to
+  relevance and the amount of verified body material; never exceed five.
 - Place it near the top, below the headline/byline area and before the main body.
 - Use a compact, neutral block with a small label and restrained spacing.
   Preserve readable contrast, the section accent, and comfortable mobile text.

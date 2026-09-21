@@ -4,7 +4,7 @@
   "section": "politica",
   "secondarySections": [],
   "publishedAt": "2026-09-21T12:37:31-03:00",
-  "updatedAt": "2026-09-21T12:37:31-03:00",
+  "updatedAt": "2026-09-21T19:43:50.732Z",
   "sources": [
     {
       "name": "CNN Brasil",
@@ -21,9 +21,15 @@
       "paragraphs": [
         "O ministro Flávio Dino negou pedido da Associação Nacional de Jogos e Loterias e manteve válido o decreto de Minas Gerais que proíbe publicidade de bets e plataformas de conteúdo adulto em bens e eventos estaduais.",
         "A associação argumentava que o estado invadira competência da União. Dino entendeu que a regra trata da gestão do patrimônio público estadual e da execução do orçamento de Minas, áreas em que a União não poderia interferir.",
-        "A decisão cita, como fundamentos, preocupações de saúde pública, proteção do consumidor e segurança, além de dados e relatórios da CPI das Bets sobre redes clandestinas, endividamento e lavagem de dinheiro. O julgamento ocorre enquanto o governo federal discute uma possível medida provisória para limitar apostas online."
+        "A decisão cita, como fundamentos, preocupações de saúde pública, proteção do consumidor e segurança, além de dados e relatórios da CPI das Bets sobre redes clandestinas, endividamento e lavagem de dinheiro. O julgamento ocorre enquanto o governo federal discute uma possível medida provisória para limitar apostas online.",
+        "A decisão trata especificamente do uso de bens e eventos estaduais, e não de uma proibição geral de publicidade de apostas em qualquer ambiente. Ao rejeitar a liminar da associação, Flávio Dino aceitou a leitura de que Minas Gerais pode disciplinar a utilização de seu patrimônio e a execução de seu orçamento dentro desse alcance.",
+        "Os fundamentos reunidos no voto conectam a restrição a saúde pública, proteção do consumidor e segurança, além de dados da CPI das Bets sobre redes clandestinas, endividamento e lavagem de dinheiro. O tema ainda pode ganhar novo capítulo no plano federal, já que o governo discute uma medida provisória sobre apostas online."
       ],
-      "aiSummary": "Flávio Dino manteve o decreto mineiro que restringe publicidade de bets em bens e eventos estaduais após rejeitar uma contestação do setor. A decisão trata da competência estadual e cita fundamentos de saúde pública, proteção do consumidor e segurança."
+      "aiSummary": [
+        "Flávio Dino manteve a regra mineira para bens e eventos estaduais, não uma proibição geral do setor.",
+        "A decisão cita saúde pública, proteção do consumidor e segurança.",
+        "O governo federal discute uma possível medida provisória sobre apostas online."
+      ]
     },
     "en": {
       "title": "Justice Dino upholds Minas Gerais ban on betting ads at state assets and events",
@@ -31,9 +37,15 @@
       "paragraphs": [
         "Justice Flávio Dino rejected a request from the National Association of Games and Lotteries and upheld a Minas Gerais decree banning advertising for betting companies and adult-content platforms on state property and at state events.",
         "The association argued that the state had encroached on federal authority. Dino found that the rule concerns management of state public property and execution of Minas Gerais’s budget, areas in which the federal government could not intervene.",
-        "The decision cites public-health, consumer-protection and safety concerns, along with data and reports from the Senate betting inquiry about illicit networks, debt and money laundering. The ruling comes as the federal government considers a possible measure to restrict online betting."
+        "The decision cites public-health, consumer-protection and safety concerns, along with data and reports from the Senate betting inquiry about illicit networks, debt and money laundering. The ruling comes as the federal government considers a possible measure to restrict online betting.",
+        "The ruling specifically concerns the use of state property and state events, rather than imposing a general ban on betting advertising in every setting. By rejecting the association’s injunction request, Flávio Dino accepted the view that Minas Gerais may regulate its public assets and budget execution within that defined scope.",
+        "The decision connects the restriction to public-health, consumer-protection and safety concerns, while also citing Senate betting-inquiry material about illicit networks, debt and money laundering. The issue may receive a federal follow-up because the government is considering a measure concerning online betting."
       ],
-      "aiSummary": "Flávio Dino upheld a Minas Gerais decree restricting betting advertising on state property and at state events after rejecting an industry challenge. The decision addresses state authority and cites public-health, consumer-protection and safety grounds."
+      "aiSummary": [
+        "Dino upheld a Minas Gerais rule for state property and events, not a general industry-wide ban.",
+        "The decision cites public-health, consumer-protection and safety concerns.",
+        "Brazil’s federal government is considering a measure on online betting."
+      ]
     }
   }
 }

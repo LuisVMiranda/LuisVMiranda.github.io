@@ -4,7 +4,7 @@
   "section": "esportes",
   "secondarySections": [],
   "publishedAt": "2026-09-21T12:29:08.982-03:00",
-  "updatedAt": "2026-09-21T12:29:08.982-03:00",
+  "updatedAt": "2026-09-21T19:43:50.732Z",
   "sources": [
     {
       "name": "ge.globo.com",
@@ -21,9 +21,14 @@
       "paragraphs": [
         "A Chapecoense viajará nesta semana para Medellín, onde enfrentará o Atlético Nacional no sábado, às 18h de Brasília, no Estádio Atanasio Girardot. O embarque está previsto para quarta-feira, às 18h30.",
         "O amistoso foi organizado para homenagear as vítimas do acidente aéreo com a delegação da Chapecoense em 2016. A tragédia completará dez anos em 29 de novembro e matou 71 pessoas, segundo a reportagem.",
-        "Parte da arrecadação da partida será destinada a pessoas afetadas pelo terremoto que atingiu diferentes regiões da Colômbia. Pela Série A, a Chapecoense volta a jogar em 7 de outubro, contra o Vitória, e ocupa a última posição."
+        "Parte da arrecadação da partida será destinada a pessoas afetadas pelo terremoto que atingiu diferentes regiões da Colômbia. Pela Série A, a Chapecoense volta a jogar em 7 de outubro, contra o Vitória, e ocupa a última posição.",
+        "A viagem tem cronograma definido: a Chapecoense embarca na quarta-feira às 18h30 para jogar no sábado, às 18h de Brasília, no Atanasio Girardot. O amistoso também marca a aproximação dos dez anos da tragédia de 29 de novembro de 2016, que matou 71 pessoas segundo a reportagem.",
+        "O compromisso combina homenagem e ajuda emergencial, porque parte da renda será destinada a pessoas afetadas pelo terremoto em regiões da Colômbia. No campo, o próximo jogo da Série A será apenas em 7 de outubro, contra o Vitória, com a Chapecoense na última posição."
       ],
-      "aiSummary": "A Chapecoense viajará a Medellín para enfrentar o Atlético Nacional em um amistoso de homenagem às vítimas do acidente de 2016."
+      "aiSummary": [
+        "A Chapecoense parte na quarta-feira e enfrenta o Atlético Nacional no sábado, em Medellín.",
+        "Parte da renda apoiará afetados pelo terremoto, enquanto o próximo jogo da Série A será em 7 de outubro."
+      ]
     },
     "en": {
       "title": "Chapecoense to travel to Medellín for friendly against Atlético Nacional",
@@ -31,9 +36,14 @@
       "paragraphs": [
         "Chapecoense will travel to Medellín this week to face Atlético Nacional on Saturday at 6 p.m. Brasília time at Estádio Atanasio Girardot. The team is scheduled to depart on Wednesday at 6:30 p.m.",
         "The friendly was arranged to honor the victims of the 2016 air crash involving Chapecoense's delegation. The tragedy will reach its tenth anniversary on November 29 and killed 71 people, according to the report.",
-        "Part of the match proceeds will support people affected by the earthquake that struck different regions of Colombia. In Série A, Chapecoense returns on October 7 against Vitória and currently sits last."
+        "Part of the match proceeds will support people affected by the earthquake that struck different regions of Colombia. In Série A, Chapecoense returns on October 7 against Vitória and currently sits last.",
+        "The trip has a defined schedule: Chapecoense is due to depart Wednesday at 6:30 p.m. for Saturday’s 6 p.m. Brasília-time match at Atanasio Girardot. The friendly also approaches the tenth anniversary of the November 29, 2016 tragedy, which the report says killed 71 people.",
+        "The fixture combines a memorial purpose with emergency support, since part of the proceeds will go to people affected by the earthquake in Colombian regions. On the sporting calendar, Chapecoense’s next Série A match is October 7 against Vitória, with the team last."
       ],
-      "aiSummary": "Chapecoense will travel to Medellín to play Atlético Nacional in a friendly honoring the victims of the 2016 air crash."
+      "aiSummary": [
+        "Chapecoense departs Wednesday and faces Atlético Nacional on Saturday in Medellín.",
+        "Part of the proceeds will support earthquake-affected people, while the next Série A game is October 7."
+      ]
     }
   }
 }

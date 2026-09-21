@@ -4,7 +4,7 @@
   "section": "esportes",
   "secondarySections": [],
   "publishedAt": "2026-09-21T10:35:56.613-03:00",
-  "updatedAt": "2026-09-21T10:35:56.613-03:00",
+  "updatedAt": "2026-09-21T19:43:50.732Z",
   "sources": [
     {
       "name": "ge.globo.com",
@@ -21,9 +21,14 @@
       "paragraphs": [
         "O Santa Teresa FC, fundado no Espírito Santo em 2026 e presidido por Marcelinho Lima, planeja disputar torneios de base e o Campeonato Capixaba feminino em 2027.",
         "A diretoria também pretende levar o clube ao futebol masculino profissional até 2030. O projeto de gestão foi apresentado como inspirado no Porto Vitória, atual campeão capixaba.",
-        "O projeto coloca Santa Teresa no centro da iniciativa e associa a criação do clube à promoção da cultura e do turismo da cidade por meio do esporte."
+        "O projeto coloca Santa Teresa no centro da iniciativa e associa a criação do clube à promoção da cultura e do turismo da cidade por meio do esporte.",
+        "O projeto apresenta uma sequência gradual de entrada no futebol: o clube fundado em 2026 pretende começar pelas categorias de base e pelo estadual feminino em 2027, deixando o futebol masculino profissional como meta para 2030. Trata-se de um plano anunciado, não de competições já disputadas.",
+        "A referência ao Porto Vitória, atual campeão capixaba, aparece como inspiração de gestão, enquanto Santa Teresa é colocada no centro da iniciativa. A proposta também atribui ao esporte uma função de promoção cultural e turística da cidade, ampliando o objetivo para além do campo."
       ],
-      "aiSummary": "O Santa Teresa FC estreará na base e no futebol feminino em 2027 e trabalha para chegar ao profissional masculino até 2030."
+      "aiSummary": [
+        "O Santa Teresa FC planeja iniciar na base e no futebol feminino em 2027.",
+        "A chegada ao futebol masculino profissional é apresentada como meta para 2030, não como participação já confirmada."
+      ]
     },
     "en": {
       "title": "Santa Teresa FC to begin with youth and women's football in Espírito Santo",
@@ -31,9 +36,14 @@
       "paragraphs": [
         "Santa Teresa FC, founded in Espírito Santo in 2026 and led by president Marcelinho Lima, plans to enter youth tournaments and the Campeonato Capixaba women's competition in 2027.",
         "The board also aims to take the club into professional men's football by 2030. Its management project was described as being inspired by Porto Vitória, the current state champion.",
-        "The project places Santa Teresa at its center and links the club's creation to promoting the city's culture and tourism through sport."
+        "The project places Santa Teresa at its center and links the club's creation to promoting the city's culture and tourism through sport.",
+        "The project describes a gradual entry into football: the club founded in 2026 plans to begin with youth teams and the state women’s competition in 2027, leaving professional men’s football as a 2030 target. These are announced plans, not competitions already played.",
+        "Porto Vitória, the current state champion, is cited as a management inspiration, while Santa Teresa is placed at the center of the initiative. The proposal also gives sport a role in promoting the city’s culture and tourism, extending the aim beyond the pitch."
       ],
-      "aiSummary": "Santa Teresa FC will begin in youth and women's football in 2027 while working toward professional men's football by 2030."
+      "aiSummary": [
+        "Santa Teresa FC plans to begin with youth and women’s football in 2027.",
+        "Professional men’s football is a 2030 target, not a competition already confirmed for the club."
+      ]
     }
   }
 }

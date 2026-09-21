@@ -4,7 +4,7 @@
   "section": "brasil",
   "secondarySections": ["politica"],
   "publishedAt": "2026-09-21T13:12:00-03:00",
-  "updatedAt": "2026-09-21T13:12:00-03:00",
+  "updatedAt": "2026-09-21T19:43:50.732Z",
   "sources": [
     {
       "name": "Agência Brasil",
@@ -21,9 +21,14 @@
       "paragraphs": [
         "A reportagem informou que Lula estava em Nova York para a semana de alto nível da Assembleia Geral das Nações Unidas e tinha reuniões bilaterais previstas antes do discurso brasileiro. O Brasil mantém a tradição de abrir o debate geral do encontro.",
         "A agenda descrita incluía reuniões com o presidente uruguaio Yamandú Orsi, o prefeito de Nova York Zohran Mamdani e o senador americano Bernie Sanders. Depois da abertura, também estava previsto um encontro com o secretário-geral da ONU, António Guterres.",
-        "O conteúdo antecipou que Lula defenderia o multilateralismo, a negociação para resolver disputas, o direito humanitário e a reforma das Nações Unidas. Ministros brasileiros também participariam de reuniões do BRICS, da Celac, do Ibas, do G77 e de outros fóruns."
+        "O conteúdo antecipou que Lula defenderia o multilateralismo, a negociação para resolver disputas, o direito humanitário e a reforma das Nações Unidas. Ministros brasileiros também participariam de reuniões do BRICS, da Celac, do Ibas, do G77 e de outros fóruns.",
+        "A agenda descrita é prospectiva: os encontros com Yamandú Orsi, Zohran Mamdani, Bernie Sanders e António Guterres estavam previstos, e a reportagem não os apresenta como reuniões já concluídas. A informação central, portanto, é a sequência planejada entre conversas bilaterais e a abertura do debate geral.",
+        "O calendário também mostra que a participação brasileira não se restringia ao discurso presidencial. Ministros deveriam atuar em reuniões do BRICS, da Celac, do Ibas e do G77, enquanto Lula levaria temas de multilateralismo, negociação, direito humanitário e reforma da ONU, sem que o texto afirme resultados concretos."
       ],
-      "aiSummary": "A agenda de Lula em Nova York combinava reuniões bilaterais, a abertura do debate da ONU e defesa do multilateralismo."
+      "aiSummary": [
+        "A reportagem descreve reuniões previstas, sem afirmar que os encontros já haviam ocorrido.",
+        "A delegação brasileira também participaria de fóruns como BRICS, Celac, Ibas e G77."
+      ]
     },
     "en": {
       "title": "Lula follows a meeting schedule before Brazil’s U.N. address",
@@ -31,9 +36,14 @@
       "paragraphs": [
         "The report said Lula was in New York for the high-level week of the United Nations General Assembly and had bilateral meetings planned before Brazil’s address. Brazil retains the tradition of opening the general debate.",
         "The agenda described meetings with Uruguayan President Yamandú Orsi, New York Mayor Zohran Mamdani and U.S. Senator Bernie Sanders. After the opening, a meeting with U.N. Secretary-General António Guterres was also planned.",
-        "The report anticipated that Lula would defend multilateralism, negotiation to resolve disputes, humanitarian law and reform of the United Nations. Brazilian ministers were also due to attend meetings of BRICS, CELAC, IBSA, the G77 and other forums."
+        "The report anticipated that Lula would defend multilateralism, negotiation to resolve disputes, humanitarian law and reform of the United Nations. Brazilian ministers were also due to attend meetings of BRICS, CELAC, IBSA, the G77 and other forums.",
+        "The schedule described is prospective: meetings with Yamandú Orsi, Zohran Mamdani, Bernie Sanders and António Guterres were planned, and the report does not present them as completed. The key information is therefore the intended sequence from bilateral conversations to the opening of the general debate.",
+        "The calendar also shows that Brazil’s participation was not limited to the president’s speech. Ministers were due to attend BRICS, CELAC, IBSA and G77 meetings, while Lula was expected to address multilateralism, negotiation, humanitarian law and U.N. reform without the report claiming concrete results."
       ],
-      "aiSummary": "Lula’s New York agenda combined bilateral meetings, Brazil’s opening role at the U.N. debate and a defense of multilateralism."
+      "aiSummary": [
+        "The report describes planned meetings and does not say they had already taken place.",
+        "Brazil’s delegation was also due at BRICS, CELAC, IBSA and G77 forums."
+      ]
     }
   }
 }

@@ -4,7 +4,7 @@
   "section": "brasil",
   "secondarySections": ["cultura"],
   "publishedAt": "2026-09-21T13:11:26-03:00",
-  "updatedAt": "2026-09-21T13:11:26-03:00",
+  "updatedAt": "2026-09-21T19:43:50.732Z",
   "sources": [
     {
       "name": "Rádio Itatiaia",
@@ -21,9 +21,14 @@
       "paragraphs": [
         "Na trama, Pedro encontra nos arquivos do perito Dalto um laudo segundo o qual Arthur sofreu uma pancada na cabeça antes de cair ou ser empurrado. A descrição da lesão não combina com a versão que responsabiliza Adriana.",
         "Pedro pretende pedir a revisão criminal para tentar inocentar a fisioterapeuta. A possível prova resolve parte do conflito da personagem, mas desloca o mistério para a identidade de quem teria causado a morte de Arthur.",
-        "A história também abre duas frentes paralelas: um documento ligado ao pai de Brigitte pode estar escondido na antiga casa dos Brandão, enquanto Fábia admite um caso com Arthur e passa a ser pressionada por Pilar."
+        "A história também abre duas frentes paralelas: um documento ligado ao pai de Brigitte pode estar escondido na antiga casa dos Brandão, enquanto Fábia admite um caso com Arthur e passa a ser pressionada por Pilar.",
+        "O laudo encontrado por Pedro ainda é uma peça de investigação, não uma conclusão judicial: ele descreve uma lesão incompatível com a versão conhecida, mas a trama apenas indica que será pedida uma revisão criminal. A possível mudança no caso depende, portanto, da confirmação e da interpretação dessa prova.",
+        "As três revelações funcionam em sequência, porque a suspeita sobre a morte de Arthur se conecta ao documento ligado ao pai de Brigitte e à confissão de Fábia. Enquanto Pedro tenta reabrir o caso de Adriana, Pilar transforma a informação sobre o relacionamento em pressão, ampliando o conflito familiar sem resolver sua origem."
       ],
-      "aiSummary": "A novela combina um laudo que pode inocentar Adriana com novos segredos familiares e uma chantagem envolvendo Fábia."
+      "aiSummary": [
+        "O laudo pode alterar a situação de Adriana, mas a revisão criminal ainda é um plano da trama.",
+        "Documento escondido e chantagem de Pilar ampliam os mistérios da família Brandão."
+      ]
     },
     "en": {
       "title": "Quem Ama Cuida sets up three revelations for the Brandão family",
@@ -31,9 +36,14 @@
       "paragraphs": [
         "In the plot, Pedro finds a report in expert Dalto’s files saying that Arthur suffered a blow to the head before falling or being pushed. The injury described does not fit the version that blames Adriana.",
         "Pedro plans to seek a criminal review to try to clear the physiotherapist. The possible evidence resolves part of her conflict but shifts the mystery toward the identity of the person who may have caused Arthur’s death.",
-        "The story also opens two parallel threads: a document connected to Brigitte’s father may be hidden in the Brandão family’s former house, while Fábia admits an affair with Arthur and is then pressured by Pilar."
+        "The story also opens two parallel threads: a document connected to Brigitte’s father may be hidden in the Brandão family’s former house, while Fábia admits an affair with Arthur and is then pressured by Pilar.",
+        "The report found by Pedro is still an investigative element, not a judicial conclusion: it describes an injury that conflicts with the known account, while the plot only says that a criminal review will be sought. Any change in Adriana’s case therefore depends on how that evidence is confirmed and interpreted.",
+        "The three revelations are linked in sequence: the question surrounding Arthur’s death sits alongside the document tied to Brigitte’s father and Fábia’s confession. As Pedro tries to reopen Adriana’s case, Pilar turns the affair into leverage, expanding the family conflict without yet resolving its source."
       ],
-      "aiSummary": "The soap opera combines a report that could clear Adriana with new family secrets and blackmail involving Fábia."
+      "aiSummary": [
+        "The report could change Adriana’s situation, but the criminal review remains a plot plan.",
+        "A hidden document and Pilar’s blackmail add further Brandão family mysteries."
+      ]
     }
   }
 }

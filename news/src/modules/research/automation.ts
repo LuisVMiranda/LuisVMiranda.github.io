@@ -19,13 +19,29 @@ function translationIssues(
   translation: Article['translations'][Locale],
 ): string[] {
   const issues: string[] = [];
-  if (!translation.aiSummary)
-    issues.push(`${id}/${locale} is missing an AI summary`);
-  if (translation.paragraphs.length < 3)
-    issues.push(`${id}/${locale} must contain at least 3 paragraphs`);
+  const aiSummary = translation.aiSummary;
+  if (!Array.isArray(aiSummary) || aiSummary.length === 0)
+    issues.push(`${id}/${locale} must contain a bullet-list AI summary`);
+  else {
+    const maxBullets = Math.min(
+      5,
+      Math.max(1, Math.ceil(translation.paragraphs.length / 2)),
+    );
+    if (aiSummary.length > maxBullets)
+      issues.push(
+        `${id}/${locale} has more than ${maxBullets} relevant AI-summary bullets`,
+      );
+  }
+  if (translation.paragraphs.length < 5)
+    issues.push(`${id}/${locale} must contain at least 5 paragraphs`);
   const textFields = [
     ['summary', translation.summary],
-    ['AI summary', translation.aiSummary ?? ''],
+    ...(Array.isArray(aiSummary)
+      ? aiSummary.map(
+          (bullet, index) =>
+            [`AI summary bullet ${index + 1}`, bullet] as const,
+        )
+      : [['AI summary', aiSummary ?? ''] as const]),
     ...translation.paragraphs.map((paragraph, index) => [
       `paragraph ${index + 1}`,
       paragraph,

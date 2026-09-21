@@ -4,7 +4,7 @@
   "section": "esportes",
   "secondarySections": [],
   "publishedAt": "2026-09-21T11:33:33.773-03:00",
-  "updatedAt": "2026-09-21T11:33:33.773-03:00",
+  "updatedAt": "2026-09-21T19:43:50.732Z",
   "sources": [
     {
       "name": "ge.globo.com",
@@ -21,9 +21,14 @@
       "paragraphs": [
         "A primeira Corrida do Rio Branco-ES foi realizada em 13 de setembro, na Praia de Camburi, em Vitória, com 1.800 inscritos e 23 marcas parceiras.",
         "As inscrições terminaram mais de um mês antes da prova. O clube afirmou que decidiu manter o limite de participantes para priorizar a qualidade da experiência oferecida aos corredores, apesar da procura maior.",
-        "A resposta positiva levou a SAF do Rio Branco-ES a confirmar uma segunda edição em 2027, com a expectativa de ampliar o evento sobre uma base construída na estreia."
+        "A resposta positiva levou a SAF do Rio Branco-ES a confirmar uma segunda edição em 2027, com a expectativa de ampliar o evento sobre uma base construída na estreia.",
+        "A estreia combinou escala controlada e forte procura: foram 1.800 inscritos, 23 marcas parceiras e esgotamento das vagas mais de um mês antes da prova. Mesmo diante da demanda maior, o clube manteve o limite para priorizar a experiência dos corredores.",
+        "A confirmação de uma segunda edição em 2027 nasce desse resultado, mas ainda não traz data, percurso ou novo número de vagas. O que está definido é a continuidade do evento pela SAF do Rio Branco-ES, com expectativa de ampliar uma iniciativa que teve sua base construída em Vitória."
       ],
-      "aiSummary": "O Rio Branco-ES confirmou uma nova corrida de rua para 2027 após a primeira edição reunir 1.800 inscritos em Vitória."
+      "aiSummary": [
+        "A primeira corrida teve 1.800 inscritos, 23 marcas parceiras e vagas esgotadas com mais de um mês de antecedência.",
+        "A edição de 2027 foi confirmada, mas a reportagem ainda não informa data, percurso ou número de vagas."
+      ]
     },
     "en": {
       "title": "Rio Branco-ES confirms second road race edition for 2027",
@@ -31,9 +36,14 @@
       "paragraphs": [
         "The first Rio Branco-ES Road Race took place on September 13 at Praia de Camburi in Vitória, with 1,800 registered runners and 23 partner brands.",
         "Registration sold out more than a month before the race. The club said it chose to keep the participant limit to prioritize the quality of the experience despite stronger demand.",
-        "The positive response led Rio Branco-ES's SAF to confirm a second edition in 2027, with the expectation of expanding the event from the foundation built in its debut."
+        "The positive response led Rio Branco-ES's SAF to confirm a second edition in 2027, with the expectation of expanding the event from the foundation built in its debut.",
+        "The debut combined a controlled scale with strong demand: it had 1,800 registered runners, 23 partner brands and sold out more than a month before race day. Despite the greater interest, the club kept the participant cap to prioritize the runners’ experience.",
+        "The 2027 confirmation follows that response but does not yet provide a date, route or new capacity. What is established is the SAF’s continuation of the event, with an expectation to build on the foundation created by the Vitória debut."
       ],
-      "aiSummary": "Rio Branco-ES confirmed another road race for 2027 after the first edition drew 1,800 registered runners in Vitória."
+      "aiSummary": [
+        "The first race had 1,800 registered runners, 23 partner brands and sold out more than a month early.",
+        "The 2027 edition is confirmed, but no date, route or participant capacity has been reported."
+      ]
     }
   }
 }

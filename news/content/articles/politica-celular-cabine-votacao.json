@@ -4,7 +4,7 @@
   "section": "politica",
   "secondarySections": [],
   "publishedAt": "2026-09-21T00:00:00.689-03:00",
-  "updatedAt": "2026-09-21T00:00:00.689-03:00",
+  "updatedAt": "2026-09-21T19:43:50.732Z",
   "sources": [
     {
       "name": "G1",
@@ -21,9 +21,15 @@
       "paragraphs": [
         "O uso de celular dentro da cabine de votação é proibido no Brasil, explica o guia do eleitor publicado pelo G1 para as eleições de 2026.",
         "O eleitor pode levar o aparelho até o local de votação, mas precisa deixá-lo com o mesário antes de entrar na cabine. Quem se recusar não será autorizado a votar, e a polícia pode ser chamada se necessário.",
-        "A regra também alcança câmeras, filmadoras, óculos com gravação e qualquer equipamento capaz de registrar ou transmitir o voto. A medida protege o sigilo da escolha e evita que o eleitor seja pressionado a produzir prova do voto."
+        "A regra também alcança câmeras, filmadoras, óculos com gravação e qualquer equipamento capaz de registrar ou transmitir o voto. A medida protege o sigilo da escolha e evita que o eleitor seja pressionado a produzir prova do voto.",
+        "A orientação vale para qualquer dispositivo capaz de registrar ou transmitir a escolha, não apenas para celulares: câmeras, filmadoras e óculos com gravação também precisam ficar fora da cabine. O procedimento ocorre antes de o eleitor entrar no espaço reservado, de modo que o aparelho deve ser entregue ao mesário ainda na seção.",
+        "A justificativa prática apresentada pelo guia é preservar o sigilo e impedir que alguém seja pressionado a produzir prova do voto. Por isso, a recusa não é tratada como uma simples irregularidade de uso: ela pode impedir a votação e, se necessário, levar à chamada da polícia."
       ],
-      "aiSummary": "O guia do G1 esclarece que celulares e outros dispositivos de gravação devem ficar com o mesário durante a votação. A regra existe para preservar o sigilo do voto e pode impedir a votação de quem se recusar a cumprir o procedimento."
+      "aiSummary": [
+        "A regra alcança câmeras, filmadoras, óculos com gravação e outros transmissores.",
+        "O aparelho deve ser entregue ao mesário antes da entrada na cabine.",
+        "A medida protege o sigilo e a recusa pode impedir o voto."
+      ]
     },
     "en": {
       "title": "G1 explains Brazil’s rule banning phones inside voting booths",
@@ -31,9 +37,15 @@
       "paragraphs": [
         "Using a cellphone inside the voting booth is prohibited in Brazil, according to the voter guide published by G1 for the 2026 elections.",
         "Voters may bring the device to the polling station but must leave it with the poll worker before entering the booth. Anyone who refuses will not be allowed to vote, and police may be called if necessary.",
-        "The rule also covers cameras, video recorders, recording glasses and any equipment capable of recording or transmitting the vote. It protects ballot secrecy and prevents voters from being pressured to create proof of their choice."
+        "The rule also covers cameras, video recorders, recording glasses and any equipment capable of recording or transmitting the vote. It protects ballot secrecy and prevents voters from being pressured to create proof of their choice.",
+        "The guidance applies to any device capable of recording or transmitting a choice, not only cellphones: cameras, video recorders and recording glasses must also stay out of the booth. The handover takes place before the voter enters the private space, so the device must be left with the poll worker at the station.",
+        "The practical rationale given by the guide is to preserve ballot secrecy and prevent anyone from being pressured to produce proof of a vote. For that reason, refusal is not treated as a minor phone-use issue: it can stop the ballot from being cast and may lead to police involvement if necessary."
       ],
-      "aiSummary": "G1’s guide explains that phones and other recording devices must remain with the poll worker during voting. The rule protects ballot secrecy and can prevent a voter from casting a ballot if they refuse to comply."
+      "aiSummary": [
+        "The rule covers cameras, video recorders, recording glasses and other transmitters.",
+        "The device must be handed to the poll worker before entering the booth.",
+        "The measure protects secrecy, and refusal can prevent voting."
+      ]
     }
   }
 }

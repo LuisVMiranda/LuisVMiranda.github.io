@@ -4,7 +4,7 @@
   "section": "tecnologia",
   "secondarySections": [],
   "publishedAt": "2026-09-21T06:30:00.000-03:00",
-  "updatedAt": "2026-09-21T06:30:00.000-03:00",
+  "updatedAt": "2026-09-21T19:43:50.732Z",
   "sources": [
     {
       "name": "Canaltech",
@@ -21,9 +21,14 @@
       "paragraphs": [
         "A reportagem explica que o interior de um carro estacionado ao sol pode chegar a temperaturas muito acima do ambiente, enquanto a bateria do celular continua sujeita a reações químicas aceleradas pelo calor. O risco existe mesmo quando o aparelho não está sendo usado.",
         "O telefone pode reduzir brilho, velocidade de carregamento e desempenho para limitar efeitos imediatos, mas a exposição frequente ou prolongada pode diminuir a capacidade útil da bateria. O aquecimento também tende a ser maior quando o aparelho permanece ligado, porque seus componentes geram calor.",
-        "A recomendação prática é não deixar o celular no carro, sobretudo sob sol direto, e esperar que um aparelho quente esfrie naturalmente em local ventilado antes de usá-lo ou carregá-lo. Guardá-lo no porta-luvas reduz a luz direta, mas não elimina o calor interno."
+        "A recomendação prática é não deixar o celular no carro, sobretudo sob sol direto, e esperar que um aparelho quente esfrie naturalmente em local ventilado antes de usá-lo ou carregá-lo. Guardá-lo no porta-luvas reduz a luz direta, mas não elimina o calor interno.",
+        "A bateria pode sofrer dois tipos de efeito descritos na reportagem: proteções térmicas reduzem temporariamente algumas funções quando o aparelho esquenta, enquanto a repetição do calor acelera o envelhecimento químico e reduz a capacidade útil ao longo do tempo.",
+        "Isso explica por que desligar o telefone não elimina completamente o risco e por que o procedimento depois da exposição importa. Em vez de resfriá-lo à força, a orientação é tirá-lo do carro, deixá-lo em local ventilado e só então retomar uso ou carregamento."
       ],
-      "aiSummary": "Calor recorrente dentro de carros pode degradar a bateria do celular; o melhor é evitar deixar o aparelho no veículo."
+      "aiSummary": [
+        "O calor pode acionar proteções temporárias e, com repetição, reduzir a capacidade útil da bateria.",
+        "Um celular quente deve esfriar naturalmente em local ventilado antes de ser usado ou carregado."
+      ]
     },
     "en": {
       "title": "Heat inside a car can accelerate phone-battery wear",
@@ -31,9 +36,14 @@
       "paragraphs": [
         "The report explains that the inside of a car parked in the sun can become far hotter than the surrounding air, while the phone battery remains exposed to chemical reactions accelerated by heat. The risk exists even when the device is not being used.",
         "A phone may reduce screen brightness, charging speed, and performance to limit immediate effects, but repeated or prolonged exposure can reduce usable battery capacity. Heating can also be greater when the phone is on because its components generate heat.",
-        "The practical advice is to avoid leaving a phone in a car, especially in direct sunlight, and let a hot device cool naturally in a ventilated place before using or charging it. The glove compartment reduces direct light but does not remove the interior heat."
+        "The practical advice is to avoid leaving a phone in a car, especially in direct sunlight, and let a hot device cool naturally in a ventilated place before using or charging it. The glove compartment reduces direct light but does not remove the interior heat.",
+        "The battery can experience two distinct effects described in the report: thermal protections temporarily reduce some functions when the phone heats up, while repeated heat accelerates chemical aging and lowers the phone's usable capacity over time.",
+        "That explains why turning the phone off does not completely remove the risk and why the response after exposure matters. Rather than forcing it to cool, the advice is to remove it from the car, leave it in a ventilated place, and only then resume regular phone use or charging."
       ],
-      "aiSummary": "Repeated car heat can degrade a phone battery; the safest practice is not to leave the device in the vehicle."
+      "aiSummary": [
+        "Heat can trigger temporary protections and, with repeated exposure, reduce a battery's usable capacity.",
+        "A hot phone should cool naturally in a ventilated place before it is used or charged."
+      ]
     }
   }
 }

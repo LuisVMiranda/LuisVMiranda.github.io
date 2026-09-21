@@ -5,7 +5,7 @@
   "secondarySections": [],
   "publishedAt": "2026-09-21T13:21:23+00:00",
   "publishedDate": "2026-09-21",
-  "updatedAt": "2026-09-21T13:21:23+00:00",
+  "updatedAt": "2026-09-21T19:43:50.732Z",
   "sources": [
     {
       "name": "University of Georgia",
@@ -22,9 +22,14 @@
       "paragraphs": [
         "Pesquisadores da Universidade da Geórgia identificaram quase uma dúzia de genes que orientam células-tronco de planárias a formar neurônios produtores de dopamina e a levá-los aos locais corretos do corpo.",
         "As planárias conseguem reconstruir tecidos, músculos e até o cérebro a partir de pequenos fragmentos, enquanto células-tronco humanas não regeneram neurônios com a mesma eficiência. Ao desativar alguns dos genes encontrados, os vermes tiveram dificuldade para produzir esses neurônios e apresentaram movimentos mais lentos.",
-        "O trabalho, publicado na Nature Communications, não cria uma terapia humana, mas oferece caminhos para investigar como ativar ou transplantar células produtoras de dopamina em condições como Parkinson e lesões cerebrais traumáticas."
+        "O trabalho, publicado na Nature Communications, não cria uma terapia humana, mas oferece caminhos para investigar como ativar ou transplantar células produtoras de dopamina em condições como Parkinson e lesões cerebrais traumáticas.",
+        "O efeito dos desligamentos genéticos reforçou que os genes não aparecem apenas como uma associação estatística: quando alguns foram desativados, as planárias tiveram dificuldade para formar neurônios dopaminérgicos e passaram a se mover mais lentamente. Isso liga o mecanismo observado à função do animal.",
+        "A utilidade do estudo está em oferecer um caminho experimental para investigar ativação ou transplante de células produtoras de dopamina, não em fornecer uma intervenção para pacientes. A distância entre o modelo regenerativo das planárias e uma terapia humana continua explicitamente aberta."
       ],
-      "aiSummary": "Pesquisadores da Universidade da Geórgia identificaram genes que ajudam planárias a regenerar neurônios produtores de dopamina. O resultado é uma pista para futuras pesquisas sobre regeneração cerebral, não uma terapia já disponível para pessoas."
+      "aiSummary": [
+        "Desativar alguns genes prejudicou a formação de neurônios dopaminérgicos e deixou as planárias mais lentas.",
+        "O estudo orienta pesquisas futuras, mas não oferece uma terapia humana disponível."
+      ]
     },
     "en": {
       "title": "Genes help explain how flatworms regenerate their brains",
@@ -32,9 +37,14 @@
       "paragraphs": [
         "University of Georgia researchers identified almost a dozen genes that guide planarian stem cells to form dopamine-producing neurons and deliver them to the correct locations in the body.",
         "Planarians can rebuild tissue, muscle and even their brains from small fragments, while human stem cells do not regenerate neurons as efficiently. When some of the identified genes were disabled, the worms struggled to produce the neurons and moved more slowly.",
-        "Published in Nature Communications, the study does not create a human therapy, but it gives researchers a route for investigating how dopamine-producing cells might be activated or transplanted for conditions such as Parkinson’s disease and traumatic brain injuries."
+        "Published in Nature Communications, the study does not create a human therapy, but it gives researchers a route for investigating how dopamine-producing cells might be activated or transplanted for conditions such as Parkinson’s disease and traumatic brain injuries.",
+        "The gene knockouts strengthened the case that these genes are not merely a statistical association: when some were disabled, planarians struggled to form dopamine-producing neurons and moved more slowly. That connects the observed mechanism to the animal's function.",
+        "The study's value is to provide an experimental route for investigating activation or transplantation of dopamine-producing cells, not to provide an intervention for patients. The distance between planarian regeneration and a human therapy remains explicitly open."
       ],
-      "aiSummary": "University of Georgia researchers identified genes that help planarians regenerate dopamine-producing neurons. The finding is a lead for future brain-regeneration research, not an available treatment for people."
+      "aiSummary": [
+        "Disabling some genes impaired dopamine-neuron formation and made the planarians move more slowly.",
+        "The study guides future research but does not provide an available human therapy."
+      ]
     }
   }
 }

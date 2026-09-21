@@ -98,6 +98,24 @@ function sourcesList(article, locale) {
   </section>`;
 }
 
+/** @param {import('../../modules/content/types.ts').Translation} translation @returns {string[]} */
+function aiSummaryBullets(translation) {
+  if (!translation.aiSummary) return [];
+  return Array.isArray(translation.aiSummary)
+    ? translation.aiSummary
+    : [translation.aiSummary];
+}
+
+/** @param {Record<string, string>} labels @param {import('../../modules/content/types.ts').Translation} translation @returns {string} */
+function renderAiSummary(labels, translation) {
+  const bullets = aiSummaryBullets(translation);
+  if (!bullets.length) return '';
+  return `<aside class="article-ai-summary" aria-label="${escapeHtml(labels.aiSummary)}">
+    <p class="article-ai-summary__label text-xs font-semibold uppercase tracking-widest">${escapeHtml(labels.aiSummary)}</p>
+    <ul>${bullets.map((bullet) => `<li>${escapeHtml(bullet)}</li>`).join('')}</ul>
+  </aside>`;
+}
+
 /** @param {import('../types.ts').RenderContext} context @returns {string} */
 export default function renderArticle(context) {
   const { locale, article } = context;
@@ -127,12 +145,7 @@ export default function renderArticle(context) {
   const paragraphs = translation.paragraphs
     .map((paragraph) => `<p>${escapeHtml(paragraph)}</p>`)
     .join('');
-  const aiSummary = translation.aiSummary
-    ? `<aside class="article-ai-summary" aria-label="${escapeHtml(labels.aiSummary)}">
-        <p class="article-ai-summary__label text-xs font-semibold uppercase tracking-widest">${escapeHtml(labels.aiSummary)}</p>
-        <p>${escapeHtml(translation.aiSummary)}</p>
-      </aside>`
-    : '';
+  const aiSummary = renderAiSummary(labels, translation);
   const correction = translation.correction
     ? `<aside class="correction" aria-label="${escapeHtml(labels.correction)}">
         <p class="correction-label text-xs font-semibold uppercase tracking-widest">${escapeHtml(labels.correction)}</p>

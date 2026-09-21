@@ -4,7 +4,7 @@
   "section": "tecnologia",
   "secondarySections": ["cultura"],
   "publishedAt": "2026-09-21T09:02:34.000-03:00",
-  "updatedAt": "2026-09-21T09:02:34.000-03:00",
+  "updatedAt": "2026-09-21T19:43:50.732Z",
   "sources": [
     {
       "name": "Canaltech",
@@ -21,9 +21,14 @@
       "paragraphs": [
         "Hideo Kojima afirmou que recebeu em junho a notícia de que a Sony Interactive Entertainment não financiaria mais o desenvolvimento de Physint. O diretor disse que a decisão o surpreendeu e que o estúdio precisou procurar rapidamente outra parceira.",
         "A Kojima Productions encontrou apoio da Xbox para continuar o projeto, enquanto Kojima declarou não guardar ressentimento da Sony. O estúdio também afirmou que está saudável e lucrativo e que mantém a relação com a PlayStation.",
-        "A matéria informa que Physint continua em desenvolvimento e que a Kojima Productions apresentou novidades na Tokyo Game Show, incluindo Bill Skarsgård no elenco. As razões detalhadas para o fim do financiamento da Sony não foram divulgadas."
+        "A matéria informa que Physint continua em desenvolvimento e que a Kojima Productions apresentou novidades na Tokyo Game Show, incluindo Bill Skarsgård no elenco. As razões detalhadas para o fim do financiamento da Sony não foram divulgadas.",
+        "A cronologia apresentada é de mudança de financiamento, não de cancelamento do jogo: a notícia recebida em junho levou o estúdio a procurar apoio, e a matéria registra que Physint continua em desenvolvimento. A participação de Bill Skarsgård foi citada entre as novidades mostradas depois.",
+        "Também há uma distinção importante entre as posições públicas: Kojima disse não guardar ressentimento, enquanto a empresa afirmou estar saudável, lucrativa e ainda ligada à PlayStation. O motivo detalhado para a decisão da Sony, porém, permanece sem divulgação."
       ],
-      "aiSummary": "Kojima Productions levou Physint à Xbox após a Sony encerrar o financiamento, sem romper publicamente a relação com a PlayStation."
+      "aiSummary": [
+        "O fim do financiamento da Sony levou a Kojima Productions a buscar apoio da Xbox, mas Physint continua em desenvolvimento.",
+        "As razões detalhadas para a decisão da Sony não foram divulgadas, e a relação com a PlayStation foi mantida publicamente."
+      ]
     },
     "en": {
       "title": "Kojima says he was surprised when Sony ended Physint funding",
@@ -31,9 +36,14 @@
       "paragraphs": [
         "Hideo Kojima said he learned in June that Sony Interactive Entertainment would no longer fund Physint. The director said the decision surprised him and that the studio quickly had to look for another partner.",
         "Kojima Productions found support from Xbox to keep the project moving, while Kojima said he holds no resentment toward Sony. The studio also said it is healthy and profitable and that its relationship with PlayStation remains strong.",
-        "The report says Physint remains in development and that Kojima Productions presented new details at Tokyo Game Show, including Bill Skarsgård joining the cast. The detailed reasons for Sony ending the funding were not disclosed."
+        "The report says Physint remains in development and that Kojima Productions presented new details at Tokyo Game Show, including Bill Skarsgård joining the cast. The detailed reasons for Sony ending the funding were not disclosed.",
+        "The chronology presented is a funding change, not a cancellation of the game: news received in June led the studio to seek support, and the report says Physint remains in development. Bill Skarsgård's involvement was cited among the later details shown.",
+        "There is also an important distinction between the public positions: Kojima said he holds no resentment, while the company said it is healthy, profitable, and still connected to PlayStation. The detailed reason for Sony's decision, however, has not been disclosed."
       ],
-      "aiSummary": "Kojima Productions moved Physint to Xbox after Sony ended funding, while publicly preserving its PlayStation relationship."
+      "aiSummary": [
+        "Sony's funding decision led Kojima Productions to seek Xbox support, but Physint remains in development.",
+        "The detailed reasons for Sony's decision were not disclosed, and the PlayStation relationship was publicly preserved."
+      ]
     }
   }
 }

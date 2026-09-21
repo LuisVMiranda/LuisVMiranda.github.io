@@ -4,7 +4,7 @@
   "section": "brasil",
   "secondarySections": ["cultura"],
   "publishedAt": "2026-09-20T21:09:00-03:00",
-  "updatedAt": "2026-09-20T21:09:00-03:00",
+  "updatedAt": "2026-09-21T19:43:50.732Z",
   "sources": [
     {
       "name": "Agência Brasil",
@@ -21,9 +21,14 @@
       "paragraphs": [
         "A sexta edição do Festival Cine Inclusão 60+ começou em 20 de setembro e segue até 27 de setembro em São Paulo, Campinas e Santos. A programação é gratuita e dedicada ao público com 60 anos ou mais.",
         "O evento reúne 21 produções brasileiras e internacionais, com filmes do Brasil, Reino Unido, Japão, Índia, Peru, Argentina e Estados Unidos. As obras tratam o envelhecimento como tema central e exploram desejos, conflitos, afetos, autonomia e relações sociais.",
-        "Entre os destaques está o curta Mulher Papaya, de Camila Tarifa, premiado por roteiro e filme no júri da crítica do Festival de Gramado. A edição também criou um fórum sobre mulheres do audiovisual e os efeitos do envelhecimento da população no setor."
+        "Entre os destaques está o curta Mulher Papaya, de Camila Tarifa, premiado por roteiro e filme no júri da crítica do Festival de Gramado. A edição também criou um fórum sobre mulheres do audiovisual e os efeitos do envelhecimento da população no setor.",
+        "A curadoria amplia o debate sobre envelhecimento ao reunir produções de sete países e colocar no centro temas como desejo, conflitos, afetos, autonomia e relações sociais. O reconhecimento de Mulher Papaya no Festival de Gramado acrescenta um destaque de trajetória à programação, sem reduzir o evento a uma única obra.",
+        "Além das sessões gratuitas em São Paulo, Campinas e Santos até 27 de setembro, esta edição acrescenta um fórum dedicado às mulheres do audiovisual e aos efeitos do envelhecimento populacional no setor. O festival, portanto, combina acesso cultural, representação e discussão sobre a própria indústria."
       ],
-      "aiSummary": "O Cine Inclusão 60+ oferece 21 filmes e um fórum sobre envelhecimento, etarismo e representação em São Paulo, Campinas e Santos."
+      "aiSummary": [
+        "O festival gratuito reúne 21 produções do Brasil, Reino Unido, Japão, Índia, Peru, Argentina e Estados Unidos.",
+        "A sexta edição inclui um fórum sobre mulheres no audiovisual e envelhecimento da população."
+      ]
     },
     "en": {
       "title": "Cine Inclusão 60+ brings films about aging to three cities",
@@ -31,9 +36,14 @@
       "paragraphs": [
         "The sixth edition of the Cine Inclusão 60+ Festival began on September 20 and runs through September 27 in São Paulo, Campinas and Santos. The program is free and dedicated to audiences aged 60 and over.",
         "The event brings together 21 Brazilian and international productions, with films from Brazil, the United Kingdom, Japan, India, Peru, Argentina and the United States. The works place aging at the center and explore desire, conflict, affection, autonomy and social relationships.",
-        "Highlights include Camila Tarifa’s short film Mulher Papaya, which won awards for screenplay and film from the critics’ jury at the Gramado Festival. This edition also created a forum on women in audiovisual work and the effects of population aging on the sector."
+        "Highlights include Camila Tarifa’s short film Mulher Papaya, which won awards for screenplay and film from the critics’ jury at the Gramado Festival. This edition also created a forum on women in audiovisual work and the effects of population aging on the sector.",
+        "The curation broadens the conversation about aging by bringing together productions from seven countries and placing desire, conflict, affection, autonomy and social relationships at the center. Recognition for Mulher Papaya at the Gramado Festival adds a notable career detail without reducing the event to one film.",
+        "Alongside free screenings in São Paulo, Campinas and Santos through September 27, this edition adds a forum devoted to women in audiovisual work and the effects of population aging on the sector. The festival therefore combines access, representation and an industry discussion."
       ],
-      "aiSummary": "Cine Inclusão 60+ offers 21 films and a forum on aging, ageism and representation in São Paulo, Campinas and Santos."
+      "aiSummary": [
+        "The free festival presents 21 productions from Brazil, the United Kingdom, Japan, India, Peru, Argentina and the United States.",
+        "The sixth edition adds a forum on women in audiovisual work and population aging."
+      ]
     }
   }
 }

@@ -4,7 +4,7 @@
   "section": "brasil",
   "secondarySections": ["economia"],
   "publishedAt": "2026-09-21T12:23:00-03:00",
-  "updatedAt": "2026-09-21T12:23:00-03:00",
+  "updatedAt": "2026-09-21T19:43:50.732Z",
   "sources": [
     {
       "name": "Agência Brasil",
@@ -21,9 +21,14 @@
       "paragraphs": [
         "Após uma semana de greve e sem acordo entre a empresa e os empregados, o Tribunal Superior do Trabalho tinha sessão marcada para analisar o dissídio coletivo dos Correios às 13h30 de 21 de setembro.",
         "A direção da estatal apresentou a necessidade de controlar despesas durante uma reestruturação. O principal ponto de conflito era a mudança do Correios Saúde, com a empresa deixando de atuar como mantenedora para assumir a condição de patrocinadora.",
-        "Os sindicatos rejeitaram a proposta inicial de reajuste de 0,87% e pediram reposição pela inflação com ganho real, além da preservação de gratificações e do vale extra de Natal. Em decisão sobre a greve, o TST havia determinado a manutenção de 80% do efetivo, enquanto os Correios afirmavam manter os serviços."
+        "Os sindicatos rejeitaram a proposta inicial de reajuste de 0,87% e pediram reposição pela inflação com ganho real, além da preservação de gratificações e do vale extra de Natal. Em decisão sobre a greve, o TST havia determinado a manutenção de 80% do efetivo, enquanto os Correios afirmavam manter os serviços.",
+        "A audiência marcada pelo TST representava uma etapa de decisão depois de uma semana de paralisação, mas o texto não antecipa o resultado do julgamento. O conflito reunia uma questão estrutural, a mudança no Correios Saúde, e reivindicações salariais e de benefícios apresentadas pelos sindicatos.",
+        "A ordem de manter 80% do efetivo buscava limitar o impacto da greve sobre o serviço, enquanto a empresa dizia preservar as operações. Na prática, o desfecho poderia afetar simultaneamente a cobertura de saúde dos empregados, a remuneração negociada e a continuidade do atendimento postal, três pontos ainda dependentes da solução coletiva."
       ],
-      "aiSummary": "O TST tinha sessão marcada para tratar da greve dos Correios, cujo principal impasse envolvia o plano de saúde e a proposta salarial."
+      "aiSummary": [
+        "A audiência do TST ocorreria após uma semana de greve e sem acordo entre Correios e empregados.",
+        "O impasse combinava mudanças no plano de saúde, reajuste de 0,87% e manutenção de benefícios."
+      ]
     },
     "en": {
       "title": "Labor court had hearing scheduled on Correios dispute after a weeklong strike",
@@ -31,9 +36,14 @@
       "paragraphs": [
         "After a weeklong strike and no agreement between the company and employees, Brazil’s Superior Labor Court had a session scheduled for 1:30 p.m. on September 21 to examine the Correios collective dispute.",
         "The state-owned company cited the need to control expenses during a restructuring. The main conflict concerned Correios Saúde, with the company moving from the role of maintainer to that of sponsor.",
-        "Unions rejected the initial 0.87% pay proposal and sought inflation replacement plus a real increase, as well as preservation of specific bonuses and the extra Christmas payment. In a decision on the strike, the court had ordered 80% of the workforce to remain active, while Correios said services were being maintained."
+        "Unions rejected the initial 0.87% pay proposal and sought inflation replacement plus a real increase, as well as preservation of specific bonuses and the extra Christmas payment. In a decision on the strike, the court had ordered 80% of the workforce to remain active, while Correios said services were being maintained.",
+        "The TST hearing was a decision-making stage after a weeklong stoppage, but the report does not anticipate the judgment’s outcome. The dispute combined a structural issue, the change to Correios Saúde, with wage and benefit demands put forward by the unions.",
+        "The order requiring 80% of the workforce to remain active was intended to limit the strike’s effect on services, while the company said operations were being maintained. The eventual settlement could affect employees’ health coverage, negotiated pay and postal continuity at the same time, leaving all three dependent on the collective decision."
       ],
-      "aiSummary": "The labor court had a hearing scheduled on the Correios strike, whose main dispute concerned the health plan and wage offer."
+      "aiSummary": [
+        "The TST hearing followed a weeklong strike and no agreement between Correios and employees.",
+        "The standoff involved the health plan, a 0.87% pay offer and preservation of benefits."
+      ]
     }
   }
 }

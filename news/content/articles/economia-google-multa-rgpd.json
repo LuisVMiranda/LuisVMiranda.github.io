@@ -4,7 +4,7 @@
   "section": "economia",
   "secondarySections": ["tecnologia", "mundo"],
   "publishedAt": "2026-09-21T09:37:29-03:00",
-  "updatedAt": "2026-09-21T09:37:29-03:00",
+  "updatedAt": "2026-09-21T19:43:50.732Z",
   "sources": [
     {
       "name": "CNN Brasil",
@@ -21,9 +21,15 @@
       "paragraphs": [
         "A Comissão de Proteção de Dados da Irlanda aplicou ao Google uma multa de € 403 milhões, ou cerca de US$ 463 milhões, após investigar o processamento de dados de localização. O regulador concluiu que houve infrações em recursos como Atividade na Web e em apps, Histórico de localização e Precisão da localização entre 2018 e 2020.",
         "A decisão foi descrita como a quarta maior multa aplicada pela autoridade, que já acumulou mais de € 4 bilhões em penalidades desde que passou a supervisionar grandes empresas de tecnologia na União Europeia. O Google também recebeu prazo de seis meses para ajustar seus processos, e não havia respondido imediatamente ao pedido de comentário citado na reportagem.",
-        "Segundo o regulador, usuários podem não ter percebido que sua localização era usada para influenciar anúncios ou inferir interesses, e a retenção por mais tempo do que o necessário teria ampliado a perda de controle sobre os dados. A investigação começou em 2020 após queixas de organizações europeias de defesa do consumidor."
+        "Segundo o regulador, usuários podem não ter percebido que sua localização era usada para influenciar anúncios ou inferir interesses, e a retenção por mais tempo do que o necessário teria ampliado a perda de controle sobre os dados. A investigação começou em 2020 após queixas de organizações europeias de defesa do consumidor.",
+        "A investigação alcançou três recursos específicos usados entre 2018 e 2020: Atividade na Web e em apps, Histórico de localização e Precisão da localização. Segundo a autoridade irlandesa, usuários talvez não tenham percebido que esses dados poderiam influenciar anúncios ou permitir inferências sobre interesses, enquanto a retenção prolongada reduziria ainda mais o controle sobre as informações.",
+        "Além da multa de € 403 milhões, a decisão fixou seis meses para que o Google ajuste seus processos. A autoridade classificou o valor como sua quarta maior penalidade e informou ter aplicado mais de € 4 bilhões desde que passou a supervisionar grandes empresas de tecnologia na União Europeia; a investigação começou após queixas de grupos de consumidores em 2020."
       ],
-      "aiSummary": "O regulador irlandês de proteção de dados multou o Google em € 403 milhões por falhas no processamento de localização e determinou ajustes em seis meses. A investigação envolveu configurações de atividade e histórico de localização usadas entre 2018 e 2020."
+      "aiSummary": [
+        "A investigação envolveu três recursos de localização usados entre 2018 e 2020.",
+        "O Google recebeu seis meses para ajustar os processos questionados.",
+        "A investigação começou em 2020 após queixas de organizações europeias de consumidores."
+      ]
     },
     "en": {
       "title": "Google faces €403 million Irish fine over location-data practices",
@@ -31,9 +37,15 @@
       "paragraphs": [
         "Ireland’s Data Protection Commission fined Google €403 million, or about $463 million, after investigating its processing of location data. The regulator found violations involving features including Web & App Activity, Location History and Location Accuracy between 2018 and 2020.",
         "The decision was described as the authority’s fourth-largest fine; it has imposed more than €4 billion in penalties since becoming the lead EU regulator for many large US technology companies. Google was also ordered to adjust its processes within six months and had not immediately responded to the comment request cited in the report.",
-        "The regulator said users may not have understood that their location data could be used to influence advertising or infer interests, while retaining the data longer than necessary further reduced their control. The investigation began in 2020 after complaints from European consumer-protection groups."
+        "The regulator said users may not have understood that their location data could be used to influence advertising or infer interests, while retaining the data longer than necessary further reduced their control. The investigation began in 2020 after complaints from European consumer-protection groups.",
+        "The investigation covered three specific features used between 2018 and 2020: Web & App Activity, Location History and Location Accuracy. Ireland’s regulator said users may not have understood that the data could influence advertising or support inferences about interests, while keeping it longer than necessary further reduced control over the information.",
+        "Alongside the €403 million fine, the decision gave Google six months to change its processes. The authority described the amount as its fourth-largest penalty and said it had imposed more than €4 billion since becoming the lead regulator for many large technology companies in the European Union; the investigation began after consumer-group complaints in 2020."
       ],
-      "aiSummary": "Ireland’s data regulator fined Google €403 million for failures in location-data processing and ordered changes within six months. The investigation covered activity and location-history settings used between 2018 and 2020."
+      "aiSummary": [
+        "The investigation covered three location features used between 2018 and 2020.",
+        "Google was given six months to change the processes at issue.",
+        "The investigation began in 2020 after complaints from European consumer groups."
+      ]
     }
   }
 }

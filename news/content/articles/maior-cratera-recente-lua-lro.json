@@ -5,7 +5,7 @@
   "secondarySections": [],
   "publishedAt": "2026-09-21T14:10:15+00:00",
   "publishedDate": "2026-09-21",
-  "updatedAt": "2026-09-21T14:10:15+00:00",
+  "updatedAt": "2026-09-21T19:43:50.732Z",
   "sources": [
     {
       "name": "Space.com",
@@ -22,9 +22,14 @@
       "paragraphs": [
         "A sonda Lunar Reconnaissance Orbiter, da NASA, registrou uma nova cratera na Lua com cerca de 222 metros de largura e 43 metros de profundidade. O acidente geológico foi identificado durante uma checagem rotineira de dados da missão.",
         "Pesquisadores estimam que a cratera McGetchin tenha surgido entre 11 de abril e 22 de maio de 2024, quando um asteroide ou cometa do tamanho aproximado de um prédio de três a seis andares atingiu a superfície lunar.",
-        "A cratera é valiosa porque o impacto é recente e os materiais lançados ainda preservam sinais do evento. A observação de um local tão pouco alterado pode ajudar a estudar como impactos modificam a superfície lunar e a frequência de colisões grandes."
+        "A cratera é valiosa porque o impacto é recente e os materiais lançados ainda preservam sinais do evento. A observação de um local tão pouco alterado pode ajudar a estudar como impactos modificam a superfície lunar e a frequência de colisões grandes.",
+        "A identificação ocorreu em uma checagem rotineira de dados da missão, mas a interpretação depende de estimativa: o impacto teria ocorrido entre 11 de abril e 22 de maio de 2024. A cratera mede cerca de 222 metros de largura e 43 metros de profundidade.",
+        "O valor científico está na juventude do local, não apenas no tamanho. Como os materiais ejetados ainda preservam sinais do impacto, a McGetchin oferece uma referência pouco alterada para estudar como colisões remodelam a Lua e estimar a frequência de eventos grandes."
       ],
-      "aiSummary": "A sonda Lunar Reconnaissance Orbiter encontrou a maior cratera recém-formada já identificada na Lua, provavelmente criada por um impacto em 2024. Como o local ainda é recente, ele oferece aos cientistas uma oportunidade rara de estudar os efeitos de uma colisão lunar."
+      "aiSummary": [
+        "A cratera McGetchin tem cerca de 222 metros de largura e 43 metros de profundidade, segundo os dados da missão.",
+        "O local recente preserva sinais do impacto e pode ajudar a estudar a remodelação da Lua por colisões."
+      ]
     },
     "en": {
       "title": "NASA probe finds the largest newly formed lunar crater identified so far",
@@ -32,9 +37,14 @@
       "paragraphs": [
         "NASA’s Lunar Reconnaissance Orbiter recorded a new crater on the Moon about 222 meters wide and 43 meters deep. The feature was identified during a routine check of mission data.",
         "Researchers estimate that McGetchin crater formed between April 11 and May 22, 2024, when an asteroid or comet roughly the size of a three- to six-story building struck the lunar surface.",
-        "The crater is valuable because the impact is recent and the ejected material still preserves evidence of the event. Studying such a lightly altered site can help scientists understand how impacts reshape the Moon and how often large collisions occur."
+        "The crater is valuable because the impact is recent and the ejected material still preserves evidence of the event. Studying such a lightly altered site can help scientists understand how impacts reshape the Moon and how often large collisions occur.",
+        "The feature was identified during a routine check of mission data, but the interpretation depends on an estimate: the impact likely occurred between April 11 and May 22, 2024. The crater is about 222 meters wide and 43 meters deep.",
+        "Its scientific value lies in the site's youth, not only its size. Because the ejected material still preserves signs of the impact, McGetchin offers a relatively unaltered reference for studying how collisions reshape the Moon and estimating the frequency of large events."
       ],
-      "aiSummary": "The Lunar Reconnaissance Orbiter found the largest newly formed crater yet identified on the Moon, probably created by an impact in 2024. Because the site is recent, it gives scientists a rare chance to study the effects of a lunar collision."
+      "aiSummary": [
+        "McGetchin crater is about 222 meters wide and 43 meters deep according to mission data.",
+        "The young site preserves impact evidence that can help study lunar reshaping by collisions."
+      ]
     }
   }
 }

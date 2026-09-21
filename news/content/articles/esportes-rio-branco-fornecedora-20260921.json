@@ -4,7 +4,7 @@
   "section": "esportes",
   "secondarySections": [],
   "publishedAt": "2026-09-21T13:28:21.943-03:00",
-  "updatedAt": "2026-09-21T13:28:21.943-03:00",
+  "updatedAt": "2026-09-21T19:43:50.732Z",
   "sources": [
     {
       "name": "ge.globo.com",
@@ -21,9 +21,14 @@
       "paragraphs": [
         "O Rio Branco-ES decidiu encerrar a parceria com a Kappa, fornecedora dos uniformes desde 2025, e está na fase final de negociação com outra empresa para a próxima temporada.",
         "A mudança faz parte do plano do clube de ampliar o portfólio de produtos oficiais, incluindo opções de treino, passeio e peças especiais além da camisa de jogo.",
-        "O Rio Branco também busca aumentar as receitas com a venda de produtos e obter participação maior nos royalties. A expectativa é anunciar a nova fornecedora nas próximas semanas."
+        "O Rio Branco também busca aumentar as receitas com a venda de produtos e obter participação maior nos royalties. A expectativa é anunciar a nova fornecedora nas próximas semanas.",
+        "A Kappa fornecia os uniformes desde 2025, e o Rio Branco-ES já está na fase final de negociação com outra empresa para a próxima temporada. A mudança pretende ampliar a oferta para além da camisa de jogo, incluindo peças de treino, passeio e edições especiais.",
+        "O objetivo financeiro é duplo: vender uma linha mais ampla e aumentar a participação do clube nos royalties. Ainda não há nome anunciado para a substituta nem acordo concluído publicamente; a expectativa apresentada é de divulgação nas próximas semanas."
       ],
-      "aiSummary": "O Rio Branco-ES deixará de trabalhar com a Kappa e negocia uma nova fornecedora para ampliar produtos e receitas."
+      "aiSummary": [
+        "A Kappa fornecia os uniformes do Rio Branco-ES desde 2025, mas a parceria será encerrada.",
+        "O clube negocia uma nova empresa e espera anunciar a fornecedora nas próximas semanas."
+      ]
     },
     "en": {
       "title": "Rio Branco-ES to end Kappa partnership and negotiate new kit supplier",
@@ -31,9 +36,14 @@
       "paragraphs": [
         "Rio Branco-ES decided to end its partnership with Kappa, which has supplied the club's kits since 2025, and is in the final stage of negotiations with another company for next season.",
         "The change is part of the club's plan to expand its official product portfolio, including training, leisure and special items beyond the match jersey.",
-        "Rio Branco also wants to increase product-sales revenue and secure a larger share of royalties. The new supplier is expected to be announced in the coming weeks."
+        "Rio Branco also wants to increase product-sales revenue and secure a larger share of royalties. The new supplier is expected to be announced in the coming weeks.",
+        "Kappa had supplied Rio Branco-ES kits since 2025, and the club is already in the final stage of talks with another company for next season. The change is intended to expand the offering beyond the match jersey to training, leisure and special items.",
+        "The financial goal is twofold: sell a broader line and increase the club’s share of royalties. No replacement supplier has been named and no completed agreement is announced; the stated expectation is a disclosure in the coming weeks."
       ],
-      "aiSummary": "Rio Branco-ES will leave Kappa and is negotiating a new supplier to expand products and revenue."
+      "aiSummary": [
+        "Kappa had supplied Rio Branco-ES kits since 2025, but the partnership is ending.",
+        "The club is negotiating a new company and expects to announce the supplier in the coming weeks."
+      ]
     }
   }
 }

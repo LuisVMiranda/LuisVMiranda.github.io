@@ -5,7 +5,7 @@
   "secondarySections": [],
   "publishedAt": "2026-09-17T09:00:44+00:00",
   "publishedDate": "2026-09-17",
-  "updatedAt": "2026-09-17T09:00:44+00:00",
+  "updatedAt": "2026-09-21T19:43:50.732Z",
   "sources": [
     {
       "name": "The Guardian",
@@ -22,9 +22,14 @@
       "paragraphs": [
         "Pesquisadores usaram radiotelescópios para analisar 20 eventos em que estrelas foram destruídas pela gravidade de buracos negros supermassivos, liberando material em jatos e fluxos para o espaço.",
         "A equipe identificou duas fases de emissão: uma quando o buraco negro se alimenta em ritmo muito alto e outra centenas ou milhares de dias depois, quando a taxa cai para cerca de 2% do máximo. O mesmo limiar já havia sido associado a jatos de buracos negros menores.",
-        "A regularidade observada pode ajudar os astrônomos a prever quando os jatos serão lançados e a estimar sua intensidade. Isso permite planejar melhor o uso de telescópios para acompanhar fenômenos extremos no Universo."
+        "A regularidade observada pode ajudar os astrônomos a prever quando os jatos serão lançados e a estimar sua intensidade. Isso permite planejar melhor o uso de telescópios para acompanhar fenômenos extremos no Universo.",
+        "A segunda fase é particularmente específica: ela aparece centenas ou milhares de dias depois, quando a taxa de alimentação cai para cerca de 2% do máximo. O mesmo limiar já observado em buracos negros menores sugere um padrão que atravessa escalas, embora a amostra continue sendo de 20 eventos.",
+        "Para a astronomia observacional, a regularidade pode transformar um fenômeno difícil de acompanhar em uma oportunidade melhor planejada. Os pesquisadores podem usar a indicação de fase para reservar telescópios e estimar a intensidade, sem tratar cada erupção como perfeitamente previsível."
       ],
-      "aiSummary": "A análise de 20 eventos de estrelas destruídas por buracos negros encontrou duas fases recorrentes de lançamento de jatos. A regularidade pode tornar mais previsível o momento de observação desses fenômenos, sem eliminar as incertezas de cada evento."
+      "aiSummary": [
+        "A segunda fase de jatos aparece centenas ou milhares de dias depois, quando a alimentação cai para cerca de 2% do máximo.",
+        "O padrão pode ajudar a planejar telescópios, mas a amostra analisada reúne 20 eventos e mantém incertezas individuais."
+      ]
     },
     "en": {
       "title": "Study identifies when black holes launch their jets",
@@ -32,9 +37,14 @@
       "paragraphs": [
         "Researchers used radio telescopes to examine 20 events in which stars were torn apart by the gravity of supermassive black holes, sending material into jets and outflows across space.",
         "The team identified two emission phases: one while the black hole is feeding at a very high rate and another hundreds or thousands of days later, when the rate falls to about 2% of its maximum. The same threshold had already been linked to jets from smaller black holes.",
-        "The observed regularity could help astronomers predict when jets will be launched and estimate their strength. That would make it easier to schedule telescope time for monitoring extreme events in the Universe."
+        "The observed regularity could help astronomers predict when jets will be launched and estimate their strength. That would make it easier to schedule telescope time for monitoring extreme events in the Universe.",
+        "The second phase is particularly specific: it appears hundreds or thousands of days later, when the feeding rate falls to about 2 percent of its maximum. The same threshold had been seen in smaller black holes, suggesting a pattern across scales even though the sample contains 20 events.",
+        "For observational astronomy, the regularity could turn a difficult phenomenon into a better-planned opportunity for follow-up. Researchers could use the phase indicator to reserve telescope time and estimate intensity without treating every outburst as perfectly predictable."
       ],
-      "aiSummary": "An analysis of 20 stellar-disruption events found two recurring phases when black holes launch jets. The pattern may make the timing of these observations more predictable, while individual events will still carry uncertainty."
+      "aiSummary": [
+        "The second jet phase appears hundreds or thousands of days later, when feeding falls to about 2 percent of the maximum.",
+        "The pattern may improve telescope scheduling, but the 20-event sample leaves uncertainty for individual events."
+      ]
     }
   }
 }

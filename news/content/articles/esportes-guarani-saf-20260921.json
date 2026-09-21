@@ -4,7 +4,7 @@
   "section": "esportes",
   "secondarySections": [],
   "publishedAt": "2026-09-21T08:26:02.465-03:00",
-  "updatedAt": "2026-09-21T08:26:02.465-03:00",
+  "updatedAt": "2026-09-21T19:43:50.732Z",
   "sources": [
     {
       "name": "ge.globo.com",
@@ -21,9 +21,14 @@
       "paragraphs": [
         "O Guarani marcou duas reuniões de esclarecimento para segunda e quarta-feira antes da votação da proposta de constituição de uma SAF, prevista para sexta-feira, dia 25.",
         "A assembleia terá formato híbrido, com primeira chamada às 15h30 e votação aberta até as 20h. O projeto apresentado por Roberto Graziano prevê investimento total de R$ 1,075 bilhão.",
-        "O plano distribui recursos entre a operação da SAF e do clube social, um novo estádio, um centro de treinamento e o passivo da recuperação judicial. Pelo modelo proposto, o Guarani ficaria com 10% da SAF e o grupo de Graziano com 90%."
+        "O plano distribui recursos entre a operação da SAF e do clube social, um novo estádio, um centro de treinamento e o passivo da recuperação judicial. Pelo modelo proposto, o Guarani ficaria com 10% da SAF e o grupo de Graziano com 90%.",
+        "O processo foi desenhado em etapas: primeiro vêm as reuniões de esclarecimento de segunda e quarta-feira; depois, a assembleia híbrida de sexta-feira, com primeira chamada às 15h30 e votação aberta até as 20h. Esses marcos mostram que a proposta ainda depende da decisão dos associados.",
+        "O valor de R$ 1,075 bilhão é uma previsão do projeto apresentado por Roberto Graziano, distribuída entre a SAF, o clube social, estádio, centro de treinamento e passivo da recuperação judicial. A divisão proposta de 10% e 90% também é parte do modelo em avaliação, não uma transação concluída."
       ],
-      "aiSummary": "O Guarani fará reuniões antes de votar, em 25 de setembro, uma proposta de SAF com investimento previsto de R$ 1,075 bilhão."
+      "aiSummary": [
+        "O Guarani fará reuniões de esclarecimento antes da assembleia híbrida marcada para 25 de setembro.",
+        "Os R$ 1,075 bilhão e a divisão de 10%/90% são termos da proposta ainda submetida à votação."
+      ]
     },
     "en": {
       "title": "Guarani prepares to vote on SAF proposal this Friday",
@@ -31,9 +36,14 @@
       "paragraphs": [
         "Guarani scheduled two clarification meetings for Monday and Wednesday before a vote on the proposed creation of a SAF, set for Friday, September 25.",
         "The assembly will use a hybrid format, with the first call at 3:30 p.m. and voting open until 8 p.m. The project presented by Roberto Graziano calls for total investment of 1.075 billion reais.",
-        "The plan allocates funds to the SAF and social club operations, a new stadium, a training center and judicial-recovery liabilities. Under the proposal, Guarani would retain 10% of the SAF and Graziano's group would hold 90%."
+        "The plan allocates funds to the SAF and social club operations, a new stadium, a training center and judicial-recovery liabilities. Under the proposal, Guarani would retain 10% of the SAF and Graziano's group would hold 90%.",
+        "The process is staged: clarification meetings come first on Monday and Wednesday, followed by Friday’s hybrid assembly, with the first call at 3:30 p.m. and voting open until 8 p.m. Those milestones make clear that the proposal still depends on the members’ decision.",
+        "The 1.075 billion reais figure is a projection in Roberto Graziano’s proposal, allocated among the SAF, social club, stadium, training center and judicial-recovery liabilities. The proposed 10%/90% split is likewise part of the model under review, not a completed transaction."
       ],
-      "aiSummary": "Guarani will meet before voting on September 25 on a SAF proposal calling for 1.075 billion reais in planned investment."
+      "aiSummary": [
+        "Guarani will hold clarification meetings before the hybrid assembly scheduled for September 25.",
+        "The 1.075 billion reais and 10%/90% ownership split remain terms of a proposal awaiting a vote."
+      ]
     }
   }
 }

@@ -12,8 +12,10 @@ it('renders an optional AI summary block without replacing the article body', ()
       ...article.translations,
       en: {
         ...article.translations.en,
-        aiSummary:
-          'This verified summary explains the event, its immediate consequence, and why readers should care.',
+        aiSummary: [
+          'The event is verified and its immediate consequence is clear.',
+          'The context explains why readers should care.',
+        ],
       },
     },
   } as unknown as RenderContext['article'];
@@ -36,7 +38,10 @@ it('renders an optional AI summary block without replacing the article body', ()
   };
   const markup = renderArticle(context);
   expect(markup).toContain('AI summary');
-  expect(markup).toContain('This verified summary explains the event');
+  expect(markup).toContain('<li>The event is verified');
+  expect(markup).toContain(
+    '<li>The context explains why readers should care.</li>',
+  );
   expect(markup).toContain('First paragraph for automated testing.');
 });
 

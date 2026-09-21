@@ -4,7 +4,7 @@
   "section": "economia",
   "secondarySections": ["tecnologia"],
   "publishedAt": "2026-09-21T12:29:11-03:00",
-  "updatedAt": "2026-09-21T12:29:11-03:00",
+  "updatedAt": "2026-09-21T19:43:50.732Z",
   "sources": [
     {
       "name": "CNN Brasil",
@@ -21,9 +21,15 @@
       "paragraphs": [
         "A AMD ultrapassou brevemente US$ 1 trilhão em valor de mercado na segunda-feira, depois que suas ações subiram 9% para US$ 610. Os papéis chegaram a um recorde de US$ 613,92, levando a avaliação da fabricante de chips a pouco mais de US$ 1 trilhão.",
         "O marco colocou a empresa entre um grupo restrito de fabricantes de semicondutores dos Estados Unidos que atingiram essa avaliação. A reportagem cita Nvidia, Broadcom e Micron entre as companhias que já haviam alcançado o mesmo patamar, com a Nvidia avaliada em mais de US$ 5 trilhões.",
-        "A AMD acelerou o lançamento de produtos de inteligência artificial e passou a oferecer sistemas que combinam processadores, rede e outros componentes. A demanda por CPUs usadas com processadores gráficos em servidores de inferência também ajudou a empresa a ganhar participação da Intel; desde o início do mês anterior, as ações acumulavam alta superior a 26%."
+        "A AMD acelerou o lançamento de produtos de inteligência artificial e passou a oferecer sistemas que combinam processadores, rede e outros componentes. A demanda por CPUs usadas com processadores gráficos em servidores de inferência também ajudou a empresa a ganhar participação da Intel; desde o início do mês anterior, as ações acumulavam alta superior a 26%.",
+        "O marco foi temporário e veio acompanhado de números específicos do pregão: as ações subiram 9% para US$ 610, chegaram ao recorde de US$ 613,92 e levaram a avaliação pouco acima de US$ 1 trilhão. A descrição de que a AMD ultrapassou esse valor brevemente é importante porque o texto retrata uma cotação de mercado, não uma mudança permanente.",
+        "A valorização aparece ligada à estratégia de IA da empresa, que passou a oferecer sistemas combinando processadores, rede e outros componentes. A demanda por CPUs usadas ao lado de GPUs em servidores de inferência ajudou a AMD a ganhar participação da Intel, enquanto as ações acumulavam alta superior a 26% desde o início do mês anterior."
       ],
-      "aiSummary": "A AMD atingiu brevemente US$ 1 trilhão em valor de mercado após uma alta de 9% nas ações, em meio à expectativa de crescimento na computação de IA. A empresa ampliou seu portfólio de sistemas e ganhou participação em processadores usados com GPUs."
+      "aiSummary": [
+        "A AMD superou US$ 1 trilhão em valor de mercado apenas brevemente.",
+        "As ações chegaram a US$ 613,92 após alta de 9% no pregão.",
+        "A demanda por CPUs usadas com GPUs em servidores de inferência ajudou a empresa."
+      ]
     },
     "en": {
       "title": "AMD briefly tops $1 trillion market value on AI demand",
@@ -31,9 +37,15 @@
       "paragraphs": [
         "AMD briefly exceeded $1 trillion in market value on Monday after its shares rose 9% to $610. The stock reached a record $613.92, pushing the chipmaker’s valuation slightly above $1 trillion.",
         "The milestone put AMD among a small group of US semiconductor manufacturers to reach that level. The report lists Nvidia, Broadcom and Micron as companies that had already crossed the threshold, with Nvidia valued at more than $5 trillion.",
-        "AMD has accelerated the launch of artificial-intelligence products and begun offering systems that combine processors, networking and other components. Demand for CPUs used alongside graphics processors in inference servers also helped it gain market share from Intel; the shares were up more than 26% since the start of the previous month."
+        "AMD has accelerated the launch of artificial-intelligence products and begun offering systems that combine processors, networking and other components. Demand for CPUs used alongside graphics processors in inference servers also helped it gain market share from Intel; the shares were up more than 26% since the start of the previous month.",
+        "The milestone was temporary and came with specific session figures: the shares rose 9% to $610, reached a record $613.92 and pushed the valuation slightly above $1 trillion. The description that AMD briefly crossed the threshold matters because the report presents a market-price milestone, not a permanent change in value.",
+        "The rise is linked to AMD’s AI strategy, including systems that combine processors, networking and other components. Demand for CPUs used alongside GPUs in inference servers helped the company gain share from Intel, while AMD stock had risen more than 26% since the start of the previous month."
       ],
-      "aiSummary": "AMD briefly reached a $1 trillion market value after a 9% share gain as investors focused on AI computing. The company has expanded its systems portfolio and gained share in processors used alongside GPUs."
+      "aiSummary": [
+        "AMD exceeded a $1 trillion market value only briefly.",
+        "The shares reached a record $613.92 after a 9% session gain.",
+        "Demand for CPUs used with GPUs in inference servers helped the company."
+      ]
     }
   }
 }

@@ -4,7 +4,7 @@
   "section": "economia",
   "secondarySections": ["brasil"],
   "publishedAt": "2026-09-21T10:18:00-03:00",
-  "updatedAt": "2026-09-21T10:18:00-03:00",
+  "updatedAt": "2026-09-21T19:43:50.732Z",
   "sources": [
     {
       "name": "Correio Braziliense",
@@ -21,9 +21,15 @@
       "paragraphs": [
         "O governo federal estuda um programa para comprar dívidas antigas de famílias brasileiras, especialmente débitos acumulados durante a pandemia. Segundo a reportagem, o ministro da Fazenda, Dario Durigan, apresentou a ideia como uma possível iniciativa para reorganizar a vida financeira das famílias a partir de 2027.",
         "A proposta discutida prevê um leilão para adquirir os débitos diretamente de bancos e varejistas, com descontos que poderiam chegar a 95% ou mais. Durigan indicou que a execução dependeria de espaço no Orçamento, e os termos ainda não constituem um benefício aprovado ou disponível ao consumidor.",
-        "Enquanto a medida não é definida, o texto recomenda mapear credores, valores e juros, consultar o CPF em plataformas de crédito e organizar o orçamento. Essas orientações são apresentadas como preparação para uma eventual negociação, não como garantia de participação em um programa já lançado."
+        "Enquanto a medida não é definida, o texto recomenda mapear credores, valores e juros, consultar o CPF em plataformas de crédito e organizar o orçamento. Essas orientações são apresentadas como preparação para uma eventual negociação, não como garantia de participação em um programa já lançado.",
+        "O desenho discutido ainda depende de decisões que não foram tomadas. A ideia apresentada pelo Ministério da Fazenda prevê comprar débitos diretamente de bancos e varejistas por meio de leilão, com descontos de 95% ou mais, mas a eventual execução a partir de 2027 está condicionada a espaço no Orçamento e não representa um benefício já disponível.",
+        "Enquanto os termos não são definidos, a utilidade imediata para o consumidor é organizar informação, não esperar uma adesão automática: levantar credores, valores e juros, consultar o CPF em plataformas de crédito e revisar o orçamento pode preparar uma negociação futura. Essas providências não garantem participação em um programa ainda em estudo."
       ],
-      "aiSummary": "O governo avalia comprar dívidas antigas de famílias por meio de um leilão com descontos elevados, mas a proposta ainda depende de decisão oficial e de espaço orçamentário. A reportagem orienta o consumidor a levantar seus débitos e organizar o orçamento enquanto aguarda os detalhes."
+      "aiSummary": [
+        "A proposta prevê leilão de dívidas com descontos de 95% ou mais, mas ainda não foi aprovada.",
+        "A execução a partir de 2027 dependeria de espaço no Orçamento.",
+        "O consumidor pode mapear credores, juros e valores enquanto aguarda os detalhes."
+      ]
     },
     "en": {
       "title": "Brazilian government studies program to buy families’ old debts",
@@ -31,9 +37,15 @@
       "paragraphs": [
         "Brazil’s federal government is studying a program to buy old household debts, especially balances accumulated during the pandemic. According to the report, Finance Minister Dario Durigan presented the idea as a possible way to help families reorganize their finances from 2027 onward.",
         "The proposal under discussion would use an auction to acquire debts directly from banks and retailers, with discounts that could reach 95% or more. Durigan indicated that implementation would depend on available budget space, and the terms are not an approved or available consumer benefit.",
-        "While the measure remains undefined, the report advises consumers to list creditors, balances and interest, check their taxpayer ID with credit platforms and organize their budgets. Those steps are preparation for a possible negotiation, not a guarantee of access to a program that has already been launched."
+        "While the measure remains undefined, the report advises consumers to list creditors, balances and interest, check their taxpayer ID with credit platforms and organize their budgets. Those steps are preparation for a possible negotiation, not a guarantee of access to a program that has already been launched.",
+        "The plan under discussion still depends on decisions that have not been made. The Finance Ministry idea would buy debts directly from banks and retailers through an auction, with discounts of 95% or more, but possible implementation from 2027 depends on budget room and does not represent a benefit currently available to consumers.",
+        "While the terms remain undefined, the immediate practical step is to organize information rather than assume automatic enrollment: list creditors, balances and interest, check the taxpayer ID with credit platforms and review the budget. Those actions may prepare a future negotiation but do not guarantee access to a program still under study."
       ],
-      "aiSummary": "Brazil’s government is considering buying old household debts through an auction with deep discounts, but the proposal still depends on an official decision and budget space. The report advises consumers to map their debts and organize their budgets while awaiting details."
+      "aiSummary": [
+        "The proposal would auction old debts with discounts of 95% or more, but is not approved.",
+        "Implementation from 2027 would depend on available budget space.",
+        "Consumers can list creditors, interest and balances while awaiting details."
+      ]
     }
   }
 }

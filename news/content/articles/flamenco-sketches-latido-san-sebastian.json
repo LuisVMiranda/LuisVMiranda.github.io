@@ -5,7 +5,7 @@
   "secondarySections": [],
   "publishedAt": "2026-09-21T05:15:00+00:00",
   "publishedDate": "2026-09-21",
-  "updatedAt": "2026-09-21T05:15:00+00:00",
+  "updatedAt": "2026-09-21T19:43:50.732Z",
   "sources": [
     {
       "name": "Variety",
@@ -22,9 +22,14 @@
       "paragraphs": [
         "A distribuidora espanhola Latido Films adquiriu os direitos internacionais de Flamenco Sketches, novo longa de Isaki Lacuesta que será exibido nesta semana no Festival de San Sebastián. O filme encerra a seção Zabaltegi-Tabakalera do evento.",
         "Em vez de apresentar uma história linear, a produção usa um grande conjunto de imagens de arquivo para atravessar diferentes momentos do flamenco. O percurso vai das primeiras aparições do gênero no século XIX a registros de Carmencita feitos por Thomas Edison e às relações com artistas da vanguarda.",
-        "O projeto trata o flamenco como uma forma viva, marcada por mutações e contradições, e reúne vozes ligadas à música, à dança e às artes visuais. A Latido fará as vendas mundiais fora da Espanha, enquanto a produção é assinada por Lastor Media, Goroka Contents e La Termita Films."
+        "O projeto trata o flamenco como uma forma viva, marcada por mutações e contradições, e reúne vozes ligadas à música, à dança e às artes visuais. A Latido fará as vendas mundiais fora da Espanha, enquanto a produção é assinada por Lastor Media, Goroka Contents e La Termita Films.",
+        "A aquisição pela Latido dá ao filme uma via de circulação internacional fora da Espanha, enquanto o encerramento da seção Zabaltegi-Tabakalera oferece uma primeira vitrine no Festival de San Sebastián. O acordo trata de direitos e vendas; não anuncia, por si só, datas de lançamento em outros territórios.",
+        "A abordagem de Lacuesta evita uma cronologia linear e aproxima registros de Carmencita filmados por Thomas Edison, aparições do flamenco no século XIX e conexões com a vanguarda. A presença de vozes da música, da dança e das artes visuais reforça a ideia de uma tradição em transformação."
       ],
-      "aiSummary": "A Latido comprou os direitos internacionais de Flamenco Sketches, filme de Isaki Lacuesta que revisita a história do flamenco com imagens de arquivo e uma estrutura não linear."
+      "aiSummary": [
+        "A Latido Films fará as vendas internacionais de Flamenco Sketches fora da Espanha.",
+        "O filme usa arquivo, registros de Carmencita e referências à vanguarda para evitar uma narrativa linear do flamenco."
+      ]
     },
     "en": {
       "title": "Latido acquires international rights to Isaki Lacuesta’s Flamenco Sketches",
@@ -32,9 +37,14 @@
       "paragraphs": [
         "Spanish distributor Latido Films has acquired international rights to Flamenco Sketches, the new feature by Isaki Lacuesta that will screen this week at the San Sebastian Film Festival. The film will close the festival’s Zabaltegi-Tabakalera section.",
         "Rather than tell a linear history, the production uses a large archive of images to move through different moments in flamenco. Its journey runs from the form’s first appearances in the 19th century to Thomas Edison’s footage of Carmencita and its connections with avant-garde artists.",
-        "The project treats flamenco as a living form shaped by mutations and contradictions, bringing together voices from music, dance and visual art. Latido will handle worldwide sales outside Spain, while the film is produced by Lastor Media, Goroka Contents and La Termita Films."
+        "The project treats flamenco as a living form shaped by mutations and contradictions, bringing together voices from music, dance and visual art. Latido will handle worldwide sales outside Spain, while the film is produced by Lastor Media, Goroka Contents and La Termita Films.",
+        "Latido’s acquisition gives the film an international circulation route outside Spain, while its closing position in San Sebastian’s Zabaltegi-Tabakalera section provides an initial festival showcase. The deal concerns rights and sales; it does not by itself announce release dates in other territories.",
+        "Lacuesta’s approach avoids a linear chronology, connecting nineteenth-century appearances of flamenco and Thomas Edison’s footage of Carmencita with links to the avant-garde. Voices from music, dance and visual art reinforce the idea of a tradition that continues to change."
       ],
-      "aiSummary": "Latido has acquired international rights to Isaki Lacuesta’s Flamenco Sketches, a non-linear archival exploration of flamenco’s history and evolution."
+      "aiSummary": [
+        "Latido Films will handle international sales of Flamenco Sketches outside Spain.",
+        "The film uses archival material, Carmencita footage and avant-garde links instead of a linear history of flamenco."
+      ]
     }
   }
 }

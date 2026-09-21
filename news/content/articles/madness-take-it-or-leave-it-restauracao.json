@@ -5,7 +5,7 @@
   "secondarySections": [],
   "publishedAt": "2026-09-21T13:55:06.000Z",
   "publishedDate": "2026-09-21",
-  "updatedAt": "2026-09-21T13:55:06.000Z",
+  "updatedAt": "2026-09-21T19:43:50.732Z",
   "sources": [
     {
       "name": "The Guardian",
@@ -22,9 +22,14 @@
       "paragraphs": [
         "O filme foi concebido em 1981, quando o Madness já havia alcançado destaque com singles e videoclipes inventivos. Em vez de uma produção convencional, a banda e o empresário Dave Robinson investiram em uma narrativa semificcional sobre a própria formação.",
         "A produção adotou métodos de guerrilha, com locações reais, câmeras em carrinhos e improvisos dos integrantes. O resultado mistura imagens em preto e branco, humor e reconstruções de ensaios, shows e conflitos que marcaram o início do grupo.",
-        "A restauração em 4K abre uma nova oportunidade para que o longa seja redescoberto como registro de uma cena musical e de uma Londres dos anos 1970. O grupo passou a olhar para o filme como um retrato afetivo de uma história em que a música ofereceu uma saída para jovens expostos à violência e à marginalidade."
+        "A restauração em 4K abre uma nova oportunidade para que o longa seja redescoberto como registro de uma cena musical e de uma Londres dos anos 1970. O grupo passou a olhar para o filme como um retrato afetivo de uma história em que a música ofereceu uma saída para jovens expostos à violência e à marginalidade.",
+        "A restauração não recupera apenas um título ligado à discografia do Madness: ela recoloca em circulação uma obra concebida em 1981, quando a banda já atraía atenção, mas ainda podia transformar sua própria origem em narrativa semificcional com a participação do empresário Dave Robinson.",
+        "O valor do longa está justamente na mistura de registro e invenção. Locações reais, câmeras em carrinhos, imagens em preto e branco, humor e improvisos preservam a atmosfera da cena londrina e ajudam a entender por que o grupo hoje o vê como um retrato afetivo de seus primeiros anos."
       ],
-      "aiSummary": "A restauração em 4K de Take It or Leave It recupera o filme semificcional que retrata a formação do Madness, seus métodos improvisados de produção e a cena londrina que moldou a banda."
+      "aiSummary": [
+        "Take It or Leave It foi concebido em 1981 como uma narrativa semificcional sobre a formação do Madness.",
+        "A restauração em 4K destaca métodos de guerrilha, locações reais e a cena londrina ligada à banda."
+      ]
     },
     "en": {
       "title": "4K restoration revisits Madness and the band’s improvised beginnings",
@@ -32,9 +37,14 @@
       "paragraphs": [
         "The film was conceived in 1981, when Madness had already drawn attention with inventive singles and music videos. Rather than make a conventional production, the band and manager Dave Robinson invested in a semifictional account of how the group formed.",
         "The production used guerrilla methods, real locations, cameras mounted on carts and improvised performances from the musicians. The result combines black-and-white images, comedy and reconstructions of the rehearsals, shows and disputes that defined the group’s early years.",
-        "The 4K restoration gives the film a new chance to be rediscovered as a record of a music scene and of 1970s London. The band now views it as an affectionate document of a story in which music offered an escape for young people exposed to violence and marginality."
+        "The 4K restoration gives the film a new chance to be rediscovered as a record of a music scene and of 1970s London. The band now views it as an affectionate document of a story in which music offered an escape for young people exposed to violence and marginality.",
+        "The restoration brings back more than a title associated with Madness’s discography: it returns a film conceived in 1981, when the band was already attracting attention but could still turn its own beginnings into a semifictional story with manager Dave Robinson involved.",
+        "The film’s value lies in its blend of record and invention. Real locations, cameras on carts, black-and-white images, comedy and improvised performances preserve the atmosphere of London’s scene and explain why the band now regards it as an affectionate portrait of its early years."
       ],
-      "aiSummary": "A 4K restoration revives Take It or Leave It, the semifictional film about Madness, its improvised production methods and the London scene that shaped the band."
+      "aiSummary": [
+        "Take It or Leave It was conceived in 1981 as a semifictional account of Madness’s formation.",
+        "The 4K restoration foregrounds guerrilla methods, real locations and the London scene tied to the band."
+      ]
     }
   }
 }

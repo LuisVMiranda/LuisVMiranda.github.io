@@ -5,7 +5,7 @@
   "secondarySections": [],
   "publishedAt": "2026-09-17T20:43:38+00:00",
   "publishedDate": "2026-09-17",
-  "updatedAt": "2026-09-17T20:43:38+00:00",
+  "updatedAt": "2026-09-21T19:43:50.732Z",
   "sources": [
     {
       "name": "The Guardian",
@@ -26,9 +26,14 @@
       "paragraphs": [
         "Pesquisadores descreveram uma nova espécie de gato-tigre encontrada na floresta nublada de Yungas, na Bolívia. Batizado de Leopardus tilcayo, o felino mede cerca de 46 centímetros e pesa aproximadamente 1,4 quilo.",
         "A equipe analisou o DNA de 38 gatos de vários países sul-americanos, incluindo exemplares de museu, e concluiu que os gatos-tigre formam cinco espécies geneticamente distintas. A linhagem do tilcayo teria se separado das demais há cerca de 1,4 milhão de anos.",
-        "Ainda se sabe pouco sobre a biologia do animal, e o habitat sofre pressão de desmatamento, agricultura, incêndios e mineração. Os pesquisadores compartilharam os dados com a União Internacional para a Conservação da Natureza para que as linhagens sejam avaliadas separadamente."
+        "Ainda se sabe pouco sobre a biologia do animal, e o habitat sofre pressão de desmatamento, agricultura, incêndios e mineração. Os pesquisadores compartilharam os dados com a União Internacional para a Conservação da Natureza para que as linhagens sejam avaliadas separadamente.",
+        "A identificação não veio apenas da aparência: o DNA de 38 gatos, incluindo exemplares de museu, separou o grupo em cinco espécies geneticamente distintas. Nesse conjunto, a linhagem do tilcayo aparece como uma divisão antiga, estimada em cerca de 1,4 milhão de anos.",
+        "Reconhecer a linhagem individualmente muda a escala da avaliação de conservação, porque ameaças sobre a floresta nublada de Yungas podem afetar uma espécie específica. Ainda assim, a biologia do animal é pouco conhecida, e os dados foram enviados à IUCN para análise."
       ],
-      "aiSummary": "A análise genética confirmou uma nova espécie de gato-tigre na Bolívia e revelou que o grupo reúne cinco linhagens distintas. A descoberta pode melhorar a avaliação de risco de conservação do felino, cujo habitat está ameaçado."
+      "aiSummary": [
+        "O DNA de 38 gatos, incluindo exemplares de museu, distinguiu cinco espécies de gato-tigre.",
+        "Os dados foram enviados à IUCN enquanto o habitat de Yungas enfrenta desmatamento, agricultura, incêndios e mineração."
+      ]
     },
     "en": {
       "title": "New feline described for the first time in more than a century",
@@ -36,9 +41,14 @@
       "paragraphs": [
         "Researchers described a new tiger-cat species found in Bolivia’s Yungas cloud forest. Named Leopardus tilcayo, the feline is about 46 centimeters long and weighs roughly 1.4 kilograms.",
         "The team analyzed DNA from 38 cats across several South American countries, including museum specimens, and concluded that tiger cats comprise five genetically distinct species. The tilcayo lineage appears to have separated from the others about 1.4 million years ago.",
-        "Little is known about the animal’s biology, while its habitat faces pressure from deforestation, farming, fires and mining. The researchers shared the data with the International Union for Conservation of Nature so the lineages can be assessed separately."
+        "Little is known about the animal’s biology, while its habitat faces pressure from deforestation, farming, fires and mining. The researchers shared the data with the International Union for Conservation of Nature so the lineages can be assessed separately.",
+        "The identification did not rely only on appearance: DNA from 38 cats, including museum specimens, separated the group into five genetically distinct species. Within that set, the tilcayo lineage appears to be an ancient split estimated at about 1.4 million years.",
+        "Recognizing the lineage separately changes the scale of conservation assessment because threats to the Yungas cloud forest can affect one specific species. The animal's biology is still poorly known, however, and the data were sent to the IUCN for assessment."
       ],
-      "aiSummary": "Genetic analysis confirmed a new tiger-cat species in Bolivia and showed that the group contains five distinct lineages. The discovery could improve conservation-risk assessments for a feline whose habitat is under pressure."
+      "aiSummary": [
+        "DNA from 38 cats, including museum specimens, distinguished five tiger-cat species.",
+        "The data were sent to the IUCN while the Yungas habitat faces deforestation, farming, fires, and mining."
+      ]
     }
   }
 }

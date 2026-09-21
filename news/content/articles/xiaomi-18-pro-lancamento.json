@@ -4,7 +4,7 @@
   "section": "tecnologia",
   "secondarySections": [],
   "publishedAt": "2026-09-21T13:19:45.000-03:00",
-  "updatedAt": "2026-09-21T13:19:45.000-03:00",
+  "updatedAt": "2026-09-21T19:43:50.732Z",
   "sources": [
     {
       "name": "Canaltech",
@@ -21,9 +21,14 @@
       "paragraphs": [
         "A Xiaomi marcou para 23 de setembro, às 19h no horário da China, a apresentação dos modelos Xiaomi 18 Pro e Xiaomi 18 Pro Max. A campanha oficial usa o slogan Full Upgrade e indica que os aparelhos dividirão boa parte da plataforma, das câmeras e da tela.",
         "A principal diferença esperada entre os dois modelos está na bateria, com capacidades informadas de 7.000 mAh para o Pro e 8.500 mAh para o Pro Max. O texto também relaciona a nova geração a um processo de fabricação de 2 nanômetros, mas observa que o nome comercial do chip ainda não foi confirmado pela Xiaomi.",
-        "A linha deve trazer parceria com a Leica e câmeras principais e periscópicas de 200 megapixels, conforme a reportagem. Preços e disponibilidade fora da China ficaram para o evento, e parte dos detalhes técnicos continua baseada em informações preliminares."
+        "A linha deve trazer parceria com a Leica e câmeras principais e periscópicas de 200 megapixels, conforme a reportagem. Preços e disponibilidade fora da China ficaram para o evento, e parte dos detalhes técnicos continua baseada em informações preliminares.",
+        "A data e o slogan pertencem à campanha oficial, mas a maior parte das especificações continua em graus diferentes de confirmação. A capacidade de 7.000 mAh no Pro e 8.500 mAh no Pro Max é apresentada como esperada, assim como a plataforma de 2 nanômetros e as câmeras Leica.",
+        "Por isso, o evento de 23 de setembro deve esclarecer justamente os pontos que a prévia deixa em aberto: nome comercial do chip, preços e disponibilidade fora da China. Até lá, a reportagem recomenda ler os números técnicos como informação preliminar, não como ficha final."
       ],
-      "aiSummary": "A Xiaomi apresentará os 18 Pro em 23 de setembro; câmeras, chip e baterias foram parcialmente antecipados, mas nem tudo foi confirmado."
+      "aiSummary": [
+        "A Xiaomi confirmou a apresentação em 23 de setembro, mas ainda não confirmou o nome comercial do chip.",
+        "Preços, disponibilidade internacional e parte das especificações permanecem em aberto antes do evento."
+      ]
     },
     "en": {
       "title": "Xiaomi schedules the Xiaomi 18 Pro and 18 Pro Max reveal for September 23",
@@ -31,9 +36,14 @@
       "paragraphs": [
         "Xiaomi has scheduled the Xiaomi 18 Pro and Xiaomi 18 Pro Max reveal for September 23 at 7 p.m. China time. The official campaign uses the Full Upgrade slogan and indicates that the phones will share much of their platform, camera system, and display technology.",
         "The main expected difference between the models is the battery, with reported capacities of 7,000 mAh for the Pro and 8,500 mAh for the Pro Max. The report also links the new generation to a 2-nanometer process, while noting that Xiaomi has not confirmed the chip’s commercial name.",
-        "The line is expected to include a Leica partnership and 200-megapixel main and periscope cameras, according to the report. Pricing and availability outside China were left for the event, and some technical details remain based on preliminary information."
+        "The line is expected to include a Leica partnership and 200-megapixel main and periscope cameras, according to the report. Pricing and availability outside China were left for the event, and some technical details remain based on preliminary information.",
+        "The date and slogan belong to the official campaign, but most specifications remain at different levels of confirmation. The reported 7,000 mAh Pro battery and 8,500 mAh Pro Max battery are presented as expected, as are the 2-nanometer platform and Leica cameras.",
+        "That is why the September 23 event should clarify the points the preview leaves open: the chip's commercial name, prices, and availability outside China. Until then, the report treats the technical figures as preliminary information rather than a final specification sheet."
       ],
-      "aiSummary": "Xiaomi will reveal the 18 Pro on September 23; cameras, chip, and batteries were partly previewed, but not every detail is confirmed."
+      "aiSummary": [
+        "Xiaomi confirmed a September 23 reveal, but has not confirmed the chip's commercial name.",
+        "Pricing, international availability, and some specifications remain open before the event."
+      ]
     }
   }
 }

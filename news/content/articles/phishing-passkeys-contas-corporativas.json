@@ -4,7 +4,7 @@
   "section": "tecnologia",
   "secondarySections": [],
   "publishedAt": "2026-09-21T09:34:28+00:00",
-  "updatedAt": "2026-09-21T09:34:28+00:00",
+  "updatedAt": "2026-09-21T19:43:50.732Z",
   "sources": [
     {
       "name": "TEK Notícias",
@@ -21,9 +21,14 @@
       "paragraphs": [
         "Segundo a Microsoft, algumas intrusões começam com uma ligação ou mensagem em que o atacante se apresenta como suporte interno e pede uma atualização urgente de passkey, autenticação ou SSO. A vítima é então direcionada para uma página que imita o ambiente legítimo de login.",
         "O fluxo falso pode capturar tokens por técnicas de intermediação ou por phishing de código de dispositivo, permitindo que o invasor avance mesmo depois de um desafio de autenticação. Em casos descritos pela empresa, os atacantes adicionaram novos métodos de MFA e usaram o Microsoft Graph para mapear contas, permissões e documentos em SharePoint e OneDrive.",
-        "A Microsoft recomenda investigar métodos de MFA recém-criados, acessos incomuns ao Graph e padrões anormais em SharePoint e OneDrive. A resposta indicada inclui revogar sessões, remover métodos adicionados pelos invasores e reforçar políticas com autenticação resistente a phishing."
+        "A Microsoft recomenda investigar métodos de MFA recém-criados, acessos incomuns ao Graph e padrões anormais em SharePoint e OneDrive. A resposta indicada inclui revogar sessões, remover métodos adicionados pelos invasores e reforçar políticas com autenticação resistente a phishing.",
+        "O roteiro descrito pela Microsoft combina engenharia social e roubo de sessão: primeiro cria urgência com uma falsa solicitação de suporte, depois tenta capturar o token durante um fluxo que parece legítimo. Por isso, concluir um desafio de autenticação não encerra necessariamente o ataque.",
+        "Os sinais mais úteis para a investigação aparecem depois do acesso inicial, na forma de métodos de MFA recém-criados, consultas incomuns ao Graph e atividade anormal em SharePoint ou OneDrive. A empresa recomenda revogar sessões, remover métodos indevidos e adotar autenticação resistente a phishing."
       ],
-      "aiSummary": "Campanhas descritas pela Microsoft usam falsas atualizações de passkey para capturar tokens e explorar contas corporativas."
+      "aiSummary": [
+        "A Microsoft descreve iscas de suporte que imitam passkeys e SSO para capturar tokens e adicionar métodos de MFA.",
+        "Métodos de MFA novos e acessos incomuns ao Graph, SharePoint ou OneDrive aparecem como sinais para investigação."
+      ]
     },
     "en": {
       "title": "Microsoft warns of phishing attacks using passkeys as bait",
@@ -31,9 +36,14 @@
       "paragraphs": [
         "Microsoft says some intrusions begin with a call or message in which an attacker impersonates internal support and requests an urgent passkey, authentication, or SSO update. The victim is then sent to a page that imitates a legitimate login environment.",
         "The fake flow can capture tokens through adversary-in-the-middle techniques or device-code phishing, allowing the intruder to proceed even after an authentication challenge. In cases described by the company, attackers added new MFA methods and used Microsoft Graph to map accounts, permissions, and documents in SharePoint and OneDrive.",
-        "Microsoft recommends investigating newly created MFA methods, unusual Graph access, and abnormal patterns in SharePoint and OneDrive. Its suggested response includes revoking sessions, removing methods added by intruders, and strengthening policies with phishing-resistant authentication."
+        "Microsoft recommends investigating newly created MFA methods, unusual Graph access, and abnormal patterns in SharePoint and OneDrive. Its suggested response includes revoking sessions, removing methods added by intruders, and strengthening policies with phishing-resistant authentication.",
+        "The sequence described by Microsoft combines social engineering with session theft: it first creates urgency through a fake support request, then tries to capture a token during a flow that looks legitimate. Completing an authentication challenge therefore does not necessarily end the attack.",
+        "The most useful investigation signals appear after the initial access, including newly created MFA methods, unusual Graph queries, and abnormal activity in SharePoint or OneDrive. The company recommends revoking sessions, removing unauthorized methods, and adopting phishing-resistant authentication."
       ],
-      "aiSummary": "Campaigns described by Microsoft use fake passkey updates to capture tokens and exploit corporate accounts."
+      "aiSummary": [
+        "Microsoft describes support lures that imitate passkeys and SSO to capture tokens and add MFA methods.",
+        "New MFA methods and unusual activity in Graph, SharePoint, or OneDrive are investigation signals."
+      ]
     }
   }
 }

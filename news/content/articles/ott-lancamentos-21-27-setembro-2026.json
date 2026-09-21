@@ -5,7 +5,7 @@
   "secondarySections": [],
   "publishedAt": "2026-09-21T02:30:00.000Z",
   "publishedDate": "2026-09-21",
-  "updatedAt": "2026-09-21T02:30:00.000Z",
+  "updatedAt": "2026-09-21T19:43:50.732Z",
   "sources": [
     {
       "name": "Vogue India",
@@ -22,9 +22,14 @@
       "paragraphs": [
         "A lista semanal da Vogue reúne 13 filmes e séries previstos para chegar às plataformas entre 21 e 27 de setembro. Entre os destaques estão produções indianas, americanas, sul-africanas, italianas e espanholas, além de uma nova versão de uma série associada à cultura universitária negra dos Estados Unidos.",
         "Entre os primeiros lançamentos aparecem Minerva Academy, ambientada em uma escola militar de Nápoles, e depois Habeas Corpus, drama jurídico inspirado no trabalho do Innocence Project Brasil, e The Love Hypothesis, adaptação de um romance de Ali Hazelwood.",
-        "A programação também inclui A Different World, My Sad Dead, Shaque: Trust No One, a segunda temporada de Blood Legacy, Don’t Be Shy, Hunkkaar, The Final Problem e Unabomber. As sinopses destacam mistério, tribunal, amadurecimento, horror e investigações criminais."
+        "A programação também inclui A Different World, My Sad Dead, Shaque: Trust No One, a segunda temporada de Blood Legacy, Don’t Be Shy, Hunkkaar, The Final Problem e Unabomber. As sinopses destacam mistério, tribunal, amadurecimento, horror e investigações criminais.",
+        "A seleção distribui lançamentos de origens e formatos diferentes ao longo da semana, em vez de concentrar a atenção em uma única plataforma ou gênero. Minerva Academy, Habeas Corpus e The Love Hypothesis funcionam como exemplos de ambientações que vão da escola militar ao drama jurídico e à adaptação literária.",
+        "Como guia de serviço, a lista é mais útil para acompanhar o calendário do que para avaliar a qualidade das obras. As sinopses indicam caminhos de mistério, tribunal, amadurecimento, horror e investigação, permitindo ao público filtrar as estreias pelo tipo de história que procura entre 21 e 27 de setembro."
       ],
-      "aiSummary": "A Vogue reuniu 13 estreias de filmes e séries para a semana de 21 a 27 de setembro, com títulos de vários países e gêneros."
+      "aiSummary": [
+        "A seleção reúne 13 estreias de diferentes países, plataformas e gêneros entre 21 e 27 de setembro.",
+        "As sinopses cobrem mistério, drama jurídico, amadurecimento, horror e investigações criminais."
+      ]
     },
     "en": {
       "title": "Vogue lists 13 film and television releases for the week",
@@ -32,9 +37,14 @@
       "paragraphs": [
         "Vogue’s weekly guide lists 13 films and series scheduled to arrive on streaming services between September 21 and 27. The selection includes Indian, American, South African, Italian and Spanish productions, as well as a revival linked to Black college culture in the United States.",
         "Early entries include Minerva Academy, set at a military school in Naples, followed by Habeas Corpus, a legal drama inspired by the work of Innocence Project Brasil, and The Love Hypothesis, adapted from a novel by Ali Hazelwood.",
-        "The schedule also features A Different World, My Sad Dead, Shaque: Trust No One, season two of Blood Legacy, Don’t Be Shy, Hunkkaar, The Final Problem and Unabomber. Their descriptions range across mystery, courtroom drama, coming-of-age stories, horror and criminal investigations."
+        "The schedule also features A Different World, My Sad Dead, Shaque: Trust No One, season two of Blood Legacy, Don’t Be Shy, Hunkkaar, The Final Problem and Unabomber. Their descriptions range across mystery, courtroom drama, coming-of-age stories, horror and criminal investigations.",
+        "The selection spreads releases from different countries and formats across the week instead of focusing on one service or genre. Minerva Academy, Habeas Corpus and The Love Hypothesis illustrate settings that range from a military school to courtroom drama and a literary adaptation.",
+        "As a service guide, the list is more useful for tracking the schedule than for judging the productions. Its premises point to mystery, courtroom drama, coming-of-age stories, horror and investigations, allowing viewers to filter the September 21–27 releases by the kind of story they want."
       ],
-      "aiSummary": "Vogue’s guide covers 13 film and television premieres for September 21–27, with titles from multiple countries and genres."
+      "aiSummary": [
+        "The guide lists 13 releases from multiple countries, services and genres for September 21–27.",
+        "The premises span mystery, courtroom drama, coming-of-age stories, horror and criminal investigations."
+      ]
     }
   }
 }

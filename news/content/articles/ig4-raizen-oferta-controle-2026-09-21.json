@@ -4,7 +4,7 @@
   "section": "brasil",
   "secondarySections": ["economia"],
   "publishedAt": "2026-09-21T14:38:16+00:00",
-  "updatedAt": "2026-09-21T14:38:16+00:00",
+  "updatedAt": "2026-09-21T19:43:50.732Z",
   "sources": [
     {
       "name": "InfoMoney",
@@ -21,9 +21,14 @@
       "paragraphs": [
         "A IG4 Capital prepara uma oferta vinculante aos credores da Raízen, companhia que atravessa uma recuperação extrajudicial e acumula cerca de R$ 65 bilhões em dívidas. A gestora já havia apresentado uma proposta não vinculante dois meses antes e deve formalizar a nova oferta nas próximas semanas.",
         "O objetivo é reunir mais de 50% dos créditos para obter o controle da empresa. A estrutura combinaria pagamento em dinheiro com direitos de crédito conversíveis em ações, em uma operação semelhante à estratégia usada pela IG4 na reestruturação da Braskem; as ações da Raízen acumulam queda aproximada de 96% em cinco anos, segundo a reportagem.",
-        "O plano de recuperação prevê separar a joint venture entre Shell e Cosan em unidades de combustíveis e de açúcar e etanol, segmento de interesse da IG4. O Bradesco BBI avaliou que a conversão de créditos reforça a atratividade dos títulos e que a transação pode contribuir para sua valorização, uma leitura atribuída aos analistas do banco."
+        "O plano de recuperação prevê separar a joint venture entre Shell e Cosan em unidades de combustíveis e de açúcar e etanol, segmento de interesse da IG4. O Bradesco BBI avaliou que a conversão de créditos reforça a atratividade dos títulos e que a transação pode contribuir para sua valorização, uma leitura atribuída aos analistas do banco.",
+        "A operação ainda estava em preparação: a IG4 havia apresentado uma proposta não vinculante dois meses antes e planejava formalizar a oferta definitiva nas semanas seguintes. Assim, a meta de controlar mais de 50% dos créditos descreve uma estratégia pretendida, não uma aquisição concluída ou um controle já transferido.",
+        "A eventual reestruturação combina dinheiro e direitos de crédito conversíveis em ações, enquanto o plano prevê separar a joint venture Shell-Cosan em combustíveis e açúcar e etanol. A avaliação positiva do Bradesco BBI sobre títulos e valor potencial é uma leitura atribuída aos analistas, não uma recomendação independente nem garantia de resultado."
       ],
-      "aiSummary": "A IG4 prepara uma oferta vinculante para obter mais de 50% dos créditos da Raízen e disputar o controle da companhia em recuperação extrajudicial."
+      "aiSummary": [
+        "A oferta vinculante da IG4 ainda estava em preparação e não representava controle já transferido.",
+        "A estrutura prevê dinheiro, créditos conversíveis e separação dos negócios da Shell-Cosan."
+      ]
     },
     "en": {
       "title": "IG4 prepares binding offer to Raízen creditors and targets control of company",
@@ -31,9 +36,14 @@
       "paragraphs": [
         "IG4 Capital is preparing a binding offer to Raízen’s creditors as the company undergoes an out-of-court restructuring and carries about 65 billion reais in debt. The asset manager submitted a nonbinding proposal two months earlier and is expected to present the definitive offer in the coming weeks.",
         "The aim is to secure more than half of the claims and take control of the company. The structure would combine cash with credit rights convertible into shares, similar to the approach IG4 used in Braskem’s restructuring; the report says Raízen shares have fallen about 96% over five years.",
-        "The restructuring plan would split the Shell-Cosan joint venture into fuel and sugar-and-ethanol units, with IG4 interested in the latter. Bradesco BBI said converting claims into equity strengthens the case that Raízen’s securities are attractive and that the potential deal could support their value, an assessment attributed to the bank’s analysts."
+        "The restructuring plan would split the Shell-Cosan joint venture into fuel and sugar-and-ethanol units, with IG4 interested in the latter. Bradesco BBI said converting claims into equity strengthens the case that Raízen’s securities are attractive and that the potential deal could support their value, an assessment attributed to the bank’s analysts.",
+        "The transaction was still being prepared: IG4 had submitted a nonbinding proposal two months earlier and planned to formalize a definitive offer in the following weeks. The goal of controlling more than half of the claims therefore describes an intended strategy, not a completed acquisition or transferred control.",
+        "The possible restructuring combines cash with credit rights convertible into shares, while the plan would split the Shell-Cosan joint venture into fuel and sugar-and-ethanol units. Bradesco BBI’s favorable assessment of the securities and potential value effects is attributed to its analysts, not presented as independent advice or a guaranteed outcome."
       ],
-      "aiSummary": "IG4 is preparing a binding offer for more than half of Raízen’s claims as it seeks control of the company during an out-of-court restructuring."
+      "aiSummary": [
+        "IG4’s binding offer was still being prepared and did not represent transferred control.",
+        "The structure would use cash, convertible claims and a split of Shell-Cosan’s businesses."
+      ]
     }
   }
 }

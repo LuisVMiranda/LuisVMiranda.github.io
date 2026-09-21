@@ -28,7 +28,7 @@ describe('publication invariants', () => {
         ...article.translations,
         en: {
           ...article.translations.en,
-          aiSummary: 'An English-only summary should not be publishable.',
+          aiSummary: ['An English-only summary should not be publishable.'],
         },
       },
     });

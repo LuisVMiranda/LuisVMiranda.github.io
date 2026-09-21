@@ -54,9 +54,10 @@ npm run test:performance
 
 `npm run news:verify` is the automation gate. It refuses an edition unless all
 sections contain ten ordered references, every selected article has a bilingual
-AI summary, rights metadata, and at least three body paragraphs, and every
-editorial manifest records source evidence, selection reasoning, a
-complete-body review and an AI-summary review. `--legacy-ok` is only a smoke-test escape hatch for the
+bullet-list AI summary with no more than five relevant bullets, rights metadata,
+and at least five substantive body paragraphs, and every editorial manifest
+records source evidence, selection reasoning, a complete-body review and an
+AI-summary review. `--legacy-ok` is only a smoke-test escape hatch for the
 pre-feature catalog; it must not be used by the daily job or for publication.
 The review command documents its required digest and reviewer arguments in the
 research template. New edits invalidate approval. Corrected stories retain their

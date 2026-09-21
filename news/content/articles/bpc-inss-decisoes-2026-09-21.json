@@ -4,7 +4,7 @@
   "section": "brasil",
   "secondarySections": ["economia"],
   "publishedAt": "2026-09-21T09:30:00-03:00",
-  "updatedAt": "2026-09-21T09:30:00-03:00",
+  "updatedAt": "2026-09-21T19:43:50.732Z",
   "sources": [
     {
       "name": "Jornal Cruzeiro",
@@ -21,9 +21,14 @@
       "paragraphs": [
         "De janeiro a julho de 2026, o INSS tomou decisões sobre cerca de 10,34 milhões de pedidos de benefícios. Aproximadamente 5,25 milhões terminaram indeferidos, o equivalente a 50,8% do total analisado.",
         "O percentual inclui diferentes benefícios administrados pelo instituto e não representa exclusivamente o Benefício de Prestação Continuada. O BPC atende idosos com 65 anos ou mais e pessoas com deficiência que cumprem os critérios legais, com pagamento mensal de um salário mínimo.",
-        "O relatório orienta os requerentes a acompanhar o processo pelo Meu INSS. Entre os critérios mencionados estão renda familiar por pessoa de até um quarto do salário mínimo e Cadastro Único atualizado; em caso de negativa, o interessado pode verificar o motivo e avaliar recurso administrativo."
+        "O relatório orienta os requerentes a acompanhar o processo pelo Meu INSS. Entre os critérios mencionados estão renda familiar por pessoa de até um quarto do salário mínimo e Cadastro Único atualizado; em caso de negativa, o interessado pode verificar o motivo e avaliar recurso administrativo.",
+        "A principal cautela do levantamento é estatística: os 50,8% correspondem ao conjunto de benefícios analisados pelo INSS, não à taxa de indeferimento do BPC. Usar esse número como se medisse exclusivamente pedidos do benefício assistencial produziria uma conclusão que o próprio relatório não sustenta.",
+        "Para quem acompanha um pedido, o texto desloca a atenção do percentual agregado para procedimentos verificáveis: consultar o Meu INSS, conferir a justificativa da negativa e avaliar recurso administrativo. Os critérios mencionados, como renda por pessoa e Cadastro Único atualizado, são apresentados como requisitos gerais do BPC, não como decisão sobre um caso individual."
       ],
-      "aiSummary": "Dados gerais do INSS apontam 50,8% de indeferimentos entre janeiro e julho, mas o percentual não é específico do BPC."
+      "aiSummary": [
+        "A taxa de 50,8% reúne benefícios diversos e não mede apenas pedidos de BPC.",
+        "O relatório orienta consultar o Meu INSS e verificar eventual recurso após negativa."
+      ]
     },
     "en": {
       "title": "INSS decided on 10.34 million benefit requests from January to July",
@@ -31,9 +36,14 @@
       "paragraphs": [
         "From January through July 2026, Brazil’s INSS made decisions on about 10.34 million benefit requests. Approximately 5.25 million were rejected, equal to 50.8% of the total reviewed.",
         "The percentage includes different benefits administered by the agency and does not represent BPC applications alone. BPC serves people aged 65 or over and people with disabilities who meet legal requirements, with a monthly payment equal to one minimum wage.",
-        "The report advises applicants to follow their cases through Meu INSS. The criteria mentioned include household income per person of up to one-quarter of the minimum wage and an updated Cadastro Único; after a rejection, applicants can review the reason and consider an administrative appeal."
+        "The report advises applicants to follow their cases through Meu INSS. The criteria mentioned include household income per person of up to one-quarter of the minimum wage and an updated Cadastro Único; after a rejection, applicants can review the reason and consider an administrative appeal.",
+        "The report’s central statistical caution is that the 50.8% figure covers all benefits reviewed by INSS, not the BPC rejection rate alone. Treating it as a measure of BPC applications would create a conclusion that the report itself does not support.",
+        "For applicants, the useful next steps shift attention from the aggregate percentage to verifiable procedures: check Meu INSS, read the reason for a rejection and consider an administrative appeal. The stated income and Cadastro Único conditions are general BPC requirements, not a decision on any individual case."
       ],
-      "aiSummary": "General INSS data show a 50.8% rejection rate from January through July, but the figure is not specific to BPC."
+      "aiSummary": [
+        "The 50.8% rate covers several benefits and does not measure BPC applications alone.",
+        "The report advises checking Meu INSS and considering an appeal after a rejection."
+      ]
     }
   }
 }
