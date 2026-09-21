@@ -36,9 +36,9 @@ Use [the research template](research/TEMPLATE.md) to retain selection evidence.
 The local SearXNG endpoint
 defaults to `http://localhost:8080`; `SEARXNG_URL` may select another local port.
 `npm run research` writes separate candidate runs; it never approves stories. The
-repeatable daily agent brief is stored at `automation/daily-news-prompt.md`; it
-stages reviewable updates on `automation/daily-news` and never edits approval or
-publishes unreviewed content.
+`github-news` automation runs daily at 08:00 GMT-3 using
+`automation/daily-news-prompt.md`; it stages reviewable updates on
+`automation/daily-news` and never edits approval or publishes unreviewed content.
 
 ```powershell
 npm run research
