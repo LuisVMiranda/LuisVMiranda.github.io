@@ -110,6 +110,17 @@ true, there are at least three paragraphs, and `warnings` is empty. A failed or
 partial fallback is evidence of an unavailable source, not permission to use a
 snippet.
 
+For a full candidate inventory, prefer the batch form before selecting stories:
+
+```powershell
+npx tsx scripts/extract-research.ts --run research/runs/RUN_ID --max-per-section 24 --concurrency 8
+```
+
+Review `research/runs/RUN_ID/extractions/index.json` and use only records with
+`complete: true`, at least three paragraphs and no warnings. If a desk still has
+fewer than ten complete sources, run focused searches and extract additional
+original publishers instead of treating the shortfall as final.
+
 The extraction is a research input, not automatically publishable copy. Preserve
 the complete factual substance, chronology, attribution, qualifications,
 corrections and relevant context in the reading version. When an image caption

@@ -5,6 +5,30 @@ import { SearxAdapter, FixtureAdapter } from '../src/modules/research/adapters';
 import type { Candidate } from '../src/modules/research/types';
 
 const fixturePath = process.env.RESEARCH_FIXTURE;
+const focusQueries: Record<string, string[]> = {
+  brasil: ['Brasil governo tribunais serviços públicos notícias recentes'],
+  mundo: ['world affairs diplomacy conflict science latest news'],
+  politica: [
+    'política brasileira Congresso governo eleições notícias recentes',
+    'Brazil politics Congress Supreme Court government latest news',
+    'Brasil política governo Congresso STF eleições notícias',
+  ],
+  economia: ['economia Brasil mercados inflação negócios notícias recentes'],
+  tecnologia: [
+    'tecnologia inteligência artificial cibersegurança notícias recentes',
+  ],
+  ciencia: [
+    'ciência saúde clima espaço pesquisa notícias recentes',
+    'NASA climate health research latest news',
+    'pesquisa científica brasileira saúde clima espaço notícias',
+  ],
+  cultura: [
+    'cultura cinema música livros patrimônio notícias recentes',
+    'cinema música literatura artes patrimônio latest news',
+    'cultura brasileira cinema música livros patrimônio notícias',
+  ],
+  esportes: ['esportes futebol competições resultados notícias recentes'],
+};
 const adapter = fixturePath
   ? new FixtureAdapter(
       JSON.parse(await readFile(fixturePath, 'utf8')) as Candidate[],
@@ -32,6 +56,7 @@ for (const section of sections) {
   const queries = [
     `${section.label['pt-BR']} notícias ${section.id === 'mundo' ? 'internacionais' : 'Brasil'}`,
     `${section.label.en} latest news ${section.id === 'mundo' ? 'world' : 'Brazil'}`,
+    ...(focusQueries[section.id] ?? []),
   ];
   const results = await Promise.allSettled(
     queries.map((query) => adapter.search(query, section.id)),
