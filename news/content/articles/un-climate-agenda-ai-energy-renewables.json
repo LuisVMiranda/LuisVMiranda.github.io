@@ -9,6 +9,10 @@
     {
       "name": "The Associated Press",
       "url": "https://apnews.com/article/climate-change-un-fuel-ai-renewables-f3208930e39c7d233bdc24315065dcd2"
+    },
+    {
+      "name": "International Renewable Energy Agency",
+      "url": "https://www.irena.org/-/media/Files/IRENA/Agency/Publication/2026/Mar/IRENA_DAT_RE_capacity_statistics_2026.pdf"
     }
   ],
   "rights": {
@@ -21,7 +25,7 @@
       "paragraphs": [
         "Líderes políticos e empresariais reunidos em Nova York nesta semana chegam à Assembleia Geral da ONU e à Climate Week sob pressão pelos custos cada vez mais visíveis da mudança climática. Ondas de calor, incêndios e uma enchente no Nepal que matou mais de 1.300 pessoas após o colapso de uma geleira na fronteira entre Nepal e China aumentam o peso humanitário da discussão.",
         "A agenda também deve incorporar a rápida expansão da inteligência artificial e dos centros de dados, que consomem muita energia, além da alta dos combustíveis fósseis associada às guerras no Irã e na Ucrânia. Autoridades da ONU relacionam a dependência de combustíveis à inflação e às contas das famílias, enquanto especialistas discutem se a IA agravará as emissões ou poderá acelerar avanços científicos e tecnológicos.",
-        "Um relatório da Agência Internacional de Energia Renovável, da Global Renewables Alliance e da Turquia afirma que ainda é possível triplicar a capacidade renovável até o fim da década, mas será preciso avançar muito mais rápido. A expansão adicionada em 2025 chegou a 693 gigawatts, embora o mundo precise instalar entre 2026 e 2030 mais capacidade do que em todos os anos anteriores combinados; a geração fóssil também voltou a crescer, puxada principalmente pelo carvão na China."
+        "Um relatório da Agência Internacional de Energia Renovável, da Global Renewables Alliance e da Turquia afirma que ainda é possível triplicar a capacidade renovável até o fim da década, mas será preciso avançar muito mais rápido. As estatísticas da IRENA registram 692 gigawatts adicionados em 2025, enquanto o mundo precisa instalar entre 2026 e 2030 mais capacidade do que em todos os anos anteriores combinados; a geração fóssil também voltou a crescer, puxada principalmente pelo carvão na China."
       ],
       "aiSummary": "A reportagem mostra como clima, preços de energia, IA e desastres pressionam a agenda da ONU e da Climate Week. Um relatório considera viável triplicar as renováveis até 2030, mas exige uma aceleração inédita enquanto o uso de combustíveis fósseis ainda cresce."
     },
@@ -31,7 +35,7 @@
       "paragraphs": [
         "Political and business leaders gathering in New York this week are arriving at the U.N. General Assembly and Climate Week under pressure from the increasingly visible costs of climate change. Heat waves, wildfires and flooding in Nepal that killed more than 1,300 people after a glacier collapsed on the Nepal-China border are adding a humanitarian weight to the discussion.",
         "The agenda will also have to account for the rapid rise of artificial intelligence and energy-hungry data centers, as well as higher fossil-fuel prices linked to wars in Iran and Ukraine. U.N. officials connect fossil-fuel dependence with inflation and household bills, while experts debate whether AI will worsen emissions or help unlock scientific and technological advances.",
-        "A report from the International Renewable Energy Agency, the Global Renewables Alliance and Turkey says the world can still triple renewable capacity by the end of the decade, but must move much faster. Renewable additions reached 693 gigawatts in 2025, yet the world needs to build more capacity from 2026 through 2030 than in all previous years combined; fossil-fuel additions also rebounded, driven mainly by coal power in China."
+        "A report from the International Renewable Energy Agency, the Global Renewables Alliance and Turkey says the world can still triple renewable capacity by the end of the decade, but must move much faster. IRENA statistics record 692 gigawatts of additions in 2025, yet the world needs to build more capacity from 2026 through 2030 than in all previous years combined; fossil-fuel additions also rebounded, driven mainly by coal power in China."
       ],
       "aiSummary": "The report shows climate impacts, energy prices, AI and disasters converging on the U.N. and Climate Week agenda. A new assessment says tripling renewables by 2030 remains possible, but only with an unprecedented acceleration while fossil-fuel use is still rising."
     }

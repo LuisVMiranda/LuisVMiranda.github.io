@@ -73,8 +73,8 @@
       "articleId": "ciencia-bebes-atencao-rostos",
       "url": "https://www.theguardian.com/science/2026/sep/21/baby-girls-boys-interest-faces-nature-nurture",
       "publishedAt": "2026-09-21T09:00:20+00:00",
-      "evidence": "Complete extraction file focused-ciencia-20.json from The Guardian, published 2026-09-21 at 09:00 UTC. It reports an eye-tracking study of 130 newborns, the average difference in face-versus-toy attention, the study's limits and the researchers' need for longer follow-up.",
-      "selectionReason": "Current, substantive and dated science report with a clearly stated sample, measured result and caution against applying a group average to individual children.",
+      "evidence": "Complete extraction file focused-ciencia-20.json from The Guardian, published 2026-09-21 at 09:00 UTC. It reports an eye-tracking study of 130 newborns, the average difference in face-versus-toy attention, the study's limits and the researchers' need for longer follow-up. No independent corroboration was materially necessary: this is a low-risk observational science report, not medical advice or a clinical claim, and the article itself states the sample, uncertainty and limits.",
+      "selectionReason": "Current, substantive and dated science report with a clearly stated sample, measured result and caution against applying a group average to individual children; classified as low-risk because it reports an observational study without treatment or policy claims.",
       "contentReview": {
         "bodyComplete": true,
         "aiSummaryReviewed": true
@@ -95,8 +95,8 @@
       "articleId": "ciencia-felino-tigre-bolivia",
       "url": "https://www.theguardian.com/world/2026/sep/17/new-cat-species-identified-bolivia",
       "publishedAt": "2026-09-17T20:43:38+00:00",
-      "evidence": "Complete extraction file focused-ciencia-17.json from The Guardian, published 2026-09-17 at 20:43 UTC. It reports the genetic identification of Leopardus tilcayo, analysis of 38 cats, the inferred 1.4-million-year lineage split and conservation pressure on the Yungas habitat.",
-      "selectionReason": "Current biodiversity report with complete date and body, a concrete genetic basis for the species description and a clear conservation context; no duplicate event was selected elsewhere in the run.",
+      "evidence": "Complete extraction file focused-ciencia-17.json from The Guardian, published 2026-09-17 at 20:43 UTC. It reports the genetic identification of Leopardus tilcayo, analysis of 38 cats, the inferred 1.4-million-year lineage split and conservation pressure on the Yungas habitat. Independent corroboration: the Associated Press report at https://apnews.com/article/ae6f7928ae5b37be3cfd478fe6f1027c covers the same genetic identification and conservation context.",
+      "selectionReason": "Current biodiversity report with complete date and body, a concrete genetic basis for the species description and a clear conservation context; corroborated by an independent AP report and not duplicated elsewhere in the run.",
       "contentReview": {
         "bodyComplete": true,
         "aiSummaryReviewed": true
