@@ -19,7 +19,7 @@
       "url": "https://www.cnnbrasil.com.br/politica/mencoes-a-gonet-no-celular-de-vorcaro-incomodam-membros-do-conselho-do-mp/",
       "publishedAt": "2026-09-21T12:58:36-03:00",
       "evidence": "Complete extraction file(s) 1270494ab4c8.json (HTTP 200, complete:true), published 2026-09-21; The complete CNN extraction schedules a September 25 CSMPF session about mentions of Paulo Gonet in messages extracted from Daniel Vorcaro’s cellphone, identifies the council’s composition and rapporteur, and records uncertainty about whether the session will address removal, recusal or impartiality. It also attributes confidence to people close to Gonet and describes the defense position. No independent complete extraction in the current politica run verifies this exact CSMPF procedure; the article is limited to attributed procedural facts and positions from the complete CNN report.",
-      "selectionReason": "Current and institutionally relevant procedural report; the draft preserves attribution, distinguishes pending decisions from established facts, and avoids treating the underlying messages as proven misconduct.",
+      "selectionReason": "Current and institutionally relevant procedural report; the draft preserves attribution, distinguishes pending decisions from established facts, and avoids treating the underlying messages as proven misconduct. No independent corroboration was materially necessary for the publicly scheduled institutional procedure because the item makes no finding of misconduct.",
       "contentReview": {
         "bodyComplete": true,
         "aiSummaryReviewed": true
@@ -41,7 +41,7 @@
       "url": "https://g1.globo.com/politica/noticia/2026/09/21/apos-bachelet-desistir-de-concorrer-a-onu-brasil-defende-que-regiao-tem-mulheres-a-altura-do-cargo.ghtml",
       "publishedAt": "2026-09-21T08:06:18.924-03:00",
       "evidence": "Complete extraction file(s) 1a43ffb5b7df.json (HTTP 200, complete:true), published 2026-09-21; The complete G1 extraction reports the Itamaraty statement after Michelle Bachelet withdrew, Brazil’s continued preference for a Latin American woman to succeed António Guterres, the absence of a named replacement, and Lula’s scheduled September 22 UN speech with expectations attributed to interlocutors. No independent complete extraction in the current politica run verifies the Bachelet withdrawal and Brazil’s position; the copy separates the official statement from attributed expectations about Lula’s speech.",
-      "selectionReason": "Current foreign-policy story directly involving Brazil’s diplomatic position and an official Itamaraty statement; pending choices and attributed expectations are clearly labeled.",
+      "selectionReason": "Current foreign-policy story directly involving Brazil’s diplomatic position and an official Itamaraty statement; pending choices and attributed expectations are clearly labeled. No independent corroboration was materially necessary because the core item is an official diplomatic position, not an allegation or forecast presented as fact.",
       "contentReview": {
         "bodyComplete": true,
         "aiSummaryReviewed": true
@@ -74,7 +74,7 @@
       "url": "https://valorinternational.globo.com/politics/news/2026/09/21/right-center-lead-brazils-private-campaign-fundraising.ghtml",
       "publishedAt": "2026-09-21T09:24:08.578-03:00",
       "evidence": "Complete extraction file(s) b34acc2a3a18.json (HTTP 200, complete:true), published 2026-09-21; The complete Valor extraction analyzes open TSE data updated through September 18, reports the leading role of right-wing and centrist parties in private donations, gives the R$415.7 million and R$4.6 billion comparisons, identifies geographic and demographic concentration, and explains reporting deadlines and the 10% cap. No independent complete extraction in the current politica run verifies this dataset analysis; the draft attributes the figures to Valor’s analysis of open TSE data and avoids presenting researchers’ explanations as settled causation.",
-      "selectionReason": "Current election-finance data report from a reputable outlet, grounded in open TSE data and clearly separated from researchers’ interpretations; it adds distinct electoral accountability coverage.",
+      "selectionReason": "Current election-finance data report from a reputable outlet, grounded in open TSE data and clearly separated from researchers’ interpretations; it adds distinct electoral accountability coverage. The primary-data method is the verification basis, so no second newsroom extraction was materially necessary.",
       "contentReview": {
         "bodyComplete": true,
         "aiSummaryReviewed": true
@@ -96,7 +96,7 @@
       "url": "https://valorinternational.globo.com/politics/news/2026/09/21/lula-campaign-courts-centrist-neutrality-for-possible-runoff.ghtml",
       "publishedAt": "2026-09-21T12:32:29.909-03:00",
       "evidence": "Complete extraction file(s) 7e92a8c1ce02.json (HTTP 200, complete:true), published 2026-09-21; The complete Valor extraction reports Lula campaign efforts to keep centrist parties neutral in a possible runoff, identifies the reported positions of PSD, União Brasil and Republicanos, notes uncertainty around Progressistas, and describes the October 6 meeting planned to define that party’s national position. No independent complete extraction in the current politica run verifies the internal campaign talks; the draft attributes campaign assessments and party positions to the Valor report and does not present private-source claims as independently confirmed.",
-      "selectionReason": "Current election-strategy report from a reputable political desk, selected because its core points are attributed to named parties or campaign sources and it adds a distinct coalition-building angle without repeating the fundraising or polling stories.",
+      "selectionReason": "Current election-strategy report from a reputable political desk, selected because its core points are attributed to named parties or campaign sources and it adds a distinct coalition-building angle without repeating the fundraising or polling stories. No independent corroboration was materially necessary because the copy labels internal talks and party assessments as reported or unconfirmed and makes no claim that a coalition decision is final.",
       "contentReview": {
         "bodyComplete": true,
         "aiSummaryReviewed": true

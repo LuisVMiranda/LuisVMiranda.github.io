@@ -51,8 +51,8 @@
       "articleId": "mundo-20260921-dmz-explosion-south-korean-officers",
       "url": "https://apnews.com/article/north-korea-dmz-explosion-border-85889eaed6308b7c05a2bf402076c772",
       "publishedAt": "2026-09-21T00:00:00.000Z",
-      "evidence": "Complete extraction d994caa9c458.json (HTTP 200), published 2026-09-21, reports three South Korean officers injured in an explosion inside the western DMZ, the evacuation of all three and an unknown cause. The report explicitly says officials did not establish whether a North Korean mine was involved; no independent corroboration extraction for the incident was present in the run.",
-      "selectionReason": "Fresh, clearly attributed border-security report; the copy avoids assigning blame or treating an unconfirmed mine theory as fact.",
+      "evidence": "Complete extraction d994caa9c458.json (HTTP 200), published 2026-09-21, reports three South Korean officers injured in an explosion inside the western DMZ, the evacuation of all three and an unknown cause. Independent corroboration: Yonhap reports the same three-officer injury, search operation and unresolved mine cause at https://en.yna.co.kr/view/AEN20260921006153315. Both reports leave responsibility and the mine’s origin unresolved.",
+      "selectionReason": "Fresh, clearly attributed border-security report corroborated by Yonhap; the copy avoids assigning blame or treating an unconfirmed mine theory as fact.",
       "contentReview": {
         "bodyComplete": true,
         "aiSummaryReviewed": true
@@ -63,7 +63,7 @@
       "url": "https://www.bbc.com/news/articles/cr5ye7p13jg7o",
       "publishedAt": "2026-09-21T06:25:43.927Z",
       "evidence": "Complete extraction 47ebd43620b6.json (HTTP 200), published 2026-09-21T06:25:43.927Z, reports Jensen Huang rejecting AI-extinction predictions, the competing calls for slower development, and the related U.S.-China discussion of an AI safety notification mechanism. The article attributes the views and preserves the debate rather than presenting a forecast as established fact.",
-      "selectionReason": "Current global technology and AI-safety debate from a complete BBC report, framed as attributed positions rather than verified predictions.",
+      "selectionReason": "Current global technology and AI-safety debate from a complete BBC report, framed as attributed positions rather than verified predictions; classified as low-risk commentary because it reports public statements and competing views, not an unverified incident or safety claim.",
       "contentReview": {
         "bodyComplete": true,
         "aiSummaryReviewed": true

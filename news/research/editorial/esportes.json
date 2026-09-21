@@ -19,7 +19,7 @@
       "url": "https://ge.globo.com/sp/campinas-e-regiao/futebol/times/guarani/noticia/2026/09/21/guarani-tem-semana-decisiva-para-discutir-e-votar-proposta-de-saf.ghtml",
       "publishedAt": "2026-09-21T08:26:02.465-03:00",
       "evidence": "Complete extraction 44fba7f29ef7.json, HTTP 200, complete:true, published 2026-09-21T08:26:02.465-03:00. The full ge report covers the Guarani meetings on September 21 and 23, the September 25 hybrid vote, the proposed R$1.075 billion investment, its stated allocation, and the proposed 10%/90% ownership split. This is a direct dated club-business report; no independent corroboration extraction was available in the current run, so no corroboration URL is asserted.",
-      "selectionReason": "Dated inside the preceding 24 hours, direct coverage of a distinct club governance decision from a reputable sports outlet, with material terms present in the complete extraction and no unverified allegation required.",
+      "selectionReason": "Dated inside the preceding 24 hours, direct coverage of a distinct club governance decision from a reputable sports outlet, with material terms present in the complete extraction and no unverified allegation required. No independent corroboration was materially necessary because this is a low-risk report of a scheduled vote and proposed terms, not a completed transaction.",
       "contentReview": {
         "bodyComplete": true,
         "aiSummaryReviewed": true
@@ -74,7 +74,7 @@
       "url": "https://ge.globo.com/es/futebol/noticia/2026/09/21/santa-teresa-fc-novo-time-do-espirito-santo-vai-iniciar-atividades-na-base-e-no-feminino.ghtml",
       "publishedAt": "2026-09-21T10:35:56.613-03:00",
       "evidence": "Complete extraction cdca9ce6df9d.json, HTTP 200, complete:true, published 2026-09-21T10:35:56.613-03:00. The full ge report says Santa Teresa FC was founded in 2026, plans youth and women's activity in 2027, targets men's professional football by 2030, and links the project to the city's culture and tourism. This is a dated club-launch report from a reputable outlet; no independent corroboration extraction was available in the current run, so no corroboration URL is asserted.",
-      "selectionReason": "Dated inside the preceding 24 hours, distinct current club-development news, directly reported by a reputable sports outlet, and based on stated plans rather than unverified allegations.",
+      "selectionReason": "Dated inside the preceding 24 hours, distinct current club-development news, directly reported by a reputable sports outlet, and based on stated plans rather than unverified allegations. No independent corroboration was materially necessary because this is a low-risk report of stated future plans, not an achieved result or disputed claim.",
       "contentReview": {
         "bodyComplete": true,
         "aiSummaryReviewed": true

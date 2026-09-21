@@ -19,7 +19,7 @@
       "url": "https://valor.globo.com/brasil/noticia/2026/09/21/ciclo-eleitoral-amplia-gasto-e-corroi-resultado-primario-dos-estados.ghtml",
       "publishedAt": "2026-09-21T05:00:00.583-03:00",
       "evidence": "Complete extraction research/runs/2026-09-21T16-48-24-436Z-221c0d1e-a836-45cb-b034-62c6ef37c843/extractions/economia/120db5bfd193.json, retrieved with status 200 and complete=true, published at 2026-09-21T05:00:00.583-03:00. It documents the projected R$36.9 billion combined 2026 primary deficit, the change from prior surpluses, 18 states forecasting deficits, the LDO and National Treasury data method, and the role of election-year investment, borrowing and Propag. No matching second complete extraction was available in the current run, so all estimates remain explicitly attributed to state projections and the report methodology.",
-      "selectionReason": "High-value, current fiscal report with unusually detailed methodology and primary budget documents described in the complete extraction; retained as an attributed estimate rather than a confirmed year-end result.",
+      "selectionReason": "High-value, current fiscal report with unusually detailed methodology and primary budget documents described in the complete extraction; retained as an attributed estimate rather than a confirmed year-end result. The primary-data method and uncertainty are the verification basis, so no second newsroom extraction was materially necessary.",
       "contentReview": {
         "bodyComplete": true,
         "aiSummaryReviewed": true
@@ -30,7 +30,7 @@
       "url": "https://valor.globo.com/financas/criptomoedas/noticia/2026/09/21/bitcoin-chega-a-us-85-mil-com-melhora-do-apetite-por-risco.ghtml",
       "publishedAt": "2026-09-21T10:55:30.031-03:00",
       "evidence": "Complete extraction research/runs/2026-09-21T16-48-24-436Z-221c0d1e-a836-45cb-b034-62c6ef37c843/extractions/economia/17e3c48953fd.json, retrieved with status 200 and complete=true, published at 2026-09-21T10:55:30.031-03:00. It records bitcoin at US$85,059.77, up 6.1% in 24 hours, the Brazilian quote at R$436,887.41, ETF inflows, liquidations and the market drivers described in the report. No second matching complete extraction was available; this is a time-specific market snapshot and the copy preserves its timestamps and attributions.",
-      "selectionReason": "Current, distinct market result report from a reputable financial outlet, with concrete time-stamped prices and flows rather than promotional or speculative language.",
+      "selectionReason": "Current, distinct market result report from a reputable financial outlet, with concrete time-stamped prices and flows rather than promotional or speculative language. No independent corroboration was materially necessary because this is a low-risk, time-specific market snapshot, not investment advice or a forecast.",
       "contentReview": {
         "bodyComplete": true,
         "aiSummaryReviewed": true
@@ -52,7 +52,7 @@
       "url": "https://www.cnnbrasil.com.br/economia/money/negocios/google-e-multada-em-403-milhoes-de-euros-por-uso-indevido-de-dados/",
       "publishedAt": "2026-09-21T09:37:29-03:00",
       "evidence": "Complete extraction research/runs/2026-09-21T16-48-24-436Z-221c0d1e-a836-45cb-b034-62c6ef37c843/extractions/economia/405541849e75.json, retrieved with status 200 and complete=true, published at 2026-09-21T09:37:29-03:00. It reports the Irish regulator's €403 million fine, the three location-data features, the six-month remediation period, the regulator's reasoning and the 2020 consumer complaints. No second matching complete extraction was available in the current run; the report attributes the findings to the regulator and does not add an allegation beyond the decision described.",
-      "selectionReason": "Current, material corporate-regulatory development with a named regulator, decision amount, compliance deadline and stated findings in a complete reputable extraction.",
+      "selectionReason": "Current, material corporate-regulatory development with a named regulator, decision amount, compliance deadline and stated findings in a complete reputable extraction. No independent corroboration was materially necessary because the report is explicitly about a named regulator’s decision and adds no allegation beyond that decision.",
       "contentReview": {
         "bodyComplete": true,
         "aiSummaryReviewed": true
@@ -63,7 +63,7 @@
       "url": "https://www.cnnbrasil.com.br/economia/money/macroeconomia/fmi-alerta-para-riscos-de-inflacao-e-ia-em-meio-a-economia-resiliente/",
       "publishedAt": "2026-09-21T12:10:47-03:00",
       "evidence": "Complete extraction research/runs/2026-09-21T16-48-24-436Z-221c0d1e-a836-45cb-b034-62c6ef37c843/extractions/economia/415232162059.json, retrieved with status 200 and complete=true, published at 2026-09-21T12:10:47-03:00. It reports Kristalina Georgieva's remarks, the IMF's 3.0% 2026 growth forecast, inflation and debt-service risks, and warnings about leverage and circular financing around AI investment. No second matching complete extraction was available, so the draft attributes forecasts and warnings to the IMF and its managing director.",
-      "selectionReason": "Current global macroeconomic report based on a named IMF official and a quantified forecast; selected as attributed analysis rather than presented as an unverified prediction.",
+      "selectionReason": "Current global macroeconomic report based on a named IMF official and a quantified forecast; selected as attributed analysis rather than presented as an unverified prediction. No independent corroboration was materially necessary because the item reports official IMF forecasts and warnings, not a claimed economic outcome or financial recommendation.",
       "contentReview": {
         "bodyComplete": true,
         "aiSummaryReviewed": true
@@ -85,7 +85,7 @@
       "url": "https://www.cnnbrasil.com.br/economia/money/negocios/amd-atinge-valor-de-mercado-de-us-1-trilhao-com-forte-demanda-por-ia/",
       "publishedAt": "2026-09-21T12:29:11-03:00",
       "evidence": "Complete extraction research/runs/2026-09-21T16-48-24-436Z-221c0d1e-a836-45cb-b034-62c6ef37c843/extractions/economia/f034fee909c6.json, retrieved with status 200 and complete=true, published at 2026-09-21T12:29:11-03:00. It reports AMD briefly exceeding US$1 trillion in market value, the 9% share rise and US$613.92 record, the comparison with other chipmakers, AI-system expansion and market-share context. No second matching complete extraction was available; the draft treats the valuation as a time-specific market milestone.",
-      "selectionReason": "Current business-market result report with a specific valuation milestone and concrete trading figures, distinct from the macro and energy stories in the section.",
+      "selectionReason": "Current business-market result report with a specific valuation milestone and concrete trading figures, distinct from the macro and energy stories in the section. No independent corroboration was materially necessary because this is a time-specific market milestone and the copy makes no investment recommendation or unsupported causal claim.",
       "contentReview": {
         "bodyComplete": true,
         "aiSummaryReviewed": true
@@ -96,7 +96,7 @@
       "url": "https://valor.globo.com/empresas/noticia/2026/09/21/ainda-queremos-atingir-autossuficiencia-de-diesel-no-brasil-diz-presidente-da-petrobras.ghtml",
       "publishedAt": "2026-09-21T11:04:43.235-03:00",
       "evidence": "Complete extraction research/runs/2026-09-21T16-48-24-436Z-221c0d1e-a836-45cb-b034-62c6ef37c843/extractions/economia/89def0b82eaf.json, retrieved with status 200 and complete=true, published at 2026-09-21T11:04:43.235-03:00. It reports Magda Chambriard's statement at the ROG.e event, the company plan to supply 90% of the diesel market versus 70% today, the 30% import share, refining resilience, exploration frontiers and Colombian gas discoveries. No second matching complete extraction was available; the draft labels the figures as company-plan targets and executive statements.",
-      "selectionReason": "Current domestic business and energy report from a reputable financial outlet, selected for its concrete company target and fuel-supply relevance while keeping forward-looking claims attributed.",
+      "selectionReason": "Current domestic business and energy report from a reputable financial outlet, selected for its concrete company target and fuel-supply relevance while keeping forward-looking claims attributed. No independent corroboration was materially necessary because the 90% figure is explicitly presented as a company plan and not as an achieved result or guarantee.",
       "contentReview": {
         "bodyComplete": true,
         "aiSummaryReviewed": true

@@ -7,7 +7,7 @@
       "articleId": "bofa-agentes-ia-ciberseguranca",
       "url": "https://www.bloomberglinea.com.br/mercados/avanco-de-agentes-de-ia-abre-nova-frente-de-crescimento-para-ciberseguranca-diz-bofa/",
       "publishedAt": "2026-09-21T12:33:00.748Z",
-      "evidence": "A complete extraction from Bloomberg Línea, published at 2026-09-21T12:33:00.748Z, reports Bank of America’s view that AI agents widen the threat landscape, make identity controls more important, and support higher cybersecurity spending; it also records higher target prices for Okta, SailPoint, and CrowdStrike. Corroboration basis: no independent complete extraction covering the same BofA note was available in this run, so the copy attributes the assessment to the bank and does not present it as a forecast or guarantee.",
+      "evidence": "A complete extraction from Bloomberg Línea, published at 2026-09-21T12:33:00.748Z, reports Bank of America’s view that AI agents widen the threat landscape, make identity controls more important, and support higher cybersecurity spending; it also records higher target prices for Okta, SailPoint, and CrowdStrike. Corroboration basis: no independent complete extraction covering the same BofA note was available in this run, so the copy attributes the assessment to the bank and does not present it as a forecast or guarantee. No independent corroboration was materially necessary because this is a low-risk attributed financial-analysis item, not a security incident or investment recommendation.",
       "selectionReason": "Current, in-scope business technology analysis from a reputable financial-news outlet; selected for its direct relevance to AI-agent security and because the article clearly attributes the market view to Bank of America.",
       "contentReview": {
         "bodyComplete": true,
@@ -29,7 +29,7 @@
       "articleId": "phishing-passkeys-contas-corporativas",
       "url": "https://tek.sapo.pt/noticias/internet/artigos/novo-esquema-de-phishing-imita-as-passkeys-para-roubo-de-documentos-corporativos/",
       "publishedAt": "2026-09-21T09:34:28+00:00",
-      "evidence": "A complete TEK Notícias extraction, published at 2026-09-21T09:34:28+00:00, reports Microsoft’s description of phishing campaigns that impersonate support, imitate Microsoft authentication, capture tokens, add MFA methods, enumerate cloud resources, and exfiltrate documents. Corroboration basis: no independent complete extraction of the same campaign was available in this run; the copy keeps the claims explicitly attributed to Microsoft.",
+      "evidence": "A complete TEK Notícias extraction, published at 2026-09-21T09:34:28+00:00, reports Microsoft’s description of phishing campaigns that impersonate support, imitate Microsoft authentication, capture tokens, add MFA methods, enumerate cloud resources, and exfiltrate documents. Corroboration basis: no independent complete extraction of the same campaign was available in this run; the copy keeps the claims explicitly attributed to Microsoft. No independent corroboration was materially necessary for this company-advisory report because it gives defensive indicators, identifies Microsoft as the claimant, and does not assert an unrelated breach or unverified victim.",
       "selectionReason": "Current and directly in-scope cybersecurity report from an established technology outlet; selected because it contains concrete defensive indicators and does not rely on unnamed allegations.",
       "contentReview": {
         "bodyComplete": true,
@@ -51,8 +51,8 @@
       "articleId": "teste-openai-hacktron",
       "url": "https://canaltech.com.br/inteligencia-artificial/openai-foi-invadida-por-hackers-que-usaram-rival-do-chatgpt/",
       "publishedAt": "2026-09-21T10:06:00.000-03:00",
-      "evidence": "A complete Canaltech extraction, published at 2026-09-21T10:06:00-03:00, reports an authorized Hacktron AI exercise that used an OpenAI help-forum flaw, Anthropic models, OpenAI’s confirmation to AFP, a roughly 14-hour fix, and a 6,500-dollar bounty. Corroboration basis: no independent complete extraction of this incident was available in the run; the copy preserves the authorization and attribution and adds no allegation of criminal activity.",
-      "selectionReason": "Current, in-scope AI-security incident with concrete remediation details and explicit attribution to an authorized test and OpenAI’s response; selected without using sensational wording from the source headline.",
+      "evidence": "A complete Canaltech extraction, published at 2026-09-21T10:06:00-03:00, reports an authorized Hacktron AI exercise that used an OpenAI help-forum flaw, Anthropic models, OpenAI’s confirmation to AFP, a roughly 14-hour fix, and a 6,500-dollar bounty. Corroboration basis: the complete report preserves OpenAI’s confirmation to AFP, the authorization and attribution, and adds no allegation of criminal activity; no separate incident extraction was available in the run.",
+      "selectionReason": "Current, in-scope AI-security report with concrete remediation details and explicit attribution to an authorized test and OpenAI’s response; selected without using sensational wording from the source headline, and treated as an attributed authorized-exercise report rather than a criminal breach.",
       "contentReview": {
         "bodyComplete": true,
         "aiSummaryReviewed": true
@@ -84,7 +84,7 @@
       "articleId": "openai-brasil-eleicoes-2026",
       "url": "https://canaltech.com.br/inteligencia-artificial/openai-diz-que-brasil-e-laboratorio-do-mundo-e-o-grande-teste-de-ia-em-eleicoes/",
       "publishedAt": "2026-09-21T13:01:00.000-03:00",
-      "evidence": "A complete Canaltech extraction, published at 2026-09-21T13:01:00-03:00, reports an OpenAI Latin America policy director’s characterization of Brazil’s 2026 election as a test, the company’s stated safeguards and TSE compliance channel, and the article’s description of TSE requirements for synthetic campaign content. Corroboration basis: no independent complete extraction of the same OpenAI briefing was available in this run; the copy labels company claims and does not treat them as independent validation.",
+      "evidence": "A complete Canaltech extraction, published at 2026-09-21T13:01:00-03:00, reports an OpenAI Latin America policy director’s characterization of Brazil’s 2026 election as a test, the company’s stated safeguards and TSE compliance channel, and the article’s description of TSE requirements for synthetic campaign content. Corroboration basis: no independent complete extraction of the same OpenAI briefing was available in this run; the copy labels company claims and does not treat them as independent validation. No independent corroboration was materially necessary because the item is an attributed company-policy report and separates those claims from the separately described TSE rules.",
       "selectionReason": "Current, in-scope AI-and-elections report with direct relevance to Brazil; selected because it separates OpenAI’s stated plans from the regulatory rules described in the source.",
       "contentReview": {
         "bodyComplete": true,
@@ -106,7 +106,7 @@
       "articleId": "amazon-bloqueia-muse-meta",
       "url": "https://www.theverge.com/tech/998078/amazon-blocks-meta-muse-ai-agent-shopping",
       "publishedAt": "2026-09-21T09:21:47+00:00",
-      "evidence": "A complete The Verge extraction, published at 2026-09-21T09:21:47+00:00, reports that Amazon blocked Meta’s Muse shopping agent, cites the retailer’s terms-of-use and privacy/security concerns, records Meta’s stated limits on access to login and payment data, and links the move to Amazon’s broader response to rival shopping agents. Corroboration basis: the extraction attributes the underlying report to GeekWire and includes Amazon’s statement; no separate complete extraction for the same block was available in this run.",
+      "evidence": "A complete The Verge extraction, published at 2026-09-21T09:21:47+00:00, reports that Amazon blocked Meta’s Muse shopping agent, cites the retailer’s terms-of-use and privacy/security concerns, records Meta’s stated limits on access to login and payment data, and links the move to Amazon’s broader response to rival shopping agents. Corroboration basis: the extraction attributes the underlying report to GeekWire and includes Amazon’s statement; no separate complete extraction for the same block was available in this run. No independent corroboration was materially necessary because the item reports an attributed platform-access decision and preserves both companies’ positions without asserting a security breach.",
       "selectionReason": "Current, in-scope platform and AI-agent development from a reputable technology publication; selected because it is a distinct market event and the copy preserves the reported-source and company-response attribution.",
       "contentReview": {
         "bodyComplete": true,
