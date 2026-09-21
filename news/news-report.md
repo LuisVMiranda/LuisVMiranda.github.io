@@ -256,26 +256,29 @@ redesign the portal or edit review scores.
 ## 8. Obtain approval and publish through the existing path
 
 Present the preview, source/evidence records, shortfalls, translation checks,
-test results and exact digest from `npm run review` for explicit editorial
-approval. A request to fetch, compile, commit or push does not itself approve
-the stories for publication.
+test results and exact digest from `npm run review` to an independent,
+read-only reviewer subagent. The reviewer must inspect the exact revision,
+return `PASS`, and must not edit files, approve content, commit, push, merge or
+deploy. A failed or missing independent review blocks publication.
 
-Only after the editor approves that exact revision:
+Only after the independent reviewer approves that exact revision:
 
 ```powershell
-npm run review -- --approve --revision APPROVED_DIGEST --by "Reviewer name" --confirm-reviewed
+npm run review -- --approve --revision DIGEST --by "github-news independent reviewer" --confirm-reviewed
 npm run build
 npm run package:pages
 ```
 
-Replace placeholders with the actual approved values. Any subsequent content
-edit invalidates approval and requires another review. Production builds with
-missing/stale approval do not publish the draft catalog; do not bypass this gate.
+The `github-news` automation records this machine approval, commits and pushes
+the exact revision directly to `main`, and verifies the GitHub Pages workflow.
+Any subsequent content edit invalidates approval and requires another
+independent review. Production builds with missing/stale approval do not
+publish the draft catalog; do not bypass this gate.
 
-Commit only intended source/content changes when authorized. Keep generated
-output, raw runs, browser reports, dependency folders and credentials out of Git.
-Publish only through the manual **GitHub Pages portal** workflow on `main`, with
-the approved digest. It checks page approvals, serializes deployment, rejects
+Commit only intended source/content/approval changes after the independent
+review. Keep generated output, raw runs, browser reports, dependency folders
+and credentials out of Git. The **GitHub Pages portal** workflow deploys an
+approved push to `main`, checks page approvals, serializes deployment, rejects
 obsolete commits and deploys the combined portfolio-plus-news static artifact.
 Do not upload `news/` source directly or introduce another production host.
 

@@ -18,12 +18,14 @@ const build = JSON.parse(
 ) as { preview: boolean; revision: string };
 if (build.revision !== commit)
   throw new Error('Artifact built from a different commit');
-const { articles, editions } = await readContent();
+const { articles, editions, approval } = await readContent();
+const approvedRevision =
+  process.env.APPROVED_REVISION || approval?.revision || '';
 validateDeployment({
   candidateCommit: commit,
   currentCommit,
   contentRevision: contentRevision(articles, editions),
-  approvedRevision: process.env.APPROVED_REVISION || '',
+  approvedRevision,
   preview: build.preview,
 });
 console.log(
