@@ -2,6 +2,12 @@ import type { Article, Edition, Locale, SectionId } from '../content/types';
 import { sections } from '../content/sections';
 
 const locales: Locale[] = ['pt-BR', 'en'];
+const embeddedContentPattern =
+  /(?:https?:\/\/|www\.)|!\[[^\]]*\]\([^)]*\)|\[[^\]]+\]\([^)]*\)|<\s*(?:a|img|picture|iframe|video|figure|script|source)\b/i;
+
+function hasEmbeddedContent(value: string): boolean {
+  return embeddedContentPattern.test(value);
+}
 
 function selectedIds(edition: Edition, section: SectionId): string[] {
   return edition.sections[section]?.articleIds ?? [];
@@ -17,6 +23,18 @@ function translationIssues(
     issues.push(`${id}/${locale} is missing an AI summary`);
   if (translation.paragraphs.length < 3)
     issues.push(`${id}/${locale} must contain at least 3 paragraphs`);
+  const textFields = [
+    ['summary', translation.summary],
+    ['AI summary', translation.aiSummary ?? ''],
+    ...translation.paragraphs.map((paragraph, index) => [
+      `paragraph ${index + 1}`,
+      paragraph,
+    ]),
+  ] as const;
+  for (const [field, value] of textFields) {
+    if (hasEmbeddedContent(value))
+      issues.push(`${id}/${locale} contains inline links or media in ${field}`);
+  }
   return issues;
 }
 

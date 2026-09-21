@@ -42,4 +42,36 @@ describe('daily news automation gate', () => {
     }
     expect(automationIssues(completeEdition, [complete], 1)).toEqual([]);
   });
+
+  it('rejects inline links and media from published reading text', () => {
+    const complete = structuredClone(article);
+    complete.rights = { mode: 'original-report' };
+    complete.translations['pt-BR'].aiSummary =
+      'Resumo verificado com contexto, consequência imediata e relevância pública.';
+    complete.translations.en.aiSummary =
+      'Verified summary with context, immediate consequence, and public relevance.';
+    complete.translations['pt-BR'].paragraphs = [
+      'Primeiro parágrafo com fatos verificados e contexto suficiente para leitores.',
+      'Segundo parágrafo explicando a cronologia e as atribuições relevantes.',
+      'Terceiro parágrafo com uma fonte https://example.com que não deve ser publicado.',
+    ];
+    complete.translations.en.paragraphs = [
+      'First paragraph with verified facts and enough context for readers.',
+      'Second paragraph explaining the chronology and relevant attributions.',
+      'Third paragraph with an <img src="photo.jpg"> that must not be published.',
+    ];
+    const completeEdition = structuredClone(edition);
+    for (const section of Object.keys(completeEdition.sections)) {
+      completeEdition.sections[
+        section as keyof typeof completeEdition.sections
+      ] = {
+        articleIds: [complete.id],
+        shortfall: 'Fixture uses one article per section.',
+      };
+    }
+    const issues = automationIssues(completeEdition, [complete], 1);
+    expect(
+      issues.some((issue) => issue.includes('inline links or media')),
+    ).toBe(true);
+  });
 });
