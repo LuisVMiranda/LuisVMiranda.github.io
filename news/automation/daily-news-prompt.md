@@ -1,8 +1,8 @@
 # github-news daily automation
 
-Run from `C:\Users\Admin\Documents\GitHub\LuisVMiranda.github.io\news` every day at 08:00 GMT-3 (`America/Sao_Paulo`). The scheduled job is named `github-news`.
+Run from `C:\Users\Admin\Documents\GitHub\LuisVMiranda.github.io\news` every day at 08:00 GMT-3 (`America/Sao_Paulo`). The scheduled job is named `github-news` and publishes verified editions directly to `main`.
 
-Goal: prepare one reviewable edition with exactly ten verified, fully developed stories in each fixed desk: `brasil`, `mundo`, `politica`, `economia`, `tecnologia`, `ciencia`, `cultura`, and `esportes`. The result is a draft branch, not an automatic production publication.
+Goal: prepare one verified edition with exactly ten verified, fully developed stories in each fixed desk: `brasil`, `mundo`, `politica`, `economia`, `tecnologia`, `ciencia`, `cultura`, and `esportes`, then commit and push it to `main` so GitHub Pages can deploy it automatically. No human editorial step is required: an independent read-only subagent must review the exact content revision before the automation records approval and publishes.
 
 Read `news-report.md`, `README.md`, `research/TEMPLATE.md`, `src/modules/content/schema.ts`, the existing section manifests, and the current Git status before making any edit. Preserve the existing site design and article template. Populate the existing optional AI-summary field; do not redesign the pages or edit generated HTML.
 
@@ -33,7 +33,7 @@ Use `licensed-reproduction` only with a real permission reference and license. P
 }
 ```
 
-8. Append a new immutable edition through `npx tsx scripts/edition.ts YYYY-MM-DD --lead ARTICLE_ID`, selecting the strongest Brasil story explicitly. Do not edit `content/approval.json` or page-review scores.
+8. Append a new immutable edition through `npx tsx scripts/edition.ts YYYY-MM-DD --lead ARTICLE_ID`, selecting the strongest Brasil story explicitly. Do not edit page-review scores or shared implementation hashes during a content run.
 
 ## Verification and submission
 
@@ -50,6 +50,8 @@ npm run review
 
 Inspect the preview in both languages: homepage lead, all eight ranked lists, article pages, AI-summary block placement and labels, full body paragraphs, sources, dates, language switch, dark mode, and reading controls. The strict `news:verify` command must pass; never use `--legacy-ok`. If any check fails, do not commit or push.
 
-When every gate passes, create or update the review branch `automation/daily-news`, commit only intended source/content/manifests/edition changes, and push that branch to `origin`. Do not force-push, approve the content, merge the branch, publish to GitHub Pages, change page-review scores, or claim publication. Report the commit, branch, digest, verification result, and any shortfalls so an editor can review the exact revision.
+After the local checks pass, calculate the exact `npm run review` revision and deploy an independent read-only reviewer with `delegate_task`. Give it the repository path, target commit, and required checks; it must not edit files, commit, push, approve, or merge. Stop if it returns anything other than `PASS` or if it reports a content or infrastructure blocker.
 
-A successful search is never permission to submit unverified articles. If no qualified full-text selection exists, fail closed and leave the previously approved edition deployed.
+Only after the independent reviewer returns `PASS`, record machine approval with `npm run review -- --approve --revision DIGEST --by "github-news independent reviewer" --confirm-reviewed`. Verify the approval revision, the exact content digest, and all selected counts again. Then remain on `main`, commit only intended source/content/manifests/edition/approval changes, and push `main` to `origin`. Never use `automation/daily-news` as the publication branch, force-push, alter page-review scores, or claim deployment before reading back the remote SHA and GitHub Actions result.
+
+A successful search is never permission to submit unverified articles. If no qualified full-text selection exists, fail closed and leave the previously approved edition deployed. A successful push is not proof of publication; verify the Pages workflow and report its run and deployment state.

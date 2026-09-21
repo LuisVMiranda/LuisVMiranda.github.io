@@ -12,11 +12,11 @@
     "tests_and_integrity"
   ],
   "sharedFiles": {
-    "../.github/workflows/news.yml": "2ad81379613045a0936b24284345c4f7597a3c14f94f31b1114df85e61771ee1",
+    "../.github/workflows/news.yml": "1ff12b94877c94f474c03828c29e55ec0feacc9c5e425a1947f13ffc23c915d6",
     ".gitignore": "8a133dd0a6fb070e7a40a8b9d8b8a52cc23ae56d862c37302c8befdbcec79259",
     ".prettierignore": "2ab123f0aba282c5e5ab96f6ff283359bd1a3998bbb7d9cb17853770c329870c",
     ".prettierrc.json": "e51419e8206a0a5493e85ef1f4dea080982dc9187992bb253220a93d0784f6b2",
-    "README.md": "73b166e7c6b8b74c875404e7a534085776b103b1c19af68babf8a3f292b1993b",
+    "README.md": "74a1bcca2bfb18731a314a53abed0e3ac585ac29bbc908a8ed68f9dd37ee3b69",
     "eslint.config.mjs": "ac8d177e0c3f8a9bf003371c75ba5feb8b8c9e45555203311c6707cba4372be0",
     "news-report.md": "769ec54f6ae9a34d8fe22b80d4df074a7df6e89ce7ced7f965d0233cf8e5d1a6",
     "package-lock.json": "35e74f451a05a5669679a4f2dc54599c67b75d5620d7791818c738ba61ddff08",
@@ -36,7 +36,7 @@
     "scripts/edition.ts": "55e089982938e6d50bbad6d5265e46a94090cd06557890fa30f717c04386d3b5",
     "scripts/package-pages.ts": "0f446305bc84eb37b39aef4dd4bd2e8e44d08a8734a371194a9a97b131865fa0",
     "scripts/performance.ts": "f082c14222458d54db017c434968bc0345a544a6aed0e626c54da7e491c9ec6a",
-    "scripts/release-check.ts": "aa3a805019846442ce80f17e3dfc5ef9d3f0ecb0d62c3102f9c3944317743c79",
+    "scripts/release-check.ts": "1e363f8bf82534ca42929a800746ba7da0f2ae66996499d7c9fabe4f4df15526",
     "scripts/research.ts": "e5340aa3a334d0f0b80898f640fd4bf27e45cda521cce17e41f133d7e934d884",
     "scripts/review.ts": "4098acda8ac0947de1ed27d253bfbdf4029c541f41009f895b6eba3364ddfc5c",
     "scripts/serve.mjs": "04d53ebc32be11b8c3a5be4fed353a6005c7841aac91f17eb3177c048a1a78ae",

@@ -37,8 +37,9 @@ The local SearXNG endpoint
 defaults to `http://localhost:8080`; `SEARXNG_URL` may select another local port.
 `npm run research` writes separate candidate runs; it never approves stories. The
 `github-news` automation runs daily at 08:00 GMT-3 using
-`automation/daily-news-prompt.md`; it stages reviewable updates on
-`automation/daily-news` and never edits approval or publishes unreviewed content.
+`automation/daily-news-prompt.md`; it prepares exactly ten verified stories per
+section, deploys an independent read-only reviewer, records machine approval,
+and pushes verified editions directly to `main` for GitHub Pages deployment.
 
 ```powershell
 npm run research
@@ -113,21 +114,22 @@ JavaScript. Pagefind runs entirely in the reader's browser. Research, validation
 and editorial approval happen before the build; there are no runtime functions,
 Workers, database connections, API credentials or application servers.
 
-The workflow validates pushes and pull requests. Publication is a manual run
-of **GitHub Pages portal**, with the approved content digest. In repository
-Settings → Pages, select **GitHub Actions** as the source. The workflow uses
-GitHub's built-in token; no hosting secret is needed. Protect the github-pages
-environment with reviewers. NEWS_SITE_URL optionally changes the HTTPS origin;
-the portal remains under /news/.
+The workflow validates pushes and pull requests and deploys approved `main`
+pushes automatically after the daily independent reviewer records the exact
+content digest. A manual workflow dispatch remains available for recovery. In
+repository Settings → Pages, select **GitHub Actions** as the source. The
+workflow uses GitHub's built-in token; no hosting secret is needed.
+NEWS_SITE_URL optionally changes the HTTPS origin; the portal remains under
+/news/.
 
 Do not select **Deploy from a branch**: that runs Jekyll against the source
 repository and can render `news/README.md` as the news homepage. The actual
 homepage is generated as `news/dist/index.html` and packaged at
 `news/index.html` in the deployment artifact. Both `/news/` and
 `/news/index.html` must display this built page; English uses `/news/en/`.
-A successful push validation alone does not deploy the site: run the manual
-publication workflow with the approved digest and confirm its **publish** job
-succeeds. Verify the live homepage, its CSS, and the unchanged portfolio.
+A successful push validation is followed by the serialized **publish** job.
+Verify the live homepage, its CSS, and the unchanged portfolio after the Pages
+deployment completes.
 
 A fresh immutable artifact combines the unchanged root index.html and assets/
 with the generated news/dist/ at /news/. Private source, research artifacts,

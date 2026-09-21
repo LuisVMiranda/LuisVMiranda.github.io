@@ -28,8 +28,8 @@ jobs:
       - run: npm ci
       - run: npm run news:verify -- --legacy-ok
       - run: npx tsx scripts/check-reviews.ts
-      - name: Enforce the rich-article gate for daily automation
-        if: github.head_ref == 'automation/daily-news'
+      - name: Enforce the rich-article gate for approved main and daily automation
+        if: github.ref == 'refs/heads/main' || github.head_ref == 'automation/daily-news'
         run: npm run news:verify
       - run: npm run quality
       - run: npx playwright install --with-deps chromium firefox webkit
@@ -45,7 +45,7 @@ jobs:
             news/artifacts/performance-summary.json
             news/playwright-report
   publish:
-    if: github.event_name == 'workflow_dispatch' && github.ref == 'refs/heads/main'
+    if: (github.event_name == 'push' && github.ref == 'refs/heads/main') || (github.event_name == 'workflow_dispatch' && github.ref == 'refs/heads/main')
     needs: validate
     runs-on: ubuntu-latest
     concurrency:
@@ -63,7 +63,7 @@ jobs:
         working-directory: news
     env:
       SITE_URL: ${{ vars.NEWS_SITE_URL || 'https://luisvmiranda.github.io' }}
-      APPROVED_REVISION: ${{ inputs.approved_revision }}
+      APPROVED_REVISION: ${{ inputs.approved_revision || '' }}
       GH_TOKEN: ${{ github.token }}
     steps:
       - uses: actions/checkout@v4
