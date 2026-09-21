@@ -1,0 +1,39 @@
+{
+  "id": "politica-gonet-conselho-mpf",
+  "slug": "politica-gonet-conselho-mpf",
+  "section": "politica",
+  "secondarySections": [],
+  "publishedAt": "2026-09-21T12:58:36-03:00",
+  "updatedAt": "2026-09-21T12:58:36-03:00",
+  "sources": [
+    {
+      "name": "CNN Brasil",
+      "url": "https://www.cnnbrasil.com.br/politica/mencoes-a-gonet-no-celular-de-vorcaro-incomodam-membros-do-conselho-do-mp/"
+    }
+  ],
+  "rights": {
+    "mode": "original-report"
+  },
+  "translations": {
+    "pt-BR": {
+      "title": "Conselho do MPF prepara análise de menções a Gonet em mensagens de Vorcaro",
+      "summary": "O colegiado marcou para 25 de setembro a análise de um procedimento interno e ainda não definiu claramente o rito que será seguido.",
+      "paragraphs": [
+        "O Conselho Superior do Ministério Público Federal marcou para 25 de setembro a análise de um procedimento interno sobre menções ao procurador-geral Paulo Gonet em mensagens extraídas do celular de Daniel Vorcaro, segundo a CNN Brasil. O analista Teo Cury disse que integrantes ouvidos relataram surpresa e desconforto.",
+        "A sessão extraordinária está prevista para as 10h e será conduzida pelo colegiado máximo de deliberação do MPF, formado por dez subprocuradores e presidido pelo próprio Gonet. O relator é Francisco de Assis Sanseverino, e o conselho avaliará se há elementos para adotar medidas no caso.",
+        "A reportagem afirma que ainda não está claro se o colegiado discutirá afastamento, suspeição ou imparcialidade. Pessoas próximas a Gonet demonstraram confiança, enquanto a defesa sustenta que a participação em evento patrocinado por alguém que depois virou investigado não basta, por si só, para caracterizar parcialidade."
+      ],
+      "aiSummary": "A reportagem acompanha a sessão marcada pelo Conselho Superior do MPF para examinar menções a Paulo Gonet em mensagens associadas ao caso Banco Master. O rito ainda é incerto, e a defesa afirma que os fatos descritos não bastam para caracterizar parcialidade."
+    },
+    "en": {
+      "title": "Brazil’s Federal Prosecutors Council prepares review of mentions of Gonet in Vorcaro messages",
+      "summary": "The council scheduled a September 25 review of an internal procedure, but the exact process it will follow remains unclear.",
+      "paragraphs": [
+        "Brazil’s Federal Prosecutors Council scheduled a September 25 review of an internal procedure concerning mentions of Prosecutor-General Paulo Gonet in messages extracted from Daniel Vorcaro’s cellphone, CNN Brasil reported. Analyst Teo Cury said members he consulted described surprise and discomfort.",
+        "The extraordinary session is set for 10 a.m. and will be led by the Federal Prosecution Service’s highest deliberative body, made up of ten deputy prosecutors and chaired by Gonet himself. Francisco de Assis Sanseverino is the rapporteur, and the council will assess whether the case contains grounds for action.",
+        "The report says it is still unclear whether the council will discuss removal, recusal or impartiality. People close to Gonet expressed confidence, while his defense argues that attending an event sponsored by someone who later became a subject of investigation does not by itself establish partiality."
+      ],
+      "aiSummary": "The report follows the Federal Prosecutors Council session scheduled to examine mentions of Paulo Gonet in messages connected to the Banco Master case. The procedure remains uncertain, and his defense says the reported facts do not establish partiality."
+    }
+  }
+}

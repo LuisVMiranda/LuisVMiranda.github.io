@@ -1,0 +1,39 @@
+{
+  "id": "brasil-lula-agenda-onu-encontros-bilaterais-2026-09-21",
+  "slug": "lula-agenda-onu-encontros-bilaterais-2026-09-21",
+  "section": "brasil",
+  "secondarySections": ["politica"],
+  "publishedAt": "2026-09-21T13:12:00-03:00",
+  "updatedAt": "2026-09-21T13:12:00-03:00",
+  "sources": [
+    {
+      "name": "Agência Brasil",
+      "url": "https://agenciabrasil.ebc.com.br/radioagencia-nacional/internacional/audio/2026-09/lula-participa-de-encontros-bilaterais-antes-de-discurso-na-onu"
+    }
+  ],
+  "rights": {
+    "mode": "original-report"
+  },
+  "translations": {
+    "pt-BR": {
+      "title": "Lula cumpre agenda de reuniões antes de discurso do Brasil na ONU",
+      "summary": "A agenda em Nova York previa encontros com autoridades do Uruguai, da cidade de Nova York e dos Estados Unidos antes da fala brasileira na Assembleia Geral.",
+      "paragraphs": [
+        "A reportagem informou que Lula estava em Nova York para a semana de alto nível da Assembleia Geral das Nações Unidas e tinha reuniões bilaterais previstas antes do discurso brasileiro. O Brasil mantém a tradição de abrir o debate geral do encontro.",
+        "A agenda descrita incluía reuniões com o presidente uruguaio Yamandú Orsi, o prefeito de Nova York Zohran Mamdani e o senador americano Bernie Sanders. Depois da abertura, também estava previsto um encontro com o secretário-geral da ONU, António Guterres.",
+        "O conteúdo antecipou que Lula defenderia o multilateralismo, a negociação para resolver disputas, o direito humanitário e a reforma das Nações Unidas. Ministros brasileiros também participariam de reuniões do BRICS, da Celac, do Ibas, do G77 e de outros fóruns."
+      ],
+      "aiSummary": "A agenda de Lula em Nova York combinava reuniões bilaterais, a abertura do debate da ONU e defesa do multilateralismo."
+    },
+    "en": {
+      "title": "Lula follows a meeting schedule before Brazil’s U.N. address",
+      "summary": "The New York agenda included meetings with officials from Uruguay, New York City and the United States before Brazil’s speech at the General Assembly.",
+      "paragraphs": [
+        "The report said Lula was in New York for the high-level week of the United Nations General Assembly and had bilateral meetings planned before Brazil’s address. Brazil retains the tradition of opening the general debate.",
+        "The agenda described meetings with Uruguayan President Yamandú Orsi, New York Mayor Zohran Mamdani and U.S. Senator Bernie Sanders. After the opening, a meeting with U.N. Secretary-General António Guterres was also planned.",
+        "The report anticipated that Lula would defend multilateralism, negotiation to resolve disputes, humanitarian law and reform of the United Nations. Brazilian ministers were also due to attend meetings of BRICS, CELAC, IBSA, the G77 and other forums."
+      ],
+      "aiSummary": "Lula’s New York agenda combined bilateral meetings, Brazil’s opening role at the U.N. debate and a defense of multilateralism."
+    }
+  }
+}

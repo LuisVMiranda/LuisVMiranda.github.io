@@ -1,0 +1,40 @@
+{
+  "id": "politica-mulheres-representacao-cota-genero",
+  "slug": "politica-mulheres-representacao-cota-genero",
+  "section": "politica",
+  "secondarySections": [],
+  "publishedAt": "2026-09-21T00:00:00.000Z",
+  "publishedDate": "2026-09-21",
+  "updatedAt": "2026-09-21T00:00:00.000Z",
+  "sources": [
+    {
+      "name": "Correio do Povo",
+      "url": "https://www.correiodopovo.com.br/not%C3%ADcias/pol%C3%ADtica/elei%C3%A7%C3%B5es/nao-basta-assegurar-as-mulheres-o-direito-de-participar-da-politica-e-preciso-criar-condicoes-diz-procuradora-1.1749526"
+    }
+  ],
+  "rights": {
+    "mode": "original-report"
+  },
+  "translations": {
+    "pt-BR": {
+      "title": "Seminário eleitoral expõe barreiras à participação feminina na política",
+      "summary": "Especialistas discutiram representação, fraude à cota de gênero, violência política e desigualdade no acesso a recursos de campanha.",
+      "paragraphs": [
+        "Um seminário do TRE-RS sobre fraude à cota de gênero discutiu as barreiras que mantêm baixa a presença feminina na política. O Correio do Povo informa que as mulheres ocupam 90 das 513 cadeiras da Câmara, ou 17,5%, enquanto a bancada gaúcha tem seis mulheres entre 31 representantes.",
+        "Pesquisadoras e integrantes da Justiça Eleitoral relacionaram a desigualdade ao sistema de lista aberta e a fraudes como candidaturas fictícias, que podem levar à cassação de registros e diplomas, inelegibilidade e nulidade de votos do partido. Também apontaram assédio e violência política como obstáculos.",
+        "O texto registra que mulheres são 53% dos 158,7 milhões de eleitores aptos em 2026, mas representam 35% dos pedidos de registro de candidatura. As participantes defenderam condições materiais, distribuição de recursos e formação de lideranças, além da aplicação das regras que reservam ao menos 30% do financiamento e do tempo de propaganda às candidatas."
+      ],
+      "aiSummary": "O seminário do TRE-RS reuniu dados sobre a baixa representação feminina e os efeitos de fraudes à cota de gênero. As participantes defenderam recursos, proteção contra violência política e condições institucionais para ampliar a presença de mulheres nas eleições."
+    },
+    "en": {
+      "title": "Election seminar highlights barriers to women’s participation in politics",
+      "summary": "Experts discussed representation, gender-quota fraud, political violence and unequal access to campaign resources.",
+      "paragraphs": [
+        "A TRE-RS seminar on gender-quota fraud examined barriers that keep women’s political representation low. Correio do Povo reported that women hold 90 of the Chamber of Deputies’ 513 seats, or 17.5%, while Rio Grande do Sul’s congressional delegation has six women among 31 representatives.",
+        "Researchers and electoral officials linked the gap to Brazil’s open-list system and to practices such as sham candidacies, which can lead to the cancellation of party registrations and elected mandates, ineligibility and invalidation of party votes. They also identified harassment and political violence as obstacles.",
+        "The report says women make up 53% of Brazil’s 158.7 million eligible voters in 2026 but only 35% of registered candidacy requests. Participants called for material support, fairer resource distribution and leadership development, alongside enforcement of rules reserving at least 30% of campaign funding and broadcast time for women."
+      ],
+      "aiSummary": "The TRE-RS seminar presented data on women’s low representation and the effects of gender-quota fraud. Participants called for resources, protection from political violence and institutional conditions that can expand women’s presence in elections."
+    }
+  }
+}

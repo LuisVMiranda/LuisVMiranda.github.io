@@ -1,0 +1,39 @@
+{
+  "id": "brasil-quem-ama-cuida-segredos-familia-brandao-2026-09-21",
+  "slug": "quem-ama-cuida-segredos-familia-brandao-2026-09-21",
+  "section": "brasil",
+  "secondarySections": ["cultura"],
+  "publishedAt": "2026-09-21T13:11:26-03:00",
+  "updatedAt": "2026-09-21T13:11:26-03:00",
+  "sources": [
+    {
+      "name": "Rádio Itatiaia",
+      "url": "https://www.itatiaia.com.br/entretenimento/quem-ama-cuida-tres-segredos-enterrados-vao-explodir-a-familia-brandao/"
+    }
+  ],
+  "rights": {
+    "mode": "original-report"
+  },
+  "translations": {
+    "pt-BR": {
+      "title": "Quem Ama Cuida prepara três revelações para a família Brandão",
+      "summary": "A novela deve avançar com um laudo que pode inocentar Adriana, um documento escondido e uma confissão usada como instrumento de chantagem.",
+      "paragraphs": [
+        "Na trama, Pedro encontra nos arquivos do perito Dalto um laudo segundo o qual Arthur sofreu uma pancada na cabeça antes de cair ou ser empurrado. A descrição da lesão não combina com a versão que responsabiliza Adriana.",
+        "Pedro pretende pedir a revisão criminal para tentar inocentar a fisioterapeuta. A possível prova resolve parte do conflito da personagem, mas desloca o mistério para a identidade de quem teria causado a morte de Arthur.",
+        "A história também abre duas frentes paralelas: um documento ligado ao pai de Brigitte pode estar escondido na antiga casa dos Brandão, enquanto Fábia admite um caso com Arthur e passa a ser pressionada por Pilar."
+      ],
+      "aiSummary": "A novela combina um laudo que pode inocentar Adriana com novos segredos familiares e uma chantagem envolvendo Fábia."
+    },
+    "en": {
+      "title": "Quem Ama Cuida sets up three revelations for the Brandão family",
+      "summary": "The soap opera is set to introduce a report that could clear Adriana, a hidden document and a confession used as leverage.",
+      "paragraphs": [
+        "In the plot, Pedro finds a report in expert Dalto’s files saying that Arthur suffered a blow to the head before falling or being pushed. The injury described does not fit the version that blames Adriana.",
+        "Pedro plans to seek a criminal review to try to clear the physiotherapist. The possible evidence resolves part of her conflict but shifts the mystery toward the identity of the person who may have caused Arthur’s death.",
+        "The story also opens two parallel threads: a document connected to Brigitte’s father may be hidden in the Brandão family’s former house, while Fábia admits an affair with Arthur and is then pressured by Pilar."
+      ],
+      "aiSummary": "The soap opera combines a report that could clear Adriana with new family secrets and blackmail involving Fábia."
+    }
+  }
+}

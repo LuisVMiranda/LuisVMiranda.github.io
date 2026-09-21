@@ -1,0 +1,39 @@
+{
+  "id": "economia-estados-deficit-eleitoral-2026",
+  "slug": "economia-estados-deficit-eleitoral-2026",
+  "section": "economia",
+  "secondarySections": ["brasil", "politica"],
+  "publishedAt": "2026-09-21T05:00:00.583-03:00",
+  "updatedAt": "2026-09-21T05:00:00.583-03:00",
+  "sources": [
+    {
+      "name": "Valor Econômico",
+      "url": "https://valor.globo.com/brasil/noticia/2026/09/21/ciclo-eleitoral-amplia-gasto-e-corroi-resultado-primario-dos-estados.ghtml"
+    }
+  ],
+  "rights": {
+    "mode": "original-report"
+  },
+  "translations": {
+    "pt-BR": {
+      "title": "Estados projetam déficit primário agregado de R$ 36,9 bilhões em 2026",
+      "summary": "LDOs apontam reversão de superávits, com 18 unidades prevendo resultado negativo em ano eleitoral.",
+      "paragraphs": [
+        "As estimativas dos governos estaduais nas Leis de Diretrizes Orçamentárias apontam déficit primário agregado de R$ 36,9 bilhões para os 26 Estados e o Distrito Federal em 2026. O cenário contrasta com os superávits de R$ 51,6 bilhões em 2022, R$ 25,1 bilhões em 2023 e R$ 31,1 bilhões em 2024, além da quase estabilidade registrada no ano passado.",
+        "A deterioração projetada alcança a maior parte das unidades da federação: 18 Estados preveem resultado negativo para este ano, contra sete em 2023. O levantamento combinou dados de execução orçamentária enviados à Secretaria do Tesouro Nacional para 2022 a 2025 com as LDOs estaduais usadas nas estimativas de 2026.",
+        "O Valor relaciona a pressão sobre o resultado primário a investimentos elevados no ciclo eleitoral, contratação de crédito e mudanças associadas ao programa de refinanciamento de dívidas dos Estados. Ainda assim, o resultado abaixo da linha acumulava superávit de R$ 4,98 bilhões de janeiro a julho, enquanto o saldo em 12 meses até julho era deficitário em R$ 9,34 bilhões."
+      ],
+      "aiSummary": "Projeções das LDOs estaduais indicam déficit primário agregado de R$ 36,9 bilhões em 2026, depois de anos de superávit ou estabilidade. O levantamento aponta 18 Estados no vermelho e associa a piora a investimentos do ciclo eleitoral, operações de crédito e mudanças no financiamento das dívidas."
+    },
+    "en": {
+      "title": "Brazilian states project a combined R$36.9 billion primary deficit in 2026",
+      "summary": "Budget guidelines point to a reversal of surpluses, with 18 states forecasting a negative result in an election year.",
+      "paragraphs": [
+        "State governments’ budget-guideline estimates point to a combined primary deficit of R$36.9 billion for Brazil’s 26 states and Federal District in 2026. That would reverse surpluses of R$51.6 billion in 2022, R$25.1 billion in 2023 and R$31.1 billion in 2024, followed by near balance last year.",
+        "The projected deterioration covers most states: 18 forecast a negative result this year, compared with seven in 2023. The survey combined budget-execution data sent to the National Treasury Secretariat for 2022 through 2025 with state budget guidelines used for the 2026 estimates.",
+        "Valor linked the pressure on primary balances to high investment during the election cycle, new borrowing and changes connected to the state-debt refinancing program. The below-the-line balance nevertheless showed a R$4.98 billion surplus from January through July, while the 12-month balance through July was a R$9.34 billion deficit."
+      ],
+      "aiSummary": "State budget guidelines point to a combined R$36.9 billion primary deficit in 2026 after years of surplus or near balance. The survey puts 18 states in the red and links the deterioration to election-year investment, borrowing and changes in debt financing."
+    }
+  }
+}

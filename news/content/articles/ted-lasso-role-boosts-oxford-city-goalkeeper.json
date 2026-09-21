@@ -1,0 +1,39 @@
+{
+  "id": "mundo-20260921-ted-lasso-oxford-city-goalkeeper",
+  "slug": "ted-lasso-role-boosts-oxford-city-goalkeeper",
+  "section": "mundo",
+  "secondarySections": ["cultura", "esportes"],
+  "publishedAt": "2026-09-21T05:14:47.828Z",
+  "updatedAt": "2026-09-21T05:14:47.828Z",
+  "sources": [
+    {
+      "name": "BBC News",
+      "url": "https://www.bbc.com/news/articles/cq8jeq88wk3o"
+    }
+  ],
+  "rights": {
+    "mode": "original-report"
+  },
+  "translations": {
+    "pt-BR": {
+      "title": "Goleira do Oxford City diz que papel em Ted Lasso mudou sua vida",
+      "summary": "Robyn Cullen, de 19 anos, concilia a carreira de goleira na quinta divisão do futebol feminino inglês com uma participação recorrente na quarta temporada da série da Apple TV. Ela interpreta uma goleira também chamada Robyn e relata que o lançamento dos episódios transformou a rotina da família.",
+      "paragraphs": [
+        "Robyn Cullen, goleira de 19 anos do Oxford City, passou a aparecer também na quarta temporada de Ted Lasso. Na série da Apple TV, ela interpreta uma personagem chamada Robyn, igualmente goleira, enquanto continua atuando no quinto nível do futebol feminino inglês.",
+        "A nova temporada mostra o treinador interpretado por Jason Sudeikis assumindo uma equipe feminina fictícia do AFC Richmond. Cullen disse à BBC que o papel ampliou sua visibilidade para além do campo e descreveu a oportunidade como uma mudança decisiva em sua vida.",
+        "Quando o primeiro episódio com sua participação foi lançado, a sala de sua casa ficou cheia de familiares. Cullen contou que a mãe assistiu aos capítulos várias vezes, primeiro sozinha, depois com a filha ou o marido e novamente à noite, transformando a estreia em um acontecimento doméstico."
+      ],
+      "aiSummary": "A reportagem acompanha Robyn Cullen, goleira do Oxford City que também atua como personagem recorrente na quarta temporada de Ted Lasso. A participação aproximou sua carreira esportiva do público da série e virou um evento para sua família."
+    },
+    "en": {
+      "title": "Oxford City goalkeeper says Ted Lasso role changed her life",
+      "summary": "Nineteen-year-old Robyn Cullen combines her career in England’s fifth-tier women’s football with a recurring role in the fourth season of the Apple TV series. She plays a goalkeeper also named Robyn and says the episodes changed her family’s routine.",
+      "paragraphs": [
+        "Robyn Cullen, a 19-year-old goalkeeper for Oxford City, also appears in the fourth season of Ted Lasso. In the Apple TV series she plays a character named Robyn who is also a goalkeeper, while continuing to compete in England’s fifth tier of women’s football.",
+        "The new season follows Jason Sudeikis’ coach as he takes charge of a fictional AFC Richmond women’s team. Cullen told the BBC that the role gave her visibility away from the pitch and described the opportunity as a life-changing experience.",
+        "When the first episode featuring her was released, her living room filled with relatives. Cullen said her mother watched the episodes repeatedly, first alone, then with Cullen or her father and again in the evening, turning the premiere into a family event."
+      ],
+      "aiSummary": "The report follows Robyn Cullen, an Oxford City goalkeeper who also plays a recurring character in Ted Lasso’s fourth season. The role connected her sporting career with the show’s audience and became a major event for her family."
+    }
+  }
+}

@@ -1,119 +1,113 @@
 {
   "section": "politica",
-  "cutoff": "2026-09-21T01:50:54.389Z",
-  "queries": [
-    "Política notícias Brasil",
-    "Brazil latest news politics",
-    "site:agenciabrasil.ebc.com.br/politica/noticia/2026-09 eleições 2026",
-    "site:agenciabrasil.ebc.com.br/politica/noticia/2026-09 TSE eleições",
-    "site:agenciabrasil.ebc.com.br/politica/noticia/2026-09 plano de governo"
-  ],
+  "cutoff": "2026-09-21T16:48:24.436Z",
+  "queries": [],
   "verified": [
     {
-      "articleId": "politica-agenda-presidenciaveis-19-20",
-      "url": "https://agenciabrasil.ebc.com.br/politica/noticia/2026-09/confira-agenda-dos-presidenciaveis-nesta-fim-de-semana-19-e-20",
-      "publishedAt": "2026-09-19T10:01:00-03:00",
-      "evidence": "A página original informa publicação em 19/09/2026 às 10h01 e lista sabatinas, atos, caminhadas e panfletagens dos candidatos nos dias 19 e 20. A recuperação direta da página original foi registrada no run privado, com corpo completo acessível e conferência de data, título e conteúdo.",
-      "selectionReason": "Atualização eleitoral de utilidade pública, com a agenda de campanha dos principais candidatos no fim de semana.",
+      "articleId": "politica-stf-moraes-vorcaro-jato",
+      "url": "https://valorinternational.globo.com/politics/news/2026/09/21/new-disclosure-deepens-turmoil-at-brazils-supreme-court.ghtml",
+      "publishedAt": "2026-09-21T08:01:37.995-03:00",
+      "evidence": "Complete extraction file(s) 5cdcd8592225.json, 05b53931e8e6.json (HTTP 200, complete:true), published 2026-09-21; The complete Valor extraction reports renewed scrutiny of the STF after a video showing Alexandre de Moraes and Viviane Barci de Moraes using a jet attributed by federal police to Prime You, links the disclosure to messages from Daniel Vorcaro’s cellphone, describes uncertainty over Banco Master proceedings, and records the law firm’s response. The complete CNN extraction independently reports the video, aircraft link, and the same law-firm explanation. Independent corroboration URL included from the complete CNN Brasil extraction; no claim beyond the overlapping video, aircraft attribution, and law-firm response was added.",
+      "selectionReason": "Current, high-impact institutional story with two complete reputable extractions covering the same disclosure; the copy attributes disputed points and includes independent corroboration.",
       "contentReview": {
         "bodyComplete": true,
         "aiSummaryReviewed": true
       }
     },
     {
-      "articleId": "politica-rui-costa-pimenta-plano",
-      "url": "https://agenciabrasil.ebc.com.br/politica/noticia/2026-09/rui-costa-pimenta-quer-ampliar-direitos-trabalhistas-e-verbas-da-saude",
-      "publishedAt": "2026-09-19T08:30:00-03:00",
-      "evidence": "A página original informa publicação em 19/09/2026 às 8h30 e apresenta o plano do candidato do PCO, com propostas para saúde pública e direitos trabalhistas. A recuperação direta da página original foi registrada no run privado, com corpo completo acessível e conferência de data, título e conteúdo.",
-      "selectionReason": "Inclui uma candidatura presidencial e propostas que alterariam políticas sociais e relações de trabalho.",
+      "articleId": "politica-gonet-conselho-mpf",
+      "url": "https://www.cnnbrasil.com.br/politica/mencoes-a-gonet-no-celular-de-vorcaro-incomodam-membros-do-conselho-do-mp/",
+      "publishedAt": "2026-09-21T12:58:36-03:00",
+      "evidence": "Complete extraction file(s) 1270494ab4c8.json (HTTP 200, complete:true), published 2026-09-21; The complete CNN extraction schedules a September 25 CSMPF session about mentions of Paulo Gonet in messages extracted from Daniel Vorcaro’s cellphone, identifies the council’s composition and rapporteur, and records uncertainty about whether the session will address removal, recusal or impartiality. It also attributes confidence to people close to Gonet and describes the defense position. No independent complete extraction in the current politica run verifies this exact CSMPF procedure; the article is limited to attributed procedural facts and positions from the complete CNN report.",
+      "selectionReason": "Current and institutionally relevant procedural report; the draft preserves attribution, distinguishes pending decisions from established facts, and avoids treating the underlying messages as proven misconduct.",
       "contentReview": {
         "bodyComplete": true,
         "aiSummaryReviewed": true
       }
     },
     {
-      "articleId": "politica-caiado-governo-transformador",
-      "url": "https://agenciabrasil.ebc.com.br/politica/noticia/2026-09/caiado-promete-governo-transformador-e-reformas-estruturais",
-      "publishedAt": "2026-09-19T08:15:00-03:00",
-      "evidence": "A página original informa publicação em 19/09/2026 às 8h15 e descreve o plano de Ronaldo Caiado, com foco declarado em cooperação entre Poderes, responsabilidade fiscal e segurança. A recuperação direta da página original foi registrada no run privado, com corpo completo acessível e conferência de data, título e conteúdo.",
-      "selectionReason": "Proposta de governo de candidatura competitiva, com efeitos previstos sobre segurança, economia e coordenação institucional.",
+      "articleId": "politica-dino-publicidade-bets-mg",
+      "url": "https://www.cnnbrasil.com.br/politica/dino-rejeita-liminar-e-mantem-decreto-que-proibe-publicidade-de-bets-em-mg/",
+      "publishedAt": "2026-09-21T12:37:31-03:00",
+      "evidence": "Complete extraction file(s) 623b4bc1ec31.json (HTTP 200, complete:true), published 2026-09-21; The complete CNN extraction reports that Justice Flávio Dino rejected an industry injunction request, upheld Minas Gerais restrictions on betting and adult-content advertising on state property and at events, explained the state-competence reasoning, and summarized the decision’s public-health, consumer and security grounds. No independent complete extraction in the current politica run verifies this specific ruling; it is a low-risk procedural report based on one complete CNN extraction.",
+      "selectionReason": "Current formal court decision with direct public-policy consequences and a complete reputable extraction; the copy reports the ruling and its stated legal reasoning without adding outside claims.",
       "contentReview": {
         "bodyComplete": true,
         "aiSummaryReviewed": true
       }
     },
     {
-      "articleId": "politica-renan-plano-previdencia",
-      "url": "https://agenciabrasil.ebc.com.br/politica/noticia/2026-09/renan-propoe-cortes-na-previdencia-e-alterar-pisos-da-saude-e-educacao",
-      "publishedAt": "2026-09-19T08:00:00-03:00",
-      "evidence": "A página original informa publicação em 19/09/2026 às 8h e detalha o plano de Renan Santos, incluindo ajuste fiscal, mudanças na Previdência e desvinculação dos pisos de saúde e educação. A recuperação direta da página original foi registrada no run privado, com corpo completo acessível e conferência de data, título e conteúdo.",
-      "selectionReason": "Propostas fiscais e sociais de impacto direto sobre benefícios e financiamento de serviços públicos.",
+      "articleId": "politica-bachelet-onu-mulher-latina",
+      "url": "https://g1.globo.com/politica/noticia/2026/09/21/apos-bachelet-desistir-de-concorrer-a-onu-brasil-defende-que-regiao-tem-mulheres-a-altura-do-cargo.ghtml",
+      "publishedAt": "2026-09-21T08:06:18.924-03:00",
+      "evidence": "Complete extraction file(s) 1a43ffb5b7df.json (HTTP 200, complete:true), published 2026-09-21; The complete G1 extraction reports the Itamaraty statement after Michelle Bachelet withdrew, Brazil’s continued preference for a Latin American woman to succeed António Guterres, the absence of a named replacement, and Lula’s scheduled September 22 UN speech with expectations attributed to interlocutors. No independent complete extraction in the current politica run verifies the Bachelet withdrawal and Brazil’s position; the copy separates the official statement from attributed expectations about Lula’s speech.",
+      "selectionReason": "Current foreign-policy story directly involving Brazil’s diplomatic position and an official Itamaraty statement; pending choices and attributed expectations are clearly labeled.",
       "contentReview": {
         "bodyComplete": true,
         "aiSummaryReviewed": true
       }
     },
     {
-      "articleId": "politica-milton-leite-pcc",
-      "url": "https://agenciabrasil.ebc.com.br/politica/noticia/2026-09/ex-vereador-milton-leite-se-entrega-policia-apos-operacao-contra-pcc",
-      "publishedAt": "2026-09-18T18:29:00-03:00",
-      "evidence": "A página original informa publicação em 18/09/2026 às 18h29 e relata a entrega de Milton Leite à polícia após operação que investiga a atuação do PCC no transporte coletivo de São Paulo. A recuperação direta da página original foi registrada no run privado, com corpo completo acessível e conferência de data, título e conteúdo.",
-      "selectionReason": "Fato político-policial relevante, confirmado por fonte jornalística pública e ligado a uma investigação em andamento.",
+      "articleId": "politica-celular-cabine-votacao",
+      "url": "https://g1.globo.com/politica/eleicoes/2026/videos/noticia/2026/09/21/video-posso-usar-o-celular-durante-a-votacao.ghtml",
+      "publishedAt": "2026-09-21T00:00:00.689-03:00",
+      "evidence": "Complete extraction file(s) 564b635e9a04.json (HTTP 200, complete:true), published 2026-09-21; The complete G1 extraction explains that phones, cameras and other recording or transmission devices are prohibited inside the voting booth, that a phone may be brought to the polling station but must be left with the poll worker, and that refusal can block voting. Routine low-risk voter-service report; one complete reputable G1 extraction is sufficient under the selection rules.",
+      "selectionReason": "Current practical election guidance with clear public-service value and a complete reputable extraction; no disputed allegation or extrapolation is used.",
       "contentReview": {
         "bodyComplete": true,
         "aiSummaryReviewed": true
       }
     },
     {
-      "articleId": "politica-candidatos-prisao-eleicoes",
-      "url": "https://agenciabrasil.ebc.com.br/politica/noticia/2026-09/candidatos-nao-poderao-ser-presos-partir-deste-sabado",
-      "publishedAt": "2026-09-18T12:10:00-03:00",
-      "evidence": "A página original informa publicação em 18/09/2026 às 12h10 e explica a regra do Código Eleitoral que restringe prisões de candidatos a partir de 19 de setembro, salvo flagrante. A recuperação direta da página original foi registrada no run privado, com corpo completo acessível e conferência de data, título e conteúdo.",
-      "selectionReason": "Regra eleitoral com efeito imediato sobre candidatos, autoridades e a cobertura do primeiro turno.",
+      "articleId": "politica-mulheres-representacao-cota-genero",
+      "url": "https://www.correiodopovo.com.br/not%C3%ADcias/pol%C3%ADtica/elei%C3%A7%C3%B5es/nao-basta-assegurar-as-mulheres-o-direito-de-participar-da-politica-e-preciso-criar-condicoes-diz-procuradora-1.1749526",
+      "publishedAt": "2026-09-21T00:00:00.000Z",
+      "evidence": "Complete extraction file(s) 465b7c139197.json (HTTP 200, complete:true), published 2026-09-21; The complete Correio do Povo extraction is dated September 21 and reports a TRE-RS seminar on women’s representation and gender-quota fraud, including chamber representation figures, possible electoral consequences of sham candidacies, violence and harassment concerns, and 2026 voter and candidacy proportions. No independent complete extraction in the current politica run covers this seminar; the source is a complete, dated report and the draft preserves its figures and expert attributions.",
+      "selectionReason": "Current civic-policy report with concrete representation data and a dated institutional event; selected as an in-scope, low-risk democracy and elections story despite calendar-date-only publication metadata.",
       "contentReview": {
         "bodyComplete": true,
         "aiSummaryReviewed": true
       }
     },
     {
-      "articleId": "politica-lula-plano-governo",
-      "url": "https://agenciabrasil.ebc.com.br/politica/noticia/2026-09/lula-propoe-criar-ministerio-da-seguranca-e-aumento-real-do-minimo",
-      "publishedAt": "2026-09-18T08:00:00-03:00",
-      "evidence": "A página original informa publicação em 18/09/2026 às 8h e resume o plano de governo de Lula, incluindo Ministério da Segurança Pública, valorização do salário mínimo e expansão da Farmácia Popular. A recuperação direta da página original foi registrada no run privado, com corpo completo acessível e conferência de data, título e conteúdo.",
-      "selectionReason": "Apresenta propostas da campanha de reeleição do presidente em temas centrais de segurança, renda e saúde.",
+      "articleId": "politica-doacoes-privadas-eleicoes",
+      "url": "https://valorinternational.globo.com/politics/news/2026/09/21/right-center-lead-brazils-private-campaign-fundraising.ghtml",
+      "publishedAt": "2026-09-21T09:24:08.578-03:00",
+      "evidence": "Complete extraction file(s) b34acc2a3a18.json (HTTP 200, complete:true), published 2026-09-21; The complete Valor extraction analyzes open TSE data updated through September 18, reports the leading role of right-wing and centrist parties in private donations, gives the R$415.7 million and R$4.6 billion comparisons, identifies geographic and demographic concentration, and explains reporting deadlines and the 10% cap. No independent complete extraction in the current politica run verifies this dataset analysis; the draft attributes the figures to Valor’s analysis of open TSE data and avoids presenting researchers’ explanations as settled causation.",
+      "selectionReason": "Current election-finance data report from a reputable outlet, grounded in open TSE data and clearly separated from researchers’ interpretations; it adds distinct electoral accountability coverage.",
       "contentReview": {
         "bodyComplete": true,
         "aiSummaryReviewed": true
       }
     },
     {
-      "articleId": "politica-leonardo-avalanche-plano",
-      "url": "https://agenciabrasil.ebc.com.br/politica/noticia/2026-09/leonardo-avalanche-quer-reduzir-impostos-e-zerar-fila-do-sus",
-      "publishedAt": "2026-09-18T07:45:00-03:00",
-      "evidence": "A página original informa publicação em 18/09/2026 às 7h45 e apresenta o plano de Leonardo Avalanche, com promessa de reduzir impostos e zerar a fila do SUS. A recuperação direta da página original foi registrada no run privado, com corpo completo acessível e conferência de data, título e conteúdo.",
-      "selectionReason": "Propostas de política econômica e saúde pública com consequências nacionais e verificáveis no programa apresentado.",
+      "articleId": "politica-palver-anistia-8-janeiro",
+      "url": "https://www.cnnbrasil.com.br/politica/palver-47-sao-contra-anistia-a-presos-do-8-de-janeiro-46-aprovam/",
+      "publishedAt": "2026-09-21T10:31:07-03:00",
+      "evidence": "Complete extraction file(s) d9d8bcba4c03.json (HTTP 200, complete:true), published 2026-09-21; The complete CNN extraction reports Palver’s 47%-46% result on possible amnesty for people convicted over January 8, the 5,000-person online sample, field dates, margin of error, confidence level and TSE registration, plus the report’s contextual figures on damage. Routine survey-result report; one complete reputable extraction is used, with methodology and registration details preserved and no causal conclusion added.",
+      "selectionReason": "Current, methodologically described election-related result report with a distinct public-opinion angle; the near tie is reported with the stated margin of error and registration details.",
       "contentReview": {
         "bodyComplete": true,
         "aiSummaryReviewed": true
       }
     },
     {
-      "articleId": "politica-hertz-dias-plano",
-      "url": "https://agenciabrasil.ebc.com.br/politica/noticia/2026-09/fim-da-escala-6x1-e-de-privatizacoes-e-prioridade-de-hertz-dias",
-      "publishedAt": "2026-09-18T07:30:00-03:00",
-      "evidence": "A página original informa publicação em 18/09/2026 às 7h30 e registra as prioridades do plano de Hertz Dias, como fim da escala 6x1, revogação das reformas trabalhista e previdenciária e reestatizações. A recuperação direta da página original foi registrada no run privado, com corpo completo acessível e conferência de data, título e conteúdo.",
-      "selectionReason": "Propostas eleitorais com impacto direto nas relações de trabalho, serviços públicos e organização econômica.",
+      "articleId": "politica-lula-neutralidade-centro",
+      "url": "https://valorinternational.globo.com/politics/news/2026/09/21/lula-campaign-courts-centrist-neutrality-for-possible-runoff.ghtml",
+      "publishedAt": "2026-09-21T12:32:29.909-03:00",
+      "evidence": "Complete extraction file(s) 7e92a8c1ce02.json (HTTP 200, complete:true), published 2026-09-21; The complete Valor extraction reports Lula campaign efforts to keep centrist parties neutral in a possible runoff, identifies the reported positions of PSD, União Brasil and Republicanos, notes uncertainty around Progressistas, and describes the October 6 meeting planned to define that party’s national position. No independent complete extraction in the current politica run verifies the internal campaign talks; the draft attributes campaign assessments and party positions to the Valor report and does not present private-source claims as independently confirmed.",
+      "selectionReason": "Current election-strategy report from a reputable political desk, selected because its core points are attributed to named parties or campaign sources and it adds a distinct coalition-building angle without repeating the fundraising or polling stories.",
       "contentReview": {
         "bodyComplete": true,
         "aiSummaryReviewed": true
       }
     },
     {
-      "articleId": "politica-flavio-bolsonaro-plano",
-      "url": "https://agenciabrasil.ebc.com.br/politica/noticia/2026-09/flavio-bolsonaro-propoe-enxugar-estado-e-endurecer-acoes-de-seguranca",
-      "publishedAt": "2026-09-18T07:15:00-03:00",
-      "evidence": "A página original informa publicação em 18/09/2026 às 7h15 e descreve o plano de Flávio Bolsonaro, com corte de ministérios, endurecimento penal e compartilhamento de dados do SUS com a rede privada. A recuperação direta da página original foi registrada no run privado, com corpo completo acessível e conferência de data, título e conteúdo.",
-      "selectionReason": "Plano de candidatura presidencial com propostas de grande alcance em administração pública, segurança e saúde.",
+      "articleId": "politica-luto-djalma-flores",
+      "url": "https://midiamax.com.br/politica/2026/camara-campo-grande-decreta-luto-3-dias-morte-ex-vereador-djalma-flores/",
+      "publishedAt": "2026-09-21T13:31:44+00:00",
+      "evidence": "Complete extraction file(s) e5b1033466dd.json (HTTP 200, complete:true), published 2026-09-21; The complete Midiamax extraction reports the Campo Grande council’s three-day mourning decree, the gazette publication and half-staff order, and biographical facts about Djalma Flores Blans’s death, medical career, council service and book. Routine low-risk local institutional report; one complete reputable extraction is sufficient, and navigation, promotion and unrelated trending items were excluded.",
+      "selectionReason": "Current, low-risk civic report documenting an official local legislative act; it is distinct from the national election, court and campaign stories and uses only the substantive portion of the complete extraction.",
       "contentReview": {
         "bodyComplete": true,
         "aiSummaryReviewed": true
@@ -125,7 +119,7 @@
     "en": ""
   },
   "improvements": [],
-  "candidateRun": "research/runs/2026-09-21T01-50-54-389Z-6be61b14-2359-4471-ba3a-c9604ea7effa",
-  "retrievedAt": "2026-09-21T02:05:00Z",
+  "candidateRun": "research/runs/2026-09-21T16-48-24-436Z-221c0d1e-a836-45cb-b034-62c6ef37c843",
+  "retrievedAt": "2026-09-21T18:03:53.289Z",
   "reviewStatus": "draft-source-verified-no-publication-approval"
 }

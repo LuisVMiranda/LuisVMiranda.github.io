@@ -1,0 +1,39 @@
+{
+  "id": "brasil-presley-gerber-morre-2026-09-21",
+  "slug": "presley-gerber-morre-2026-09-21",
+  "section": "brasil",
+  "secondarySections": ["cultura"],
+  "publishedAt": "2026-09-21T01:32:37-03:00",
+  "updatedAt": "2026-09-21T01:32:37-03:00",
+  "sources": [
+    {
+      "name": "CNN Brasil",
+      "url": "https://www.cnnbrasil.com.br/pop/celebridades/filho-de-cindy-crawford-modelo-presley-gerber-morre-aos-27-anos/"
+    }
+  ],
+  "rights": {
+    "mode": "original-report"
+  },
+  "translations": {
+    "pt-BR": {
+      "title": "Modelo Presley Gerber morre aos 27 anos",
+      "summary": "O representante do filho de Cindy Crawford confirmou a morte; o instituto médico-legal informou que ele estava em uma clínica de reabilitação e não divulgou a causa.",
+      "paragraphs": [
+        "Presley Gerber, filho da modelo Cindy Crawford, morreu aos 27 anos, segundo confirmação de seu representante. O Instituto Médico Legal do Condado de Los Angeles informou que a morte ocorreu no domingo, enquanto ele estava em uma clínica de reabilitação.",
+        "A causa da morte não foi divulgada. O assessor de Crawford pediu privacidade para a família durante o período de luto.",
+        "Gerber começou a carreira de modelo ainda adolescente, desfilou para marcas internacionais e também participou de campanhas publicitárias. Nos últimos anos, falou publicamente sobre saúde mental e criou uma iniciativa chamada Mental Health Mondays, de acordo com sua agência."
+      ],
+      "aiSummary": "Presley Gerber morreu aos 27 anos; a família pediu privacidade e a causa da morte não foi divulgada."
+    },
+    "en": {
+      "title": "Model Presley Gerber dies at 27",
+      "summary": "The son of Cindy Crawford was confirmed dead by his representative; the coroner said he was in a rehabilitation clinic and did not disclose a cause.",
+      "paragraphs": [
+        "Presley Gerber, model and son of Cindy Crawford, died at 27, according to confirmation from his representative. The Los Angeles County coroner said he died on Sunday while in a rehabilitation clinic.",
+        "The cause of death was not disclosed. Crawford’s publicist asked for privacy for the family during the grieving period.",
+        "Gerber began modeling as a teenager, walked for international brands and appeared in advertising campaigns. In recent years, he spoke publicly about mental health and created an initiative called Mental Health Mondays, according to his agency."
+      ],
+      "aiSummary": "Presley Gerber died at 27; his family requested privacy and the cause of death was not disclosed."
+    }
+  }
+}

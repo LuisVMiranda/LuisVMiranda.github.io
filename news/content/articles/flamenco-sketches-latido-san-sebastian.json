@@ -1,0 +1,40 @@
+{
+  "id": "cultura-flamenco-sketches-latido-san-sebastian",
+  "slug": "flamenco-sketches-latido-san-sebastian",
+  "section": "cultura",
+  "secondarySections": [],
+  "publishedAt": "2026-09-21T05:15:00+00:00",
+  "publishedDate": "2026-09-21",
+  "updatedAt": "2026-09-21T05:15:00+00:00",
+  "sources": [
+    {
+      "name": "Variety",
+      "url": "https://variety.com/2026/film/global/isaki-lacuesta-flamenco-sketches-latido-san-sebastian-1236870389/"
+    }
+  ],
+  "rights": {
+    "mode": "original-report"
+  },
+  "translations": {
+    "pt-BR": {
+      "title": "Latido adquire direitos internacionais de Flamenco Sketches, de Isaki Lacuesta",
+      "summary": "O filme, que encerra a seção Zabaltegi-Tabakalera do Festival de San Sebastián, percorre a história do flamenco por meio de imagens de arquivo e associações com a vanguarda artística.",
+      "paragraphs": [
+        "A distribuidora espanhola Latido Films adquiriu os direitos internacionais de Flamenco Sketches, novo longa de Isaki Lacuesta que será exibido nesta semana no Festival de San Sebastián. O filme encerra a seção Zabaltegi-Tabakalera do evento.",
+        "Em vez de apresentar uma história linear, a produção usa um grande conjunto de imagens de arquivo para atravessar diferentes momentos do flamenco. O percurso vai das primeiras aparições do gênero no século XIX a registros de Carmencita feitos por Thomas Edison e às relações com artistas da vanguarda.",
+        "O projeto trata o flamenco como uma forma viva, marcada por mutações e contradições, e reúne vozes ligadas à música, à dança e às artes visuais. A Latido fará as vendas mundiais fora da Espanha, enquanto a produção é assinada por Lastor Media, Goroka Contents e La Termita Films."
+      ],
+      "aiSummary": "A Latido comprou os direitos internacionais de Flamenco Sketches, filme de Isaki Lacuesta que revisita a história do flamenco com imagens de arquivo e uma estrutura não linear."
+    },
+    "en": {
+      "title": "Latido acquires international rights to Isaki Lacuesta’s Flamenco Sketches",
+      "summary": "The film, which closes San Sebastian’s Zabaltegi-Tabakalera section, explores flamenco’s history through archival images and links to the artistic avant-garde.",
+      "paragraphs": [
+        "Spanish distributor Latido Films has acquired international rights to Flamenco Sketches, the new feature by Isaki Lacuesta that will screen this week at the San Sebastian Film Festival. The film will close the festival’s Zabaltegi-Tabakalera section.",
+        "Rather than tell a linear history, the production uses a large archive of images to move through different moments in flamenco. Its journey runs from the form’s first appearances in the 19th century to Thomas Edison’s footage of Carmencita and its connections with avant-garde artists.",
+        "The project treats flamenco as a living form shaped by mutations and contradictions, bringing together voices from music, dance and visual art. Latido will handle worldwide sales outside Spain, while the film is produced by Lastor Media, Goroka Contents and La Termita Films."
+      ],
+      "aiSummary": "Latido has acquired international rights to Isaki Lacuesta’s Flamenco Sketches, a non-linear archival exploration of flamenco’s history and evolution."
+    }
+  }
+}

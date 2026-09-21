@@ -1,0 +1,40 @@
+{
+  "id": "cultura-palmas-cinema-sessoes-acessiveis",
+  "slug": "palmas-cinema-sessoes-acessiveis-tea",
+  "section": "cultura",
+  "secondarySections": [],
+  "publishedAt": "2026-09-21T11:51:00-03:00",
+  "publishedDate": "2026-09-21",
+  "updatedAt": "2026-09-21T11:51:00-03:00",
+  "sources": [
+    {
+      "name": "Agência Brasil",
+      "url": "https://agenciabrasil.ebc.com.br/radioagencia-nacional/cultura/audio/2026-09/palmas-aprova-sessoes-de-cinema-adaptadas-para-jovens-com-tea"
+    }
+  ],
+  "rights": {
+    "mode": "original-report"
+  },
+  "translations": {
+    "pt-BR": {
+      "title": "Palmas passa a exigir sessões de cinema adaptadas para jovens com TEA",
+      "summary": "Lei sancionada na capital do Tocantins determina ao menos uma sessão mensal com luzes parcialmente acesas, som reduzido e liberdade para entrar ou sair da sala.",
+      "paragraphs": [
+        "As salas de cinema de Palmas deverão oferecer pelo menos uma sessão adaptada por mês para crianças e adolescentes com transtorno do espectro autista e seus acompanhantes. A medida está prevista na Lei nº 3.496, sancionada pelo prefeito Eduardo Siqueira Campos.",
+        "As exibições terão iluminação mais suave, com as luzes parcialmente acesas, e volume de som inferior ao das sessões convencionais. O público também poderá entrar ou sair da sala a qualquer momento, de acordo com suas necessidades.",
+        "A proposta é criar um ambiente mais acolhedor para pessoas com necessidades sensoriais específicas. A regra vale para todas as salas instaladas na capital e já está em vigor."
+      ],
+      "aiSummary": "Palmas adotou sessões mensais de cinema adaptadas para jovens com TEA, com menor estímulo sonoro e luminoso e maior flexibilidade durante a exibição."
+    },
+    "en": {
+      "title": "Palmas requires adapted cinema screenings for young people with autism",
+      "summary": "A law in the Tocantins capital requires at least one monthly screening with partially lit rooms, lower sound and freedom to enter or leave the theater.",
+      "paragraphs": [
+        "Cinemas in Palmas must offer at least one adapted screening each month for children and teenagers with autism spectrum disorder and their companions. The requirement is set out in Law 3,496, sanctioned by Mayor Eduardo Siqueira Campos.",
+        "The screenings will use softer lighting, with the lights partially on, and lower sound than conventional showings. Audiences may also enter or leave the theater at any time according to their needs.",
+        "The measure is intended to provide a more welcoming setting for people with specific sensory needs. It applies to every cinema in the capital and is already in force."
+      ],
+      "aiSummary": "Palmas has adopted monthly cinema screenings adapted for young people with autism, reducing sound and lighting stimulation while allowing greater flexibility during the film."
+    }
+  }
+}

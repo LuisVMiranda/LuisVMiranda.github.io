@@ -1,0 +1,39 @@
+{
+  "id": "esportes-guarani-saf-20260921",
+  "slug": "esportes-guarani-saf-20260921",
+  "section": "esportes",
+  "secondarySections": [],
+  "publishedAt": "2026-09-21T08:26:02.465-03:00",
+  "updatedAt": "2026-09-21T08:26:02.465-03:00",
+  "sources": [
+    {
+      "name": "ge.globo.com",
+      "url": "https://ge.globo.com/sp/campinas-e-regiao/futebol/times/guarani/noticia/2026/09/21/guarani-tem-semana-decisiva-para-discutir-e-votar-proposta-de-saf.ghtml"
+    }
+  ],
+  "rights": {
+    "mode": "original-report"
+  },
+  "translations": {
+    "pt-BR": {
+      "title": "Guarani prepara votação de proposta de SAF nesta sexta-feira",
+      "summary": "Clube fará duas reuniões antes de avaliar o projeto apresentado pelo empresário Roberto Graziano.",
+      "paragraphs": [
+        "O Guarani marcou duas reuniões de esclarecimento para segunda e quarta-feira antes da votação da proposta de constituição de uma SAF, prevista para sexta-feira, dia 25.",
+        "A assembleia terá formato híbrido, com primeira chamada às 15h30 e votação aberta até as 20h. O projeto apresentado por Roberto Graziano prevê investimento total de R$ 1,075 bilhão.",
+        "O plano distribui recursos entre a operação da SAF e do clube social, um novo estádio, um centro de treinamento e o passivo da recuperação judicial. Pelo modelo proposto, o Guarani ficaria com 10% da SAF e o grupo de Graziano com 90%."
+      ],
+      "aiSummary": "O Guarani fará reuniões antes de votar, em 25 de setembro, uma proposta de SAF com investimento previsto de R$ 1,075 bilhão."
+    },
+    "en": {
+      "title": "Guarani prepares to vote on SAF proposal this Friday",
+      "summary": "The club will hold two meetings before considering the project presented by businessman Roberto Graziano.",
+      "paragraphs": [
+        "Guarani scheduled two clarification meetings for Monday and Wednesday before a vote on the proposed creation of a SAF, set for Friday, September 25.",
+        "The assembly will use a hybrid format, with the first call at 3:30 p.m. and voting open until 8 p.m. The project presented by Roberto Graziano calls for total investment of 1.075 billion reais.",
+        "The plan allocates funds to the SAF and social club operations, a new stadium, a training center and judicial-recovery liabilities. Under the proposal, Guarani would retain 10% of the SAF and Graziano's group would hold 90%."
+      ],
+      "aiSummary": "Guarani will meet before voting on September 25 on a SAF proposal calling for 1.075 billion reais in planned investment."
+    }
+  }
+}

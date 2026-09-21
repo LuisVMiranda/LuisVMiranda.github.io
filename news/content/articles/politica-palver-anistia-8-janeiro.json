@@ -1,0 +1,39 @@
+{
+  "id": "politica-palver-anistia-8-janeiro",
+  "slug": "politica-palver-anistia-8-janeiro",
+  "section": "politica",
+  "secondarySections": [],
+  "publishedAt": "2026-09-21T10:31:07-03:00",
+  "updatedAt": "2026-09-21T10:31:07-03:00",
+  "sources": [
+    {
+      "name": "CNN Brasil",
+      "url": "https://www.cnnbrasil.com.br/politica/palver-47-sao-contra-anistia-a-presos-do-8-de-janeiro-46-aprovam/"
+    }
+  ],
+  "rights": {
+    "mode": "original-report"
+  },
+  "translations": {
+    "pt-BR": {
+      "title": "Pesquisa Palver divide opiniões sobre anistia pelos atos de 8 de janeiro",
+      "summary": "Levantamento registrado no TSE aponta 47% contra e 46% a favor de eventual anistia aos condenados, dentro da margem de erro.",
+      "paragraphs": [
+        "Pesquisa do Instituto Palver aponta divisão estreita sobre uma eventual anistia aos condenados pelos atos de 8 de janeiro de 2023: 47% dos entrevistados são contra e 46% aprovam, enquanto 6% não souberam responder.",
+        "O levantamento ouviu 5.000 eleitores em entrevistas online entre 15 e 18 de setembro, com margem de erro de três pontos percentuais e intervalo de confiança de 95%. A pesquisa foi registrada no TSE sob o protocolo BR-00860/2026.",
+        "A pergunta foi feita no contexto do debate sobre a invasão e depredação das sedes dos Três Poderes. A reportagem também relembra que a Câmara estimou mais de R$ 3 milhões em danos a equipamentos e que a Procuradoria-Geral da República calculou prejuízo total acima de R$ 20 milhões."
+      ],
+      "aiSummary": "A pesquisa Palver mostra empate técnico sobre uma possível anistia aos condenados pelos atos de 8 de janeiro, com 47% contra e 46% a favor. O levantamento ouviu 5.000 eleitores, foi registrado no TSE e contextualiza o debate com os danos atribuídos à depredação."
+    },
+    "en": {
+      "title": "Palver poll finds Brazil split over amnesty for January 8 convictions",
+      "summary": "A TSE-registered survey finds 47% opposed and 46% in favor of a possible amnesty, within the poll’s margin of error.",
+      "paragraphs": [
+        "A Palver Institute poll finds a narrow split over a possible amnesty for people convicted over the January 8, 2023 attacks: 47% of respondents oppose it and 46% approve, while 6% did not answer.",
+        "The online survey interviewed 5,000 voters from September 15 to 18, with a margin of error of three percentage points and a 95% confidence level. It was registered with Brazil’s Superior Electoral Court under protocol BR-00860/2026.",
+        "The question was asked in the context of debate over the invasion and vandalism of the seats of Brazil’s three branches of government. The report also recalls congressional estimates of more than R$3 million in equipment damage and a Prosecutor-General’s Office estimate of total losses above R$20 million."
+      ],
+      "aiSummary": "The Palver poll shows a statistical tie over a possible amnesty for people convicted over January 8, with 47% opposed and 46% in favor. The survey interviewed 5,000 voters, was registered with the electoral court and places the debate alongside estimates of the destruction’s cost."
+    }
+  }
+}

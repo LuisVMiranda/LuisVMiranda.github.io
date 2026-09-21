@@ -1,0 +1,40 @@
+{
+  "id": "ciencia-ai-co-cientista",
+  "slug": "ciencia-ai-co-cientista",
+  "section": "ciencia",
+  "secondarySections": [],
+  "publishedAt": "2026-09-21T00:00:00.000Z",
+  "publishedDate": "2026-09-21",
+  "updatedAt": "2026-09-21T00:00:00.000Z",
+  "sources": [
+    {
+      "name": "Nature",
+      "url": "https://www.nature.com/articles/d41586-026-02931-5"
+    }
+  ],
+  "rights": {
+    "mode": "original-report"
+  },
+  "translations": {
+    "pt-BR": {
+      "title": "Sistemas de IA com múltiplos agentes ganham espaço na pesquisa científica",
+      "summary": "A Nature descreve ferramentas que geram e criticam hipóteses usando vários agentes de inteligência artificial, mas dependem de avaliação humana.",
+      "paragraphs": [
+        "A ferramenta Co-Scientist, descrita pela Nature, não produz apenas uma resposta em uma única etapa. Ela aciona vários sistemas autônomos para buscar e sintetizar artigos, comparar explicações, refinar hipóteses, fazer críticas e confrontar ideias com evidências publicadas.",
+        "A bioquímica Anna Pertl usou o sistema para procurar formas práticas e pouco óbvias de interferir na proteína MYC, ligada à maioria dos cânceres, aproveitando conhecimentos sobre condensados moleculares. O pedido partia de anos de pesquisa de seu grupo sobre como essas estruturas regulam genes e podem ser exploradas por células cancerosas.",
+        "O processo exige grande capacidade computacional e não elimina a necessidade de especialistas. A reportagem apresenta esses sistemas como colaboradores para formular hipóteses, planejar investigações e analisar dados, enquanto os pesquisadores continuam responsáveis por decidir quais propostas fazem sentido e podem ser testadas."
+      ],
+      "aiSummary": "A Nature relata o uso de agentes de IA que trabalham em conjunto para pesquisar literatura, gerar hipóteses e criticá-las com base em evidências. O caso também reforça que a interpretação científica e a decisão sobre testes continuam dependendo de pesquisadores humanos."
+    },
+    "en": {
+      "title": "Multi-agent AI systems are gaining ground in scientific research",
+      "summary": "Nature describes tools that generate and challenge hypotheses through several AI agents while still relying on human evaluation.",
+      "paragraphs": [
+        "The Co-Scientist tool described by Nature does not produce only one answer in a single pass. It launches several autonomous systems to search and synthesize papers, compare explanations, refine hypotheses, critique them and test ideas against published evidence.",
+        "Biochemist Anna Pertl used the system to look for practical and non-obvious ways to interfere with the MYC protein, which is linked to most cancers, by drawing on research about molecular condensates. Her request built on years of work by her group on how these structures regulate genes and can be exploited by cancer cells.",
+        "The process requires substantial computing power and does not remove the need for experts. The report presents these systems as collaborators for forming hypotheses, designing investigations and analyzing data, while researchers remain responsible for deciding which proposals make sense and can be tested."
+      ],
+      "aiSummary": "Nature reports on AI agents working together to search literature, generate hypotheses and challenge them against evidence. The case also shows that scientific interpretation and decisions about testing still depend on human researchers."
+    }
+  }
+}

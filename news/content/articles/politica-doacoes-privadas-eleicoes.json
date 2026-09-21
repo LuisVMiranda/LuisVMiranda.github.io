@@ -1,0 +1,39 @@
+{
+  "id": "politica-doacoes-privadas-eleicoes",
+  "slug": "politica-doacoes-privadas-eleicoes",
+  "section": "politica",
+  "secondarySections": [],
+  "publishedAt": "2026-09-21T09:24:08.578-03:00",
+  "updatedAt": "2026-09-21T09:24:08.578-03:00",
+  "sources": [
+    {
+      "name": "Valor Internacional",
+      "url": "https://valorinternational.globo.com/politics/news/2026/09/21/right-center-lead-brazils-private-campaign-fundraising.ghtml"
+    }
+  ],
+  "rights": {
+    "mode": "original-report"
+  },
+  "translations": {
+    "pt-BR": {
+      "title": "Doações privadas se concentram em partidos de direita e centro na eleição",
+      "summary": "Dados abertos do TSE mostram vantagem de partidos e candidatos de direita e centro na captação individual até agora.",
+      "paragraphs": [
+        "A análise do Valor com dados abertos do Tribunal Superior Eleitoral mostra que partidos e candidatos de direita e centro receberam a maior parcela das doações privadas na eleição até agora. PSD, PL e MDB juntos concentram 43% dos recursos individuais entre os dez maiores recebedores.",
+        "As doações privadas somavam R$ 415,7 milhões, frente a mais de R$ 4,6 bilhões do fundo público. O dinheiro se concentrou em candidatos homens e brancos e em campanhas de São Paulo, Minas Gerais e Paraná, enquanto pesquisadores apontaram peso da competitividade, do cargo ocupado e do acesso a decisores.",
+        "O levantamento foi atualizado com dados até 18 de setembro, e o volume deve crescer porque os candidatos precisam informar os recebimentos à Justiça Eleitoral em até 72 horas. A regra permite doações individuais de até 10% da renda declarada no ano anterior."
+      ],
+      "aiSummary": "A análise de dados do TSE mostra que doações privadas se concentram em candidatos de direita e centro, especialmente nos maiores partidos e em nomes competitivos. O texto compara os recursos individuais com o fundo público e explica as regras de prestação de contas."
+    },
+    "en": {
+      "title": "Private campaign donations concentrate in Brazil’s right and center",
+      "summary": "Open electoral data show right-wing and centrist parties and candidates leading individual fundraising so far.",
+      "paragraphs": [
+        "A Valor analysis of open data from Brazil’s Superior Electoral Court shows right-wing and centrist parties and candidates receiving the largest share of private campaign donations so far. The Social Democratic Party, Liberal Party and Brazilian Democratic Movement together account for 43% of individual funds among the ten biggest recipients.",
+        "Private donations totaled R$415.7 million, compared with more than R$4.6 billion from the public campaign fund. The money was concentrated among male and white candidates and campaigns in São Paulo, Minas Gerais and Paraná, while researchers pointed to competitiveness, officeholding and access to decision-makers as factors.",
+        "The analysis used data updated through September 18, and the total is expected to grow because candidates must report receipts to electoral authorities within 72 hours. Individual donations are capped at 10% of the donor’s income declared for the previous year."
+      ],
+      "aiSummary": "The TSE data analysis shows private donations concentrating among right-wing and centrist candidates, especially leading parties and competitive names. The report compares individual funds with public financing and explains the disclosure rules."
+    }
+  }
+}

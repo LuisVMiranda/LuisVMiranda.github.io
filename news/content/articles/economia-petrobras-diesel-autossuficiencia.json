@@ -1,0 +1,39 @@
+{
+  "id": "economia-petrobras-diesel-autossuficiencia",
+  "slug": "economia-petrobras-diesel-autossuficiencia",
+  "section": "economia",
+  "secondarySections": ["brasil"],
+  "publishedAt": "2026-09-21T11:04:43.235-03:00",
+  "updatedAt": "2026-09-21T11:04:43.235-03:00",
+  "sources": [
+    {
+      "name": "Valor Econômico",
+      "url": "https://valor.globo.com/empresas/noticia/2026/09/21/ainda-queremos-atingir-autossuficiencia-de-diesel-no-brasil-diz-presidente-da-petrobras.ghtml"
+    }
+  ],
+  "rights": {
+    "mode": "original-report"
+  },
+  "translations": {
+    "pt-BR": {
+      "title": "Petrobras quer elevar participação no mercado de diesel a 90% até 2030",
+      "summary": "Magda Chambriard disse que a companhia busca reduzir a dependência de importações, hoje estimadas em 30% do mercado.",
+      "paragraphs": [
+        "A presidente da Petrobras, Magda Chambriard, afirmou que a empresa ainda busca alcançar autossuficiência na produção de diesel no Brasil. No plano de negócios de 2026 a 2030, a companhia pretende atender 90% do mercado, ante os 70% atuais; os 30% restantes são cobertos por importações.",
+        "Durante a abertura de um evento de óleo e gás no Rio de Janeiro, Chambriard disse que o parque de refino brasileiro tem confiabilidade para atender a demanda em períodos de choque. Ela também apresentou a localização do país, longe dos conflitos atuais, e o arcabouço regulatório como vantagens competitivas.",
+        "A executiva afirmou ainda que a Petrobras avança em novas fronteiras de exploração, citando a Margem Equatorial e a Bacia de Pelotas, e mencionou descobertas de gás na Colômbia em parceria com a Ecopetrol. As metas descritas são compromissos do plano da companhia e não significam independência imediata das importações."
+      ],
+      "aiSummary": "A Petrobras pretende elevar de 70% para 90% a parcela do mercado brasileiro de diesel atendida por sua produção no plano 2026-2030. A presidente Magda Chambriard também citou refino, novas fronteiras de petróleo e descobertas de gás na Colômbia."
+    },
+    "en": {
+      "title": "Petrobras aims to supply 90% of Brazil’s diesel market by 2030",
+      "summary": "Magda Chambriard said the company wants to reduce reliance on imports, which currently cover about 30% of the market.",
+      "paragraphs": [
+        "Petrobras President Magda Chambriard said the company still aims to achieve diesel-production self-sufficiency in Brazil. Under its 2026-2030 business plan, Petrobras wants to supply 90% of the market, up from 70% today; imports cover the remaining 30%.",
+        "Speaking at the opening of an oil-and-gas event in Rio de Janeiro, Chambriard said Brazil’s refining system is reliable enough to meet demand during shocks. She also described the country’s distance from current conflicts and its regulatory framework as competitive advantages.",
+        "The executive also said Petrobras is advancing new exploration frontiers, including the Equatorial Margin and Pelotas Basin, and mentioned gas discoveries in Colombia with Ecopetrol. The figures are company-plan targets and do not mean that Brazil is immediately independent of imports."
+      ],
+      "aiSummary": "Petrobras plans to raise the share of Brazil’s diesel market supplied by its own production from 70% to 90% under its 2026-2030 plan. President Magda Chambriard also cited refining, new oil frontiers and gas discoveries in Colombia."
+    }
+  }
+}

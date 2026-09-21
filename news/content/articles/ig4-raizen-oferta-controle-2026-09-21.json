@@ -1,0 +1,39 @@
+{
+  "id": "brasil-ig4-raizen-oferta-controle-2026-09-21",
+  "slug": "ig4-raizen-oferta-controle-2026-09-21",
+  "section": "brasil",
+  "secondarySections": ["economia"],
+  "publishedAt": "2026-09-21T14:38:16+00:00",
+  "updatedAt": "2026-09-21T14:38:16+00:00",
+  "sources": [
+    {
+      "name": "InfoMoney",
+      "url": "https://www.infomoney.com.br/mercados/ig4-prepara-oferta-para-credores-da-raizen-raiz4-e-mira-controle-da-companhia/"
+    }
+  ],
+  "rights": {
+    "mode": "original-report"
+  },
+  "translations": {
+    "pt-BR": {
+      "title": "IG4 prepara oferta vinculante a credores da Raízen e mira controle da empresa",
+      "summary": "Gestora pretende apresentar proposta definitiva para assumir mais de 50% dos créditos da companhia, que está em recuperação extrajudicial e acumula cerca de R$ 65 bilhões em dívidas.",
+      "paragraphs": [
+        "A IG4 Capital prepara uma oferta vinculante aos credores da Raízen, companhia que atravessa uma recuperação extrajudicial e acumula cerca de R$ 65 bilhões em dívidas. A gestora já havia apresentado uma proposta não vinculante dois meses antes e deve formalizar a nova oferta nas próximas semanas.",
+        "O objetivo é reunir mais de 50% dos créditos para obter o controle da empresa. A estrutura combinaria pagamento em dinheiro com direitos de crédito conversíveis em ações, em uma operação semelhante à estratégia usada pela IG4 na reestruturação da Braskem; as ações da Raízen acumulam queda aproximada de 96% em cinco anos, segundo a reportagem.",
+        "O plano de recuperação prevê separar a joint venture entre Shell e Cosan em unidades de combustíveis e de açúcar e etanol, segmento de interesse da IG4. O Bradesco BBI avaliou que a conversão de créditos reforça a atratividade dos títulos e que a transação pode contribuir para sua valorização, uma leitura atribuída aos analistas do banco."
+      ],
+      "aiSummary": "A IG4 prepara uma oferta vinculante para obter mais de 50% dos créditos da Raízen e disputar o controle da companhia em recuperação extrajudicial."
+    },
+    "en": {
+      "title": "IG4 prepares binding offer to Raízen creditors and targets control of company",
+      "summary": "The asset manager plans a final proposal for more than 50% of the company’s claims as Raízen undergoes an out-of-court restructuring with about 65 billion reais in debt.",
+      "paragraphs": [
+        "IG4 Capital is preparing a binding offer to Raízen’s creditors as the company undergoes an out-of-court restructuring and carries about 65 billion reais in debt. The asset manager submitted a nonbinding proposal two months earlier and is expected to present the definitive offer in the coming weeks.",
+        "The aim is to secure more than half of the claims and take control of the company. The structure would combine cash with credit rights convertible into shares, similar to the approach IG4 used in Braskem’s restructuring; the report says Raízen shares have fallen about 96% over five years.",
+        "The restructuring plan would split the Shell-Cosan joint venture into fuel and sugar-and-ethanol units, with IG4 interested in the latter. Bradesco BBI said converting claims into equity strengthens the case that Raízen’s securities are attractive and that the potential deal could support their value, an assessment attributed to the bank’s analysts."
+      ],
+      "aiSummary": "IG4 is preparing a binding offer for more than half of Raízen’s claims as it seeks control of the company during an out-of-court restructuring."
+    }
+  }
+}

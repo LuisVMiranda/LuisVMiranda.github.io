@@ -1,0 +1,39 @@
+{
+  "id": "esportes-central-marllon-20260921",
+  "slug": "esportes-central-marllon-20260921",
+  "section": "esportes",
+  "secondarySections": [],
+  "publishedAt": "2026-09-21T09:42:11.737-03:00",
+  "updatedAt": "2026-09-21T09:42:11.737-03:00",
+  "sources": [
+    {
+      "name": "ge.globo.com",
+      "url": "https://ge.globo.com/pe/caruaru-regiao/futebol/times/central/noticia/2026/09/21/central-acerta-com-meia-ex-fortaleza-e-vitoria-para-disputa-do-campeonato-pernambucano.ghtml"
+    }
+  ],
+  "rights": {
+    "mode": "original-report"
+  },
+  "translations": {
+    "pt-BR": {
+      "title": "Central anuncia contratação do meia Marllon para o Campeonato Pernambucano",
+      "summary": "Clube de Caruaru confirmou o acordo e espera contar com o jogador a partir desta semana.",
+      "paragraphs": [
+        "O Central anunciou acordo com o meia Marllon, que deve iniciar as atividades com o clube nesta semana e integrar o elenco para o próximo Campeonato Pernambucano.",
+        "Revelado pelo Fortaleza e com passagem pelo Vitória, o jogador também defendeu Figueirense, Floresta-CE e Altos-PI ao longo da carreira profissional.",
+        "Marllon chega ao Central como seu quinto clube em 2026. Antes do acerto, acumulou 25 partidas e quatro gols; o estadual está previsto para começar em 17 de outubro."
+      ],
+      "aiSummary": "O Central acertou com o meia Marllon para o próximo Campeonato Pernambucano, com início das atividades previsto para esta semana."
+    },
+    "en": {
+      "title": "Central announces midfielder Marllon signing for Campeonato Pernambucano",
+      "summary": "The Caruaru club confirmed the agreement and expects the player to begin work this week.",
+      "paragraphs": [
+        "Central announced an agreement with midfielder Marllon, who is expected to begin work with the club this week and join the squad for the next Campeonato Pernambucano.",
+        "Developed at Fortaleza and previously with Vitória, the player has also represented Figueirense, Floresta-CE and Altos-PI during his professional career.",
+        "Marllon joins Central as his fifth club in 2026. Before the agreement, he had made 25 appearances and scored four goals; the state competition is scheduled to begin on October 17."
+      ],
+      "aiSummary": "Central agreed to sign midfielder Marllon for the next Campeonato Pernambucano, with training expected to start this week."
+    }
+  }
+}

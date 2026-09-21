@@ -1,0 +1,40 @@
+{
+  "id": "ciencia-conferencia-geral-iaea-70",
+  "slug": "ciencia-conferencia-geral-iaea-70",
+  "section": "ciencia",
+  "secondarySections": [],
+  "publishedAt": "2026-09-21T00:00:00.000Z",
+  "publishedDate": "2026-09-21",
+  "updatedAt": "2026-09-21T00:00:00.000Z",
+  "sources": [
+    {
+      "name": "International Atomic Energy Agency",
+      "url": "https://www.iaea.org/newscenter/news/week-in-review-iaea-70th-general-conference"
+    }
+  ],
+  "rights": {
+    "mode": "original-report"
+  },
+  "translations": {
+    "pt-BR": {
+      "title": "Conferência geral da AIEA termina com decisões para a agenda nuclear",
+      "summary": "A 70ª conferência da agência reuniu mais de 3,6 mil participantes e elegeu 11 países para o Conselho de Governadores.",
+      "paragraphs": [
+        "A 70ª Conferência Geral da Agência Internacional de Energia Atômica terminou após cinco dias de debates, eventos e decisões sobre temas nucleares. As resoluções aprovadas devem orientar o trabalho da agência no próximo ano.",
+        "Mais de 3,6 mil pessoas participaram do encontro, incluindo representantes de 160 dos 181 países-membros, 78 ministros e 19 vice-ministros. Os países também elegeram 11 integrantes para o Conselho de Governadores de 35 membros no período de 2026 a 2027, entre eles o Brasil.",
+        "O fórum científico da conferência destacou a expansão do atendimento oncológico por meio da iniciativa Rays of Hope, que já reúne mais de 100 países. A AIEA também apresentou projeções de que a capacidade nuclear global pode mais que triplicar até 2060 no cenário alto e informou que os recursos identificados de urânio atendem à demanda projetada até 2050."
+      ],
+      "aiSummary": "A AIEA encerrou sua conferência geral de 2026 com novas decisões administrativas, eleição de 11 países para seu conselho e discussões sobre câncer, energia nuclear e urânio. O encontro reuniu mais de 3,6 mil participantes de 160 países-membros."
+    },
+    "en": {
+      "title": "IAEA general conference closes with decisions for the nuclear agenda",
+      "summary": "The agency's 70th conference drew more than 3,600 participants and elected 11 countries to its Board of Governors.",
+      "paragraphs": [
+        "The 70th General Conference of the International Atomic Energy Agency ended after five days of discussions, events and decisions on nuclear topics. The adopted resolutions are expected to guide the agency's work over the coming year.",
+        "More than 3,600 people attended, including representatives from 160 of the 181 member states, 78 ministers and 19 vice-ministers. Members also elected 11 countries to the 35-seat Board of Governors for 2026 to 2027, including Brazil.",
+        "The conference's scientific forum highlighted expanded cancer care through the Rays of Hope initiative, which now includes more than 100 countries. The IAEA also presented projections that global nuclear capacity could more than triple by 2060 in the high case and said identified uranium resources cover projected demand through 2050."
+      ],
+      "aiSummary": "The IAEA closed its 2026 general conference with administrative decisions, the election of 11 countries to its board and discussions on cancer care, nuclear power and uranium. More than 3,600 participants from 160 member states attended."
+    }
+  }
+}

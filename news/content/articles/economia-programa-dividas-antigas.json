@@ -1,0 +1,39 @@
+{
+  "id": "economia-programa-dividas-antigas",
+  "slug": "economia-programa-dividas-antigas",
+  "section": "economia",
+  "secondarySections": ["brasil"],
+  "publishedAt": "2026-09-21T10:18:00-03:00",
+  "updatedAt": "2026-09-21T10:18:00-03:00",
+  "sources": [
+    {
+      "name": "Correio Braziliense",
+      "url": "https://www.correiobraziliense.com.br/aqui/2026/09/21/dividas-como-sair-do-cadastro-negativo-e-limpar-nome/"
+    }
+  ],
+  "rights": {
+    "mode": "original-report"
+  },
+  "translations": {
+    "pt-BR": {
+      "title": "Governo prepara programa para comprar dívidas antigas de famílias",
+      "summary": "Proposta em estudo prevê leilão e descontos elevados, mas ainda depende de decisão do governo e de espaço orçamentário.",
+      "paragraphs": [
+        "O governo federal estuda um programa para comprar dívidas antigas de famílias brasileiras, especialmente débitos acumulados durante a pandemia. Segundo a reportagem, o ministro da Fazenda, Dario Durigan, apresentou a ideia como uma possível iniciativa para reorganizar a vida financeira das famílias a partir de 2027.",
+        "A proposta discutida prevê um leilão para adquirir os débitos diretamente de bancos e varejistas, com descontos que poderiam chegar a 95% ou mais. Durigan indicou que a execução dependeria de espaço no Orçamento, e os termos ainda não constituem um benefício aprovado ou disponível ao consumidor.",
+        "Enquanto a medida não é definida, o texto recomenda mapear credores, valores e juros, consultar o CPF em plataformas de crédito e organizar o orçamento. Essas orientações são apresentadas como preparação para uma eventual negociação, não como garantia de participação em um programa já lançado."
+      ],
+      "aiSummary": "O governo avalia comprar dívidas antigas de famílias por meio de um leilão com descontos elevados, mas a proposta ainda depende de decisão oficial e de espaço orçamentário. A reportagem orienta o consumidor a levantar seus débitos e organizar o orçamento enquanto aguarda os detalhes."
+    },
+    "en": {
+      "title": "Brazilian government studies program to buy families’ old debts",
+      "summary": "The proposal would use an auction and deep discounts, but still depends on a government decision and budget room.",
+      "paragraphs": [
+        "Brazil’s federal government is studying a program to buy old household debts, especially balances accumulated during the pandemic. According to the report, Finance Minister Dario Durigan presented the idea as a possible way to help families reorganize their finances from 2027 onward.",
+        "The proposal under discussion would use an auction to acquire debts directly from banks and retailers, with discounts that could reach 95% or more. Durigan indicated that implementation would depend on available budget space, and the terms are not an approved or available consumer benefit.",
+        "While the measure remains undefined, the report advises consumers to list creditors, balances and interest, check their taxpayer ID with credit platforms and organize their budgets. Those steps are preparation for a possible negotiation, not a guarantee of access to a program that has already been launched."
+      ],
+      "aiSummary": "Brazil’s government is considering buying old household debts through an auction with deep discounts, but the proposal still depends on an official decision and budget space. The report advises consumers to map their debts and organize their budgets while awaiting details."
+    }
+  }
+}

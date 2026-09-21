@@ -1,0 +1,39 @@
+{
+  "id": "brasil-mohamed-toure-lesao-amistosos-brasil-2026-09-20",
+  "slug": "mohamed-toure-lesao-amistosos-brasil-2026-09-20",
+  "section": "brasil",
+  "secondarySections": ["esportes"],
+  "publishedAt": "2026-09-20T23:05:29.000Z",
+  "updatedAt": "2026-09-20T23:05:29.000Z",
+  "sources": [
+    {
+      "name": "Fox Sports Australia",
+      "url": "https://www.foxsports.com.au/football/premier-league/teams/norwich-city/football-2026-mohamed-toure-injures-shoulder-for-norwich-city-against-bolton-team-lose-efl-match-in-doubt-for-socceroos-friendlies-against-brazil-video-latest-news/news-story/cee11c3fe7c75c7f004ca6db283df13b"
+    }
+  ],
+  "rights": {
+    "mode": "original-report"
+  },
+  "translations": {
+    "pt-BR": {
+      "title": "Mohamed Toure vira dúvida para amistosos da Austrália contra o Brasil",
+      "summary": "O atacante sofreu uma lesão no ombro após marcar no início da derrota do Norwich para o Bolton pelo Championship inglês.",
+      "paragraphs": [
+        "Mohamed Toure deixou o jogo do Norwich contra o Bolton aos 15 minutos com dores no ombro e passou a ser dúvida para os dois amistosos da Austrália contra o Brasil. O técnico Philippe Clement disse que ainda era cedo para medir a gravidade.",
+        "Antes de sair, o atacante marcou aos cinco minutos, em sua terceira finalização certeira nos dez minutos iniciais de uma partida nesta temporada. O gol foi o quinto dele na campanha e o sexto em todas as competições, segundo o relato.",
+        "O Norwich acabou derrotado por 4 a 3. A reportagem afirma que uma lesão no ombro ou na clavícula poderia afastar Toure por até um mês, o que o tiraria dos dois compromissos internacionais."
+      ],
+      "aiSummary": "Uma lesão no ombro colocou Mohamed Toure em dúvida para os amistosos da Austrália contra o Brasil após ele marcar pelo Norwich."
+    },
+    "en": {
+      "title": "Mohamed Toure becomes a doubt for Australia friendlies against Brazil",
+      "summary": "The forward suffered a shoulder injury after scoring early in Norwich’s Championship loss to Bolton.",
+      "paragraphs": [
+        "Mohamed Toure left Norwich’s match against Bolton after 15 minutes with shoulder pain and became a doubt for Australia’s two friendlies against Brazil. Manager Philippe Clement said it was still too early to assess the severity.",
+        "Before going off, the forward scored after five minutes, his third goal inside the opening 10 minutes of a match this season. The report said it was his fifth goal of the campaign and sixth in all competitions.",
+        "Norwich eventually lost 4-3. The report said a shoulder or collarbone injury could sideline Toure for up to a month, which would rule him out of both international fixtures."
+      ],
+      "aiSummary": "A shoulder injury put Mohamed Toure’s participation in Australia’s friendlies against Brazil in doubt after he scored for Norwich."
+    }
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "id": "mundo-20260921-p4m-multilateralism-initiative",
+  "slug": "p4m-multilateralism-initiative-launched-before-un-assembly",
+  "section": "mundo",
+  "secondarySections": ["politica"],
+  "publishedAt": "2026-09-20T18:23:50.898-03:00",
+  "updatedAt": "2026-09-20T18:23:50.898-03:00",
+  "sources": [
+    {
+      "name": "G1",
+      "url": "https://g1.globo.com/mundo/noticia/2026/09/20/brasil-ue-canada-e-quenia-criam-alianca-global-pelo-multilateralismo-as-vesperas-de-assembleia-geral-da-onu.ghtml"
+    },
+    {
+      "name": "Correio Braziliense",
+      "url": "https://www.correiobraziliense.com.br/mundo/2026/09/7504582-brasil-ue-quenia-e-canada-escrevem-manifesto-em-defesa-do-multilateralismo.html"
+    }
+  ],
+  "rights": {
+    "mode": "original-report"
+  },
+  "translations": {
+    "pt-BR": {
+      "title": "Brasil, União Europeia, Canadá e Quênia lançam iniciativa pelo multilateralismo",
+      "summary": "Os quatro parceiros anunciaram o P4M por meio de manifesto conjunto antes da Assembleia Geral da ONU. A proposta prevê uma estrutura aberta para formar coalizões e apoiar reformas que tornem instituições internacionais mais representativas.",
+      "paragraphs": [
+        "Brasil, União Europeia, Canadá e Quênia anunciaram a iniciativa Parceiros pelo Multilateralismo, conhecida pela sigla P4M, em um manifesto publicado às vésperas da Assembleia Geral da ONU. O texto é assinado por Luiz Inácio Lula da Silva, António Costa, Mark Carney e William Ruto, e o encontro da ONU começa com discursos de Lula e Donald Trump.",
+        "Os signatários descrevem um mundo mais conectado economicamente, mas também mais fragmentado e polarizado. Segundo o manifesto, 2025 registrou 65 conflitos armados entre Estados e os gastos militares globais chegaram a 2,9 trilhões de dólares, números usados para defender uma resposta cooperativa.",
+        "O P4M é apresentado como uma estrutura flexível, aberta a países de diferentes regiões e sem a intenção de formar um bloco exclusivo ou uma nova burocracia. A iniciativa pretende apoiar reformas na ONU e em outras instituições multilaterais diante de desafios como clima, inteligência artificial, pandemias, choques financeiros e guerras."
+      ],
+      "aiSummary": "A reportagem descreve o lançamento do P4M por Brasil, União Europeia, Canadá e Quênia antes da Assembleia Geral da ONU. O manifesto propõe coalizões abertas e reformas multilaterais para responder à fragmentação global e a desafios transnacionais."
+    },
+    "en": {
+      "title": "Brazil, European Union, Canada and Kenya launch multilateralism initiative",
+      "summary": "The four partners announced the P4M through a joint manifesto ahead of the U.N. General Assembly. The proposal calls for an open structure to build coalitions and support reforms that make international institutions more representative.",
+      "paragraphs": [
+        "Brazil, the European Union, Canada and Kenya announced the Partners for Multilateralism initiative, known as P4M, in a manifesto published ahead of the U.N. General Assembly. The text was signed by Luiz Inácio Lula da Silva, António Costa, Mark Carney and William Ruto, while the U.N. meeting opens with speeches by Lula and Donald Trump.",
+        "The signatories describe a world that is more economically connected but also more fragmented and polarized. The manifesto says 2025 saw 65 armed conflicts between states and that global military spending reached 2.9 trillion dollars, figures used to argue for a cooperative response.",
+        "P4M is presented as a flexible structure open to countries from different regions, rather than an exclusive bloc or a new bureaucracy. The initiative aims to support reforms at the U.N. and other multilateral institutions in response to climate change, artificial intelligence, pandemics, financial shocks and wars."
+      ],
+      "aiSummary": "The report describes the P4M launch by Brazil, the European Union, Canada and Kenya before the U.N. General Assembly. The manifesto calls for open coalitions and multilateral reforms to address global fragmentation and cross-border challenges."
+    }
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "id": "esportes-seahawks-jadarian-price-20260920",
+  "slug": "esportes-seahawks-jadarian-price-20260920",
+  "section": "esportes",
+  "secondarySections": [],
+  "publishedAt": "2026-09-20T23:01:13+00:00",
+  "updatedAt": "2026-09-20T23:01:13+00:00",
+  "sources": [
+    {
+      "name": "The Sporting News",
+      "url": "https://www.sportingnews.com/us/nfl/seattle-seahawks/news/jadarian-price-injury-update-latest-news-seahawks-rbs-status-week-2-game/80372d082918e20843d5860e"
+    }
+  ],
+  "rights": {
+    "mode": "original-report"
+  },
+  "translations": {
+    "pt-BR": {
+      "title": "Seahawks listam running back Jadarian Price como dúvida após lesão",
+      "summary": "Price sofreu uma lesão no peito contra os Cardinals e foi monitorado no quarto período.",
+      "paragraphs": [
+        "O Seattle Seahawks acompanhava a situação do running back Jadarian Price durante o quarto período da partida da segunda semana contra o Arizona Cardinals.",
+        "Price se machucou durante o jogo, em uma atuação que o Sporting News descreveu como dominante para Seattle diante do Arizona.",
+        "Os Seahawks o listaram oficialmente como dúvida para retornar, com uma lesão no peito. O acompanhamento indicava que novas informações poderiam ser divulgadas depois."
+      ],
+      "aiSummary": "Jadarian Price foi listado como dúvida para voltar ao jogo dos Seahawks contra o Cardinals após sofrer uma lesão no peito."
+    },
+    "en": {
+      "title": "Seahawks list running back Jadarian Price as questionable after injury",
+      "summary": "Price suffered a chest injury against the Cardinals and was monitored in the fourth quarter.",
+      "paragraphs": [
+        "The Seattle Seahawks were monitoring running back Jadarian Price during the fourth quarter of their Week 2 game against the Arizona Cardinals.",
+        "Price was injured during the game, while Sporting News described Seattle as putting on a dominant performance against Arizona.",
+        "The Seahawks officially listed him as questionable to return with a chest injury. The tracker indicated that more information could be released later."
+      ],
+      "aiSummary": "Jadarian Price was listed as questionable to return for the Seahawks against the Cardinals after suffering a chest injury."
+    }
+  }
+}

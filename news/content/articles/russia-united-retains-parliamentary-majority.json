@@ -1,0 +1,44 @@
+{
+  "id": "mundo-20260921-russia-united-parliament-majority",
+  "slug": "russia-united-retains-parliamentary-majority",
+  "section": "mundo",
+  "secondarySections": ["politica"],
+  "publishedAt": "2026-09-21T00:00:00.000Z",
+  "publishedDate": "2026-09-21",
+  "updatedAt": "2026-09-21T00:00:00.000Z",
+  "sources": [
+    {
+      "name": "The Associated Press",
+      "url": "https://apnews.com/article/russia-elections-kremlin-putin-5342c2757623f2e46e94b4c548e94213"
+    },
+    {
+      "name": "Agência Brasil",
+      "url": "https://agenciabrasil.ebc.com.br/internacional/noticia/2026-09/partido-pro-putin-vence-eleicao-russa-com-mais-de-57-dos-votos"
+    }
+  ],
+  "rights": {
+    "mode": "original-report"
+  },
+  "translations": {
+    "pt-BR": {
+      "title": "Rússia Unida mantém maioria no Parlamento após eleição sob forte controle do Kremlin",
+      "summary": "Resultados preliminares dão ao partido governista 355 das 450 cadeiras da Duma, após mais de 95% das urnas processadas. A votação, marcada por restrições à oposição e contestação ucraniana nas áreas ocupadas, foi apresentada por Putin como teste de apoio à guerra.",
+      "paragraphs": [
+        "A Comissão Eleitoral Central da Rússia informou que o Rússia Unida liderava com cerca de 57,8% dos votos para as cadeiras distribuídas por listas e poderia conquistar 355 das 450 vagas da Duma. A apuração preliminar, com mais de 95% das urnas processadas, também indicava comparecimento superior a 59%; a divulgação formal do resultado estava prevista para sexta-feira.",
+        "A eleição ocorreu durante três dias e teve participação limitada da oposição. O partido liberal e contrário à guerra Yabloko foi impedido de disputar a lista nacional, enquanto críticos relataram restrições a observadores e questionaram a transparência do voto eletrônico. Kyiv rejeitou a votação realizada em áreas da Ucrânia ocupadas pela Rússia.",
+        "Foi a primeira eleição parlamentar russa desde a invasão em larga escala da Ucrânia em 2022. A AP registrou que o Kremlin pode usar o resultado como demonstração de apoio à guerra, embora a votação também tenha ocorrido em meio a ataques de drones ucranianos e a críticas sobre a ausência de competição política efetiva."
+      ],
+      "aiSummary": "A reportagem registra a vantagem preliminar do Rússia Unida, com previsão de 355 cadeiras e cerca de 58% dos votos, em resultado corroborado por uma segunda extração completa. O pleito ocorreu com oposição restringida, críticas ao voto eletrônico e rejeição ucraniana nas áreas ocupadas."
+    },
+    "en": {
+      "title": "United Russia keeps parliamentary majority after election held under tight Kremlin control",
+      "summary": "Preliminary results give the governing party 355 of the Duma’s 450 seats after more than 95% of ballots were processed. The vote, marked by restrictions on opponents and Ukrainian objections in occupied areas, was presented by Putin as a test of support for the war.",
+      "paragraphs": [
+        "Russia’s Central Election Commission said United Russia was leading with about 57.8% of the party-list vote and could win 355 of the Duma’s 450 seats. With more than 95% of polling stations counted, preliminary figures also put turnout above 59%; the formal result was expected on Friday.",
+        "The election took place over three days with limited opposition participation. The liberal, anti-war Yabloko party was barred from the national list, while critics reported restrictions on observers and questioned the transparency of electronic voting. Kyiv rejected voting held in Ukrainian areas occupied by Russia.",
+        "It was Russia’s first parliamentary election since the full-scale invasion of Ukraine in 2022. The AP reported that the Kremlin may use the result as evidence of support for the war, although the vote also unfolded amid Ukrainian drone attacks and criticism that meaningful political competition had been suppressed."
+      ],
+      "aiSummary": "The report records United Russia’s preliminary lead, with 355 seats and roughly 58% of the vote, a result supported by a second complete extraction. The election was held with restricted opposition, disputes over electronic voting and Ukrainian objections in occupied areas."
+    }
+  }
+}

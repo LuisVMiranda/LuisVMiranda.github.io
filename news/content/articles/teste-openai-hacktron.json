@@ -1,0 +1,39 @@
+{
+  "id": "teste-openai-hacktron",
+  "slug": "teste-openai-hacktron",
+  "section": "tecnologia",
+  "secondarySections": [],
+  "publishedAt": "2026-09-21T10:06:00.000-03:00",
+  "updatedAt": "2026-09-21T10:06:00.000-03:00",
+  "sources": [
+    {
+      "name": "Canaltech",
+      "url": "https://canaltech.com.br/inteligencia-artificial/openai-foi-invadida-por-hackers-que-usaram-rival-do-chatgpt/"
+    }
+  ],
+  "rights": {
+    "mode": "original-report"
+  },
+  "translations": {
+    "pt-BR": {
+      "title": "Teste autorizado encontrou falha que permitiu acesso a contas ligadas à OpenAI",
+      "summary": "A Hacktron AI explorou uma falha no fórum de ajuda da OpenAI durante um teste autorizado, e a empresa informou que corrigiu o problema em cerca de 14 horas.",
+      "paragraphs": [
+        "A startup chamada Hacktron AI conseguiu alcançar contas do ChatGPT ligadas a funcionários da OpenAI durante um exercício de segurança autorizado. O ponto de entrada foi uma vulnerabilidade no fórum público de ajuda da OpenAI, operado pela plataforma Discourse.",
+        "Para identificar e explorar a falha, a equipe usou modelos da Anthropic; a matéria relata que o Claude Opus 5 produziu um ataque funcional em cerca de três horas. O episódio ilustra como modelos de IA podem acelerar testes ofensivos, sem transformar o exercício autorizado em prova de um ataque criminoso.",
+        "A OpenAI confirmou o incidente à AFP, segundo a reportagem, e disse que corrigiu a vulnerabilidade aproximadamente 14 horas depois de ser avisada. A empresa também pagou uma recompensa de 6.500 dólares à Hacktron AI, enquanto OpenAI e Discourse coordenaram a correção."
+      ],
+      "aiSummary": "Um teste autorizado da Hacktron AI achou uma falha no fórum da OpenAI; a empresa disse ter corrigido o problema em cerca de 14 horas."
+    },
+    "en": {
+      "title": "Authorized test found a flaw that enabled access to accounts linked to OpenAI",
+      "summary": "Hacktron AI exploited a flaw in OpenAI’s help forum during an authorized test, and the company said it fixed the issue in about 14 hours.",
+      "paragraphs": [
+        "A startup called Hacktron AI reached ChatGPT accounts linked to OpenAI employees during an authorized security exercise. The entry point was a vulnerability in OpenAI’s public help forum, which is operated by Discourse.",
+        "To identify and exploit the flaw, the team used Anthropic models; the report says Claude Opus 5 produced a functional attack in about three hours. The episode shows how AI models can speed up offensive testing, without turning an authorized exercise into evidence of a criminal intrusion.",
+        "OpenAI confirmed the incident to AFP, according to the report, and said it fixed the vulnerability roughly 14 hours after being notified. The company also paid Hacktron AI a 6,500-dollar bug bounty, while OpenAI and Discourse coordinated the fix."
+      ],
+      "aiSummary": "Hacktron AI found a flaw in OpenAI’s forum during an authorized test; the company said it fixed the issue in about 14 hours."
+    }
+  }
+}

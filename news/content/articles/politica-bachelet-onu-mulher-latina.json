@@ -1,0 +1,39 @@
+{
+  "id": "politica-bachelet-onu-mulher-latina",
+  "slug": "politica-bachelet-onu-mulher-latina",
+  "section": "politica",
+  "secondarySections": [],
+  "publishedAt": "2026-09-21T08:06:18.924-03:00",
+  "updatedAt": "2026-09-21T08:06:18.924-03:00",
+  "sources": [
+    {
+      "name": "G1",
+      "url": "https://g1.globo.com/politica/noticia/2026/09/21/apos-bachelet-desistir-de-concorrer-a-onu-brasil-defende-que-regiao-tem-mulheres-a-altura-do-cargo.ghtml"
+    }
+  ],
+  "rights": {
+    "mode": "original-report"
+  },
+  "translations": {
+    "pt-BR": {
+      "title": "Brasil reforça defesa de mulher latino-americana para chefiar a ONU após desistência de Bachelet",
+      "summary": "Itamaraty ainda não indicou novo nome, mas manteve a defesa de uma escolha latino-americana e feminina para suceder António Guterres.",
+      "paragraphs": [
+        "O Itamaraty reforçou que a América Latina tem mulheres qualificadas para assumir a Secretaria-Geral da ONU depois de Michelle Bachelet retirar sua candidatura, que contava com apoio brasileiro e mexicano.",
+        "Bachelet desistiu em 19 de setembro após perder o apoio do Chile. O Brasil continua defendendo que a região indique o próximo secretário-geral, em substituição a António Guterres, cujo segundo mandato termina em 31 de dezembro.",
+        "A nota não define o nome que o Brasil apoiará. Lula está em Nova York para discursar em 22 de setembro e, segundo interlocutores citados pelo G1, deve defender multilateralismo, criticar guerras e falar de soberania brasileira sem mencionar diretamente Donald Trump."
+      ],
+      "aiSummary": "Após a desistência de Michelle Bachelet, o Brasil manteve a defesa de uma mulher latino-americana para liderar a ONU, sem anunciar novo nome. A posição se conecta ao discurso que Lula fará em Nova York sobre multilateralismo e soberania."
+    },
+    "en": {
+      "title": "Brazil renews call for a Latin American woman to lead the UN after Bachelet withdraws",
+      "summary": "The Foreign Ministry has not named a new candidate but continues to back a Latin American and female successor to António Guterres.",
+      "paragraphs": [
+        "Brazil’s Foreign Ministry reiterated that Latin America has qualified women to lead the United Nations after Michelle Bachelet withdrew her candidacy, which had the support of Brazil and Mexico.",
+        "Bachelet withdrew on September 19 after losing Chile’s backing. Brazil continues to argue that the region should provide the next secretary-general to replace António Guterres, whose second term ends on December 31.",
+        "The statement did not identify the person Brazil will support. Lula is in New York for a September 22 speech and, according to sources cited by G1, is expected to defend multilateralism, criticize wars and discuss Brazilian sovereignty without directly naming Donald Trump."
+      ],
+      "aiSummary": "After Michelle Bachelet withdrew, Brazil kept backing a Latin American woman to lead the UN but did not announce a new name. The position is tied to Lula’s upcoming New York speech on multilateralism and sovereignty."
+    }
+  }
+}

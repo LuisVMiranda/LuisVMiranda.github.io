@@ -1,0 +1,40 @@
+{
+  "id": "mundo-20260920-converse-ad-apology",
+  "slug": "converse-removes-apologizes-for-criticized-ad",
+  "section": "mundo",
+  "secondarySections": ["cultura"],
+  "publishedAt": "2026-09-20T00:00:00.000Z",
+  "publishedDate": "2026-09-20",
+  "updatedAt": "2026-09-20T00:00:00.000Z",
+  "sources": [
+    {
+      "name": "The Associated Press",
+      "url": "https://apnews.com/article/converse-ad-removed-sneakers-0b8858b25f50a3e820a2fcc3ef5d0410"
+    }
+  ],
+  "rights": {
+    "mode": "original-report"
+  },
+  "translations": {
+    "pt-BR": {
+      "title": "Converse retira anúncio criticado por referências racistas e pede desculpas",
+      "summary": "A marca apagou uma campanha nas redes depois de críticas de que a composição lembrava imagens associadas à Ku Klux Klan e a linchamentos. A empresa, controlada pela Nike, reconheceu o erro e disse trabalhar para remover o material de todos os canais.",
+      "paragraphs": [
+        "A Converse retirou de suas redes sociais um anúncio que provocou reação de críticos por supostamente evocar símbolos ligados à Ku Klux Klan e a linchamentos. A imagem mostrava a cantora sul-coreana Karina usando uma saia e segurando um par de tênis Chuck 70 X, cuja composição visual foi interpretada de forma negativa por parte do público.",
+        "A marca, que pertence à Nike, publicou um pedido de desculpas e afirmou que removeu a peça de seus canais, além de trabalhar para eliminá-la de outros espaços onde tivesse aparecido. A empresa não respondeu a perguntas sobre como o anúncio foi aprovado nem sobre os controles usados antes da publicação.",
+        "A repercussão incluiu pedidos de demissão de funcionários envolvidos e propostas de boicote, embora outros usuários tenham dito não acreditar que a associação tivesse sido intencional. O caso voltou a colocar sob escrutínio os processos de revisão de campanhas de grandes marcas."
+      ],
+      "aiSummary": "A Converse retirou e pediu desculpas por um anúncio criticado por referências visuais racistas. A repercussão levou a questionamentos sobre a revisão interna da campanha e dividiu usuários sobre a intenção da peça."
+    },
+    "en": {
+      "title": "Converse removes ad criticized for racist imagery and apologizes",
+      "summary": "The brand pulled a social media campaign after critics said its composition evoked imagery associated with the Ku Klux Klan and lynching. The Nike-owned company acknowledged the mistake and said it was working to remove the material from every channel.",
+      "paragraphs": [
+        "Converse removed a social media advertisement that drew criticism for allegedly evoking symbols associated with the Ku Klux Klan and lynching. The image showed South Korean singer Karina wearing a skirt and holding Chuck 70 X sneakers, with some viewers interpreting the visual composition as offensive.",
+        "The Nike-owned brand issued an apology and said it had taken the image down from its channels while working to remove it wherever else it appeared. The company did not answer questions about how the advertisement was approved or what safeguards were used before publication.",
+        "The backlash included calls for employees involved in the campaign to be fired and for a boycott, while other users said they did not believe the association was intentional. The episode renewed scrutiny of major brands’ advertising review processes."
+      ],
+      "aiSummary": "Converse removed and apologized for an advertisement criticized for racist visual references. The backlash raised questions about the campaign’s internal review and divided users over whether the imagery was intentional."
+    }
+  }
+}

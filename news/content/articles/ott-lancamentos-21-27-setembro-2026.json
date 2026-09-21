@@ -1,0 +1,40 @@
+{
+  "id": "cultura-ott-lancamentos-21-27-setembro-2026",
+  "slug": "ott-lancamentos-21-27-setembro-2026",
+  "section": "cultura",
+  "secondarySections": [],
+  "publishedAt": "2026-09-21T02:30:00.000Z",
+  "publishedDate": "2026-09-21",
+  "updatedAt": "2026-09-21T02:30:00.000Z",
+  "sources": [
+    {
+      "name": "Vogue India",
+      "url": "https://www.vogue.in/content/latest-ott-releases-streaming-netflix-prime-video-jiohotstar-september-21-september-27-2026"
+    }
+  ],
+  "rights": {
+    "mode": "original-report"
+  },
+  "translations": {
+    "pt-BR": {
+      "title": "Vogue lista 13 lançamentos de filmes e séries para a semana",
+      "summary": "A seleção de 21 a 27 de setembro reúne estreias de plataformas como Netflix, Prime Video e JioHotstar, com dramas, thrillers, comédias e novas temporadas.",
+      "paragraphs": [
+        "A lista semanal da Vogue reúne 13 filmes e séries previstos para chegar às plataformas entre 21 e 27 de setembro. Entre os destaques estão produções indianas, americanas, sul-africanas, italianas e espanholas, além de uma nova versão de uma série associada à cultura universitária negra dos Estados Unidos.",
+        "Entre os primeiros lançamentos aparecem Minerva Academy, ambientada em uma escola militar de Nápoles, e depois Habeas Corpus, drama jurídico inspirado no trabalho do Innocence Project Brasil, e The Love Hypothesis, adaptação de um romance de Ali Hazelwood.",
+        "A programação também inclui A Different World, My Sad Dead, Shaque: Trust No One, a segunda temporada de Blood Legacy, Don’t Be Shy, Hunkkaar, The Final Problem e Unabomber. As sinopses destacam mistério, tribunal, amadurecimento, horror e investigações criminais."
+      ],
+      "aiSummary": "A Vogue reuniu 13 estreias de filmes e séries para a semana de 21 a 27 de setembro, com títulos de vários países e gêneros."
+    },
+    "en": {
+      "title": "Vogue lists 13 film and television releases for the week",
+      "summary": "The September 21–27 selection covers new titles on services including Netflix, Prime Video and JioHotstar, spanning dramas, thrillers, comedies and returning series.",
+      "paragraphs": [
+        "Vogue’s weekly guide lists 13 films and series scheduled to arrive on streaming services between September 21 and 27. The selection includes Indian, American, South African, Italian and Spanish productions, as well as a revival linked to Black college culture in the United States.",
+        "Early entries include Minerva Academy, set at a military school in Naples, followed by Habeas Corpus, a legal drama inspired by the work of Innocence Project Brasil, and The Love Hypothesis, adapted from a novel by Ali Hazelwood.",
+        "The schedule also features A Different World, My Sad Dead, Shaque: Trust No One, season two of Blood Legacy, Don’t Be Shy, Hunkkaar, The Final Problem and Unabomber. Their descriptions range across mystery, courtroom drama, coming-of-age stories, horror and criminal investigations."
+      ],
+      "aiSummary": "Vogue’s guide covers 13 film and television premieres for September 21–27, with titles from multiple countries and genres."
+    }
+  }
+}

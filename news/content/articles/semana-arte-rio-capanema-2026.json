@@ -1,0 +1,40 @@
+{
+  "id": "cultura-semana-arte-rio-capanema-2026",
+  "slug": "semana-arte-rio-capanema-2026",
+  "section": "cultura",
+  "secondarySections": [],
+  "publishedAt": "2026-09-15T12:01:00-03:00",
+  "publishedDate": "2026-09-15",
+  "updatedAt": "2026-09-15T12:01:00-03:00",
+  "sources": [
+    {
+      "name": "Ministério da Cultura",
+      "url": "https://www.gov.br/cultura/pt-br/centrais-de-conteudo/sala-de-imprensa/avisos-de-pauta-defeso/palacio-gustavo-capanema-recebe-atividades-da-semana-de-arte-do-rio-a-partir-desta-quarta-feira-16"
+    }
+  ],
+  "rights": {
+    "mode": "original-report"
+  },
+  "translations": {
+    "pt-BR": {
+      "title": "Semana de Arte do Rio ocupa o Palácio Capanema com programação até 27 de setembro",
+      "summary": "O evento reúne exposições, performances, ópera, dança, cinema, música e visitas guiadas em oito circuitos culturais do centro do Rio de Janeiro.",
+      "paragraphs": [
+        "O Palácio Gustavo Capanema recebe, de 16 a 27 de setembro, uma programação da Semana de Arte do Rio com exposições, performances, ópera, visitas guiadas, debates, dança, música e atividades ligadas ao samba e à cultura popular.",
+        "A agenda Próxima Parada Samba ocupa vários dias com shows, rodas de samba, cinema, conversas musicais, atividades infantis, gastronomia e intervenções de artistas de rua. A programação inclui uma apresentação de Mart’nália, a exibição de um filme sobre Beth Carvalho e encontros com músicos ligados à cantora.",
+        "A Semana de Arte do Rio articula oito circuitos culturais, mais de 270 pontos de cultura e 300 instituições convidadas. A maior parte das atividades é aberta por ordem de chegada, enquanto visitas guiadas e algumas sessões exigem inscrição ou retirada de senha."
+      ],
+      "aiSummary": "A Semana de Arte do Rio ocupa o Palácio Capanema até 27 de setembro com exposições, música, samba, dança, cinema, arquitetura e atividades educativas."
+    },
+    "en": {
+      "title": "Rio Art Week brings exhibitions and performances to the Capanema Palace through September 27",
+      "summary": "The event combines exhibitions, performances, opera, dance, film, music and guided tours across eight cultural circuits in central Rio de Janeiro.",
+      "paragraphs": [
+        "The Gustavo Capanema Palace is hosting Rio Art Week from September 16 to 27, with exhibitions, performances, opera, guided tours, debates, dance, music and activities connected to samba and popular culture.",
+        "The Próxima Parada Samba program runs on several days and includes concerts, samba circles, films, music conversations, children’s activities, food and street-artist interventions. Its schedule includes a performance by Mart’nália, a film about Beth Carvalho and meetings with musicians associated with the singer.",
+        "Rio Art Week links eight cultural circuits, more than 270 cultural sites and 300 invited institutions. Most activities are open on a first-come basis, while guided tours and some sessions require registration or a ticket taken shortly before the event."
+      ],
+      "aiSummary": "Rio Art Week takes over the Capanema Palace through September 27 with exhibitions, music, samba, dance, film, architecture and educational activities."
+    }
+  }
+}

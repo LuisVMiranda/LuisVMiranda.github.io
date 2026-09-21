@@ -1,0 +1,39 @@
+{
+  "id": "economia-petroleo-abaixo-100",
+  "slug": "economia-petroleo-abaixo-100",
+  "section": "economia",
+  "secondarySections": ["mundo"],
+  "publishedAt": "2026-09-21T09:34:44-03:00",
+  "updatedAt": "2026-09-21T09:34:44-03:00",
+  "sources": [
+    {
+      "name": "CNN Brasil",
+      "url": "https://www.cnnbrasil.com.br/economia/money/mercado/precos-petroleo-21-setembro-2026/"
+    }
+  ],
+  "rights": {
+    "mode": "original-report"
+  },
+  "translations": {
+    "pt-BR": {
+      "title": "Petróleo cai abaixo de US$ 100 com expectativa de diplomacia entre EUA e Irã",
+      "summary": "Brent recuou 4% a US$ 99,64 e WTI caiu 5% a US$ 94,93 enquanto investidores monitoravam negociações e embarques sauditas.",
+      "paragraphs": [
+        "Os contratos futuros do petróleo recuaram na segunda-feira e ficaram abaixo de US$ 100 por barril, atingindo os menores níveis desde 10 de setembro. O Brent para novembro era negociado a US$ 99,64, queda de 4%, enquanto o WTI para outubro caía 5%, a US$ 94,93.",
+        "A reportagem relacionou a pressão sobre os preços à expectativa de avanços diplomáticos entre Estados Unidos e Irã durante a reunião da ONU e à recuperação parcial dos embarques da Arábia Saudita. Os investidores também acompanhavam a continuidade dos combates no Oriente Médio e os efeitos sobre as rotas de exportação.",
+        "O texto citou analistas do JPMorgan que consideraram fortes os fluxos de petróleo do Oriente Médio apesar de interrupções em um oleoduto saudita. Dados de satélite mencionados na matéria indicaram média de 2,9 milhões de barris por dia transportados pelo Estreito de Ormuz nos seis dias anteriores, contra 700 mil barris por dia em agosto."
+      ],
+      "aiSummary": "Os preços do Brent e do WTI caíram para as mínimas desde 10 de setembro, com o Brent abaixo de US$ 100. O mercado reagiu à expectativa de diplomacia entre Estados Unidos e Irã e à recuperação parcial das exportações sauditas."
+    },
+    "en": {
+      "title": "Oil falls below $100 as investors watch possible US-Iran diplomacy",
+      "summary": "Brent fell 4% to $99.64 and WTI dropped 5% to $94.93 as markets monitored talks and Saudi shipments.",
+      "paragraphs": [
+        "Oil futures fell on Monday and moved below $100 a barrel, reaching their lowest levels since September 10. November Brent traded at $99.64, down 4%, while October West Texas Intermediate fell 5% to $94.93.",
+        "The report linked the price pressure to expectations of diplomatic progress between the United States and Iran during the UN meeting and to a partial recovery in Saudi shipments. Investors were also watching continuing fighting in the Middle East and its impact on export routes.",
+        "The article cited JPMorgan analysts who described Middle Eastern oil flows as strong despite disruption to a Saudi pipeline. Satellite data cited in the report indicated that an average of 2.9 million barrels per day moved through the Strait of Hormuz over the previous six days, compared with 700,000 barrels per day in August."
+      ],
+      "aiSummary": "Brent and WTI fell to their lowest levels since September 10, with Brent below $100. Markets reacted to expectations of US-Iran diplomacy and a partial recovery in Saudi exports."
+    }
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "id": "economia-bitcoin-85-mil",
+  "slug": "economia-bitcoin-85-mil",
+  "section": "economia",
+  "secondarySections": [],
+  "publishedAt": "2026-09-21T10:55:30.031-03:00",
+  "updatedAt": "2026-09-21T10:55:30.031-03:00",
+  "sources": [
+    {
+      "name": "Valor Econômico",
+      "url": "https://valor.globo.com/financas/criptomoedas/noticia/2026/09/21/bitcoin-chega-a-us-85-mil-com-melhora-do-apetite-por-risco.ghtml"
+    }
+  ],
+  "rights": {
+    "mode": "original-report"
+  },
+  "translations": {
+    "pt-BR": {
+      "title": "Bitcoin supera US$ 85 mil com maior apetite por risco",
+      "summary": "A criptomoeda subiu 6,1% em 24 horas, enquanto petróleo mais barato e expectativa de trégua comercial ajudaram o movimento.",
+      "paragraphs": [
+        "O bitcoin superou US$ 85 mil na manhã de segunda-feira, acompanhando a melhora do apetite por risco nos mercados globais. Por volta das 10h50, a cotação era de US$ 85.059,77, com alta de 6,1% em 24 horas; no Brasil, a moeda era negociada a R$ 436.887,41, avanço de 4,75%.",
+        "A reportagem relaciona o movimento à queda do petróleo e à expectativa de manutenção da trégua comercial entre Estados Unidos e China antes do encontro entre Donald Trump e Xi Jinping. O texto também cita uma decisão da SEC que autorizou, sob isenção de cinco anos, a negociação de valores mobiliários tokenizados nos Estados Unidos.",
+        "Os ETFs à vista de bitcoin receberam US$ 433 milhões na sexta-feira, depois de US$ 159 milhões no dia anterior, segundo os dados citados na matéria. A recuperação também coincidiu com mais de US$ 700 milhões em posições vendidas liquidadas."
+      ],
+      "aiSummary": "O bitcoin passou de US$ 85 mil após subir 6,1% em 24 horas, com a matéria associando o avanço ao maior apetite por risco, ao petróleo mais barato e à expectativa sobre a relação comercial entre Estados Unidos e China. Entradas em ETFs e liquidações de posições vendidas também reforçaram o movimento."
+    },
+    "en": {
+      "title": "Bitcoin tops $85,000 as risk appetite improves",
+      "summary": "The cryptocurrency rose 6.1% in 24 hours as lower oil prices and hopes for a trade truce helped support the move.",
+      "paragraphs": [
+        "Bitcoin moved above $85,000 on Monday morning as risk appetite improved across global markets. At about 10:50 a.m., it was trading at $85,059.77, up 6.1% in 24 hours; in Brazil, it was quoted at R$436,887.41, a 4.75% gain.",
+        "The report linked the move to lower oil prices and expectations that the United States-China trade truce would hold before Donald Trump and Xi Jinping meet. It also cited an SEC decision allowing, under a five-year exemption, the trading of tokenized securities in the United States.",
+        "Spot bitcoin ETFs took in $433 million on Friday after receiving $159 million the previous day, according to data cited in the report. The rebound also coincided with more than $700 million in short positions being liquidated."
+      ],
+      "aiSummary": "Bitcoin moved above $85,000 after gaining 6.1% in 24 hours, with the report linking the rise to stronger risk appetite, lower oil prices and expectations around US-China trade relations. ETF inflows and liquidated short positions also supported the move."
+    }
+  }
+}

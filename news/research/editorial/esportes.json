@@ -1,122 +1,113 @@
 {
   "section": "esportes",
-  "cutoff": "2026-09-21T01:50:54.389Z",
-  "candidateRun": "research/runs/2026-09-21T01-50-54-389Z-6be61b14-2359-4471-ba3a-c9604ea7effa",
-  "queries": [
-    "Esportes notícias Brasil",
-    "Sports latest news Brazil",
-    "site:agenciabrasil.ebc.com.br/esportes/noticia/2026-09 19 setembro 2026",
-    "site:agenciabrasil.ebc.com.br/esportes/noticia/2026-09 vôlei ginástica futebol feminino tênis",
-    "site:agenciabrasil.ebc.com.br/esportes/noticia/2026-09 seleção brasileira Libertadores"
-  ],
-  "retrievedAt": "2026-09-21T02:05:00Z",
-  "reviewStatus": "draft-source-verified-no-publication-approval",
+  "cutoff": "2026-09-21T16:48:24.436Z",
+  "queries": [],
   "verified": [
     {
-      "articleId": "brasil-sao-paulo-final-brasileirao-feminino",
-      "url": "https://agenciabrasil.ebc.com.br/esportes/noticia/2026-09/equipe-do-sao-paulo-e-primeira-finalista-do-brasileirao-feminino",
-      "publishedAt": "2026-09-19T18:44:00-03:00",
-      "evidence": "A página original informa publicação em 19/09/2026 às 18h44 e relata as vitórias do São Paulo por 3 a 1 e 1 a 0 sobre o Flamengo, com vaga na final. A recuperação direta da página original foi registrada no run privado, com corpo completo acessível e conferência de data, título e conteúdo.",
-      "selectionReason": "Decisão nacional confirmada no mesmo dia, com resultado e caminho para a final descritos na fonte; a identidade existente é reutilizada via secondarySections para evitar duplicação.",
+      "articleId": "esportes-central-marllon-20260921",
+      "url": "https://ge.globo.com/pe/caruaru-regiao/futebol/times/central/noticia/2026/09/21/central-acerta-com-meia-ex-fortaleza-e-vitoria-para-disputa-do-campeonato-pernambucano.ghtml",
+      "publishedAt": "2026-09-21T09:42:11.737-03:00",
+      "evidence": "Complete extraction 357fb79c8f03.json, HTTP 200, complete:true, published 2026-09-21T09:42:11.737-03:00. The full ge report states that Central agreed with midfielder Marllon, who starts work this week; it records his prior clubs, his 25 appearances and four goals in 2026, and the October 17 start date for the Pernambuco competition. This is a dated routine roster report; no independent corroboration extraction was available in the current run, so no corroboration URL is asserted.",
+      "selectionReason": "Dated inside the preceding 24 hours, direct reporting from a reputable sports outlet, distinct roster news, and free of opinion, aggregation, and navigation-only content.",
       "contentReview": {
         "bodyComplete": true,
         "aiSummaryReviewed": true
       }
     },
     {
-      "articleId": "brasil-copa-davis-suica",
-      "url": "https://agenciabrasil.ebc.com.br/esportes/noticia/2026-09/brasil-bate-suica-e-avanca-na-copa-davis",
-      "publishedAt": "2026-09-19T16:49:00-03:00",
-      "evidence": "A página original informa publicação em 19/09/2026 às 16h49 e relata a vitória de Orlando Luz e Rafael Matos, que fechou em 3 a 0 o confronto do Brasil com a Suíça. A recuperação direta da página original foi registrada no run privado, com corpo completo acessível e conferência de data, título e conteúdo.",
-      "selectionReason": "Resultado internacional de seleção brasileira confirmado no dia e com consequência competitiva; a identidade existente é compartilhada com Brasil.",
+      "articleId": "esportes-guarani-saf-20260921",
+      "url": "https://ge.globo.com/sp/campinas-e-regiao/futebol/times/guarani/noticia/2026/09/21/guarani-tem-semana-decisiva-para-discutir-e-votar-proposta-de-saf.ghtml",
+      "publishedAt": "2026-09-21T08:26:02.465-03:00",
+      "evidence": "Complete extraction 44fba7f29ef7.json, HTTP 200, complete:true, published 2026-09-21T08:26:02.465-03:00. The full ge report covers the Guarani meetings on September 21 and 23, the September 25 hybrid vote, the proposed R$1.075 billion investment, its stated allocation, and the proposed 10%/90% ownership split. This is a direct dated club-business report; no independent corroboration extraction was available in the current run, so no corroboration URL is asserted.",
+      "selectionReason": "Dated inside the preceding 24 hours, direct coverage of a distinct club governance decision from a reputable sports outlet, with material terms present in the complete extraction and no unverified allegation required.",
       "contentReview": {
         "bodyComplete": true,
         "aiSummaryReviewed": true
       }
     },
     {
-      "articleId": "brasil-mundial-feminino-sub20",
-      "url": "https://agenciabrasil.ebc.com.br/esportes/noticia/2026-09/brasil-e-eliminado-pela-espanha-nas-quartas-da-copa-feminina-sub-20",
-      "publishedAt": "2026-09-19T16:17:00-03:00",
-      "evidence": "A página original informa publicação em 19/09/2026 às 16h17 e relata a derrota do Brasil por 1 a 0 para a Espanha nas quartas do Mundial feminino sub-20. A recuperação direta da página original foi registrada no run privado, com corpo completo acessível e conferência de data, título e conteúdo.",
-      "selectionReason": "Eliminação decisiva de uma seleção brasileira em torneio mundial, confirmada após a partida; a identidade existente é compartilhada com Brasil.",
+      "articleId": "esportes-seahawks-jadarian-price-20260920",
+      "url": "https://www.sportingnews.com/us/nfl/seattle-seahawks/news/jadarian-price-injury-update-latest-news-seahawks-rbs-status-week-2-game/80372d082918e20843d5860e",
+      "publishedAt": "2026-09-20T23:01:13+00:00",
+      "evidence": "Complete extraction 4d15fb663cca.json, HTTP 200, complete:true, published 2026-09-20T23:01:13+00:00. The full Sporting News update says Seattle was monitoring running back Jadarian Price in the fourth quarter against Arizona and that the Seahawks listed him as questionable to return with a chest injury. This is a routine low-risk injury-status update supported by one complete reputable source; no corroboration URL is asserted.",
+      "selectionReason": "Dated inside the preceding 24 hours, current and service-oriented, from a reputable sports outlet, with a clearly stated team injury designation and no speculation beyond the source.",
       "contentReview": {
         "bodyComplete": true,
         "aiSummaryReviewed": true
       }
     },
     {
-      "articleId": "esportes-flavia-saraiva-assimetricas",
-      "url": "https://agenciabrasil.ebc.com.br/esportes/noticia/2026-09/flavia-saraiva-e-ouro-nas-assimetricas-da-copa-do-mundo-de-ginastica",
-      "publishedAt": "2026-09-19T14:54:00-03:00",
-      "evidence": "A página original informa publicação em 19/09/2026 às 14h54 e registra o ouro de Flávia Saraiva nas barras assimétricas, com 13,366 pontos, além da programação de Paris e Roterdã. A recuperação direta da página original foi registrada no run privado, com corpo completo acessível e conferência de data, título e conteúdo.",
-      "selectionReason": "Medalha brasileira em etapa internacional e resultado individual claro, com fonte primária e atualização dentro das últimas 24 horas.",
+      "articleId": "esportes-copa-fmf-segunda-rodada-20260921",
+      "url": "https://ge.globo.com/mt/futebol/copa-fmf/noticia/2026/09/21/cacerense-uniao-e-santa-cruz-vencem-na-segunda-rodada-da-copa-fmf-veja-classificacao.ghtml",
+      "publishedAt": "2026-09-21T11:25:31.908-03:00",
+      "evidence": "Complete extraction 77ce9fd58a34.json, HTTP 200, complete:true, published 2026-09-21T11:25:31.908-03:00. The full ge result report records the second-round match count and goals, Cuiabá's 4-0 win over Sorriso, the 3-2 wins by Santa Cruz and Cacerense, União's 3-1 win, and the resulting points positions described in the article. This is a routine result report supported by one complete reputable source; no corroboration URL is asserted.",
+      "selectionReason": "Dated inside the preceding 24 hours, a distinct current competition-result report from a reputable outlet, with complete match facts and no opinion or aggregator material.",
       "contentReview": {
         "bodyComplete": true,
         "aiSummaryReviewed": true
       }
     },
     {
-      "articleId": "esportes-brasileirao-feminino-a2-final",
-      "url": "https://agenciabrasil.ebc.com.br/esportes/noticia/2026-09/tv-brasil-exibe-final-do-brasileirao-feminino-a2-com-vasco-e-itabirito",
-      "publishedAt": "2026-09-19T14:34:00-03:00",
-      "evidence": "A página original informa publicação em 19/09/2026 às 14h34 e confirma a transmissão da volta da final entre Vasco e Itabirito às 10h45 de 20/09, em São Januário, após vitória vascaína por 3 a 1 na ida. A recuperação direta da página original foi registrada no run privado, com corpo completo acessível e conferência de data, título e conteúdo.",
-      "selectionReason": "Serviço esportivo com decisão nacional no dia seguinte e informação de transmissão útil ao público, com fatos e horário confirmados pela emissora pública.",
+      "articleId": "esportes-capixaba-calendario-2027-20260921",
+      "url": "https://ge.globo.com/es/futebol/times/rio-branco-es/noticia/2026/09/21/rio-branco-es-aprova-mudancas-no-calendario-do-futebol-capixaba-para-2027.ghtml",
+      "publishedAt": "2026-09-21T11:02:25.729-03:00",
+      "evidence": "Complete extraction add401c829ef.json, HTTP 200, complete:true, published 2026-09-21T11:02:25.729-03:00. The full ge report says the federation and clubs approved the 2027 Espírito Santo calendar, gives the January-March, June-August and September-November windows, and states the Copa ES qualification consequences for the champion and runner-up. This is a low-risk schedule report supported by one complete reputable source; no corroboration URL is asserted.",
+      "selectionReason": "Dated inside the preceding 24 hours, current schedule information with practical sports relevance, directly reported by a reputable outlet and distinct from match-result stories.",
       "contentReview": {
         "bodyComplete": true,
         "aiSummaryReviewed": true
       }
     },
     {
-      "articleId": "esportes-brasil-venezuela-volei",
-      "url": "https://agenciabrasil.ebc.com.br/esportes/noticia/2026-09/brasil-vence-venezuela-e-esta-no-mundial-de-volei-masculino",
-      "publishedAt": "2026-09-19T13:00:00-03:00",
-      "evidence": "A página original informa publicação em 19/09/2026 às 13h e relata a vitória do Brasil por 3 a 0 sobre a Venezuela, a vaga no Mundial de 2027 e a decisão contra a Argentina. A recuperação direta da página original foi registrada no run privado, com corpo completo acessível e conferência de data, título e conteúdo.",
-      "selectionReason": "Classificação internacional obtida no mesmo dia, com placar, torneio e consequências olímpicas verificáveis na fonte.",
+      "articleId": "esportes-rio-branco-corrida-2027-20260921",
+      "url": "https://ge.globo.com/es/futebol/times/rio-branco-es/noticia/2026/09/21/corrida-de-rua-do-rio-branco-es-tera-segunda-edicao-em-2027.ghtml",
+      "publishedAt": "2026-09-21T11:33:33.773-03:00",
+      "evidence": "Complete extraction bc876766b67c.json, HTTP 200, complete:true, published 2026-09-21T11:33:33.773-03:00. The full ge report describes the September 13 debut race in Vitória, 1,800 registered participants, 23 partner brands, the early sellout, the participation cap, and the SAF's confirmation of a 2027 second edition. This is a low-risk sports-event report supported by one complete reputable source; no corroboration URL is asserted.",
+      "selectionReason": "Dated inside the preceding 24 hours, distinct event and culture/service coverage from a reputable outlet, with complete attendance and scheduling facts and no unverified allegation.",
       "contentReview": {
         "bodyComplete": true,
         "aiSummaryReviewed": true
       }
     },
     {
-      "articleId": "esportes-luisa-stefani-sp-open",
-      "url": "https://agenciabrasil.ebc.com.br/esportes/noticia/2026-09/nana-e-victoria-caem-mas-luisa-stefani-vai-semifinais-do-sp-open",
-      "publishedAt": "2026-09-18T16:52:00-03:00",
-      "evidence": "A página original informa publicação em 18/09/2026 às 16h52 e explica que Luisa Stefani e Gabriela Dabrowski avançaram por W.O. após doença de uma adversária, enquanto Naná e Victória foram eliminadas nas quartas. A recuperação direta da página original foi registrada no run privado, com corpo completo acessível e conferência de data, título e conteúdo.",
-      "selectionReason": "Resultado de torneio profissional realizado no Brasil e impacto direto para atletas brasileiras; usado na expansão de sete dias após a janela inicial.",
+      "articleId": "esportes-santa-teresa-fc-20260921",
+      "url": "https://ge.globo.com/es/futebol/noticia/2026/09/21/santa-teresa-fc-novo-time-do-espirito-santo-vai-iniciar-atividades-na-base-e-no-feminino.ghtml",
+      "publishedAt": "2026-09-21T10:35:56.613-03:00",
+      "evidence": "Complete extraction cdca9ce6df9d.json, HTTP 200, complete:true, published 2026-09-21T10:35:56.613-03:00. The full ge report says Santa Teresa FC was founded in 2026, plans youth and women's activity in 2027, targets men's professional football by 2030, and links the project to the city's culture and tourism. This is a dated club-launch report from a reputable outlet; no independent corroboration extraction was available in the current run, so no corroboration URL is asserted.",
+      "selectionReason": "Dated inside the preceding 24 hours, distinct current club-development news, directly reported by a reputable sports outlet, and based on stated plans rather than unverified allegations.",
       "contentReview": {
         "bodyComplete": true,
         "aiSummaryReviewed": true
       }
     },
     {
-      "articleId": "esportes-trinca-libertadores",
-      "url": "https://agenciabrasil.ebc.com.br/esportes/noticia/2026-09/pela-quinta-vez-brasil-poe-trinca-nas-semifinais-da-libertadores",
-      "publishedAt": "2026-09-18T07:19:00-03:00",
-      "evidence": "A página original informa publicação em 18/09/2026 às 7h19 e descreve a classificação do Flamengo, que se juntou a Fluminense e Palmeiras nas semifinais da Libertadores após empate por 1 a 1 no Maracanã. A recuperação direta da página original foi registrada no run privado, com corpo completo acessível e conferência de data, título e conteúdo.",
-      "selectionReason": "Marco relevante para clubes brasileiros na principal competição continental, confirmado por fonte primária; incluído na expansão de sete dias.",
+      "articleId": "esportes-acao-feminino-sub20-20260921",
+      "url": "https://ge.globo.com/mt/futebol/noticia/2026/09/21/acao-conquista-o-titulo-do-campeonato-mato-grossense-feminino-sub-20.ghtml",
+      "publishedAt": "2026-09-21T12:05:09.475-03:00",
+      "evidence": "Complete extraction e90951af227b.json, HTTP 200, complete:true, published 2026-09-21T12:05:09.475-03:00. The full ge result report records Ação's 4-1 final win over Várzea Grande, the scoring sequence, the championship and runner-up positions, and the six participating teams. This is a routine result report supported by one complete reputable source; no corroboration URL is asserted.",
+      "selectionReason": "Dated inside the preceding 24 hours, distinct women's youth-sports result from a reputable outlet, with complete final-score and competition facts and no opinion content.",
       "contentReview": {
         "bodyComplete": true,
         "aiSummaryReviewed": true
       }
     },
     {
-      "articleId": "esportes-colombia-sulamericano-volei",
-      "url": "https://agenciabrasil.ebc.com.br/esportes/noticia/2026-09/brasil-bate-colombia-e-segue-100-no-sul-americano-masculino-de-volei",
-      "publishedAt": "2026-09-17T22:05:00-03:00",
-      "evidence": "A página original informa publicação em 17/09/2026 às 22h05 e registra a vitória por 3 a 0 sobre a Colômbia, a terceira seguida, com Darlan como maior pontuador e vaga olímpica em jogo. A recuperação direta da página original foi registrada no run privado, com corpo completo acessível e conferência de data, título e conteúdo.",
-      "selectionReason": "Resultado competitivo com efeito sobre a classificação olímpica e detalhes estatísticos verificáveis; incluído na expansão de sete dias.",
+      "articleId": "esportes-chapecoense-atletico-nacional-20260921",
+      "url": "https://ge.globo.com/sc/futebol/times/chapecoense/noticia/2026/09/21/com-pausa-na-serie-a-chapecoense-viaja-para-jogar-amistoso-contra-o-atletico-nacional.ghtml",
+      "publishedAt": "2026-09-21T12:29:08.982-03:00",
+      "evidence": "Complete extraction f742633936f7.json, HTTP 200, complete:true, published 2026-09-21T12:29:08.982-03:00. The full ge report gives the Chapecoense-Atlético Nacional friendly's Saturday time and Medellín venue, the Wednesday departure, its 2016 tragedy memorial purpose, the 71 deaths cited, the earthquake-relief allocation, and Chapecoense's next Série A date and position. This is a routine schedule and service report supported by one complete reputable source; no corroboration URL is asserted.",
+      "selectionReason": "Dated inside the preceding 24 hours, current schedule and community-impact sports news from a reputable outlet, with all selected facts present in the complete extraction.",
       "contentReview": {
         "bodyComplete": true,
         "aiSummaryReviewed": true
       }
     },
     {
-      "articleId": "esportes-ancelotti-martinelli",
-      "url": "https://agenciabrasil.ebc.com.br/esportes/noticia/2026-09/ancelotti-convoca-martinelli-do-fluminense-para-amistosos-na-asia",
-      "publishedAt": "2026-09-16T14:13:00-03:00",
-      "evidence": "A página original informa publicação em 16/09/2026 às 14h13 e registra Martinelli entre os 26 convocados para amistosos contra Austrália e Índia, abrindo o ciclo da seleção para 2030. A recuperação direta da página original foi registrada no run privado, com corpo completo acessível e conferência de data, título e conteúdo.",
-      "selectionReason": "Decisão de seleção nacional com agenda e elenco definidos, ainda dentro da janela de sete dias e relevante para o próximo ciclo.",
+      "articleId": "esportes-rio-branco-fornecedora-20260921",
+      "url": "https://ge.globo.com/es/futebol/times/rio-branco-es/noticia/2026/09/21/rio-branco-es-decide-romper-com-a-kappa-e-tera-nova-fornecedora-de-uniformes.ghtml",
+      "publishedAt": "2026-09-21T13:28:21.943-03:00",
+      "evidence": "Complete extraction f908065be15e.json, HTTP 200, complete:true, published 2026-09-21T13:28:21.943-03:00. The full ge report says Rio Branco-ES is ending its Kappa partnership, negotiating a new supplier, seeking a broader official-product portfolio and higher royalty revenue, and expects an announcement in the coming weeks. This is a dated low-risk sports-business report; no independent corroboration extraction was available in the current run, so no corroboration URL is asserted.",
+      "selectionReason": "Dated inside the preceding 24 hours, direct and distinct club-business reporting from a reputable outlet, with no need to repeat or rely on unverified allegations.",
       "contentReview": {
         "bodyComplete": true,
         "aiSummaryReviewed": true
@@ -127,18 +118,8 @@
     "pt-BR": "",
     "en": ""
   },
-  "improvements": [
-    {
-      "observedIssue": "The candidate run returned mostly undated aggregator pages and did not verify any sports story.",
-      "action": "Opened the Agência Brasil sports index and original pages, then recorded publication times and claim-level evidence for each selection."
-    },
-    {
-      "observedIssue": "Three eligible sports stories already exist in the Brasil desk.",
-      "action": "Reused their article identities through existing secondarySections references and created no duplicate article files."
-    },
-    {
-      "observedIssue": "The final ten-story list spans one 24-hour window and a seven-day expansion.",
-      "action": "Kept six stories from the preceding 24 hours and used four additional verified stories from 16–18 September, with the expansion documented in selection reasons."
-    }
-  ]
+  "improvements": [],
+  "candidateRun": "research/runs/2026-09-21T16-48-24-436Z-221c0d1e-a836-45cb-b034-62c6ef37c843",
+  "retrievedAt": "2026-09-21T18:03:53.289Z",
+  "reviewStatus": "draft-source-verified-no-publication-approval"
 }

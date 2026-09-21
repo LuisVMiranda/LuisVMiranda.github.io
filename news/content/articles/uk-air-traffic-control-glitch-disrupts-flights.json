@@ -1,0 +1,39 @@
+{
+  "id": "mundo-20260921-uk-air-traffic-control-glitch",
+  "slug": "uk-air-traffic-control-glitch-disrupts-flights",
+  "section": "mundo",
+  "secondarySections": [],
+  "publishedAt": "2026-09-21T15:28:07.459Z",
+  "updatedAt": "2026-09-21T15:28:07.459Z",
+  "sources": [
+    {
+      "name": "BBC News",
+      "url": "https://www.bbc.com/news/articles/cqp80p78mxx5o"
+    }
+  ],
+  "rights": {
+    "mode": "original-report"
+  },
+  "translations": {
+    "pt-BR": {
+      "title": "Falha no controle aéreo britânico atrasa dezenas de voos e reacende pressão por reformas",
+      "summary": "Uma falha de conectividade no centro de Prestwick interrompeu parte do tráfego aéreo do Reino Unido, afetando aeroportos da Escócia, Irlanda do Norte e norte da Inglaterra. O serviço foi normalizado, mas companhias aéreas voltaram a questionar a resiliência da Nats após um segundo problema técnico em poucas semanas.",
+      "paragraphs": [
+        "Uma falha técnica no centro de controle de Prestwick, na Escócia, provocou atrasos e cancelamentos em dezenas de voos que passavam pelo norte do Reino Unido. Dados da empresa Cirium citados pela BBC apontavam ao menos 200 voos cancelados ou não realizados até 13h45 no horário britânico, incluindo chegadas e partidas.",
+        "A Nats, responsável pelo tráfego aéreo do país, atribuiu o episódio a um problema de conectividade e afirmou que ele não tinha relação com a falha de software em Swanwick que levou ao cancelamento de cerca de 2 mil voos no início de setembro. A empresa informou que a causa imediata foi resolvida e que a operação havia voltado à capacidade total, embora ainda houvesse efeitos em cadeia.",
+        "EasyJet, Wizz Air, Jet2, Ryanair e British Airways criticaram a recorrência dos problemas e defenderam medidas de reforma ou reforço da infraestrutura. A autoridade britânica de aviação disse que os passageiros afetados provavelmente não teriam direito a indenização, por se tratar de circunstância extraordinária, mas recomendou que acompanhassem o status diretamente com suas companhias."
+      ],
+      "aiSummary": "A reportagem explica que uma falha de conectividade em Prestwick provocou cancelamentos e atrasos em centenas de voos e foi posteriormente controlada pela Nats. O episódio reacendeu críticas de companhias aéreas, enquanto a autoridade de aviação avaliou que a maioria dos passageiros provavelmente não receberia compensação."
+    },
+    "en": {
+      "title": "UK air traffic control failure delays dozens of flights and renews pressure for reform",
+      "summary": "A connectivity failure at the Prestwick center disrupted part of the United Kingdom’s air traffic, affecting airports across Scotland, Northern Ireland and northern England. Service was restored, but airlines again questioned Nats’ resilience after a second technical problem in a few weeks.",
+      "paragraphs": [
+        "A technical failure at the Prestwick control center in Scotland caused delays and cancellations for dozens of flights using northern UK airspace. Data from analytics company Cirium cited by the BBC showed at least 200 flights canceled or not operated by 13:45 BST, covering both arrivals and departures.",
+        "Nats, the country’s air traffic service, blamed the episode on a connectivity problem and said it was unrelated to the Swanwick software failure that led to roughly 2,000 cancellations earlier in September. The company said the immediate issue had been resolved and that operations were back at full capacity, although knock-on effects remained.",
+        "EasyJet, Wizz Air, Jet2, Ryanair and British Airways criticized the recurrence and called for reform or stronger infrastructure. The UK aviation regulator said affected passengers were unlikely to qualify for compensation because the incident would probably count as an extraordinary circumstance, while advising travelers to check their status with their airline."
+      ],
+      "aiSummary": "The report says a connectivity failure at Prestwick caused cancellations and delays across hundreds of flights before Nats restored the service. The incident renewed criticism from airlines, while the aviation regulator said most affected passengers were unlikely to receive compensation."
+    }
+  }
+}

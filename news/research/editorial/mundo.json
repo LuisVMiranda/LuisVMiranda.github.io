@@ -1,126 +1,113 @@
 {
   "section": "mundo",
-  "cutoff": "2026-09-21T01:50:54.389Z",
-  "queries": [
-    "Mundo notícias internacionais",
-    "World latest news world",
-    "site:apnews.com world September 19 2026 Saudi Arabia Greenland Pakistan",
-    "site:aljazeera.com September 19 2026 Iran talks conditions Qatar",
-    "site:apnews.com September 18 2026 Cuba blackout millions",
-    "site:apnews.com September 18 2026 Canada associate membership EU",
-    "site:apnews.com September 18 2026 Zelenskyy regional summit",
-    "site:apnews.com September 17 2026 IOM migrants Europe deaths",
-    "site:aljazeera.com September 19 2026 South Africa nine women bodies",
-    "site:apnews.com September 18 2026 UN chief Guterres"
-  ],
+  "cutoff": "2026-09-21T16:48:24.436Z",
+  "queries": [],
   "verified": [
     {
-      "articleId": "mundo-riade-houthis",
-      "url": "https://saudigazette.com.sa/article/664694/saudi-arabia/saudi-air-defenses-intercept-houthi-ballistic-missile-targeting-riyadh",
-      "publishedAt": "2026-09-19T20:10:52Z",
-      "evidence": "A página acessível da Saudi Gazette informa que a defesa aérea saudita interceptou e destruiu um míssil balístico lançado pelos houthis em direção a Riad na madrugada de 19 de setembro, segundo a coalizão; o texto também registra alegações sobre tentativas contra Baish, Taif, Farasan e Yanbu.",
-      "selectionReason": "Crise regional de impacto internacional, com implicações para segurança do Golfo e rotas de energia, verificada em fonte global no mesmo dia.",
+      "articleId": "mundo-20260921-uk-air-traffic-control-glitch",
+      "url": "https://www.bbc.com/news/articles/cqp80p78mxx5o",
+      "publishedAt": "2026-09-21T15:28:07.459Z",
+      "evidence": "Complete extraction 150ef8722727.json (HTTP 200), published 2026-09-21T15:28:07.459Z, reports a connectivity failure at Prestwick that disrupted UK flights, at least 200 cancellations or non-operated flights by 13:45 BST, and restoration to full capacity. This is a routine service report; no independent corroboration was needed or available in the run.",
+      "selectionReason": "Fresh, reputable BBC service report with concrete passenger impact and an operational resolution inside the 24-hour window.",
       "contentReview": {
         "bodyComplete": true,
         "aiSummaryReviewed": true
       }
     },
     {
-      "articleId": "mundo-groenlandia-acordo",
-      "url": "https://english.stm.dk/press/press-releases/expected-agreement-on-strengthened-security-in-the-arctic-and-the-north-atlantic-area/",
-      "publishedAt": "2026-09-19T09:37:44Z",
-      "evidence": "O comunicado oficial dinamarquês informa que Groenlândia, Dinamarca e Estados Unidos esperavam assinar na Assembleia Geral da ONU um acordo de segurança para o Ártico e o Atlântico Norte, sujeito a procedimentos parlamentares; também registra soberania dinamarquesa e direito groenlandês à autodeterminação.",
-      "selectionReason": "Decisão estratégica envolvendo EUA, Dinamarca, Groenlândia e Otan, com relevância para a segurança do Ártico e diplomacia transatlântica.",
+      "articleId": "mundo-20260921-russia-united-parliament-majority",
+      "url": "https://apnews.com/article/russia-elections-kremlin-putin-5342c2757623f2e46e94b4c548e94213",
+      "publishedAt": "2026-09-21T00:00:00.000Z",
+      "evidence": "Complete extraction 1ae251e81a68.json, published 2026-09-21, reports preliminary United Russia results of about 58% and 355 of 450 Duma seats after more than 95% of stations were counted, plus restrictions on opposition and objections to voting in occupied Ukrainian areas. Complete extraction 32b683ec7c3c.json from Agência Brasil independently confirms 57.83% and 355 seats; corroboration is limited to the preliminary result figures.",
+      "selectionReason": "Major current international election result with direct institutional figures and independent same-run corroboration, while the copy preserves the preliminary status and contested context.",
       "contentReview": {
         "bodyComplete": true,
         "aiSummaryReviewed": true
       }
     },
     {
-      "articleId": "mundo-ira-negociacoes",
-      "url": "https://www.aljazeera.com/news/2026/9/19/iran-says-conditions-to-re-engage-in-talks-end-war-sent-to-us-via-qatar",
-      "publishedAt": "2026-09-19T00:00:00Z",
-      "publishedDate": "2026-09-19",
-      "evidence": "A página original da Al Jazeera informa apenas a data de publicação, 19/09/2026, e atribui ao chefe de segurança iraniano a confirmação de condições transmitidas pelos mediadores do Catar: fim da guerra, liberação de fundos congelados e fim do bloqueio naval. publishedDate preserva a data exibida; publishedAt permanece normalizado em 00:00Z apenas para ordenação. A recuperação direta da página original foi registrada no run privado, com corpo completo acessível e conferência de data, título e conteúdo.",
-      "selectionReason": "Sinal diplomático direto em um conflito com efeitos regionais e globais; a fonte identifica o entrevistado e separa declarações de fatos confirmados.",
+      "articleId": "mundo-20260921-germany-merz-election-defeats",
+      "url": "https://apnews.com/article/germany-elections-chancellor-merz-reform-f8cae1d2218962a0200ab26186053028",
+      "publishedAt": "2026-09-21T00:00:00.000Z",
+      "evidence": "Complete extraction 235dced888da.json, published 2026-09-21, reports CDU losses in Berlin and Mecklenburg-Western Pomerania, the CDU falling below 5% in the latter, AfD strength, Merz staying in office and no visible leadership challenge. Complete extraction b48d84bd70f0.json from CNN Brasil independently corroborates the state-election results and pressure on Merz.",
+      "selectionReason": "High-impact European political development with current final-result reporting and independent same-run corroboration.",
       "contentReview": {
         "bodyComplete": true,
         "aiSummaryReviewed": true
       }
     },
     {
-      "articleId": "mundo-paquistao-mesquita",
-      "url": "https://www.dawn.com/news/amp/2031031",
-      "publishedAt": "2026-09-19T06:43:00Z",
-      "evidence": "A reportagem completa da Dawn informa que pelo menos 21 pessoas, incluindo 15 policiais, morreram e mais de 100 ficaram feridas em um ataque com veículo carregado de explosivos e invasão de uma mesquita nas linhas policiais de Kohat; o texto detalha a operação contra os atacantes e as reações oficiais.",
-      "selectionReason": "Ataque de grande impacto humano na fronteira com o Afeganistão, com risco de escalada regional e informações confirmadas por autoridades locais citadas pela AP.",
+      "articleId": "mundo-20260921-p4m-multilateralism-initiative",
+      "url": "https://g1.globo.com/mundo/noticia/2026/09/20/brasil-ue-canada-e-quenia-criam-alianca-global-pelo-multilateralismo-as-vesperas-de-assembleia-geral-da-onu.ghtml",
+      "publishedAt": "2026-09-20T18:23:50.898-03:00",
+      "evidence": "Complete extraction 8a5bc1acb4a1.json, published 2026-09-20T18:23:50.898-03:00, reports the P4M manifesto by Brazil, the European Union, Canada and Kenya before the U.N. General Assembly, including its open coalition model and reform aims. Complete extraction b2e40961f1a2.json independently confirms the signatories, manifesto and stated institutional goals.",
+      "selectionReason": "Current diplomatic initiative directly relevant to Brazil and the international agenda, supported by two complete reputable extractions covering the same announcement.",
       "contentReview": {
         "bodyComplete": true,
         "aiSummaryReviewed": true
       }
     },
     {
-      "articleId": "mundo-cuba-apagao",
-      "url": "https://www.local10.com/news/world/2026/09/18/cuba-hit-with-another-blackout-as-millions-across-the-island-are-left-without-electricity/",
-      "publishedAt": "2026-09-18T17:03:00-04:00",
-      "evidence": "A página que reproduz a reportagem da Associated Press informa publicação em 18/09/2026 às 17h03 e relata novo colapso da rede cubana, deixando milhões sem energia e ativando protocolos oficiais de restauração. A recuperação direta da página original foi registrada no run privado, com corpo completo acessível e conferência de data, título e conteúdo.",
-      "selectionReason": "Crise de infraestrutura com efeito nacional e dimensão geopolítica, verificada por despacho da AP dentro da janela de sete dias.",
+      "articleId": "mundo-20260921-dmz-explosion-south-korean-officers",
+      "url": "https://apnews.com/article/north-korea-dmz-explosion-border-85889eaed6308b7c05a2bf402076c772",
+      "publishedAt": "2026-09-21T00:00:00.000Z",
+      "evidence": "Complete extraction d994caa9c458.json (HTTP 200), published 2026-09-21, reports three South Korean officers injured in an explosion inside the western DMZ, the evacuation of all three and an unknown cause. The report explicitly says officials did not establish whether a North Korean mine was involved; no independent corroboration extraction for the incident was present in the run.",
+      "selectionReason": "Fresh, clearly attributed border-security report; the copy avoids assigning blame or treating an unconfirmed mine theory as fact.",
       "contentReview": {
         "bodyComplete": true,
         "aiSummaryReviewed": true
       }
     },
     {
-      "articleId": "mundo-canada-ue-associado",
-      "url": "https://ireland.representation.ec.europa.eu/news-and-events/news/state-european-union-address-2026-groundbreaking-speech-european-commission-president-ursula-von-der-2026-09-16_en?prefLang=pl",
-      "publishedAt": "2026-09-18T09:41:37Z",
-      "evidence": "A página da Comissão Europeia sobre o discurso de Estado da União de 16 de setembro registra o anúncio de planos para que o Canadá se torne o primeiro membro associado da UE, além de explicar que a proposta integra uma agenda de cooperação comercial, defensiva e tecnológica.",
-      "selectionReason": "Mudança diplomática e comercial relevante entre Europa e América do Norte, com limites jurídicos explicitamente registrados pela fonte.",
+      "articleId": "mundo-20260921-nvidia-ai-extinction-debate",
+      "url": "https://www.bbc.com/news/articles/cr5ye7p13jg7o",
+      "publishedAt": "2026-09-21T06:25:43.927Z",
+      "evidence": "Complete extraction 47ebd43620b6.json (HTTP 200), published 2026-09-21T06:25:43.927Z, reports Jensen Huang rejecting AI-extinction predictions, the competing calls for slower development, and the related U.S.-China discussion of an AI safety notification mechanism. The article attributes the views and preserves the debate rather than presenting a forecast as established fact.",
+      "selectionReason": "Current global technology and AI-safety debate from a complete BBC report, framed as attributed positions rather than verified predictions.",
       "contentReview": {
         "bodyComplete": true,
         "aiSummaryReviewed": true
       }
     },
     {
-      "articleId": "mundo-ucrania-cimeira",
-      "url": "https://c8summit.org/en",
-      "publishedAt": "2026-09-18T11:17:27Z",
-      "evidence": "O site oficial da C8 Summit informa que o encontro fundador ocorreu em Bukovel, na Ucrânia, de 18 a 20 de setembro de 2026, reunindo oito países da região dos Cárpatos, instituições europeias, parceiros globais, comunidades e investidores para segurança, desenvolvimento econômico e cooperação transfronteiriça.",
-      "selectionReason": "Coordenação regional diretamente ligada à guerra na Ucrânia, com participantes e áreas de cooperação identificados na fonte primária de cobertura.",
+      "articleId": "mundo-20260920-converse-ad-apology",
+      "url": "https://apnews.com/article/converse-ad-removed-sneakers-0b8858b25f50a3e820a2fcc3ef5d0410",
+      "publishedAt": "2026-09-20T00:00:00.000Z",
+      "evidence": "Complete extraction 317563e56732.json (HTTP 200), published 2026-09-20, reports Converse removing a social-media ad after critics said its imagery evoked racist references, followed by an apology and unanswered questions about ad screening. The source also records mixed public reactions; no allegation beyond the documented criticism is asserted.",
+      "selectionReason": "Low-risk current culture and business accountability report from a complete AP extraction, suitable for single-source treatment.",
       "contentReview": {
         "bodyComplete": true,
         "aiSummaryReviewed": true
       }
     },
     {
-      "articleId": "mundo-migracao-europa",
-      "url": "https://unric.org/en/new-iom-data-migrant-arrivals-to-europe-fall-39-in-2026-while-deaths-continue-to-rise/",
-      "publishedAt": "2026-09-17T15:14:25Z",
-      "evidence": "A página do UNRIC, baseada em dados da OIM publicados em 17 de setembro, informa quase 60 mil chegadas marítimas à Europa em 2026 até então, queda de 39%, e pelo menos 2.292 mortos ou desaparecidos, com aumentos em rotas centrais e orientais do Mediterrâneo.",
-      "selectionReason": "Tendência humanitária transfronteiriça de grande escala, sustentada por dados de uma agência da ONU e publicada dentro da janela de sete dias.",
+      "articleId": "mundo-20260921-cate-blanchett-no-filming",
+      "url": "https://www.bbc.com/news/articles/cmvgyzpy6g43o",
+      "publishedAt": "2026-09-21T14:03:20.131Z",
+      "evidence": "Complete extraction b19825bc4dd2.json (HTTP 200), published 2026-09-21T14:03:20.131Z, reports Cate Blanchett asking theatergoers not to film at the National Theatre and an audience account that the recording occurred during the interval. It also gives the production dates and comparable incidents involving other performers.",
+      "selectionReason": "Fresh, low-risk culture report with a clear event, direct attribution and complete source text.",
       "contentReview": {
         "bodyComplete": true,
         "aiSummaryReviewed": true
       }
     },
     {
-      "articleId": "mundo-africa-feminicidios",
-      "url": "https://www.aljazeera.com/news/2026/9/19/fear-and-anger-in-south-africa-as-bodies-of-nine-women-found-what-we-know",
-      "publishedAt": "2026-09-19T00:00:00Z",
-      "publishedDate": "2026-09-19",
-      "evidence": "A página original da Al Jazeera informa apenas a data de publicação, 19/09/2026, e registra nove corpos encontrados em Ekurhuleni nos dois meses anteriores, apenas quatro vítimas identificadas e investigação policial sem conclusão sobre vínculos. publishedDate preserva a data exibida; publishedAt permanece normalizado em 00:00Z apenas para ordenação. A recuperação direta da página original foi registrada no run privado, com corpo completo acessível e conferência de data, título e conteúdo.",
-      "selectionReason": "Crise de violência de gênero com repercussão nacional e contexto de direitos humanos, apresentada com cautela sobre o que a investigação ainda não estabeleceu.",
+      "articleId": "mundo-20260921-un-climate-ai-renewables",
+      "url": "https://apnews.com/article/climate-change-un-fuel-ai-renewables-f3208930e39c7d233bdc24315065dcd2",
+      "publishedAt": "2026-09-21T13:00:29Z",
+      "evidence": "Complete extraction 90d5e96932c0.json (HTTP 200), published 2026-09-21T13:00:29, with warnings empty and complete=true. The AP report covers climate costs, heat waves, wildfires, the Nepal-China border flood that killed more than 1,300 people, energy-price pressure, AI and data centers, and the need to accelerate renewable deployment; it records 693 gigawatts of renewable additions in 2025 and says more capacity must be built from 2026 to 2030 than in all previous years combined.",
+      "selectionReason": "Distinct, current AP climate and world-affairs report inside the 24-hour window, with complete dated evidence and concrete climate, energy, AI and renewable-capacity developments; it replaces the low-relevance streaming schedule without padding the section.",
       "contentReview": {
         "bodyComplete": true,
         "aiSummaryReviewed": true
       }
     },
     {
-      "articleId": "mundo-onu-guterres",
-      "url": "https://www.un.org/pl/node/247859",
-      "publishedAt": "2026-09-18T01:27:33Z",
-      "evidence": "A entrevista publicada no site da ONU registra António Guterres falando sobre conflitos, injustiças, mudança climática e inteligência artificial fora de controle; o material também contextualiza sua trajetória e a fase final de seu mandato como secretário-geral.",
-      "selectionReason": "Leitura institucional de alcance global antes da Assembleia Geral da ONU, com declarações atribuídas diretamente ao secretário-geral em entrevista.",
+      "articleId": "mundo-20260921-ted-lasso-oxford-city-goalkeeper",
+      "url": "https://www.bbc.com/news/articles/cq8jeq88wk3o",
+      "publishedAt": "2026-09-21T05:14:47.828Z",
+      "evidence": "Complete extraction f207024a4040.json (HTTP 200), published 2026-09-21T05:14:47.828Z, reports Oxford City goalkeeper Robyn Cullen’s recurring role as a goalkeeper in Ted Lasso’s fourth season and her account of the family response to the premiere. This is a low-risk culture and sport profile using one complete BBC source.",
+      "selectionReason": "Current, reputable human-interest culture/sport report that broadens the desk beyond hard-news duplication without relying on allegations or unverified claims.",
       "contentReview": {
         "bodyComplete": true,
         "aiSummaryReviewed": true
@@ -132,7 +119,7 @@
     "en": ""
   },
   "improvements": [],
-  "candidateRun": "research/runs/2026-09-21T01-50-54-389Z-6be61b14-2359-4471-ba3a-c9604ea7effa",
-  "retrievedAt": "2026-09-21T02:05:00Z",
+  "candidateRun": "research/runs/2026-09-21T16-48-24-436Z-221c0d1e-a836-45cb-b034-62c6ef37c843",
+  "retrievedAt": "2026-09-21T18:03:53.289Z",
   "reviewStatus": "draft-source-verified-no-publication-approval"
 }

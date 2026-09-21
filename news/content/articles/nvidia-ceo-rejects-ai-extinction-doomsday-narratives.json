@@ -1,0 +1,39 @@
+{
+  "id": "mundo-20260921-nvidia-ai-extinction-debate",
+  "slug": "nvidia-ceo-rejects-ai-extinction-doomsday-narratives",
+  "section": "mundo",
+  "secondarySections": ["tecnologia"],
+  "publishedAt": "2026-09-21T06:25:43.927Z",
+  "updatedAt": "2026-09-21T06:25:43.927Z",
+  "sources": [
+    {
+      "name": "BBC News",
+      "url": "https://www.bbc.com/news/articles/cr5ye7p13jg7o"
+    }
+  ],
+  "rights": {
+    "mode": "original-report"
+  },
+  "translations": {
+    "pt-BR": {
+      "title": "CEO da Nvidia rejeita previsões de extinção por IA e chama alertas de alarmismo",
+      "summary": "Jensen Huang disse que previsões de que a inteligência artificial levará à extinção humana nesta década não têm base científica. As declarações ocorrem em meio a uma disputa pública sobre ritmo de desenvolvimento, segurança e responsabilidade das empresas.",
+      "paragraphs": [
+        "Jensen Huang, presidente-executivo da Nvidia, rejeitou a ideia de que a inteligência artificial provocará a extinção da humanidade até o fim da década. Em entrevista à CBS News, ele afirmou que 2030 não representará o fim do mundo e classificou esse tipo de previsão como uma narrativa apocalíptica desnecessária.",
+        "As declarações entram em um debate que ganhou força depois de comentários de um ex-pesquisador da Anthropic sobre riscos extremos. Executivos como Dario Amodei e Sam Altman defenderam desacelerar o desenvolvimento, enquanto Huang disse que os alertas não estão fundamentados na ciência e que a implantação segura é essencial para a própria Nvidia.",
+        "A reportagem também situa a disputa no contexto da indústria de chips, das restrições de exportação entre Estados Unidos e China e das conversas recentes entre os dois países sobre um mecanismo de notificação para incidentes de segurança em IA. Donald Trump, por sua vez, já havia rejeitado pedidos para reduzir o ritmo de desenvolvimento."
+      ],
+      "aiSummary": "O CEO da Nvidia rejeitou previsões de extinção causada pela IA e disse que elas não têm base científica. A fala ocorre enquanto executivos, governos e pesquisadores discutem limites de desenvolvimento, segurança e cooperação internacional."
+    },
+    "en": {
+      "title": "Nvidia CEO rejects AI extinction predictions as alarmist",
+      "summary": "Jensen Huang said predictions that artificial intelligence will cause human extinction this decade are not grounded in science. His comments come amid a public dispute over development speed, safety and corporate responsibility.",
+      "paragraphs": [
+        "Jensen Huang, Nvidia’s chief executive, rejected the idea that artificial intelligence will bring about humanity’s extinction by the end of the decade. In an interview with CBS News, he said 2030 would not mark the end of the world and called such predictions an unnecessary doomsday narrative.",
+        "The comments add to a debate intensified by remarks from a former Anthropic researcher about extreme risks. Executives including Dario Amodei and Sam Altman have called for slower development, while Huang said the warnings are not grounded in science and that safe deployment is essential to Nvidia’s own interests.",
+        "The report places the dispute in the context of the chip industry, export restrictions between the United States and China, and recent talks about an AI safety notification mechanism. President Donald Trump had separately rejected calls to reduce the pace of AI development."
+      ],
+      "aiSummary": "Nvidia’s CEO rejected predictions that AI will cause human extinction and said they lack a scientific basis. The remarks come as executives, governments and researchers debate development limits, safety and international cooperation."
+    }
+  }
+}

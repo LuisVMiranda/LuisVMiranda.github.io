@@ -1,0 +1,39 @@
+{
+  "id": "bofa-agentes-ia-ciberseguranca",
+  "slug": "bofa-agentes-ia-ciberseguranca",
+  "section": "tecnologia",
+  "secondarySections": ["economia"],
+  "publishedAt": "2026-09-21T12:33:00.748Z",
+  "updatedAt": "2026-09-21T12:33:00.748Z",
+  "sources": [
+    {
+      "name": "Bloomberg Línea",
+      "url": "https://www.bloomberglinea.com.br/mercados/avanco-de-agentes-de-ia-abre-nova-frente-de-crescimento-para-ciberseguranca-diz-bofa/"
+    }
+  ],
+  "rights": {
+    "mode": "original-report"
+  },
+  "translations": {
+    "pt-BR": {
+      "title": "BofA vê agentes de IA abrindo nova frente para o mercado de cibersegurança",
+      "summary": "O Bank of America avalia que a expansão de agentes de IA aumenta a necessidade de autenticação, autorização e governança, reforçando a demanda por segurança digital.",
+      "paragraphs": [
+        "O Bank of America avalia que a adoção de agentes de inteligência artificial amplia o campo de ameaças e cria novas necessidades de segurança e governança. Na leitura do banco, a cibersegurança passa a funcionar como uma camada de controle para que empresas usem esses sistemas.",
+        "A análise citada pela Bloomberg Línea relaciona essa percepção ao desempenho recente de fundos do setor e destaca a gestão de identidades como um componente central. Cada agente precisa de autenticação, autorização e monitoramento compatíveis com os acessos que recebe.",
+        "O banco elevou os preços-alvo que acompanha para Okta, SailPoint e CrowdStrike, associando as empresas a diferentes frentes de proteção de identidade, dispositivos e redes. A matéria apresenta essas conclusões como uma avaliação do BofA, não como garantia de desempenho dos papéis."
+      ],
+      "aiSummary": "O BofA vê a segurança de agentes de IA como um novo motor de demanda para empresas de cibersegurança."
+    },
+    "en": {
+      "title": "BofA sees AI agents opening a new front for the cybersecurity market",
+      "summary": "Bank of America says the expansion of AI agents increases the need for authentication, authorization, and governance, strengthening demand for digital security.",
+      "paragraphs": [
+        "Bank of America says that adopting artificial intelligence agents expands the threat landscape and creates new security and governance needs. In the bank's view, cybersecurity becomes a control layer that allows companies to use these systems.",
+        "The analysis cited by Bloomberg Línea links that view to the recent performance of sector funds and highlights identity management as a central component. Each agent needs authentication, authorization, and monitoring suited to the access it receives.",
+        "The bank raised the price targets it follows for Okta, SailPoint, and CrowdStrike, connecting the companies with different areas of protection for identity, devices, and networks. The report presents these conclusions as BofA's assessment, not as a guarantee of stock performance."
+      ],
+      "aiSummary": "BofA sees AI-agent security as a new demand driver for cybersecurity companies."
+    }
+  }
+}

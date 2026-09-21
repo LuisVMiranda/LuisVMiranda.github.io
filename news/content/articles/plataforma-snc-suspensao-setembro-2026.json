@@ -1,0 +1,40 @@
+{
+  "id": "cultura-plataforma-snc-suspensao-2026",
+  "slug": "plataforma-snc-suspensao-setembro-2026",
+  "section": "cultura",
+  "secondarySections": [],
+  "publishedAt": "2026-09-15T15:05:00-03:00",
+  "publishedDate": "2026-09-15",
+  "updatedAt": "2026-09-15T15:05:00-03:00",
+  "sources": [
+    {
+      "name": "Ministério da Cultura",
+      "url": "https://www.gov.br/cultura/pt-br/assuntos/noticias-defeso-eleitoral/plataforma-do-sistema-nacional-de-cultura-fica-indisponivel-a-partir-de-21-de-setembro"
+    }
+  ],
+  "rights": {
+    "mode": "original-report"
+  },
+  "translations": {
+    "pt-BR": {
+      "title": "Plataforma do Sistema Nacional de Cultura fica suspensa até 14 de outubro",
+      "summary": "O Ministério da Cultura interrompe o sistema para implantar uma nova versão e orienta municípios a concluir consultas e cadastros antes do período de manutenção.",
+      "paragraphs": [
+        "A Plataforma do Sistema Nacional de Cultura ficará temporariamente suspensa de 21 de setembro a 14 de outubro de 2026. Segundo o Ministério da Cultura, a interrupção é necessária para procedimentos técnicos de implantação de uma nova versão.",
+        "Durante a manutenção, não será possível atualizar dados nem cadastrar novos municípios no Sistema Nacional de Cultura. O ministério recomendou que consultas e procedimentos pendentes fossem concluídos até 20 de setembro.",
+        "O acesso deverá ser normalizado em 15 de outubro de 2026. A suspensão afeta uma plataforma usada para organizar informações e adesões municipais ao sistema nacional de políticas culturais."
+      ],
+      "aiSummary": "A plataforma do Sistema Nacional de Cultura ficará indisponível de 21 de setembro a 14 de outubro para uma atualização técnica, sem novos cadastros municipais no período."
+    },
+    "en": {
+      "title": "Brazil’s National Culture System platform to remain offline until October 14",
+      "summary": "The Culture Ministry is taking the platform offline to deploy a new version and advises municipalities to finish pending consultations and registrations before the maintenance period.",
+      "paragraphs": [
+        "Brazil’s National Culture System platform will be temporarily suspended from September 21 through October 14, 2026. The Culture Ministry said the interruption is needed for technical work to deploy a new version.",
+        "During the maintenance period, users will not be able to update data or register new municipalities in the National Culture System. The ministry advised that pending consultations and procedures be completed by September 20.",
+        "Access is expected to return on October 15, 2026. The suspension affects a platform used to organize information and municipal participation in Brazil’s national cultural-policy system."
+      ],
+      "aiSummary": "Brazil’s National Culture System platform will be offline from September 21 to October 14 for a technical upgrade, with new municipal registrations paused."
+    }
+  }
+}

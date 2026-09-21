@@ -1,0 +1,39 @@
+{
+  "id": "openai-brasil-eleicoes-2026",
+  "slug": "openai-brasil-eleicoes-2026",
+  "section": "tecnologia",
+  "secondarySections": ["politica"],
+  "publishedAt": "2026-09-21T13:01:00.000-03:00",
+  "updatedAt": "2026-09-21T13:01:00.000-03:00",
+  "sources": [
+    {
+      "name": "Canaltech",
+      "url": "https://canaltech.com.br/inteligencia-artificial/openai-diz-que-brasil-e-laboratorio-do-mundo-e-o-grande-teste-de-ia-em-eleicoes/"
+    }
+  ],
+  "rights": {
+    "mode": "original-report"
+  },
+  "translations": {
+    "pt-BR": {
+      "title": "OpenAI chama eleição brasileira de 2026 de teste para suas barreiras de IA",
+      "summary": "Um diretor de políticas públicas da OpenAI disse que a eleição brasileira pode orientar medidas contra abuso político e desinformação em outros países.",
+      "paragraphs": [
+        "Bruno Lewicki, diretor de políticas públicas da OpenAI na América Latina, afirmou que a eleição brasileira de 2026 será um teste importante para o uso de IA generativa em campanhas. Segundo a empresa, a experiência poderá orientar medidas em pleitos futuros de países como França e Espanha.",
+        "A OpenAI diz que criou mecanismos contra interferência eleitoral, operações de influência e tentativas de ocultar a origem de conteúdos gerados por IA. A companhia também afirma que seguirá regras do Tribunal Superior Eleitoral e manterá um canal para comunicações de autoridades brasileiras.",
+        "A matéria descreve ainda regras do TSE que exigem identificação explícita de propaganda produzida ou alterada de forma significativa por IA e restringem novos conteúdos sintéticos com imagem ou voz de candidatos em torno da votação. A empresa reconhece que o problema continua quando o material sai da ferramenta e circula por redes sociais e mensageiros."
+      ],
+      "aiSummary": "A OpenAI vê a eleição de 2026 no Brasil como um teste de suas medidas contra abusos políticos e conteúdos sintéticos."
+    },
+    "en": {
+      "title": "OpenAI calls Brazil’s 2026 election a test for its AI safeguards",
+      "summary": "An OpenAI public-policy director said Brazil’s election could guide measures against political abuse and misinformation in other countries.",
+      "paragraphs": [
+        "Bruno Lewicki, OpenAI’s public-policy director for Latin America, said Brazil’s 2026 election will be an important test for generative AI in campaigns. The company says the experience could guide measures in future elections in countries such as France and Spain.",
+        "OpenAI says it has created mechanisms against election interference, influence operations, and attempts to hide the origin of AI-generated material. The company also says it will follow Superior Electoral Court rules and maintain a channel for communications from Brazilian authorities.",
+        "The report also describes TSE rules requiring explicit labeling of campaign material produced or significantly altered by AI and restricting new synthetic content using candidates’ images or voices around voting. The company acknowledges that the problem continues once material leaves the tool and circulates through social networks and messaging services."
+      ],
+      "aiSummary": "OpenAI sees Brazil’s 2026 election as a test of measures against political abuse and synthetic content."
+    }
+  }
+}

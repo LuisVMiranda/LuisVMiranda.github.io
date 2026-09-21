@@ -1,0 +1,39 @@
+{
+  "id": "politica-lula-neutralidade-centro",
+  "slug": "politica-lula-neutralidade-centro",
+  "section": "politica",
+  "secondarySections": [],
+  "publishedAt": "2026-09-21T12:32:29.909-03:00",
+  "updatedAt": "2026-09-21T12:32:29.909-03:00",
+  "sources": [
+    {
+      "name": "Valor Internacional",
+      "url": "https://valorinternational.globo.com/politics/news/2026/09/21/lula-campaign-courts-centrist-neutrality-for-possible-runoff.ghtml"
+    }
+  ],
+  "rights": {
+    "mode": "original-report"
+  },
+  "translations": {
+    "pt-BR": {
+      "title": "Campanha de Lula busca neutralidade de partidos de centro em eventual segundo turno",
+      "summary": "O PT considera mais realista impedir um endosso formal a Flávio Bolsonaro do que obter o apoio direto de todas as siglas centristas.",
+      "paragraphs": [
+        "A campanha de Lula tenta manter neutros os principais partidos de centro em um eventual segundo turno contra Flávio Bolsonaro, informou o Valor. O objetivo seria evitar que essas siglas apoiem formalmente o adversário, em vez de buscar seu endosso direto.",
+        "O texto diz que PSD, União Brasil e Republicanos tendem à neutralidade nacional, embora diretórios e filiados possam fazer alianças locais. União Brasil e Republicanos já haviam anunciado neutralidade no primeiro turno; o Progressistas aparece como principal incógnita.",
+        "Segundo a reportagem, as conversas também alcançam a composição do próximo governo e a formação da base no Congresso. Ciro Nogueira pretende reunir a federação do Progressistas em 6 de outubro para definir a posição nacional após o primeiro turno."
+      ],
+      "aiSummary": "A campanha de Lula busca impedir que partidos de centro apoiem formalmente Flávio Bolsonaro em um eventual segundo turno. O Valor relata que algumas siglas se inclinam à neutralidade, enquanto o Progressistas deve definir sua posição depois da primeira rodada."
+    },
+    "en": {
+      "title": "Lula campaign seeks centrist neutrality in a possible runoff",
+      "summary": "The Workers’ Party sees blocking a formal endorsement of Flávio Bolsonaro as more realistic than winning every centrist party’s direct support.",
+      "paragraphs": [
+        "Lula’s campaign is trying to keep major centrist parties neutral in a possible runoff against Flávio Bolsonaro, Valor reported. The goal is to prevent formal endorsements of his rival rather than win direct backing from every centrist party.",
+        "The report says the Social Democratic Party, Brazil Union and Republicans are leaning toward national neutrality, even as local organizations and members may form their own alliances. Brazil Union and Republicans had already announced neutrality in the first round; the Progressives remain the main uncertainty.",
+        "According to the report, the talks also cover the composition of a future government and its congressional base. Ciro Nogueira plans to convene the Progressives federation on October 6 to decide its national position after the first round."
+      ],
+      "aiSummary": "Lula’s campaign is seeking to prevent centrist parties from formally backing Flávio Bolsonaro in a possible runoff. Valor reports that some parties are leaning toward neutrality, while the Progressives are expected to decide after the first round."
+    }
+  }
+}

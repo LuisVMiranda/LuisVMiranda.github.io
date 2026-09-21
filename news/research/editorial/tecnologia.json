@@ -1,129 +1,113 @@
 {
   "section": "tecnologia",
-  "cutoff": "2026-09-21T01:50:54.389Z",
-  "dateConvention": "For the four date-only source pages normalized at midnight UTC, each article preserves the source calendar date in publishedDate while publishedAt remains a midnight UTC normalization used for ordering.",
-  "queries": [
-    "Tecnologia notícias Brasil",
-    "Technology latest news Brazil",
-    "site:gov.br tecnologia inovação inteligência artificial setembro 2026",
-    "site:gov.br/mdic datacenter Redata setembro 2026",
-    "site:gov.br/saude tecnologia inovação setembro 2026",
-    "site:gov.br/mj ECA Digital setembro 2026",
-    "site:openai.com model misalignment September 2026",
-    "site:anthropic.com/news September 2026 AI safety",
-    "site:gov.ca.gov AI September 18 2026",
-    "site:aws.amazon.com Kimi K3 September 2026"
-  ],
+  "cutoff": "2026-09-21T16:48:24.436Z",
+  "queries": [],
   "verified": [
     {
-      "articleId": "tecnologia-redata-datacenters",
-      "url": "https://www.gov.br/mdic/pt-br/assuntos/noticias/2026-periodo-eleitoral/setembro/presidente-sanciona-o-redata-que-estimula-datacenters-e-desenvolvimento-tecnologico-no-brasil",
-      "publishedAt": "2026-09-15T16:12:00-03:00",
-      "evidence": "A página do MDIC informa publicação em 15/09/2026 às 16h12, atualização em 19/09 às 11h04 e descreve a sanção do Redata, com incentivos a datacenters, exigência de 2% para pesquisa e inovação, oferta mínima de 10% da capacidade ao mercado brasileiro e critérios de sustentabilidade. A recuperação direta da página original foi registrada no run privado, com corpo completo acessível e conferência de data, título e conteúdo.",
-      "selectionReason": "Medida nacional com efeito direto sobre infraestrutura digital, computação em nuvem, IA e soberania de dados; fonte oficial e atualização dentro das últimas 24 horas do corte.",
+      "articleId": "bofa-agentes-ia-ciberseguranca",
+      "url": "https://www.bloomberglinea.com.br/mercados/avanco-de-agentes-de-ia-abre-nova-frente-de-crescimento-para-ciberseguranca-diz-bofa/",
+      "publishedAt": "2026-09-21T12:33:00.748Z",
+      "evidence": "A complete extraction from Bloomberg Línea, published at 2026-09-21T12:33:00.748Z, reports Bank of America’s view that AI agents widen the threat landscape, make identity controls more important, and support higher cybersecurity spending; it also records higher target prices for Okta, SailPoint, and CrowdStrike. Corroboration basis: no independent complete extraction covering the same BofA note was available in this run, so the copy attributes the assessment to the bank and does not present it as a forecast or guarantee.",
+      "selectionReason": "Current, in-scope business technology analysis from a reputable financial-news outlet; selected for its direct relevance to AI-agent security and because the article clearly attributes the market view to Bank of America.",
       "contentReview": {
         "bodyComplete": true,
         "aiSummaryReviewed": true
       }
     },
     {
-      "articleId": "tecnologia-tcu-ia-generativa",
-      "url": "https://portal.tcu.gov.br/imprensa/noticias/pesquisa-traca-diagnostico-sobre-maturidade-da-ia-generativa-no-tcu",
-      "publishedAt": "2026-09-18T00:00:00-03:00",
-      "evidence": "O Portal do TCU informa publicação em 18/09/2026 e apresenta pesquisa respondida por 1.122 servidores: 88,1% usam IA, 45,1% diariamente e 77,8% revisam integralmente o material gerado antes de incorporá-lo a documentos oficiais. A recuperação direta da página original foi registrada no run privado, com corpo completo acessível e conferência de data, título e conteúdo.",
-      "selectionReason": "Evidência brasileira concreta sobre adoção, produtividade e supervisão humana no setor público, com números e metodologia descritos pela própria instituição.",
+      "articleId": "celular-calor-bateria",
+      "url": "https://canaltech.com.br/smartphone/deixar-o-celular-no-carro-pode-estragar-a-bateria-mesmo-sem-usar-o-aparelho/",
+      "publishedAt": "2026-09-21T06:30:00.000-03:00",
+      "evidence": "A complete Canaltech extraction, published at 2026-09-21T06:30:00-03:00, explains that hot parked cars can exceed smartphone storage limits, accelerate lithium-ion battery aging, trigger temporary thermal protections, and reduce useful capacity over time. Corroboration basis: this is a routine, low-risk service report with an expert cited in the complete extraction; no second URL was needed.",
+      "selectionReason": "Current, practical, low-risk service report with a named engineering expert and clear consumer guidance; it is directly in scope for technology and avoids speculation.",
       "contentReview": {
         "bodyComplete": true,
         "aiSummaryReviewed": true
       }
     },
     {
-      "articleId": "tecnologia-ats-doencas-ultrarraras",
-      "url": "https://www.gov.br/saude/pt-br/assuntos/noticias-ms/2026/setembro/ministerio-da-saude-debate-avaliacao-de-tecnologias-em-saude-para-doencas-ultrarraras-em-evento-internacional",
-      "publishedAt": "2026-09-19T09:49:00-03:00",
-      "evidence": "A página do Ministério da Saúde informa publicação em 19/09/2026 às 9h49 e registra workshop realizado no Rio nos dias 16 e 17, com especialistas discutindo métodos para avaliar tecnologias destinadas a doenças ultrarraras e subsidiar decisões da Conitec. A recuperação direta da página original foi registrada no run privado, com corpo completo acessível e conferência de data, título e conteúdo.",
-      "selectionReason": "Tecnologia aplicada à saúde pública, com cooperação internacional e consequência explícita para decisões de incorporação de medicamentos e procedimentos no SUS.",
+      "articleId": "phishing-passkeys-contas-corporativas",
+      "url": "https://tek.sapo.pt/noticias/internet/artigos/novo-esquema-de-phishing-imita-as-passkeys-para-roubo-de-documentos-corporativos/",
+      "publishedAt": "2026-09-21T09:34:28+00:00",
+      "evidence": "A complete TEK Notícias extraction, published at 2026-09-21T09:34:28+00:00, reports Microsoft’s description of phishing campaigns that impersonate support, imitate Microsoft authentication, capture tokens, add MFA methods, enumerate cloud resources, and exfiltrate documents. Corroboration basis: no independent complete extraction of the same campaign was available in this run; the copy keeps the claims explicitly attributed to Microsoft.",
+      "selectionReason": "Current and directly in-scope cybersecurity report from an established technology outlet; selected because it contains concrete defensive indicators and does not rely on unnamed allegations.",
       "contentReview": {
         "bodyComplete": true,
         "aiSummaryReviewed": true
       }
     },
     {
-      "articleId": "tecnologia-eca-digital-plataformas",
-      "url": "https://www.gov.br/mj/pt-br/assuntos/noticias-1/eca-digital-completa-um-ano-e-mjsp-consolida-acoes-de-enfrentamento-a-violencia-contra-criancas-e-adolescentes-na-internet",
-      "publishedAt": "2026-09-18T11:57:00-03:00",
-      "evidence": "O MJSP informa publicação em 18/09/2026 às 11h57 e atualização às 14h54, registra um ano do ECA Digital, seis meses de vigência regulamentada e o prazo para plataformas com mais de 1 milhão de usuários jovens apresentarem o primeiro relatório semestral de transparência. A recuperação direta da página original foi registrada no run privado, com corpo completo acessível e conferência de data, título e conteúdo.",
-      "selectionReason": "Regulação digital brasileira com efeitos sobre plataformas, ANPD, supervisão parental, denúncias e conteúdo gerado por IA; fonte institucional e atualidade máxima.",
+      "articleId": "kojima-physint-xbox",
+      "url": "https://canaltech.com.br/games/kojima-revela-forma-absurda-como-a-sony-cancelou-physint-fiquei-chocado/",
+      "publishedAt": "2026-09-21T09:02:34.000-03:00",
+      "evidence": "A complete Canaltech extraction, published at 2026-09-21T09:02:34-03:00, reports Kojima’s account of Sony ending Physint funding, the studio’s move to seek Xbox support, its statement that the project continues, and the absence of disclosed reasons for the funding decision. Corroboration basis: this is a current culture-and-games report based on an attributed interview and studio statement; one complete reputable source is sufficient.",
+      "selectionReason": "Current, distinct games-industry development from a reputable technology outlet; selected as a routine culture/technology report with attributed statements and no unresolved allegation.",
       "contentReview": {
         "bodyComplete": true,
         "aiSummaryReviewed": true
       }
     },
     {
-      "articleId": "tecnologia-hackathon-sus-oncologia",
-      "url": "https://www.gov.br/saude/pt-br/assuntos/noticias-ms/2026/setembro/ministerio-da-saude-realiza-etapa-nordeste-do-hackathon-sus-e-seleciona-startups-para-desafio-nacional-em-oncologia",
-      "publishedAt": "2026-09-14T11:02:00-03:00",
-      "evidence": "O Ministério da Saúde informa publicação em 14/09/2026 às 11h02 e descreve a etapa Nordeste do Hackathon SUS, realizada em Recife nos dias 10 e 11, que selecionou três startups com soluções para triagem, diagnóstico e apoio a cirurgias oncológicas. A recuperação direta da página original foi registrada no run privado, com corpo completo acessível e conferência de data, título e conteúdo.",
-      "selectionReason": "Inovação brasileira aplicada a um problema público concreto, com detalhes técnicos das propostas e conexão direta com necessidades regionais do SUS; dentro da janela de sete dias.",
+      "articleId": "teste-openai-hacktron",
+      "url": "https://canaltech.com.br/inteligencia-artificial/openai-foi-invadida-por-hackers-que-usaram-rival-do-chatgpt/",
+      "publishedAt": "2026-09-21T10:06:00.000-03:00",
+      "evidence": "A complete Canaltech extraction, published at 2026-09-21T10:06:00-03:00, reports an authorized Hacktron AI exercise that used an OpenAI help-forum flaw, Anthropic models, OpenAI’s confirmation to AFP, a roughly 14-hour fix, and a 6,500-dollar bounty. Corroboration basis: no independent complete extraction of this incident was available in the run; the copy preserves the authorization and attribution and adds no allegation of criminal activity.",
+      "selectionReason": "Current, in-scope AI-security incident with concrete remediation details and explicit attribution to an authorized test and OpenAI’s response; selected without using sensational wording from the source headline.",
       "contentReview": {
         "bodyComplete": true,
         "aiSummaryReviewed": true
       }
     },
     {
-      "articleId": "tecnologia-anthropic-accenture-avaliacao",
-      "url": "https://www.anthropic.com/news/accenture-embedded-evaluation",
-      "publishedAt": "2026-09-18T00:00:00Z",
-      "publishedDate": "2026-09-18",
-      "evidence": "A publicação da Anthropic é datada de 18/09/2026 e anuncia parceria com a Accenture, liderada pela Faculty, para avaliação independente, red-teaming, análises de alinhamento e testes de salvaguardas; cada empresa afirma esperar investir ao menos US$ 1 bilhão em cinco anos. publishedDate preserva a data exibida; publishedAt permanece normalizado em 00:00Z apenas para ordenação. A recuperação direta da página original foi registrada no run privado, com corpo completo acessível e conferência de data, título e conteúdo.",
-      "selectionReason": "Mudança relevante na governança de modelos de fronteira, com acesso de avaliadores incorporados às empresas e compromissos financeiros explicitados pela fonte primária.",
+      "articleId": "transferencia-esim-novo-celular",
+      "url": "https://canaltech.com.br/telecom/trocou-de-celular-saiba-o-que-acontece-com-seu-esim-e-como-levar-o-numero/",
+      "publishedAt": "2026-09-20T15:30:01.000-03:00",
+      "evidence": "A complete Canaltech extraction, published at 2026-09-20T15:30:01-03:00, explains that eSIM profiles are separate from backups, advises keeping the old phone until calls, messages, and data work on the new one, and compares carrier-specific transfer and reactivation paths. Corroboration basis: this is a routine, low-risk service guide inside the preceding 24-hour window; one complete reputable source is sufficient.",
+      "selectionReason": "Current consumer technology service report with concrete, low-risk migration guidance and carrier-specific context; selected as the one story just outside the freshest few hours but still inside the 24-hour window.",
       "contentReview": {
         "bodyComplete": true,
         "aiSummaryReviewed": true
       }
     },
     {
-      "articleId": "tecnologia-openai-misalignment",
-      "url": "https://openai.com/index/model-misalignment-reporting-framework/",
-      "publishedAt": "2026-09-16T00:00:00Z",
-      "publishedDate": "2026-09-16",
-      "evidence": "A página da OpenAI é datada de 16/09/2026 e apresenta um marco para acompanhar, investigar e divulgar desalinhamento de modelos, junto de seis relatos de comportamentos inesperados observados nos seis meses anteriores. publishedDate preserva a data exibida; publishedAt permanece normalizado em 00:00Z apenas para ordenação. A recuperação direta da página original foi registrada no run privado, com corpo completo acessível e conferência de data, título e conteúdo.",
-      "selectionReason": "Fonte primária documenta um mecanismo novo de transparência sobre segurança de IA e explicita limites, trilhas de investigação e relação com obrigações legais.",
+      "articleId": "iphone-duo-apple-pencil",
+      "url": "https://canaltech.com.br/smartphone/iphone-duo-quase-veio-com-pencil-mas-apple-desistiu-por-problemas-tecnicos/",
+      "publishedAt": "2026-09-21T07:44:31.000-03:00",
+      "evidence": "A complete Canaltech extraction, published at 2026-09-21T07:44:31-03:00, attributes to Mark Gurman the report that Apple dropped a smaller magnetic Pencil after technical problems, plans USB-C Pencil support through software, and scheduled the phone for October 23 with October 16 preorders. Corroboration basis: this is a routine product-development and launch report; the copy keeps the Gurman attribution and the article’s distinction between planned and confirmed features.",
+      "selectionReason": "Current, distinct product-development story from a reputable technology outlet; selected for a concrete hardware and software change while retaining attribution for reported details.",
       "contentReview": {
         "bodyComplete": true,
         "aiSummaryReviewed": true
       }
     },
     {
-      "articleId": "tecnologia-california-ai-kill-switch",
-      "url": "https://www.gov.ca.gov/2026/09/18/governor-newsom-issues-executive-order-to-accelerate-independent-oversight-and-advance-the-creation-of-an-ai-kill-switch/",
-      "publishedAt": "2026-09-18T00:00:00-07:00",
-      "evidence": "O governo da Califórnia informa, em 18/09/2026, ordem executiva para acelerar auditorias e supervisão independente; o texto diz que especialistas devem produzir em dois meses recomendações que incluem planos de segurança e um possível mecanismo de desligamento emergencial para modelos de fronteira. A recuperação direta da página original foi registrada no run privado, com corpo completo acessível e conferência de data, título e conteúdo.",
-      "selectionReason": "Decisão regulatória subnacional com potencial de influenciar padrões nacionais de segurança de IA, distinguindo claramente propostas futuras de medidas já em vigor.",
+      "articleId": "openai-brasil-eleicoes-2026",
+      "url": "https://canaltech.com.br/inteligencia-artificial/openai-diz-que-brasil-e-laboratorio-do-mundo-e-o-grande-teste-de-ia-em-eleicoes/",
+      "publishedAt": "2026-09-21T13:01:00.000-03:00",
+      "evidence": "A complete Canaltech extraction, published at 2026-09-21T13:01:00-03:00, reports an OpenAI Latin America policy director’s characterization of Brazil’s 2026 election as a test, the company’s stated safeguards and TSE compliance channel, and the article’s description of TSE requirements for synthetic campaign content. Corroboration basis: no independent complete extraction of the same OpenAI briefing was available in this run; the copy labels company claims and does not treat them as independent validation.",
+      "selectionReason": "Current, in-scope AI-and-elections report with direct relevance to Brazil; selected because it separates OpenAI’s stated plans from the regulatory rules described in the source.",
       "contentReview": {
         "bodyComplete": true,
         "aiSummaryReviewed": true
       }
     },
     {
-      "articleId": "tecnologia-kimi-k3-bedrock",
-      "url": "https://aws.amazon.com/about-aws/whats-new/2026/09/moonshot-ai-kimi-k3-on-amazon-bedrock/",
-      "publishedAt": "2026-09-18T00:00:00Z",
-      "publishedDate": "2026-09-18",
-      "evidence": "A AWS informa publicação em 18/09/2026 e disponibilidade geral do Kimi K3 no Amazon Bedrock. A página descreve visão nativa, janela de contexto de 1 milhão de tokens, cache explícito de prompts e a alegação da Moonshot de 2,8 trilhões de parâmetros. publishedDate preserva a data exibida; publishedAt permanece normalizado em 00:00Z apenas para ordenação. A recuperação direta da página original foi registrada no run privado, com corpo completo acessível e conferência de data, título e conteúdo.",
-      "selectionReason": "Lançamento de infraestrutura e modelo de IA com impacto global em programação, documentos e agentes; a fonte separa as características observadas das alegações da desenvolvedora.",
+      "articleId": "xiaomi-18-pro-lancamento",
+      "url": "https://canaltech.com.br/smartphone/novo-celular-top-da-xiaomi-ja-tem-data-de-lancamento-veja-tudo-o-que-sabemos/",
+      "publishedAt": "2026-09-21T13:19:45.000-03:00",
+      "evidence": "A complete Canaltech extraction, published at 2026-09-21T13:19:45-03:00, reports Xiaomi’s official September 23 reveal date and campaign, expected battery differences, a possible 2-nanometer platform, Leica cameras, and the lack of confirmed pricing and overseas availability. Corroboration basis: this is a routine launch-schedule report; the copy explicitly distinguishes official campaign information from preliminary specifications, so no second URL was required.",
+      "selectionReason": "Current consumer-technology schedule report from a reputable outlet; selected for a confirmed event date and for transparent treatment of unconfirmed pre-launch specifications.",
       "contentReview": {
         "bodyComplete": true,
         "aiSummaryReviewed": true
       }
     },
     {
-      "articleId": "tecnologia-anthropic-pesquisa-recursiva",
-      "url": "https://www.anthropic.com/institute/recursive-self-improvement",
-      "publishedAt": "2026-09-18T00:00:00Z",
-      "publishedDate": "2026-09-18",
-      "evidence": "A página do Anthropic Institute registra atualização em 18/09/2026 e descreve dados internos e benchmarks sobre agentes que escrevem código, executam experimentos e delegam horas de trabalho, afirmando que a empresa ainda não atingiu melhoria recursiva plenamente autônoma. publishedDate preserva a data exibida; publishedAt permanece normalizado em 00:00Z apenas para ordenação. A recuperação direta da página original foi registrada no run privado, com corpo completo acessível e conferência de data, título e conteúdo.",
-      "selectionReason": "Pesquisa primária sobre a fronteira de automação da própria pesquisa de IA, com métricas, ressalvas metodológicas e limites humanos explícitos.",
+      "articleId": "amazon-bloqueia-muse-meta",
+      "url": "https://www.theverge.com/tech/998078/amazon-blocks-meta-muse-ai-agent-shopping",
+      "publishedAt": "2026-09-21T09:21:47+00:00",
+      "evidence": "A complete The Verge extraction, published at 2026-09-21T09:21:47+00:00, reports that Amazon blocked Meta’s Muse shopping agent, cites the retailer’s terms-of-use and privacy/security concerns, records Meta’s stated limits on access to login and payment data, and links the move to Amazon’s broader response to rival shopping agents. Corroboration basis: the extraction attributes the underlying report to GeekWire and includes Amazon’s statement; no separate complete extraction for the same block was available in this run.",
+      "selectionReason": "Current, in-scope platform and AI-agent development from a reputable technology publication; selected because it is a distinct market event and the copy preserves the reported-source and company-response attribution.",
       "contentReview": {
         "bodyComplete": true,
         "aiSummaryReviewed": true
@@ -135,7 +119,7 @@
     "en": ""
   },
   "improvements": [],
-  "candidateRun": "research/runs/2026-09-21T01-50-54-389Z-6be61b14-2359-4471-ba3a-c9604ea7effa",
-  "retrievedAt": "2026-09-21T02:05:00Z",
+  "candidateRun": "research/runs/2026-09-21T16-48-24-436Z-221c0d1e-a836-45cb-b034-62c6ef37c843",
+  "retrievedAt": "2026-09-21T18:03:53.289Z",
   "reviewStatus": "draft-source-verified-no-publication-approval"
 }

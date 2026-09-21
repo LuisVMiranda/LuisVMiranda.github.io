@@ -1,0 +1,40 @@
+{
+  "id": "ciencia-bebes-atencao-rostos",
+  "slug": "bebes-atencao-rostos-natureza-criacao",
+  "section": "ciencia",
+  "secondarySections": [],
+  "publishedAt": "2026-09-21T09:00:20+00:00",
+  "publishedDate": "2026-09-21",
+  "updatedAt": "2026-09-21T09:00:20+00:00",
+  "sources": [
+    {
+      "name": "The Guardian",
+      "url": "https://www.theguardian.com/science/2026/sep/21/baby-girls-boys-interest-faces-nature-nurture"
+    }
+  ],
+  "rights": {
+    "mode": "original-report"
+  },
+  "translations": {
+    "pt-BR": {
+      "title": "Estudo com recém-nascidos reabre debate sobre natureza e criação",
+      "summary": "Bebês do sexo feminino passaram proporcionalmente mais tempo olhando para rostos do que para um brinquedo, mas os pesquisadores destacam a grande variação individual.",
+      "paragraphs": [
+        "Em testes com 130 bebês de oito horas a três dias de vida, pesquisadores exibiram lado a lado um rosto e um brinquedo enquanto um rastreador registrava para onde cada criança olhava.",
+        "Todos os grupos demonstraram mais interesse pelo rosto, mas as meninas preferiram o vídeo do rosto em proporção maior que os meninos. Como os participantes tinham poucos dias de vida, os autores apontam fatores biológicos, como genética e exposição hormonal no útero, como possíveis explicações.",
+        "O estudo mostra diferenças médias entre grupos e não determina o comportamento de cada criança. Os pesquisadores dizem que serão necessários acompanhamentos mais longos para saber se essa diferença inicial influencia o desenvolvimento social ou a vulnerabilidade a condições neurológicas."
+      ],
+      "aiSummary": "Um estudo com recém-nascidos encontrou uma diferença média na atenção visual de meninas e meninos diante de rostos e brinquedos. O resultado sugere que fatores biológicos podem participar do padrão, mas não permite prever o desenvolvimento de uma criança individual."
+    },
+    "en": {
+      "title": "Newborn study reopens the nature-versus-nurture debate",
+      "summary": "Baby girls spent proportionally more time looking at faces than at a toy, but the researchers stress the large amount of individual variation.",
+      "paragraphs": [
+        "In tests involving 130 babies aged from eight hours to three days, researchers showed a face and a toy side by side while an eye tracker recorded where each child looked.",
+        "All groups showed more interest in the face, but girls preferred the face video by a larger proportion than boys did. Because the participants were only days old, the authors point to biological factors such as genetics and hormone exposure in the womb as possible explanations.",
+        "The study found average differences between groups and does not determine any individual child’s behavior. The researchers say longer follow-up will be needed to learn whether the early difference affects social development or vulnerability to neurological conditions."
+      ],
+      "aiSummary": "A newborn study found an average difference in how girls and boys looked at faces versus toys. The result suggests biology may contribute to the pattern, but it cannot predict an individual child’s development."
+    }
+  }
+}

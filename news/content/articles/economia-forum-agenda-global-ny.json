@@ -1,0 +1,39 @@
+{
+  "id": "economia-forum-agenda-global-ny",
+  "slug": "economia-forum-agenda-global-ny",
+  "section": "economia",
+  "secondarySections": ["mundo"],
+  "publishedAt": "2026-09-21T05:00:00.569-03:00",
+  "updatedAt": "2026-09-21T05:00:00.569-03:00",
+  "sources": [
+    {
+      "name": "Valor Econômico",
+      "url": "https://valor.globo.com/brasil/agenda-global-2026/noticia/2026/09/21/forum-em-ny-debate-transformacoes-globais.ghtml"
+    }
+  ],
+  "rights": {
+    "mode": "original-report"
+  },
+  "translations": {
+    "pt-BR": {
+      "title": "Fórum em Nova York reúne debates sobre geopolítica, energia e IA",
+      "summary": "Evento do Valor e da Amcham Brasil terá painéis sobre negócios, minerais críticos, indústria e clima durante a semana da ONU.",
+      "paragraphs": [
+        "Lideranças empresariais, autoridades e especialistas do Brasil e dos Estados Unidos participam nesta segunda-feira, em Nova York, do Fórum Agenda Global 2026. O evento do Valor Econômico e da Amcham Brasil ocorre no Citi Headquarters durante a semana da Assembleia Geral da ONU e da Climate Week.",
+        "A programação prevê discussões sobre a nova economia global, segurança energética, minerais críticos e cooperação entre Brasil e Estados Unidos. Também estão previstos painéis sobre inteligência artificial, automação, robótica e a competitividade da indústria em meio à disputa tecnológica entre grandes economias.",
+        "O último painel tratará dos efeitos do Super El Niño sobre agronegócio, investimentos, seguros e competitividade no biênio 2026/2027. Entre os participantes citados estão representantes da ApexBrasil, Copel, Ibram, CSIS, USP e empresas patrocinadoras do evento."
+      ],
+      "aiSummary": "O Fórum Agenda Global 2026, realizado pelo Valor e pela Amcham Brasil em Nova York, reúne debates sobre geopolítica, energia, minerais críticos, IA e indústria. A programação também prevê discussão sobre os possíveis efeitos do Super El Niño na economia."
+    },
+    "en": {
+      "title": "New York forum focuses on geopolitics, energy and AI",
+      "summary": "A Valor-Amcham Brazil event will hold panels on business, critical minerals, industry and climate during UN week.",
+      "paragraphs": [
+        "Business leaders, officials and experts from Brazil and the United States are taking part in the Agenda Global 2026 Forum in New York on Monday. The Valor Econômico and Amcham Brazil event is being held at Citi Headquarters during UN General Assembly week and Climate Week.",
+        "The program includes discussions on the new global economy, energy security, critical minerals and Brazil-US cooperation. Other panels will address artificial intelligence, automation, robotics and industrial competitiveness amid technological competition among major economies.",
+        "The final panel will examine how a Super El Niño could affect agriculture, investment, insurance and competitiveness in 2026-2027. Participants cited in the program include representatives of ApexBrasil, Copel, Ibram, CSIS, the University of São Paulo and event sponsors."
+      ],
+      "aiSummary": "The Valor-Amcham Brazil Agenda Global 2026 Forum in New York will discuss geopolitics, energy, critical minerals, AI and industry. Its program also includes a panel on possible economic effects of a Super El Niño."
+    }
+  }
+}

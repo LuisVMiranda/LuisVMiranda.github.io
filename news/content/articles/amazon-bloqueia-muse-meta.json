@@ -1,0 +1,39 @@
+{
+  "id": "amazon-bloqueia-muse-meta",
+  "slug": "amazon-bloqueia-muse-meta",
+  "section": "tecnologia",
+  "secondarySections": ["economia"],
+  "publishedAt": "2026-09-21T09:21:47+00:00",
+  "updatedAt": "2026-09-21T09:21:47+00:00",
+  "sources": [
+    {
+      "name": "The Verge",
+      "url": "https://www.theverge.com/tech/998078/amazon-blocks-meta-muse-ai-agent-shopping"
+    }
+  ],
+  "rights": {
+    "mode": "original-report"
+  },
+  "translations": {
+    "pt-BR": {
+      "title": "Amazon bloqueia agente de compras Muse, da Meta",
+      "summary": "A Amazon impediu o agente Muse de comprar em sua plataforma, citando regras de uso e preocupações de privacidade e segurança sobre o acesso automatizado.",
+      "paragraphs": [
+        "O The Verge informou que a Amazon bloqueou o acesso do agente de IA Muse, da Meta, às compras feitas em sua plataforma. Usuários começaram a ver uma mensagem dizendo que o acesso contínuo por um agente não autorizado violava as condições de uso do serviço.",
+        "Segundo a reportagem, a Amazon afirmou que a Meta não avisou previamente que o Muse acessaria a loja e apontou preocupações sobre identificação do agente e possível captura de credenciais. A Meta havia dito no lançamento que o assistente não consegue ver dados seguros de login ou pagamento.",
+        "O bloqueio amplia a disputa sobre agentes que navegam e compram em nome de usuários, enquanto varejistas tentam manter o relacionamento direto com o consumidor. A matéria relaciona o caso a uma iniciativa semelhante da Amazon contra o serviço Comet, da Perplexity."
+      ],
+      "aiSummary": "A Amazon bloqueou o agente Muse, da Meta, por regras de acesso e preocupações sobre privacidade, credenciais e compras automatizadas."
+    },
+    "en": {
+      "title": "Amazon blocks Meta’s Muse shopping agent",
+      "summary": "Amazon blocked the Muse agent from shopping on its platform, citing terms of use and privacy and security concerns about automated access.",
+      "paragraphs": [
+        "The Verge reported that Amazon blocked Meta’s Muse AI agent from shopping on its platform. Users began seeing a message saying that continued access by an unauthorized agent violated the service’s terms of use.",
+        "According to the report, Amazon said Meta had not notified it that Muse would access the store and raised concerns about the agent identifying itself and possibly capturing credentials. Meta had said at launch that the assistant could not see secure login or payment information.",
+        "The block expands the dispute over agents that browse and buy on behalf of users, as retailers try to keep a direct relationship with shoppers. The article connects the case with Amazon’s similar effort against Perplexity’s Comet service."
+      ],
+      "aiSummary": "Amazon blocked Meta’s Muse over access rules and concerns about privacy, credentials, and automated shopping."
+    }
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "id": "esportes-copa-fmf-segunda-rodada-20260921",
+  "slug": "esportes-copa-fmf-segunda-rodada-20260921",
+  "section": "esportes",
+  "secondarySections": [],
+  "publishedAt": "2026-09-21T11:25:31.908-03:00",
+  "updatedAt": "2026-09-21T11:25:31.908-03:00",
+  "sources": [
+    {
+      "name": "ge.globo.com",
+      "url": "https://ge.globo.com/mt/futebol/copa-fmf/noticia/2026/09/21/cacerense-uniao-e-santa-cruz-vencem-na-segunda-rodada-da-copa-fmf-veja-classificacao.ghtml"
+    }
+  ],
+  "rights": {
+    "mode": "original-report"
+  },
+  "translations": {
+    "pt-BR": {
+      "title": "Cacerense, União e Santa Cruz vencem na segunda rodada da Copa FMF",
+      "summary": "Rodada terminou com três vitórias no fim de semana e 14 gols; Cuiabá já havia goleado na quinta-feira.",
+      "paragraphs": [
+        "A segunda rodada da Copa FMF terminou com três partidas disputadas no fim de semana e 14 gols. O Cuiabá já havia vencido o Sorriso por 4 a 0 na quinta-feira, na Arena Pantanal.",
+        "O Santa Cruz derrotou o Uirapuru por 3 a 2, o Cacerense superou o Campo Novo pelo mesmo placar e o União venceu o Várzea Grande por 3 a 1.",
+        "Com duas vitórias, o Cacerense chegou a seis pontos e manteve 100% de aproveitamento no Grupo B. Santa Cruz e União somaram três pontos cada na competição."
+      ],
+      "aiSummary": "Cacerense, União e Santa Cruz venceram na segunda rodada da Copa FMF, que teve 14 gols no fim de semana."
+    },
+    "en": {
+      "title": "Cacerense, União and Santa Cruz win in Copa FMF second round",
+      "summary": "The round ended with three weekend wins and 14 goals; Cuiabá had already won big on Thursday.",
+      "paragraphs": [
+        "The second round of the Copa FMF ended with three matches played over the weekend and 14 goals. Cuiabá had already beaten Sorriso 4-0 on Thursday at Arena Pantanal.",
+        "Santa Cruz defeated Uirapuru 3-2, Cacerense beat Campo Novo by the same score and União defeated Várzea Grande 3-1.",
+        "With two wins, Cacerense reached six points and kept a perfect record in Group B. Santa Cruz and União each moved to three points in the competition."
+      ],
+      "aiSummary": "Cacerense, União and Santa Cruz won in the second Copa FMF round, which produced 14 weekend goals."
+    }
+  }
+}

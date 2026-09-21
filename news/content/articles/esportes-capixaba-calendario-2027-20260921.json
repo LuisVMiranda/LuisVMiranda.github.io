@@ -1,0 +1,39 @@
+{
+  "id": "esportes-capixaba-calendario-2027-20260921",
+  "slug": "esportes-capixaba-calendario-2027-20260921",
+  "section": "esportes",
+  "secondarySections": [],
+  "publishedAt": "2026-09-21T11:02:25.729-03:00",
+  "updatedAt": "2026-09-21T11:02:25.729-03:00",
+  "sources": [
+    {
+      "name": "ge.globo.com",
+      "url": "https://ge.globo.com/es/futebol/times/rio-branco-es/noticia/2026/09/21/rio-branco-es-aprova-mudancas-no-calendario-do-futebol-capixaba-para-2027.ghtml"
+    }
+  ],
+  "rights": {
+    "mode": "original-report"
+  },
+  "translations": {
+    "pt-BR": {
+      "title": "Futebol capixaba terá calendário dividido entre estaduais e Copa ES em 2027",
+      "summary": "Federação e clubes aprovaram o Capixabão no primeiro semestre e a Copa Espírito Santo no segundo.",
+      "paragraphs": [
+        "O calendário de 2027 aprovado pela Federação de Futebol do Espírito Santo e pelos clubes manterá o Campeonato Capixaba no primeiro semestre e levará a Copa Espírito Santo para a segunda metade do ano.",
+        "A programação prevê o estadual entre janeiro e março, a Série B entre junho e agosto e a Copa Espírito Santo entre setembro e novembro. O Rio Branco-ES recebeu a mudança de forma positiva e avaliou que ela melhora o planejamento.",
+        "A Copa Espírito Santo também terá peso maior: o campeão garantirá vagas na Copa do Brasil de 2028 e na Série D do Campeonato Brasileiro de 2028, enquanto o vice representará o estado na Copa Centro-Oeste, também chamada de Copa Verde."
+      ],
+      "aiSummary": "O futebol capixaba aprovou para 2027 um calendário com o estadual no primeiro semestre e a Copa ES entre setembro e novembro."
+    },
+    "en": {
+      "title": "Espírito Santo football to split state competitions and Copa ES in 2027",
+      "summary": "The federation and clubs approved the state championship for the first half and Copa Espírito Santo for the second.",
+      "paragraphs": [
+        "The 2027 calendar approved by the Espírito Santo Football Federation and the clubs will keep the Campeonato Capixaba in the first half of the year and move Copa Espírito Santo to the second half.",
+        "The schedule sets the state championship for January through March, Série B for June through August and Copa Espírito Santo for September through November. Rio Branco-ES welcomed the change and said it improves planning.",
+        "Copa Espírito Santo will also carry greater importance: its champion will earn places in the 2028 Copa do Brasil and 2028 Brazilian Série D, while the runner-up will represent the state in the Copa Centro-Oeste, also known as Copa Verde."
+      ],
+      "aiSummary": "Espírito Santo football approved a 2027 calendar placing the state championship in the first half and Copa ES from September to November."
+    }
+  }
+}

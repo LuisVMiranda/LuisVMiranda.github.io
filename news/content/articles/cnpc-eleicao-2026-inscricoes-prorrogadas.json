@@ -1,0 +1,40 @@
+{
+  "id": "cultura-cnpc-eleicao-2026-inscricoes-prorrogadas",
+  "slug": "cnpc-eleicao-2026-inscricoes-prorrogadas",
+  "section": "cultura",
+  "secondarySections": [],
+  "publishedAt": "2026-09-21T08:51:00-03:00",
+  "publishedDate": "2026-09-21",
+  "updatedAt": "2026-09-21T08:58:00-03:00",
+  "sources": [
+    {
+      "name": "Ministério da Cultura",
+      "url": "https://www.gov.br/cultura/pt-br/assuntos/noticias-defeso-eleitoral/inscricoes-para-o-processo-eleitoral-do-conselho-nacional-de-politica-cultural-sao-prorrogadas-ate-30-de-setembro"
+    }
+  ],
+  "rights": {
+    "mode": "original-report"
+  },
+  "translations": {
+    "pt-BR": {
+      "title": "Inscrições para eleição do CNPC são prorrogadas até 30 de setembro",
+      "summary": "Retificação do edital amplia o prazo para representantes da sociedade civil e ajusta regras de documentos, cotas e participação de servidores no mandato 2026–2029.",
+      "paragraphs": [
+        "O prazo de inscrição para a eleição dos representantes da sociedade civil no Conselho Nacional de Política Cultural foi estendido até 30 de setembro de 2026. A data inicial era 22 de setembro, e a comissão eleitoral afirmou que a ampliação favorece uma participação mais ampla.",
+        "A mudança foi publicada no Diário Oficial da União em 21 de setembro e também alterou o período de análise documental, previsto para 1º a 13 de outubro. A retificação permite complementar documentos, como portfólios e vídeos, durante a fase de recursos quando a inclusão corrigir o motivo da inabilitação.",
+        "O processo continua sendo realizado pela plataforma Vota Cultura e definirá 21 colegiados nacionais de participação social e o plenário do CNPC para o mandato de 2026 a 2029. O edital também prevê validação remota de cotas e declarações coletivas para povos e comunidades tradicionais."
+      ],
+      "aiSummary": "O Ministério da Cultura prorrogou até 30 de setembro as inscrições para a eleição do CNPC e ajustou regras de análise documental, cotas e participação de servidores."
+    },
+    "en": {
+      "title": "Brazil extends CNPC election registration deadline to September 30",
+      "summary": "An amended notice gives civil-society representatives more time to register and changes rules on documents, quotas and public employees for the 2026–2029 term.",
+      "paragraphs": [
+        "Registration for civil-society representatives in the National Cultural Policy Council election has been extended to September 30, 2026. The original deadline was September 22, and the electoral commission said the extension should broaden participation.",
+        "The change was published in Brazil’s Official Gazette on September 21 and also changed the document-review period, which is scheduled for October 1 to 13. The amended notice allows documents such as portfolios and videos to be supplemented during appeals when they correct the reason for disqualification.",
+        "The process remains online through the Vota Cultura platform and will define 21 national social-participation councils and the CNPC plenary for the 2026–2029 term. The notice also provides for remote quota validation and collective declarations for traditional peoples and communities."
+      ],
+      "aiSummary": "Brazil’s Culture Ministry extended CNPC election registration to September 30 and revised rules on document review, quotas and public employees."
+    }
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "id": "politica-luto-djalma-flores",
+  "slug": "politica-luto-djalma-flores",
+  "section": "politica",
+  "secondarySections": [],
+  "publishedAt": "2026-09-21T13:31:44+00:00",
+  "updatedAt": "2026-09-21T13:31:44+00:00",
+  "sources": [
+    {
+      "name": "Midiamax",
+      "url": "https://midiamax.com.br/politica/2026/camara-campo-grande-decreta-luto-3-dias-morte-ex-vereador-djalma-flores/"
+    }
+  ],
+  "rights": {
+    "mode": "original-report"
+  },
+  "translations": {
+    "pt-BR": {
+      "title": "Câmara de Campo Grande decreta luto pela morte de ex-vereador",
+      "summary": "A Casa declarou três dias de luto oficial pela morte de Djalma Flores Blans e determinou que a bandeira fique a meio-mastro.",
+      "paragraphs": [
+        "A Câmara Municipal de Campo Grande decretou luto oficial de três dias pela morte do ex-vereador Djalma Flores Blans, informou o Midiamax. O ato foi publicado no Diogrande em 21 de setembro e determina que a bandeira do Legislativo fique a meio-mastro.",
+        "O documento foi assinado pelo presidente Epaminondas Neto em 18 de setembro. Blans, médico homeopata formado pela UFMS, morreu na madrugada de 18 de setembro enquanto fazia tratamento contra o câncer.",
+        "Além da carreira médica e da atuação na associação estadual de homeopatia, ele foi vereador de Campo Grande entre 2007 e 2008 e integrava o projeto Cuidar de Quem Cuida. Também era autor de um livro lançado em 2022."
+      ],
+      "aiSummary": "A Câmara de Campo Grande decretou três dias de luto oficial pela morte do ex-vereador e médico Djalma Flores Blans. O registro institucional também resume sua atuação na medicina, na política municipal e em projetos de saúde."
+    },
+    "en": {
+      "title": "Campo Grande city council declares mourning after former councilor dies",
+      "summary": "The council declared three days of official mourning for Djalma Flores Blans and ordered its flag to fly at half-staff.",
+      "paragraphs": [
+        "Campo Grande’s city council declared three days of official mourning after former councilor Djalma Flores Blans died, Midiamax reported. The order was published in the municipal gazette on September 21 and requires the legislature’s flag to fly at half-staff.",
+        "The document was signed by council president Epaminondas Neto on September 18. Blans, a homeopathic physician trained at UFMS, died early on September 18 while undergoing cancer treatment.",
+        "Alongside his medical career and work with the state homeopathy association, he served as a Campo Grande councilor from 2007 to 2008 and took part in the Cuidar de Quem Cuida project. He also wrote a book published in 2022."
+      ],
+      "aiSummary": "Campo Grande’s city council declared three days of official mourning after former councilor and physician Djalma Flores Blans died. The institutional notice also records his work in medicine, municipal politics and health projects."
+    }
+  }
+}

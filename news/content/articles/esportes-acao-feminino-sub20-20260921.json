@@ -1,0 +1,39 @@
+{
+  "id": "esportes-acao-feminino-sub20-20260921",
+  "slug": "esportes-acao-feminino-sub20-20260921",
+  "section": "esportes",
+  "secondarySections": [],
+  "publishedAt": "2026-09-21T12:05:09.475-03:00",
+  "updatedAt": "2026-09-21T12:05:09.475-03:00",
+  "sources": [
+    {
+      "name": "ge.globo.com",
+      "url": "https://ge.globo.com/mt/futebol/noticia/2026/09/21/acao-conquista-o-titulo-do-campeonato-mato-grossense-feminino-sub-20.ghtml"
+    }
+  ],
+  "rights": {
+    "mode": "original-report"
+  },
+  "translations": {
+    "pt-BR": {
+      "title": "Ação goleia Várzea Grande e conquista primeiro Mato-Grossense Feminino Sub-20",
+      "summary": "Equipe venceu a final por 4 a 1 e ficou com o título da primeira edição estadual.",
+      "paragraphs": [
+        "O Ação venceu o Várzea Grande por 4 a 1 no Estádio Dito Souza, em Várzea Grande, e conquistou o título da primeira edição do Campeonato Mato-Grossense Feminino Sub-20.",
+        "Amanda abriu o placar no primeiro minuto e Thafny marcou o segundo aos 30. Sophia descontou para o Várzea Grande no segundo tempo, mas Cauany e Julia ampliaram para confirmar a vitória do Ação.",
+        "O resultado deixou o Ação com o título e o Várzea Grande como vice-campeão. A competição inaugural reuniu seis equipes: Ação, Mixto, União, Várzea Grande, Sorriso e Atlético-MT."
+      ],
+      "aiSummary": "O Ação venceu o Várzea Grande por 4 a 1 e conquistou a primeira edição do Mato-Grossense Feminino Sub-20."
+    },
+    "en": {
+      "title": "Ação rout Várzea Grande to win first Mato Grosso Women's U20 title",
+      "summary": "The team won the final 4-1 to claim the first state competition championship.",
+      "paragraphs": [
+        "Ação defeated Várzea Grande 4-1 at Estádio Dito Souza in Várzea Grande to win the first edition of the Mato Grosso Women's U20 Championship.",
+        "Amanda opened the scoring in the first minute and Thafny made it 2-0 after 30 minutes. Sophia pulled one back for Várzea Grande in the second half, but Cauany and Julia completed Ação's victory.",
+        "The result made Ação champion and Várzea Grande the runner-up. The inaugural competition featured six teams: Ação, Mixto, União, Várzea Grande, Sorriso and Atlético-MT."
+      ],
+      "aiSummary": "Ação beat Várzea Grande 4-1 to win the first Mato Grosso Women's U20 Championship."
+    }
+  }
+}

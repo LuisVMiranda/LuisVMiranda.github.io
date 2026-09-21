@@ -1,0 +1,40 @@
+{
+  "id": "ciencia-buracos-negros-jatos",
+  "slug": "buracos-negros-jatos-fases-alimentacao",
+  "section": "ciencia",
+  "secondarySections": [],
+  "publishedAt": "2026-09-17T09:00:44+00:00",
+  "publishedDate": "2026-09-17",
+  "updatedAt": "2026-09-17T09:00:44+00:00",
+  "sources": [
+    {
+      "name": "The Guardian",
+      "url": "https://www.theguardian.com/science/2026/sep/17/black-hole-burps-scientists-solve-mystery-astronomy"
+    }
+  ],
+  "rights": {
+    "mode": "original-report"
+  },
+  "translations": {
+    "pt-BR": {
+      "title": "Estudo identifica quando buracos negros lançam seus jatos",
+      "summary": "Observações de 20 eventos de ruptura por maré sugerem duas fases de emissão de jatos por buracos negros supermassivos.",
+      "paragraphs": [
+        "Pesquisadores usaram radiotelescópios para analisar 20 eventos em que estrelas foram destruídas pela gravidade de buracos negros supermassivos, liberando material em jatos e fluxos para o espaço.",
+        "A equipe identificou duas fases de emissão: uma quando o buraco negro se alimenta em ritmo muito alto e outra centenas ou milhares de dias depois, quando a taxa cai para cerca de 2% do máximo. O mesmo limiar já havia sido associado a jatos de buracos negros menores.",
+        "A regularidade observada pode ajudar os astrônomos a prever quando os jatos serão lançados e a estimar sua intensidade. Isso permite planejar melhor o uso de telescópios para acompanhar fenômenos extremos no Universo."
+      ],
+      "aiSummary": "A análise de 20 eventos de estrelas destruídas por buracos negros encontrou duas fases recorrentes de lançamento de jatos. A regularidade pode tornar mais previsível o momento de observação desses fenômenos, sem eliminar as incertezas de cada evento."
+    },
+    "en": {
+      "title": "Study identifies when black holes launch their jets",
+      "summary": "Observations of 20 tidal-disruption events point to two jet-emission phases for supermassive black holes.",
+      "paragraphs": [
+        "Researchers used radio telescopes to examine 20 events in which stars were torn apart by the gravity of supermassive black holes, sending material into jets and outflows across space.",
+        "The team identified two emission phases: one while the black hole is feeding at a very high rate and another hundreds or thousands of days later, when the rate falls to about 2% of its maximum. The same threshold had already been linked to jets from smaller black holes.",
+        "The observed regularity could help astronomers predict when jets will be launched and estimate their strength. That would make it easier to schedule telescope time for monitoring extreme events in the Universe."
+      ],
+      "aiSummary": "An analysis of 20 stellar-disruption events found two recurring phases when black holes launch jets. The pattern may make the timing of these observations more predictable, while individual events will still carry uncertainty."
+    }
+  }
+}

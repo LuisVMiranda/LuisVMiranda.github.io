@@ -1,0 +1,40 @@
+{
+  "id": "cultura-salman-toor-someone-like-you",
+  "slug": "salman-toor-someone-like-you-courtauld",
+  "section": "cultura",
+  "secondarySections": [],
+  "publishedAt": "2026-09-21T04:00:34.000Z",
+  "publishedDate": "2026-09-21",
+  "updatedAt": "2026-09-21T04:00:34.000Z",
+  "sources": [
+    {
+      "name": "The Guardian",
+      "url": "https://www.theguardian.com/artanddesign/2026/sep/21/salman-toor-artist-interview-clubbing-queerness-new-york-muslim-moment"
+    }
+  ],
+  "rights": {
+    "mode": "original-report"
+  },
+  "translations": {
+    "pt-BR": {
+      "title": "Salman Toor leva pinturas sobre desejo, imigração e pertencimento à Courtauld",
+      "summary": "A exposição Someone Like You, primeira mostra individual do artista paquistanês-americano na Europa, reúne obras sobre homens sul-asiáticos queer, identidade e deslocamento.",
+      "paragraphs": [
+        "As pinturas de Salman Toor colocam homens sul-asiáticos queer no centro de cenas de bares, festas, quartos e deslocamentos urbanos. O artista paquistanês-americano diz que quer tornar familiares imagens de desejo e vulnerabilidade que durante muito tempo foram apagadas ou tratadas como secundárias.",
+        "Seu trabalho combina pintura figurativa a referências de mestres europeus e miniaturas mogóis indianas. A experiência de imigração, a vida noturna e a tensão entre pertencimento e ameaça aparecem em obras que também retomam Manet e transferem cenas históricas para ambientes queer de Nova York.",
+        "A Courtauld Gallery, em Londres, apresenta Someone Like You a partir de 2 de outubro, em uma seleção feita por Toor com a curadora Elena Crippa. A mostra reúne pinturas e desenhos produzidos sobretudo nos últimos sete anos, período em que o artista também obteve a cidadania americana."
+      ],
+      "aiSummary": "Salman Toor apresenta na Courtauld uma seleção de pinturas e desenhos sobre desejo queer, imigração e pertencimento, em sua primeira mostra individual europeia."
+    },
+    "en": {
+      "title": "Salman Toor brings paintings about desire, immigration and belonging to the Courtauld",
+      "summary": "Someone Like You, the Pakistani American artist’s first solo European exhibition, brings together work about queer South Asian men, identity and displacement.",
+      "paragraphs": [
+        "Salman Toor’s paintings place queer South Asian men at the center of scenes in bars, parties, bedrooms and urban transit. The Pakistani American artist says he wants images of desire and vulnerability to become familiar after years of being erased or treated as secondary.",
+        "His work combines figurative painting with references to European masters and Indian Mughal miniatures. Immigration, nightlife and the tension between belonging and danger appear in works that also revisit Manet and relocate historical scenes to queer settings in New York.",
+        "London’s Courtauld Gallery will present Someone Like You from October 2, in a selection Toor made with curator Elena Crippa. The exhibition brings together paintings and drawings made largely over the past seven years, a period that also included the artist becoming a US citizen."
+      ],
+      "aiSummary": "Salman Toor’s Courtauld exhibition presents paintings and drawings about queer desire, immigration and belonging in his first European solo show."
+    }
+  }
+}

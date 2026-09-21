@@ -1,0 +1,43 @@
+{
+  "id": "economia-focus-2026-selic-ipca-pib",
+  "slug": "economia-focus-2026-selic-ipca-pib",
+  "section": "economia",
+  "secondarySections": ["brasil"],
+  "publishedAt": "2026-09-21T08:43:47.894-03:00",
+  "updatedAt": "2026-09-21T08:43:47.894-03:00",
+  "sources": [
+    {
+      "name": "Valor Econômico",
+      "url": "https://valor.globo.com/brasil/noticia/2026/09/21/mercado-eleva-projecao-do-ipca-de-2026-e-reduz-estimativas-para-selic-e-pib-aponta-focus.ghtml"
+    },
+    {
+      "name": "Correio Braziliense",
+      "url": "https://www.correiobraziliense.com.br/economia/2026/09/7504728-mercado-reduz-projecao-para-selic-para-1350-e-eleva-previsao-de-inflacao.html"
+    }
+  ],
+  "rights": {
+    "mode": "original-report"
+  },
+  "translations": {
+    "pt-BR": {
+      "title": "Focus reduz previsão da Selic e do PIB para 2026, mas eleva IPCA",
+      "summary": "A mediana do mercado prevê Selic de 13,50%, inflação de 4,92% e crescimento de 1,88% neste ano.",
+      "paragraphs": [
+        "O relatório Focus divulgado pelo Banco Central mostrou que a mediana das projeções para a inflação oficial de 2026 subiu de 4,90% para 4,92%. No mesmo levantamento, a previsão para a Selic no fim do ano caiu de 13,75% para 13,50%.",
+        "Para 2027, os analistas mantiveram a projeção de IPCA em 4,30% e de Selic em 12%. A estimativa para o crescimento do PIB recuou de 1,89% para 1,88% em 2026 e de 1,45% para 1,43% em 2027, enquanto a previsão de 2028 ficou em 1,87%.",
+        "A pesquisa também manteve as projeções do dólar em R$ 5,20 no fim de 2026, R$ 5,28 em 2027 e R$ 5,30 em 2028. Os números são medianas de expectativas de mercado coletadas até 18 de setembro, portanto representam projeções e não resultados já realizados."
+      ],
+      "aiSummary": "O Focus elevou a projeção de inflação de 2026 para 4,92% e reduziu as previsões para a Selic, a 13,50%, e para o PIB, a 1,88%. As estimativas para 2027 e 2028 ficaram em grande parte estáveis, enquanto o dólar foi projetado em R$ 5,20 no fim deste ano."
+    },
+    "en": {
+      "title": "Brazil’s Focus survey cuts 2026 Selic and GDP forecasts but raises inflation outlook",
+      "summary": "The market median points to a 13.50% Selic rate, 4.92% inflation and 1.88% growth this year.",
+      "paragraphs": [
+        "The Central Bank’s Focus survey showed the market median for Brazil’s 2026 headline inflation rising from 4.90% to 4.92%. In the same survey, the year-end Selic forecast fell from 13.75% to 13.50%.",
+        "For 2027, analysts kept their inflation forecast at 4.30% and the Selic forecast at 12%. The GDP growth estimate fell from 1.89% to 1.88% for 2026 and from 1.45% to 1.43% for 2027, while the 2028 estimate stayed at 1.87%.",
+        "The survey also kept dollar forecasts at R$5.20 at the end of 2026, R$5.28 in 2027 and R$5.30 in 2028. These are market expectations collected through September 18, so they are projections rather than realized results."
+      ],
+      "aiSummary": "Brazil’s Focus survey raised the 2026 inflation forecast to 4.92% while lowering the Selic forecast to 13.50% and GDP growth to 1.88%. Most 2027 and 2028 projections were unchanged, while the dollar was projected at R$5.20 at the end of this year."
+    }
+  }
+}

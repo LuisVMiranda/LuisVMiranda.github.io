@@ -1,0 +1,44 @@
+{
+  "id": "mundo-20260921-germany-merz-election-defeats",
+  "slug": "merz-faces-pressure-after-german-state-election-defeats",
+  "section": "mundo",
+  "secondarySections": ["politica", "economia"],
+  "publishedAt": "2026-09-21T00:00:00.000Z",
+  "publishedDate": "2026-09-21",
+  "updatedAt": "2026-09-21T00:00:00.000Z",
+  "sources": [
+    {
+      "name": "The Associated Press",
+      "url": "https://apnews.com/article/germany-elections-chancellor-merz-reform-f8cae1d2218962a0200ab26186053028"
+    },
+    {
+      "name": "CNN Brasil",
+      "url": "https://www.cnnbrasil.com.br/internacional/eleicoes-alemas-afd-lidera-em-mais-um-estado-e-esquerda-avanca-em-berlim/"
+    }
+  ],
+  "rights": {
+    "mode": "original-report"
+  },
+  "translations": {
+    "pt-BR": {
+      "title": "Derrotas regionais pressionam Merz, que promete permanecer no comando da Alemanha",
+      "summary": "A CDU de Friedrich Merz perdeu terreno em duas eleições estaduais, caiu abaixo da cláusula de barreira em Mecklemburgo-Pomerânia Ocidental e ficou atrás da esquerda em Berlim. O chanceler disse que continuará no cargo e defenderá reformas econômicas, sem enfrentar até agora uma contestação pública relevante.",
+      "paragraphs": [
+        "A União Democrata-Cristã de Friedrich Merz sofreu derrotas em duas eleições regionais realizadas no domingo. Em Mecklemburgo-Pomerânia Ocidental, a legenda ficou abaixo dos 5% necessários para manter representação, enquanto a AfD terminou como força mais votada; em Berlim, a esquerda ficou à frente da CDU.",
+        "Merz classificou o resultado no estado do Báltico como um desastre, mas reiterou que permanecerá como chanceler e líder do partido. Segundo a AP, não surgiram na segunda-feira pedidos públicos relevantes para sua saída nem sinais de uma disputa interna imediata.",
+        "O revés aumenta a dificuldade de sustentar a agenda de reformas econômicas do governo, que inclui mudanças potencialmente impopulares em aposentadorias e saúde. Dirigentes social-democratas mantiveram o apoio à coalizão, mas defenderam uma revisão de justiça e de viabilidade das propostas antes das próximas eleições estaduais, cinco das quais estão previstas para 2027."
+      ],
+      "aiSummary": "A reportagem mostra que a CDU de Friedrich Merz perdeu duas eleições regionais, com avanço da AfD em Mecklemburgo-Pomerânia Ocidental e liderança da esquerda em Berlim. Merz permaneceu no cargo, mas terá mais dificuldade para aprovar reformas econômicas dentro da coalizão."
+    },
+    "en": {
+      "title": "Regional defeats pressure Merz as he vows to remain Germany’s leader",
+      "summary": "Friedrich Merz’s CDU lost ground in two state elections, fell below the electoral threshold in Mecklenburg-Western Pomerania and trailed the left in Berlin. The chancellor said he would stay in office and pursue economic reforms, with no prominent public challenge yet emerging.",
+      "paragraphs": [
+        "Friedrich Merz’s Christian Democratic Union suffered defeats in two regional elections held Sunday. In Mecklenburg-Western Pomerania, the party fell below the 5% threshold needed to retain seats while the AfD finished strongest; in Berlin, the left came ahead of the CDU.",
+        "Merz called the result in the Baltic state a disaster but repeated that he would remain chancellor and party leader. The AP reported that no prominent public calls for his departure or signs of an immediate internal challenge appeared on Monday.",
+        "The setback makes it harder to sustain the government’s economic reform agenda, which includes potentially unpopular changes to pensions and health care. Social Democratic leaders continued to back the coalition but called for fairness and feasibility checks before the next state votes, five of which are scheduled for 2027."
+      ],
+      "aiSummary": "The report shows Friedrich Merz’s CDU losing two regional elections, with the AfD advancing in Mecklenburg-Western Pomerania and the left leading in Berlin. Merz stayed in office, but the coalition faces a tougher path for economic reforms."
+    }
+  }
+}

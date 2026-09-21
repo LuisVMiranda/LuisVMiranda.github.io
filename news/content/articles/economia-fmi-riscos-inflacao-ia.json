@@ -1,0 +1,39 @@
+{
+  "id": "economia-fmi-riscos-inflacao-ia",
+  "slug": "economia-fmi-riscos-inflacao-ia",
+  "section": "economia",
+  "secondarySections": ["mundo", "tecnologia"],
+  "publishedAt": "2026-09-21T12:10:47-03:00",
+  "updatedAt": "2026-09-21T12:10:47-03:00",
+  "sources": [
+    {
+      "name": "CNN Brasil",
+      "url": "https://www.cnnbrasil.com.br/economia/money/macroeconomia/fmi-alerta-para-riscos-de-inflacao-e-ia-em-meio-a-economia-resiliente/"
+    }
+  ],
+  "rights": {
+    "mode": "original-report"
+  },
+  "translations": {
+    "pt-BR": {
+      "title": "FMI vê economia global resiliente, mas alerta para inflação, dívida e IA",
+      "summary": "Kristalina Georgieva manteve tom cauteloso ao projetar crescimento de 3% em 2026 e destacar riscos financeiros.",
+      "paragraphs": [
+        "A diretora-gerente do Fundo Monetário Internacional, Kristalina Georgieva, afirmou que a economia global tem sido mais resistente do que se esperava, mas continua exposta à inflação persistente, ao custo crescente do serviço da dívida e ao alto volume de investimentos em inteligência artificial. O FMI havia projetado crescimento mundial de 3% em 2026, abaixo dos 3,5% previstos para 2025.",
+        "Georgieva disse que a resiliência observada, apoiada pela atividade tecnológica, não elimina o risco de desaceleração. Na avaliação apresentada durante um fórum econômico em Nova York, o combate à inflação pode exigir políticas monetárias mais apertadas, enquanto o reconhecimento da necessidade de consolidação fiscal ainda não se traduziu em medidas suficientes.",
+        "Ela também alertou para alavancagem e financiamento circular ligados aos investimentos em IA, com riscos concentrados principalmente nos Estados Unidos. O próximo relatório Perspectivas da Economia Mundial, previsto para outubro, deve avaliar se essas vulnerabilidades continuam elevadas."
+      ],
+      "aiSummary": "O FMI considera a economia global resiliente, mas alerta que inflação persistente, dívida mais cara e investimentos alavancados em IA podem provocar desaceleração ou choque financeiro. A projeção citada para o crescimento mundial em 2026 é de 3%."
+    },
+    "en": {
+      "title": "IMF sees resilient global economy but warns on inflation, debt and AI",
+      "summary": "Kristalina Georgieva kept a cautious tone while citing 3% growth in 2026 and financial risks linked to technology investment.",
+      "paragraphs": [
+        "IMF Managing Director Kristalina Georgieva said the global economy has been more resilient than expected but remains exposed to persistent inflation, rising debt-service costs and heavy investment in artificial intelligence. The IMF had forecast global growth of 3% in 2026, below the 3.5% projected for 2025.",
+        "Georgieva said that resilience, supported in part by technology-driven activity, does not remove the risk of a slowdown. In remarks at an economic forum in New York, she said persistent inflation could require tighter monetary policy, while broad recognition of the need for fiscal consolidation had not yet produced enough action.",
+        "She also warned about leverage and circular financing connected to AI investment, with the risk concentrated mainly in the United States. The IMF’s World Economic Outlook, expected in October, is due to assess whether those vulnerabilities remain elevated."
+      ],
+      "aiSummary": "The IMF sees a resilient global economy but warns that persistent inflation, costlier debt and leveraged AI investment could cause a slowdown or financial shock. The cited 2026 global growth forecast is 3%."
+    }
+  }
+}

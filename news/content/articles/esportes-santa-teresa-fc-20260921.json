@@ -1,0 +1,39 @@
+{
+  "id": "esportes-santa-teresa-fc-20260921",
+  "slug": "esportes-santa-teresa-fc-20260921",
+  "section": "esportes",
+  "secondarySections": [],
+  "publishedAt": "2026-09-21T10:35:56.613-03:00",
+  "updatedAt": "2026-09-21T10:35:56.613-03:00",
+  "sources": [
+    {
+      "name": "ge.globo.com",
+      "url": "https://ge.globo.com/es/futebol/noticia/2026/09/21/santa-teresa-fc-novo-time-do-espirito-santo-vai-iniciar-atividades-na-base-e-no-feminino.ghtml"
+    }
+  ],
+  "rights": {
+    "mode": "original-report"
+  },
+  "translations": {
+    "pt-BR": {
+      "title": "Santa Teresa FC começará pela base e pelo futebol feminino no Espírito Santo",
+      "summary": "Novo clube pretende disputar competições de base e o estadual feminino em 2027.",
+      "paragraphs": [
+        "O Santa Teresa FC, fundado no Espírito Santo em 2026 e presidido por Marcelinho Lima, planeja disputar torneios de base e o Campeonato Capixaba feminino em 2027.",
+        "A diretoria também pretende levar o clube ao futebol masculino profissional até 2030. O projeto de gestão foi apresentado como inspirado no Porto Vitória, atual campeão capixaba.",
+        "O projeto coloca Santa Teresa no centro da iniciativa e associa a criação do clube à promoção da cultura e do turismo da cidade por meio do esporte."
+      ],
+      "aiSummary": "O Santa Teresa FC estreará na base e no futebol feminino em 2027 e trabalha para chegar ao profissional masculino até 2030."
+    },
+    "en": {
+      "title": "Santa Teresa FC to begin with youth and women's football in Espírito Santo",
+      "summary": "The new club plans to enter youth competitions and the state women's championship in 2027.",
+      "paragraphs": [
+        "Santa Teresa FC, founded in Espírito Santo in 2026 and led by president Marcelinho Lima, plans to enter youth tournaments and the Campeonato Capixaba women's competition in 2027.",
+        "The board also aims to take the club into professional men's football by 2030. Its management project was described as being inspired by Porto Vitória, the current state champion.",
+        "The project places Santa Teresa at its center and links the club's creation to promoting the city's culture and tourism through sport."
+      ],
+      "aiSummary": "Santa Teresa FC will begin in youth and women's football in 2027 while working toward professional men's football by 2030."
+    }
+  }
+}

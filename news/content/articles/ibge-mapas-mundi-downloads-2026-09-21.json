@@ -1,0 +1,39 @@
+{
+  "id": "brasil-ibge-mapas-mundi-downloads-2026-09-21",
+  "slug": "ibge-mapas-mundi-downloads-2026-09-21",
+  "section": "brasil",
+  "secondarySections": ["ciencia", "cultura"],
+  "publishedAt": "2026-09-21T14:29:35+00:00",
+  "updatedAt": "2026-09-21T14:29:35+00:00",
+  "sources": [
+    {
+      "name": "Agência de Notícias IBGE",
+      "url": "https://agenciadenoticias.ibge.gov.br/agencia-noticias/2012-agencia-de-noticias/noticias/48104-colecao-de-mapas-mundi-do-ibge-ultrapassa-7-4-mil-downloads-apos-liberacao-gratuita"
+    }
+  ],
+  "rights": {
+    "mode": "original-report"
+  },
+  "translations": {
+    "pt-BR": {
+      "title": "Coleção gratuita de mapas-múndi do IBGE supera 7,4 mil downloads",
+      "summary": "O instituto informou que a coleção liberada em setembro reúne mapas com diferentes perspectivas sobre o Brasil, a biodiversidade e o Sul Global.",
+      "paragraphs": [
+        "Os mapas-múndi disponibilizados gratuitamente pelo IBGE desde 7 de setembro somaram 7.408 downloads. A coleção reúne materiais lançados pelo instituto entre 2024 e 2026 e coloca o Brasil em destaque em diferentes representações cartográficas.",
+        "O mapa sobre o Brasil no mundo no G20, em modelo A0, liderou o ranking com 1.139 downloads. Em seguida vieram o mapa de biodiversidade Species Richness 2025, com 1.018, e o mapa sobre o Brasil no mundo e o Fórum Internacional da Governança do Sul Global, com 929.",
+        "A série começou com o mapa produzido para o G20, ganhou uma versão com o Hemisfério Sul no topo e passou a incluir uma representação da riqueza de espécies. O IBGE informou que os arquivos continuam disponíveis para download em sua loja."
+      ],
+      "aiSummary": "A coleção gratuita de mapas do IBGE alcançou 7.408 downloads e reúne visões cartográficas centradas no Brasil, na biodiversidade e no Sul Global."
+    },
+    "en": {
+      "title": "IBGE’s free world-map collection surpasses 7,400 downloads",
+      "summary": "The institute said the collection released in September brings together different views of Brazil, biodiversity and the Global South.",
+      "paragraphs": [
+        "World maps made freely available by IBGE since September 7 had reached 7,408 downloads. The collection brings together materials released by the institute between 2024 and 2026 and highlights Brazil in different cartographic representations.",
+        "The A0 map about Brazil in the G20 world led the ranking with 1,139 downloads. It was followed by the Species Richness 2025 biodiversity map, with 1,018, and the map about Brazil, the Global South and the International Forum on Global Governance, with 929.",
+        "The series began with the map produced for the G20, gained a version with the Southern Hemisphere at the top and added a representation of species richness. IBGE said the files remain available for download through its store."
+      ],
+      "aiSummary": "IBGE’s free map collection reached 7,408 downloads and offers cartographic views centered on Brazil, biodiversity and the Global South."
+    }
+  }
+}

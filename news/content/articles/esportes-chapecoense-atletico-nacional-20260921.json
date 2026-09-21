@@ -1,0 +1,39 @@
+{
+  "id": "esportes-chapecoense-atletico-nacional-20260921",
+  "slug": "esportes-chapecoense-atletico-nacional-20260921",
+  "section": "esportes",
+  "secondarySections": [],
+  "publishedAt": "2026-09-21T12:29:08.982-03:00",
+  "updatedAt": "2026-09-21T12:29:08.982-03:00",
+  "sources": [
+    {
+      "name": "ge.globo.com",
+      "url": "https://ge.globo.com/sc/futebol/times/chapecoense/noticia/2026/09/21/com-pausa-na-serie-a-chapecoense-viaja-para-jogar-amistoso-contra-o-atletico-nacional.ghtml"
+    }
+  ],
+  "rights": {
+    "mode": "original-report"
+  },
+  "translations": {
+    "pt-BR": {
+      "title": "Chapecoense viajará a Medellín para amistoso com o Atlético Nacional",
+      "summary": "Partida de sábado homenageará as vítimas do acidente aéreo de 2016 e terá parte da renda destinada a afetados por terremoto na Colômbia.",
+      "paragraphs": [
+        "A Chapecoense viajará nesta semana para Medellín, onde enfrentará o Atlético Nacional no sábado, às 18h de Brasília, no Estádio Atanasio Girardot. O embarque está previsto para quarta-feira, às 18h30.",
+        "O amistoso foi organizado para homenagear as vítimas do acidente aéreo com a delegação da Chapecoense em 2016. A tragédia completará dez anos em 29 de novembro e matou 71 pessoas, segundo a reportagem.",
+        "Parte da arrecadação da partida será destinada a pessoas afetadas pelo terremoto que atingiu diferentes regiões da Colômbia. Pela Série A, a Chapecoense volta a jogar em 7 de outubro, contra o Vitória, e ocupa a última posição."
+      ],
+      "aiSummary": "A Chapecoense viajará a Medellín para enfrentar o Atlético Nacional em um amistoso de homenagem às vítimas do acidente de 2016."
+    },
+    "en": {
+      "title": "Chapecoense to travel to Medellín for friendly against Atlético Nacional",
+      "summary": "Saturday's match will honor the victims of the 2016 air crash and direct part of its proceeds to earthquake victims in Colombia.",
+      "paragraphs": [
+        "Chapecoense will travel to Medellín this week to face Atlético Nacional on Saturday at 6 p.m. Brasília time at Estádio Atanasio Girardot. The team is scheduled to depart on Wednesday at 6:30 p.m.",
+        "The friendly was arranged to honor the victims of the 2016 air crash involving Chapecoense's delegation. The tragedy will reach its tenth anniversary on November 29 and killed 71 people, according to the report.",
+        "Part of the match proceeds will support people affected by the earthquake that struck different regions of Colombia. In Série A, Chapecoense returns on October 7 against Vitória and currently sits last."
+      ],
+      "aiSummary": "Chapecoense will travel to Medellín to play Atlético Nacional in a friendly honoring the victims of the 2016 air crash."
+    }
+  }
+}

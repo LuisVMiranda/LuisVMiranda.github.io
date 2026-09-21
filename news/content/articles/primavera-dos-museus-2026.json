@@ -1,0 +1,40 @@
+{
+  "id": "cultura-primavera-dos-museus-2026",
+  "slug": "primavera-dos-museus-2026",
+  "section": "cultura",
+  "secondarySections": ["brasil"],
+  "publishedAt": "2026-09-21T12:23:00-03:00",
+  "publishedDate": "2026-09-21",
+  "updatedAt": "2026-09-21T12:23:00-03:00",
+  "sources": [
+    {
+      "name": "Agência Brasil",
+      "url": "https://agenciabrasil.ebc.com.br/radioagencia-nacional/cultura/audio/2026-09/mais-de-900-instituicoes-participam-da-primavera-dos-museus"
+    }
+  ],
+  "rights": {
+    "mode": "original-report"
+  },
+  "translations": {
+    "pt-BR": {
+      "title": "Primavera dos Museus reúne mais de 900 instituições em todo o país",
+      "summary": "A iniciativa do Ibram tem como tema Museu para todas as pessoas e reúne mais de 2 mil atividades voltadas à inclusão, à diversidade e ao acesso aos espaços culturais.",
+      "paragraphs": [
+        "Organizada pelo Instituto Brasileiro de Museus, a Primavera dos Museus reúne mais de 900 instituições brasileiras para aproximar a sociedade de museus e espaços de memória. A edição enfatiza inclusão, diversidade e democratização do acesso à cultura.",
+        "A programação inclui mais de 2 mil atividades, entre palestras, oficinas, exposições e ações educativas. Há exemplos de propostas em diferentes regiões, como uma exposição sobre autismo em Salvador, uma visita mediada em Libras em Fortaleza e uma atividade artística com fuligem em Manaus.",
+        "Também participam o Museu das Favelas, em São Paulo, o Museu de História Natural de Mato Grosso, em Cuiabá, o Arquivo Nacional, no Rio de Janeiro, e o Museu da UFRGS, em Porto Alegre. A programação pode ser consultada por cidade, data ou instituição."
+      ],
+      "aiSummary": "A Primavera dos Museus reúne mais de 900 instituições e mais de 2 mil atividades sobre inclusão, diversidade e acesso cultural em várias regiões do Brasil."
+    },
+    "en": {
+      "title": "Brazil’s Primavera dos Museus brings together more than 900 institutions",
+      "summary": "The Ibram initiative, themed Museums for everyone, offers more than 2,000 activities focused on inclusion, diversity and access to cultural spaces.",
+      "paragraphs": [
+        "Organized by the Brazilian Institute of Museums, Primavera dos Museus brings together more than 900 Brazilian institutions to connect the public with museums and memory spaces. This edition emphasizes inclusion, diversity and broader access to culture.",
+        "The program includes more than 2,000 activities, including talks, workshops, exhibitions and educational events. Examples from different regions include an exhibition about autism in Salvador, a Brazilian Sign Language tour in Fortaleza and an art activity using soot as pigment in Manaus.",
+        "The Museum of Favelas in São Paulo, the Natural History Museum of Mato Grosso in Cuiabá, the National Archives in Rio de Janeiro and the UFRGS Museum in Porto Alegre are also taking part. Visitors can consult the program by city, date or institution."
+      ],
+      "aiSummary": "Primavera dos Museus brings more than 900 institutions and over 2,000 activities on inclusion, diversity and cultural access to communities across Brazil."
+    }
+  }
+}
