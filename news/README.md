@@ -58,9 +58,12 @@ AI summary, rights metadata, and at least three body paragraphs, and every
 editorial manifest records source evidence, selection reasoning, a
 complete-body review and an AI-summary review. `--legacy-ok` is only a smoke-test escape hatch for the
 pre-feature catalog; it must not be used by the daily job or for publication.
-The review command documents its required digest and reviewer arguments in
-the research template. New edits invalidate approval. Corrected stories retain
-their identity, update timestamp, and bilingual correction note.
+The review command documents its required digest and reviewer arguments in the
+research template. New edits invalidate approval. Corrected stories retain their
+identity, update timestamp, and bilingual correction note.
+The daily job refreshes the current same-date edition in place when newer
+verified stories arrive, so the homepage and section pages always show the
+latest rankings; older dated editions remain in the archive.
 
 ## Design and architecture
 

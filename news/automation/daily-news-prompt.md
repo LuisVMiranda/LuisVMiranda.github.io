@@ -36,7 +36,7 @@ The published body is intentionally minimalist: remove all inline hyperlinks, Ma
 }
 ```
 
-8. Append a new immutable edition through `npx tsx scripts/edition.ts YYYY-MM-DD --lead ARTICLE_ID`, selecting the strongest Brasil story explicitly. Do not edit page-review scores or shared implementation hashes during a content run.
+8. Stage the current edition through `npx tsx scripts/edition.ts YYYY-MM-DD --lead ARTICLE_ID --refresh`, selecting the strongest current Brasil story explicitly. The `--refresh` mode replaces the same-date edition in place so the homepage and all section pages immediately use the latest verified rankings; older dated editions remain preserved. Do not edit page-review scores or shared implementation hashes during a content run.
 
 ## Verification and submission
 

@@ -251,15 +251,19 @@ Assign exactly one coordinator to integrate these eight manifests and write
 they must not write the shared edition or approval file simultaneously.
 
 ```powershell
-# Replace the example with a new, unused edition identity.
-npx tsx scripts/edition.ts 2026-09-21 --lead brasil-story-id
+# Refresh the current day's edition so the homepage and section pages use the
+# latest verified rankings. Use a new date when starting a new calendar edition.
+npx tsx scripts/edition.ts 2026-09-21 --lead brasil-story-id --refresh
 ```
 
-The command validates references and appends a new edition. It refuses an
-existing edition ID. Preserve older editions and their ordering; do not rewrite
-an approved edition to disguise new selections. Choose the new edition's
-`leadArticleId` explicitly before review: the script's default is merely the
-first Brasil article in the catalog and may belong to an older edition.
+The command validates references and either appends a new edition or, with
+`--refresh`, replaces the current same-date edition in place. Refreshing is
+intentional: the homepage and section pages always need to show the latest
+verified news, while older dated editions remain preserved. It invalidates the
+existing approval and requires a new review before publication. Choose the new
+edition's `leadArticleId` explicitly before review: the script's default is
+merely the first Brasil article in the catalog and may belong to an older
+edition.
 
 Do not add new public routes by hand. The static build generates PT-BR/EN article, section
 and edition pages from the data. Pagefind, feeds and sitemaps are rebuilt from

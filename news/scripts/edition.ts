@@ -13,12 +13,14 @@ interface Selection {
 const id = process.argv[2];
 if (!id || !/^[a-z0-9-]+$/.test(id))
   throw new Error(
-    'Usage: npx tsx scripts/edition.ts EDITION_ID [--lead ARTICLE_ID]',
+    'Usage: npx tsx scripts/edition.ts EDITION_ID [--lead ARTICLE_ID] [--refresh]',
   );
 const leadIndex = process.argv.indexOf('--lead');
 const requestedLead = leadIndex >= 0 ? process.argv[leadIndex + 1] : undefined;
+const refresh = process.argv.includes('--refresh');
 const { articles, editions } = await readContent();
-if (editions.some((entry) => entry.id === id))
+const existingIndex = editions.findIndex((entry) => entry.id === id);
+if (existingIndex >= 0 && !refresh)
   throw new Error('An edition identity is immutable; choose a new edition ID');
 const selections = await Promise.all(
   sections.map(async ({ id: section }) => ({
@@ -52,11 +54,17 @@ const edition = editionSchema.parse({
   sections: sectionRecords,
   leadArticleId,
 }) as Edition;
-validateCatalog(articles, [...editions, edition]);
+const nextEditions =
+  existingIndex >= 0
+    ? editions.map((entry, index) =>
+        index === existingIndex ? edition : entry,
+      )
+    : [...editions, edition];
+validateCatalog(articles, nextEditions);
 await writeFile(
   'content/editions.json',
-  JSON.stringify([...editions, edition], null, 2) + '\n',
+  JSON.stringify(nextEditions, null, 2) + '\n',
 );
 console.log(
-  `Staged ${id}. Existing content approval is now invalid; review both languages before approval.`,
+  `${refresh ? 'Refreshed' : 'Staged'} ${id}. Existing content approval is now invalid; review both languages before approval.`,
 );
