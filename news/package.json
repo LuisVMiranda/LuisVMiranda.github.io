@@ -19,6 +19,7 @@
     "test:e2e": "playwright test",
     "test:performance": "tsx scripts/performance.ts",
     "research": "tsx scripts/research.ts",
+    "research:corroborate": "tsx scripts/corroborate-research.ts",
     "news:verify": "tsx scripts/check-news.ts",
     "review": "tsx scripts/review.ts",
     "quality": "npm run lint && npm run format:check && npm run check && npm run test && npm run build",

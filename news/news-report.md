@@ -113,13 +113,18 @@ snippet.
 For a full candidate inventory, prefer the batch form before selecting stories:
 
 ```powershell
-npx tsx scripts/extract-research.ts --run research/runs/RUN_ID --max-per-section 24 --concurrency 8
+npx tsx scripts/extract-research.ts --run research/runs/RUN_ID --max-per-section 40 --concurrency 8
+npm run research:corroborate -- --run research/runs/RUN_ID
 ```
 
 Review `research/runs/RUN_ID/extractions/index.json` and use only records with
 `complete: true`, at least three paragraphs and no warnings. If a desk still has
 fewer than ten complete sources, run focused searches and extract additional
-original publishers instead of treating the shortfall as final.
+original publishers instead of treating the shortfall as final. The
+`corroboration/index.json` output is a set of lexical leads between complete
+sources on different domains, not an automatic verification decision; confirm
+matching facts and discrepancies in the source bodies before recording it as
+corroboration.
 
 The extraction is a research input, not automatically publishable copy. Preserve
 the complete factual substance, chronology, attribution, qualifications,

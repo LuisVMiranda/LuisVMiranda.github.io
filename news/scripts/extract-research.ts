@@ -6,6 +6,7 @@ type Candidate = {
   url: string;
   title: string;
   snippet: string;
+  publishedAt: string | null;
   source: string;
   section: string;
   query: string;
@@ -110,13 +111,83 @@ function idFor(url: string): string {
   return createHash('sha1').update(url).digest('hex').slice(0, 12);
 }
 
-function preferred(candidate: Candidate): number {
+const sectionTerms: Record<string, string[]> = {
+  brasil: ['brasil', 'governo', 'cidade', 'estado', 'servico', 'saude'],
+  mundo: ['mundo', 'onu', 'internacional', 'eua', 'europa', 'asia'],
+  politica: ['politica', 'governo', 'congresso', 'eleicao', 'tribunal', 'lula'],
+  economia: ['economia', 'mercado', 'inflacao', 'selic', 'empresa', 'trabalho'],
+  tecnologia: [
+    'tecnologia',
+    'inteligencia',
+    'artificial',
+    'software',
+    'cyber',
+    'digital',
+  ],
+  ciencia: ['ciencia', 'pesquisa', 'saude', 'clima', 'espaco', 'nasa'],
+  cultura: ['cultura', 'cinema', 'musica', 'livro', 'arte', 'museu'],
+  esportes: ['esporte', 'futebol', 'jogo', 'corrida', 'campeonato', 'atleta'],
+};
+const trustedDomains = [
+  'agenciabrasil.ebc.com.br',
+  'gov.br',
+  'g1.globo.com',
+  'valorinternational.globo.com',
+  'correiobraziliense.com.br',
+  'apnews.com',
+  'theguardian.com',
+  'iaea.org',
+  'nasa.gov',
+  'nature.com',
+  'sciencedaily.com',
+  'news.mit.edu',
+  'medicalxpress.com',
+  'space.com',
+  'bbc.com',
+  'reuters.com',
+  'cnn.com',
+  'cnnbrasil.com.br',
+  'espn.com',
+  'ge.globo.com',
+];
+const noisyDomains = [
+  'ad-hoc-news.de',
+  'tradersunion.com',
+  'mezha.net',
+  'ssbcrack.com',
+  'latestly.com',
+  'yahoo.com',
+  'msn.com',
+  'investing.com',
+  'igamingtoday.com',
+  'essentiallysports.com',
+  'imprensa24h.com.br',
+  'pensarpiaui.com',
+  'newsable.asianetnews.com',
+  'bastillepost.com',
+];
+
+function candidateScore(candidate: Candidate): number {
   const domain = host(candidate.url);
-  if (!domain || domain.includes('msn.com') || domain.includes('reuters.com'))
-    return 1;
-  if (domain.includes('yahoo.com') || domain.includes('investing.com'))
-    return 2;
-  return 0;
+  const section = sectionTerms[candidate.section] ?? [];
+  const text = `${candidate.title} ${candidate.snippet}`
+    .toLowerCase()
+    .normalize('NFKD')
+    .replace(/[\u0300-\u036f]/g, '');
+  const termScore = section.filter((term) => text.includes(term)).length;
+  const trusted = trustedDomains.some(
+    (trustedDomain) =>
+      domain === trustedDomain || domain.endsWith(`.${trustedDomain}`),
+  );
+  const noisy = noisyDomains.some(
+    (noisyDomain) =>
+      domain === noisyDomain || domain.endsWith(`.${noisyDomain}`),
+  );
+  const age = Date.parse(candidate.publishedAt || '');
+  const freshness = Number.isFinite(age)
+    ? Math.max(0, 3 - Math.floor((Date.now() - age) / 86400000))
+    : 0;
+  return termScore + (trusted ? 8 : 0) + freshness - (noisy ? 8 : 0);
 }
 
 async function readCandidates(): Promise<Candidate[]> {
@@ -207,7 +278,11 @@ for (const candidate of candidates) {
 }
 const selected = [...bySection.entries()].flatMap(([section, list]) =>
   list
-    .sort((left, right) => preferred(left) - preferred(right))
+    .sort(
+      (left, right) =>
+        candidateScore(right) - candidateScore(left) ||
+        left.url.localeCompare(right.url),
+    )
     .slice(0, maxPerSection)
     .map((candidate) => ({ ...candidate, section })),
 );
