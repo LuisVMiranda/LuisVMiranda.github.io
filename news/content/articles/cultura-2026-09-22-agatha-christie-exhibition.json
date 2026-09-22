@@ -1,0 +1,118 @@
+{
+  "id": "cultura-2026-09-22-agatha-christie-exhibition",
+  "slug": "cultura-2026-09-22-agatha-christie-exhibition",
+  "section": "cultura",
+  "secondarySections": [],
+  "publishedAt": "2026-09-22T05:08:35.030Z",
+  "updatedAt": "2026-09-22T13:17:34.573Z",
+  "sources": [
+    {
+      "name": "BBC News",
+      "url": "https://www.bbc.com/news/articles/c620l2zqpl2do"
+    }
+  ],
+  "rights": {
+    "mode": "original-report"
+  },
+  "translations": {
+    "pt-BR": {
+      "title": "Exposição relembra desaparecimento de Agatha Christie em 1926",
+      "summary": "Cartaz policial, objetos de coleção e peças de arquivo reconstituem a vida da autora em uma mostra gratuita no Royal Berkshire Archives.",
+      "aiSummary": [
+        "A mostra apresenta a única cópia conhecida sobrevivente do cartaz de busca produzido pela polícia em 1926.",
+        "A exposição gratuita em Reading fica aberta até 18 de dezembro.",
+        "O percurso relaciona a carreira literária de Christie ao trabalho como enfermeira e às escavações arqueológicas no Iraque."
+      ],
+      "paragraphs": [
+        "Uma exposição em Reading, na Inglaterra, recupera o desaparecimento de Agatha Christie em 1926 a partir da única cópia conhecida ainda existente de um cartaz policial de busca. O documento foi produzido depois que a escritora saiu de sua casa em Sunningdale, chamada Styles, em 3 de dezembro daquele ano.",
+        "O carro de Christie foi encontrado no interior de Surrey no dia seguinte, e ela apareceu em um hotel de Harrogate em 14 de dezembro. A explicação hoje considerada para o episódio é que a autora teria sofrido um colapso depois de saber que o marido pretendia deixá-la por outra mulher, uma interpretação apresentada como hipótese sobre o caso.",
+        "O cartaz integra uma exposição gratuita no Royal Berkshire Archives, aberta até 18 de dezembro. A mostra combina peças pertencentes à colecionadora Gale Goddard com documentos do arquivo, incluindo uma réplica do busto de Christie exibido em sua cidade natal, Torquay, e pinturas a óleo da escritora feitas pela artista Sylvia Berger.",
+        "O percurso também amplia a narrativa para além do episódio de 1926. Ele apresenta a experiência de Christie como enfermeira durante a Primeira Guerra Mundial e a participação nas expedições arqueológicas do segundo marido, Max Mallowan, no atual Iraque. Os dois se casaram em 1930 e viveram por décadas em Winterbrook House, perto de Wallingford.",
+        "Christie morreu em 1976 e foi enterrada com Mallowan no cemitério da igreja de St Mary’s, em Cholsey. O Guinness World Records a identifica como a autora de ficção mais vendida do mundo, com 78 romances policiais estimados em dois bilhões de cópias em 44 idiomas. Para o arquivista Mark Stevens, a exposição liga os lugares de Berkshire que atravessaram a vida da escritora."
+      ]
+    },
+    "en": {
+      "title": "Exhibition revisits Agatha Christie’s 1926 disappearance",
+      "summary": "A police poster, collection objects and archive material reconstruct the author’s life in a free show at the Royal Berkshire Archives.",
+      "aiSummary": [
+        "The display includes the only known surviving copy of the police missing-persons poster made in 1926.",
+        "The free exhibition in Reading runs until December 18.",
+        "It connects Christie’s literary career with her nursing work and archaeological trips to Iraq."
+      ],
+      "paragraphs": [
+        "An exhibition in Reading, England, revisits Agatha Christie’s 1926 disappearance through the only known surviving copy of a police missing-persons poster. The document was made after the writer left her Sunningdale home, called Styles, on December 3 of that year.",
+        "Christie’s car was found in the Surrey countryside the next day, and she was located at a hotel in Harrogate on December 14. The explanation now considered is that she suffered a breakdown after learning that her husband planned to leave her for another woman, a reading presented as a hypothesis about the episode.",
+        "The poster is part of a free exhibition at the Royal Berkshire Archives, open until December 18. The show combines items owned by collector Gale Goddard with archive material, including the only replica of a Christie bust displayed in her hometown of Torquay and oil paintings of the author by artist Sylvia Berger.",
+        "The exhibition also places the disappearance within the wider story of Christie’s life. It covers her work as a nurse during the First World War and the archaeological expeditions she joined with her second husband, Max Mallowan, in modern-day Iraq. The couple married in 1930 and lived for decades at Winterbrook House near Wallingford.",
+        "Christie died in 1976 and was buried with Mallowan in the churchyard of St Mary’s in Cholsey. Guinness World Records lists her as the world’s best-selling fiction writer, with 78 crime novels estimated to have sold two billion copies in 44 languages. County archivist Mark Stevens said the exhibition links the Berkshire places that shaped her life."
+      ]
+    }
+  },
+  "verification": {
+    "score": 9.2,
+    "checkedAt": "2026-09-22T12:28:07Z",
+    "checks": [
+      {
+        "provider": "BBC News",
+        "url": "https://www.bbc.com/news/articles/c620l2zqpl2do",
+        "finding": "supports",
+        "note": "Complete local extraction was HTTP 200 with complete:true and 12 body paragraphs. It supports the 1926 disappearance chronology, the surviving police poster, the free Royal Berkshire Archives exhibition, dates, collection objects, and Christie biography."
+      },
+      {
+        "provider": "Royal Berkshire Archives / What's On Reading",
+        "url": "https://www.whatsonreading.com/venues/royal-berkshire-archives/whats-on/agatha-christie-tribute-her-life-and-work",
+        "finding": "supports",
+        "note": "The venue listing corroborates the exhibition title, location, free admission, schedule through December 18, and its focus on Christie’s life and work."
+      },
+      {
+        "provider": "Aos Fatos",
+        "url": "https://www.aosfatos.org/",
+        "finding": "no-match",
+        "note": "No matching fact-check page surfaced for the Christie disappearance chronology, exhibition, or named archival claims. This no-match is neutral and is not evidence of accuracy."
+      },
+      {
+        "provider": "Agência Lupa",
+        "url": "https://www.agencialupa.org/",
+        "finding": "no-match",
+        "note": "No matching fact-check addressing the article's central historical or exhibition claims was confirmed. The no-match is neutral."
+      },
+      {
+        "provider": "Projeto Comprova",
+        "url": "https://projetocomprova.com.br/",
+        "finding": "no-match",
+        "note": "No relevant Projeto Comprova fact-check for the Christie or Royal Berkshire Archives claims was found. The result is neutral."
+      },
+      {
+        "provider": "TSE Fato ou Boato",
+        "url": "https://www.tse.jus.br/comunicacao/noticias/fato-ou-boato",
+        "finding": "no-match",
+        "note": "No civic or election-related fact-check is relevant to this heritage report; no matching item was found. The no-match is neutral."
+      },
+      {
+        "provider": "AFP Fact Check",
+        "url": "https://factcheck.afp.com/",
+        "finding": "no-match",
+        "note": "No matching AFP fact-check for the disappearance, exhibition, dates, or Guinness attribution was confirmed. This no-match is neutral."
+      },
+      {
+        "provider": "Reuters Fact Check",
+        "url": "https://www.reuters.com/fact-check/",
+        "finding": "no-match",
+        "note": "No matching Reuters fact-check for the article's central historical or exhibition claims was confirmed. This no-match is neutral."
+      },
+      {
+        "provider": "Full Fact",
+        "url": "https://fullfact.org/",
+        "finding": "no-match",
+        "note": "No relevant Full Fact item addressing the Christie chronology or exhibition was found. The no-match is neutral."
+      },
+      {
+        "provider": "Google Fact Check Explorer",
+        "url": "https://toolbox.google.com/factcheck/explorer",
+        "finding": "inconclusive",
+        "note": "No exact indexed ClaimReview record was confirmed in the Explorer searches used for this claim; coverage is incomplete, so this is not evidence for or against the article."
+      }
+    ],
+    "caveat": "The chronology and exhibition details are strongly supported by complete BBC evidence and venue context. The explanation for Christie’s disappearance is presented as a historical interpretation, not as a definitive finding."
+  }
+}

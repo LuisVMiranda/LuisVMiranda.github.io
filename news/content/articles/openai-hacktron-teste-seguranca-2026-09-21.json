@@ -1,0 +1,124 @@
+{
+  "id": "openai-hacktron-teste-seguranca-2026-09-21",
+  "slug": "openai-hacktron-teste-seguranca-2026-09-21",
+  "section": "tecnologia",
+  "secondarySections": [],
+  "publishedAt": "2026-09-21T10:06:00-03:00",
+  "updatedAt": "2026-09-22T13:17:34.573Z",
+  "sources": [
+    {
+      "name": "Canaltech",
+      "url": "https://canaltech.com.br/inteligencia-artificial/openai-foi-invadida-por-hackers-que-usaram-rival-do-chatgpt/"
+    }
+  ],
+  "rights": {
+    "mode": "original-report"
+  },
+  "translations": {
+    "pt-BR": {
+      "title": "Teste autorizado da Hacktron expôs contas ligadas à OpenAI",
+      "summary": "Pesquisadores exploraram uma falha no fórum de ajuda da OpenAI durante um exercício autorizado, usando modelos da Anthropic e levando a uma correção em cerca de 14 horas.",
+      "aiSummary": [
+        "A falha estava no fórum público de ajuda da OpenAI, operado pela plataforma Discourse.",
+        "A equipe usou modelos Claude para produzir um ataque funcional em cerca de três horas.",
+        "A OpenAI confirmou o caso, corrigiu a vulnerabilidade e pagou US$ 6.500 em recompensa."
+      ],
+      "paragraphs": [
+        "Pesquisadores da startup Hacktron AI conseguiram acessar contas do ChatGPT ligadas a funcionários da OpenAI durante um exercício de segurança autorizado pela empresa. O teste usou modelos de inteligência artificial da Anthropic para localizar e explorar uma vulnerabilidade, transformando uma demonstração controlada em um caso de estudo sobre o uso ofensivo de IA.",
+        "A falha estava no fórum público de ajuda da OpenAI, operado pela plataforma Discourse. De acordo com a reportagem, a vulnerabilidade permitiu que os pesquisadores assumissem o controle do site e usassem esse acesso como ponto de partida para avançar no exercício.",
+        "A equipe começou com o Claude Opus 4.8, que ajudou a identificar e explorar a vulnerabilidade, mas apresentou problemas de consistência. Depois, recorreu ao Claude Opus 5, capaz de produzir um ataque funcional em aproximadamente três horas. O modelo Claude Mythos não foi usado porque seu acesso era restrito a organizações selecionadas.",
+        "Depois do teste, a Hacktron comunicou o problema à OpenAI e à Discourse. A OpenAI confirmou o incidente à AFP e informou que a vulnerabilidade foi corrigida cerca de 14 horas após a notificação. O programa de recompensas da empresa pagou US$ 6.500 à startup, e um porta-voz agradeceu o contato dos pesquisadores.",
+        "O episódio ilustra como modelos de IA podem acelerar a identificação e a exploração de falhas, mas também reforça a preocupação de que ataques sofisticados se tornem mais rápidos e baratos. A Hacktron disse que pretende realizar testes semelhantes em outras empresas do setor, mantendo o caso dentro do contexto de pesquisa autorizada e comunicação responsável."
+      ]
+    },
+    "en": {
+      "title": "Hacktron’s authorized test exposed accounts linked to OpenAI",
+      "summary": "Researchers exploited a flaw in OpenAI’s help forum during an authorized exercise, using Anthropic models and leading to a fix in about 14 hours.",
+      "aiSummary": [
+        "The flaw was in OpenAI’s public help forum, operated by the Discourse platform.",
+        "The team used Claude models to produce a working attack in about three hours.",
+        "OpenAI confirmed the case, fixed the vulnerability, and paid a $6,500 bounty."
+      ],
+      "paragraphs": [
+        "Researchers at the startup Hacktron AI accessed ChatGPT accounts linked to OpenAI employees during a security exercise authorized by the company. The test used Anthropic artificial-intelligence models to find and exploit a vulnerability, turning a controlled demonstration into a case study in offensive AI use.",
+        "The flaw was in OpenAI’s public help forum, operated by the Discourse platform. According to the report, the vulnerability allowed the researchers to take control of the site and use that access as a starting point for the exercise.",
+        "The team began with Claude Opus 4.8, which helped identify and initially exploit the vulnerability but had consistency problems. It then turned to Claude Opus 5, which produced a working attack in roughly three hours. Claude Mythos was not used because access to it was restricted to selected organizations.",
+        "After the test, Hacktron notified OpenAI and Discourse. OpenAI confirmed the incident to AFP and said the vulnerability was fixed about 14 hours after notification. The company’s bug-bounty program paid the startup $6,500, and a spokesperson thanked the researchers for making contact.",
+        "The episode shows how AI models can accelerate the discovery and exploitation of flaws, while also reinforcing concerns that sophisticated attacks could become faster and cheaper. Hacktron said it plans to conduct similar tests at other companies in the sector, keeping this case within the context of authorized research and responsible disclosure."
+      ]
+    }
+  },
+  "verification": {
+    "score": 8.1,
+    "checkedAt": "2026-09-22T13:01:26Z",
+    "checks": [
+      {
+        "provider": "Canaltech",
+        "url": "https://canaltech.com.br/inteligencia-artificial/openai-foi-invadida-por-hackers-que-usaram-rival-do-chatgpt/",
+        "finding": "supports",
+        "note": "Complete local extraction was status 200 with complete:true and supports the authorized Hacktron exercise, Discourse flaw, Anthropic-model use, OpenAI confirmation, roughly 14-hour remediation and $6,500 bounty."
+      },
+      {
+        "provider": "The Hacker News",
+        "url": "https://thehackernews.com/2026/09/claude-opus-5-helped-researchers-take.html",
+        "finding": "supports",
+        "note": "Independent security reporting corroborates the chained flaws, employee-account access, 14-hour fix and $6,500 payment, while describing the work as security research rather than a criminal attack."
+      },
+      {
+        "provider": "ThreatPaper",
+        "url": "https://threatpaper.com/cases/hacktron-used-claude-to-hack-openai-s-forum-take-over-an-employee-s-codex-and-open-a-pr",
+        "finding": "context",
+        "note": "The report adds that the $6,500 award covered the OpenAI-side finding and not actions against the Discourse-hosted forum; this qualifies the bounty description without disproving the disclosed research event."
+      },
+      {
+        "provider": "Aos Fatos",
+        "url": "https://www.aosfatos.org/",
+        "finding": "no-match",
+        "note": "No directly matching fact-check result was found in this run; no-match is neutral and not evidence of accuracy."
+      },
+      {
+        "provider": "Agência Lupa",
+        "url": "https://www.agencialupa.org/",
+        "finding": "no-match",
+        "note": "No directly matching fact-check result was found in this run; no-match is neutral and not evidence of accuracy."
+      },
+      {
+        "provider": "Projeto Comprova",
+        "url": "https://projetocomprova.com.br/",
+        "finding": "no-match",
+        "note": "No directly matching fact-check result was found in this run; no-match is neutral and not evidence of accuracy."
+      },
+      {
+        "provider": "TSE Fato ou Boato",
+        "url": "https://www.tse.jus.br/comunicacao/noticias/fato-ou-boato",
+        "finding": "no-match",
+        "note": "No directly matching fact-check result was found in this run; no-match is neutral and not evidence of accuracy."
+      },
+      {
+        "provider": "AFP Fact Check",
+        "url": "https://factcheck.afp.com/",
+        "finding": "no-match",
+        "note": "No directly matching fact-check result was found in this run; no-match is neutral and not evidence of accuracy."
+      },
+      {
+        "provider": "Reuters Fact Check",
+        "url": "https://www.reuters.com/fact-check/",
+        "finding": "no-match",
+        "note": "No directly matching fact-check result was found in this run; no-match is neutral and not evidence of accuracy."
+      },
+      {
+        "provider": "Full Fact",
+        "url": "https://fullfact.org/",
+        "finding": "no-match",
+        "note": "No directly matching fact-check result was found in this run; no-match is neutral and not evidence of accuracy."
+      },
+      {
+        "provider": "Google Fact Check Tools",
+        "url": "https://toolbox.google.com/factcheck/explorer",
+        "finding": "inconclusive",
+        "note": "No exact ClaimReview record was verified in the public Explorer search; absence of a confirmed record is not evidence for or against the article."
+      }
+    ],
+    "caveat": "The authorized research event, vulnerability chain, remediation interval and payment are corroborated by the source and independent security reporting. The bounty scope and model-by-model chronology remain reported details, and the forum-side actions were outside the stated OpenAI bounty scope."
+  }
+}

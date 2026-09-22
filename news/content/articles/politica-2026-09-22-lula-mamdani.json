@@ -1,0 +1,113 @@
+{
+  "id": "politica-2026-09-22-lula-mamdani",
+  "slug": "politica-2026-09-22-lula-mamdani",
+  "section": "politica",
+  "secondarySections": [],
+  "publishedAt": "2026-09-21T17:15:46-03:00",
+  "publishedDate": "2026-09-21",
+  "updatedAt": "2026-09-22T13:17:34.573Z",
+  "sources": [
+    {
+      "name": "CNN Brasil",
+      "url": "https://www.cnnbrasil.com.br/politica/analise-encontro-entre-lula-e-o-prefeito-de-nova-york-e-gesto-para-trump/"
+    }
+  ],
+  "rights": {
+    "mode": "original-report"
+  },
+  "translations": {
+    "pt-BR": {
+      "title": "Encontro de Lula com prefeito de Nova York é interpretado como gesto político",
+      "summary": "A reunião com Zohran Mamdani ocorreu na véspera da Assembleia da ONU e foi analisada pela CNN como resposta simbólica à relação de Trump com a oposição brasileira.",
+      "aiSummary": [
+        "Lula se reuniu com Zohran Mamdani na residência do embaixador brasileiro na ONU.",
+        "O encontro ocorreu a pedido do prefeito, na véspera da Assembleia Geral.",
+        "O analista Pedro Venceslau interpretou a reunião como gesto de reciprocidade política."
+      ],
+      "paragraphs": [
+        "O presidente Luiz Inácio Lula da Silva se reuniu na segunda-feira (21) com Zohran Mamdani, prefeito de Nova York, na residência do embaixador do Brasil junto à ONU, Sérgio Danese. O encontro ocorreu a pedido de Mamdani, na véspera da abertura da Assembleia Geral.",
+        "Para o analista de política da CNN Pedro Venceslau, Mamdani representa um dos principais símbolos de oposição ao presidente dos Estados Unidos, Donald Trump. A avaliação foi apresentada no programa CNN 360° e atribuiu ao encontro um forte simbolismo político.",
+        "Segundo a análise, aceitar o convite de Mamdani poderia ser lido como uma resposta ao fato de Trump ter recebido na Casa Branca figuras da oposição brasileira, como Flávio Bolsonaro, Eduardo Bolsonaro e Paulo Figueiredo.",
+        "Venceslau afirmou que Lula demonstraria autonomia e disposição para se relacionar com adversários políticos do líder norte-americano. O contexto também inclui o discurso que o presidente brasileiro deveria fazer na Assembleia da ONU, com defesa da soberania e críticas a interferências nas eleições brasileiras.",
+        "O encontro teve ainda um elemento ligado ao futebol. Mamdani é descrito como entusiasta do Corinthians, e Lula lhe entregou uma camisa vintage relacionada à chamada Democracia Corintiana; o analista avaliou que a reunião seria amplamente noticiada nos Estados Unidos e chegaria ao conhecimento de Trump."
+      ]
+    },
+    "en": {
+      "title": "Lula’s meeting with New York mayor is interpreted as a political gesture",
+      "summary": "The meeting with Zohran Mamdani took place before the UN Assembly and was analyzed by CNN as a symbolic response to Trump’s ties with Brazil’s opposition.",
+      "aiSummary": [
+        "Lula met Zohran Mamdani at Brazil’s ambassadorial residence at the UN.",
+        "The meeting was requested by the mayor and took place before the General Assembly.",
+        "Analyst Pedro Venceslau interpreted it as a gesture of political reciprocity."
+      ],
+      "paragraphs": [
+        "President Luiz Inácio Lula da Silva met New York Mayor Zohran Mamdani on Monday, September 21, at the residence of Brazil’s ambassador to the UN, Sérgio Danese. The meeting was requested by Mamdani and took place on the eve of the General Assembly’s opening.",
+        "CNN political analyst Pedro Venceslau described Mamdani as one of the strongest symbols of opposition to U.S. President Donald Trump. He presented the assessment on CNN 360° and said the meeting carried strong political symbolism.",
+        "According to the analysis, accepting Mamdani’s invitation could be read as a response to Trump’s reception at the White House of Brazilian opposition figures including Flávio Bolsonaro, Eduardo Bolsonaro and Paulo Figueiredo.",
+        "Venceslau said Lula was showing autonomy and a willingness to deal with the U.S. leader’s political opponents. The context also included a speech Lula was expected to give at the UN Assembly, defending sovereignty and criticizing interference in Brazil’s elections.",
+        "The meeting also had a soccer-related element. Mamdani is described as a Corinthians supporter, and Lula gave him a vintage shirt linked to the so-called Corinthians Democracy; the analyst said the meeting would receive broad U.S. media coverage and reach Trump’s attention."
+      ]
+    }
+  },
+  "verification": {
+    "score": 8.3,
+    "checkedAt": "2026-09-22T12:31:03Z",
+    "checks": [
+      {
+        "provider": "CNN Brasil",
+        "url": "https://www.cnnbrasil.com.br/politica/analise-encontro-entre-lula-e-o-prefeito-de-nova-york-e-gesto-para-trump/",
+        "finding": "supports",
+        "note": "Complete HTTP-200 extraction with complete:true supports the Sept. 21 meeting at Brazil's UN ambassadorial residence, that it was requested by Mamdani, the Corinthians-shirt exchange and the clear attribution of political interpretation to CNN analyst Pedro Venceslau."
+      },
+      {
+        "provider": "Aos Fatos",
+        "url": "https://www.aosfatos.org/",
+        "finding": "no-match",
+        "note": "Portuguese searches for Lula, Zohran Mamdani, the UN residence and the Corinthians shirt found no fact-check verdict about the actual meeting; unrelated image rumors are not a verdict on this report."
+      },
+      {
+        "provider": "Agência Lupa",
+        "url": "https://www.agencialupa.org/",
+        "finding": "no-match",
+        "note": "Searches found unrelated image or identity checks involving Mamdani but no directly matching verdict on the Sept. 21 meeting; no-match is neutral."
+      },
+      {
+        "provider": "Projeto Comprova",
+        "url": "https://projetocomprova.com.br/",
+        "finding": "no-match",
+        "note": "No Comprova fact-check was found for the meeting, location, shirt exchange or political interpretation; no-match is neutral."
+      },
+      {
+        "provider": "TSE Fato ou Boato",
+        "url": "https://www.tse.jus.br/comunicacao/noticias/fato-ou-boato",
+        "finding": "no-match",
+        "note": "No electoral-misinformation verdict was relevant to this diplomatic and municipal meeting report; no-match is neutral."
+      },
+      {
+        "provider": "AFP Fact Check",
+        "url": "https://factcheck.afp.com/",
+        "finding": "no-match",
+        "note": "English and Portuguese searches found unrelated altered-image checks but no AFP verdict on the actual Lula-Mamdani meeting; no-match is neutral."
+      },
+      {
+        "provider": "Reuters Fact Check",
+        "url": "https://www.reuters.com/fact-check/",
+        "finding": "no-match",
+        "note": "No directly matching Reuters fact-check was found for the meeting or its political interpretation; no-match is neutral."
+      },
+      {
+        "provider": "Full Fact",
+        "url": "https://fullfact.org/",
+        "finding": "no-match",
+        "note": "English searches found no Full Fact verdict for this dated Lula-Mamdani report; no-match is neutral."
+      },
+      {
+        "provider": "Google Fact Check Tools",
+        "url": "https://toolbox.google.com/factcheck/explorer",
+        "finding": "inconclusive",
+        "note": "No exact indexed ClaimReview record surfaced, and the public claims-search API returned HTTP 403 in this run; this is not evidence for or against the article."
+      }
+    ],
+    "caveat": "The meeting and shirt exchange are supported by the complete CNN extraction, but no independent full extraction was found in this run. Claims about reciprocity, Trump's likely reaction and the meeting's political effect are analysis or prediction, not independently verifiable outcomes, and remain explicitly attributed."
+  }
+}

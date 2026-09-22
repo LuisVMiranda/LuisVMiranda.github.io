@@ -1,0 +1,118 @@
+{
+  "id": "economia-2026-09-22-stf-publicidade-bets",
+  "slug": "economia-2026-09-22-stf-publicidade-bets",
+  "section": "economia",
+  "secondarySections": [],
+  "publishedAt": "2026-09-22T05:00:00+00:00",
+  "updatedAt": "2026-09-22T13:17:34.573Z",
+  "sources": [
+    {
+      "name": "Correio Braziliense",
+      "url": "https://www.correiobraziliense.com.br/economia/2026/09/7505393-dino-citou-vicio-e-endividamento-ao-restringir-publicidade-de-bets.html"
+    }
+  ],
+  "rights": {
+    "mode": "original-report"
+  },
+  "translations": {
+    "pt-BR": {
+      "title": "Dino mantém restrições de Minas Gerais à publicidade de bets em bens públicos",
+      "summary": "Ministro do STF negou liminar da associação do setor e manteve decreto mineiro enquanto a constitucionalidade da norma aguarda julgamento de mérito.",
+      "aiSummary": [
+        "O decreto impede publicidade, patrocínio e ações comerciais de bets em imóveis, eventos e recursos públicos de Minas Gerais.",
+        "Flávio Dino citou defesa do consumidor, endividamento e jogo compulsivo ao negar a suspensão imediata.",
+        "A decisão é provisória e ainda será analisada no mérito pelo Supremo."
+      ],
+      "paragraphs": [
+        "O ministro Flávio Dino, do Supremo Tribunal Federal, manteve em vigor o decreto de Minas Gerais que restringe a publicidade de casas de apostas esportivas em bens públicos estaduais e em eventos promovidos ou apoiados pelo Executivo. A decisão respondeu a um pedido de liminar da Associação Nacional de Jogos e Loterias.",
+        "A norma impede que imóveis e estruturas administrados pelo Estado sejam usados para divulgação, promoção, patrocínio ou ações comerciais ligadas às bets. Também proíbe o uso de recursos públicos estaduais para financiar campanhas desse tipo. Com a liminar negada, as regras continuam valendo enquanto a ação não é julgada definitivamente.",
+        "Dino afirmou não haver, naquele momento, elementos suficientes para suspender o decreto. Na avaliação registrada na decisão, o Estado pode definir as condições de uso de seu patrimônio e a regra não impede a exploração econômica das apostas em todo o território mineiro; ela disciplina a relação entre a atividade e os bens ou eventos públicos.",
+        "O relator também disse que a livre iniciativa deve ser ponderada com a defesa do consumidor e o interesse público. Ao contextualizar a decisão, citou discussões da CPI das Bets, preocupações com endividamento familiar e jogo compulsivo, alertas sobre ludopatia e referências ao uso de plataformas por beneficiários de programas sociais.",
+        "A ANJL sustenta que a União tem competência para regulamentar loterias e apostas e que o decreto estadual tratou de matéria que exigiria lei. A decisão não encerra esse debate: o STF ainda deverá examinar a divisão de competências, a autonomia administrativa dos estados e os limites da publicidade de uma atividade regulada nacionalmente."
+      ]
+    },
+    "en": {
+      "title": "Brazil’s Supreme Court keeps Minas Gerais restrictions on betting ads in public assets",
+      "summary": "Justice Flávio Dino rejected an industry injunction and kept the decree in place while the rule’s constitutionality awaits a merits ruling.",
+      "aiSummary": [
+        "The decree bars betting advertising, sponsorships and commercial actions in Minas Gerais public property, events and funds.",
+        "Flávio Dino cited consumer protection, household debt and compulsive gambling when denying immediate suspension.",
+        "The decision is provisional and the Supreme Court will still hear the merits."
+      ],
+      "paragraphs": [
+        "Justice Flávio Dino of Brazil’s Supreme Court kept in force a Minas Gerais decree restricting advertising by sports-betting companies in state public assets and at events promoted or supported by the executive branch. The ruling answered an injunction request from the National Association of Games and Lotteries.",
+        "The rule bars state-owned or state-administered properties from being used for advertising, promotion, sponsorship or commercial actions connected with betting companies. It also prevents state public funds from financing such campaigns. Because the injunction was denied, the restrictions remain effective while the case awaits a final ruling.",
+        "Dino said there were not enough grounds at that stage to suspend the decree. The decision said the state may set conditions for the use of its property and that the rule does not prohibit betting’s economic activity throughout Minas Gerais; it regulates the relationship between that activity and public assets or events.",
+        "The justice also wrote that economic freedom must be weighed against consumer protection and the public interest. In describing the context, he referred to congressional discussions, concerns about household debt and compulsive gambling, warnings about gambling disorder and references to betting-platform use by social-program beneficiaries.",
+        "The industry association argues that the federal government has authority over lotteries and betting and that the state decree addressed a matter requiring legislation. The ruling does not settle that dispute: the Supreme Court must still examine the division of powers, state administrative autonomy and the limits on advertising a nationally regulated activity."
+      ]
+    }
+  },
+  "verification": {
+    "score": 9.2,
+    "checkedAt": "2026-09-22T12:27:59Z",
+    "checks": [
+      {
+        "provider": "Correio Braziliense",
+        "url": "https://www.correiobraziliense.com.br/economia/2026/09/7505393-dino-citou-vicio-e-endividamento-ao-restringir-publicidade-de-bets.html",
+        "finding": "supports",
+        "note": "Complete HTTP-200 extraction supports the reported injunction denial by Justice Flávio Dino, continued Minas Gerais restrictions on betting ads in public assets/events and funds, ANJL's challenge, and the unresolved merits dispute."
+      },
+      {
+        "provider": "CNN Brasil",
+        "url": "https://www.cnnbrasil.com.br/politica/dino-rejeita-liminar-e-mantem-decreto-que-proibe-publicidade-de-bets-em-mg",
+        "finding": "supports",
+        "note": "Independent report corroborates that Dino rejected the industry's injunction and kept the Minas Gerais decree restricting betting advertising in public spaces; the merits remained pending."
+      },
+      {
+        "provider": "Aos Fatos",
+        "url": "https://www.aosfatos.org/",
+        "finding": "no-match",
+        "note": "Exact-claim and meaningful-variant searches in Portuguese found no matching fact-check verdict; no-match is neutral and is not evidence that the ruling is correct."
+      },
+      {
+        "provider": "Agência Lupa",
+        "url": "https://www.agencialupa.org/",
+        "finding": "no-match",
+        "note": "Exact-claim and meaningful-variant searches in Portuguese found no matching fact-check verdict; no-match is neutral and is not evidence that the ruling is correct."
+      },
+      {
+        "provider": "Projeto Comprova",
+        "url": "https://projetocomprova.com.br/",
+        "finding": "no-match",
+        "note": "Exact-claim and meaningful-variant searches in Portuguese found no matching fact-check verdict; no-match is neutral and is not evidence that the ruling is correct."
+      },
+      {
+        "provider": "TSE Fato ou Boato",
+        "url": "https://www.tse.jus.br/comunicacao/noticias/fato-ou-boato",
+        "finding": "no-match",
+        "note": "No election or voting fact-check was relevant; the result is neutral even though the claim concerns a public-law dispute."
+      },
+      {
+        "provider": "AFP Fact Check",
+        "url": "https://factcheck.afp.com/",
+        "finding": "no-match",
+        "note": "English and Portuguese variant searches found no matching fact-check verdict for the STF injunction or Minas Gerais decree; no-match is neutral."
+      },
+      {
+        "provider": "Reuters Fact Check",
+        "url": "https://www.reuters.com/fact-check/",
+        "finding": "no-match",
+        "note": "English and Portuguese variant searches found no matching fact-check verdict for the STF injunction or Minas Gerais decree; no-match is neutral."
+      },
+      {
+        "provider": "Full Fact",
+        "url": "https://fullfact.org/",
+        "finding": "no-match",
+        "note": "English and Portuguese variant searches found no matching fact-check verdict for the STF injunction or Minas Gerais decree; no-match is neutral."
+      },
+      {
+        "provider": "Google Fact Check Tools",
+        "url": "https://toolbox.google.com/factcheck/explorer",
+        "finding": "inconclusive",
+        "note": "Web-indexed Explorer searches did not surface a matching ClaimReview record; API coverage was unavailable in this run, so this is not a no-match or truth finding."
+      }
+    ],
+    "caveat": "The independent report and complete source agree on the provisional injunction ruling. The article distinguishes the order from the unresolved constitutional merits and presents consumer-debt and compulsive-gambling concerns as reasoning/context, not settled empirical findings."
+  }
+}

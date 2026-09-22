@@ -1,0 +1,113 @@
+{
+  "id": "politica-2026-09-22-quaest-empate",
+  "slug": "politica-2026-09-22-quaest-empate",
+  "section": "politica",
+  "secondarySections": [],
+  "publishedAt": "2026-09-22T08:06:13.868-03:00",
+  "publishedDate": "2026-09-22",
+  "updatedAt": "2026-09-22T13:17:34.573Z",
+  "sources": [
+    {
+      "name": "Valor International",
+      "url": "https://valorinternational.globo.com/politics/news/2026/09/22/lula-flavio-statistically-tied-in-first-round-for-first-time.ghtml"
+    }
+  ],
+  "rights": {
+    "mode": "original-report"
+  },
+  "translations": {
+    "pt-BR": {
+      "title": "Quaest aponta empate técnico entre Lula e Flávio no primeiro turno",
+      "summary": "A pesquisa mostra Lula com 37% e Flávio Bolsonaro com 33%, diferença no limite da margem de erro; no segundo turno, o placar é 42% a 41%.",
+      "aiSummary": [
+        "A Quaest registrou Lula com 37% e Flávio Bolsonaro com 33% no primeiro turno.",
+        "O segundo turno testado ficou em 42% para Flávio e 41% para Lula.",
+        "Foram entrevistadas 2.004 pessoas entre 17 e 20 de setembro, com margem de dois pontos."
+      ],
+      "paragraphs": [
+        "A pesquisa Quaest divulgada nesta segunda-feira (21) colocou Lula e o senador Flávio Bolsonaro em empate técnico no primeiro turno pela primeira vez na série citada pelo Valor. O presidente aparece com 37%, e Flávio, com 33%, diferença de quatro pontos no limite da margem de erro.",
+        "Em um eventual segundo turno, Flávio tem 42% e Lula, 41%, também em empate técnico. Augusto Cury aparece com 6% no primeiro turno, Ronaldo Caiado com 4%, Renan Santos com 3% e Romeu Zema com 1%; 8% estão indecisos e 7% dizem que votarão em branco, nulo ou não votarão.",
+        "A Quaest entrevistou 2.004 pessoas com 16 anos ou mais entre quinta-feira e domingo. O levantamento foi encomendado por O Globo e pela TV Globo, tem margem de erro de dois pontos percentuais e nível de confiança de 95%.",
+        "A rejeição segue alta entre os dois líderes: 56% disseram que não votariam em Flávio, ante 55% para Lula. Entre os eleitores que já escolheram um candidato, 79% consideram a decisão definitiva e 21% admitem que ainda podem mudar de voto.",
+        "O levantamento também mostrou diferenças entre segmentos. Lula chegou a 44% entre as mulheres, contra 37% de Flávio, enquanto o candidato do PL avançou entre homens, eleitores de renda superior a cinco salários mínimos e evangélicos. A desaprovação do governo Lula permaneceu em 50%, contra 44% de aprovação."
+      ]
+    },
+    "en": {
+      "title": "Quaest finds Lula and Flávio Bolsonaro statistically tied in first round",
+      "summary": "The poll puts Lula at 37% and Flávio Bolsonaro at 33%, a gap at the margin of error; the tested runoff is 42% to 41%.",
+      "aiSummary": [
+        "Quaest recorded Lula at 37% and Flávio Bolsonaro at 33% in the first round.",
+        "The tested runoff stood at 42% for Flávio and 41% for Lula.",
+        "The survey interviewed 2,004 people from September 17 to 20 with a two-point margin."
+      ],
+      "paragraphs": [
+        "A Quaest poll released Monday put Lula and Senator Flávio Bolsonaro in a statistical tie in the first round for the first time in the series cited by Valor. The president has 37% and Flávio 33%, a four-point gap at the poll’s margin of error.",
+        "In a possible runoff, Flávio has 42% and Lula 41%, also a statistical tie. Augusto Cury has 6% in the first round, Ronaldo Caiado 4%, Renan Santos 3% and Romeu Zema 1%; 8% are undecided and 7% say they would cast a blank or invalid ballot or not vote.",
+        "Quaest interviewed 2,004 people aged 16 and older from Thursday through Sunday. The survey was commissioned by O Globo and TV Globo, has a two-point margin of error and a 95% confidence level.",
+        "Rejection remains high for both leading candidates: 56% said they would not vote for Flávio, compared with 55% for Lula. Among respondents who have chosen a candidate, 79% call the decision final and 21% say they could still change their vote.",
+        "The poll also showed differences across groups. Lula reached 44% among women, compared with 37% for Flávio, while the PL candidate gained among men, voters earning more than five minimum wages and evangelical Christians. Disapproval of the Lula government remained at 50%, against 44% approval."
+      ]
+    }
+  },
+  "verification": {
+    "score": 8.2,
+    "checkedAt": "2026-09-22T12:31:03Z",
+    "checks": [
+      {
+        "provider": "Valor International",
+        "url": "https://valorinternational.globo.com/politics/news/2026/09/22/lula-flavio-statistically-tied-in-first-round-for-first-time.ghtml",
+        "finding": "supports",
+        "note": "Complete HTTP-200 extraction with complete:true supports the current Quaest figures, 37% Lula versus 33% Flávio, 42%-41% in the tested runoff, the 2,004-person sample, Sept. 17-20 fieldwork, two-point margin and 95% confidence level."
+      },
+      {
+        "provider": "Aos Fatos",
+        "url": "https://www.aosfatos.org/",
+        "finding": "no-match",
+        "note": "Portuguese searches for the current Quaest release, 37%-33% first-round figures and 42%-41% runoff found no matching fact-check verdict; no-match is neutral."
+      },
+      {
+        "provider": "Agência Lupa",
+        "url": "https://www.agencialupa.org/",
+        "finding": "no-match",
+        "note": "No directly matching Lupa verdict was found for this dated Quaest release; related polling coverage does not resolve the current sample or percentages."
+      },
+      {
+        "provider": "Projeto Comprova",
+        "url": "https://projetocomprova.com.br/",
+        "finding": "no-match",
+        "note": "No Comprova fact-check was found for the current Quaest horse-race figures; no-match is neutral and not evidence that the poll is accurate."
+      },
+      {
+        "provider": "TSE Fato ou Boato",
+        "url": "https://www.tse.jus.br/comunicacao/noticias/fato-ou-boato",
+        "finding": "no-match",
+        "note": "No TSE misinformation verdict was found for this poll report; no-match is neutral."
+      },
+      {
+        "provider": "AFP Fact Check",
+        "url": "https://factcheck.afp.com/",
+        "finding": "no-match",
+        "note": "English and Portuguese searches found no AFP verdict for the dated Quaest figures or methodology; no-match is neutral."
+      },
+      {
+        "provider": "Reuters Fact Check",
+        "url": "https://www.reuters.com/fact-check/",
+        "finding": "no-match",
+        "note": "No matching Reuters fact-check was found for the current Brazilian presidential poll release; no-match is neutral."
+      },
+      {
+        "provider": "Full Fact",
+        "url": "https://fullfact.org/",
+        "finding": "no-match",
+        "note": "English searches found no Full Fact verdict addressing these dated Quaest figures; no-match is neutral."
+      },
+      {
+        "provider": "Google Fact Check Tools",
+        "url": "https://toolbox.google.com/factcheck/explorer",
+        "finding": "inconclusive",
+        "note": "No exact indexed ClaimReview record surfaced, and the public claims-search API returned HTTP 403 in this run; this is not evidence for or against the article."
+      }
+    ],
+    "caveat": "The current numbers and fieldwork are fully present in the complete Valor extraction, but no independent full extraction of this exact release was found. The article correctly describes the four-point first-round gap as a statistical tie at a two-point margin; polling figures remain a dated snapshot, not a forecast."
+  }
+}

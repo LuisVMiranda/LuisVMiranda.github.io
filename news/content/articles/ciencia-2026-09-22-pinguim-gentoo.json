@@ -1,0 +1,119 @@
+{
+  "id": "ciencia-2026-09-22-pinguim-gentoo",
+  "slug": "ciencia-2026-09-22-pinguim-gentoo",
+  "section": "ciencia",
+  "secondarySections": [],
+  "publishedAt": "2026-09-22T00:16:57-04:00",
+  "publishedDate": "2026-09-22",
+  "updatedAt": "2026-09-22T13:17:34.573Z",
+  "sources": [
+    {
+      "name": "SSBCrack News",
+      "url": "https://news.ssbcrack.com/new-gentoo-penguin-species-identified-in-the-kerguelen-islands/"
+    }
+  ],
+  "rights": {
+    "mode": "original-report"
+  },
+  "translations": {
+    "pt-BR": {
+      "title": "Análises genômicas reconhecem nova espécie de pinguim-gentoo nas ilhas Kerguelen",
+      "summary": "Estudo com 64 pinguins de dez colônias separou quatro espécies antes tratadas como uma só.",
+      "aiSummary": [
+        "A população de Kerguelen foi reconhecida como Pygoscelis kerguelensis.",
+        "A análise genômica separou quatro espécies dentro do grupo dos pinguins-gentoo.",
+        "O conjunto de dados incluiu 64 pinguins de dez colônias."
+      ],
+      "paragraphs": [
+        "Uma equipe internacional com pesquisadores do Chile e da Universidade da Califórnia em Berkeley reconheceu uma população das ilhas Kerguelen como a espécie Pygoscelis kerguelensis. A reportagem apresenta o caso como a primeira nova classificação de pinguim em mais de um século.",
+        "A análise genética indica que o grupo antes tratado como uma única espécie de pinguim-gentoo reúne quatro espécies distintas. Três populações consideradas subespécies também passariam a ser reconhecidas como espécies completas por causa da divergência genética.",
+        "Pygoscelis kerguelensis é descrito como uma espécie críptica: sua aparência se parece com a de parentes próximos, mas seu material genético é significativamente diferente. O trabalho comparou genomas completos de 64 pinguins coletados em dez colônias.",
+        "Os pesquisadores também avaliaram aparência, vocalizações, períodos de reprodução, dieta e comportamento alimentar. A reportagem situa a divergência das quatro espécies entre 300 mil e 500 mil anos e descreve adaptações a condições polares e a águas com diferentes níveis de nutrientes.",
+        "O reconhecimento taxonômico reforça a necessidade de conservação. Mudanças climáticas, perda de habitat e competição com pescarias comerciais podem pressionar populações insulares, enquanto a espécie gentoo antártica pode ampliar sua área de ocorrência em um cenário de aquecimento."
+      ]
+    },
+    "en": {
+      "title": "Genomic analyses recognize a new gentoo penguin species in the Kerguelen Islands",
+      "summary": "A study of 64 penguins from ten colonies separated four species previously treated as one.",
+      "aiSummary": [
+        "The Kerguelen population was recognized as Pygoscelis kerguelensis.",
+        "Genomic analysis separated four species within the gentoo penguin group.",
+        "The dataset included 64 penguins from ten breeding colonies."
+      ],
+      "paragraphs": [
+        "An international team involving researchers from Chile and the University of California, Berkeley, recognized a Kerguelen Islands population as Pygoscelis kerguelensis. The report describes it as the first new penguin classification in more than a century.",
+        "Genetic analysis indicates that the group once treated as a single gentoo penguin species contains four distinct species. Three populations considered subspecies would also be recognized as full species because of genetic divergence.",
+        "Pygoscelis kerguelensis is described as a cryptic species: it looks similar to close relatives but is significantly different genetically. The work compared whole-genome sequences from 64 penguins collected at ten breeding colonies.",
+        "Researchers also assessed appearance, vocalizations, breeding schedules, diet and feeding behavior. The report places the divergence of the four species between 300,000 and 500,000 years ago and describes adaptations to polar conditions and waters with different nutrient levels.",
+        "The taxonomic recognition adds to the conservation case. Climate change, habitat loss and competition with commercial fisheries may pressure island populations, while the Antarctic gentoo could expand its range in a warming scenario."
+      ]
+    }
+  },
+  "verification": {
+    "score": 8.4,
+    "checkedAt": "2026-09-22T12:31:55Z",
+    "checks": [
+      {
+        "provider": "Communications Biology",
+        "url": "https://www.nature.com/articles/s42003-025-08393-7",
+        "finding": "supports",
+        "note": "The primary paper supports the genomic analysis of 64 penguins from 10 colonies and proposes recognition of four gentoo species, including Pygoscelis kerguelensis; taxonomic adoption can vary among checklists."
+      },
+      {
+        "provider": "SSBCrack News",
+        "url": "https://news.ssbcrack.com/new-gentoo-penguin-species-identified-in-the-kerguelen-islands/",
+        "finding": "supports",
+        "note": "The complete source report contains the article's central species, sampling, genomic-divergence and conservation claims, with the taxonomic result attributed to the research."
+      },
+      {
+        "provider": "Aos Fatos",
+        "url": "https://www.aosfatos.org/",
+        "finding": "no-match",
+        "note": "Site-restricted searches for Pygoscelis kerguelensis, the four gentoo species and the Kerguelen claim found no directly matching fact-check; no-match is neutral."
+      },
+      {
+        "provider": "Agência Lupa",
+        "url": "https://www.agencialupa.org/",
+        "finding": "no-match",
+        "note": "Searches for the named species, genomic study and Kerguelen classification found no directly matching fact-check; no-match is neutral."
+      },
+      {
+        "provider": "Projeto Comprova",
+        "url": "https://projetocomprova.com.br/",
+        "finding": "no-match",
+        "note": "Searches for the gentoo-penguin taxonomic claim and named species found no directly matching fact-check; no-match is neutral."
+      },
+      {
+        "provider": "TSE Fato ou Boato",
+        "url": "https://www.tse.jus.br/comunicacao/noticias/fato-ou-boato",
+        "finding": "no-match",
+        "note": "This civic-process registry is not materially targeted to a penguin taxonomy claim; no relevant matching fact-check was found, which is neutral."
+      },
+      {
+        "provider": "AFP Fact Check",
+        "url": "https://factcheck.afp.com/",
+        "finding": "no-match",
+        "note": "Site-restricted searches in English for the new gentoo species and Pygoscelis kerguelensis found no directly matching AFP fact-check; no-match is neutral."
+      },
+      {
+        "provider": "Reuters Fact Check",
+        "url": "https://www.reuters.com/fact-check/",
+        "finding": "no-match",
+        "note": "Searches for the Kerguelen gentoo classification and the four-species claim found no directly matching Reuters fact-check; no-match is neutral."
+      },
+      {
+        "provider": "Full Fact",
+        "url": "https://fullfact.org/",
+        "finding": "no-match",
+        "note": "Searches for Pygoscelis kerguelensis and the article's central taxonomy claim found no directly matching Full Fact check; no-match is neutral."
+      },
+      {
+        "provider": "Google Fact Check Tools",
+        "url": "https://toolbox.google.com/factcheck/explorer",
+        "finding": "inconclusive",
+        "note": "The public claims:search endpoint returned HTTP 403 without an API key, so indexed ClaimReview coverage could not be confirmed; this is not evidence for or against the article."
+      }
+    ],
+    "caveat": "The genomic findings and proposed taxonomic revision are well supported by the primary paper. Formal adoption can vary among taxonomic authorities, so the wording is strongest when treated as the study's proposed recognition rather than proof of universal checklist consensus."
+  }
+}

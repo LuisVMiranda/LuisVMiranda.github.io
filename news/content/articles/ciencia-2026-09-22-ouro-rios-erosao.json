@@ -1,0 +1,119 @@
+{
+  "id": "ciencia-2026-09-22-ouro-rios-erosao",
+  "slug": "ciencia-2026-09-22-ouro-rios-erosao",
+  "section": "ciencia",
+  "secondarySections": [],
+  "publishedAt": "2026-09-22T01:23:00+00:00",
+  "publishedDate": "2026-09-22",
+  "updatedAt": "2026-09-22T13:17:34.573Z",
+  "sources": [
+    {
+      "name": "O Antagonista",
+      "url": "https://oantagonista.com.br/economia/por-que-o-ouro-aparece-em-determinados-rios-e-nao-em-outros-a-relacao-entre-montanhas-erosao-e-antigos-depositos-minerais/"
+    }
+  ],
+  "rights": {
+    "mode": "original-report"
+  },
+  "translations": {
+    "pt-BR": {
+      "title": "Erosão explica por que o ouro se concentra em alguns rios",
+      "summary": "A explicação reúne o papel de rochas antigas, veios de quartzo, relevo e correnteza na concentração de ouro aluvial.",
+      "aiSummary": [
+        "A erosão transporta ouro de rochas antigas para cursos d’água.",
+        "Veios de quartzo e movimentos tectônicos influenciam a origem dos depósitos.",
+        "Curvas, pedras, cavidades e cascalho podem concentrar sedimentos pesados."
+      ],
+      "paragraphs": [
+        "O ouro encontrado em determinados rios resulta, segundo a explicação publicada, da erosão de rochas antigas que carregam o metal até a água. O processo se desenvolve ao longo de milhões de anos e concentra o material no leito.",
+        "Em áreas montanhosas, o ouro pode permanecer preso em veios de quartzo. Chuva e vento desgastam a rocha, enquanto a água transporta os fragmentos para áreas mais baixas; por ser pesado, o metal tende a se depositar onde a correnteza perde velocidade.",
+        "Curvas internas dos rios, zonas protegidas por pedras, cavidades no fundo e bancos de cascalho grosso aparecem como ambientes em que sedimentos pesados podem se acumular. A concentração depende da forma do leito e do fluxo da água.",
+        "A história geológica das montanhas também influencia o processo. Atividade vulcânica e movimentos tectônicos podem colocar o metal em fraturas e elevar camadas rochosas, expondo-as à erosão ao longo das eras.",
+        "Temporais e enchentes podem soltar novos fragmentos e renovar o material disponível no leito. A correnteza remove parte da areia mais leve, enquanto partículas mais densas permanecem em pontos de deposição."
+      ]
+    },
+    "en": {
+      "title": "Erosion explains why gold concentrates in some rivers",
+      "summary": "The explanation brings together ancient rocks, quartz veins, terrain and currents in the concentration of alluvial gold.",
+      "aiSummary": [
+        "Erosion carries gold from ancient rocks into waterways.",
+        "Quartz veins and tectonic movement influence the origin of deposits.",
+        "Bends, stones, cavities and gravel can concentrate heavy sediment."
+      ],
+      "paragraphs": [
+        "Gold found in some rivers results, according to the published explanation, from the erosion of ancient rocks that carry the metal into water. The process unfolds over millions of years and concentrates material in the riverbed.",
+        "In mountain areas, gold can remain trapped in quartz veins. Rain and wind wear down the rock while water carries fragments downhill; because the metal is heavy, it tends to settle where the current slows.",
+        "Inner bends, areas sheltered by large stones, holes in the riverbed and coarse gravel banks are described as places where heavy sediments can accumulate. Concentration depends on the shape of the bed and the flow of water.",
+        "The geological history of mountains also matters. Volcanic activity and tectonic movement can place metal in fractures and raise rock layers, exposing them to erosion over long periods.",
+        "Storms and floods can release new fragments and renew material in the riverbed. Flow removes some lighter sand while denser particles remain in depositional areas."
+      ]
+    }
+  },
+  "verification": {
+    "score": 8,
+    "checkedAt": "2026-09-22T12:31:55Z",
+    "checks": [
+      {
+        "provider": "USGS",
+        "url": "https://www.usgs.gov/centers/national-minerals-information-center/gold-statistics-and-information",
+        "finding": "context",
+        "note": "USGS institutional context supports the basic placer mechanism: weathering releases gold, streams transport it and dense particles concentrate in stream sediments. It does not verify every site-specific or historical generalization in the source article."
+      },
+      {
+        "provider": "O Antagonista",
+        "url": "https://oantagonista.com.br/economia/por-que-o-ouro-aparece-em-determinados-rios-e-nao-em-outros-a-relacao-entre-montanhas-erosao-e-antigos-depositos-minerais/",
+        "finding": "supports",
+        "note": "The complete source directly contains the erosion, quartz-vein, stream-transport, flow-slowdown and depositional-feature explanations summarized in the article."
+      },
+      {
+        "provider": "Aos Fatos",
+        "url": "https://www.aosfatos.org/",
+        "finding": "no-match",
+        "note": "Site-restricted searches for placer gold, river erosion, quartz veins and the article's central geology claim found no directly matching fact-check; no-match is neutral."
+      },
+      {
+        "provider": "Agência Lupa",
+        "url": "https://www.agencialupa.org/",
+        "finding": "no-match",
+        "note": "Searches for gold in rivers, erosion and streambed concentration found no directly matching fact-check; no-match is neutral."
+      },
+      {
+        "provider": "Projeto Comprova",
+        "url": "https://projetocomprova.com.br/",
+        "finding": "no-match",
+        "note": "Searches for the alluvial-gold explanation and named geological mechanisms found no directly matching fact-check; no-match is neutral."
+      },
+      {
+        "provider": "TSE Fato ou Boato",
+        "url": "https://www.tse.jus.br/comunicacao/noticias/fato-ou-boato",
+        "finding": "no-match",
+        "note": "This civic-process registry is not materially targeted to a geology explainer; no relevant matching fact-check was found, which is neutral."
+      },
+      {
+        "provider": "AFP Fact Check",
+        "url": "https://factcheck.afp.com/",
+        "finding": "no-match",
+        "note": "Site-restricted searches in English for placer gold, erosion and riverbed concentration found no directly matching AFP fact-check; no-match is neutral."
+      },
+      {
+        "provider": "Reuters Fact Check",
+        "url": "https://www.reuters.com/fact-check/",
+        "finding": "no-match",
+        "note": "Searches for the article's gold-and-river geology claims found no directly matching Reuters fact-check; no-match is neutral."
+      },
+      {
+        "provider": "Full Fact",
+        "url": "https://fullfact.org/",
+        "finding": "no-match",
+        "note": "Searches for alluvial gold, stream erosion and the central geology explanation found no directly matching Full Fact check; no-match is neutral."
+      },
+      {
+        "provider": "Google Fact Check Tools",
+        "url": "https://toolbox.google.com/factcheck/explorer",
+        "finding": "inconclusive",
+        "note": "The public claims:search endpoint returned HTTP 403 without an API key, so indexed ClaimReview coverage could not be confirmed; this is not evidence for or against the article."
+      }
+    ],
+    "caveat": "The central placer-gold mechanism is consistent with USGS context, but the source article is a general explainer and some claims about mountain age, volcanism and particular prospecting locations are broader than the institutional evidence directly establishes."
+  }
+}

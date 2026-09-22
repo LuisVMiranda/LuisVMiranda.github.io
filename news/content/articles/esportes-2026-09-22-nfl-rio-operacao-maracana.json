@@ -1,0 +1,77 @@
+{
+  "id": "esportes-2026-09-22-nfl-rio-operacao-maracana",
+  "slug": "esportes-2026-09-22-nfl-rio-operacao-maracana",
+  "section": "esportes",
+  "secondarySections": [],
+  "publishedAt": "2026-09-21T09:55:52.963-03:00",
+  "publishedDate": "2026-09-21",
+  "updatedAt": "2026-09-22T13:17:34.573Z",
+  "sources": [
+    {
+      "name": "oglobo.globo.com",
+      "url": "https://oglobo.globo.com/rio/noticia/2026/09/21/nfl-no-rio-veja-esquema-de-transito-metro-seguranca-e-regras-para-o-jogo-no-maracana.ghtml"
+    }
+  ],
+  "rights": {
+    "mode": "original-report"
+  },
+  "translations": {
+    "pt-BR": {
+      "title": "NFL no Rio terá operação especial de metrô, trânsito e segurança no Maracanã",
+      "summary": "Jogo entre Ravens e Cowboys será no domingo, 27 de setembro, com portões às 13h25 e regras específicas de acesso.",
+      "aiSummary": [
+        "Baltimore Ravens e Dallas Cowboys jogarão no Maracanã no domingo, 27 de setembro.",
+        "O metrô funcionará das 7h às 23h, com estações indicadas conforme o portão do ingresso.",
+        "A operação terá 360 policiais militares, 35 viaturas e 215 agentes da Polícia Civil."
+      ],
+      "paragraphs": [
+        "O Rio de Janeiro terá uma operação especial de trânsito, transporte e segurança para o jogo entre Baltimore Ravens e Dallas Cowboys, marcado para domingo, 27 de setembro, no Maracanã. Os portões serão abertos às 13h25.",
+        "As autoridades recomendam que os torcedores priorizem metrô e trens e evitem carros particulares. O metrô funcionará das 7h às 23h, com a estação indicada de acordo com o portão de entrada registrado no ingresso.",
+        "Os torcedores dos portões A e B deverão usar a estação Maracanã/Rei Pelé, da Linha 2; o portão C terá como referência São Francisco Xavier/Tijuca, da Linha 1; e os portões D e E usarão São Cristóvão, também na Linha 2.",
+        "Haverá restrições de estacionamento no entorno do estádio a partir das 19h, mantidas até duas horas depois do fim da partida. O esquema também prevê desvios para motoristas em direção ao Méier e à Tijuca e recomenda a saída gradual da região.",
+        "A segurança mobilizará 360 policiais militares e 35 viaturas, com coordenação do Batalhão Especializado em Policiamento em Estádios, além de 215 agentes da Polícia Civil. Somente bolsas transparentes poderão entrar, e objetos perfurocortantes e materiais de marketing não autorizados serão proibidos."
+      ]
+    },
+    "en": {
+      "title": "NFL game in Rio to bring special metro, traffic and security operation",
+      "summary": "The Ravens and Cowboys will play on Sunday, September 27, with gates opening at 1:25 p.m. and specific access rules.",
+      "aiSummary": [
+        "The Baltimore Ravens and Dallas Cowboys will play at the Maracanã on Sunday, September 27.",
+        "The metro will operate from 7 a.m. to 11 p.m., with stations assigned by ticket gate.",
+        "The operation will include 360 military police officers, 35 vehicles and 215 civil police agents."
+      ],
+      "paragraphs": [
+        "Rio de Janeiro will use a special traffic, transport and security operation for the Baltimore Ravens-Dallas Cowboys game at the Maracanã on Sunday, September 27. The gates will open at 1:25 p.m.",
+        "Authorities advise fans to prioritize the metro and trains and avoid private cars. The metro will run from 7 a.m. to 11 p.m., with the recommended station determined by the entrance gate printed on each ticket.",
+        "Fans entering through gates A and B should use Maracanã/Rei Pelé station on Line 2; gate C will be served by São Francisco Xavier/Tijuca on Line 1; and gates D and E will use São Cristóvão, also on Line 2.",
+        "Parking restrictions around the stadium will begin at 7 p.m. and remain for two hours after the game. The operation also includes diversions for drivers heading toward Méier and Tijuca and calls for people to leave the area gradually.",
+        "Security will deploy 360 military police officers and 35 vehicles, coordinated by the Specialized Stadium Policing Battalion, as well as 215 civil police agents. Only transparent bags will be allowed inside; sharp objects and unauthorized marketing materials will be banned."
+      ]
+    }
+  },
+  "verification": {
+    "score": 9,
+    "checkedAt": "2026-09-22T12:28:11Z",
+    "checks": [
+      {
+        "provider": "O Globo",
+        "url": "https://oglobo.globo.com/rio/noticia/2026/09/21/nfl-no-rio-veja-esquema-de-transito-metro-seguranca-e-regras-para-o-jogo-no-maracana.ghtml",
+        "finding": "supports",
+        "note": "Complete local extraction was status 200 with complete=true. It gives the September 27 Ravens-Cowboys game, 13h25 gate opening, 7h-23h metro window, gate-specific stations, 19h parking restrictions, 360 military police, 35 vehicles, 215 civil police agents, and transparent-bag rules."
+      },
+      {
+        "provider": "NFL",
+        "url": "https://www.nfl.com/international/games/rio/event-info/faq",
+        "finding": "supports",
+        "note": "NFL's official Rio Game information confirms the September 27 Ravens-Cowboys matchup at Maracana and the event's official access context."
+      },
+      {
+        "provider": "Policia Militar do Estado do Rio de Janeiro",
+        "url": "https://www.tupi.fm/rio/pm-reforca-seguranca-para-jogo-da-nfl-no-maracana-com-360-policiais-e-35-viaturas/",
+        "finding": "supports",
+        "note": "Contemporaneous reporting of the PM operation repeats the 360-police and 35-vehicle deployment, corroborating the material security numbers."
+      }
+    ],
+    "caveat": "The game, date, venue, and core operation figures have official or contemporaneous corroboration. Transit routing, gate assignments, and bag restrictions remain operational guidance that can change and should be treated as valid for the September 27 event plan described."
+  }
+}

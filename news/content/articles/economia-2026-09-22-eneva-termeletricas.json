@@ -1,0 +1,118 @@
+{
+  "id": "economia-2026-09-22-eneva-termeletricas",
+  "slug": "economia-2026-09-22-eneva-termeletricas",
+  "section": "economia",
+  "secondarySections": [],
+  "publishedAt": "2026-09-21T16:43:42+00:00",
+  "updatedAt": "2026-09-22T13:17:34.573Z",
+  "sources": [
+    {
+      "name": "InfoMoney",
+      "url": "https://www.infomoney.com.br/business/eneva-ve-economia-de-ate-r32-bi-a-consumidor-com-flexibilizacao-de-termeletricas/"
+    }
+  ],
+  "rights": {
+    "mode": "original-report"
+  },
+  "translations": {
+    "pt-BR": {
+      "title": "Flexibilização de termelétricas da Eneva pode reduzir conta em até R$ 3,2 bilhões",
+      "summary": "Proposta em discussão no TCU prevê acionar três usinas conforme a necessidade do sistema, mas ainda depende de aprovação.",
+      "aiSummary": [
+        "Estudos citados pela Eneva estimam economia de R$ 1,7 bilhão a R$ 3,2 bilhões entre 2026 e 2030.",
+        "A mudança envolve três projetos com potência somada de 1,2 GW e despacho pelo mérito econômico ou segurança do sistema.",
+        "O acordo poderia começar em julho de 2027 se for aprovado."
+      ],
+      "paragraphs": [
+        "Uma mudança contratual em discussão no Tribunal de Contas da União pode permitir que três termelétricas da Eneva sejam acionadas conforme a necessidade do sistema, em vez de funcionarem compulsoriamente. A empresa apresentou ao governo estimativas de economia de R$ 1,7 bilhão a R$ 3,2 bilhões para consumidores do mercado regulado.",
+        "Os cálculos foram feitos pela Câmara de Comercialização de Energia Elétrica e pela consultoria PSR. Eles constam de documento encaminhado pelo Ministério de Minas e Energia à Agência Nacional de Energia Elétrica, que foi chamada a se manifestar no processo em discussão final no TCU.",
+        "A proposta envolve UTE Maranhão III, UTE MC2 Nova Venécia 2 e UTE Azulão II e IV, que somam 1,2 gigawatt. A ideia é que o Operador Nacional do Sistema Elétrico despache essas usinas por mérito econômico ou por necessidade de segurança, com custo variável unitário operativo de R$ 760 por megawatt-hora.",
+        "Segundo a proposta, a operação mais flexível ajudaria a lidar com variações na geração e reduziria cortes de fontes renováveis causados por sobreoferta. A economia estimada viria, entre outros fatores, da redução de encargos como ESS e Coner; uma análise do ONS também apontou potencial de redução de 215 megawatts médios nesses cortes.",
+        "O documento prevê neutralidade tarifária, com eventuais custos adicionais no mercado spot atribuídos à Eneva. Se aprovado, o acordo começaria em julho de 2027, e a discussão deveria ser concluída até o fim de setembro segundo os prazos da SecexConsenso do TCU. As cifras são estimativas de uma proposta, não economia já realizada."
+      ]
+    },
+    "en": {
+      "title": "Flexible dispatch for Eneva plants could save consumers up to R$3.2 billion",
+      "summary": "A proposal under discussion at Brazil’s TCU would dispatch three plants as the grid needs them, but still requires approval.",
+      "aiSummary": [
+        "Studies cited by Eneva estimate savings of R$1.7 billion to R$3.2 billion from 2026 through 2030.",
+        "The change covers three projects totaling 1.2 GW and dispatch based on economic merit or system security.",
+        "The agreement could start in July 2027 if approved."
+      ],
+      "paragraphs": [
+        "A contract change under discussion at Brazil’s Federal Court of Accounts could allow three Eneva thermal plants to run when the power system needs them rather than operate compulsorily. The company presented the government with estimated savings of R$1.7 billion to R$3.2 billion for consumers in the regulated market.",
+        "The calculations were prepared by the Electricity Trading Chamber and consultancy PSR. They appear in a document sent by the Ministry of Mines and Energy to the electricity regulator Aneel, which was asked to comment on the process as it approached a final discussion at the TCU.",
+        "The proposal covers UTE Maranhão III, UTE MC2 Nova Venécia 2 and UTE Azulão II and IV, with combined capacity of 1.2 gigawatts. The plan is for the national grid operator to dispatch them based on economic merit or system-security needs, using an operating variable cost of R$760 per megawatt-hour.",
+        "The proposal says more flexible operation would help manage changes in generation and reduce curtailment of renewable sources caused by excess supply. The estimated savings would partly come from lower charges such as ESS and Coner; an ONS analysis also identified a potential 215 average-megawatt reduction in curtailment.",
+        "The document includes a tariff-neutrality premise under which any additional spot-market costs would be borne by Eneva. If approved, the agreement would start in July 2027, and the discussion was expected to end by late September under the TCU’s SecexConsenso deadlines. The figures are estimates in a proposal, not realized savings."
+      ]
+    }
+  },
+  "verification": {
+    "score": 8.8,
+    "checkedAt": "2026-09-22T12:27:59Z",
+    "checks": [
+      {
+        "provider": "InfoMoney/Reuters",
+        "url": "https://www.infomoney.com.br/business/eneva-ve-economia-de-ate-r32-bi-a-consumidor-com-flexibilizacao-de-termeletricas/",
+        "finding": "supports",
+        "note": "Complete HTTP-200 Reuters extraction supports the conditional proposal: CCEE estimate R$1.7bn and PSR estimate R$3.2bn for 2026-2030, three Eneva projects totaling 1.2GW, CVU R$760/MWh, possible 215MWm curtailment reduction and July 2027 start if approved."
+      },
+      {
+        "provider": "Tribunal de Contas da União",
+        "url": "https://portal.tcu.gov.br/",
+        "finding": "context",
+        "note": "TCU search results corroborate that contract flexibility for Eneva thermal plants was under institutional discussion; they do not independently validate the savings estimates, which remain proposal figures."
+      },
+      {
+        "provider": "Aos Fatos",
+        "url": "https://www.aosfatos.org/",
+        "finding": "no-match",
+        "note": "Exact-claim and meaningful-variant searches in Portuguese found no matching fact-check verdict; no-match is neutral and is not evidence that the savings will occur."
+      },
+      {
+        "provider": "Agência Lupa",
+        "url": "https://www.agencialupa.org/",
+        "finding": "no-match",
+        "note": "Exact-claim and meaningful-variant searches in Portuguese found no matching fact-check verdict; no-match is neutral and is not evidence that the savings will occur."
+      },
+      {
+        "provider": "Projeto Comprova",
+        "url": "https://projetocomprova.com.br/",
+        "finding": "no-match",
+        "note": "Exact-claim and meaningful-variant searches in Portuguese found no matching fact-check verdict; no-match is neutral and is not evidence that the savings will occur."
+      },
+      {
+        "provider": "TSE Fato ou Boato",
+        "url": "https://www.tse.jus.br/comunicacao/noticias/fato-ou-boato",
+        "finding": "no-match",
+        "note": "No election or civic-process fact-check was relevant to this electricity-contract proposal; the result is neutral."
+      },
+      {
+        "provider": "AFP Fact Check",
+        "url": "https://factcheck.afp.com/",
+        "finding": "no-match",
+        "note": "English and Portuguese variant searches found no matching fact-check verdict for the Eneva proposal or savings estimates; no-match is neutral."
+      },
+      {
+        "provider": "Reuters Fact Check",
+        "url": "https://www.reuters.com/fact-check/",
+        "finding": "no-match",
+        "note": "English and Portuguese variant searches found no matching fact-check verdict for the Eneva proposal or savings estimates; no-match is neutral."
+      },
+      {
+        "provider": "Full Fact",
+        "url": "https://fullfact.org/",
+        "finding": "no-match",
+        "note": "English and Portuguese variant searches found no matching fact-check verdict for the Eneva proposal or savings estimates; no-match is neutral."
+      },
+      {
+        "provider": "Google Fact Check Tools",
+        "url": "https://toolbox.google.com/factcheck/explorer",
+        "finding": "inconclusive",
+        "note": "Web-indexed Explorer searches did not surface a matching ClaimReview record; API coverage was unavailable in this run, so this is not a no-match or truth finding."
+      }
+    ],
+    "caveat": "The report clearly labels the R$1.7bn-R$3.2bn figures, 215MWm reduction and July 2027 start as conditional proposal estimates. TCU context supports the process, but realized savings and approval remain unresolved future events."
+  }
+}

@@ -1,0 +1,122 @@
+{
+  "id": "brasil-2026-09-22-jet-ski-maceio",
+  "slug": "brasil-2026-09-22-jet-ski-maceio",
+  "section": "brasil",
+  "secondarySections": [],
+  "publishedAt": "2026-09-21T20:35:47-03:00",
+  "updatedAt": "2026-09-22T13:17:34.573Z",
+  "sources": [
+    {
+      "name": "Rádio Itatiaia",
+      "url": "https://www.itatiaia.com.br/brasil/nordeste/al/jet-ski-adaptado-para-circular-no-asfalto-chama-atencao-em-maceio-veja-o-video/"
+    }
+  ],
+  "rights": {
+    "mode": "original-report"
+  },
+  "translations": {
+    "pt-BR": {
+      "title": "Jet ski adaptado para circular no asfalto chama atenção em Maceió",
+      "summary": "Veículo foi flagrado nas ruas da capital alagoana, e o DMTT explicou as regras para alterações e regularização.",
+      "aiSummary": [
+        "Um jet ski adaptado para circular no asfalto foi flagrado nas ruas de Maceió.",
+        "O DMTT disse que alterações em veículos exigem autorização, regularização e registro no CRLV.",
+        "A circulação de veículo alterado sem regularização pode gerar multa, pontos na CNH e retenção."
+      ],
+      "paragraphs": [
+        "Um jet ski adaptado para circular no asfalto chamou atenção nas ruas de Maceió, em Alagoas. O veículo, normalmente usado na água, foi flagrado trafegando como se fosse uma motocicleta.",
+        "O registro provocou comentários nas redes sociais e também levantou dúvidas sobre a regularidade da adaptação para uso em vias públicas. A reportagem não afirma se o veículo tinha autorização para circular dessa forma.",
+        "O Departamento Municipal de Transportes e Trânsito (DMTT) de Maceió informou que alterações nas características originais dos veículos precisam de autorização prévia da autoridade competente.",
+        "Segundo o órgão, o artigo 98 do Código de Trânsito Brasileiro determina que nenhuma alteração nas características originais de fábrica pode ser feita sem autorização. A regra alcança mudanças na cor, na suspensão, no motor, no combustível e na estrutura.",
+        "Além da autorização, a modificação precisa ser regularizada e registrada no Certificado de Registro e Licenciamento de Veículo (CRLV). O procedimento é o que permite documentar a alteração para circulação regular.",
+        "O DMTT também explicou que conduzir veículo com característica ou cor alterada sem regularização é infração grave, conforme o artigo 230, inciso VII, do CTB. A penalidade prevê multa de R$ 195,23, cinco pontos na Carteira Nacional de Habilitação e retenção do veículo até a regularização.",
+        "No caso do jet ski filmado em Maceió, o órgão não informou se havia autorização para a alteração e para a circulação em via pública."
+      ]
+    },
+    "en": {
+      "title": "Adapted jet ski draws attention on Maceió streets",
+      "summary": "The vehicle was filmed on roads in the Alagoas capital, and the transit authority explained the rules for alterations and registration.",
+      "aiSummary": [
+        "An adapted jet ski was filmed traveling on Maceió streets.",
+        "The DMTT said vehicle alterations require authorization, legalization and registration on the CRLV.",
+        "Using an altered vehicle without registration can lead to a fine, license points and vehicle retention."
+      ],
+      "paragraphs": [
+        "An adapted jet ski drew attention on the streets of Maceió, in Alagoas. The vehicle, normally used on water, was filmed traveling as if it were a motorcycle.",
+        "The footage prompted comments on social media and raised questions about whether the adaptation was legal for use on public roads. The report does not say whether the vehicle had authorization to operate that way.",
+        "Maceió's Municipal Department of Transport and Traffic (DMTT) said that changes to a vehicle's original characteristics require prior authorization from the competent authority.",
+        "According to the department, Article 98 of Brazil's Traffic Code says that factory characteristics cannot be changed without authorization. The rule covers changes to color, suspension, engine, fuel system and structure.",
+        "In addition to authorization, the modification must be legalized and recorded on the Vehicle Registration and Licensing Certificate (CRLV). That process documents the change for lawful road use.",
+        "The DMTT also explained that driving a vehicle with an altered characteristic or color without proper registration is a serious infraction under Article 230, item VII, of the Traffic Code. The penalty includes a R$195.23 fine, five points on the driver's license and vehicle retention until the situation is regularized.",
+        "For the jet ski filmed in Maceió, the department did not say whether the alteration or the vehicle's use on a public road had been authorized."
+      ]
+    }
+  },
+  "verification": {
+    "score": 7.4,
+    "checkedAt": "2026-09-22T13:03:31Z",
+    "checks": [
+      {
+        "provider": "Rádio Itatiaia",
+        "url": "https://www.itatiaia.com.br/brasil/nordeste/al/jet-ski-adaptado-para-circular-no-asfalto-chama-atencao-em-maceio-veja-o-video/",
+        "finding": "supports",
+        "note": "The complete selected-source extraction reports the adapted jet ski filmed in Maceió, the DMTT explanation, CTB Articles 98 and 230 VII, the stated fine and points, and the unresolved authorization status."
+      },
+      {
+        "provider": "Planalto - Código de Trânsito Brasileiro",
+        "url": "https://www.planalto.gov.br/ccivil_03/leis/l9503compilado.htm",
+        "finding": "supports",
+        "note": "The official consolidated CTB text supports the article's legal framework requiring authorization for changes to vehicle characteristics and addressing altered characteristics under Article 230."
+      },
+      {
+        "provider": "Aos Fatos",
+        "url": "https://www.aosfatos.org/",
+        "finding": "no-match",
+        "note": "No direct fact-check verdict for the Maceió jet-ski report surfaced; no-match is neutral and not evidence of accuracy."
+      },
+      {
+        "provider": "Agência Lupa",
+        "url": "https://www.agencialupa.org/",
+        "finding": "no-match",
+        "note": "No direct Lupa verdict for the Maceió jet-ski report surfaced; no-match is neutral and does not establish the vehicle's legal status."
+      },
+      {
+        "provider": "Projeto Comprova",
+        "url": "https://projetocomprova.com.br/",
+        "finding": "no-match",
+        "note": "No direct Comprova verdict for the Maceió jet-ski report surfaced; no-match is neutral and not proof of accuracy."
+      },
+      {
+        "provider": "TSE Fato ou Boato",
+        "url": "https://www.tse.jus.br/comunicacao/noticias/fato-ou-boato",
+        "finding": "no-match",
+        "note": "No direct civic-process fact-check is relevant to this transport-regulation report; no-match is neutral."
+      },
+      {
+        "provider": "AFP Fact Check",
+        "url": "https://factcheck.afp.com/",
+        "finding": "no-match",
+        "note": "No direct AFP verdict for the Maceió jet-ski report surfaced; no-match is neutral and not evidence of accuracy."
+      },
+      {
+        "provider": "Reuters Fact Check",
+        "url": "https://www.reuters.com/fact-check/",
+        "finding": "no-match",
+        "note": "No direct Reuters verdict for the Maceió jet-ski report surfaced; no-match is neutral and not proof of truth."
+      },
+      {
+        "provider": "Full Fact",
+        "url": "https://fullfact.org/",
+        "finding": "no-match",
+        "note": "No direct Full Fact verdict for the Maceió jet-ski report surfaced; no-match is neutral and not evidence of accuracy."
+      },
+      {
+        "provider": "Google Fact Check Explorer",
+        "url": "https://toolbox.google.com/factcheck/explorer",
+        "finding": "inconclusive",
+        "note": "The public explorer interface did not yield a directly confirmable ClaimReview record for the report; the result is inconclusive, not a verdict."
+      }
+    ],
+    "caveat": "The event report and the applicable CTB framework are supported, but the specific vehicle's authorization and registration were not established; this score is an evidence estimate, not a guarantee."
+  }
+}

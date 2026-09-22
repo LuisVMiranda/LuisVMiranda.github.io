@@ -1,0 +1,107 @@
+{
+  "id": "mundo-2026-09-22-coreia-denuclearizacao-gradual",
+  "slug": "mundo-2026-09-22-coreia-denuclearizacao-gradual",
+  "section": "mundo",
+  "secondarySections": [],
+  "publishedAt": "2026-09-22T00:30:25Z",
+  "publishedDate": "2026-09-22",
+  "updatedAt": "2026-09-22T13:17:34.573Z",
+  "sources": [
+    {
+      "name": "Associated Press",
+      "url": "https://apnews.com/article/koreas-lee-trump-kim-un-nuclear-2c12c8b88ca37e9dab861af584efa574"
+    }
+  ],
+  "rights": {
+    "mode": "original-report"
+  },
+  "translations": {
+    "pt-BR": {
+      "title": "Lee defende desnuclearização gradual da Coreia do Norte",
+      "summary": "Em entrevista à Associated Press, o presidente sul-coreano Lee Jae Myung propôs interromper, reduzir e só depois desmontar o arsenal norte-coreano, com incentivos em cada etapa.",
+      "aiSummary": [
+        "Lee quer primeiro interromper o avanço nuclear e missilístico da Coreia do Norte, antes de reduzir e desmontar o arsenal.",
+        "O presidente sul-coreano pretende levar a proposta à Assembleia Geral da ONU e diz que Seul e Washington estão abertos ao diálogo.",
+        "A estratégia enfrenta a recusa de Pyongyang, que considera suas armas uma garantia de sobrevivência do regime."
+      ],
+      "paragraphs": [
+        "O presidente sul-coreano Lee Jae Myung disse à Associated Press que defende uma estratégia em etapas para lidar com o programa nuclear da Coreia do Norte. A proposta começa por interromper o avanço das capacidades nucleares e missilísticas, passa pela redução do arsenal e termina com o desmantelamento.",
+        "Lee pretende oferecer concessões políticas e econômicas a cada avanço. Ele levará a ideia aos encontros da Assembleia Geral da ONU e afirmou que Coreia do Sul e Estados Unidos continuam dispostos a reabrir o diálogo com Pyongyang.",
+        "O presidente considera irrealista esperar que o desarmamento completo aconteça de uma só vez, porque o arsenal continuaria crescendo durante as negociações. A reportagem registra estimativas que vão de 57 armas nucleares, mencionadas por Donald Trump, a mais de cem ogivas segundo alguns especialistas.",
+        "Lee também defendeu conversas para encerrar formalmente a Guerra da Coreia de 1950 a 1953 e explorar ali caminhos para limitar o programa norte-coreano. Críticos temem que Pyongyang aceite alívio de sanções sem abandonar completamente as armas; Lee respondeu que os negociadores precisariam mostrar que uma paz estável pode produzir segurança e prosperidade.",
+        "A retomada do diálogo está longe de ser garantida. Pyongyang rejeitou a redução de um exercício militar conjunto entre Estados Unidos e Coreia do Sul, mas Lee interpretou a decisão de Trump como sinal de ausência de intenção hostil e disse querer aprofundar a parceria bilateral, inclusive em construção naval e proteção de navios e rotas de petróleo no Golfo de Áden."
+      ]
+    },
+    "en": {
+      "title": "Lee advocates gradual denuclearization for North Korea",
+      "summary": "In an interview with The Associated Press, South Korean President Lee Jae Myung proposed halting, reducing and then dismantling North Korea’s arsenal, with incentives at each stage.",
+      "aiSummary": [
+        "Lee wants to first halt North Korea’s nuclear and missile advances before reducing and dismantling its arsenal.",
+        "The South Korean president plans to advance the proposal at the U.N. General Assembly and says Seoul and Washington are open to dialogue.",
+        "The strategy faces Pyongyang’s refusal to discuss weapons it sees as a guarantee of regime survival."
+      ],
+      "paragraphs": [
+        "South Korean President Lee Jae Myung told The Associated Press that he supports a phased strategy for dealing with North Korea’s nuclear program. The proposal would first halt nuclear and missile advances, then roll back the arsenal and ultimately move toward dismantlement.",
+        "Lee would offer political and economic concessions for each step forward. He plans to advance the idea during the U.N. General Assembly meetings and said South Korea and the United States remain willing to reopen dialogue with Pyongyang.",
+        "The president considers it unrealistic to wait for complete disarmament in one step because the arsenal would continue to grow during negotiations. The report cites estimates ranging from 57 nuclear weapons, a figure Donald Trump mentioned, to more than 100 warheads according to some experts.",
+        "Lee also urged talks to formally end the 1950-53 Korean War and explore ways to curb the North’s program. Critics worry Pyongyang could accept sanctions relief without fully giving up its weapons; Lee said negotiators would need to show that stable peace can lead to security and prosperity.",
+        "A resumption of dialogue is far from certain. Pyongyang rejected the scaling back of a joint U.S.-South Korean military exercise, but Lee interpreted Trump’s move as a signal of no hostile intent and said he wants to deepen the bilateral partnership, including shipbuilding and the protection of vessels and oil routes in the Gulf of Aden."
+      ]
+    }
+  },
+  "verification": {
+    "score": 8.6,
+    "checkedAt": "2026-09-22T12:25:05Z",
+    "checks": [
+      {
+        "provider": "Associated Press",
+        "url": "https://apnews.com/article/koreas-lee-trump-kim-un-nuclear-2c12c8b88ca37e9dab861af584efa574",
+        "finding": "supports",
+        "note": "Complete source extraction directly supports the central claim: Lee proposed stopping, reducing and ultimately dismantling North Korea's nuclear and missile capabilities, with political and economic incentives at each stage."
+      },
+      {
+        "provider": "Washington Post",
+        "url": "https://www.washingtonpost.com/world/2026/09/21/koreas-lee-trump-kim-un-nuclear/e597e5e0-b61c-11f1-94cb-d3d8f22a8c8b_story.html",
+        "finding": "supports",
+        "note": "Independent coverage corroborates that Lee was advocating a phased approach to North Korean denuclearization during the UN-week diplomacy."
+      },
+      {
+        "provider": "Aos Fatos",
+        "url": "https://www.aosfatos.org/",
+        "finding": "no-match",
+        "note": "No directly matching Portuguese fact-check was found for Lee's policy proposal; no-match is neutral and not evidence of policy success."
+      },
+      {
+        "provider": "Agência Lupa",
+        "url": "https://www.agencialupa.org/",
+        "finding": "no-match",
+        "note": "No directly matching Lupa fact-check was found for the interview or the phased-denuclearization proposal; no-match is neutral."
+      },
+      {
+        "provider": "AFP Fact Check",
+        "url": "https://factcheck.afp.com/",
+        "finding": "no-match",
+        "note": "No directly matching AFP fact-check for Lee's phased-denuclearization proposal was confirmed; no-match is neutral."
+      },
+      {
+        "provider": "Reuters Fact Check",
+        "url": "https://www.reuters.com/fact-check/",
+        "finding": "no-match",
+        "note": "No directly matching Reuters Fact Check result was confirmed for the phased-denuclearization proposal or its attributed estimates; no-match is neutral."
+      },
+      {
+        "provider": "Full Fact",
+        "url": "https://fullfact.org/",
+        "finding": "no-match",
+        "note": "No directly matching Full Fact adjudication was found for Lee's proposal; no-match does not establish that negotiations will succeed."
+      },
+      {
+        "provider": "Google Fact Check Explorer",
+        "url": "https://toolbox.google.com/factcheck/explorer",
+        "finding": "no-match",
+        "note": "No exact ClaimReview record for the interview's central policy claim was confirmed; no-match is neutral."
+      }
+    ],
+    "caveat": "The proposal is an attributed political position, not an achieved agreement. The 57-warhead and more-than-100-warhead figures are explicitly presented as differing estimates, and the article says a return to dialogue is uncertain."
+  }
+}

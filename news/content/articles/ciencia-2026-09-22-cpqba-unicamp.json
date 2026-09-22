@@ -1,0 +1,113 @@
+{
+  "id": "ciencia-2026-09-22-cpqba-unicamp",
+  "slug": "ciencia-2026-09-22-cpqba-unicamp",
+  "section": "ciencia",
+  "secondarySections": [],
+  "publishedAt": "2026-09-21T18:26:07+00:00",
+  "publishedDate": "2026-09-21",
+  "updatedAt": "2026-09-22T13:17:34.573Z",
+  "sources": [
+    {
+      "name": "Portal Unicamp",
+      "url": "https://www.unicamp.br/noticias/2026/09/21/parque-cientifico-e-tecnologico-abre-edital-para-uso-de-campo-agricola-do-cpqba/"
+    }
+  ],
+  "rights": {
+    "mode": "original-report"
+  },
+  "translations": {
+    "pt-BR": {
+      "title": "Unicamp abre 7,7 hectares para projetos experimentais de agricultura",
+      "summary": "O Parque Científico e Tecnológico integra o CPQBA e oferece área de campo e laboratório para pesquisa, inovação e agricultura sustentável.",
+      "aiSummary": [
+        "A Unicamp disponibilizou 7,7 hectares para projetos de pesquisa agrícola.",
+        "O CPQBA oferece experiência em agricultura, biotecnologia e química aplicada.",
+        "Propostas podem ser enviadas continuamente e avaliadas em até 60 dias."
+      ],
+      "paragraphs": [
+        "O Parque Científico e Tecnológico da Unicamp passou a oferecer 7,7 hectares de campo experimental agrícola e áreas de laboratório para empresas, startups, instituições públicas e organizações interessadas em pesquisa e inovação.",
+        "A iniciativa resulta de uma parceria com o Centro Pluridisciplinar de Pesquisas Químicas, Biológicas e Agrícolas, o CPQBA. As propostas serão avaliadas por viabilidade técnica e econômica, potencial de inovação, capacidade financeira e alinhamento com a sustentabilidade ambiental.",
+        "O edital funciona em fluxo contínuo, sem uma data única de inscrição, e a comissão pode levar até 60 dias para responder. A permanência depende do projeto, com contrato inicial prorrogável por até 60 meses e limite total de 120 meses.",
+        "O CPQBA trabalha com agricultura, biotecnologia e química aplicada. A estrutura permite combinar experimentos de campo com salas administrativas ou laboratórios, além de irrigação e calçamento para apoiar testes em condições reais.",
+        "O edital proíbe defensivos agrícolas sintéticos nos projetos realizados na área. A exigência conecta a pesquisa aplicada da universidade às demandas por práticas agrícolas sustentáveis e amplia a atuação do parque para além da tecnologia industrial e digital."
+      ]
+    },
+    "en": {
+      "title": "Unicamp opens 7.7 hectares for experimental agriculture projects",
+      "summary": "The university’s Science and Technology Park is integrating CPQBA facilities for research, innovation and sustainable agriculture.",
+      "aiSummary": [
+        "Unicamp made 7.7 hectares available for agricultural research projects.",
+        "CPQBA works in agriculture, biotechnology and applied chemistry.",
+        "Proposals can be submitted continuously and reviewed within 60 days."
+      ],
+      "paragraphs": [
+        "The University of Campinas Science and Technology Park is offering 7.7 hectares of experimental farmland and laboratory areas to companies, startups, public institutions and organizations interested in research and innovation.",
+        "The initiative comes from a partnership with the university’s Center for Multidisciplinary Research in Chemistry, Biology and Agriculture, known as CPQBA. Proposals will be assessed for technical and economic feasibility, innovation potential, financial capacity and environmental sustainability.",
+        "The call is continuous rather than tied to one application deadline, and the committee may take up to 60 days to respond. The stay depends on each project, with an initial contract extendable for up to 60 months and a total limit of 120 months.",
+        "CPQBA works in agriculture, biotechnology and applied chemistry. The facility combines field experiments with administrative rooms or laboratory support, as well as irrigation and paving for tests under real conditions.",
+        "The call prohibits synthetic agricultural pesticides in projects conducted on the site. The requirement links university research with demand for sustainable farming and expands the park beyond its traditional industrial and digital technology focus."
+      ]
+    }
+  },
+  "verification": {
+    "score": 9.3,
+    "checkedAt": "2026-09-22T12:31:55Z",
+    "checks": [
+      {
+        "provider": "Portal Unicamp / Inova Unicamp",
+        "url": "https://www.unicamp.br/noticias/2026/09/21/parque-cientifico-e-tecnologico-abre-edital-para-uso-de-campo-agricola-do-cpqba/",
+        "finding": "supports",
+        "note": "The complete official university report directly confirms 7.7 hectares, the CPQBA partnership, continuous submission, review and contract limits, infrastructure and the ban on synthetic pesticides."
+      },
+      {
+        "provider": "Aos Fatos",
+        "url": "https://www.aosfatos.org/",
+        "finding": "no-match",
+        "note": "Site-restricted searches for Unicamp, CPQBA, 7.7 hectares and the agricultural call found no directly matching fact-check; no-match is neutral."
+      },
+      {
+        "provider": "Agência Lupa",
+        "url": "https://www.agencialupa.org/",
+        "finding": "no-match",
+        "note": "Searches for the CPQBA field, Unicamp call and synthetic-pesticide restriction found no directly matching fact-check; no-match is neutral."
+      },
+      {
+        "provider": "Projeto Comprova",
+        "url": "https://projetocomprova.com.br/",
+        "finding": "no-match",
+        "note": "Searches for the Unicamp agricultural research-space announcement found no directly matching fact-check; no-match is neutral."
+      },
+      {
+        "provider": "TSE Fato ou Boato",
+        "url": "https://www.tse.jus.br/comunicacao/noticias/fato-ou-boato",
+        "finding": "no-match",
+        "note": "This civic-process registry is not materially targeted to a university research-space announcement; no relevant matching fact-check was found, which is neutral."
+      },
+      {
+        "provider": "AFP Fact Check",
+        "url": "https://factcheck.afp.com/",
+        "finding": "no-match",
+        "note": "Site-restricted searches in English for the Unicamp CPQBA announcement and 7.7-hectare claim found no directly matching AFP fact-check; no-match is neutral."
+      },
+      {
+        "provider": "Reuters Fact Check",
+        "url": "https://www.reuters.com/fact-check/",
+        "finding": "no-match",
+        "note": "Searches for the Unicamp field, CPQBA partnership and agricultural call found no directly matching Reuters fact-check; no-match is neutral."
+      },
+      {
+        "provider": "Full Fact",
+        "url": "https://fullfact.org/",
+        "finding": "no-match",
+        "note": "Searches for the Unicamp 7.7-hectare research-space claim found no directly matching Full Fact check; no-match is neutral."
+      },
+      {
+        "provider": "Google Fact Check Tools",
+        "url": "https://toolbox.google.com/factcheck/explorer",
+        "finding": "inconclusive",
+        "note": "The public claims:search endpoint returned HTTP 403 without an API key, so indexed ClaimReview coverage could not be confirmed; this is not evidence for or against the article."
+      }
+    ],
+    "caveat": "The official university report verifies the announcement and stated call conditions, not later project selection, occupancy or research outcomes. The score is an editorial evidence estimate, not a calibrated probability."
+  }
+}

@@ -1,0 +1,101 @@
+{
+  "id": "mundo-2026-09-22-trump-mamdani-encontro",
+  "slug": "mundo-2026-09-22-trump-mamdani-encontro",
+  "section": "mundo",
+  "secondarySections": [],
+  "publishedAt": "2026-09-21T23:23:00Z",
+  "publishedDate": "2026-09-21",
+  "updatedAt": "2026-09-22T13:17:34.573Z",
+  "sources": [
+    {
+      "name": "Associated Press",
+      "url": "https://apnews.com/article/donald-trump-zohran-mamdani-new-york-40a2a3e36c47e5ddec61cba145292344"
+    }
+  ],
+  "rights": {
+    "mode": "original-report"
+  },
+  "translations": {
+    "pt-BR": {
+      "title": "Trump se reúne com prefeito de Nova York antes de discurso na ONU",
+      "summary": "Donald Trump encontrou Zohran Mamdani na Gracie Mansion antes de seu discurso na ONU, em uma reunião cordial que tratou de moradia e do custo de vida em Nova York.",
+      "aiSummary": [
+        "O encontro de uma hora ocorreu enquanto líderes mundiais chegavam a Nova York para a Assembleia Geral da ONU.",
+        "Trump e Mamdani disseram ter discutido um possível projeto habitacional no Queens e medidas para tornar a cidade mais acessível.",
+        "Os dois reconheceram diferenças políticas, mas mantiveram uma relação pública cordial."
+      ],
+      "paragraphs": [
+        "O presidente Donald Trump interrompeu a agenda em Nova York antes de seu discurso nas Nações Unidas para visitar a Gracie Mansion e conversar por cerca de uma hora com o prefeito Zohran Mamdani. A Associated Press relatou que Trump relembrou suas visitas anteriores à residência oficial dos prefeitos.",
+        "O encontro ocorreu enquanto dezenas de líderes estrangeiros chegavam à cidade para a Assembleia Geral da ONU. Apesar de Trump ser republicano e Mamdani um prefeito identificado com o socialismo democrático, os dois apareceram juntos e descreveram uma relação mais cordial do que suas diferenças políticas sugeririam.",
+        "Os dois disseram ter conversado sobre um possível projeto de moradia no distrito do Queens e sobre maneiras de tornar Nova York mais acessível para a classe trabalhadora. Trump afirmou que tinha reuniões importantes com chefes de Estado, mas descreveu a visita como uma volta a um lugar familiar.",
+        "O presidente e o prefeito já haviam se encontrado pelo menos duas vezes. A primeira conversa ocorreu no Salão Oval depois da eleição de Mamdani; meses depois, o prefeito foi a Washington com uma reprodução de primeira página que dizia que Trump e a cidade deveriam construir juntos.",
+        "As diferenças continuaram visíveis quando Mamdani foi questionado sobre restrições de Trump a veículos de imprensa e o presidente defendeu sua exigência de cobertura justa. Depois da saída de Trump, Mamdani disse que continuaria conversando com ele e com qualquer pessoa capaz de levar alívio aos moradores da cidade."
+      ]
+    },
+    "en": {
+      "title": "Trump meets New York mayor before U.N. speech",
+      "summary": "Donald Trump met Zohran Mamdani at Gracie Mansion before his U.N. speech in a cordial meeting that covered housing and the cost of living in New York.",
+      "aiSummary": [
+        "The hourlong meeting took place as world leaders arrived in New York for the U.N. General Assembly.",
+        "Trump and Mamdani said they discussed a possible Queens housing project and ways to make the city more affordable.",
+        "The two acknowledged political differences while maintaining a cordial public relationship."
+      ],
+      "paragraphs": [
+        "President Donald Trump interrupted his New York schedule before his United Nations speech to visit Gracie Mansion and speak with Mayor Zohran Mamdani for about an hour. The Associated Press reported that Trump reminisced about earlier visits to the official residence of the city’s mayors.",
+        "The meeting took place as scores of foreign leaders arrived for the U.N. General Assembly. Although Trump is a Republican and Mamdani is a mayor identified with democratic socialism, they appeared together and described a relationship that has been more cordial than their political differences might suggest.",
+        "The two said they discussed a potential housing project in Queens and ways to make New York more affordable for working-class residents. Trump said he had important meetings with heads of state but described the visit as a return to a familiar place.",
+        "The president and mayor had met at least twice before. Their first conversation came in the Oval Office after Mamdani’s election; months later, the mayor went to Washington with a mock front page saying Trump and the city should build together.",
+        "Their differences remained visible when Mamdani was asked about Trump’s restrictions on news outlets and the president defended his demand for fair coverage. After Trump left, Mamdani said he would continue talking with him and anyone able to deliver relief to New Yorkers."
+      ]
+    }
+  },
+  "verification": {
+    "score": 8.4,
+    "checkedAt": "2026-09-22T12:25:05Z",
+    "checks": [
+      {
+        "provider": "Associated Press",
+        "url": "https://apnews.com/article/donald-trump-zohran-mamdani-new-york-40a2a3e36c47e5ddec61cba145292344",
+        "finding": "supports",
+        "note": "Complete AP extraction directly reports the hourlong Gracie Mansion meeting, the Queens housing discussion, the prior meetings and the leaders' attributed descriptions of their political differences and cordial interaction."
+      },
+      {
+        "provider": "Agência Lupa",
+        "url": "https://www.agencialupa.org/jornalismo/2025/09/19/trump-nao-cancelou-o-visto-de-lula-para-a-assembleia-geral-da-onu/",
+        "finding": "context",
+        "note": "This Lupa result concerns a separate false visa-cancellation claim involving Trump and a UN visit; it does not verify or contradict the AP report of the Trump-Mamdani meeting."
+      },
+      {
+        "provider": "Aos Fatos",
+        "url": "https://www.aosfatos.org/",
+        "finding": "no-match",
+        "note": "No directly matching Portuguese fact-check of the September 21 meeting or the housing discussion was found; no-match is neutral."
+      },
+      {
+        "provider": "AFP Fact Check",
+        "url": "https://factcheck.afp.com/",
+        "finding": "no-match",
+        "note": "No directly matching AFP fact-check was found for the meeting itself; related image and political-rumor checks were not treated as a verdict on the event."
+      },
+      {
+        "provider": "Reuters Fact Check",
+        "url": "https://www.reuters.com/fact-check/",
+        "finding": "no-match",
+        "note": "No directly matching Reuters Fact Check result was confirmed for the Gracie Mansion meeting; no-match is neutral."
+      },
+      {
+        "provider": "Full Fact",
+        "url": "https://fullfact.org/",
+        "finding": "no-match",
+        "note": "No directly matching Full Fact adjudication was found for the meeting or the attributed housing discussion; no-match is neutral."
+      },
+      {
+        "provider": "Google Fact Check Explorer",
+        "url": "https://toolbox.google.com/factcheck/explorer",
+        "finding": "no-match",
+        "note": "No exact ClaimReview record for the central meeting claim was confirmed; no-match is neutral."
+      }
+    ],
+    "caveat": "The meeting and participants are directly reported by AP, while the housing discussion and cordiality are attributed to the participants and AP's account. No fact-check source independently adjudicated the event; related political-rumor checks were kept as context only."
+  }
+}

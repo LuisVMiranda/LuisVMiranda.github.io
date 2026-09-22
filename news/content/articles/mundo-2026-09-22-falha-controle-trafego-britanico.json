@@ -1,0 +1,107 @@
+{
+  "id": "mundo-2026-09-22-falha-controle-trafego-britanico",
+  "slug": "mundo-2026-09-22-falha-controle-trafego-britanico",
+  "section": "mundo",
+  "secondarySections": [],
+  "publishedAt": "2026-09-21T20:21:18.689Z",
+  "publishedDate": "2026-09-21",
+  "updatedAt": "2026-09-22T13:17:34.573Z",
+  "sources": [
+    {
+      "name": "BBC News",
+      "url": "https://www.bbc.com/news/articles/cqp80p78mxx5o"
+    }
+  ],
+  "rights": {
+    "mode": "original-report"
+  },
+  "translations": {
+    "pt-BR": {
+      "title": "Nova falha no controle aéreo britânico cancela mais de 150 voos",
+      "summary": "Uma falha de conectividade em um centro de controle aéreo do Reino Unido provocou cancelamentos e reacendeu críticas de companhias à resiliência do sistema.",
+      "aiSummary": [
+        "O problema em Prestwick afetou o tráfego da Escócia, da Irlanda do Norte e do norte da Inglaterra.",
+        "Mais de 150 voos foram cancelados, e a autoridade reguladora disse que a maioria dos passageiros provavelmente não teria direito a indenização.",
+        "Uma revisão independente sobre a resiliência do sistema deverá ser publicada em até seis meses."
+      ],
+      "paragraphs": [
+        "Uma segunda falha técnica em duas semanas provocou forte perturbação nos voos do Reino Unido, informou a BBC. O serviço de controle de tráfego aéreo Nats disse que uma falha de conectividade em Prestwick estava por trás do problema e que o episódio não tinha relação com um defeito de software ocorrido antes em Swanwick.",
+        "A interrupção afetou a Escócia, a Irlanda do Norte e o norte da Inglaterra. Mais de 150 voos foram cancelados, incluindo 140 partidas e 137 chegadas, segundo a empresa de análise de aviação Cirium; a EasyJet teve 48 cancelamentos de 670 partidas programadas, e a British Airways teve 13 de 513.",
+        "O Nats afirmou que o problema havia sido resolvido e que a operação retornara à capacidade total, embora ainda houvesse atrasos acumulados. A Autoridade de Aviação Civil do Reino Unido disse que os passageiros provavelmente não teriam direito a indenização porque a falha poderia ser considerada uma circunstância extraordinária nas regras de direitos do consumidor.",
+        "A unidade de Prestwick administra cerca de 42% do espaço aéreo do Reino Unido, enquanto Swanwick supervisiona o sul do país, incluindo as aproximações de Heathrow e Gatwick. Um incidente anterior em Swanwick afetou centenas de milhares de passageiros, e o Nats disse que um defeito de software havia produzido dados corrompidos em uma fração de milissegundo.",
+        "Companhias aéreas defenderam reformas e cobraram responsabilidade da direção do Nats, enquanto passageiros relataram cancelamentos, reacomodações e longas esperas. A Autoridade de Aviação Civil conduz uma revisão independente sobre a resiliência do sistema e informou que pretende publicar os resultados dentro de seis meses."
+      ]
+    },
+    "en": {
+      "title": "New British air-traffic failure cancels more than 150 flights",
+      "summary": "A connectivity failure at a British air-traffic control center caused cancellations and renewed airline criticism of the system’s resilience.",
+      "aiSummary": [
+        "The Prestwick problem affected traffic across Scotland, Northern Ireland and northern England.",
+        "More than 150 flights were canceled, and the regulator said most passengers were unlikely to receive compensation.",
+        "An independent review of system resilience is due to be published within six months."
+      ],
+      "paragraphs": [
+        "A second technical problem in two weeks caused major disruption to flights in the United Kingdom, the BBC reported. Air traffic service Nats said a connectivity failure at Prestwick was responsible and was unrelated to an earlier software defect at Swanwick.",
+        "The disruption affected Scotland, Northern Ireland and northern England. More than 150 flights were canceled, including 140 departures and 137 arrivals, according to aviation analytics company Cirium; EasyJet had 48 cancellations among 670 scheduled departures and British Airways had 13 among 513.",
+        "Nats said the problem had been resolved and that operations were back at full capacity, although delays remained. The U.K. Civil Aviation Authority said passengers were unlikely to be entitled to compensation because the failure could be considered an extraordinary circumstance under passenger-rights rules.",
+        "The Prestwick center handles about 42% of the United Kingdom’s airspace, while Swanwick manages the south, including approaches to Heathrow and Gatwick. An earlier Swanwick incident affected hundreds of thousands of passengers, and Nats said a software defect had produced corrupted data in a fraction of a millisecond.",
+        "Airlines called for reform and accountability at Nats, while passengers described cancellations, rebooking and long waits. The Civil Aviation Authority is conducting an independent review of system resilience and said it expects to publish the results within six months."
+      ]
+    }
+  },
+  "verification": {
+    "score": 9,
+    "checkedAt": "2026-09-22T12:25:05Z",
+    "checks": [
+      {
+        "provider": "BBC News",
+        "url": "https://www.bbc.com/news/articles/cqp80p78mxx5o",
+        "finding": "supports",
+        "note": "Complete BBC extraction directly reports the Prestwick connectivity failure, the more-than-150 cancellations, the CAA compensation caveat, the two control centres and the independent resilience review."
+      },
+      {
+        "provider": "UK Civil Aviation Authority",
+        "url": "https://www.caa.co.uk/newsroom/news/caa-statement-on-passenger-compensation-following-nats-disruption-on-21-september/",
+        "finding": "supports",
+        "note": "The official CAA statement corroborates the passenger-rights qualification that compensation was unlikely for disruption directly caused by the technical failure; the review timing remains reported by the BBC."
+      },
+      {
+        "provider": "Aos Fatos",
+        "url": "https://www.aosfatos.org/",
+        "finding": "no-match",
+        "note": "No directly matching Portuguese fact-check was found for the UK air-traffic incident; no-match is neutral."
+      },
+      {
+        "provider": "Agência Lupa",
+        "url": "https://www.agencialupa.org/",
+        "finding": "no-match",
+        "note": "No directly matching Lupa fact-check was found for the Prestwick outage or passenger-rights claims; no-match is neutral."
+      },
+      {
+        "provider": "AFP Fact Check",
+        "url": "https://factcheck.afp.com/",
+        "finding": "no-match",
+        "note": "No relevant AFP fact-check result was found for the Nats outage; no-match is not evidence for or against the BBC report."
+      },
+      {
+        "provider": "Reuters Fact Check",
+        "url": "https://www.reuters.com/fact-check/",
+        "finding": "no-match",
+        "note": "No directly matching Reuters Fact Check result was confirmed for the Prestwick incident or its cancellation totals; no-match is neutral."
+      },
+      {
+        "provider": "Full Fact",
+        "url": "https://fullfact.org/",
+        "finding": "no-match",
+        "note": "No directly matching Full Fact adjudication was found for the Nats incident; no-match does not invalidate the official CAA information."
+      },
+      {
+        "provider": "Google Fact Check Explorer",
+        "url": "https://toolbox.google.com/factcheck/explorer",
+        "finding": "no-match",
+        "note": "No exact ClaimReview record for the outage was confirmed in the public explorer search; no-match is neutral."
+      }
+    ],
+    "caveat": "The BBC report and official CAA information agree on the incident, review and compensation qualification. Cancellation totals are time-stamped Cirium estimates, and the CAA review had not yet resolved the system-resilience questions at the cutoff."
+  }
+}

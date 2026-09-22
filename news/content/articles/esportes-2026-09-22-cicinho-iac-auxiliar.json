@@ -1,0 +1,77 @@
+{
+  "id": "esportes-2026-09-22-cicinho-iac-auxiliar",
+  "slug": "esportes-2026-09-22-cicinho-iac-auxiliar",
+  "section": "esportes",
+  "secondarySections": [],
+  "publishedAt": "2026-09-22T05:00:01.070-03:00",
+  "publishedDate": "2026-09-22",
+  "updatedAt": "2026-09-22T13:17:34.573Z",
+  "sources": [
+    {
+      "name": "ge.globo.com",
+      "url": "https://ge.globo.com/sp/mogi-das-cruzes-suzano/futebol/times/iac/noticia/2026/09/22/lembra-dele-ex-lateral-do-palmeiras-e-anunciado-como-auxiliar-tecnico-na-5a-divisao-de-sp.ghtml"
+    }
+  ],
+  "rights": {
+    "mode": "original-report"
+  },
+  "translations": {
+    "pt-BR": {
+      "title": "Ex-lateral do Palmeiras Cicinho é anunciado como auxiliar do IAC na 5ª divisão paulista",
+      "summary": "Aos 40 anos, Alex Sandro Mendonça inicia no Itaquaquecetuba sua primeira experiência à beira do gramado.",
+      "aiSummary": [
+        "Cicinho foi anunciado como auxiliar técnico do Itaquaquecetuba para a temporada 2027.",
+        "O ex-jogador defendeu o Palmeiras entre 2011 e 2012 e conquistou a Copa do Brasil.",
+        "O IAC disputa a Bezinha, equivalente à quinta divisão paulista, e busca avançar no projeto do clube."
+      ],
+      "paragraphs": [
+        "O Itaquaquecetuba, conhecido como IAC, anunciou o ex-lateral-direito Cicinho como auxiliar técnico da comissão comandada por Fabiano Carneiro. A função marca a primeira experiência dele à beira do gramado.",
+        "Aos 40 anos, Alex Sandro Mendonça ganhou o apelido em referência ao também lateral Cicinho, campeão pelo São Paulo. O ex-jogador foi revelado pelo Osvaldo Cruz e passou por Palmeiras, Santo André, Bahia, Sevilla e Oeste.",
+        "No Palmeiras, ele atuou entre 2011 e 2012 e conquistou a Copa do Brasil. A carreira como jogador terminou em 2019, pelo Oeste-SP, antes da transição para o trabalho na comissão técnica do IAC.",
+        "Cicinho já participa das atividades com as categorias de base e possui a Licença B de treinador da CBF. No novo clube, deverá colaborar com a formação de atletas e com a equipe profissional.",
+        "O IAC caiu nas semifinais da última Bezinha, competição equivalente à quinta divisão do Campeonato Paulista. O time profissional deve voltar a campo em abril, e o torneio oferece acesso à Série A4. Cicinho disse estar confiante no projeto de buscar bons resultados e subir de divisão."
+      ]
+    },
+    "en": {
+      "title": "Former Palmeiras full-back Cicinho joins IAC staff in São Paulo’s fifth tier",
+      "summary": "At 40, Alex Sandro Mendonça is beginning his first coaching-staff role at Itaquaquecetuba.",
+      "aiSummary": [
+        "Cicinho was announced as Itaquaquecetuba’s assistant coach for the 2027 season.",
+        "The former player represented Palmeiras from 2011 to 2012 and won the Brazilian Cup.",
+        "IAC compete in the Bezinha, equivalent to São Paulo’s fifth division, and are building a promotion project."
+      ],
+      "paragraphs": [
+        "Itaquaquecetuba, known as IAC, announced former right-back Cicinho as an assistant on the staff led by Fabiano Carneiro. The role is his first experience working from the touchline.",
+        "At 40, Alex Sandro Mendonça took the nickname in reference to the São Paulo full-back Cicinho. The former player came through Osvaldo Cruz and also represented Palmeiras, Santo André, Bahia, Sevilla and Oeste.",
+        "At Palmeiras, he played from 2011 to 2012 and won the Brazilian Cup. His playing career ended with Oeste in 2019, before he moved toward coaching work at IAC.",
+        "Cicinho is already taking part in youth-team activities and holds the Brazilian Football Confederation’s coaching Licence B. At the club, he is expected to assist player development and the professional side.",
+        "IAC reached the semifinals of the last Bezinha, the competition equivalent to São Paulo’s fifth division. The professional team is expected to return in April, and the tournament offers promotion to Série A4. Cicinho said he was confident in the project’s chances of producing results and moving up."
+      ]
+    }
+  },
+  "verification": {
+    "score": 8.1,
+    "checkedAt": "2026-09-22T12:28:11Z",
+    "checks": [
+      {
+        "provider": "ge.globo.com",
+        "url": "https://ge.globo.com/sp/mogi-das-cruzes-suzano/futebol/times/iac/noticia/2026/09/22/lembra-dele-ex-lateral-do-palmeiras-e-anunciado-como-auxiliar-tecnico-na-5a-divisao-de-sp.ghtml",
+        "finding": "supports",
+        "note": "Complete local extraction was status 200 with complete=true. It reports IAC's announcement of Cicinho as assistant coach for 2027, his age, playing history, 2019 retirement, CBF Licence B statement, the Bezinha semifinal context, and the planned return in April."
+      },
+      {
+        "provider": "Palmeiras",
+        "url": "https://www.palmeiras.com.br/upload/jogos/jogo237_260611_123831.pdf",
+        "finding": "supports",
+        "note": "Palmeiras' official match record independently documents the named player Cicinho in the club's 2011-2012 period, supporting the article's identification of the former Palmeiras right-back; it does not verify the later IAC appointment."
+      },
+      {
+        "provider": "CBF Academy",
+        "url": "https://www.cbfacademy.com.br/cursos/licencas/licenca-b",
+        "finding": "context",
+        "note": "The official Licence B course page establishes the credential's coaching context, but no public individual certificate record was located for Alex Sandro Mendonca. The article's Licence B attribution therefore remains source-reported."
+      }
+    ],
+    "caveat": "The IAC appointment and the quoted project plans are supported by the complete local ge report; official context corroborates the player identity and Licence B framework, not the appointment itself."
+  }
+}

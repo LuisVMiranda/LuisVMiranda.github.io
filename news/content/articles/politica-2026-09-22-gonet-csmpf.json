@@ -1,0 +1,113 @@
+{
+  "id": "politica-2026-09-22-gonet-csmpf",
+  "slug": "politica-2026-09-22-gonet-csmpf",
+  "section": "politica",
+  "secondarySections": [],
+  "publishedAt": "2026-09-21T12:58:36-03:00",
+  "publishedDate": "2026-09-21",
+  "updatedAt": "2026-09-22T13:17:34.573Z",
+  "sources": [
+    {
+      "name": "CNN Brasil",
+      "url": "https://www.cnnbrasil.com.br/politica/mencoes-a-gonet-no-celular-de-vorcaro-incomodam-membros-do-conselho-do-mp/"
+    }
+  ],
+  "rights": {
+    "mode": "original-report"
+  },
+  "translations": {
+    "pt-BR": {
+      "title": "Conselho do MPF marca sessão sobre menções a Paulo Gonet em mensagens de Vorcaro",
+      "summary": "O Conselho Superior do MPF deverá analisar em 25 de setembro um procedimento interno, ainda sem rito definido, envolvendo o procurador-geral da República.",
+      "aiSummary": [
+        "O CSMPF marcou para 25 de setembro a análise do procedimento sobre Paulo Gonet.",
+        "A sessão terá o subprocurador Francisco de Assis Sanseverino como relator.",
+        "Ainda não está definido se o colegiado discutirá afastamento, impedimento ou imparcialidade."
+      ],
+      "paragraphs": [
+        "O Conselho Superior do Ministério Público Federal marcou para 25 de setembro a análise de um procedimento interno sobre menções ao procurador-geral da República, Paulo Gonet, em mensagens extraídas do celular de Daniel Vorcaro, ex-dono do Banco Master.",
+        "A sessão extraordinária está prevista para começar às 10 horas. Segundo a CNN, o Conselho Superior é o órgão máximo de deliberação do MPF, reúne dez subprocuradores e é presidido pelo próprio Gonet; Nicolau Dino ocupa a vice-presidência.",
+        "O subprocurador Francisco de Assis Sanseverino é o relator. Os demais integrantes deverão avaliar se existem elementos que apontem indícios de crimes supostamente praticados por Gonet; se a conclusão for afirmativa, outro subprocurador poderá atuar perante o Supremo, e, caso contrário, o procedimento será arquivado.",
+        "O analista de política Teo Cury relatou que integrantes do Conselho demonstraram surpresa, incômodo e desconforto com as mensagens. Ele também disse que ainda não está claro se a sessão discutirá afastamento, suspeição, impedimento ou imparcialidade.",
+        "Cury afirmou que três pessoas próximas a Gonet demonstraram confiança no processo e minimizaram as mensagens e ligações. A reportagem registra essas posições como avaliações atribuídas a interlocutores, sem tratar as menções investigadas como prova de crime ou como decisão já tomada pelo Conselho."
+      ]
+    },
+    "en": {
+      "title": "Brazil’s MPF council schedules session on references to Paulo Gonet in Vorcaro messages",
+      "summary": "The MPF Superior Council is expected to examine an internal procedure on September 25, with its procedure still not fully defined.",
+      "aiSummary": [
+        "The MPF Superior Council scheduled a September 25 review involving Paulo Gonet.",
+        "Deputy Prosecutor Francisco de Assis Sanseverino is the rapporteur.",
+        "It is still unclear whether the panel will discuss removal, recusal or impartiality."
+      ],
+      "paragraphs": [
+        "Brazil’s Federal Prosecution Service Superior Council scheduled a September 25 review of an internal procedure concerning references to Prosecutor General Paulo Gonet in messages extracted from Daniel Vorcaro’s cellphone, the former owner of Banco Master.",
+        "The extraordinary session is scheduled to begin at 10 a.m. According to CNN, the council is the MPF’s highest deliberative body, has ten deputy prosecutors and is chaired by Gonet himself; Nicolau Dino is the vice president.",
+        "Deputy Prosecutor Francisco de Assis Sanseverino is the rapporteur. The other members are expected to assess whether there are indications of alleged crimes by Gonet; if they find such elements, another prosecutor could act before the Supreme Court, while the alternative would be dismissal of the procedure.",
+        "Political analyst Teo Cury said council members expressed surprise, concern and discomfort about the messages. He also said it was still unclear whether the session would address removal, recusal, disqualification or impartiality.",
+        "Cury said three people close to Gonet expressed confidence in the process and minimized the messages and calls. The report presents those positions as attributed assessments and does not treat the references under review as proof of a crime or as a decision already made by the council."
+      ]
+    }
+  },
+  "verification": {
+    "score": 8,
+    "checkedAt": "2026-09-22T12:31:03Z",
+    "checks": [
+      {
+        "provider": "CNN Brasil",
+        "url": "https://www.cnnbrasil.com.br/politica/mencoes-a-gonet-no-celular-de-vorcaro-incomodam-membros-do-conselho-do-mp/",
+        "finding": "supports",
+        "note": "Complete HTTP-200 extraction with complete:true supports the scheduled Sept. 25 CSMPF session, its composition and rapporteur, the possible procedural outcomes and the uncertainty about removal, recusal or impartiality. It does not present the messages as proof of crime."
+      },
+      {
+        "provider": "Aos Fatos",
+        "url": "https://www.aosfatos.org/",
+        "finding": "no-match",
+        "note": "Searches surfaced related reporting about the Vorcaro/Gonet messages but no directly retrievable fact-check verdict for the scheduled CSMPF review; no-match is neutral."
+      },
+      {
+        "provider": "Agência Lupa",
+        "url": "https://www.agencialupa.org/",
+        "finding": "no-match",
+        "note": "Portuguese searches for Gonet, Vorcaro, CSMPF and the Sept. 25 session found no directly matching Lupa verdict; no-match is neutral."
+      },
+      {
+        "provider": "Projeto Comprova",
+        "url": "https://projetocomprova.com.br/",
+        "finding": "no-match",
+        "note": "No Comprova fact-check was found for the scheduled MPF procedure or the messages described in the report; no-match is neutral."
+      },
+      {
+        "provider": "TSE Fato ou Boato",
+        "url": "https://www.tse.jus.br/comunicacao/noticias/fato-ou-boato",
+        "finding": "no-match",
+        "note": "No electoral fact-check was relevant to this MPF procedural report; no-match is neutral."
+      },
+      {
+        "provider": "AFP Fact Check",
+        "url": "https://factcheck.afp.com/",
+        "finding": "no-match",
+        "note": "English and Portuguese searches found no AFP verdict for the CSMPF session or the Gonet/Vorcaro messages; no-match is neutral."
+      },
+      {
+        "provider": "Reuters Fact Check",
+        "url": "https://www.reuters.com/fact-check/",
+        "finding": "no-match",
+        "note": "No directly matching Reuters fact-check was found for the dated MPF procedure; no-match is neutral."
+      },
+      {
+        "provider": "Full Fact",
+        "url": "https://fullfact.org/",
+        "finding": "no-match",
+        "note": "English searches found no Full Fact verdict addressing Gonet, Vorcaro or the CSMPF session; no-match is neutral."
+      },
+      {
+        "provider": "Google Fact Check Tools",
+        "url": "https://toolbox.google.com/factcheck/explorer",
+        "finding": "inconclusive",
+        "note": "No exact indexed ClaimReview record was confirmed, and the public claims-search API returned HTTP 403 in this run; this is not evidence for or against the article."
+      }
+    ],
+    "caveat": "The complete CNN report supports the scheduled institutional procedure and preserves uncertainty about its scope and outcome. No independent full extraction of the Sept. 25 proceeding was found, so the messages, possible procedural paths and attributed reactions must remain provisional."
+  }
+}

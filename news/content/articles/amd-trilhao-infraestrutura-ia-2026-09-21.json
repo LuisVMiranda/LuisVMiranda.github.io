@@ -1,0 +1,130 @@
+{
+  "id": "amd-trilhao-infraestrutura-ia-2026-09-21",
+  "slug": "amd-trilhao-infraestrutura-ia-2026-09-21",
+  "section": "tecnologia",
+  "secondarySections": [],
+  "publishedAt": "2026-09-21T21:01:00.000-03:00",
+  "updatedAt": "2026-09-22T13:17:34.573Z",
+  "sources": [
+    {
+      "name": "Canaltech",
+      "url": "https://canaltech.com.br/mercado/amd-entra-para-clube-do-us-1-trilhao-e-deixa-rival-intel-para-tras-como-isso-aconteceu/"
+    }
+  ],
+  "rights": {
+    "mode": "original-report"
+  },
+  "translations": {
+    "pt-BR": {
+      "title": "AMD supera US$ 1 trilhão com a corrida por infraestrutura de IA",
+      "summary": "A AMD ultrapassou US$ 1 trilhão em valor de mercado, impulsionada pela demanda por GPUs, processadores e sistemas para data centers de inteligência artificial.",
+      "aiSummary": [
+        "A AMD atingiu cerca de US$ 1,004 trilhão em valor de mercado durante a sessão de 21 de setembro.",
+        "A divisão de data centers respondeu por US$ 6,7 bilhões da receita do segundo trimestre, alta anual de 107%.",
+        "O marco aproxima a AMD da elite dos chips, mas não a coloca no mesmo patamar de valor da NVIDIA."
+      ],
+      "paragraphs": [
+        "A AMD ultrapassou pela primeira vez a marca de US$ 1 trilhão em valor de mercado durante a sessão de 21 de setembro. A alta foi associada ao otimismo dos investidores com a procura por chips de inteligência artificial e pela capacidade de processamento dos data centers; no fim da tarde, a companhia era avaliada em cerca de US$ 1,004 trilhão.",
+        "O marco colocou a AMD ao lado de NVIDIA, Broadcom e Micron no grupo de fabricantes americanos de chips que já passaram desse patamar. A comparação com a Intel ganhou destaque porque a rival continuava abaixo de US$ 1 trilhão, apesar de também ter avançado no mesmo pregão. Em 2014, a AMD valia cerca de US$ 2 bilhões.",
+        "A principal mudança veio da infraestrutura para IA. A AMD ampliou a linha de GPUs Instinct, voltadas ao treinamento e à execução de modelos, e passou a vender sistemas que combinam GPUs, processadores EPYC, rede e outros componentes. A empresa também aumentou sua presença em servidores, um mercado historicamente dominado pela Intel.",
+        "Os resultados financeiros ajudam a explicar a valorização. A receita do segundo trimestre de 2026 chegou a US$ 11,5 bilhões, alta de 50% em um ano, enquanto a divisão de data centers faturou US$ 6,7 bilhões, crescimento anual de 107%. Essa divisão respondeu por 58% da receita trimestral, segundo os números citados na reportagem.",
+        "As ações acumulavam alta aproximada de 185% em 2026, contra cerca de 16% do Nasdaq no mesmo período, e a empresa quase quadruplicou seu valor em um ano. Ainda assim, o salto não significa que a AMD tenha ultrapassado a NVIDIA: a reportagem registra que a líder dos aceleradores de IA permanecia avaliada em mais de US$ 5 trilhões."
+      ]
+    },
+    "en": {
+      "title": "AMD tops $1 trillion as the AI infrastructure race accelerates",
+      "summary": "AMD surpassed $1 trillion in market value, driven by demand for GPUs, processors, and systems for artificial-intelligence data centers.",
+      "aiSummary": [
+        "AMD reached roughly $1.004 trillion in market value during the September 21 session.",
+        "Its data-center division generated $6.7 billion in second-quarter revenue, up 107 percent year over year.",
+        "The milestone moves AMD into the chip industry’s top tier but not to NVIDIA’s valuation level."
+      ],
+      "paragraphs": [
+        "AMD surpassed $1 trillion in market value for the first time during the September 21 session. The rise was linked to investor optimism about demand for artificial-intelligence chips and data-center computing capacity; late in the afternoon, the company was valued at about $1.004 trillion.",
+        "The milestone put AMD alongside NVIDIA, Broadcom, and Micron in the group of American chipmakers that have crossed that level. The comparison with Intel drew attention because the rival remained below $1 trillion despite also rising during the session. In 2014, AMD was worth about $2 billion.",
+        "The central change came from AI infrastructure. AMD expanded its Instinct GPU line for training and running models and began offering systems that combine GPUs, EPYC processors, networking, and other components. The company has also gained ground in servers, a market historically dominated by Intel.",
+        "Financial results help explain the valuation rise. Second-quarter 2026 revenue reached $11.5 billion, up 50 percent from a year earlier, while the data-center division generated $6.7 billion, a 107 percent annual increase. That division represented 58 percent of quarterly revenue, according to figures cited in the report.",
+        "The shares were up about 185 percent in 2026, compared with roughly 16 percent for the Nasdaq over the same period, and the company nearly quadrupled its value in a year. Even so, the move did not mean AMD had overtaken NVIDIA: the report says the AI-accelerator leader remained valued above $5 trillion."
+      ]
+    }
+  },
+  "verification": {
+    "score": 9.1,
+    "checkedAt": "2026-09-22T13:01:26Z",
+    "checks": [
+      {
+        "provider": "Canaltech",
+        "url": "https://canaltech.com.br/mercado/amd-entra-para-clube-do-us-1-trilhao-e-deixa-rival-intel-para-tras-como-isso-aconteceu/",
+        "finding": "supports",
+        "note": "Complete local extraction was status 200 with complete:true and supports the market-cap milestone, AI-infrastructure explanation, quarterly revenue, data-center figures and qualification that AMD remained below NVIDIA."
+      },
+      {
+        "provider": "AMD Newsroom",
+        "url": "https://newsroom.amd.com/news/amd-2q-2026-earnings/",
+        "finding": "supports",
+        "note": "AMD's official Q2 release corroborates data-center revenue of $6.7 billion and 107% year-over-year growth, driven by EPYC processors and Instinct GPUs."
+      },
+      {
+        "provider": "AMD Investor Relations",
+        "url": "https://ir.amd.com/financial-information/sec-filings/content/0000002488-26-000121/q22026991.htm",
+        "finding": "supports",
+        "note": "AMD's filing corroborates total quarterly revenue of $11.5 billion, 50% year-over-year growth and the data-center segment's 58% share of revenue."
+      },
+      {
+        "provider": "Semafor",
+        "url": "https://www.semafor.com/article/09/21/2026/amd-reaches-a-1-trillion-market-cap-as-chip-stocks-drive-rally",
+        "finding": "supports",
+        "note": "Independent reporting corroborates AMD reaching the $1 trillion market-cap milestone during the September 21 session."
+      },
+      {
+        "provider": "Aos Fatos",
+        "url": "https://www.aosfatos.org/",
+        "finding": "no-match",
+        "note": "No directly matching fact-check result was found in this run; no-match is neutral and not evidence of accuracy."
+      },
+      {
+        "provider": "Agência Lupa",
+        "url": "https://www.agencialupa.org/",
+        "finding": "no-match",
+        "note": "No directly matching fact-check result was found in this run; no-match is neutral and not evidence of accuracy."
+      },
+      {
+        "provider": "Projeto Comprova",
+        "url": "https://projetocomprova.com.br/",
+        "finding": "no-match",
+        "note": "No directly matching fact-check result was found in this run; no-match is neutral and not evidence of accuracy."
+      },
+      {
+        "provider": "TSE Fato ou Boato",
+        "url": "https://www.tse.jus.br/comunicacao/noticias/fato-ou-boato",
+        "finding": "no-match",
+        "note": "No directly matching fact-check result was found in this run; no-match is neutral and not evidence of accuracy."
+      },
+      {
+        "provider": "AFP Fact Check",
+        "url": "https://factcheck.afp.com/",
+        "finding": "no-match",
+        "note": "No directly matching fact-check result was found in this run; no-match is neutral and not evidence of accuracy."
+      },
+      {
+        "provider": "Reuters Fact Check",
+        "url": "https://www.reuters.com/fact-check/",
+        "finding": "no-match",
+        "note": "No directly matching fact-check result was found in this run; no-match is neutral and not evidence of accuracy."
+      },
+      {
+        "provider": "Full Fact",
+        "url": "https://fullfact.org/",
+        "finding": "no-match",
+        "note": "No directly matching fact-check result was found in this run; no-match is neutral and not evidence of accuracy."
+      },
+      {
+        "provider": "Google Fact Check Tools",
+        "url": "https://toolbox.google.com/factcheck/explorer",
+        "finding": "inconclusive",
+        "note": "No exact ClaimReview record was verified in the public Explorer search; absence of a confirmed record is not evidence for or against the article."
+      }
+    ],
+    "caveat": "AMD's operating figures are corroborated by official filings and the market-cap milestone by independent reporting. Valuation, share-price comparisons and rankings are time-specific market snapshots, not durable company valuations or investment advice."
+  }
+}

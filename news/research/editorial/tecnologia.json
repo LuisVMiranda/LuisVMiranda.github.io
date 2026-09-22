@@ -1,102 +1,21 @@
 {
   "section": "tecnologia",
-  "cutoff": "2026-09-21T16:48:24.436Z",
-  "queries": [],
+  "cutoff": "2026-09-22T11:21:20.336Z",
+  "queries": [
+    "Tecnologia notícias Brasil",
+    "Technology latest news Brazil",
+    "tecnologia inteligência artificial cibersegurança notícias recentes",
+    "site:tecmundo.com.br tecnologia inteligência artificial",
+    "site:canaltech.com.br tecnologia IA",
+    "site:theverge.com technology AI latest news"
+  ],
   "verified": [
     {
-      "articleId": "bofa-agentes-ia-ciberseguranca",
-      "url": "https://www.bloomberglinea.com.br/mercados/avanco-de-agentes-de-ia-abre-nova-frente-de-crescimento-para-ciberseguranca-diz-bofa/",
-      "publishedAt": "2026-09-21T12:33:00.748Z",
-      "evidence": "A complete extraction from Bloomberg Línea, published at 2026-09-21T12:33:00.748Z, reports Bank of America’s view that AI agents widen the threat landscape, make identity controls more important, and support higher cybersecurity spending; it also records higher target prices for Okta, SailPoint, and CrowdStrike. Corroboration basis: no independent complete extraction covering the same BofA note was available in this run, so the copy attributes the assessment to the bank and does not present it as a forecast or guarantee. No independent corroboration was materially necessary because this is a low-risk attributed financial-analysis item, not a security incident or investment recommendation.",
-      "selectionReason": "Current, in-scope business technology analysis from a reputable financial-news outlet; selected for its direct relevance to AI-agent security and because the article clearly attributes the market view to Bank of America.",
-      "contentReview": {
-        "bodyComplete": true,
-        "aiSummaryReviewed": true
-      }
-    },
-    {
-      "articleId": "celular-calor-bateria",
-      "url": "https://canaltech.com.br/smartphone/deixar-o-celular-no-carro-pode-estragar-a-bateria-mesmo-sem-usar-o-aparelho/",
-      "publishedAt": "2026-09-21T06:30:00.000-03:00",
-      "evidence": "A complete Canaltech extraction, published at 2026-09-21T06:30:00-03:00, explains that hot parked cars can exceed smartphone storage limits, accelerate lithium-ion battery aging, trigger temporary thermal protections, and reduce useful capacity over time. Corroboration basis: this is a routine, low-risk service report with an expert cited in the complete extraction; no second URL was needed.",
-      "selectionReason": "Current, practical, low-risk service report with a named engineering expert and clear consumer guidance; it is directly in scope for technology and avoids speculation.",
-      "contentReview": {
-        "bodyComplete": true,
-        "aiSummaryReviewed": true
-      }
-    },
-    {
-      "articleId": "phishing-passkeys-contas-corporativas",
-      "url": "https://tek.sapo.pt/noticias/internet/artigos/novo-esquema-de-phishing-imita-as-passkeys-para-roubo-de-documentos-corporativos/",
-      "publishedAt": "2026-09-21T09:34:28+00:00",
-      "evidence": "A complete TEK Notícias extraction, published at 2026-09-21T09:34:28+00:00, reports Microsoft’s description of phishing campaigns that impersonate support, imitate Microsoft authentication, capture tokens, add MFA methods, enumerate cloud resources, and exfiltrate documents. Corroboration basis: no independent complete extraction of the same campaign was available in this run; the copy keeps the claims explicitly attributed to Microsoft. No independent corroboration was materially necessary for this company-advisory report because it gives defensive indicators, identifies Microsoft as the claimant, and does not assert an unrelated breach or unverified victim.",
-      "selectionReason": "Current and directly in-scope cybersecurity report from an established technology outlet; selected because it contains concrete defensive indicators and does not rely on unnamed allegations.",
-      "contentReview": {
-        "bodyComplete": true,
-        "aiSummaryReviewed": true
-      }
-    },
-    {
-      "articleId": "kojima-physint-xbox",
-      "url": "https://canaltech.com.br/games/kojima-revela-forma-absurda-como-a-sony-cancelou-physint-fiquei-chocado/",
-      "publishedAt": "2026-09-21T09:02:34.000-03:00",
-      "evidence": "A complete Canaltech extraction, published at 2026-09-21T09:02:34-03:00, reports Kojima’s account of Sony ending Physint funding, the studio’s move to seek Xbox support, its statement that the project continues, and the absence of disclosed reasons for the funding decision. Corroboration basis: this is a current culture-and-games report based on an attributed interview and studio statement; one complete reputable source is sufficient.",
-      "selectionReason": "Current, distinct games-industry development from a reputable technology outlet; selected as a routine culture/technology report with attributed statements and no unresolved allegation.",
-      "contentReview": {
-        "bodyComplete": true,
-        "aiSummaryReviewed": true
-      }
-    },
-    {
-      "articleId": "teste-openai-hacktron",
-      "url": "https://canaltech.com.br/inteligencia-artificial/openai-foi-invadida-por-hackers-que-usaram-rival-do-chatgpt/",
-      "publishedAt": "2026-09-21T10:06:00.000-03:00",
-      "evidence": "A complete Canaltech extraction, published at 2026-09-21T10:06:00-03:00, reports an authorized Hacktron AI exercise that used an OpenAI help-forum flaw, Anthropic models, OpenAI’s confirmation to AFP, a roughly 14-hour fix, and a 6,500-dollar bounty. Corroboration basis: the complete report preserves OpenAI’s confirmation to AFP, the authorization and attribution, and adds no allegation of criminal activity; no separate incident extraction was available in the run.",
-      "selectionReason": "Current, in-scope AI-security report with concrete remediation details and explicit attribution to an authorized test and OpenAI’s response; selected without using sensational wording from the source headline, and treated as an attributed authorized-exercise report rather than a criminal breach.",
-      "contentReview": {
-        "bodyComplete": true,
-        "aiSummaryReviewed": true
-      }
-    },
-    {
-      "articleId": "transferencia-esim-novo-celular",
-      "url": "https://canaltech.com.br/telecom/trocou-de-celular-saiba-o-que-acontece-com-seu-esim-e-como-levar-o-numero/",
-      "publishedAt": "2026-09-20T15:30:01.000-03:00",
-      "evidence": "A complete Canaltech extraction, published at 2026-09-20T15:30:01-03:00, explains that eSIM profiles are separate from backups, advises keeping the old phone until calls, messages, and data work on the new one, and compares carrier-specific transfer and reactivation paths. Corroboration basis: this is a routine, low-risk service guide inside the preceding 24-hour window; one complete reputable source is sufficient.",
-      "selectionReason": "Current consumer technology service report with concrete, low-risk migration guidance and carrier-specific context; selected as the one story just outside the freshest few hours but still inside the 24-hour window.",
-      "contentReview": {
-        "bodyComplete": true,
-        "aiSummaryReviewed": true
-      }
-    },
-    {
-      "articleId": "iphone-duo-apple-pencil",
-      "url": "https://canaltech.com.br/smartphone/iphone-duo-quase-veio-com-pencil-mas-apple-desistiu-por-problemas-tecnicos/",
-      "publishedAt": "2026-09-21T07:44:31.000-03:00",
-      "evidence": "A complete Canaltech extraction, published at 2026-09-21T07:44:31-03:00, attributes to Mark Gurman the report that Apple dropped a smaller magnetic Pencil after technical problems, plans USB-C Pencil support through software, and scheduled the phone for October 23 with October 16 preorders. Corroboration basis: this is a routine product-development and launch report; the copy keeps the Gurman attribution and the article’s distinction between planned and confirmed features.",
-      "selectionReason": "Current, distinct product-development story from a reputable technology outlet; selected for a concrete hardware and software change while retaining attribution for reported details.",
-      "contentReview": {
-        "bodyComplete": true,
-        "aiSummaryReviewed": true
-      }
-    },
-    {
-      "articleId": "openai-brasil-eleicoes-2026",
-      "url": "https://canaltech.com.br/inteligencia-artificial/openai-diz-que-brasil-e-laboratorio-do-mundo-e-o-grande-teste-de-ia-em-eleicoes/",
-      "publishedAt": "2026-09-21T13:01:00.000-03:00",
-      "evidence": "A complete Canaltech extraction, published at 2026-09-21T13:01:00-03:00, reports an OpenAI Latin America policy director’s characterization of Brazil’s 2026 election as a test, the company’s stated safeguards and TSE compliance channel, and the article’s description of TSE requirements for synthetic campaign content. Corroboration basis: no independent complete extraction of the same OpenAI briefing was available in this run; the copy labels company claims and does not treat them as independent validation. No independent corroboration was materially necessary because the item is an attributed company-policy report and separates those claims from the separately described TSE rules.",
-      "selectionReason": "Current, in-scope AI-and-elections report with direct relevance to Brazil; selected because it separates OpenAI’s stated plans from the regulatory rules described in the source.",
-      "contentReview": {
-        "bodyComplete": true,
-        "aiSummaryReviewed": true
-      }
-    },
-    {
-      "articleId": "xiaomi-18-pro-lancamento",
-      "url": "https://canaltech.com.br/smartphone/novo-celular-top-da-xiaomi-ja-tem-data-de-lancamento-veja-tudo-o-que-sabemos/",
-      "publishedAt": "2026-09-21T13:19:45.000-03:00",
-      "evidence": "A complete Canaltech extraction, published at 2026-09-21T13:19:45-03:00, reports Xiaomi’s official September 23 reveal date and campaign, expected battery differences, a possible 2-nanometer platform, Leica cameras, and the lack of confirmed pricing and overseas availability. Corroboration basis: this is a routine launch-schedule report; the copy explicitly distinguishes official campaign information from preliminary specifications, so no second URL was required.",
-      "selectionReason": "Current consumer-technology schedule report from a reputable outlet; selected for a confirmed event date and for transparent treatment of unconfirmed pre-launch specifications.",
+      "articleId": "custos-ia-modelos-mais-baratos-2026-09-22",
+      "url": "https://www.bloomberglinea.com.br/negocios/custos-de-ia-da-openai-e-da-anthropic-levam-startups-a-buscar-modelos-mais-baratos/",
+      "publishedAt": "2026-09-22T10:55:56.325Z",
+      "evidence": "Complete extraction research/runs/2026-09-22T11-21-20-336Z-6df281a2-9343-4cb7-a1b3-001b9e9a3dde/extractions/tecnologia/fcac6ee364e0.json was retrieved with status 200, complete=true, 54 paragraphs and no warnings. Published at 2026-09-22T10:55:56.325Z, it reports startups moving toward open-weight or in-house models as proprietary AI costs rise, including the attributed Harvey margin figures, model examples, token-use growth and the operational trade-offs. Corroboration basis: the extraction includes named executives, investors and company responses; no matching independent complete extraction was used, so the article keeps financial figures and market assessments explicitly attributed and does not turn them into forecasts.",
+      "selectionReason": "Most recent complete technology-business report in the run, with direct relevance to the economics of AI infrastructure and a detailed account of how startups are responding to model costs; selected ahead of less consequential product or niche items.",
       "contentReview": {
         "bodyComplete": true,
         "aiSummaryReviewed": true
@@ -106,8 +25,96 @@
       "articleId": "amazon-bloqueia-muse-meta",
       "url": "https://www.theverge.com/tech/998078/amazon-blocks-meta-muse-ai-agent-shopping",
       "publishedAt": "2026-09-21T09:21:47+00:00",
-      "evidence": "A complete The Verge extraction, published at 2026-09-21T09:21:47+00:00, reports that Amazon blocked Meta’s Muse shopping agent, cites the retailer’s terms-of-use and privacy/security concerns, records Meta’s stated limits on access to login and payment data, and links the move to Amazon’s broader response to rival shopping agents. Corroboration basis: the extraction attributes the underlying report to GeekWire and includes Amazon’s statement; no separate complete extraction for the same block was available in this run. No independent corroboration was materially necessary because the item reports an attributed platform-access decision and preserves both companies’ positions without asserting a security breach.",
-      "selectionReason": "Current, in-scope platform and AI-agent development from a reputable technology publication; selected because it is a distinct market event and the copy preserves the reported-source and company-response attribution.",
+      "evidence": "Complete extraction from The Verge, published at 2026-09-21T09:21:47+00:00, reports Amazon's block on Meta's Muse shopping agent, the retailer's terms-of-use and privacy/security concerns, Meta's stated limits on access to login and payment data, and the related dispute over competing shopping agents. The copy preserves both companies' positions and does not assert a security breach.",
+      "selectionReason": "Current, in-scope AI-agent platform development with a concrete access decision and attributed positions from both companies; selected as a distinct technology-business event after excluding an unresolved survey-number discrepancy.",
+      "contentReview": {
+        "bodyComplete": true,
+        "aiSummaryReviewed": true
+      }
+    },
+    {
+      "articleId": "gpt6-astra-codigo-secreto-2026-09-22",
+      "url": "https://canaltech.com.br/inteligencia-artificial/gpt-6-astra-decifra-codigo-secreto-da-1-guerra-apos-108-anos-entenda-o-feito/",
+      "publishedAt": "2026-09-22T08:01:01.000-03:00",
+      "evidence": "Complete extraction research/runs/2026-09-22T11-21-20-336Z-6df281a2-9343-4cb7-a1b3-001b9e9a3dde/extractions/tecnologia/1d1f8f1ce140.json was retrieved with status 200, complete=true, 18 paragraphs and no warnings. Published at 2026-09-22T08:01:01.000-03:00, it describes the reported GPT-6 Astra solution, the ADFGVX method, the keyword, the recovered naval message and the unresolved historical date discrepancy. Corroboration basis: the complete extraction itself preserves the link to British naval records and the uncertainty about when the keyword entered official use; the copy attributes the achievement to the report and retains that unresolved qualification.",
+      "selectionReason": "Fresh, distinct AI-capability story with a concrete historical-cryptography application and an explicit unresolved caveat; selected because it offers technology relevance without presenting the historical interpretation as settled beyond the source evidence.",
+      "contentReview": {
+        "bodyComplete": true,
+        "aiSummaryReviewed": true
+      }
+    },
+    {
+      "articleId": "nvidia-huang-apocalipse-ia-2026-09-21",
+      "url": "https://canaltech.com.br/inteligencia-artificial/nvidia-declara-guerra-ao-discurso-do-apocalipse-de-ia-0-de-chance/",
+      "publishedAt": "2026-09-21T15:04:00.000-03:00",
+      "evidence": "Complete extraction research/runs/2026-09-22T11-21-20-336Z-6df281a2-9343-4cb7-a1b3-001b9e9a3dde/extractions/tecnologia/87c7589d06fc.json was retrieved with status 200, complete=true, 19 paragraphs and no warnings. Published at 2026-09-21T15:04:00.000-03:00, it reports Jensen Huang's rejection of AI-extinction warnings in a CBS News interview, the contrasting risk warnings from Jacob Coxon and Dario Amodei, support from Sam Altman and Elon Musk for parts of the safety proposal, NVIDIA's preference for rapid development subject to safety, and the distinction between legitimate safety concerns and unsupported extinction predictions. Corroboration basis: the complete extraction attributes the statements to Huang, CBS News, named researchers and executives, and the report's framing; the article keeps the 0% forecast and regulation claims explicitly attributed rather than treating them as established facts, with no unresolved numeric discrepancy in the extracted account.",
+      "selectionReason": "Clear, current AI-safety report with a distinct industry debate and no unresolved number discrepancy; selected to replace the Meta glasses feature without repeating its wearable, privacy and market-share focus. The complete extraction supports five substantive paragraphs while the article preserves attribution for Huang's forecast and the opposing safety position.",
+      "contentReview": {
+        "bodyComplete": true,
+        "aiSummaryReviewed": true
+      }
+    },
+    {
+      "articleId": "california-regras-data-centers-ia-2026-09-21",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/998453/california-ai-data-center-bills",
+      "publishedAt": "2026-09-21T20:29:45+00:00",
+      "evidence": "Complete extraction research/runs/2026-09-22T11-21-20-336Z-6df281a2-9343-4cb7-a1b3-001b9e9a3dde/extractions/tecnologia/c4d22e79dcde.json was retrieved with status 200, complete=true, 10 paragraphs and no warnings. Published at 2026-09-21T20:29:45+00:00, it reports seven California laws, the proposed data-center rate classification, grid and water-system costs, disclosure requirements, streamlined-approval conditions and the governor's stated rationale. Corroboration basis: the extraction attributes the earlier account to the Los Angeles Times and includes the governor's press-release position; the draft stays within those reported requirements and does not add legal interpretation.",
+      "selectionReason": "Current technology-policy development with direct consequences for AI infrastructure, energy, water and local utility costs; selected for material public impact and a clear legislative action rather than a company claim.",
+      "contentReview": {
+        "bodyComplete": true,
+        "aiSummaryReviewed": true
+      }
+    },
+    {
+      "articleId": "lideres-seguranca-ia-onu-2026-09-21",
+      "url": "https://www.correiobraziliense.com.br/mundo/2026/09/7505407-lideres-defendem-medidas-de-seguranca-para-ia-antes-de-assembleia-da-onu.html",
+      "publishedAt": "2026-09-21T21:54:53+00:00",
+      "evidence": "Complete extraction research/runs/2026-09-22T11-21-20-336Z-6df281a2-9343-4cb7-a1b3-001b9e9a3dde/extractions/tecnologia/c862157c631e.json was retrieved with status 200, complete=true, 17 paragraphs and no warnings. Published at 2026-09-21T21:54:53+00:00, it reports the joint call by more than 20 countries for mandatory AI-safety measures, the cited Hugging Face episode, signatory and non-signatory countries, testing and human-control language. Corroboration basis: a second complete extraction, research/runs/2026-09-22T11-21-20-336Z-6df281a2-9343-4cb7-a1b3-001b9e9a3dde/extractions/tecnologia/2b69ef954ad9.json, independently repeats the central declaration, country lists, requested protocols and UN timing; the article uses both reports and retains the claims as statements by the signatories.",
+      "selectionReason": "High-impact international AI-governance development with two complete extractions from independent Brazilian domains; selected after direct corroboration of the central declaration and its signatory context.",
+      "contentReview": {
+        "bodyComplete": true,
+        "aiSummaryReviewed": true
+      }
+    },
+    {
+      "articleId": "amd-trilhao-infraestrutura-ia-2026-09-21",
+      "url": "https://canaltech.com.br/mercado/amd-entra-para-clube-do-us-1-trilhao-e-deixa-rival-intel-para-tras-como-isso-aconteceu/",
+      "publishedAt": "2026-09-21T21:01:00.000-03:00",
+      "evidence": "Complete extraction research/runs/2026-09-22T11-21-20-336Z-6df281a2-9343-4cb7-a1b3-001b9e9a3dde/extractions/tecnologia/cc5da328963d.json was retrieved with status 200, complete=true, 21 paragraphs and no warnings. Published at 2026-09-21T21:01:00.000-03:00, it records AMD's approximate US$1.004 trillion valuation, its comparison with Intel and other chipmakers, Instinct and EPYC infrastructure, quarterly revenue and data-center figures, and the share-price context. Corroboration basis: the complete report identifies CompaniesMarketCap, Reuters and MarketWatch as the data context; no matching independent complete extraction was used, so the draft treats the valuation and trading figures as a time-specific reported market snapshot and makes no investment recommendation.",
+      "selectionReason": "Current and consequential semiconductor milestone directly tied to AI infrastructure, with concrete market and operating figures; selected as a distinct technology-business event rather than a duplicate of broader AI-cost coverage.",
+      "contentReview": {
+        "bodyComplete": true,
+        "aiSummaryReviewed": true
+      }
+    },
+    {
+      "articleId": "ia-roi-gartner-2026-09-21",
+      "url": "https://www.suno.com.br/noticias/inteligencia-artificial-roi-projetos-gartner-mt/",
+      "publishedAt": "2026-09-21T19:11:00-03:00",
+      "evidence": "Complete extraction research/runs/2026-09-22T11-21-20-336Z-6df281a2-9343-4cb7-a1b3-001b9e9a3dde/extractions/tecnologia/0675f61369dd.json was retrieved with status 200, complete=true, 16 paragraphs and no warnings. Published at 2026-09-21T19:11:00-03:00, it reports Gartner's conference figures on positive ROI, executive value perception, risk growth, AI-use expansion, governance, workforce substitution and reinvestment. Corroboration basis: the extraction identifies the Gartner conference and attributes all forecasts and survey figures to the consultancy and its analyst; the article preserves those attributions and presents projections as projections.",
+      "selectionReason": "Current Brazil-based enterprise-technology report with quantified evidence about AI adoption, returns and governance; selected for practical relevance to organizations and for its distinct focus on implementation quality rather than model prices.",
+      "contentReview": {
+        "bodyComplete": true,
+        "aiSummaryReviewed": true
+      }
+    },
+    {
+      "articleId": "openai-hacktron-teste-seguranca-2026-09-21",
+      "url": "https://canaltech.com.br/inteligencia-artificial/openai-foi-invadida-por-hackers-que-usaram-rival-do-chatgpt/",
+      "publishedAt": "2026-09-21T10:06:00-03:00",
+      "evidence": "Complete extraction research/runs/2026-09-22T11-21-20-336Z-6df281a2-9343-4cb7-a1b3-001b9e9a3dde/extractions/tecnologia/600f5d196c03.json was retrieved with status 200, complete=true, 10 paragraphs and no warnings. Published at 2026-09-21T10:06:00-03:00, it reports an authorized Hacktron AI exercise, the Discourse forum flaw, the Anthropic models used, OpenAI's confirmation, the roughly 14-hour fix and the US$6,500 bounty. Corroboration basis: the complete report preserves the authorization, the disclosure to OpenAI and Discourse, and OpenAI's confirmation to AFP; no separate matching complete extraction was used, so the article does not characterize the exercise as an unqualified criminal breach.",
+      "selectionReason": "Current, concrete AI-security report with a defined authorized test, remediation timeline and responsible-disclosure context; selected because it distinguishes a controlled exercise from an unsupported hacking allegation.",
+      "contentReview": {
+        "bodyComplete": true,
+        "aiSummaryReviewed": true
+      }
+    },
+    {
+      "articleId": "anel-ia-reunioes-privacidade-2026-09-21",
+      "url": "https://canaltech.com.br/produtos/anel-com-ia-grava-ate-8-horas-de-reunioes-mas-levanta-alerta-de-privacidade/",
+      "publishedAt": "2026-09-21T16:14:45.000-03:00",
+      "evidence": "Complete extraction research/runs/2026-09-22T11-21-20-336Z-6df281a2-9343-4cb7-a1b3-001b9e9a3dde/extractions/tecnologia/27688c7150fa.json was retrieved with status 200, complete=true, 16 paragraphs and no warnings. Published at 2026-09-21T16:14:45.000-03:00, it reports the Vocci Ring's recording duration, transcription and AI integrations, hardware details, battery, pricing and privacy concerns, including the manufacturer's recommendation to notify participants. Corroboration basis: the complete product report attributes performance and price claims to the manufacturer and separates them from the consent concern; no second matching complete extraction was used, so the article keeps specifications as company claims and avoids legal conclusions.",
+      "selectionReason": "Distinct current consumer-technology report with concrete product capabilities and a material privacy question; selected to balance the desk beyond enterprise AI, markets and regulation.",
       "contentReview": {
         "bodyComplete": true,
         "aiSummaryReviewed": true
@@ -119,7 +126,7 @@
     "en": ""
   },
   "improvements": [],
-  "candidateRun": "research/runs/2026-09-21T16-48-24-436Z-221c0d1e-a836-45cb-b034-62c6ef37c843",
-  "retrievedAt": "2026-09-21T18:03:53.289Z",
+  "candidateRun": "research/runs/2026-09-22T11-21-20-336Z-6df281a2-9343-4cb7-a1b3-001b9e9a3dde",
+  "retrievedAt": "2026-09-22T11:21:33.743Z",
   "reviewStatus": "draft-source-verified-no-publication-approval"
 }

@@ -1,0 +1,77 @@
+{
+  "id": "esportes-2026-09-22-paratletas-ceara-parascesc",
+  "slug": "esportes-2026-09-22-paratletas-ceara-parascesc",
+  "section": "esportes",
+  "secondarySections": [],
+  "publishedAt": "2026-09-21T17:31:28.474-03:00",
+  "publishedDate": "2026-09-21",
+  "updatedAt": "2026-09-22T13:17:34.573Z",
+  "sources": [
+    {
+      "name": "ge.globo.com",
+      "url": "https://ge.globo.com/ce/noticia/2026/09/21/paratletas-cearenses-rompem-limites-e-inspiram-por-meio-do-esporte-conheca-historias.ghtml"
+    }
+  ],
+  "rights": {
+    "mode": "original-report"
+  },
+  "translations": {
+    "pt-BR": {
+      "title": "Paratletas do Ceará encontram no esporte caminhos para inclusão e novas conquistas",
+      "summary": "Reportagem reúne histórias de Andreza Lima, Carlinhos Rocha e Ivanilda Santos no futebol de cegos e na paraesgrima.",
+      "aiSummary": [
+        "Andreza Lima, Carlinhos Rocha e Ivanilda Santos participaram do ParaSesc, evento com 27 modalidades.",
+        "Andreza integra a seleção brasileira de futebol de cegos, enquanto Ivanilda compete na paraesgrima classe A.",
+        "O ParaSesc tem meta de superar 3 mil atletas participantes, segundo o presidente do Sistema Fecomércio Ceará."
+      ],
+      "paragraphs": [
+        "A reportagem apresenta as trajetórias de Andreza Lima, Carlinhos Rocha e Ivanilda Santos, paratletas cearenses que encontraram no esporte novas perspectivas de vida. As histórias passam pelo futebol de cegos e pela paraesgrima.",
+        "Os três participaram do ParaSesc, realizado em setembro pelo Sesc Ceará em parceria com a Adesul. Em sua quarta edição, o evento reúne praticantes de 27 modalidades e tem como proposta promover inclusão, convivência e transformação social por meio do esporte.",
+        "Andreza começou no futebol de cegos em 2019 e chegou à seleção brasileira. A modalidade usa uma bola com guizo, que orienta os atletas durante as jogadas; ela também conquistou o primeiro lugar no Campeonato Brasileiro pela região Nordeste e integrou a equipe brasileira que terminou em quarto no Mundial disputado na Índia no ano anterior.",
+        "Carlinhos Rocha começou a jogar ainda criança em General Sampaio, passou pelo judô e voltou ao futebol de cegos. Sua rotina inclui acordar às 5h, dividir o dia entre academia e treinos táticos e trabalhar com a bola às terças, quintas e sextas-feiras.",
+        "Ivanilda Santos compete na classe A da paraesgrima. Uma má formação medular foi identificada quando ela tinha 16 anos, e a cirurgia mudou sua vida para a cadeira de rodas; antes da esgrima, ela praticou paranatação e parabadminton. Segundo o presidente do Sistema Fecomércio Ceará, o ParaSesc tem a meta de superar 3 mil participantes."
+      ]
+    },
+    "en": {
+      "title": "Ceará para-athletes find inclusion and new goals through sport",
+      "summary": "The report follows Andreza Lima, Carlinhos Rocha and Ivanilda Santos in blind football and wheelchair fencing.",
+      "aiSummary": [
+        "Andreza Lima, Carlinhos Rocha and Ivanilda Santos took part in ParaSesc, an event with 27 sports.",
+        "Andreza is part of Brazil’s blind-football team, while Ivanilda competes in wheelchair fencing’s Class A.",
+        "ParaSesc aims to exceed 3,000 participants, according to the president of Ceará’s Fecomércio system."
+      ],
+      "paragraphs": [
+        "The report follows Ceará para-athletes Andreza Lima, Carlinhos Rocha and Ivanilda Santos, whose sporting paths have opened new perspectives in their lives. Their stories span blind football and wheelchair fencing.",
+        "All three took part in ParaSesc, held in September by Sesc Ceará in partnership with Adesul. The event’s fourth edition brings together athletes from 27 sports and aims to promote inclusion, community and social transformation through sport.",
+        "Andreza began blind football in 2019 and reached Brazil’s national team. The sport uses a ball with a bell to guide players during matches; she also won the Brazilian championship representing the Northeast and was part of Brazil’s team that finished fourth at the world championship in India the previous year.",
+        "Carlinhos Rocha started playing as a child in General Sampaio, tried judo and returned to blind football. His routine includes waking at 5 a.m., splitting the day between the gym and tactical sessions, and training with the ball on Tuesdays, Thursdays and Fridays.",
+        "Ivanilda Santos competes in Class A wheelchair fencing. A spinal malformation was diagnosed when she was 16, and surgery changed her life as she began using a wheelchair; before fencing, she practiced para-swimming and para-badminton. The president of Ceará’s Fecomércio system said ParaSesc aims to exceed 3,000 participants."
+      ]
+    }
+  },
+  "verification": {
+    "score": 8,
+    "checkedAt": "2026-09-22T12:28:11Z",
+    "checks": [
+      {
+        "provider": "ge.globo.com",
+        "url": "https://ge.globo.com/ce/noticia/2026/09/21/paratletas-cearenses-rompem-limites-e-inspiram-por-meio-do-esporte-conheca-historias.ghtml",
+        "finding": "supports",
+        "note": "Complete local extraction was status 200 with complete=true. It contains the named athletes, ParaSesc's September timing and 27 modalities, Andreza Lima's football-of-five history and results, Carlinhos Rocha's background, Ivanilda Santos's Class A account, and the stated target of more than 3,000 participants."
+      },
+      {
+        "provider": "CBDV",
+        "url": "https://www.cbdv.org.br/modalidades/futebol-de-cegos/selecao-brasileira/feminina",
+        "finding": "supports",
+        "note": "The Brazilian Paralympic sports federation's official women's blind-football context supports Andreza Lima's connection to Brazil's national team and the article's terminology for the modality."
+      },
+      {
+        "provider": "CBDV",
+        "url": "https://www.cbdv.org.br/selecao-brasileira-de-futebol-feminino-e-convocada-para-copa-do-mundo-da-india",
+        "finding": "supports",
+        "note": "CBDV's official report corroborates the India world-championship context and Brazil's fourth-place result cited in the feature."
+      }
+    ],
+    "caveat": "Independent federation material corroborates Andreza's national-team and India-tournament context. The ParaSesc participation count, individual biographies, Class A explanation, and 3,000-plus target remain primarily supported by the complete ge feature and its cited interviewees."
+  }
+}

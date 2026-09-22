@@ -1,0 +1,118 @@
+{
+  "id": "cultura-2026-09-22-salman-toor-courtauld",
+  "slug": "cultura-2026-09-22-salman-toor-courtauld",
+  "section": "cultura",
+  "secondarySections": [],
+  "publishedAt": "2026-09-21T04:00:34.000Z",
+  "updatedAt": "2026-09-22T13:17:34.573Z",
+  "sources": [
+    {
+      "name": "The Guardian",
+      "url": "https://www.theguardian.com/artanddesign/2026/sep/21/salman-toor-artist-interview-clubbing-queerness-new-york-muslim-moment"
+    }
+  ],
+  "rights": {
+    "mode": "original-report"
+  },
+  "translations": {
+    "pt-BR": {
+      "title": "Salman Toor leva personagens queer sul-asiáticos à Courtauld Gallery",
+      "summary": "A exposição Someone Like You reúne pinturas e desenhos do artista paquistanês-americano e abre em Londres em 2 de outubro.",
+      "aiSummary": [
+        "Toor pinta homens sul-asiáticos queer em cenas de desejo, imigração e pertencimento.",
+        "Someone Like You reúne obras selecionadas pelo artista com a curadora Elena Crippa.",
+        "A mostra ficará na Courtauld Gallery de 2 de outubro a 10 de janeiro."
+      ],
+      "paragraphs": [
+        "As pinturas de Salman Toor colocam homens sul-asiáticos queer no centro de cenas de bares, festas, quartos e deslocamentos urbanos. Para o artista paquistanês-americano, a escolha combate a tradição de demonização e apagamento e transforma essas figuras em protagonistas de histórias sobre desejo, imigração, poder e pertencimento.",
+        "Toor trabalha principalmente com pinturas figurativas a óleo que dialogam com antigos mestres europeus e miniaturas mogóis indianas. Exposições individuais em Nova York, Baltimore e Pequim ampliaram sua projeção, e a pintura Four Friends foi vendida por US$ 1,2 milhão na Sotheby’s em novembro de 2022. A revista Time também o incluiu entre as pessoas mais influentes da arte.",
+        "A Courtauld Gallery, em Londres, abrirá em 2 de outubro a exposição Someone Like You, com pinturas e desenhos escolhidos pelo próprio artista em conjunto com a curadora Elena Crippa. O período previsto vai até 10 de janeiro. O museu ocupa um lugar particular na trajetória de Toor, que visitou suas coleções em sua primeira viagem a Londres, vindo do Paquistão.",
+        "Nascido em Lahore, Toor estudou arte nos Estados Unidos e concluiu mestrado no Pratt Institute, em Nova York, em 2009. Nos trabalhos dos últimos anos, consolidou composições verdes e cenas inspiradas em experiências próprias e de amigos que atravessam cultura, sexualidade e vida imigrante em Nova York.",
+        "A mostra também reúne referências à história da arte e às experiências do artista em Londres. Uma das pinturas nasceu de uma cena observada diante de um restaurante em Whitechapel, enquanto outras retomam a vida noturna e os encontros culturais da cidade. O conjunto apresenta uma visão de comunidades sul-asiáticas e do espaço que elas ocupam na arte contemporânea."
+      ]
+    },
+    "en": {
+      "title": "Salman Toor brings queer South Asian figures to the Courtauld Gallery",
+      "summary": "The exhibition Someone Like You brings together paintings and drawings by the Pakistani American artist and opens in London on October 2.",
+      "aiSummary": [
+        "Toor paints queer South Asian men in scenes of desire, immigration and belonging.",
+        "Someone Like You gathers works selected by the artist with curator Elena Crippa.",
+        "The exhibition runs at the Courtauld Gallery from October 2 to January 10."
+      ],
+      "paragraphs": [
+        "Salman Toor’s paintings place queer South Asian men at the center of scenes in bars, parties, bedrooms and urban transit. For the Pakistani American artist, the choice counters a history of demonization and erasure and makes these figures protagonists in stories about desire, immigration, power and belonging.",
+        "Toor mainly works in figurative oils that engage with European old masters and Indian Mughal miniatures. Solo museum exhibitions in New York, Baltimore and Beijing expanded his profile, while his painting Four Friends sold for $1.2 million at Sotheby’s in November 2022. Time has also included him among the most influential people in art.",
+        "London’s Courtauld Gallery will open Someone Like You on October 2, bringing together paintings and drawings selected by Toor with curator Elena Crippa. The exhibition is scheduled to run until January 10. The gallery has a personal place in Toor’s story: he visited its collections on his first trip to London from Pakistan.",
+        "Born in Lahore, Toor studied art in the United States and completed a master’s degree at New York’s Pratt Institute in 2009. In recent work he has developed green compositions and scenes shaped by his own experiences and those of friends negotiating culture, sexuality and immigrant life in New York.",
+        "The exhibition also connects art history with Toor’s experiences in London. One painting grew from a scene he saw outside a restaurant in Whitechapel, while other works revisit the city’s nightlife and cultural encounters. Together, the works present South Asian communities and the space they occupy in contemporary art."
+      ]
+    }
+  },
+  "verification": {
+    "score": 9.1,
+    "checkedAt": "2026-09-22T12:28:07Z",
+    "checks": [
+      {
+        "provider": "The Guardian",
+        "url": "https://www.theguardian.com/artanddesign/2026/sep/21/salman-toor-artist-interview-clubbing-queerness-new-york-muslim-moment",
+        "finding": "supports",
+        "note": "Complete local extraction was HTTP 200 with complete:true and 22 body paragraphs. It supports Toor's identity, themes, biography, works, Courtauld exhibition, title, and October 2–January 10 schedule."
+      },
+      {
+        "provider": "The Courtauld Gallery",
+        "url": "https://courtauld.ac.uk/whats-on/exh-salman-toor-drawings/",
+        "finding": "supports",
+        "note": "The official museum context corroborates Someone Like You, the Courtauld venue, the exhibition dates, and Toor's selected paintings and drawings."
+      },
+      {
+        "provider": "Aos Fatos",
+        "url": "https://www.aosfatos.org/",
+        "finding": "no-match",
+        "note": "No matching fact-check page surfaced for the Courtauld exhibition, Toor's biography, or the article's art-history claims. This no-match is neutral and is not evidence of accuracy."
+      },
+      {
+        "provider": "Agência Lupa",
+        "url": "https://www.agencialupa.org/",
+        "finding": "no-match",
+        "note": "No matching fact-check addressing the article's exhibition, biography, or named-artwork claims was confirmed. The no-match is neutral."
+      },
+      {
+        "provider": "Projeto Comprova",
+        "url": "https://projetocomprova.com.br/",
+        "finding": "no-match",
+        "note": "No relevant Projeto Comprova fact-check for the Salman Toor or Courtauld claims was found. The result is neutral."
+      },
+      {
+        "provider": "TSE Fato ou Boato",
+        "url": "https://www.tse.jus.br/comunicacao/noticias/fato-ou-boato",
+        "finding": "no-match",
+        "note": "No civic or election-related fact-check is relevant to this visual-arts report; no matching item was found. The no-match is neutral."
+      },
+      {
+        "provider": "AFP Fact Check",
+        "url": "https://factcheck.afp.com/",
+        "finding": "no-match",
+        "note": "No matching AFP fact-check for the exhibition, artist, named works, or biography was confirmed. This no-match is neutral."
+      },
+      {
+        "provider": "Reuters Fact Check",
+        "url": "https://www.reuters.com/fact-check/",
+        "finding": "no-match",
+        "note": "No matching Reuters fact-check for the article's visual-arts claims was confirmed. This no-match is neutral."
+      },
+      {
+        "provider": "Full Fact",
+        "url": "https://fullfact.org/",
+        "finding": "no-match",
+        "note": "No relevant Full Fact item addressing the Toor profile or exhibition was found. The no-match is neutral."
+      },
+      {
+        "provider": "Google Fact Check Explorer",
+        "url": "https://toolbox.google.com/factcheck/explorer",
+        "finding": "inconclusive",
+        "note": "No exact indexed ClaimReview record was confirmed in the Explorer searches used for this claim; coverage is incomplete, so this is not evidence for or against the article."
+      }
+    ],
+    "caveat": "The exhibition schedule and artist profile are corroborated by complete Guardian evidence and official Courtauld context. Interpretive descriptions of the paintings and interview statements remain attributed to the artist and reporter."
+  }
+}

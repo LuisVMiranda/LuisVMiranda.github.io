@@ -1,0 +1,120 @@
+{
+  "id": "brasil-2026-09-22-pe-de-meia-sexta-parcela",
+  "slug": "brasil-2026-09-22-pe-de-meia-sexta-parcela",
+  "section": "brasil",
+  "secondarySections": [],
+  "publishedAt": "2026-09-21T19:38:00-03:00",
+  "updatedAt": "2026-09-22T13:17:34.573Z",
+  "sources": [
+    {
+      "name": "Agência Brasil",
+      "url": "https://agenciabrasil.ebc.com.br/educacao/noticia/2026-09/pe-de-meia-comeca-pagar-sexta-parcela-estudantes-nesta-segunda"
+    }
+  ],
+  "rights": {
+    "mode": "original-report"
+  },
+  "translations": {
+    "pt-BR": {
+      "title": "Pé-de-Meia começa a pagar sexta parcela a estudantes",
+      "summary": "Repasse de frequência será feito até 28 de setembro; valores são de R$ 200 no ensino regular e R$ 225 na EJA.",
+      "aiSummary": [
+        "A sexta parcela do incentivo à frequência começou a ser paga a estudantes do Pé-de-Meia.",
+        "O calendário vai até 28 de setembro; os valores são de R$ 200 no ensino regular e R$ 225 na EJA.",
+        "O programa exige, entre outros critérios, frequência mínima de 80%, matrícula pública e cadastro ativo no CadÚnico."
+      ],
+      "paragraphs": [
+        "Os beneficiários do Pé-de-Meia no ensino médio regular começaram a receber nesta segunda-feira (21) a sexta parcela do incentivo à frequência. O pagamento é destinado a quem teve ao menos 80% de presença nas aulas de julho.",
+        "Estudantes da educação de jovens e adultos também recebem neste período a parcela de aprovação referente ao segundo semestre do ciclo da EJA. O repasse será depositado até 28 de setembro, conforme o mês de nascimento.",
+        "A parcela do ensino médio regular é de R$ 200, enquanto o valor para a EJA é de R$ 225. O calendário começa pelos nascidos em janeiro e fevereiro e termina em 28 de setembro para quem nasceu em novembro e dezembro.",
+        "Também podem ser pagas parcelas de matrícula de 2026 e valores de frequência de meses anteriores quando as redes de ensino enviam ou corrigem informações. A participação ocorre automaticamente para estudantes que atendem aos requisitos do programa.",
+        "Entre as condições estão matrícula na rede pública, inscrição ativa no CadÚnico, CPF regular, idade de 14 a 24 anos no ensino regular ou de 19 a 24 anos na EJA e frequência mínima de 80%.",
+        "Quando a frequência fica abaixo do mínimo, a parcela correspondente pode ser retida. O programa prevê ainda depósitos anuais de R$ 1 mil pela conclusão de cada ano do ensino médio regular, com retirada após a formatura."
+      ]
+    },
+    "en": {
+      "title": "Brazil's Pé-de-Meia program begins paying sixth student installment",
+      "summary": "The attendance payment will be deposited through September 28; amounts are R$200 for regular high school and R$225 for EJA.",
+      "aiSummary": [
+        "Brazil's Pé-de-Meia program began paying the sixth attendance installment to eligible students.",
+        "The calendar runs through September 28, with payments of R$200 for regular high school and R$225 for EJA.",
+        "The program requires, among other conditions, at least 80% attendance, public-school enrollment and an active CadÚnico registration."
+      ],
+      "paragraphs": [
+        "Students in Brazil's regular high-school Pé-de-Meia program began receiving the sixth attendance incentive installment on Monday (21). The payment is for students who attended at least 80% of July classes.",
+        "Students in the education program for young people and adults are also receiving an approval installment for the second semester of their EJA cycle. Payments will be deposited through September 28 according to students' birth months.",
+        "The regular high-school installment is R$200, while the EJA amount is R$225. The calendar starts with students born in January and February and ends on September 28 for those born in November and December.",
+        "Enrollment installments for 2026 and attendance payments from earlier months may also be released when school systems submit or correct information. Participation is automatic for students who meet the program's requirements.",
+        "Those requirements include enrollment in public schools, an active CadÚnico registration, a regular taxpayer ID, ages 14 to 24 for regular high school or 19 to 24 for EJA, and at least 80% attendance.",
+        "When attendance falls below the minimum, the corresponding installment may be withheld. The program also provides annual R$1,000 deposits for completing each year of regular high school, withdrawable after graduation."
+      ]
+    }
+  },
+  "verification": {
+    "score": 8.8,
+    "checkedAt": "2026-09-22T13:03:31Z",
+    "checks": [
+      {
+        "provider": "Agência Brasil",
+        "url": "https://agenciabrasil.ebc.com.br/educacao/noticia/2026-09/pe-de-meia-comeca-pagar-sexta-parcela-estudantes-nesta-segunda",
+        "finding": "supports",
+        "note": "The complete selected-source extraction reports the sixth attendance installment, September 21-28 calendar, R$200/R$225 amounts, 80% attendance rule, eligibility requirements and treatment of withheld payments."
+      },
+      {
+        "provider": "Agência Gov / Rádioagência Nacional",
+        "url": "https://agenciabrasil.ebc.com.br/radioagencia-nacional/educacao/audio/2026-09/pagamento-de-sexta-parcela-do-pe-de-meia-comeca-nesta-segunda-feira",
+        "finding": "supports",
+        "note": "A separate official public-radio report corroborates the sixth installment, payment window, birth-month schedule and program conditions."
+      },
+      {
+        "provider": "Aos Fatos",
+        "url": "https://www.aosfatos.org/",
+        "finding": "no-match",
+        "note": "No direct fact-check verdict for the September 2026 installment announcement surfaced; no-match is neutral and not evidence of accuracy."
+      },
+      {
+        "provider": "Agência Lupa",
+        "url": "https://www.agencialupa.org/",
+        "finding": "no-match",
+        "note": "No direct Lupa verdict for the September 2026 installment announcement surfaced; no-match is neutral and does not validate the payment rules."
+      },
+      {
+        "provider": "Projeto Comprova",
+        "url": "https://projetocomprova.com.br/",
+        "finding": "no-match",
+        "note": "No direct Comprova verdict for the installment announcement surfaced; no-match is neutral and not proof of accuracy."
+      },
+      {
+        "provider": "TSE Fato ou Boato",
+        "url": "https://www.tse.jus.br/comunicacao/noticias/fato-ou-boato",
+        "finding": "no-match",
+        "note": "No direct civic-process fact-check is relevant to this education-service announcement; no-match is neutral."
+      },
+      {
+        "provider": "AFP Fact Check",
+        "url": "https://factcheck.afp.com/",
+        "finding": "no-match",
+        "note": "No direct AFP verdict for the September 2026 payment announcement surfaced; no-match is neutral and not evidence of accuracy."
+      },
+      {
+        "provider": "Reuters Fact Check",
+        "url": "https://www.reuters.com/fact-check/",
+        "finding": "no-match",
+        "note": "No direct Reuters verdict for the September 2026 payment announcement surfaced; no-match is neutral and not proof of accuracy."
+      },
+      {
+        "provider": "Full Fact",
+        "url": "https://fullfact.org/",
+        "finding": "no-match",
+        "note": "No direct Full Fact verdict for the payment announcement surfaced; no-match is neutral and not evidence of accuracy."
+      },
+      {
+        "provider": "Google Fact Check Explorer",
+        "url": "https://toolbox.google.com/factcheck/explorer",
+        "finding": "inconclusive",
+        "note": "The public explorer interface did not yield a directly confirmable ClaimReview record for this payment announcement; the result is inconclusive, not a verdict."
+      }
+    ],
+    "caveat": "Official reports corroborate the service information, but payment calendars and eligibility rules are date-specific and may be updated; this score is an evidence estimate, not a guarantee."
+  }
+}

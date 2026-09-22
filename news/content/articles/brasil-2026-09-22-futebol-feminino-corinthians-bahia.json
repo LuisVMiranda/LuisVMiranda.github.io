@@ -1,0 +1,120 @@
+{
+  "id": "brasil-2026-09-22-futebol-feminino-corinthians-bahia",
+  "slug": "brasil-2026-09-22-futebol-feminino-corinthians-bahia",
+  "section": "brasil",
+  "secondarySections": [],
+  "publishedAt": "2026-09-21T18:44:00-03:00",
+  "updatedAt": "2026-09-22T13:17:34.573Z",
+  "sources": [
+    {
+      "name": "Agência Brasil",
+      "url": "https://agenciabrasil.ebc.com.br/esportes/noticia/2026-09/futebol-feminino-tv-brasil-exibe-corinthians-e-bahia-pela-semifinal"
+    }
+  ],
+  "rights": {
+    "mode": "original-report"
+  },
+  "translations": {
+    "pt-BR": {
+      "title": "TV Brasil transmite semifinal do Brasileirão Feminino entre Corinthians e Bahia",
+      "summary": "Jogo de volta começa às 21h30, em São Paulo; Corinthians venceu a ida por 1 a 0 e joga pelo empate.",
+      "aiSummary": [
+        "Corinthians e Bahia disputam o jogo de volta da semifinal do Brasileirão Feminino Série A1.",
+        "O Corinthians venceu a ida por 1 a 0 e avança com empate; o Bahia precisa vencer para seguir na competição.",
+        "A TV Brasil exibe a partida e também prevê transmissões das Séries A2, A3 e categorias de base."
+      ],
+      "paragraphs": [
+        "A TV Brasil transmite nesta segunda-feira (21) o jogo de volta da semifinal do Campeonato Brasileiro Feminino Série A1 entre Corinthians e Bahia. A partida começa às 21h30, na Neo Química Arena, em São Paulo.",
+        "No primeiro confronto, disputado em 15 de setembro na Fonte Nova, em Salvador, o Corinthians venceu por 1 a 0. Com esse resultado, a equipe paulista avança com um empate no jogo de volta.",
+        "O Bahia precisa vencer por um gol de diferença para levar a decisão aos pênaltis. Uma vitória por dois ou mais gols classifica as Mulheres de Aço diretamente para a próxima fase.",
+        "A transmissão faz parte da estratégia da TV Brasil para ampliar a visibilidade do futebol feminino. Pelo terceiro ano seguido, o canal público exibe partidas da elite da modalidade.",
+        "A programação também prevê os confrontos decisivos das Séries A2 e A3 a partir das semifinais e as decisões dos campeonatos brasileiros femininos Sub-17 e Sub-20.",
+        "A Série A1 de 2026 reúne 18 equipes em turno único na primeira fase. Os oito melhores avançam, e as fases a partir das quartas de final são disputadas em confrontos de ida e volta."
+      ]
+    },
+    "en": {
+      "title": "TV Brasil to broadcast Corinthians-Bahia women's league semifinal",
+      "summary": "The second leg starts at 9:30 p.m. in São Paulo; Corinthians won the first leg 1-0 and needs only a draw.",
+      "aiSummary": [
+        "Corinthians and Bahia are playing the second leg of the Brazilian Women's Série A1 semifinal.",
+        "Corinthians won the first leg 1-0 and advances with a draw; Bahia needs a win to continue.",
+        "TV Brasil is showing the match and also plans broadcasts of Série A2, Série A3 and youth competitions."
+      ],
+      "paragraphs": [
+        "TV Brasil is broadcasting the second leg of the Brazilian Women's Série A1 semifinal between Corinthians and Bahia on Monday (21). The match starts at 9:30 p.m. at Neo Química Arena in São Paulo.",
+        "Corinthians won the first leg 1-0 on September 15 at Fonte Nova in Salvador. That result means the São Paulo team will advance with a draw in the return match.",
+        "Bahia must win by one goal to take the decision to a penalty shootout. A victory by two or more goals would send the Mulheres de Aço directly into the next round.",
+        "The broadcast is part of TV Brasil's strategy to increase the visibility of women's football. The public channel is showing top-flight women's matches for the third consecutive year.",
+        "The schedule also includes decisive Série A2 and A3 matches from the semifinals onward, as well as the Brazilian women's Under-17 and Under-20 finals.",
+        "The 2026 Série A1 has 18 teams in a single-round first phase. The top eight advance, and the quarterfinals onward are played over home-and-away ties."
+      ]
+    }
+  },
+  "verification": {
+    "score": 8.6,
+    "checkedAt": "2026-09-22T13:03:31Z",
+    "checks": [
+      {
+        "provider": "Agência Brasil",
+        "url": "https://agenciabrasil.ebc.com.br/esportes/noticia/2026-09/futebol-feminino-tv-brasil-exibe-corinthians-e-bahia-pela-semifinal",
+        "finding": "supports",
+        "note": "The complete selected-source extraction reports the return-leg broadcast, 21h30 kickoff, Corinthians's 1-0 first-leg win, advancement scenarios and the competition format."
+      },
+      {
+        "provider": "Folha de Londrina",
+        "url": "https://www.folhadelondrina.com.br/esportes/brasileirao-feminino-corinthians-e-bahia-decidem-vaga-na-final-3286125e.html",
+        "finding": "supports",
+        "note": "Independent sports reporting corroborates the semifinal pairing, first-leg 1-0 score, return-leg stakes and scheduled-match context."
+      },
+      {
+        "provider": "Aos Fatos",
+        "url": "https://www.aosfatos.org/",
+        "finding": "no-match",
+        "note": "No direct fact-check verdict for this sports-service report surfaced; no-match is neutral and not evidence of accuracy."
+      },
+      {
+        "provider": "Agência Lupa",
+        "url": "https://www.agencialupa.org/",
+        "finding": "no-match",
+        "note": "No direct Lupa verdict for this sports-service report surfaced; no-match is neutral and does not confirm the fixture."
+      },
+      {
+        "provider": "Projeto Comprova",
+        "url": "https://projetocomprova.com.br/",
+        "finding": "no-match",
+        "note": "No direct Comprova verdict for this sports-service report surfaced; no-match is neutral and not proof of accuracy."
+      },
+      {
+        "provider": "TSE Fato ou Boato",
+        "url": "https://www.tse.jus.br/comunicacao/noticias/fato-ou-boato",
+        "finding": "no-match",
+        "note": "No direct civic-process fact-check is relevant to this sports report; no-match is neutral."
+      },
+      {
+        "provider": "AFP Fact Check",
+        "url": "https://factcheck.afp.com/",
+        "finding": "no-match",
+        "note": "No direct AFP verdict for this sports-service report surfaced; no-match is neutral and not evidence of accuracy."
+      },
+      {
+        "provider": "Reuters Fact Check",
+        "url": "https://www.reuters.com/fact-check/",
+        "finding": "no-match",
+        "note": "No direct Reuters verdict for this sports-service report surfaced; no-match is neutral and not proof of accuracy."
+      },
+      {
+        "provider": "Full Fact",
+        "url": "https://fullfact.org/",
+        "finding": "no-match",
+        "note": "No direct Full Fact verdict for this sports-service report surfaced; no-match is neutral and not evidence of accuracy."
+      },
+      {
+        "provider": "Google Fact Check Explorer",
+        "url": "https://toolbox.google.com/factcheck/explorer",
+        "finding": "inconclusive",
+        "note": "The public explorer interface did not yield a directly confirmable ClaimReview record for this fixture; the result is inconclusive, not a verdict."
+      }
+    ],
+    "caveat": "The fixture, first-leg score and advancement scenarios are corroborated; this was a pre-match service report and does not assert the later result. The score is an evidence estimate, not a guarantee."
+  }
+}

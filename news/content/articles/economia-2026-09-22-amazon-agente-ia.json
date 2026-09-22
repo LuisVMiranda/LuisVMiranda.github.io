@@ -1,0 +1,118 @@
+{
+  "id": "economia-2026-09-22-amazon-agente-ia",
+  "slug": "economia-2026-09-22-amazon-agente-ia",
+  "section": "economia",
+  "secondarySections": [],
+  "publishedAt": "2026-09-21T14:02:48-03:00",
+  "updatedAt": "2026-09-22T13:17:34.573Z",
+  "sources": [
+    {
+      "name": "InvestNews",
+      "url": "https://investnews.com.br/negocios/amazon-bloqueia-agente-de-ia-da-meta-em-seu-site-de-varejo/"
+    }
+  ],
+  "rights": {
+    "mode": "original-report"
+  },
+  "translations": {
+    "pt-BR": {
+      "title": "Amazon bloqueia agente de compras com IA da Meta em seu site",
+      "summary": "Varejista diz que o Muse viola seus termos ao tentar fazer compras para usuários sem adesão da plataforma.",
+      "aiSummary": [
+        "A Amazon bloqueou o Muse, agente de IA da Meta, depois que a empresa não aceitou retirar o bot da experiência de compras.",
+        "O varejista proíbe ferramentas automatizadas de terceiros que façam compras em seu site.",
+        "A disputa pode influenciar as regras para agentes de IA no comércio eletrônico."
+      ],
+      "paragraphs": [
+        "A Amazon bloqueou o novo agente de inteligência artificial da Meta Platforms em seu site de varejo depois que a empresa de redes sociais se recusou a atender ao pedido para remover o bot. O caso envolve a definição de limites para agentes que navegam e compram em nome dos usuários.",
+        "O Muse, apresentado pela Meta no início de setembro, foi desenvolvido para ajudar em tarefas on-line, como fazer compras e marcar consultas. A Amazon proíbe que outras empresas usem ferramentas automatizadas para realizar compras em sua plataforma.",
+        "Segundo a reportagem, usuários que acessam a Amazon pelo Muse passaram a ver mensagens informando que a ferramenta viola os termos de uso da companhia. A porta-voz Lara Hendrickson disse que aplicativos de terceiros devem operar com transparência e respeitar a decisão dos prestadores de serviço sobre participar ou não.",
+        "A Meta não havia respondido imediatamente ao pedido de comentário citado pela reportagem. A Amazon desenvolve suas próprias ferramentas automatizadas de compras e, no ano anterior, processou a Perplexity AI sob a alegação de que a startup tentou ocultar agentes de compras depois de ser solicitada a removê-los.",
+        "A disputa judicial e comercial pode ajudar a definir regras para o uso de agentes de IA em compras on-line. O impacto imediato tende a ser limitado porque consumidores ainda usam esses bots principalmente para pesquisar produtos, mas uma adoção maior poderia deslocar vendas e receita publicitária entre plataformas."
+      ]
+    },
+    "en": {
+      "title": "Amazon blocks Meta’s AI shopping agent from its site",
+      "summary": "The retailer said Muse violates its terms by attempting to shop for users without the platform’s consent.",
+      "aiSummary": [
+        "Amazon blocked Meta’s Muse AI agent after Meta declined to remove the bot from the shopping experience.",
+        "The retailer bars third-party automated tools from making purchases on its site.",
+        "The dispute could influence rules for AI agents in online commerce."
+      ],
+      "paragraphs": [
+        "Amazon blocked Meta Platforms’ new artificial-intelligence agent from its retail site after the social-media company declined a request to remove the bot. The case concerns the limits for agents that browse and buy on behalf of users.",
+        "Meta introduced Muse at the beginning of September to help with online tasks such as shopping and scheduling appointments. Amazon prohibits other companies from using automated tools to make purchases on its platform.",
+        "According to the report, users who reached Amazon through Muse began seeing messages saying that the tool violated the company’s terms of use. Amazon spokeswoman Lara Hendrickson said third-party applications should operate transparently and respect service providers’ choice about whether to participate.",
+        "Meta had not immediately responded to the request for comment cited in the report. Amazon is developing its own automated shopping tools and last year sued Perplexity AI, alleging that the startup tried to conceal shopping agents after Amazon asked it to remove them.",
+        "The commercial and legal dispute could help define rules for AI agents in online shopping. Its immediate impact is likely limited because consumers still mainly use bots to research products, but wider adoption could shift sales and advertising revenue among platforms."
+      ]
+    }
+  },
+  "verification": {
+    "score": 9,
+    "checkedAt": "2026-09-22T12:27:59Z",
+    "checks": [
+      {
+        "provider": "InvestNews/Bloomberg",
+        "url": "https://investnews.com.br/negocios/amazon-bloqueia-agente-de-ia-da-meta-em-seu-site-de-varejo/",
+        "finding": "supports",
+        "note": "Complete HTTP-200 extraction supports the central claim that Amazon blocked Meta's Muse, cites Amazon's transparency/opt-in rationale, Meta's lack of an immediate response, the automated-shopping policy and the earlier Perplexity dispute."
+      },
+      {
+        "provider": "GeekWire",
+        "url": "https://www.geekwire.com/2026/amazon-blocks-metas-muse-ai-agent-shopping/",
+        "finding": "supports",
+        "note": "Independent report corroborates Amazon's blocking of Meta's Muse in a dispute over agentic shopping and preserves the company's stated terms-of-use rationale."
+      },
+      {
+        "provider": "Aos Fatos",
+        "url": "https://www.aosfatos.org/",
+        "finding": "no-match",
+        "note": "Exact-claim and meaningful-variant searches in Portuguese found no matching fact-check verdict; no-match is neutral and is not evidence that every corporate statement is true."
+      },
+      {
+        "provider": "Agência Lupa",
+        "url": "https://www.agencialupa.org/",
+        "finding": "no-match",
+        "note": "Exact-claim and meaningful-variant searches in Portuguese found no matching fact-check verdict; no-match is neutral and is not evidence that every corporate statement is true."
+      },
+      {
+        "provider": "Projeto Comprova",
+        "url": "https://projetocomprova.com.br/",
+        "finding": "no-match",
+        "note": "Exact-claim and meaningful-variant searches in Portuguese found no matching fact-check verdict; no-match is neutral and is not evidence that every corporate statement is true."
+      },
+      {
+        "provider": "TSE Fato ou Boato",
+        "url": "https://www.tse.jus.br/comunicacao/noticias/fato-ou-boato",
+        "finding": "no-match",
+        "note": "No election or civic-process fact-check was relevant to this corporate AI-shopping dispute; the result is neutral."
+      },
+      {
+        "provider": "AFP Fact Check",
+        "url": "https://factcheck.afp.com/",
+        "finding": "no-match",
+        "note": "English and Portuguese variant searches found no matching fact-check verdict for Amazon's block of Muse; no-match is neutral."
+      },
+      {
+        "provider": "Reuters Fact Check",
+        "url": "https://www.reuters.com/fact-check/",
+        "finding": "no-match",
+        "note": "English and Portuguese variant searches found no matching fact-check verdict for Amazon's block of Muse; no-match is neutral."
+      },
+      {
+        "provider": "Full Fact",
+        "url": "https://fullfact.org/",
+        "finding": "no-match",
+        "note": "English and Portuguese variant searches found no matching fact-check verdict for Amazon's block of Muse; no-match is neutral."
+      },
+      {
+        "provider": "Google Fact Check Tools",
+        "url": "https://toolbox.google.com/factcheck/explorer",
+        "finding": "inconclusive",
+        "note": "Web-indexed Explorer searches did not surface a matching ClaimReview record; API coverage was unavailable in this run, so this is not a no-match or truth finding."
+      }
+    ],
+    "caveat": "Two complete reports agree on the blocking event and Amazon's stated policy. Meta's non-response and future competitive effects remain attributed or analytical; no direct fact-check verdict was found."
+  }
+}

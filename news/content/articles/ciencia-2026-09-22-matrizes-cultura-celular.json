@@ -1,0 +1,113 @@
+{
+  "id": "ciencia-2026-09-22-matrizes-cultura-celular",
+  "slug": "ciencia-2026-09-22-matrizes-cultura-celular",
+  "section": "ciencia",
+  "secondarySections": [],
+  "publishedAt": "2026-09-22T08:36:00+00:00",
+  "publishedDate": "2026-09-22",
+  "updatedAt": "2026-09-22T13:17:34.573Z",
+  "sources": [
+    {
+      "name": "Yahoo Finance / GlobeNewswire",
+      "url": "https://finance.yahoo.com/healthcare/articles/cell-culture-matrices-market-set-083600015.html"
+    }
+  ],
+  "rights": {
+    "mode": "original-report"
+  },
+  "translations": {
+    "pt-BR": {
+      "title": "Modelos 3D impulsionam mercado de matrizes para cultura celular",
+      "summary": "Relatório da ResearchAndMarkets estima mercado global de US$ 1,21 bilhão em 2025 e US$ 2,23 bilhões em 2033.",
+      "aiSummary": [
+        "A ResearchAndMarkets estima o mercado em US$ 1,21 bilhão em 2025.",
+        "A projeção do relatório chega a US$ 2,23 bilhões em 2033, com CAGR de 8%.",
+        "Modelos 3D são aplicados em descoberta de fármacos, toxicologia e modelagem de doenças."
+      ],
+      "paragraphs": [
+        "Um relatório da ResearchAndMarkets divulgado pela GlobeNewswire descreve a expansão do mercado de matrizes para cultura celular, impulsionada pelo uso crescente de modelos tridimensionais em pesquisa biomédica.",
+        "O documento estima que o mercado global tenha valido US$ 1,21 bilhão em 2025 e projeta US$ 2,23 bilhões em 2033. A previsão corresponde a uma taxa composta de crescimento de 8% entre 2026 e 2033, números que permanecem estimativas do relatório.",
+        "Segundo o material, modelos 3D são usados em descoberta de medicamentos, testes de toxicidade, modelagem de doenças e pesquisa mecanística. A aplicação também avança em estudos de câncer, medicina regenerativa e engenharia de tecidos.",
+        "Empresas farmacêuticas e de biotecnologia incorporam matrizes avançadas a fluxos pré-clínicos para trabalhar com viabilidade, diferenciação, organização celular e reprodutibilidade. Institutos acadêmicos e organizações de pesquisa contratada também aparecem entre os usuários.",
+        "O relatório divide o mercado por tipos de produto, forma, aplicação, usuário final e região. Entre as categorias estão matrizes naturais, hidrogéis sintéticos e estruturas sólidas pré-formadas para pesquisa acadêmica, governamental, farmacêutica e biotecnológica."
+      ]
+    },
+    "en": {
+      "title": "3D models drive the cell-culture matrix market",
+      "summary": "A ResearchAndMarkets report estimates a global market of $1.21 billion in 2025 and $2.23 billion in 2033.",
+      "aiSummary": [
+        "ResearchAndMarkets estimates the market at $1.21 billion in 2025.",
+        "The report projects $2.23 billion in 2033, with an 8% CAGR.",
+        "3D models are used in drug discovery, toxicology and disease modeling."
+      ],
+      "paragraphs": [
+        "A ResearchAndMarkets report distributed by GlobeNewswire describes growth in the cell-culture matrix market, driven by wider use of three-dimensional models in biomedical research.",
+        "The document estimates that the global market was worth $1.21 billion in 2025 and projects $2.23 billion in 2033. That forecast implies an 8% compound annual growth rate from 2026 to 2033, and remains a report estimate.",
+        "The material says 3D models are used in drug discovery, toxicity testing, disease modeling and mechanistic research. Applications are also expanding in cancer research, regenerative medicine and tissue engineering.",
+        "Pharmaceutical and biotechnology companies are adding advanced matrices to preclinical workflows focused on cell viability, differentiation, organization and reproducibility. Academic institutes and contract research organizations are also listed among users.",
+        "The report segments the market by product type, form, application, end user and region. Categories include natural matrices, synthetic hydrogels and pre-formed solid scaffolds for academic, government, pharmaceutical and biotechnology research."
+      ]
+    }
+  },
+  "verification": {
+    "score": 7.4,
+    "checkedAt": "2026-09-22T12:31:55Z",
+    "checks": [
+      {
+        "provider": "GlobeNewswire / ResearchAndMarkets",
+        "url": "https://finance.yahoo.com/healthcare/articles/cell-culture-matrices-market-set-083600015.html",
+        "finding": "supports",
+        "note": "The complete release directly supports the attributed 2025 estimate, 2033 projection, 8.0% CAGR, 3D-cell-culture applications and market segmentation described in the article."
+      },
+      {
+        "provider": "Aos Fatos",
+        "url": "https://www.aosfatos.org/",
+        "finding": "no-match",
+        "note": "Site-restricted searches for the ResearchAndMarkets cell-culture-matrices forecast and the exact dollar figures found no directly matching fact-check; no-match is neutral."
+      },
+      {
+        "provider": "Agência Lupa",
+        "url": "https://www.agencialupa.org/",
+        "finding": "no-match",
+        "note": "Searches for the market forecast, 3D matrices and the exact 2025/2033 values found no directly matching fact-check; no-match is neutral."
+      },
+      {
+        "provider": "Projeto Comprova",
+        "url": "https://projetocomprova.com.br/",
+        "finding": "no-match",
+        "note": "Searches for the biomedical market forecast and exact figures found no directly matching fact-check; no-match is neutral."
+      },
+      {
+        "provider": "TSE Fato ou Boato",
+        "url": "https://www.tse.jus.br/comunicacao/noticias/fato-ou-boato",
+        "finding": "no-match",
+        "note": "This civic-process registry is not materially targeted to a biomedical market forecast; no relevant matching fact-check was found, which is neutral."
+      },
+      {
+        "provider": "AFP Fact Check",
+        "url": "https://factcheck.afp.com/",
+        "finding": "no-match",
+        "note": "Site-restricted searches in English for the cell-culture-matrices forecast and exact figures found no directly matching AFP fact-check; no-match is neutral."
+      },
+      {
+        "provider": "Reuters Fact Check",
+        "url": "https://www.reuters.com/fact-check/",
+        "finding": "no-match",
+        "note": "Searches for the ResearchAndMarkets release and the exact 2025/2033 market figures found no directly matching Reuters fact-check; no-match is neutral."
+      },
+      {
+        "provider": "Full Fact",
+        "url": "https://fullfact.org/",
+        "finding": "no-match",
+        "note": "Searches for the market forecast and 3D cell-culture matrix figures found no directly matching Full Fact check; no-match is neutral."
+      },
+      {
+        "provider": "Google Fact Check Tools",
+        "url": "https://toolbox.google.com/factcheck/explorer",
+        "finding": "inconclusive",
+        "note": "The public claims:search endpoint returned HTTP 403 without an API key, so indexed ClaimReview coverage could not be confirmed; this is not evidence for or against the article."
+      }
+    ],
+    "caveat": "The source verifies what ResearchAndMarkets' press release claims, not an independently audited market size. Forecasts and category definitions are inherently model-dependent; the article correctly attributes them and makes no efficacy or investment claim."
+  }
+}

@@ -1,113 +1,120 @@
 {
   "section": "esportes",
-  "cutoff": "2026-09-21T16:48:24.436Z",
-  "queries": [],
+  "cutoff": "2026-09-22T11:21:20.336Z",
+  "queries": [
+    "Esportes notícias Brasil",
+    "Sports latest news Brazil",
+    "esportes futebol competições resultados notícias recentes",
+    "site:ge.globo.com esportes futebol",
+    "site:espn.com sports latest news",
+    "site:olympics.com latest sports news"
+  ],
   "verified": [
     {
-      "articleId": "esportes-central-marllon-20260921",
-      "url": "https://ge.globo.com/pe/caruaru-regiao/futebol/times/central/noticia/2026/09/21/central-acerta-com-meia-ex-fortaleza-e-vitoria-para-disputa-do-campeonato-pernambucano.ghtml",
-      "publishedAt": "2026-09-21T09:42:11.737-03:00",
-      "evidence": "Complete extraction 357fb79c8f03.json, HTTP 200, complete:true, published 2026-09-21T09:42:11.737-03:00. The full ge report states that Central agreed with midfielder Marllon, who starts work this week; it records his prior clubs, his 25 appearances and four goals in 2026, and the October 17 start date for the Pernambuco competition. This is a dated routine roster report; no independent corroboration extraction was available in the current run, so no corroboration URL is asserted.",
-      "selectionReason": "Dated inside the preceding 24 hours, direct reporting from a reputable sports outlet, distinct roster news, and free of opinion, aggregation, and navigation-only content.",
+      "articleId": "esportes-2026-09-22-ponte-preta-vinicius-ferrari-jejum",
+      "url": "https://ge.globo.com/sp/campinas-e-regiao/futebol/times/ponte-preta/noticia/2026/09/22/familia-celebra-atuacao-de-goleiro-da-ponte-em-vitoria-que-encerrou-jejum-de-22-jogos-muito-orgulho.ghtml",
+      "publishedAt": "2026-09-22T07:00:00.388-03:00",
+      "evidence": "Complete extraction research/runs/2026-09-22T11-21-20-336Z-6df281a2-9343-4cb7-a1b3-001b9e9a3dde/extractions/esportes/b8823033f7e1.json was retrieved with status 200, complete=true, 23 paragraphs and no warnings. Published at 2026-09-22T07:00:00.388-03:00, it records Ponte Preta’s 1-0 win over CRB, Vinicius Ferrari’s seven saves including four inside the area, the 22-match Série B winless run, Brandão’s goal, the family reaction and the goalkeeper’s path from the youth system during the club’s financial crisis.",
+      "selectionReason": "Most recent complete sports report in the run, with a decisive match result, a record-length Série B winless run and a clearly reported goalkeeper performance; selected for freshness and competitive significance.",
       "contentReview": {
         "bodyComplete": true,
         "aiSummaryReviewed": true
       }
     },
     {
-      "articleId": "esportes-guarani-saf-20260921",
-      "url": "https://ge.globo.com/sp/campinas-e-regiao/futebol/times/guarani/noticia/2026/09/21/guarani-tem-semana-decisiva-para-discutir-e-votar-proposta-de-saf.ghtml",
-      "publishedAt": "2026-09-21T08:26:02.465-03:00",
-      "evidence": "Complete extraction 44fba7f29ef7.json, HTTP 200, complete:true, published 2026-09-21T08:26:02.465-03:00. The full ge report covers the Guarani meetings on September 21 and 23, the September 25 hybrid vote, the proposed R$1.075 billion investment, its stated allocation, and the proposed 10%/90% ownership split. This is a direct dated club-business report; no independent corroboration extraction was available in the current run, so no corroboration URL is asserted.",
-      "selectionReason": "Dated inside the preceding 24 hours, direct coverage of a distinct club governance decision from a reputable sports outlet, with material terms present in the complete extraction and no unverified allegation required. No independent corroboration was materially necessary because this is a low-risk report of a scheduled vote and proposed terms, not a completed transaction.",
+      "articleId": "esportes-2026-09-22-cicinho-iac-auxiliar",
+      "url": "https://ge.globo.com/sp/mogi-das-cruzes-suzano/futebol/times/iac/noticia/2026/09/22/lembra-dele-ex-lateral-do-palmeiras-e-anunciado-como-auxiliar-tecnico-na-5a-divisao-de-sp.ghtml",
+      "publishedAt": "2026-09-22T05:00:01.070-03:00",
+      "evidence": "Complete extraction research/runs/2026-09-22T11-21-20-336Z-6df281a2-9343-4cb7-a1b3-001b9e9a3dde/extractions/esportes/ed98c6e77eaa.json was retrieved with status 200, complete=true, 17 paragraphs and no warnings. Published at 2026-09-22T05:00:01.070-03:00, it reports Cicinho’s appointment as IAC assistant coach, his age, playing history including Palmeiras and the 2012 Brazilian Cup, his CBF Licence B, the club’s Bezinha context and the planned return and promotion project.",
+      "selectionReason": "Fresh, distinct personnel and lower-division development report with a complete career context; selected without duplicating a match or another player-centered story.",
       "contentReview": {
         "bodyComplete": true,
         "aiSummaryReviewed": true
       }
     },
     {
-      "articleId": "esportes-seahawks-jadarian-price-20260920",
-      "url": "https://www.sportingnews.com/us/nfl/seattle-seahawks/news/jadarian-price-injury-update-latest-news-seahawks-rbs-status-week-2-game/80372d082918e20843d5860e",
-      "publishedAt": "2026-09-20T23:01:13+00:00",
-      "evidence": "Complete extraction 4d15fb663cca.json, HTTP 200, complete:true, published 2026-09-20T23:01:13+00:00. The full Sporting News update says Seattle was monitoring running back Jadarian Price in the fourth quarter against Arizona and that the Seahawks listed him as questionable to return with a chest injury. This is a routine low-risk injury-status update supported by one complete reputable source; no corroboration URL is asserted.",
-      "selectionReason": "Dated inside the preceding 24 hours, current and service-oriented, from a reputable sports outlet, with a clearly stated team injury designation and no speculation beyond the source.",
+      "articleId": "esportes-2026-09-22-vini-jr-criticas-atletico-real",
+      "url": "https://ge.globo.com/futebol/futebol-internacional/futebol-espanhol/times/real-madrid/noticia/2026/09/22/vini-jr-vira-alvo-de-critica-apos-classico-sombra-do-que-ja-foi.ghtml",
+      "publishedAt": "2026-09-22T04:43:31.059-03:00",
+      "evidence": "Complete extraction research/runs/2026-09-22T11-21-20-336Z-6df281a2-9343-4cb7-a1b3-001b9e9a3dde/extractions/esportes/32613fcb50a2.json was retrieved with status 200, complete=true, 12 paragraphs and no warnings. Published at 2026-09-22T04:43:31.059-03:00, it reports the Marca analysis after Atlético Madrid’s 2-1 win over Real Madrid, the newspaper’s assessment that Vini Jr. and Mbappé were neutralized, Vini’s subdued display and his substitution nine minutes into the second half after Huijsen’s dismissal. The article keeps the criticism attributed to Marca rather than presenting it as an independently established judgment.",
+      "selectionReason": "Fresh international football report about a single derby and a distinct player-performance assessment; selected instead of the separate Nacho defense report to avoid duplicating the same Vini-Atlético match.",
       "contentReview": {
         "bodyComplete": true,
         "aiSummaryReviewed": true
       }
     },
     {
-      "articleId": "esportes-copa-fmf-segunda-rodada-20260921",
-      "url": "https://ge.globo.com/mt/futebol/copa-fmf/noticia/2026/09/21/cacerense-uniao-e-santa-cruz-vencem-na-segunda-rodada-da-copa-fmf-veja-classificacao.ghtml",
-      "publishedAt": "2026-09-21T11:25:31.908-03:00",
-      "evidence": "Complete extraction 77ce9fd58a34.json, HTTP 200, complete:true, published 2026-09-21T11:25:31.908-03:00. The full ge result report records the second-round match count and goals, Cuiabá's 4-0 win over Sorriso, the 3-2 wins by Santa Cruz and Cacerense, União's 3-1 win, and the resulting points positions described in the article. This is a routine result report supported by one complete reputable source; no corroboration URL is asserted.",
-      "selectionReason": "Dated inside the preceding 24 hours, a distinct current competition-result report from a reputable outlet, with complete match facts and no opinion or aggregator material.",
+      "articleId": "esportes-2026-09-22-nautico-crise-classico-sport",
+      "url": "https://ge.globo.com/pe/futebol/times/nautico/noticia/2026/09/22/crise-volta-a-rondar-o-nautico-antes-de-classico-e-em-plena-reta-final-da-serie-b.ghtml",
+      "publishedAt": "2026-09-22T04:00:00.886-03:00",
+      "evidence": "Complete extraction research/runs/2026-09-22T11-21-20-336Z-6df281a2-9343-4cb7-a1b3-001b9e9a3dde/extractions/esportes/c08f7a1041c5.json was retrieved with status 200, complete=true, 17 paragraphs and no warnings. Published at 2026-09-22T04:00:00.886-03:00, it reports Náutico’s 3-0 defeat by Cuiabá, the Saturday Sport derby, 38 points, the eight-point distance from the relegation zone, nine rounds remaining, the upcoming matches against Fortaleza, Novorizontino and Vila Nova, and the coaches’ pressure.",
+      "selectionReason": "Fresh competition-context report with a scheduled derby, table position and relegation implications; selected as a distinct Náutico story rather than another account of a previously selected match.",
       "contentReview": {
         "bodyComplete": true,
         "aiSummaryReviewed": true
       }
     },
     {
-      "articleId": "esportes-capixaba-calendario-2027-20260921",
-      "url": "https://ge.globo.com/es/futebol/times/rio-branco-es/noticia/2026/09/21/rio-branco-es-aprova-mudancas-no-calendario-do-futebol-capixaba-para-2027.ghtml",
-      "publishedAt": "2026-09-21T11:02:25.729-03:00",
-      "evidence": "Complete extraction add401c829ef.json, HTTP 200, complete:true, published 2026-09-21T11:02:25.729-03:00. The full ge report says the federation and clubs approved the 2027 Espírito Santo calendar, gives the January-March, June-August and September-November windows, and states the Copa ES qualification consequences for the champion and runner-up. This is a low-risk schedule report supported by one complete reputable source; no corroboration URL is asserted.",
-      "selectionReason": "Dated inside the preceding 24 hours, current schedule information with practical sports relevance, directly reported by a reputable outlet and distinct from match-result stories.",
+      "articleId": "esportes-2026-09-22-paratletas-ceara-parascesc",
+      "url": "https://ge.globo.com/ce/noticia/2026/09/21/paratletas-cearenses-rompem-limites-e-inspiram-por-meio-do-esporte-conheca-historias.ghtml",
+      "publishedAt": "2026-09-21T17:31:28.474-03:00",
+      "evidence": "Complete extraction research/runs/2026-09-22T11-21-20-336Z-6df281a2-9343-4cb7-a1b3-001b9e9a3dde/extractions/esportes/2b7b34260148.json was retrieved with status 200, complete=true, 43 paragraphs and no warnings. Published at 2026-09-21T17:31:28.474-03:00, it covers Andreza Lima, Carlinhos Rocha and Ivanilda Santos, the ParaSesc partnership and 27 modalities, blind-football and wheelchair-fencing details, Andreza’s national-team and championship record, Ivanilda’s Class A context and the stated goal of more than 3,000 participants.",
+      "selectionReason": "Substantive inclusive-sports feature published within the preceding day, with multiple athletes, named modalities, event scale and attributed participation goals; selected for breadth and public relevance.",
       "contentReview": {
         "bodyComplete": true,
         "aiSummaryReviewed": true
       }
     },
     {
-      "articleId": "esportes-rio-branco-corrida-2027-20260921",
-      "url": "https://ge.globo.com/es/futebol/times/rio-branco-es/noticia/2026/09/21/corrida-de-rua-do-rio-branco-es-tera-segunda-edicao-em-2027.ghtml",
-      "publishedAt": "2026-09-21T11:33:33.773-03:00",
-      "evidence": "Complete extraction bc876766b67c.json, HTTP 200, complete:true, published 2026-09-21T11:33:33.773-03:00. The full ge report describes the September 13 debut race in Vitória, 1,800 registered participants, 23 partner brands, the early sellout, the participation cap, and the SAF's confirmation of a 2027 second edition. This is a low-risk sports-event report supported by one complete reputable source; no corroboration URL is asserted.",
-      "selectionReason": "Dated inside the preceding 24 hours, distinct event and culture/service coverage from a reputable outlet, with complete attendance and scheduling facts and no unverified allegation.",
+      "articleId": "esportes-2026-09-22-santos-atraso-pagamentos",
+      "url": "https://ge.globo.com/sp/santos-e-regiao/futebol/times/santos/noticia/2026/09/21/pode-ser-que-haja-atraso-diz-marcelo-teixeira-sobre-o-pagamento-a-jogadores-do-santos.ghtml",
+      "publishedAt": "2026-09-21T14:48:34.701-03:00",
+      "evidence": "Complete extraction research/runs/2026-09-22T11-21-20-336Z-6df281a2-9343-4cb7-a1b3-001b9e9a3dde/extractions/esportes/14355b149149.json was retrieved with status 200, complete=true and no warnings. Published at 2026-09-21T14:48:34.701-03:00, it records Marcelo Teixeira’s admission that Santos could delay image-rights payments, the financial effect of the Copa Sul-Americana elimination, his denial that new signings significantly damaged the budget, the planned review of the Brazilian league run-in, contract talks and his comments on the club manifesto about regulated betting.",
+      "selectionReason": "Current club-finance report with direct presidential remarks, a concrete payment deadline and broader squad-management implications; selected as a distinct institutional story and replacement for a curiosity-focused item.",
       "contentReview": {
         "bodyComplete": true,
         "aiSummaryReviewed": true
       }
     },
     {
-      "articleId": "esportes-santa-teresa-fc-20260921",
+      "articleId": "esportes-2026-09-22-copa-brasil-pagamentos-2027",
+      "url": "https://oglobo.globo.com/esportes/futebol/noticia/2026/09/21/apos-faturamento-recorde-copa-do-brasil-tera-mudancas-na-forma-de-pagamento-aos-clubes-saiba-quais.ghtml",
+      "publishedAt": "2026-09-21T17:00:40.393-03:00",
+      "evidence": "Complete extraction research/runs/2026-09-22T11-21-20-336Z-6df281a2-9343-4cb7-a1b3-001b9e9a3dde/extractions/esportes/f29b685e952f.json was retrieved with status 200, complete=true, 11 paragraphs and no warnings. Published at 2026-09-21T17:00:40.393-03:00, it reports the CBF’s planned 2027 fixed payment for Serie A and B clubs, the unchanged performance-based prize, the near-R$4 billion 2027-2030 TV-rights cycle, permitted uses for debt reduction or infrastructure, accountability requirements, and the absence of disclosed individual amounts.",
+      "selectionReason": "Current national competition administration report with material financial changes and explicit limits on what was announced; selected for broad club impact and distinct subject matter.",
+      "contentReview": {
+        "bodyComplete": true,
+        "aiSummaryReviewed": true
+      }
+    },
+    {
+      "articleId": "esportes-2026-09-22-fortaleza-g2-serie-b",
+      "url": "https://www.opovo.com.br/esportes/futebol/times/fortaleza/2026/09/21/fortaleza-tera-sequencia-decisiva-em-casa-para-se-firmar-no-g-2-da-serie-b.html",
+      "publishedAt": "2026-09-21T16:31:40-0300",
+      "evidence": "Complete extraction research/runs/2026-09-22T11-21-20-336Z-6df281a2-9343-4cb7-a1b3-001b9e9a3dde/extractions/esportes/b23a8cc3be50.json was retrieved with status 200, complete=true, 15 paragraphs and no warnings. Published at 2026-09-21T16:31:40-0300, it records Fortaleza’s ten-match unbeaten run, three away wins, home results, second place with 51 points, the six-point gap over CRB, UFMG’s stated projections and the upcoming Athletic, Náutico and América-MG matches.",
+      "selectionReason": "Current table and promotion-race report with complete results, projections and a defined upcoming sequence; selected for competitive significance and distinct coverage from Náutico’s separate crisis story.",
+      "contentReview": {
+        "bodyComplete": true,
+        "aiSummaryReviewed": true
+      }
+    },
+    {
+      "articleId": "esportes-2026-09-22-santa-teresa-fc-base-feminino",
       "url": "https://ge.globo.com/es/futebol/noticia/2026/09/21/santa-teresa-fc-novo-time-do-espirito-santo-vai-iniciar-atividades-na-base-e-no-feminino.ghtml",
       "publishedAt": "2026-09-21T10:35:56.613-03:00",
-      "evidence": "Complete extraction cdca9ce6df9d.json, HTTP 200, complete:true, published 2026-09-21T10:35:56.613-03:00. The full ge report says Santa Teresa FC was founded in 2026, plans youth and women's activity in 2027, targets men's professional football by 2030, and links the project to the city's culture and tourism. This is a dated club-launch report from a reputable outlet; no independent corroboration extraction was available in the current run, so no corroboration URL is asserted.",
-      "selectionReason": "Dated inside the preceding 24 hours, distinct current club-development news, directly reported by a reputable sports outlet, and based on stated plans rather than unverified allegations. No independent corroboration was materially necessary because this is a low-risk report of stated future plans, not an achieved result or disputed claim.",
+      "evidence": "Complete extraction research/runs/2026-09-22T11-21-20-336Z-6df281a2-9343-4cb7-a1b3-001b9e9a3dde/extractions/esportes/cdca9ce6df9d.json was retrieved with status 200, complete=true, 19 paragraphs and no warnings. Published at 2026-09-21T10:35:56.613-03:00, it reports Santa Teresa FC’s April 29, 2026 formalization, the 2027 youth and women’s plans, the 2029-2030 professional target, the club’s culture and tourism project, the planned registrations and the pending stadium and municipal-field authorization.",
+      "selectionReason": "Current club-development report with a complete 2027 plan, women’s and youth participation and a professional target; selected to broaden the desk beyond match results and top divisions.",
       "contentReview": {
         "bodyComplete": true,
         "aiSummaryReviewed": true
       }
     },
     {
-      "articleId": "esportes-acao-feminino-sub20-20260921",
-      "url": "https://ge.globo.com/mt/futebol/noticia/2026/09/21/acao-conquista-o-titulo-do-campeonato-mato-grossense-feminino-sub-20.ghtml",
-      "publishedAt": "2026-09-21T12:05:09.475-03:00",
-      "evidence": "Complete extraction e90951af227b.json, HTTP 200, complete:true, published 2026-09-21T12:05:09.475-03:00. The full ge result report records Ação's 4-1 final win over Várzea Grande, the scoring sequence, the championship and runner-up positions, and the six participating teams. This is a routine result report supported by one complete reputable source; no corroboration URL is asserted.",
-      "selectionReason": "Dated inside the preceding 24 hours, distinct women's youth-sports result from a reputable outlet, with complete final-score and competition facts and no opinion content.",
-      "contentReview": {
-        "bodyComplete": true,
-        "aiSummaryReviewed": true
-      }
-    },
-    {
-      "articleId": "esportes-chapecoense-atletico-nacional-20260921",
-      "url": "https://ge.globo.com/sc/futebol/times/chapecoense/noticia/2026/09/21/com-pausa-na-serie-a-chapecoense-viaja-para-jogar-amistoso-contra-o-atletico-nacional.ghtml",
-      "publishedAt": "2026-09-21T12:29:08.982-03:00",
-      "evidence": "Complete extraction f742633936f7.json, HTTP 200, complete:true, published 2026-09-21T12:29:08.982-03:00. The full ge report gives the Chapecoense-Atlético Nacional friendly's Saturday time and Medellín venue, the Wednesday departure, its 2016 tragedy memorial purpose, the 71 deaths cited, the earthquake-relief allocation, and Chapecoense's next Série A date and position. This is a routine schedule and service report supported by one complete reputable source; no corroboration URL is asserted.",
-      "selectionReason": "Dated inside the preceding 24 hours, current schedule and community-impact sports news from a reputable outlet, with all selected facts present in the complete extraction.",
-      "contentReview": {
-        "bodyComplete": true,
-        "aiSummaryReviewed": true
-      }
-    },
-    {
-      "articleId": "esportes-rio-branco-fornecedora-20260921",
-      "url": "https://ge.globo.com/es/futebol/times/rio-branco-es/noticia/2026/09/21/rio-branco-es-decide-romper-com-a-kappa-e-tera-nova-fornecedora-de-uniformes.ghtml",
-      "publishedAt": "2026-09-21T13:28:21.943-03:00",
-      "evidence": "Complete extraction f908065be15e.json, HTTP 200, complete:true, published 2026-09-21T13:28:21.943-03:00. The full ge report says Rio Branco-ES is ending its Kappa partnership, negotiating a new supplier, seeking a broader official-product portfolio and higher royalty revenue, and expects an announcement in the coming weeks. This is a dated low-risk sports-business report; no independent corroboration extraction was available in the current run, so no corroboration URL is asserted.",
-      "selectionReason": "Dated inside the preceding 24 hours, direct and distinct club-business reporting from a reputable outlet, with no need to repeat or rely on unverified allegations.",
+      "articleId": "esportes-2026-09-22-nfl-rio-operacao-maracana",
+      "url": "https://oglobo.globo.com/rio/noticia/2026/09/21/nfl-no-rio-veja-esquema-de-transito-metro-seguranca-e-regras-para-o-jogo-no-maracana.ghtml",
+      "publishedAt": "2026-09-21T09:55:52.963-03:00",
+      "evidence": "Complete extraction research/runs/2026-09-22T11-21-20-336Z-6df281a2-9343-4cb7-a1b3-001b9e9a3dde/extractions/esportes/78cbc47357af.json was retrieved with status 200, complete=true, 29 paragraphs and no warnings. Published at 2026-09-21T09:55:52.963-03:00, it reports the September 27 Ravens-Cowboys game, gate opening, metro hours and gate-specific stations, parking restrictions and detours, 360 military police officers, 35 vehicles, 215 civil police agents and transparent-bag rules.",
+      "selectionReason": "Current service-oriented report for a major international sports event in Brazil, with exact transport, access and security instructions; selected for practical public impact and a distinct upcoming game.",
       "contentReview": {
         "bodyComplete": true,
         "aiSummaryReviewed": true
@@ -119,7 +126,7 @@
     "en": ""
   },
   "improvements": [],
-  "candidateRun": "research/runs/2026-09-21T16-48-24-436Z-221c0d1e-a836-45cb-b034-62c6ef37c843",
-  "retrievedAt": "2026-09-21T18:03:53.289Z",
+  "candidateRun": "research/runs/2026-09-22T11-21-20-336Z-6df281a2-9343-4cb7-a1b3-001b9e9a3dde",
+  "retrievedAt": "2026-09-22T11:21:44.997Z",
   "reviewStatus": "draft-source-verified-no-publication-approval"
 }

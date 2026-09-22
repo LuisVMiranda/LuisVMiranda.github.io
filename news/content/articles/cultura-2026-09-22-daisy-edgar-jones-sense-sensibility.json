@@ -1,0 +1,118 @@
+{
+  "id": "cultura-2026-09-22-daisy-edgar-jones-sense-sensibility",
+  "slug": "cultura-2026-09-22-daisy-edgar-jones-sense-sensibility",
+  "section": "cultura",
+  "secondarySections": [],
+  "publishedAt": "2026-09-22T06:20:52.319Z",
+  "updatedAt": "2026-09-22T13:17:34.573Z",
+  "sources": [
+    {
+      "name": "BBC News",
+      "url": "https://www.bbc.com/news/articles/c6j9xpg19x43o"
+    }
+  ],
+  "rights": {
+    "mode": "original-report"
+  },
+  "translations": {
+    "pt-BR": {
+      "title": "Daisy Edgar-Jones leva memórias da Irlanda para Sense and Sensibility",
+      "summary": "A atriz diz que a paisagem de Fermanagh ajudou a preparar a personagem Elinor Dashwood na nova adaptação do romance de Jane Austen.",
+      "aiSummary": [
+        "Edgar-Jones interpretará Elinor Dashwood na nova adaptação de Sense and Sensibility.",
+        "A atriz passou parte da infância no interior da Irlanda do Norte, onde vivem familiares.",
+        "O filme chega aos cinemas em 25 de setembro e reúne atrizes irlandesas no elenco."
+      ],
+      "paragraphs": [
+        "Daisy Edgar-Jones interpreta Elinor Dashwood na nova adaptação cinematográfica de Sense and Sensibility, romance de Jane Austen publicado em 1811. Para preparar a personagem, a atriz recorreu às lembranças dos verões passados nos campos de County Fermanagh, onde vivem parte de seus familiares.",
+        "A mãe de Edgar-Jones é de County Down, e a atriz, hoje com 28 anos, passou a infância circulando pelo interior da Irlanda do Norte. Ela associou a experiência de caminhar sob um céu amplo e de passar longos períodos ao ar livre à trajetória de Elinor, personagem que enfrenta mudanças familiares e econômicas ao lado da irmã Marianne.",
+        "Na história, as irmãs Dashwood ficam sem recursos depois da morte do pai. Elas deixam a antiga casa e se mudam para Barton Cottage enquanto procuram uma nova posição social e afetiva. O livro já recebeu várias adaptações, e a versão de 1995, com Kate Winslet, Emma Thompson, Alan Rickman e Hugh Grant, continua sendo a mais conhecida.",
+        "A nova produção foi realizada pelas empresas Focus Features e Working Title. Edgar-Jones contracena com a irlandesa Caitriona Balfe, que interpreta Mrs Dashwood, Fiona Shaw, como Mrs Jennings, e Bodhi Rae Breathnach, de Hamnet, no papel da irmã mais nova, Margaret.",
+        "Balfe contou que reconheceu na família Dashwood uma dinâmica de irmãs ligada à própria infância em uma família de sete pessoas no condado de Monaghan. Ela também disse que o momento atual da Irlanda é especialmente forte para a produção artística. Sense and Sensibility estreia nos cinemas em 25 de setembro."
+      ]
+    },
+    "en": {
+      "title": "Daisy Edgar-Jones brings Irish memories to Sense and Sensibility",
+      "summary": "The actor says Fermanagh’s landscape helped her prepare to play Elinor Dashwood in the new adaptation of Jane Austen’s novel.",
+      "aiSummary": [
+        "Edgar-Jones plays Elinor Dashwood in the new adaptation of Sense and Sensibility.",
+        "The actor spent part of her childhood in Northern Ireland, where some of her family live.",
+        "The film opens in cinemas on September 25 and features several Irish actors."
+      ],
+      "paragraphs": [
+        "Daisy Edgar-Jones plays Elinor Dashwood in a new film adaptation of Sense and Sensibility, Jane Austen’s novel first published in 1811. To prepare for the role, the actor drew on memories of summers spent in the fields of County Fermanagh, where some of her family live.",
+        "Edgar-Jones’s mother is from County Down, and the 28-year-old actor spent her childhood roaming the Northern Irish countryside. She connected the experience of walking beneath a wide sky and spending long periods outdoors with Elinor’s journey as the character faces family and financial upheaval alongside her sister Marianne.",
+        "In the story, the Dashwood sisters are left without money after their father dies. They leave their home and move to Barton Cottage while searching for a new social and romantic position. The novel has been adapted many times, and the 1995 version starring Kate Winslet, Emma Thompson, Alan Rickman and Hugh Grant remains the best known.",
+        "The new production was made by Focus Features and Working Title. Edgar-Jones is joined by Irish actors Caitriona Balfe, who plays Mrs Dashwood, Fiona Shaw as Mrs Jennings, and Bodhi Rae Breathnach of Hamnet as the youngest Dashwood sister, Margaret.",
+        "Balfe said she recognized a sisterly dynamic from her own childhood in a family of seven in County Monaghan. She also described Ireland as being in an especially strong moment for the arts. Sense and Sensibility opens in cinemas on September 25."
+      ]
+    }
+  },
+  "verification": {
+    "score": 9.3,
+    "checkedAt": "2026-09-22T12:28:07Z",
+    "checks": [
+      {
+        "provider": "BBC News",
+        "url": "https://www.bbc.com/news/articles/c6j9xpg19x43o",
+        "finding": "supports",
+        "note": "Complete local extraction was HTTP 200 with complete:true and 20 body paragraphs. It supports Daisy Edgar-Jones as Elinor Dashwood, the Fermanagh preparation account, the Irish cast, production companies, adaptation background, and the September 25 cinema release."
+      },
+      {
+        "provider": "Focus Features",
+        "url": "https://www.focusfeatures.com/article/sense-and-sensibility-sets-release-dates",
+        "finding": "supports",
+        "note": "The official distributor context corroborates the film's title, production/distribution context, cast framing, and September 25 release timing."
+      },
+      {
+        "provider": "Aos Fatos",
+        "url": "https://www.aosfatos.org/",
+        "finding": "no-match",
+        "note": "No matching fact-check page surfaced for the film, cast, adaptation history, or release-date claims. This no-match is neutral and is not evidence of accuracy."
+      },
+      {
+        "provider": "Agência Lupa",
+        "url": "https://www.agencialupa.org/",
+        "finding": "no-match",
+        "note": "No matching fact-check addressing the article's central film claims or named people was confirmed. The no-match is neutral."
+      },
+      {
+        "provider": "Projeto Comprova",
+        "url": "https://projetocomprova.com.br/",
+        "finding": "no-match",
+        "note": "No relevant Projeto Comprova fact-check for the adaptation, cast, or release claims was found. The result is neutral."
+      },
+      {
+        "provider": "TSE Fato ou Boato",
+        "url": "https://www.tse.jus.br/comunicacao/noticias/fato-ou-boato",
+        "finding": "no-match",
+        "note": "No civic or election-related fact-check is relevant to this film report; no matching item was found. The no-match is neutral."
+      },
+      {
+        "provider": "AFP Fact Check",
+        "url": "https://factcheck.afp.com/",
+        "finding": "no-match",
+        "note": "No matching AFP fact-check for the film, cast, named counties, or release date was confirmed. This no-match is neutral."
+      },
+      {
+        "provider": "Reuters Fact Check",
+        "url": "https://www.reuters.com/fact-check/",
+        "finding": "no-match",
+        "note": "No matching Reuters fact-check for the article's central film claims or named entities was confirmed. This no-match is neutral."
+      },
+      {
+        "provider": "Full Fact",
+        "url": "https://fullfact.org/",
+        "finding": "no-match",
+        "note": "No relevant Full Fact item addressing the film report was found. The no-match is neutral and not evidence of truth."
+      },
+      {
+        "provider": "Google Fact Check Explorer",
+        "url": "https://toolbox.google.com/factcheck/explorer",
+        "finding": "inconclusive",
+        "note": "No exact indexed ClaimReview record was confirmed in the Explorer searches used for this claim; coverage is incomplete, so this is not evidence for or against the article."
+      }
+    ],
+    "caveat": "The event and release claims are strongly supported by complete BBC evidence and official distributor context. Plot background and actors' recollections are cultural or interview material rather than claims normally adjudicated by fact-checking databases."
+  }
+}

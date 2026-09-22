@@ -1,0 +1,115 @@
+{
+  "id": "politica-2026-09-22-agu-janja-representacao",
+  "slug": "politica-2026-09-22-agu-janja-representacao",
+  "section": "politica",
+  "secondarySections": [],
+  "publishedAt": "2026-09-21T22:40:08-03:00",
+  "publishedDate": "2026-09-21",
+  "updatedAt": "2026-09-22T13:17:34.573Z",
+  "sources": [
+    {
+      "name": "CNN Brasil",
+      "url": "https://www.cnnbrasil.com.br/politica/justica-determina-que-agu-explique-por-que-representa-janja-judicialmente/"
+    }
+  ],
+  "rights": {
+    "mode": "original-report"
+  },
+  "translations": {
+    "pt-BR": {
+      "title": "Justiça manda AGU explicar representação judicial de Janja",
+      "summary": "A Advocacia-Geral da União terá 15 dias para apresentar documentos que comprovem os requisitos legais da defesa da primeira-dama em uma ação popular.",
+      "aiSummary": [
+        "A Justiça Federal deu 15 dias para a AGU apresentar documentos sobre a representação de Janja.",
+        "A ação popular questiona gastos públicos com viagens internacionais da primeira-dama.",
+        "A juíza pediu o requerimento administrativo, o parecer jurídico e o ato de autorização."
+      ],
+      "paragraphs": [
+        "A Justiça Federal do Distrito Federal determinou que a Advocacia-Geral da União apresente, em até 15 dias, documentos que comprovem o cumprimento dos requisitos legais para representar judicialmente Rosângela da Silva, a Janja.",
+        "A decisão foi tomada pela juíza Maria Cecília de Marco Rocha, da 9ª Vara Federal Cível do Distrito Federal, em uma ação popular que questiona gastos públicos com viagens internacionais realizadas pela primeira-dama.",
+        "A magistrada pediu o requerimento administrativo feito por Janja para obter a representação, o parecer ou manifestação jurídica que analisou o pedido, o ato que autorizou a atuação da AGU e os demais documentos usados para comprovar as exigências legais.",
+        "A ação foi movida pelo vereador Guilherme Kilter e pelo advogado Jeffrey Chiquini contra a União e Janja. Os autores questionam despesas de viagens a Nova York, Roma, Paris, Moscou e São Petersburgo e pedem a anulação dos atos que autorizaram os gastos, além do ressarcimento ao erário.",
+        "A União e a primeira-dama apresentaram uma contestação conjunta, com representação da AGU. Segundo o órgão, a atuação foi autorizada depois de um requerimento administrativo e de uma análise sobre o cumprimento das exigências previstas na legislação e nas normas internas.",
+        "A decisão não concluiu que houve irregularidade na representação de Janja. A juíza afirmou que a AGU deve primeiro apresentar a documentação usada para autorizar sua atuação, antes de uma decisão sobre a regularidade da defesa."
+      ]
+    },
+    "en": {
+      "title": "Federal court orders Brazil’s AGU to explain its legal representation of Janja",
+      "summary": "The federal attorney’s office has 15 days to provide documents showing the legal basis for representing the first lady in a public-interest lawsuit.",
+      "aiSummary": [
+        "A federal court gave Brazil’s AGU 15 days to provide documents about representing Janja.",
+        "The public-interest lawsuit questions public spending on the first lady’s international trips.",
+        "The judge requested the administrative request, legal opinion and authorization act."
+      ],
+      "paragraphs": [
+        "A federal court in Brazil’s Federal District ordered the country’s Attorney General’s Office, known as AGU, to provide within 15 days documents showing that it met the legal requirements to represent Rosângela da Silva, known as Janja, in court.",
+        "Judge Maria Cecília de Marco Rocha of the Federal District’s 9th Civil Federal Court issued the order in a public-interest lawsuit questioning public spending on international trips made by the first lady.",
+        "The judge requested Janja’s administrative request for legal representation, the legal opinion or statement that examined it, the act authorizing the AGU to act and other documents used to demonstrate compliance with legal requirements.",
+        "The lawsuit was filed by councilman Guilherme Kilter and lawyer Jeffrey Chiquini against the federal government and Janja. They challenge expenses connected to trips to New York, Rome, Paris, Moscow and St. Petersburg and seek to annul the authorizing acts and recover the money for the public treasury.",
+        "The federal government and the first lady filed a joint defense represented by the AGU. The office said its involvement was authorized after an administrative request and a review of the requirements established by law and internal rules.",
+        "The order did not conclude that Janja’s representation was unlawful. The judge said the AGU must first submit the documents used to authorize its role before the court rules on whether the defense was regular."
+      ]
+    }
+  },
+  "verification": {
+    "score": 8.3,
+    "checkedAt": "2026-09-22T12:31:03Z",
+    "checks": [
+      {
+        "provider": "CNN Brasil",
+        "url": "https://www.cnnbrasil.com.br/politica/justica-determina-que-agu-explique-por-que-representa-janja-judicialmente/",
+        "finding": "supports",
+        "note": "Complete HTTP-200 extraction with complete:true supports the Federal District court's 15-day order, the requested administrative request, legal opinion and authorization act, the named plaintiffs and trips, and the explicit boundary that no irregularity was yet found."
+      },
+      {
+        "provider": "Aos Fatos",
+        "url": "https://www.aosfatos.org/",
+        "finding": "no-match",
+        "note": "Portuguese searches for AGU, Janja, judicial representation, the 15-day order and the named lawsuit found no matching fact-check verdict; no-match is neutral."
+      },
+      {
+        "provider": "Agência Lupa",
+        "url": "https://www.agencialupa.org/",
+        "finding": "no-match",
+        "note": "No directly matching Lupa fact-check was found for the court's procedural order or the legal-representation dispute; no-match is neutral."
+      },
+      {
+        "provider": "Projeto Comprova",
+        "url": "https://projetocomprova.com.br/",
+        "finding": "no-match",
+        "note": "No relevant Comprova verdict was found for the AGU/Janja court filing; no-match is neutral and not proof that the order is correct."
+      },
+      {
+        "provider": "TSE Fato ou Boato",
+        "url": "https://www.tse.jus.br/comunicacao/noticias/fato-ou-boato",
+        "finding": "no-match",
+        "note": "No election-related fact-check was relevant to this Federal District public-law proceeding; no-match is neutral."
+      },
+      {
+        "provider": "AFP Fact Check",
+        "url": "https://factcheck.afp.com/",
+        "finding": "no-match",
+        "note": "English and Portuguese searches found no AFP verdict about AGU's representation of Janja or this 15-day court order; no-match is neutral."
+      },
+      {
+        "provider": "Reuters Fact Check",
+        "url": "https://www.reuters.com/fact-check/",
+        "finding": "no-match",
+        "note": "No directly matching Reuters fact-check was found for the dated Brazilian court-procedure report; no-match is neutral."
+      },
+      {
+        "provider": "Full Fact",
+        "url": "https://fullfact.org/",
+        "finding": "no-match",
+        "note": "English searches found no Full Fact verdict addressing the AGU/Janja representation dispute; no-match is neutral."
+      },
+      {
+        "provider": "Google Fact Check Tools",
+        "url": "https://toolbox.google.com/factcheck/explorer",
+        "finding": "inconclusive",
+        "note": "No exact indexed ClaimReview record surfaced, and the public claims-search API returned HTTP 403 in this run; this is not evidence for or against the article."
+      }
+    ],
+    "caveat": "The complete report supports the procedural order and clearly distinguishes document production from a merits finding. The underlying legality of AGU representation, the disputed travel spending and the plaintiffs' claims remain unresolved by the reported order."
+  }
+}

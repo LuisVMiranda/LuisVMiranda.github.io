@@ -1,0 +1,118 @@
+{
+  "id": "cultura-2026-09-22-cate-blanchett-theatre",
+  "slug": "cultura-2026-09-22-cate-blanchett-theatre",
+  "section": "cultura",
+  "secondarySections": [],
+  "publishedAt": "2026-09-21T14:03:20.131Z",
+  "updatedAt": "2026-09-22T13:17:34.573Z",
+  "sources": [
+    {
+      "name": "BBC News",
+      "url": "https://www.bbc.com/news/articles/cmvgyzpy6g43o"
+    }
+  ],
+  "rights": {
+    "mode": "original-report"
+  },
+  "translations": {
+    "pt-BR": {
+      "title": "Cate Blanchett pede que público não filme espetáculo no teatro",
+      "summary": "A atriz fez o apelo durante a temporada de Electra/Persona no National Theatre de Londres, reacendendo o debate sobre celulares nas salas.",
+      "aiSummary": [
+        "Blanchett pediu que espectadores não gravassem a apresentação nem o momento de encerramento.",
+        "Electra/Persona combina a tragédia de Sófocles com o filme Persona, de Ingmar Bergman.",
+        "A peça fica em cartaz no National Theatre até 10 de outubro."
+      ],
+      "paragraphs": [
+        "Cate Blanchett pediu que o público deixe os celulares de lado durante as apresentações teatrais. O apelo ocorreu no National Theatre de Londres, onde a atriz australiana participa de Electra/Persona, peça que tem temporada prevista até 10 de outubro.",
+        "Durante os aplausos finais de uma sessão de sexta-feira, Blanchett disse que o teatro é um dos poucos lugares em que as pessoas podem permanecer juntas e presentes. Ela reconheceu que registrar o encerramento pode parecer uma forma de homenagem, mas afirmou que filmar o espetáculo prejudica a experiência do grupo seguinte.",
+        "Uma espectadora relatou que a gravação havia acontecido no intervalo entre os dois atos, quando a equipe preparava o palco, permitia a entrada de atrasados e os atores ainda faziam a maquiagem em cena. Segundo esse relato, Blanchett percebeu a gravação, sinalizou para que a pessoa parasse e retomou o assunto no fim da apresentação.",
+        "Electra/Persona foi escrita e dirigida por Benedict Andrews e combina a tragédia Electra, de Sófocles, com o filme Persona, de Ingmar Bergman. Blanchett e Nina Hoss dividem os papéis de Electra/Elisabeth e Clytemnestra/Alma, definidos por um sorteio realizado ao vivo antes de cada sessão.",
+        "O episódio se soma a outros pedidos recentes de artistas para que celulares não sejam usados nas salas. Rosamund Pike criticou uma pessoa que enviava mensagens durante uma cena, Cynthia Erivo interrompeu Dracula ao notar uma gravação e Andrew Scott já havia parado Hamlet depois que alguém abriu um laptop durante o solilóquio."
+      ]
+    },
+    "en": {
+      "title": "Cate Blanchett asks theatre audience not to film the show",
+      "summary": "The actor made the request during Electra/Persona at London’s National Theatre, renewing debate about phones in performance spaces.",
+      "aiSummary": [
+        "Blanchett asked spectators not to record the performance or the curtain call.",
+        "Electra/Persona combines Sophocles’ tragedy with Ingmar Bergman’s film Persona.",
+        "The play runs at the National Theatre until October 10."
+      ],
+      "paragraphs": [
+        "Cate Blanchett has asked theatre audiences to put their phones away during performances. The appeal came at London’s National Theatre, where the Australian actor is appearing in Electra/Persona, a production scheduled to run until October 10.",
+        "During the curtain call after a Friday performance, Blanchett said theatre was one of the few places where people could simply be together and present. She acknowledged that filming the ending might feel flattering, but said recording the show spoiled the experience for the next audience.",
+        "One audience member said the filming had taken place during the interval between the two acts, while staff prepared the stage, admitted late arrivals and the cast did their makeup onstage. According to that account, Blanchett noticed the recording, gestured for the person to stop and mentioned it again at the end of the performance.",
+        "Electra/Persona was written and directed by Benedict Andrews and combines Sophocles’ tragedy Electra with Ingmar Bergman’s film Persona. Blanchett and Nina Hoss share the roles of Electra/Elisabeth and Clytemnestra/Alma, with the pairing decided by a live coin toss before each performance.",
+        "The incident joins other recent requests from performers for audiences not to use phones in the room. Rosamund Pike criticized a spectator for texting during a scene, Cynthia Erivo interrupted Dracula after spotting someone filming, and Andrew Scott previously stopped Hamlet when an audience member used a laptop during the soliloquy."
+      ]
+    }
+  },
+  "verification": {
+    "score": 8.9,
+    "checkedAt": "2026-09-22T12:28:07Z",
+    "checks": [
+      {
+        "provider": "BBC News",
+        "url": "https://www.bbc.com/news/articles/cmvgyzpy6g43o",
+        "finding": "supports",
+        "note": "Complete local extraction was HTTP 200 with complete:true and 14 body paragraphs. It supports Blanchett's curtain-call request, the National Theatre production, dates, role-sharing mechanism, and the reported audience-member account."
+      },
+      {
+        "provider": "National Theatre",
+        "url": "https://www.nationaltheatre.org.uk/whats-on/electra-persona/",
+        "finding": "supports",
+        "note": "The official production page corroborates Electra/Persona, the National Theatre venue, the production dates, and the cast context; it does not independently verify the reported filming incident."
+      },
+      {
+        "provider": "Aos Fatos",
+        "url": "https://www.aosfatos.org/",
+        "finding": "no-match",
+        "note": "No matching fact-check page surfaced for Blanchett's request, the production, or the named theatre incidents. This no-match is neutral and is not evidence of accuracy."
+      },
+      {
+        "provider": "Agência Lupa",
+        "url": "https://www.agencialupa.org/",
+        "finding": "no-match",
+        "note": "No matching fact-check addressing the article's theatre or filming claims was confirmed. The no-match is neutral."
+      },
+      {
+        "provider": "Projeto Comprova",
+        "url": "https://projetocomprova.com.br/",
+        "finding": "no-match",
+        "note": "No relevant Projeto Comprova fact-check for the reported theatre incident was found. The result is neutral."
+      },
+      {
+        "provider": "TSE Fato ou Boato",
+        "url": "https://www.tse.jus.br/comunicacao/noticias/fato-ou-boato",
+        "finding": "no-match",
+        "note": "No civic or election-related fact-check is relevant to this theatre report; no matching item was found. The no-match is neutral."
+      },
+      {
+        "provider": "AFP Fact Check",
+        "url": "https://factcheck.afp.com/",
+        "finding": "no-match",
+        "note": "No matching AFP fact-check for the theatre request, production, or named performers was confirmed. This no-match is neutral."
+      },
+      {
+        "provider": "Reuters Fact Check",
+        "url": "https://www.reuters.com/fact-check/",
+        "finding": "no-match",
+        "note": "No matching Reuters fact-check for the article's theatre incident or named entities was confirmed. This no-match is neutral."
+      },
+      {
+        "provider": "Full Fact",
+        "url": "https://fullfact.org/",
+        "finding": "no-match",
+        "note": "No relevant Full Fact item addressing the reported filming incident was found. The no-match is neutral."
+      },
+      {
+        "provider": "Google Fact Check Explorer",
+        "url": "https://toolbox.google.com/factcheck/explorer",
+        "finding": "inconclusive",
+        "note": "No exact indexed ClaimReview record was confirmed in the Explorer searches used for this claim; coverage is incomplete, so this is not evidence for or against the article."
+      }
+    ],
+    "caveat": "The BBC directly supports the request and production details. The interval-recording chronology is explicitly attributed to one audience member and should not be treated as independently established."
+  }
+}

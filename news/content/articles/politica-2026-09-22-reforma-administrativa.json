@@ -1,0 +1,113 @@
+{
+  "id": "politica-2026-09-22-reforma-administrativa",
+  "slug": "politica-2026-09-22-reforma-administrativa",
+  "section": "politica",
+  "secondarySections": [],
+  "publishedAt": "2026-09-21T17:00:01.186-03:00",
+  "publishedDate": "2026-09-21",
+  "updatedAt": "2026-09-22T13:17:34.573Z",
+  "sources": [
+    {
+      "name": "Valor International",
+      "url": "https://valorinternational.globo.com/politics/news/2026/09/21/candidates-offer-few-details-on-administrative-reform.ghtml"
+    }
+  ],
+  "rights": {
+    "mode": "original-report"
+  },
+  "translations": {
+    "pt-BR": {
+      "title": "Candidatos detalham pouco propostas de reforma administrativa",
+      "summary": "As plataformas discutem ministérios, salários, estatais e desempenho do funcionalismo, mas apresentam poucos caminhos práticos para a mudança.",
+      "aiSummary": [
+        "Reforma administrativa aparece nas plataformas de cinco candidatos de oposição.",
+        "Os temas incluem teto salarial, desempenho, estatais, privatizações e ativos federais.",
+        "O orçamento de 2027 prevê folha 0,6% acima da inflação, segundo a reportagem."
+      ],
+      "paragraphs": [
+        "A reforma administrativa aparece nas plataformas dos cinco principais candidatos de oposição como instrumento para reduzir custos e aumentar a produtividade do governo federal, mas o levantamento do Valor encontrou poucos detalhes sobre a execução das propostas.",
+        "Entre os temas estão remuneração acima do teto constitucional, avaliação de desempenho, papel das empresas estatais, privatizações e formas de monetizar ativos federais. Parte das medidas poderia ser adotada sem o Congresso, enquanto outras dependeriam de lei e poderiam enfrentar disputas judiciais.",
+        "A plataforma do PT, segundo a reportagem, defende ampliar políticas do governo Lula e melhorar o modelo de serviços compartilhados entre ministérios. O projeto de orçamento de 2027 enviado pelo presidente ao Congresso prevê crescimento da folha de pessoal de apenas 0,6% acima da inflação.",
+        "A proposta de Flávio Bolsonaro fala em eliminar ao menos dez ministérios, reduzir nomeações políticas e combater adicionais salariais acima do teto. O texto também defende profissionalizar a gestão de estatais e fundos de pensão, mas preserva um papel estratégico para a Caixa Econômica Federal.",
+        "Os demais programas divergem sobre desempenho e privatização. Augusto Cury e Ronaldo Caiado mencionam avaliações de servidores, Renan Santos propõe progressão por mérito e responsabilização por interferência indevida em estatais, e Romeu Zema defende vender todas as empresas públicas; Caiado promete enviar uma reforma ao Congresso nos primeiros cem dias de governo."
+      ]
+    },
+    "en": {
+      "title": "Brazilian candidates provide few details on administrative reform",
+      "summary": "Platforms discuss ministries, salaries, state-owned companies and civil-service performance but offer few practical paths for change.",
+      "aiSummary": [
+        "Administrative reform appears in the platforms of five opposition candidates.",
+        "The issues include pay caps, performance, state-owned companies, privatization and public assets.",
+        "The 2027 budget proposal provides for payroll spending 0.6% above inflation, the report says."
+      ],
+      "paragraphs": [
+        "Administrative reform appears in the platforms of the five leading opposition candidates as a way to cut costs and increase federal-government productivity, but Valor’s report found few details on how the proposals would work.",
+        "The issues include pay above the constitutional cap, performance reviews, the role of state-owned companies, privatization and ways to monetize federal assets. Some measures could be adopted without Congress, while others would require legislation and could face court challenges.",
+        "The Workers’ Party platform, according to the report, calls for expanding Lula administration policies and improving a shared-services model among ministries. The 2027 budget proposal sent by the president to Congress provides for payroll spending to rise only 0.6% above inflation.",
+        "Flávio Bolsonaro’s platform calls for eliminating at least ten ministries, reducing political appointments and curbing salary add-ons above the cap. It also proposes professionalizing state-owned companies and pension funds while preserving a strategic role for Caixa Econômica Federal.",
+        "The other platforms differ on performance and privatization. Augusto Cury and Ronaldo Caiado mention civil-service reviews, Renan Santos proposes merit-based advancement and liability for improper interference in state-owned companies, and Romeu Zema supports selling all state-owned companies; Caiado promises to send a reform to Congress within his first 100 days."
+      ]
+    }
+  },
+  "verification": {
+    "score": 8,
+    "checkedAt": "2026-09-22T12:31:03Z",
+    "checks": [
+      {
+        "provider": "Valor International",
+        "url": "https://valorinternational.globo.com/politics/news/2026/09/21/candidates-offer-few-details-on-administrative-reform.ghtml",
+        "finding": "supports",
+        "note": "Complete HTTP-200 extraction with complete:true supports the attributed comparison of five opposition platforms, the PT shared-services position, the 0.6% above-inflation 2027 payroll proposal, Flávio's ten-ministry proposal, candidate positions on performance reviews and privatization, and Caiado's 100-day promise."
+      },
+      {
+        "provider": "Aos Fatos",
+        "url": "https://www.aosfatos.org/",
+        "finding": "no-match",
+        "note": "Portuguese searches for the named candidates, administrative reform, ten ministries, payroll and state-owned companies found no matching fact-check verdict; no-match is neutral."
+      },
+      {
+        "provider": "Agência Lupa",
+        "url": "https://www.agencialupa.org/",
+        "finding": "no-match",
+        "note": "No directly matching Lupa verdict was found for the platform comparison or the 2027 payroll figure; no-match is neutral and not evidence that the proposals are feasible."
+      },
+      {
+        "provider": "Projeto Comprova",
+        "url": "https://projetocomprova.com.br/",
+        "finding": "no-match",
+        "note": "No Comprova fact-check was found for the candidates' administrative-reform platforms; no-match is neutral."
+      },
+      {
+        "provider": "TSE Fato ou Boato",
+        "url": "https://www.tse.jus.br/comunicacao/noticias/fato-ou-boato",
+        "finding": "no-match",
+        "note": "No election-misinformation verdict was found for this attributed policy-platform comparison; no-match is neutral."
+      },
+      {
+        "provider": "AFP Fact Check",
+        "url": "https://factcheck.afp.com/",
+        "finding": "no-match",
+        "note": "English and Portuguese searches found no AFP verdict addressing these candidates' administrative-reform proposals; no-match is neutral."
+      },
+      {
+        "provider": "Reuters Fact Check",
+        "url": "https://www.reuters.com/fact-check/",
+        "finding": "no-match",
+        "note": "No directly matching Reuters fact-check was found for the dated platform comparison; no-match is neutral."
+      },
+      {
+        "provider": "Full Fact",
+        "url": "https://fullfact.org/",
+        "finding": "no-match",
+        "note": "English searches found no Full Fact verdict for the Brazilian administrative-reform claims; no-match is neutral."
+      },
+      {
+        "provider": "Google Fact Check Tools",
+        "url": "https://toolbox.google.com/factcheck/explorer",
+        "finding": "inconclusive",
+        "note": "No exact indexed ClaimReview record surfaced, and the public claims-search API returned HTTP 403 in this run; this is not evidence for or against the article."
+      }
+    ],
+    "caveat": "The report is a sourced comparison of campaign platforms, not an audit of whether candidates can enact the proposals. The 0.6% payroll figure and platform details remain dependent on the complete Valor report and its review of candidate documents; feasibility and fiscal effects are unresolved."
+  }
+}

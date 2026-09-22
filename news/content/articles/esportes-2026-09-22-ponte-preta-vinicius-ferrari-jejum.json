@@ -1,0 +1,71 @@
+{
+  "id": "esportes-2026-09-22-ponte-preta-vinicius-ferrari-jejum",
+  "slug": "esportes-2026-09-22-ponte-preta-vinicius-ferrari-jejum",
+  "section": "esportes",
+  "secondarySections": [],
+  "publishedAt": "2026-09-22T07:00:00.388-03:00",
+  "publishedDate": "2026-09-22",
+  "updatedAt": "2026-09-22T13:17:34.573Z",
+  "sources": [
+    {
+      "name": "ge.globo.com",
+      "url": "https://ge.globo.com/sp/campinas-e-regiao/futebol/times/ponte-preta/noticia/2026/09/22/familia-celebra-atuacao-de-goleiro-da-ponte-em-vitoria-que-encerrou-jejum-de-22-jogos-muito-orgulho.ghtml"
+    }
+  ],
+  "rights": {
+    "mode": "original-report"
+  },
+  "translations": {
+    "pt-BR": {
+      "title": "Goleiro Vinicius Ferrari se destaca em vitória da Ponte que encerra jejum de 22 jogos",
+      "summary": "Vinicius fez sete defesas no 1 a 0 sobre o CRB, resultado que tirou a Ponte Preta da maior sequência sem vencer da história da Série B.",
+      "aiSummary": [
+        "Vinicius Ferrari fez sete defesas, quatro delas dentro da área, na vitória por 1 a 0 sobre o CRB.",
+        "A Ponte Preta voltou a vencer depois de 22 partidas e de cinco meses sem triunfo na Série B.",
+        "Brandão marcou o gol, enquanto a família do goleiro acompanhou a atuação nas arquibancadas."
+      ],
+      "paragraphs": [
+        "A Ponte Preta venceu o CRB por 1 a 0 no Moisés Lucarelli e encerrou uma sequência de 22 partidas sem vitória, apontada pela reportagem como a maior da história da Série B. O goleiro Vinicius Ferrari foi decisivo no resultado.",
+        "Formado nas categorias de base do clube, Vinicius fez sete defesas, quatro delas dentro da área. O CRB criou oportunidades para marcar, mas o goleiro sustentou a vantagem construída pela Ponte durante a partida.",
+        "Brandão marcou ainda no primeiro tempo e garantiu o placar. O técnico Gilson Kleina afirmou que Vinicius resolveu o jogo com intervenções importantes e segurança diante das finalizações do adversário.",
+        "A atuação foi acompanhada nas tribunas pelos pais do goleiro, Paulo César e Daniela Ferrari. O pai disse que o desempenho teve significado especial por representar uma etapa importante da trajetória do filho em um clube centenário.",
+        "Vinicius ganhou espaço no time profissional depois da saída de Diogo Silva, em meio à crise financeira da Ponte, que dificultou a busca por alternativas no mercado. Antes da vitória, a equipe vinha de cinco meses sem vencer na Série B e de uma derrota por 6 a 0 para o Londrina."
+      ]
+    },
+    "en": {
+      "title": "Goalkeeper Vinicius Ferrari stars as Ponte Preta end 22-game winless run",
+      "summary": "Vinicius made seven saves in the 1-0 win over CRB, ending Ponte Preta’s longest winless streak in Serie B history.",
+      "aiSummary": [
+        "Vinicius Ferrari made seven saves, including four inside the box, in the 1-0 win over CRB.",
+        "Ponte Preta won again after 22 matches and five months without a Serie B victory.",
+        "Brandão scored the goal while the goalkeeper’s family watched from the stands."
+      ],
+      "paragraphs": [
+        "Ponte Preta beat CRB 1-0 at Moisés Lucarelli to end a 22-match winless run, described by the report as the longest in Serie B history. Goalkeeper Vinicius Ferrari was central to the result.",
+        "A product of the club’s youth system, Vinicius made seven saves, four of them inside the box. CRB created chances, but the goalkeeper protected the lead Ponte had built during the match.",
+        "Brandão scored in the first half to secure the result. Coach Gilson Kleina said Vinicius decided the game with important interventions and a steady performance against the visitors’ shots.",
+        "The goalkeeper’s parents, Paulo César and Daniela Ferrari, watched from the stands. His father said the performance was especially meaningful because it represented an important step in his son’s path at a century-old club.",
+        "Vinicius moved into the professional team after Diogo Silva left, during a financial crisis that limited Ponte’s ability to seek alternatives in the market. Before the win, the team had gone five months without a Serie B victory and had lost 6-0 to Londrina."
+      ]
+    }
+  },
+  "verification": {
+    "score": 9,
+    "checkedAt": "2026-09-22T12:28:11Z",
+    "checks": [
+      {
+        "provider": "ge.globo.com",
+        "url": "https://ge.globo.com/sp/campinas-e-regiao/futebol/times/ponte-preta/noticia/2026/09/22/familia-celebra-atuacao-de-goleiro-da-ponte-em-vitoria-que-encerrou-jejum-de-22-jogos-muito-orgulho.ghtml",
+        "finding": "supports",
+        "note": "Complete local extraction was status 200 with complete=true. It directly reports Ponte Preta 1-0 CRB, Brandao's goal, Vinicius Ferrari's seven saves including four inside the area, the 22-match winless run, his youth-system background, and the family quotations."
+      },
+      {
+        "provider": "CBF",
+        "url": "https://www.cbf.com.br/futebol-brasileiro/noticias/campeonato-brasileiro-serie-b/a/ponte-preta-volta-a-vencer-apos-22-jogos-sem-vitoria-na-serie-b",
+        "finding": "supports",
+        "note": "CBF's contemporaneous Serie B report independently confirms Ponte Preta's 1-0 win over CRB and the end of the 22-game winless sequence. It corroborates the central result and streak, while the goalkeeper-save count remains sourced to ge."
+      }
+    ],
+    "caveat": "The match result and streak have independent CBF corroboration; player-save statistics, family reactions, and career details rely on the complete ge report."
+  }
+}

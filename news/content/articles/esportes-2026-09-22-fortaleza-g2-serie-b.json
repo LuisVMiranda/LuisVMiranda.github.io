@@ -1,0 +1,77 @@
+{
+  "id": "esportes-2026-09-22-fortaleza-g2-serie-b",
+  "slug": "esportes-2026-09-22-fortaleza-g2-serie-b",
+  "section": "esportes",
+  "secondarySections": [],
+  "publishedAt": "2026-09-21T16:31:40-03:00",
+  "publishedDate": "2026-09-21",
+  "updatedAt": "2026-09-22T13:17:34.573Z",
+  "sources": [
+    {
+      "name": "www.opovo.com.br",
+      "url": "https://www.opovo.com.br/esportes/futebol/times/fortaleza/2026/09/21/fortaleza-tera-sequencia-decisiva-em-casa-para-se-firmar-no-g-2-da-serie-b.html"
+    }
+  ],
+  "rights": {
+    "mode": "original-report"
+  },
+  "translations": {
+    "pt-BR": {
+      "title": "Fortaleza terá sequência em casa para consolidar posição no G-2 da Série B",
+      "summary": "Invicto há dez jogos, time soma 51 pontos e terá Athletic, Náutico e América-MG na sequência.",
+      "aiSummary": [
+        "O Fortaleza está invicto há dez jogos e ocupa a segunda posição da Série B com 51 pontos.",
+        "A equipe venceu apenas um dos quatro últimos jogos em casa e empatou os outros três por 1 a 1.",
+        "A sequência inclui Athletic, Náutico e América-MG antes de novos desafios na competição."
+      ],
+      "paragraphs": [
+        "O Fortaleza chega a uma sequência decisiva como mandante depois de dez jogos de invencibilidade na Série B. O time ganhou três partidas consecutivas fora de casa e terá a oportunidade de consolidar a presença no G-2 com o apoio da torcida.",
+        "O desempenho na Arena Castelão ainda precisa melhorar. Nos quatro jogos mais recentes no estádio, o Fortaleza venceu o Avaí por 1 a 0 e empatou por 1 a 1 com São Bernardo, Operário e Ceará.",
+        "Ao fim da 29ª rodada, o Tricolor assumiu a segunda posição com 51 pontos, mesma pontuação do líder Vila Nova, que leva vantagem pelo número de vitórias. O time também abriu seis pontos sobre o CRB, sétimo colocado.",
+        "Projeção do Departamento de Matemática da Universidade Federal de Minas Gerais, atualizada a cada rodada, apontou 24,2% de chance de título, 45,2% de acesso direto e 45,8% de presença no playoff para o Fortaleza.",
+        "A próxima sequência começa contra o Athletic, 12º colocado, e inclui o Náutico, 15º, além do América-MG, vice-lanterna. A avaliação da reportagem é que três partidas podem alterar a disputa por acesso e manter vivo o objetivo do título."
+      ]
+    },
+    "en": {
+      "title": "Fortaleza face decisive home run to strengthen Serie B top-two place",
+      "summary": "Unbeaten in ten matches, the team have 51 points and will face Athletic, Náutico and América-MG next.",
+      "aiSummary": [
+        "Fortaleza are unbeaten in ten matches and sit second in Serie B with 51 points.",
+        "The team have won only one of their last four home games and drew the other three 1-1.",
+        "The next sequence includes Athletic, Náutico and América-MG before further league tests."
+      ],
+      "paragraphs": [
+        "Fortaleza enter a decisive home stretch after going ten matches unbeaten in Serie B. The team have won three away games in a row and now have a chance to strengthen their top-two position in front of their supporters.",
+        "Their record at Arena Castelão still needs improvement. In the four most recent home matches, Fortaleza beat Avaí 1-0 and drew 1-1 with São Bernardo, Operário and Ceará.",
+        "After round 29, the Tricolor moved into second place with 51 points, level with leaders Vila Nova, who lead on the number of wins. Fortaleza are also six points above seventh-placed CRB.",
+        "A projection by the Federal University of Minas Gerais mathematics department, updated after each round, gave Fortaleza a 24.2 percent chance of the title, a 45.2 percent chance of direct promotion and a 45.8 percent chance of reaching the playoff.",
+        "The next sequence starts against 12th-placed Athletic and includes Náutico in 15th, as well as bottom-two side América-MG. The report says the three matches could reshape the promotion race while keeping the title objective alive."
+      ]
+    }
+  },
+  "verification": {
+    "score": 8.8,
+    "checkedAt": "2026-09-22T12:28:11Z",
+    "checks": [
+      {
+        "provider": "O Povo",
+        "url": "https://www.opovo.com.br/esportes/futebol/times/fortaleza/2026/09/21/fortaleza-tera-sequencia-decisiva-em-casa-para-se-firmar-no-g-2-da-serie-b.html",
+        "finding": "supports",
+        "note": "Complete local extraction was status 200 with complete=true. It reports the ten-match unbeaten run, three straight away wins, the 1-0 Avaí result and three 1-1 home draws, second place with 51 points, the six-point gap to CRB, the 29th-round timing, and the Athletic, Náutico, and América-MG sequence."
+      },
+      {
+        "provider": "UFMG Departamento de Matematica",
+        "url": "https://www.mat.ufmg.br/futebol/classificacao-geral-serie-b/",
+        "finding": "context",
+        "note": "UFMG's official probability table confirms Fortaleza's 51 points and second-place competition context. Its later page snapshot has updated probabilities, so it is not used to overwrite the article's dated 24.2% title, 45.2% direct-access, and 45.8% playoff figures."
+      },
+      {
+        "provider": "Jornal do Comercio/UOL",
+        "url": "https://jc.uol.com.br/blogs/torcedor/2026/09/21/fortaleza-pode-ser-campeao-brasileiro-na-serie-b-veja-as-chances-de-acesso.html",
+        "finding": "supports",
+        "note": "Independent reporting from the same post-29th-round period repeats the 24.2% title, 45.2% direct-access, and 45.8% playoff probabilities attributed to UFMG."
+      }
+    ],
+    "caveat": "The table facts and time-specific UFMG probabilities are corroborated. Probability values are snapshots that can change after later matches; the apparent difference from the current UFMG page is temporal, not an unresolved contradiction."
+  }
+}

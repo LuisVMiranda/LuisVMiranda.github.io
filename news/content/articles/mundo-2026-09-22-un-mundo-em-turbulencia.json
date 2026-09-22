@@ -1,0 +1,107 @@
+{
+  "id": "mundo-2026-09-22-un-mundo-em-turbulencia",
+  "slug": "mundo-2026-09-22-un-mundo-em-turbulencia",
+  "section": "mundo",
+  "secondarySections": [],
+  "publishedAt": "2026-09-22T04:08:38Z",
+  "publishedDate": "2026-09-22",
+  "updatedAt": "2026-09-22T13:17:34.573Z",
+  "sources": [
+    {
+      "name": "Associated Press",
+      "url": "https://apnews.com/article/united-nations-general-assembly-unga-trump-war-83dfe88eaf541fdcef3a4758010bef6e"
+    }
+  ],
+  "rights": {
+    "mode": "original-report"
+  },
+  "translations": {
+    "pt-BR": {
+      "title": "Diplomatas chegam à Assembleia Geral da ONU em meio a um mundo mais instável",
+      "summary": "Guerras, economia em transformação e mudanças na ordem internacional dominam a abertura da Assembleia Geral da ONU, segundo diplomatas ouvidos pela Associated Press.",
+      "aiSummary": [
+        "A abertura da Assembleia Geral ocorre sob o impacto de guerras na Europa e no Oriente Médio e de uma economia global instável.",
+        "António Guterres disse que a mudança de poder exige instituições internacionais capazes de se adaptar.",
+        "Autoridades esperam usar a semana de reuniões para tratar de segurança marítima, inteligência artificial e impasses diplomáticos."
+      ],
+      "paragraphs": [
+        "A Associated Press relatou que chefes de Estado, ministros e diplomatas chegam a Nova York para a Assembleia Geral das Nações Unidas descrevendo um cenário internacional marcado por turbulência. A reportagem destaca duas guerras em escalada, uma economia global em movimento e uma ordem mundial em transformação.",
+        "O secretário-geral da ONU, António Guterres, afirmou que os líderes se reúnem em uma era de profunda incerteza. Segundo ele, o poder está mudando e as instituições internacionais precisam mudar junto com o mundo, uma avaliação que resume a pressão sobre o encontro anual.",
+        "A reportagem também relembra acontecimentos dos nove meses anteriores, incluindo a operação militar dos Estados Unidos que retirou Nicolás Maduro do poder na Venezuela, a repressão no Irã e o ataque conjunto de Estados Unidos e Israel contra Teerã. O texto registra ainda que o conflito regional resultante levou ao fechamento efetivo de uma via navegável considerada crítica.",
+        "Na Europa, a guerra entre Rússia e Ucrânia continua sem solução, enquanto tentativas diplomáticas não romperam o impasse. A AP também cita o surto de Ebola na República Democrática do Congo e em Uganda, terremotos na Venezuela e na Colômbia e enchentes no Nepal e no Tibete como sinais de uma agenda internacional sobreposta por crises.",
+        "Autoridades ouvidas sob condição de anonimato esperam que discursos e encontros paralelos ajudem a tratar de segurança marítima no estreito de Ormuz e dos riscos associados ao avanço acelerado da inteligência artificial. O ministro das Relações Exteriores da Eslovênia, Tone Kajzer, resumiu o desafio como a necessidade de alinhar interesses para viver em paz, e não em conflito permanente."
+      ]
+    },
+    "en": {
+      "title": "Diplomats arrive at U.N. General Assembly amid a more unstable world",
+      "summary": "Wars, a changing global economy and shifts in the international order dominate the opening of the U.N. General Assembly, diplomats told The Associated Press.",
+      "aiSummary": [
+        "The General Assembly opens under the impact of wars in Europe and the Middle East and an unstable global economy.",
+        "António Guterres said shifting power requires international institutions that can adapt.",
+        "Officials hope to use the week of meetings to address maritime security, artificial intelligence and diplomatic deadlocks."
+      ],
+      "paragraphs": [
+        "The Associated Press reported that heads of state, ministers and diplomats are arriving in New York for the United Nations General Assembly describing an international landscape marked by turmoil. The report highlights two escalating wars, a shifting global economy and a changing world order.",
+        "U.N. Secretary-General António Guterres said leaders are gathering in an era of deep uncertainty. He said power is shifting and international institutions must change with the world, an assessment that captures the pressure on the annual meeting.",
+        "The report also revisits events from the previous nine months, including a U.S. military operation that removed Nicolás Maduro from power in Venezuela, a crackdown in Iran and a joint U.S.-Israeli attack on Tehran. It says the resulting regional conflict has effectively closed a critical waterway.",
+        "In Europe, the war between Russia and Ukraine continues without a settlement, while diplomatic efforts have failed to break the deadlock. The AP also cites an Ebola outbreak in the Democratic Republic of Congo and Uganda, earthquakes in Venezuela and Colombia, and flash floods in Nepal and Tibet as overlapping items on the international agenda.",
+        "Officials interviewed on condition of anonymity hope speeches and sideline meetings can address maritime security in the Strait of Hormuz and risks linked to the rapid development of artificial intelligence. Slovenia’s Foreign Minister Tone Kajzer described the challenge as aligning interests so countries can live in peace rather than permanent conflict."
+      ]
+    }
+  },
+  "verification": {
+    "score": 8.2,
+    "checkedAt": "2026-09-22T12:25:05Z",
+    "checks": [
+      {
+        "provider": "Associated Press",
+        "url": "https://apnews.com/article/united-nations-general-assembly-unga-trump-war-83dfe88eaf541fdcef3a4758010bef6e",
+        "finding": "supports",
+        "note": "Complete source extraction directly reports the central overview: diplomats describe an unstable international environment, Guterres describes deep uncertainty, and the UN week is expected to address conflicts, maritime security and AI."
+      },
+      {
+        "provider": "United Nations",
+        "url": "https://www.un.org/en/high-level-week-2026",
+        "finding": "supports",
+        "note": "The official UN page corroborates the 80th General Assembly high-level meeting setting and the timing of the diplomatic program; it does not independently verify every crisis characterization in the AP overview."
+      },
+      {
+        "provider": "Aos Fatos",
+        "url": "https://www.aosfatos.org/",
+        "finding": "no-match",
+        "note": "No directly matching Portuguese fact-check for the article's central overview was found in source-restricted searches; no-match is neutral and not evidence of accuracy."
+      },
+      {
+        "provider": "Agência Lupa",
+        "url": "https://www.agencialupa.org/",
+        "finding": "no-match",
+        "note": "No directly matching Lupa fact-check was found for the UN overview or its attributed diplomatic assessments; no-match is neutral."
+      },
+      {
+        "provider": "AFP Fact Check",
+        "url": "https://factcheck.afp.com/",
+        "finding": "no-match",
+        "note": "No directly matching AFP fact-check for the article's central UN-world-turmoil overview was confirmed; no-match is neutral."
+      },
+      {
+        "provider": "Reuters Fact Check",
+        "url": "https://www.reuters.com/fact-check/",
+        "finding": "no-match",
+        "note": "No directly matching Reuters Fact Check result was confirmed for the central UN-world-turmoil claim; no-match is neutral."
+      },
+      {
+        "provider": "Full Fact",
+        "url": "https://fullfact.org/",
+        "finding": "no-match",
+        "note": "No directly matching Full Fact adjudication was found for the article's attributed diplomatic overview; this does not establish truth or falsity."
+      },
+      {
+        "provider": "Google Fact Check Explorer",
+        "url": "https://toolbox.google.com/factcheck/explorer",
+        "finding": "no-match",
+        "note": "No exact ClaimReview record for the central overview was confirmed in the public explorer search; no-match is neutral."
+      }
+    ],
+    "caveat": "The AP report is fully extracted and its setting and attributed quotations are supported by the UN meeting context. The article also summarizes multiple conflicts, disasters and geopolitical developments; the AFP result is related context rather than an independent verdict on all of those claims."
+  }
+}

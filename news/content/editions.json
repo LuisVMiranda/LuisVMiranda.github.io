@@ -268,5 +268,140 @@
       }
     },
     "leadArticleId": "openai-brasil-eleicoes-2026"
+  },
+  {
+    "id": "2026-09-22",
+    "cutoff": "2026-09-22T11:21:20.336Z",
+    "sections": {
+      "brasil": {
+        "articleIds": [
+          "brasil-2026-09-22-helicoptero-rick-buscas",
+          "brasil-2026-09-22-alerta-ventos-rio",
+          "brasil-2026-09-22-quaest-pesquisa-presidente",
+          "brasil-2026-09-22-turma-kn-master",
+          "brasil-2026-09-22-investigacao-isabelle-caracristi",
+          "brasil-2026-09-22-pe-de-meia-sexta-parcela",
+          "brasil-2026-09-22-futebol-feminino-corinthians-bahia",
+          "brasil-2026-09-22-tst-correios",
+          "brasil-2026-09-22-jet-ski-maceio",
+          "brasil-2026-09-22-ibge-mapas-mundi"
+        ],
+        "shortfall": "",
+        "shortfallEn": ""
+      },
+      "mundo": {
+        "articleIds": [
+          "mundo-2026-09-22-un-mundo-em-turbulencia",
+          "mundo-2026-09-22-g7-exige-fim-apoio-houthis",
+          "mundo-2026-09-22-bomba-segunda-guerra-falmouth",
+          "mundo-2026-09-22-norte-coreia-sistema-hipersonico",
+          "mundo-2026-09-22-coreia-denuclearizacao-gradual",
+          "mundo-2026-09-22-mercados-globais-alta",
+          "mundo-2026-09-22-gloriavale-perde-status-caridade",
+          "cultura-2026-09-22-burberry-london-fashion-week",
+          "mundo-2026-09-22-trump-mamdani-encontro",
+          "mundo-2026-09-22-falha-controle-trafego-britanico"
+        ],
+        "shortfall": "",
+        "shortfallEn": ""
+      },
+      "politica": {
+        "articleIds": [
+          "politica-2026-09-22-lula-onu-contraponto",
+          "politica-2026-09-22-camara-jornada-hibrida",
+          "politica-2026-09-22-agu-janja-representacao",
+          "politica-2026-09-22-quaest-empate",
+          "politica-2026-09-22-guia-roupa-votacao",
+          "politica-2026-09-22-reforma-administrativa",
+          "politica-2026-09-22-lula-trump-reciprocidade",
+          "politica-2026-09-22-lula-mamdani",
+          "politica-2026-09-22-gonet-csmpf",
+          "politica-2026-09-22-ipsos-ipec-governo"
+        ],
+        "shortfall": "",
+        "shortfallEn": ""
+      },
+      "economia": {
+        "articleIds": [
+          "economia-2026-09-22-bolsas-asia-petroleo",
+          "economia-2026-09-22-simples-nacional-prazo",
+          "economia-2026-09-22-stf-publicidade-bets",
+          "economia-2026-09-22-wall-street-ia",
+          "economia-2026-09-22-bitcoin-86-mil",
+          "economia-2026-09-22-industria-agosto-cni",
+          "economia-2026-09-22-eneva-termeletricas",
+          "economia-2026-09-22-bc-demonstracoes-financeiras",
+          "economia-2026-09-22-senacon-postos-combustiveis",
+          "economia-2026-09-22-amazon-agente-ia"
+        ],
+        "shortfall": "",
+        "shortfallEn": ""
+      },
+      "tecnologia": {
+        "articleIds": [
+          "custos-ia-modelos-mais-baratos-2026-09-22",
+          "amazon-bloqueia-muse-meta",
+          "gpt6-astra-codigo-secreto-2026-09-22",
+          "nvidia-huang-apocalipse-ia-2026-09-21",
+          "california-regras-data-centers-ia-2026-09-21",
+          "lideres-seguranca-ia-onu-2026-09-21",
+          "amd-trilhao-infraestrutura-ia-2026-09-21",
+          "ia-roi-gartner-2026-09-21",
+          "openai-hacktron-teste-seguranca-2026-09-21",
+          "anel-ia-reunioes-privacidade-2026-09-21"
+        ],
+        "shortfall": "",
+        "shortfallEn": ""
+      },
+      "ciencia": {
+        "articleIds": [
+          "ciencia-2026-09-22-morte-celular",
+          "ciencia-2026-09-22-alinhamento-apod",
+          "ciencia-2026-09-22-pinguim-gentoo",
+          "ciencia-2026-09-22-estim-nasa",
+          "ciencia-2026-09-22-primavera-astronomia",
+          "ciencia-2026-09-22-cpqba-unicamp",
+          "ciencia-2026-09-22-florestas-terapeuticas",
+          "ciencia-2026-09-22-matrizes-cultura-celular",
+          "ciencia-2026-09-22-musica-escolhas-alimentares",
+          "ciencia-2026-09-22-ouro-rios-erosao"
+        ],
+        "shortfall": "",
+        "shortfallEn": ""
+      },
+      "cultura": {
+        "articleIds": [
+          "cultura-2026-09-22-burberry-london-fashion-week",
+          "cultura-2026-09-22-indian-craftsmanship-fashion",
+          "cultura-2026-09-22-daisy-edgar-jones-sense-sensibility",
+          "cultura-2026-09-22-agatha-christie-exhibition",
+          "cultura-2026-09-22-sao-paulo-grafite-lei",
+          "cultura-2026-09-22-cnpc-eleicao-cultura",
+          "cultura-2026-09-22-historia-de-taipei-livro",
+          "cultura-2026-09-22-chico-science-megamural",
+          "cultura-2026-09-22-cate-blanchett-theatre",
+          "cultura-2026-09-22-salman-toor-courtauld"
+        ],
+        "shortfall": "",
+        "shortfallEn": ""
+      },
+      "esportes": {
+        "articleIds": [
+          "esportes-2026-09-22-ponte-preta-vinicius-ferrari-jejum",
+          "esportes-2026-09-22-cicinho-iac-auxiliar",
+          "esportes-2026-09-22-vini-jr-criticas-atletico-real",
+          "esportes-2026-09-22-nautico-crise-classico-sport",
+          "esportes-2026-09-22-paratletas-ceara-parascesc",
+          "esportes-2026-09-22-santos-atraso-pagamentos",
+          "esportes-2026-09-22-copa-brasil-pagamentos-2027",
+          "esportes-2026-09-22-fortaleza-g2-serie-b",
+          "esportes-2026-09-22-santa-teresa-fc-base-feminino",
+          "esportes-2026-09-22-nfl-rio-operacao-maracana"
+        ],
+        "shortfall": "",
+        "shortfallEn": ""
+      }
+    },
+    "leadArticleId": "brasil-2026-09-22-helicoptero-rick-buscas"
   }
 ]

@@ -1,0 +1,112 @@
+{
+  "id": "cultura-2026-09-22-indian-craftsmanship-fashion",
+  "slug": "cultura-2026-09-22-indian-craftsmanship-fashion",
+  "section": "cultura",
+  "secondarySections": [],
+  "publishedAt": "2026-09-22T06:30:37.000Z",
+  "updatedAt": "2026-09-22T13:17:34.573Z",
+  "sources": [
+    {
+      "name": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/sep/21/the-indian-craftsmanship-behind-luxury-fashion"
+    }
+  ],
+  "rights": {
+    "mode": "original-report"
+  },
+  "translations": {
+    "pt-BR": {
+      "title": "Artesanato indiano ganha visibilidade por trás da moda de luxo global",
+      "summary": "Ateliês, escolas e parcerias com grifes colocam técnicas transmitidas por gerações no centro do debate sobre crédito e preservação cultural.",
+      "aiSummary": [
+        "A Chanakya International reúne uma rede de 1.400 artesãos e celebrou 40 anos com três exposições.",
+        "Técnicas como a renda de filigrana chaand jaal voltaram a aparecer em coleções de alta-costura.",
+        "Parcerias recentes também ampliaram a cobrança por crédito, formação e reconhecimento dos artesãos."
+      ],
+      "paragraphs": [
+        "Durante décadas, técnicas indianas de bordado, couro e trabalho de espelhos apareceram em produtos de grandes grifes sem que os artesãos ocupassem o mesmo espaço de visibilidade. Essa relação começou a mudar com iniciativas que apresentam o ofício como patrimônio cultural e como parte central do processo criativo da moda.",
+        "A Chanakya International, ateliê de tecidos e bordados sediado em Mumbai, completou 40 anos e marcou a data com três exposições sobre sua passagem de potência de bordado a instituição de artesanato e cultura. A organização é conduzida por Karishma Swali, cujo pai estruturou as operações do grupo nos anos 1980.",
+        "A rede ligada à Chanakya reúne 1.400 artesãos, alguns da 13ª geração, especializados em centenas de tradições. Entre as técnicas recuperadas está a chaand jaal, uma renda de filigrana prateada associada ao período mogol e adaptada para novas aplicações em coleções de alta-costura. O trabalho também sustentou uma parceria apresentada em um desfile da Dior em Mumbai, em 2023.",
+        "A preservação depende de instituições e de relações de longo prazo. O Kalhath Institute, em Lucknow, promove residências que aproximam artistas de diferentes países e artesãos locais, enquanto a joalheria Gem Palace, criada em 1852 pela família Kasliwal, continua usando técnicas e motivos ligados à tradição indiana. Ao mesmo tempo, críticas a peças de Ralph Lauren e Fendi mostraram que a visibilidade não elimina a disputa por crédito e origem.",
+        "A Chanakya School of Craft, criada por Swali em 2016, oferece formação gratuita de 18 meses e ajuda de viagem a dezenas de mulheres. Algumas passaram a trabalhar no ateliê principal; outras abriram estúdios próprios. O modelo reúne alunas jovens e artesãs mais velhas e procura transformar um conhecimento historicamente transmitido de forma intergeracional em uma oportunidade profissional mais reconhecida."
+      ]
+    },
+    "en": {
+      "title": "Indian craftsmanship gains visibility behind global luxury fashion",
+      "summary": "Ateliers, schools and brand partnerships are putting generations-old techniques at the center of debates over credit and cultural preservation.",
+      "aiSummary": [
+        "Chanakya International works with a network of 1,400 artisans and marked its 40th anniversary with three exhibitions.",
+        "Techniques such as chaand jaal silver filigree lace have returned to couture collections.",
+        "Recent partnerships have also increased pressure for credit, training and recognition for craftspeople."
+      ],
+      "paragraphs": [
+        "For decades, Indian embroidery, leatherwork and mirrorwork techniques appeared in products from major luxury labels without giving their makers equal visibility. That relationship is beginning to shift as initiatives present craft as cultural heritage and as a central part of fashion’s creative process.",
+        "Chanakya International, a Mumbai-based textile and embroidery atelier, marked its 40th anniversary with three exhibitions tracing its development from an embroidery powerhouse into a craft and cultural institution. The organization is led by Karishma Swali, whose father established the group’s operations in the 1980s.",
+        "Chanakya’s network includes 1,400 artisans, some of them 13th-generation craftspeople, working across hundreds of traditions. One revived technique is chaand jaal, a silver filigree lace associated with the Mughal era and adapted for new uses in couture. The work also supported a partnership shown at a Dior runway in Mumbai in 2023.",
+        "Preservation depends on institutions and long-term relationships. The Kalhath Institute in Lucknow runs residencies pairing artists from different countries with local artisans, while the Gem Palace, founded by the Kasliwal family in 1852, continues to use techniques and motifs rooted in Indian tradition. At the same time, criticism of pieces by Ralph Lauren and Fendi showed that greater visibility does not settle questions of credit and origin.",
+        "Swali founded the Chanakya School of Craft in 2016, offering free 18-month embroidery training and a travel honorarium to dozens of women. Some have gone on to work at the main atelier, while others have opened independent studios. The model places younger students alongside older craftspeople and turns knowledge transmitted across generations into a more visible professional opportunity."
+      ]
+    }
+  },
+  "verification": {
+    "score": 8.7,
+    "checkedAt": "2026-09-22T12:28:07Z",
+    "checks": [
+      {
+        "provider": "The Guardian",
+        "url": "https://www.theguardian.com/world/2026/sep/21/the-indian-craftsmanship-behind-luxury-fashion",
+        "finding": "supports",
+        "note": "Complete local extraction was HTTP 200 with complete:true and 37 body paragraphs. It supports Chanakya's 40th anniversary, the 1,400-artisan network, named techniques and institutions, credit disputes, and the Chanakya School of Craft."
+      },
+      {
+        "provider": "Aos Fatos",
+        "url": "https://www.aosfatos.org/",
+        "finding": "no-match",
+        "note": "No matching fact-check page surfaced for the Chanakya, Indian-craftsmanship, Dior, Fendi, or Ralph Lauren claims. This no-match is neutral and is not evidence of accuracy."
+      },
+      {
+        "provider": "Agência Lupa",
+        "url": "https://www.agencialupa.org/",
+        "finding": "no-match",
+        "note": "No matching fact-check addressing the article's central craft, credit, or named-institution claims was confirmed. The no-match is neutral."
+      },
+      {
+        "provider": "Projeto Comprova",
+        "url": "https://projetocomprova.com.br/",
+        "finding": "no-match",
+        "note": "No relevant Projeto Comprova fact-check for the Indian craftsmanship or fashion-credit claims was found. The result is neutral."
+      },
+      {
+        "provider": "TSE Fato ou Boato",
+        "url": "https://www.tse.jus.br/comunicacao/noticias/fato-ou-boato",
+        "finding": "no-match",
+        "note": "No civic or election-related fact-check is relevant to this cultural feature; no matching item was found. The no-match is neutral."
+      },
+      {
+        "provider": "AFP Fact Check",
+        "url": "https://factcheck.afp.com/",
+        "finding": "no-match",
+        "note": "No matching AFP fact-check for the article's central craft-network, date, or credit claims was confirmed. This no-match is neutral."
+      },
+      {
+        "provider": "Reuters Fact Check",
+        "url": "https://www.reuters.com/fact-check/",
+        "finding": "no-match",
+        "note": "No matching Reuters fact-check for Chanakya, the named collaborations, or the appropriation claims was confirmed. This no-match is neutral."
+      },
+      {
+        "provider": "Full Fact",
+        "url": "https://fullfact.org/",
+        "finding": "no-match",
+        "note": "No relevant Full Fact item addressing the article's cultural or fashion-industry claims was found. The no-match is neutral."
+      },
+      {
+        "provider": "Google Fact Check Explorer",
+        "url": "https://toolbox.google.com/factcheck/explorer",
+        "finding": "inconclusive",
+        "note": "No exact indexed ClaimReview record was confirmed in the Explorer searches used for this claim; coverage is incomplete, so this is not evidence for or against the article."
+      }
+    ],
+    "caveat": "The complete Guardian feature is the main evidence and attributes network size, generational lineage, collaborations, and criticism to the reported institutions and interviewees. The article is a reported cultural feature, not an independently audited inventory of every figure."
+  }
+}

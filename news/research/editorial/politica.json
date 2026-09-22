@@ -1,113 +1,122 @@
 {
   "section": "politica",
-  "cutoff": "2026-09-21T16:48:24.436Z",
-  "queries": [],
+  "cutoff": "2026-09-22T11:21:20.336Z",
+  "queries": [
+    "Política notícias Brasil",
+    "Politics latest news Brazil",
+    "política brasileira Congresso governo eleições notícias recentes",
+    "Brazil politics Congress Supreme Court government latest news",
+    "Brasil política governo Congresso STF eleições notícias",
+    "site:g1.globo.com/politica política Brasil",
+    "site:valorinternational.globo.com/politics Brazil politics",
+    "site:cnnbrasil.com.br/politica política Brasil"
+  ],
   "verified": [
     {
-      "articleId": "politica-stf-moraes-vorcaro-jato",
-      "url": "https://valorinternational.globo.com/politics/news/2026/09/21/new-disclosure-deepens-turmoil-at-brazils-supreme-court.ghtml",
-      "publishedAt": "2026-09-21T08:01:37.995-03:00",
-      "evidence": "Complete extraction file(s) 5cdcd8592225.json, 05b53931e8e6.json (HTTP 200, complete:true), published 2026-09-21; The complete Valor extraction reports renewed scrutiny of the STF after a video showing Alexandre de Moraes and Viviane Barci de Moraes using a jet attributed by federal police to Prime You, links the disclosure to messages from Daniel Vorcaro’s cellphone, describes uncertainty over Banco Master proceedings, and records the law firm’s response. The complete CNN extraction independently reports the video, aircraft link, and the same law-firm explanation. Independent corroboration URL included from the complete CNN Brasil extraction; no claim beyond the overlapping video, aircraft attribution, and law-firm response was added.",
-      "selectionReason": "Current, high-impact institutional story with two complete reputable extractions covering the same disclosure; the copy attributes disputed points and includes independent corroboration.",
+      "articleId": "politica-2026-09-22-lula-onu-contraponto",
+      "url": "https://g1.globo.com/politica/noticia/2026/09/22/guerras-soberania-e-democracia-lula-quer-fazer-contraponto-a-trump-em-abertura-de-assembleia-da-onu.ghtml",
+      "publishedAt": "2026-09-22T00:00:00.897-03:00",
+      "evidence": "Complete extraction file 34a2df6ae1e0.json (HTTP 200, complete:true), published 2026-09-22. The G1 extraction reports Lula's planned opening speech at the 81st UN General Assembly, the expected contrast with Donald Trump on democracy, trade and peace, the multilateralism and sovereignty themes, the proposed Security Council reform and Brazil's continued preference for a Latin American woman to succeed António Guterres. The draft keeps expectations attributed to aides and diplomats as expectations rather than completed events.",
+      "selectionReason": "Most current high-impact Brazil public-institutions story in the run: it links the president's scheduled UN address to Brazil's foreign-policy positions and institutional reform agenda without repeating the separate tariff interview or the Mamdani meeting.",
       "contentReview": {
         "bodyComplete": true,
         "aiSummaryReviewed": true
       }
     },
     {
-      "articleId": "politica-gonet-conselho-mpf",
+      "articleId": "politica-2026-09-22-camara-jornada-hibrida",
+      "url": "https://www.cnnbrasil.com.br/politica/camara-reduz-jornada-presencial-dos-servidores-em-periodo-eleitoral/",
+      "publishedAt": "2026-09-22T04:00:48-03:00",
+      "evidence": "Complete extraction file 08b2f58e9430.json (HTTP 200, complete:true), published 2026-09-22. The CNN extraction reports the Chamber directorate-general's exceptional temporary hybrid-work authorization, the maximum of 20 remote hours within a 40-hour week, the stated administrative-cost rationale, the Senate's non-response and the reduced congressional calendar during the election period.",
+      "selectionReason": "Current direct institutional action by the Chamber of Deputies with concrete effects on public administration; selected as a distinct congressional-management story rather than a campaign claim or scandal.",
+      "contentReview": {
+        "bodyComplete": true,
+        "aiSummaryReviewed": true
+      }
+    },
+    {
+      "articleId": "politica-2026-09-22-agu-janja-representacao",
+      "url": "https://www.cnnbrasil.com.br/politica/justica-determina-que-agu-explique-por-que-representa-janja-judicialmente/",
+      "publishedAt": "2026-09-21T22:40:08-03:00",
+      "evidence": "Complete extraction file df17287d8675.json (HTTP 200, complete:true), published 2026-09-21. The CNN extraction reports the Federal District court's 15-day order for AGU to provide the administrative request, legal opinion, authorization act and supporting documents for representing Janja; it identifies the public-interest lawsuit over international-trip spending, the plaintiffs and requested remedies, the AGU's stated basis for acting and the judge's clarification that the order does not yet find an irregularity.",
+      "selectionReason": "Current direct public-institutions story with a concrete federal-court order and a clear procedural boundary. It diversifies the desk with a domestic institutional report and avoids repeating the selected poll or Banco Master coverage.",
+      "contentReview": {
+        "bodyComplete": true,
+        "aiSummaryReviewed": true
+      }
+    },
+    {
+      "articleId": "politica-2026-09-22-quaest-empate",
+      "url": "https://valorinternational.globo.com/politics/news/2026/09/22/lula-flavio-statistically-tied-in-first-round-for-first-time.ghtml",
+      "publishedAt": "2026-09-22T08:06:13.868-03:00",
+      "evidence": "Complete extraction file c50646b3a840.json (HTTP 200, complete:true), published 2026-09-22. The Valor extraction reports the Quaest first-round figures of Lula 37% and Flávio Bolsonaro 33%, the 42%-41% possible runoff, sample size, field dates, margin of error, rejection rates and government approval/disapproval figures. It also records the segment findings used in the draft.",
+      "selectionReason": "The newest election poll in the run provides a distinct first-round and runoff snapshot. Only this one record from the Quaest round was selected; duplicate Quaest extractions and the separate Banco Master perception poll were excluded to avoid repeating one poll or scandal.",
+      "contentReview": {
+        "bodyComplete": true,
+        "aiSummaryReviewed": true
+      }
+    },
+    {
+      "articleId": "politica-2026-09-22-guia-roupa-votacao",
+      "url": "https://g1.globo.com/politica/eleicoes/2026/videos/noticia/2026/09/22/video-eleitor-pode-votar-de-bermuda-e-chinelo.ghtml",
+      "publishedAt": "2026-09-22T00:00:00.674-03:00",
+      "evidence": "Complete extraction file 81d3f96ae398.json (HTTP 200, complete:true), published 2026-09-22. The G1 extraction explains that shorts and flip-flops are allowed, swimwear and entering shirtless are prohibited, political expression must be individual and silent under TSE guidance, and phones, cameras and camera-equipped smart glasses must remain with poll workers during voting.",
+      "selectionReason": "Current low-risk voter-service item with direct public value and explicit attribution to Tribunal Superior Eleitoral guidance; it is separate from the older phone-in-the-booth explainer and contains no disputed allegation.",
+      "contentReview": {
+        "bodyComplete": true,
+        "aiSummaryReviewed": true
+      }
+    },
+    {
+      "articleId": "politica-2026-09-22-reforma-administrativa",
+      "url": "https://valorinternational.globo.com/politics/news/2026/09/21/candidates-offer-few-details-on-administrative-reform.ghtml",
+      "publishedAt": "2026-09-21T17:00:01.186-03:00",
+      "evidence": "Complete extraction file 1dbbc386b2d3.json (HTTP 200, complete:true), published 2026-09-21. The Valor extraction compares the administrative-reform platforms of Lula, Flávio Bolsonaro, Augusto Cury, Ronaldo Caiado, Renan Santos and Romeu Zema, covering ministries, civil-service pay, performance reviews, state-owned companies, privatization and the 2027 payroll proposal.",
+      "selectionReason": "Distinct policy-comparison story with named candidates, public-administration consequences and concrete institutional issues; it broadens the desk beyond polling and the Banco Master-related material.",
+      "contentReview": {
+        "bodyComplete": true,
+        "aiSummaryReviewed": true
+      }
+    },
+    {
+      "articleId": "politica-2026-09-22-lula-trump-reciprocidade",
+      "url": "https://g1.globo.com/politica/eleicoes/2026/noticia/2026/09/21/nos-eua-lula-diz-que-trump-age-como-imperador-e-que-avalia-como-aplicar-reciprocidade-se-negociacao-do-tarifaco-nao-avancar.ghtml",
+      "publishedAt": "2026-09-21T16:36:10.875-03:00",
+      "evidence": "Complete extraction file 6272de6234fc.json (HTTP 200, complete:true), published 2026-09-21. The G1 extraction reports Lula's interview comments on Trump, the preference for negotiation, the possible use of Brazil's Reciprocity Law if tariff talks fail, the formal activation without practical retaliation, the cited 37.5% U.S. surcharge and Lula's position on Venezuela and suspected election interference.",
+      "selectionReason": "Current foreign-policy and trade-policy report based on a named presidential interview and a Congress-approved legal mechanism; selected as a distinct issue from Lula's UN speech and the separate Mamdani meeting.",
+      "contentReview": {
+        "bodyComplete": true,
+        "aiSummaryReviewed": true
+      }
+    },
+    {
+      "articleId": "politica-2026-09-22-lula-mamdani",
+      "url": "https://www.cnnbrasil.com.br/politica/analise-encontro-entre-lula-e-o-prefeito-de-nova-york-e-gesto-para-trump/",
+      "publishedAt": "2026-09-21T17:15:46-03:00",
+      "evidence": "Complete extraction file 1123e7a93875.json (HTTP 200, complete:true), published 2026-09-21. The CNN extraction reports Lula's September 21 meeting with New York Mayor Zohran Mamdani at Brazil's UN ambassadorial residence, the analyst Pedro Venceslau's interpretation of political reciprocity, the UN-speech context and the Corinthians-shirt exchange.",
+      "selectionReason": "Distinct diplomatic encounter involving Brazil's president and a named municipal institution, with analysis clearly attributed to CNN's Pedro Venceslau and separated from established meeting facts.",
+      "contentReview": {
+        "bodyComplete": true,
+        "aiSummaryReviewed": true
+      }
+    },
+    {
+      "articleId": "politica-2026-09-22-gonet-csmpf",
       "url": "https://www.cnnbrasil.com.br/politica/mencoes-a-gonet-no-celular-de-vorcaro-incomodam-membros-do-conselho-do-mp/",
       "publishedAt": "2026-09-21T12:58:36-03:00",
-      "evidence": "Complete extraction file(s) 1270494ab4c8.json (HTTP 200, complete:true), published 2026-09-21; The complete CNN extraction schedules a September 25 CSMPF session about mentions of Paulo Gonet in messages extracted from Daniel Vorcaro’s cellphone, identifies the council’s composition and rapporteur, and records uncertainty about whether the session will address removal, recusal or impartiality. It also attributes confidence to people close to Gonet and describes the defense position. No independent complete extraction in the current politica run verifies this exact CSMPF procedure; the article is limited to attributed procedural facts and positions from the complete CNN report.",
-      "selectionReason": "Current and institutionally relevant procedural report; the draft preserves attribution, distinguishes pending decisions from established facts, and avoids treating the underlying messages as proven misconduct. No independent corroboration was materially necessary for the publicly scheduled institutional procedure because the item makes no finding of misconduct.",
+      "evidence": "Complete extraction file 1270494ab4c8.json (HTTP 200, complete:true), published 2026-09-21. The CNN extraction reports the CSMPF session scheduled for September 25, its composition and rapporteur, the possible procedural outcomes and the uncertainty over whether removal, recusal or impartiality will be discussed. It attributes assessments about the messages to analyst Teo Cury and people close to Gonet and does not establish misconduct.",
+      "selectionReason": "Selected as the desk's single Banco Master/Vorcaro-related scandal entry because it centers on a scheduled public institutional procedure. Other complete records about the same scandal were excluded to avoid repeating one scandal and to preserve attribution around unproven allegations.",
       "contentReview": {
         "bodyComplete": true,
         "aiSummaryReviewed": true
       }
     },
     {
-      "articleId": "politica-dino-publicidade-bets-mg",
-      "url": "https://www.cnnbrasil.com.br/politica/dino-rejeita-liminar-e-mantem-decreto-que-proibe-publicidade-de-bets-em-mg/",
-      "publishedAt": "2026-09-21T12:37:31-03:00",
-      "evidence": "Complete extraction file(s) 623b4bc1ec31.json (HTTP 200, complete:true), published 2026-09-21; The complete CNN extraction reports that Justice Flávio Dino rejected an industry injunction request, upheld Minas Gerais restrictions on betting and adult-content advertising on state property and at events, explained the state-competence reasoning, and summarized the decision’s public-health, consumer and security grounds. No independent complete extraction in the current politica run verifies this specific ruling; it is a low-risk procedural report based on one complete CNN extraction.",
-      "selectionReason": "Current formal court decision with direct public-policy consequences and a complete reputable extraction; the copy reports the ruling and its stated legal reasoning without adding outside claims.",
-      "contentReview": {
-        "bodyComplete": true,
-        "aiSummaryReviewed": true
-      }
-    },
-    {
-      "articleId": "politica-bachelet-onu-mulher-latina",
-      "url": "https://g1.globo.com/politica/noticia/2026/09/21/apos-bachelet-desistir-de-concorrer-a-onu-brasil-defende-que-regiao-tem-mulheres-a-altura-do-cargo.ghtml",
-      "publishedAt": "2026-09-21T08:06:18.924-03:00",
-      "evidence": "Complete extraction file(s) 1a43ffb5b7df.json (HTTP 200, complete:true), published 2026-09-21; The complete G1 extraction reports the Itamaraty statement after Michelle Bachelet withdrew, Brazil’s continued preference for a Latin American woman to succeed António Guterres, the absence of a named replacement, and Lula’s scheduled September 22 UN speech with expectations attributed to interlocutors. No independent complete extraction in the current politica run verifies the Bachelet withdrawal and Brazil’s position; the copy separates the official statement from attributed expectations about Lula’s speech.",
-      "selectionReason": "Current foreign-policy story directly involving Brazil’s diplomatic position and an official Itamaraty statement; pending choices and attributed expectations are clearly labeled. No independent corroboration was materially necessary because the core item is an official diplomatic position, not an allegation or forecast presented as fact.",
-      "contentReview": {
-        "bodyComplete": true,
-        "aiSummaryReviewed": true
-      }
-    },
-    {
-      "articleId": "politica-celular-cabine-votacao",
-      "url": "https://g1.globo.com/politica/eleicoes/2026/videos/noticia/2026/09/21/video-posso-usar-o-celular-durante-a-votacao.ghtml",
-      "publishedAt": "2026-09-21T00:00:00.689-03:00",
-      "evidence": "Complete extraction file(s) 564b635e9a04.json (HTTP 200, complete:true), published 2026-09-21; The complete G1 extraction explains that phones, cameras and other recording or transmission devices are prohibited inside the voting booth, that a phone may be brought to the polling station but must be left with the poll worker, and that refusal can block voting. Routine low-risk voter-service report; one complete reputable G1 extraction is sufficient under the selection rules.",
-      "selectionReason": "Current practical election guidance with clear public-service value and a complete reputable extraction; no disputed allegation or extrapolation is used.",
-      "contentReview": {
-        "bodyComplete": true,
-        "aiSummaryReviewed": true
-      }
-    },
-    {
-      "articleId": "politica-mulheres-representacao-cota-genero",
-      "url": "https://www.correiodopovo.com.br/not%C3%ADcias/pol%C3%ADtica/elei%C3%A7%C3%B5es/nao-basta-assegurar-as-mulheres-o-direito-de-participar-da-politica-e-preciso-criar-condicoes-diz-procuradora-1.1749526",
-      "publishedAt": "2026-09-21T00:00:00.000Z",
-      "evidence": "Complete extraction file(s) 465b7c139197.json (HTTP 200, complete:true), published 2026-09-21; The complete Correio do Povo extraction is dated September 21 and reports a TRE-RS seminar on women’s representation and gender-quota fraud, including chamber representation figures, possible electoral consequences of sham candidacies, violence and harassment concerns, and 2026 voter and candidacy proportions. No independent complete extraction in the current politica run covers this seminar; the source is a complete, dated report and the draft preserves its figures and expert attributions.",
-      "selectionReason": "Current civic-policy report with concrete representation data and a dated institutional event; selected as an in-scope, low-risk democracy and elections story despite calendar-date-only publication metadata.",
-      "contentReview": {
-        "bodyComplete": true,
-        "aiSummaryReviewed": true
-      }
-    },
-    {
-      "articleId": "politica-doacoes-privadas-eleicoes",
-      "url": "https://valorinternational.globo.com/politics/news/2026/09/21/right-center-lead-brazils-private-campaign-fundraising.ghtml",
-      "publishedAt": "2026-09-21T09:24:08.578-03:00",
-      "evidence": "Complete extraction file(s) b34acc2a3a18.json (HTTP 200, complete:true), published 2026-09-21; The complete Valor extraction analyzes open TSE data updated through September 18, reports the leading role of right-wing and centrist parties in private donations, gives the R$415.7 million and R$4.6 billion comparisons, identifies geographic and demographic concentration, and explains reporting deadlines and the 10% cap. No independent complete extraction in the current politica run verifies this dataset analysis; the draft attributes the figures to Valor’s analysis of open TSE data and avoids presenting researchers’ explanations as settled causation.",
-      "selectionReason": "Current election-finance data report from a reputable outlet, grounded in open TSE data and clearly separated from researchers’ interpretations; it adds distinct electoral accountability coverage. The primary-data method is the verification basis, so no second newsroom extraction was materially necessary.",
-      "contentReview": {
-        "bodyComplete": true,
-        "aiSummaryReviewed": true
-      }
-    },
-    {
-      "articleId": "politica-palver-anistia-8-janeiro",
-      "url": "https://www.cnnbrasil.com.br/politica/palver-47-sao-contra-anistia-a-presos-do-8-de-janeiro-46-aprovam/",
-      "publishedAt": "2026-09-21T10:31:07-03:00",
-      "evidence": "Complete extraction file(s) d9d8bcba4c03.json (HTTP 200, complete:true), published 2026-09-21; The complete CNN extraction reports Palver’s 47%-46% result on possible amnesty for people convicted over January 8, the 5,000-person online sample, field dates, margin of error, confidence level and TSE registration, plus the report’s contextual figures on damage. Routine survey-result report; one complete reputable extraction is used, with methodology and registration details preserved and no causal conclusion added.",
-      "selectionReason": "Current, methodologically described election-related result report with a distinct public-opinion angle; the near tie is reported with the stated margin of error and registration details.",
-      "contentReview": {
-        "bodyComplete": true,
-        "aiSummaryReviewed": true
-      }
-    },
-    {
-      "articleId": "politica-lula-neutralidade-centro",
-      "url": "https://valorinternational.globo.com/politics/news/2026/09/21/lula-campaign-courts-centrist-neutrality-for-possible-runoff.ghtml",
-      "publishedAt": "2026-09-21T12:32:29.909-03:00",
-      "evidence": "Complete extraction file(s) 7e92a8c1ce02.json (HTTP 200, complete:true), published 2026-09-21; The complete Valor extraction reports Lula campaign efforts to keep centrist parties neutral in a possible runoff, identifies the reported positions of PSD, União Brasil and Republicanos, notes uncertainty around Progressistas, and describes the October 6 meeting planned to define that party’s national position. No independent complete extraction in the current politica run verifies the internal campaign talks; the draft attributes campaign assessments and party positions to the Valor report and does not present private-source claims as independently confirmed.",
-      "selectionReason": "Current election-strategy report from a reputable political desk, selected because its core points are attributed to named parties or campaign sources and it adds a distinct coalition-building angle without repeating the fundraising or polling stories. No independent corroboration was materially necessary because the copy labels internal talks and party assessments as reported or unconfirmed and makes no claim that a coalition decision is final.",
-      "contentReview": {
-        "bodyComplete": true,
-        "aiSummaryReviewed": true
-      }
-    },
-    {
-      "articleId": "politica-luto-djalma-flores",
-      "url": "https://midiamax.com.br/politica/2026/camara-campo-grande-decreta-luto-3-dias-morte-ex-vereador-djalma-flores/",
-      "publishedAt": "2026-09-21T13:31:44+00:00",
-      "evidence": "Complete extraction file(s) e5b1033466dd.json (HTTP 200, complete:true), published 2026-09-21; The complete Midiamax extraction reports the Campo Grande council’s three-day mourning decree, the gazette publication and half-staff order, and biographical facts about Djalma Flores Blans’s death, medical career, council service and book. Routine low-risk local institutional report; one complete reputable extraction is sufficient, and navigation, promotion and unrelated trending items were excluded.",
-      "selectionReason": "Current, low-risk civic report documenting an official local legislative act; it is distinct from the national election, court and campaign stories and uses only the substantive portion of the complete extraction.",
+      "articleId": "politica-2026-09-22-ipsos-ipec-governo",
+      "url": "https://www.cnnbrasil.com.br/politica/ipsos-ipec-governo-lula-tem-saldo-negativo-em-todas-as-areas/",
+      "publishedAt": "2026-09-21T14:31:11-03:00",
+      "evidence": "Complete extraction file 7577104124a1.json (HTTP 200, complete:true), published 2026-09-21. The CNN extraction reports Ipsos-Ipec's ratings of spending control, inflation, security, education and hunger/poverty, along with the sample of 2,000 voters in 130 municipalities, September 9-13 fieldwork, two-point margin and 95% confidence level.",
+      "selectionReason": "A distinct public-policy evaluation poll covering government performance by policy area rather than presidential vote intention. It adds accountability coverage without repeating the selected Quaest horse-race poll or the excluded Banco Master poll.",
       "contentReview": {
         "bodyComplete": true,
         "aiSummaryReviewed": true
@@ -119,7 +128,7 @@
     "en": ""
   },
   "improvements": [],
-  "candidateRun": "research/runs/2026-09-21T16-48-24-436Z-221c0d1e-a836-45cb-b034-62c6ef37c843",
-  "retrievedAt": "2026-09-21T18:03:53.289Z",
+  "candidateRun": "research/runs/2026-09-22T11-21-20-336Z-6df281a2-9343-4cb7-a1b3-001b9e9a3dde",
+  "retrievedAt": "2026-09-22T11:21:27.718Z",
   "reviewStatus": "draft-source-verified-no-publication-approval"
 }

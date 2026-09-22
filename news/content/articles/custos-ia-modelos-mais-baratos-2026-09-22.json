@@ -1,0 +1,118 @@
+{
+  "id": "custos-ia-modelos-mais-baratos-2026-09-22",
+  "slug": "custos-ia-modelos-mais-baratos-2026-09-22",
+  "section": "tecnologia",
+  "secondarySections": [],
+  "publishedAt": "2026-09-22T10:55:56.325Z",
+  "updatedAt": "2026-09-22T13:17:34.573Z",
+  "sources": [
+    {
+      "name": "Bloomberg Línea",
+      "url": "https://www.bloomberglinea.com.br/negocios/custos-de-ia-da-openai-e-da-anthropic-levam-startups-a-buscar-modelos-mais-baratos/"
+    }
+  ],
+  "rights": {
+    "mode": "original-report"
+  },
+  "translations": {
+    "pt-BR": {
+      "title": "Custos de IA levam startups a buscar modelos mais baratos",
+      "summary": "O encarecimento do uso de modelos proprietários está levando startups a testar sistemas de código aberto e modelos próprios, em busca de margens e controle maiores.",
+      "aiSummary": [
+        "Startups como Harvey, Abridge e Decagon estão ampliando o uso de modelos abertos ou próprios para reduzir custos.",
+        "A mudança oferece mais controle, mas exige dados, infraestrutura e profissionais especializados.",
+        "O relato atribui os números financeiros e as avaliações aos executivos, investidores e fontes ouvidos na reportagem."
+      ],
+      "paragraphs": [
+        "O aumento dos custos de inteligência artificial está fazendo startups de software reavaliar a dependência de modelos fornecidos por grandes laboratórios. A Harvey, empresa jurídica avaliada em US$ 15,6 bilhões, viu o uso de seus agentes crescer depois de uma atualização, mas suas margens brutas passaram de cerca de 50% no início do ano para -50% em junho, segundo pessoas citadas na reportagem.",
+        "A resposta descrita é a busca por modelos de código aberto, inclusive alternativas desenvolvidas na China. Esses sistemas podem custar menos do que ofertas proprietárias e permitem que as empresas ajustem o comportamento da tecnologia com dados próprios, em vez de terceirizar toda a camada de inteligência para a OpenAI ou a Anthropic.",
+        "A Harvey lançou em agosto um modelo baseado no Kimi K3, da Moonshot AI, e atribuiu a essa mudança a recuperação de margens positivas, sem divulgar os números específicos. Abridge anunciou um modelo básico para ambientes clínicos usando modelos abertos da Nvidia, enquanto a Decagon disse processar 80% das consultas com sistemas próprios.",
+        "O movimento também alcança fintechs e empresas de programação. Ramp e Rogo estudam treinar modelos próprios, e a reportagem cita iniciativas de Cursor e Cognition. Na Harvey, o uso de tokens teria crescido vinte vezes no ano, tornando menos sustentável pagar continuamente pelos modelos mais caros para todas as tarefas.",
+        "A estratégia não elimina os obstáculos. Construir ou operar um modelo exige dados proprietários, infraestrutura e profissionais disputados, além de trazer preocupações de privacidade, cibersegurança e confiança em modelos chineses. A reportagem também registra que a Salespeak abandonou sua tentativa de criar um modelo próprio e que, para empresas com pouco tráfego, pagar por um serviço fechado ainda pode ser mais barato."
+      ]
+    },
+    "en": {
+      "title": "AI costs push startups toward cheaper models",
+      "summary": "The rising cost of proprietary models is pushing startups to test open-weight systems and in-house models in search of better margins and control.",
+      "aiSummary": [
+        "Startups including Harvey, Abridge, and Decagon are expanding their use of open or in-house models to cut costs.",
+        "The shift offers more control, but requires data, infrastructure, and specialized talent.",
+        "The report attributes financial figures and assessments to the executives, investors, and sources it interviewed."
+      ],
+      "paragraphs": [
+        "Higher artificial-intelligence costs are making software startups reconsider their dependence on models supplied by major laboratories. Harvey, a legal-technology company valued at $15.6 billion, saw agent usage rise after an update, but its gross margins fell from about 50 percent at the start of the year to negative 50 percent in June, according to people cited in the report.",
+        "The response described in the report is a move toward open-weight models, including increasingly capable alternatives developed in China. Such systems can be cheaper than proprietary offerings and let companies tune the technology with their own data instead of outsourcing the entire intelligence layer to OpenAI or Anthropic.",
+        "Harvey launched a model based on Moonshot AI’s Kimi K3 in August and attributed a return to positive margins to that change, without disclosing specific figures. Abridge announced a foundation model for clinical settings using Nvidia’s open models, while Decagon said it now processes 80 percent of queries through systems it built itself.",
+        "The shift also reaches fintech and programming companies. Ramp and Rogo are exploring in-house training, and the report cites initiatives by Cursor and Cognition. At Harvey, AI-token use reportedly rose twentyfold during the year, making it less sustainable to pay for the most expensive models on every task.",
+        "The strategy does not remove the obstacles. Building or operating a model requires proprietary data, infrastructure, and highly contested talent, while also raising privacy, cybersecurity, and trust concerns about Chinese models. The report says Salespeak eventually abandoned its own-model effort and notes that for companies with limited traffic, paying for a closed service may still be cheaper."
+      ]
+    }
+  },
+  "verification": {
+    "score": 7.9,
+    "checkedAt": "2026-09-22T13:01:26Z",
+    "checks": [
+      {
+        "provider": "Bloomberg Línea",
+        "url": "https://www.bloomberglinea.com.br/negocios/custos-de-ia-da-openai-e-da-anthropic-levam-startups-a-buscar-modelos-mais-baratos/",
+        "finding": "supports",
+        "note": "Complete local extraction was status 200 with complete:true and supports the reported shift toward open-weight or in-house models, while preserving attribution for margins, valuation, token growth and company assessments."
+      },
+      {
+        "provider": "Moonshot AI",
+        "url": "https://www.moonshot.ai/",
+        "finding": "context",
+        "note": "The developer's official site provides context for the Kimi model family, but it does not independently verify Harvey's deployment, cost savings or financial recovery."
+      },
+      {
+        "provider": "Aos Fatos",
+        "url": "https://www.aosfatos.org/",
+        "finding": "no-match",
+        "note": "No directly matching fact-check result was found in this run; no-match is neutral and not evidence of accuracy."
+      },
+      {
+        "provider": "Agência Lupa",
+        "url": "https://www.agencialupa.org/",
+        "finding": "no-match",
+        "note": "No directly matching fact-check result was found in this run; no-match is neutral and not evidence of accuracy."
+      },
+      {
+        "provider": "Projeto Comprova",
+        "url": "https://projetocomprova.com.br/",
+        "finding": "no-match",
+        "note": "No directly matching fact-check result was found in this run; no-match is neutral and not evidence of accuracy."
+      },
+      {
+        "provider": "TSE Fato ou Boato",
+        "url": "https://www.tse.jus.br/comunicacao/noticias/fato-ou-boato",
+        "finding": "no-match",
+        "note": "No directly matching fact-check result was found in this run; no-match is neutral and not evidence of accuracy."
+      },
+      {
+        "provider": "AFP Fact Check",
+        "url": "https://factcheck.afp.com/",
+        "finding": "no-match",
+        "note": "No directly matching fact-check result was found in this run; no-match is neutral and not evidence of accuracy."
+      },
+      {
+        "provider": "Reuters Fact Check",
+        "url": "https://www.reuters.com/fact-check/",
+        "finding": "no-match",
+        "note": "No directly matching fact-check result was found in this run; no-match is neutral and not evidence of accuracy."
+      },
+      {
+        "provider": "Full Fact",
+        "url": "https://fullfact.org/",
+        "finding": "no-match",
+        "note": "No directly matching fact-check result was found in this run; no-match is neutral and not evidence of accuracy."
+      },
+      {
+        "provider": "Google Fact Check Tools",
+        "url": "https://toolbox.google.com/factcheck/explorer",
+        "finding": "inconclusive",
+        "note": "No exact ClaimReview record was verified in the public Explorer search; absence of a confirmed record is not evidence for or against the article."
+      }
+    ],
+    "caveat": "The central cost-and-sourcing trend is supported by the complete Bloomberg Línea report. Margins, valuation, token growth, customer percentages and competitive assessments remain attributed or company-reported, not independently audited figures."
+  }
+}

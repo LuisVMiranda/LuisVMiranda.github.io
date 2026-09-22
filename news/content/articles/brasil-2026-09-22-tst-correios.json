@@ -1,0 +1,120 @@
+{
+  "id": "brasil-2026-09-22-tst-correios",
+  "slug": "brasil-2026-09-22-tst-correios",
+  "section": "brasil",
+  "secondarySections": [],
+  "publishedAt": "2026-09-21T18:35:00-03:00",
+  "updatedAt": "2026-09-22T13:17:34.573Z",
+  "sources": [
+    {
+      "name": "Agência Brasil",
+      "url": "https://agenciabrasil.ebc.com.br/geral/noticia/2026-09/tst-suspende-julgamento-de-dissidio-da-greve-dos-correios"
+    }
+  ],
+  "rights": {
+    "mode": "original-report"
+  },
+  "translations": {
+    "pt-BR": {
+      "title": "TST suspende julgamento do dissídio da greve dos Correios",
+      "summary": "Análise foi adiada para quinta-feira para que sindicatos se manifestem sobre novos documentos juntados ao processo.",
+      "aiSummary": [
+        "O TST adiou para 24 de setembro o julgamento do dissídio coletivo da greve dos Correios.",
+        "Sindicatos terão 48 horas para analisar documentos apresentados ao processo.",
+        "A corte havia determinado a manutenção de 80% do efetivo, e os Correios disseram ter acionado um plano de continuidade."
+      ],
+      "paragraphs": [
+        "O Tribunal Superior do Trabalho suspendeu nesta segunda-feira (21) o julgamento do dissídio coletivo da greve dos Correios. A análise do caso foi remarcada para quinta-feira (24), às 15h30.",
+        "Os ministros acolheram uma questão de ordem apresentada pelo presidente do TST, ministro Vieira de Mello Filho. Os sindicatos terão 48 horas para se manifestar sobre novos documentos que pedem o reconhecimento da abusividade da greve.",
+        "O presidente justificou que os documentos foram juntados na sexta-feira à noite e no sábado. Para ele, uma decisão baseada em materiais que a parte contrária ainda não examinou desrespeitaria o devido processo legal.",
+        "A greve começou na quinta-feira (10), depois que as negociações da campanha salarial terminaram sem acordo, segundo a Federação dos Trabalhadores dos Correios e Telégrafos e das Empresas de Comunicações.",
+        "Na semana anterior, o TST havia determinado a manutenção de 80% do efetivo dos Correios durante a paralisação. A decisão considerou essencial o serviço prestado pela estatal e apontou possível impacto nas eleições.",
+        "Depois do início da greve, os Correios informaram que acionaram um plano de continuidade de negócios para manter as entregas. O julgamento sobre o dissídio ainda será retomado na data marcada."
+      ]
+    },
+    "en": {
+      "title": "Brazil's labor court suspends hearing on Correios strike dispute",
+      "summary": "The hearing was postponed to Thursday so unions can respond to new documents added to the case.",
+      "aiSummary": [
+        "Brazil's labor court postponed the Correios collective strike dispute hearing to September 24.",
+        "Unions have 48 hours to respond to documents added to the case.",
+        "The court had ordered Correios to keep 80% of its workforce, while the company said it activated a continuity plan."
+      ],
+      "paragraphs": [
+        "Brazil's Superior Labor Court suspended Monday's (21) hearing on the collective dispute arising from the Correios strike. The court will resume its analysis on Thursday (24) at 3:30 p.m.",
+        "The justices accepted a procedural question raised by the court's president, Justice Vieira de Mello Filho. Unions will have 48 hours to respond to new documents seeking recognition that the strike was abusive.",
+        "The president said the documents were filed on Friday night and Saturday. He argued that deciding the case on material the opposing party had not examined would undermine due process.",
+        "The strike began on Thursday (10) after wage negotiations ended without an agreement, according to the Federation of Postal and Communications Workers.",
+        "The week before, the labor court had ordered Correios to maintain 80% of its workforce during the stoppage. The decision classified the postal service as essential and said the strike could affect the elections.",
+        "After the strike began, Correios said it activated a business-continuity plan to keep deliveries operating. The collective dispute hearing is still scheduled to resume on the announced date."
+      ]
+    }
+  },
+  "verification": {
+    "score": 8.6,
+    "checkedAt": "2026-09-22T13:03:31Z",
+    "checks": [
+      {
+        "provider": "Agência Brasil",
+        "url": "https://agenciabrasil.ebc.com.br/geral/noticia/2026-09/tst-suspende-julgamento-de-dissidio-da-greve-dos-correios",
+        "finding": "supports",
+        "note": "The complete selected-source extraction reports the TST suspension, September 24 resumption, 48-hour union response period, due-process rationale, strike timing, 80% staffing order and continuity plan."
+      },
+      {
+        "provider": "Folha de S.Paulo",
+        "url": "https://www1.folha.uol.com.br/mercado/2026/09/justica-determina-que-trabalhadores-dos-correios-mantenham-80-do-efetivo-durante-greve.shtml",
+        "finding": "supports",
+        "note": "Independent reporting corroborates the Correios strike, the TST's 80% staffing order and the scheduled labor-court proceedings."
+      },
+      {
+        "provider": "Aos Fatos",
+        "url": "https://www.aosfatos.org/",
+        "finding": "no-match",
+        "note": "No direct fact-check verdict for this labor-court update surfaced; no-match is neutral and not evidence of accuracy."
+      },
+      {
+        "provider": "Agência Lupa",
+        "url": "https://www.agencialupa.org/",
+        "finding": "no-match",
+        "note": "No direct Lupa verdict for this labor-court update surfaced; no-match is neutral and does not confirm the procedural schedule."
+      },
+      {
+        "provider": "Projeto Comprova",
+        "url": "https://projetocomprova.com.br/",
+        "finding": "no-match",
+        "note": "No direct Comprova verdict for this labor-court update surfaced; no-match is neutral and not proof of accuracy."
+      },
+      {
+        "provider": "TSE Fato ou Boato",
+        "url": "https://www.tse.jus.br/comunicacao/noticias/fato-ou-boato",
+        "finding": "no-match",
+        "note": "No direct TSE fact-check verdict for this labor-court update surfaced; no-match is neutral and not evidence of accuracy."
+      },
+      {
+        "provider": "AFP Fact Check",
+        "url": "https://factcheck.afp.com/",
+        "finding": "no-match",
+        "note": "No direct AFP verdict for this labor-court update surfaced; no-match is neutral and not proof of accuracy."
+      },
+      {
+        "provider": "Reuters Fact Check",
+        "url": "https://www.reuters.com/fact-check/",
+        "finding": "no-match",
+        "note": "No direct Reuters verdict for this labor-court update surfaced; no-match is neutral and not evidence of accuracy."
+      },
+      {
+        "provider": "Full Fact",
+        "url": "https://fullfact.org/",
+        "finding": "no-match",
+        "note": "No direct Full Fact verdict for this labor-court update surfaced; no-match is neutral and not evidence of accuracy."
+      },
+      {
+        "provider": "Google Fact Check Explorer",
+        "url": "https://toolbox.google.com/factcheck/explorer",
+        "finding": "inconclusive",
+        "note": "The public explorer interface did not yield a directly confirmable ClaimReview record for this procedural update; the result is inconclusive, not a verdict."
+      }
+    ],
+    "caveat": "The procedural update and 80% staffing order are corroborated, but the eventual labor-court ruling and later service effects are outside this check. The score is an evidence estimate, not a guarantee."
+  }
+}

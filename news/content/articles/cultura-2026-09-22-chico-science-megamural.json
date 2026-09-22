@@ -1,0 +1,118 @@
+{
+  "id": "cultura-2026-09-22-chico-science-megamural",
+  "slug": "cultura-2026-09-22-chico-science-megamural",
+  "section": "cultura",
+  "secondarySections": [],
+  "publishedAt": "2026-09-21T18:23:00-03:00",
+  "updatedAt": "2026-09-22T13:17:34.573Z",
+  "sources": [
+    {
+      "name": "Agência Brasil",
+      "url": "https://agenciabrasil.ebc.com.br/radioagencia-nacional/cultura/audio/2026-09/no-ano-em-que-faria-60-chico-science-ganha-megamural-no-recife"
+    }
+  ],
+  "rights": {
+    "mode": "original-report"
+  },
+  "translations": {
+    "pt-BR": {
+      "title": "Recife homenageia Chico Science com megamural e passeio pelo Manguebeat",
+      "summary": "No ano em que o músico completaria 60 anos, a cidade reúne arte pública, turismo e memória de espaços ligados ao movimento pernambucano.",
+      "aiSummary": [
+        "O roteiro gratuito passa por locais ligados à vida de Chico Science e à história do Manguebeat.",
+        "Um megamural será instalado no Bairro do Recife com obra do artista visual Arem.",
+        "A homenagem integra o projeto Recife Cidade da Música, cujo edital foi aprovado em 2022."
+      ],
+      "paragraphs": [
+        "Recife programou duas homenagens a Chico Science no ano em que o cantor e compositor pernambucano completaria 60 anos. Morto em um acidente de automóvel em 1997, ele será lembrado por um megamural e por um passeio turístico dedicado à sua vida, à sua obra e ao legado do Manguebeat.",
+        "O roteiro Um passo à frente e você não está mais no mesmo lugar começa às 10h, com saída da Praça do Arsenal. A caminhada passa pela Praça do Marco Zero, pela estátua do músico na Rua da Moeda, pelo Mercado de São José e pelo Pátio de São Pedro, espaços associados à cultura afro-pernambucana e ao movimento musical.",
+        "A programação inclui o Memorial Chico Science, onde são apresentados movimentos culturais realizados no espaço. No Mercado de São José, o foco recai sobre a tradição dos instrumentos usados no maracatu. A participação é gratuita e não exige inscrição; novas edições poderão ser realizadas conforme a procura.",
+        "O megamural será pintado na fachada do Motto by Hilton, na Rua da Guia, no Bairro do Recife, com previsão de entrega ainda no segundo semestre. A obra será conduzida pelo artista visual Arem a partir de uma fotografia de Chico Science feita pelo jornalista e fotógrafo documental Fred Jordão.",
+        "A instalação faz parte do projeto Recife Cidade da Música, cujo edital foi aprovado em 2022. A iniciativa já abrigou homenagens a Naná Vasconcelos, Reginaldo Rossi e às músicas do maracatu e da ciranda. O novo trabalho conecta a arte pública à memória urbana do Manguebeat e à presença do movimento na história cultural da capital."
+      ]
+    },
+    "en": {
+      "title": "Recife honors Chico Science with mural and a Manguebeat walking tour",
+      "summary": "In the year the musician would have turned 60, the city combines public art, tourism and the memory of places linked to Pernambuco’s movement.",
+      "aiSummary": [
+        "The free route visits places connected to Chico Science and the history of Manguebeat.",
+        "A mural by visual artist Arem will be installed in Recife’s historic district.",
+        "The tribute is part of the Recife Cidade da Música project, whose call was approved in 2022."
+      ],
+      "paragraphs": [
+        "Recife has planned two tributes to Chico Science in the year the Pernambuco singer and songwriter would have turned 60. He died in a car accident in 1997 and will be remembered through a large mural and a walking tour devoted to his life, work and legacy in the Manguebeat movement.",
+        "The route, titled One Step Forward and You Are No Longer in the Same Place, begins at 10 a.m. from Praça do Arsenal. It passes Praça do Marco Zero, the musician’s statue on Rua da Moeda, Mercado de São José and Pátio de São Pedro, places associated with Afro-Pernambucan culture and the musical movement.",
+        "The program includes the Chico Science Memorial, where cultural movements connected to the site are discussed. At Mercado de São José, the focus is on the tradition of instruments used in maracatu. Participation is free and requires no registration; further editions may be held according to demand.",
+        "The mural will be installed on the facade of the Motto by Hilton on Rua da Guia in Recife’s historic district, with completion expected in the second half of the year. Visual artist Arem will create it from a photograph of Chico Science taken by journalist and documentary photographer Fred Jordão.",
+        "The installation belongs to the Recife Cidade da Música project, whose public call was approved in 2022. Earlier tributes honored Naná Vasconcelos, Reginaldo Rossi and the music of maracatu and ciranda. The new work connects public art with Manguebeat’s urban memory and its place in Recife’s cultural history."
+      ]
+    }
+  },
+  "verification": {
+    "score": 9.4,
+    "checkedAt": "2026-09-22T12:28:07Z",
+    "checks": [
+      {
+        "provider": "Agência Brasil",
+        "url": "https://agenciabrasil.ebc.com.br/radioagencia-nacional/cultura/audio/2026-09/no-ano-em-que-faria-60-chico-science-ganha-megamural-no-recife",
+        "finding": "supports",
+        "note": "Complete local extraction was HTTP 200 with complete:true and 12 body paragraphs. It supports the September 22 tour, free route and locations, 10 a.m. start, planned Arem mural, Fred Jordão photograph, and Recife Cidade da Música context."
+      },
+      {
+        "provider": "Prefeitura do Recife",
+        "url": "https://www2.recife.pe.gov.br/noticias/22/09/2026/olha-recife-realiza-passeio-em-homenagem-chico-science-nesta-terca-22",
+        "finding": "supports",
+        "note": "The municipal event listing corroborates the date, free tour, route, start point, and public-program context."
+      },
+      {
+        "provider": "Aos Fatos",
+        "url": "https://www.aosfatos.org/",
+        "finding": "no-match",
+        "note": "No matching fact-check page surfaced for the Chico Science tour, mural, date, or named participants. This no-match is neutral and is not evidence of accuracy."
+      },
+      {
+        "provider": "Agência Lupa",
+        "url": "https://www.agencialupa.org/",
+        "finding": "no-match",
+        "note": "No matching fact-check addressing the article's public-art or event claims was confirmed. The no-match is neutral."
+      },
+      {
+        "provider": "Projeto Comprova",
+        "url": "https://projetocomprova.com.br/",
+        "finding": "no-match",
+        "note": "No relevant Projeto Comprova fact-check for the Recife program or mural claims was found. The result is neutral."
+      },
+      {
+        "provider": "TSE Fato ou Boato",
+        "url": "https://www.tse.jus.br/comunicacao/noticias/fato-ou-boato",
+        "finding": "no-match",
+        "note": "No civic or election-related fact-check is relevant to this cultural event report; no matching item was found. The no-match is neutral."
+      },
+      {
+        "provider": "AFP Fact Check",
+        "url": "https://factcheck.afp.com/",
+        "finding": "no-match",
+        "note": "No matching AFP fact-check for the tour, mural, date, or named artists was confirmed. This no-match is neutral."
+      },
+      {
+        "provider": "Reuters Fact Check",
+        "url": "https://www.reuters.com/fact-check/",
+        "finding": "no-match",
+        "note": "No matching Reuters fact-check for the article's Recife cultural-event claims was confirmed. This no-match is neutral."
+      },
+      {
+        "provider": "Full Fact",
+        "url": "https://fullfact.org/",
+        "finding": "no-match",
+        "note": "No relevant Full Fact item addressing the tour or mural was found. The no-match is neutral and not evidence of truth."
+      },
+      {
+        "provider": "Google Fact Check Explorer",
+        "url": "https://toolbox.google.com/factcheck/explorer",
+        "finding": "inconclusive",
+        "note": "No exact indexed ClaimReview record was confirmed in the Explorer searches used for this claim; coverage is incomplete, so this is not evidence for or against the article."
+      }
+    ],
+    "caveat": "The date, route, public-program details, and planned mural are corroborated by complete Agência Brasil evidence and municipal context. The mural is described as planned work, not a completed installation."
+  }
+}

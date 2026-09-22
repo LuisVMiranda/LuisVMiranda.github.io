@@ -1,0 +1,113 @@
+{
+  "id": "ciencia-2026-09-22-florestas-terapeuticas",
+  "slug": "ciencia-2026-09-22-florestas-terapeuticas",
+  "section": "ciencia",
+  "secondarySections": [],
+  "publishedAt": "2026-09-21T18:48:46+01:00",
+  "publishedDate": "2026-09-21",
+  "updatedAt": "2026-09-22T13:17:34.573Z",
+  "sources": [
+    {
+      "name": "Notícias ao Minuto",
+      "url": "https://www.noticiasaominuto.com/mundo/3055026/bussaco-vai-coordenar-projeto-internacional-sobre-florestas-terapeuticas"
+    }
+  ],
+  "rights": {
+    "mode": "original-report"
+  },
+  "translations": {
+    "pt-BR": {
+      "title": "Projeto internacional investigará como florestas influenciam saúde e bem-estar",
+      "summary": "O PhorestAll reunirá instituições de cinco países por três anos, cruzando biodiversidade, microbioma e fitoncidas com indicadores de saúde.",
+      "aiSummary": [
+        "O PhorestAll terá três anos e orçamento superior a um milhão de euros.",
+        "O consórcio reúne instituições de Portugal, Eslovênia, Polônia, Lituânia e Taiwan.",
+        "A pesquisa cruzará biodiversidade, microbioma do solo e fitoncidas com indicadores de saúde."
+      ],
+      "paragraphs": [
+        "O projeto científico PhorestAll será coordenado a partir da Mata do Bussaco, em Portugal, e terá orçamento superior a um milhão de euros. A iniciativa reunirá universidades, institutos de pesquisa e organizações especializadas de cinco países.",
+        "Com duração prevista de três anos, o consórcio quer investigar por que ambientes florestais produzem bem-estar e transformar os resultados em referências para conservação, saúde e turismo de natureza.",
+        "A coordenação em Portugal ficará com a Destinature, em parceria com instituições da Eslovênia, Polônia, Lituânia e Taiwan. O modelo de pesquisa será replicado em florestas dos outros participantes.",
+        "Na Mata do Bussaco, pesquisadores do Centro de Ecologia Funcional da Universidade de Coimbra vão cruzar três conjuntos de dados: biodiversidade, microbioma do solo e fitoncidas, compostos voláteis liberados pelas árvores.",
+        "Esses dados serão comparados com indicadores de saúde e bem-estar dos participantes. O projeto também prevê workshops com escolas, cidadãos, profissionais de saúde, gestores públicos e proprietários florestais; a primeira sessão de terapia florestal está marcada para 26 de setembro."
+      ]
+    },
+    "en": {
+      "title": "International project will study how forests affect health and well-being",
+      "summary": "PhorestAll will bring institutions from five countries together for three years, linking biodiversity, soil microbiomes and phytoncides to health indicators.",
+      "aiSummary": [
+        "PhorestAll will run for three years with a budget above one million euros.",
+        "The consortium includes institutions from Portugal, Slovenia, Poland, Lithuania and Taiwan.",
+        "The study will link biodiversity, soil microbiomes and phytoncides to health indicators."
+      ],
+      "paragraphs": [
+        "The PhorestAll scientific project will be coordinated from Bussaco Forest in Portugal and has a budget of more than one million euros. It will bring together universities, research institutes and specialist organizations from five countries.",
+        "Planned to last three years, the consortium will investigate why forest environments produce well-being and turn the results into references for conservation, health and nature tourism.",
+        "Destinature will coordinate the Portuguese work with institutions in Slovenia, Poland, Lithuania and Taiwan. The research model will be replicated in forests in the other participating countries.",
+        "At Bussaco, researchers from the University of Coimbra’s Center for Functional Ecology will combine three data groups: biodiversity, soil microbiomes and phytoncides, volatile compounds released by trees.",
+        "Those data will be compared with participants’ health and well-being indicators. The project also plans workshops with schools, residents, health professionals, public officials and forest owners; its first forest-therapy session is scheduled for September 26."
+      ]
+    }
+  },
+  "verification": {
+    "score": 7.6,
+    "checkedAt": "2026-09-22T12:31:55Z",
+    "checks": [
+      {
+        "provider": "Notícias ao Minuto / Fundação Mata do Bussaco report",
+        "url": "https://www.noticiasaominuto.com/mundo/3055026/bussaco-vai-coordenar-projeto-internacional-sobre-florestas-terapeuticas",
+        "finding": "supports",
+        "note": "The complete report directly contains the PhorestAll name, three-year duration, budget above one million euros, five-country consortium, study variables and planned September 26 session, attributed to the foundation."
+      },
+      {
+        "provider": "Aos Fatos",
+        "url": "https://www.aosfatos.org/",
+        "finding": "no-match",
+        "note": "Site-restricted searches for PhorestAll, Bussaco and therapeutic forests found no directly matching fact-check; no-match is neutral."
+      },
+      {
+        "provider": "Agência Lupa",
+        "url": "https://www.agencialupa.org/",
+        "finding": "no-match",
+        "note": "Searches for PhorestAll, forest therapy and the five-country project found no directly matching fact-check; no-match is neutral."
+      },
+      {
+        "provider": "Projeto Comprova",
+        "url": "https://projetocomprova.com.br/",
+        "finding": "no-match",
+        "note": "Searches for the PhorestAll project and its health-study claims found no directly matching fact-check; no-match is neutral."
+      },
+      {
+        "provider": "TSE Fato ou Boato",
+        "url": "https://www.tse.jus.br/comunicacao/noticias/fato-ou-boato",
+        "finding": "no-match",
+        "note": "This civic-process registry is not materially targeted to a planned environmental-health research project; no relevant matching fact-check was found, which is neutral."
+      },
+      {
+        "provider": "AFP Fact Check",
+        "url": "https://factcheck.afp.com/",
+        "finding": "no-match",
+        "note": "Site-restricted searches in English for PhorestAll, Bussaco forest therapy and the project budget found no directly matching AFP fact-check; no-match is neutral."
+      },
+      {
+        "provider": "Reuters Fact Check",
+        "url": "https://www.reuters.com/fact-check/",
+        "finding": "no-match",
+        "note": "Searches for the PhorestAll consortium and its planned health indicators found no directly matching Reuters fact-check; no-match is neutral."
+      },
+      {
+        "provider": "Full Fact",
+        "url": "https://fullfact.org/",
+        "finding": "no-match",
+        "note": "Searches for PhorestAll and the forest-health project found no directly matching Full Fact check; no-match is neutral."
+      },
+      {
+        "provider": "Google Fact Check Tools",
+        "url": "https://toolbox.google.com/factcheck/explorer",
+        "finding": "inconclusive",
+        "note": "The public claims:search endpoint returned HTTP 403 without an API key, so indexed ClaimReview coverage could not be confirmed; this is not evidence for or against the article."
+      }
+    ],
+    "caveat": "The project details are supported by one complete secondary report quoting the Fundação Mata do Bussaco; the study is planned, and no health benefit or therapeutic efficacy has yet been demonstrated."
+  }
+}

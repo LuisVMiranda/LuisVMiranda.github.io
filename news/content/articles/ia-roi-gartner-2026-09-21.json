@@ -1,0 +1,124 @@
+{
+  "id": "ia-roi-gartner-2026-09-21",
+  "slug": "ia-roi-gartner-2026-09-21",
+  "section": "tecnologia",
+  "secondarySections": [],
+  "publishedAt": "2026-09-21T19:11:00-03:00",
+  "updatedAt": "2026-09-22T13:17:34.573Z",
+  "sources": [
+    {
+      "name": "Suno Notícias",
+      "url": "https://www.suno.com.br/noticias/inteligencia-artificial-roi-projetos-gartner-mt/"
+    }
+  ],
+  "rights": {
+    "mode": "original-report"
+  },
+  "translations": {
+    "pt-BR": {
+      "title": "Gartner: só um em cada cinco projetos de IA gera ROI positivo",
+      "summary": "Dados apresentados em São Paulo indicam que a adoção de inteligência artificial cresce mais rápido do que os resultados financeiros e a governança de riscos.",
+      "aiSummary": [
+        "Apenas 20% das iniciativas de IA analisadas pelo Gartner entregam retorno sobre o investimento positivo.",
+        "86% dos CIOs consultados dizem que os riscos crescem mais rápido do que o valor gerado.",
+        "O Gartner recomenda governança, capacitação e reinvestimento em inovação em vez de cortes automáticos de pessoal."
+      ],
+      "paragraphs": [
+        "A adoção de inteligência artificial avança nas empresas, mas o retorno financeiro ainda é limitado. Dados apresentados pelo Gartner na Conferência Gartner CIO & IT Executive 2026, em São Paulo, indicam que apenas uma em cada cinco iniciativas de IA entrega retorno sobre o investimento positivo, embora 58% dos executivos já enxerguem algum valor na tecnologia.",
+        "A diferença entre adoção e resultado aparece junto com uma preocupação maior sobre riscos. Segundo os dados apresentados, 86% dos diretores de tecnologia consultados avaliam que os riscos associados à IA crescem mais rapidamente do que o valor gerado. Apenas 25% dizem que decisões sobre esses riscos entram de forma proativa nas decisões centrais do negócio.",
+        "O Gartner afirma que a maturidade da empresa muda a forma de investir. Organizações no início da jornada precisam priorizar treinamento, estrutura e desenvolvimento de capacidades, enquanto empresas mais maduras podem equilibrar melhor os recursos entre tecnologia e áreas que geram resultados. O número de casos de uso cresceu 400% em um ano, mas 40% dos trabalhadores disseram receber conteúdo gerado que ainda não estava pronto para uso.",
+        "A consultoria também defende uma atuação mais forte dos CIOs na estratégia corporativa. Uma das propostas apresentadas foi uma estrutura semelhante a um banco central de IA, com responsabilidade por governança, financiamento, integração entre tecnologias e acompanhamento dos projetos. Usar os mesmos modelos, segundo a análise, tende a produzir benefícios parecidos; a diferenciação depende de dados, processos e conhecimento próprios.",
+        "O Gartner alerta contra tratar a IA apenas como ferramenta para cortar despesas com pessoal. A consultoria projeta que, até 2029, 30% dos funcionários demitidos por substituição tecnológica precisarão ser recontratados, possivelmente por um custo maior. Também prevê que, até 2027, empresas que converterem produtividade apenas em redução de custos poderão perder para concorrentes que reinvestirem em inovação, modernização e capacitação."
+      ]
+    },
+    "en": {
+      "title": "Gartner: only one in five AI projects produces positive ROI",
+      "summary": "Data presented in São Paulo indicate that artificial-intelligence adoption is growing faster than financial results and risk governance.",
+      "aiSummary": [
+        "Only 20 percent of the AI initiatives analyzed by Gartner deliver a positive return on investment.",
+        "86 percent of surveyed CIOs say risks are growing faster than the value generated.",
+        "Gartner recommends governance, training, and reinvestment in innovation instead of automatic staff cuts."
+      ],
+      "paragraphs": [
+        "Artificial-intelligence adoption is advancing inside companies, but financial returns remain limited. Data presented by Gartner at the 2026 Gartner CIO & IT Executive Conference in São Paulo indicated that only one in five AI initiatives produces a positive return on investment, even though 58 percent of executives already see some value in the technology.",
+        "The gap between adoption and results appears alongside greater concern about risk. According to the presented data, 86 percent of surveyed chief information officers said AI-related risks were growing faster than the value being generated. Only 25 percent said technology-risk decisions were proactively incorporated into core business decisions.",
+        "Gartner says a company’s maturity changes how it should invest. Organizations at the beginning of the journey need to prioritize training, structure, and capability building, while more mature companies can balance resources more closely with the areas producing results. Use cases grew 400 percent in a year, but 40 percent of workers said they had received AI-generated material that was not ready to use.",
+        "The consultancy also calls for CIOs to take a stronger role in corporate strategy. One proposal was a structure resembling an AI central bank, responsible for governance, funding, technology integration, and project accountability. Using the same models tends to produce similar benefits, the analysis says; differentiation depends on a company’s own data, processes, and knowledge.",
+        "Gartner warns against treating AI only as a tool for cutting staff costs. The consultancy projects that by 2029, 30 percent of employees dismissed because of AI substitution will need to be rehired, possibly at higher cost. It also forecasts that by 2027, companies turning productivity gains only into cost reductions could be overtaken by competitors that reinvest in innovation, modernization, and training."
+      ]
+    }
+  },
+  "verification": {
+    "score": 7.6,
+    "checkedAt": "2026-09-22T13:01:26Z",
+    "checks": [
+      {
+        "provider": "Suno Notícias",
+        "url": "https://www.suno.com.br/noticias/inteligencia-artificial-roi-projetos-gartner-mt/",
+        "finding": "supports",
+        "note": "Complete local extraction was status 200 with complete:true and contains the Gartner conference figures, recommendations and forecasts with attribution."
+      },
+      {
+        "provider": "Gartner conference",
+        "url": "https://gcomdr.pdo.aws.gartner.com/en/conferences/la/cio-brazil",
+        "finding": "context",
+        "note": "Gartner's official conference page confirms the 2026 São Paulo event and its focus on AI value, risk and investment, but does not publicly reproduce every percentage in the article."
+      },
+      {
+        "provider": "Gartner",
+        "url": "https://www.gartner.com/en/articles/rein-in-ai-spend",
+        "finding": "context",
+        "note": "Gartner's public analysis independently supports concern about measuring AI ROI and uncontrolled AI spending, but it does not reproduce the article's exact conference survey percentages."
+      },
+      {
+        "provider": "Aos Fatos",
+        "url": "https://www.aosfatos.org/",
+        "finding": "no-match",
+        "note": "No directly matching fact-check result was found in this run; no-match is neutral and not evidence of accuracy."
+      },
+      {
+        "provider": "Agência Lupa",
+        "url": "https://www.agencialupa.org/",
+        "finding": "no-match",
+        "note": "No directly matching fact-check result was found in this run; no-match is neutral and not evidence of accuracy."
+      },
+      {
+        "provider": "Projeto Comprova",
+        "url": "https://projetocomprova.com.br/",
+        "finding": "no-match",
+        "note": "No directly matching fact-check result was found in this run; no-match is neutral and not evidence of accuracy."
+      },
+      {
+        "provider": "TSE Fato ou Boato",
+        "url": "https://www.tse.jus.br/comunicacao/noticias/fato-ou-boato",
+        "finding": "no-match",
+        "note": "No directly matching fact-check result was found in this run; no-match is neutral and not evidence of accuracy."
+      },
+      {
+        "provider": "AFP Fact Check",
+        "url": "https://factcheck.afp.com/",
+        "finding": "no-match",
+        "note": "No directly matching fact-check result was found in this run; no-match is neutral and not evidence of accuracy."
+      },
+      {
+        "provider": "Reuters Fact Check",
+        "url": "https://www.reuters.com/fact-check/",
+        "finding": "no-match",
+        "note": "No directly matching fact-check result was found in this run; no-match is neutral and not evidence of accuracy."
+      },
+      {
+        "provider": "Full Fact",
+        "url": "https://fullfact.org/",
+        "finding": "no-match",
+        "note": "No directly matching fact-check result was found in this run; no-match is neutral and not evidence of accuracy."
+      },
+      {
+        "provider": "Google Fact Check Tools",
+        "url": "https://toolbox.google.com/factcheck/explorer",
+        "finding": "inconclusive",
+        "note": "No exact ClaimReview record was verified in the public Explorer search; absence of a confirmed record is not evidence for or against the article."
+      }
+    ],
+    "caveat": "The article attributes the conference figures and future projections to Gartner. The exact survey population and definitions behind every percentage were not independently reproduced; the 2027 and 2029 projections are not established outcomes."
+  }
+}

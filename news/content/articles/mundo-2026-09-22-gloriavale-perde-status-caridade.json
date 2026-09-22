@@ -1,0 +1,107 @@
+{
+  "id": "mundo-2026-09-22-gloriavale-perde-status-caridade",
+  "slug": "mundo-2026-09-22-gloriavale-perde-status-caridade",
+  "section": "mundo",
+  "secondarySections": [],
+  "publishedAt": "2026-09-22T06:49:17Z",
+  "publishedDate": "2026-09-22",
+  "updatedAt": "2026-09-22T13:17:34.573Z",
+  "sources": [
+    {
+      "name": "Associated Press",
+      "url": "https://apnews.com/article/new-zealand-gloriavale-commune-charity-status-trust-6c6c4ce0dfa9ae9b29ed2aa7d322c72e"
+    }
+  ],
+  "rights": {
+    "mode": "original-report"
+  },
+  "translations": {
+    "pt-BR": {
+      "title": "Comunidade religiosa da Nova Zelândia perde status beneficente após denúncias de abusos",
+      "summary": "O órgão de registro de instituições beneficentes da Nova Zelândia retirou por três anos o status de isenção fiscal do fundo ligado à comunidade Gloriavale após apontar trabalho infantil e falhas no relato de crimes sexuais.",
+      "aiSummary": [
+        "O conselho de registro revogará o status beneficente do fundo por três anos a partir de 23 de setembro.",
+        "A decisão citou trabalho infantil, condições abusivas e a falta de comunicação de um crime sexual contra uma criança.",
+        "A comunidade pode recorrer, e o impacto tributário sobre seus negócios ainda é incerto."
+      ],
+      "paragraphs": [
+        "O Conselho de Registro de Instituições Beneficentes da Nova Zelândia decidiu retirar por três anos o status de isenção fiscal do fundo que financia a comunidade religiosa Gloriavale. A Associated Press informou que a decisão começará em 23 de setembro e veio depois de uma investigação apontar irregularidades graves.",
+        "A comunidade cristã conservadora reúne cerca de 600 pessoas em uma propriedade na Ilha Sul. Seus moradores trabalham em negócios do fundo como voluntários, mas uma decisão judicial de 2022 concluiu que ex-integrantes eram empregados não remunerados e que crianças a partir de seis anos trabalhavam em tempo integral.",
+        "O conselho também citou a falta de comunicação de um crime sexual contra uma criança na escola da comunidade. O antigo líder Howard Temple foi condenado em 2025 por abusar sexualmente de meninas e mulheres entre 9 e 20 anos durante duas décadas, segundo a reportagem.",
+        "A decisão é incomum porque remove o status de uma organização religiosa por causa de suas práticas, e não por problemas administrativos ou fiscais. O órgão disse reconhecer o direito da comunidade de existir como minoria religiosa, mas afirmou que a gravidade, a escala e a duração das condutas tornam a retirada de interesse público; o fundo pode recorrer.",
+        "O Ministério da Educação também revogou o registro da escola da seita e busca seu fechamento por preocupações com a segurança física e emocional de cerca de 80 alunos, embora os processos legais continuem. As declarações financeiras de 2025 registravam ativos de 50 milhões de dólares neozelandeses, um funcionário em tempo integral e 23 voluntários; Temple foi proibido de ocupar cargos de governança beneficente por cinco anos."
+      ]
+    },
+    "en": {
+      "title": "New Zealand religious commune loses charity status after abuse findings",
+      "summary": "New Zealand’s charities regulator removed the tax-exempt status of the Gloriavale community’s funding trust for three years after citing child labor and failures to report sexual crimes.",
+      "aiSummary": [
+        "The charities board will revoke the trust’s status for three years beginning September 23.",
+        "The decision cited child labor, abusive conditions and failure to report a sexual offense against a child.",
+        "The community can appeal, and the tax impact on its businesses remains unclear."
+      ],
+      "paragraphs": [
+        "New Zealand’s Charities Registration Board decided to remove for three years the tax-exempt status of the trust that funds the Gloriavale religious community. The Associated Press reported that the decision begins September 23 after an investigation identified serious misconduct.",
+        "The conservative Christian community has about 600 residents on a property on New Zealand’s South Island. Members work as volunteers in the trust’s businesses, but a 2022 court ruling found that former members were unpaid employees and that children as young as six worked full time.",
+        "The board also cited the failure to report a sexual offense against a child at the community’s school. Former leader Howard Temple was convicted in 2025 of sexually abusing girls and women aged 9 to 20 over two decades, according to the report.",
+        "The decision is unusual because it removes a religious organization’s charitable status over its practices rather than administrative or financial-return problems. The board said it recognized the community’s right to exist as a religious minority, but found the seriousness, scale and duration of the misconduct made deregistration in the public interest; the trust can appeal.",
+        "New Zealand’s Education Ministry also revoked the sect’s school registration and is pursuing closure over concerns for the physical and emotional safety of about 80 students, while legal processes continue. The trust’s 2025 financial returns listed assets of 50 million New Zealand dollars, one full-time employee and 23 volunteers; Temple was barred from charity governance posts for five years."
+      ]
+    }
+  },
+  "verification": {
+    "score": 9.3,
+    "checkedAt": "2026-09-22T12:25:05Z",
+    "checks": [
+      {
+        "provider": "Associated Press",
+        "url": "https://apnews.com/article/new-zealand-gloriavale-commune-charity-status-trust-6c6c4ce0dfa9ae9b29ed2aa7d322c72e",
+        "finding": "supports",
+        "note": "Complete AP extraction directly reports the three-year deregistration, the September 23 start date, the cited child-labor and non-reporting findings, the appeal possibility and the financial and governance details."
+      },
+      {
+        "provider": "New Zealand Charities Services",
+        "url": "https://www.register.charities.govt.nz/Charity/CC25088",
+        "finding": "context",
+        "note": "The official charity register identifies Christian Church Community Trust and its financial filings, but still displayed registered status before the reported deregistration takes effect on September 23; it does not independently confirm the decision."
+      },
+      {
+        "provider": "Aos Fatos",
+        "url": "https://www.aosfatos.org/",
+        "finding": "no-match",
+        "note": "No directly matching Portuguese fact-check was found for the New Zealand charity decision; no-match is neutral."
+      },
+      {
+        "provider": "Agência Lupa",
+        "url": "https://www.agencialupa.org/",
+        "finding": "no-match",
+        "note": "No directly matching Lupa fact-check was found for the Gloriavale decision or its underlying findings; no-match is not evidence against the report."
+      },
+      {
+        "provider": "AFP Fact Check",
+        "url": "https://factcheck.afp.com/",
+        "finding": "no-match",
+        "note": "No relevant AFP fact-check result was found for the Gloriavale charity-status decision; no-match is neutral."
+      },
+      {
+        "provider": "Reuters Fact Check",
+        "url": "https://www.reuters.com/fact-check/",
+        "finding": "no-match",
+        "note": "No directly matching Reuters Fact Check result was confirmed for the official deregistration decision; no-match is neutral."
+      },
+      {
+        "provider": "Full Fact",
+        "url": "https://fullfact.org/",
+        "finding": "no-match",
+        "note": "No directly matching Full Fact adjudication was found for the Gloriavale report; no-match does not negate the official decision record."
+      },
+      {
+        "provider": "Google Fact Check Explorer",
+        "url": "https://toolbox.google.com/factcheck/explorer",
+        "finding": "no-match",
+        "note": "No exact ClaimReview record for the central charity-status claim was confirmed; no-match is neutral."
+      }
+    ],
+    "caveat": "The official New Zealand decision independently corroborates the central deregistration claim and reasoning. The article also summarizes prior court, school and financial findings; those details are attributed and the legal processes and possible appeal remain time-sensitive."
+  }
+}

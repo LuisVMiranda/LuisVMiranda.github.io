@@ -1,0 +1,118 @@
+{
+  "id": "nvidia-huang-apocalipse-ia-2026-09-21",
+  "slug": "nvidia-huang-apocalipse-ia-2026-09-21",
+  "section": "tecnologia",
+  "secondarySections": [],
+  "publishedAt": "2026-09-21T15:04:00.000-03:00",
+  "updatedAt": "2026-09-22T13:17:34.573Z",
+  "sources": [
+    {
+      "name": "Canaltech",
+      "url": "https://canaltech.com.br/inteligencia-artificial/nvidia-declara-guerra-ao-discurso-do-apocalipse-de-ia-0-de-chance/"
+    }
+  ],
+  "rights": {
+    "mode": "original-report"
+  },
+  "translations": {
+    "pt-BR": {
+      "title": "CEO da Nvidia rejeita previsões de extinção por IA",
+      "summary": "Jensen Huang rejeitou previsões de que a inteligência artificial causará a extinção humana nesta década, enquanto o setor debate riscos extremos, regulação e velocidade de desenvolvimento.",
+      "aiSummary": [
+        "Jensen Huang rejeitou, em entrevista à CBS News, a previsão de que a IA levará à extinção humana até 2030.",
+        "Dario Amodei e outros nomes do setor defenderam mais tempo, avaliações independentes e padrões comuns de segurança.",
+        "A reportagem separa a preocupação legítima com danos de uma previsão de extinção, apresentada como posição atribuída e não como conclusão científica."
+      ],
+      "paragraphs": [
+        "Jensen Huang, CEO da Nvidia, rejeitou os alertas de que a inteligência artificial poderia provocar o fim da humanidade até 2030. Em entrevista à CBS News, ele afirmou que há “0% de chance” de esse ser o fim do mundo e classificou previsões desse tipo como parte de um discurso apocalíptico que considera exagerado e sem base científica.",
+        "A declaração veio depois de Jacob Coxon, ex-pesquisador da Anthropic, dizer que pessoas diretamente envolvidas no desenvolvimento de IA acreditam que a tecnologia poderia matar todos até o fim da década. Dario Amodei, CEO da Anthropic, respondeu defendendo uma redução no ritmo de avanço, avaliadores independentes, padrões comuns de segurança e coordenação internacional.",
+        "Huang concordou que as empresas precisam desenvolver sistemas seguros, mas defendeu avançar o mais rápido possível desde que a segurança não seja comprometida. Para ele, leis já existentes sobre invasão de sistemas, responsabilidade por danos e contratos comerciais deveriam ser aplicadas antes da criação de novas regras motivadas por cenários extremos.",
+        "O executivo também questionou as motivações de empresas que defendem novas regulações. Segundo a reportagem, Huang sugeriu que algumas poderiam tentar reduzir responsabilidades previstas nas leis atuais ao deslocar o debate para riscos futuros e hipotéticos, mas não apresentou evidências de que exista uma ação coordenada com esse objetivo.",
+        "A posição da Nvidia não significa que Huang considere a IA livre de riscos. A entrevista distingue a preocupação com danos e perda de controle, considerada legítima, da previsão de que a humanidade será eliminada em poucos anos. O debate continua dividido entre quem pede mais tempo para testar sistemas autônomos e quem defende acelerar o desenvolvimento com responsabilização e implantação segura."
+      ]
+    },
+    "en": {
+      "title": "Nvidia CEO rejects AI extinction predictions",
+      "summary": "Jensen Huang rejected predictions that artificial intelligence will cause human extinction this decade as the industry debates extreme risks, regulation, and development speed.",
+      "aiSummary": [
+        "Jensen Huang told CBS News that AI has a zero percent chance of ending the world by 2030.",
+        "Dario Amodei and other industry figures called for more time, independent evaluations, and shared safety standards.",
+        "The report separates legitimate concern about harm from an extinction prediction, presenting the latter as an attributed position rather than a scientific conclusion."
+      ],
+      "paragraphs": [
+        "Jensen Huang, Nvidia’s CEO, rejected warnings that artificial intelligence could bring about humanity’s end by 2030. In an interview with CBS News, he said there was a “0% chance” that this would be the end of the world and described such predictions as part of an exaggerated, scientifically unsupported doomsday narrative.",
+        "The statement followed comments from Jacob Coxon, a former Anthropic researcher, who said people directly involved in AI development seriously believe the technology could kill everyone by the end of the decade. Dario Amodei, Anthropic’s CEO, responded by calling for a slower pace, independent evaluators, common safety standards, and international coordination.",
+        "Huang agreed that companies need to build safe systems but argued for moving as fast as possible without compromising safety. He said existing laws on system intrusion, liability for harm, and commercial contracts should be applied before new rules are created in response to extreme scenarios.",
+        "The executive also questioned the motives of companies seeking new regulations. According to the report, Huang suggested that some might be trying to reduce liabilities under current law by shifting the debate toward future and hypothetical risks, but he offered no evidence of a coordinated effort to do so.",
+        "Nvidia’s position does not mean Huang considers AI free of risks. The interview distinguishes concern about harm and loss of control, which it treats as legitimate, from the prediction that humanity will be eliminated within a few years. The debate remains split between those seeking more time to test autonomous systems and those favoring faster development with accountability and safe deployment."
+      ]
+    }
+  },
+  "verification": {
+    "score": 8.4,
+    "checkedAt": "2026-09-22T13:01:26Z",
+    "checks": [
+      {
+        "provider": "Canaltech",
+        "url": "https://canaltech.com.br/inteligencia-artificial/nvidia-declara-guerra-ao-discurso-do-apocalipse-de-ia-0-de-chance/",
+        "finding": "supports",
+        "note": "Complete local extraction was status 200 with complete:true and preserves Huang's quoted position, the opposing safety arguments, regulation discussion and attribution boundaries."
+      },
+      {
+        "provider": "The Guardian",
+        "url": "https://www.theguardian.com/technology/2026/sep/21/nvidia-boss-jensen-huang-dismisses-warnings-ai-destroys-world-anthropic",
+        "finding": "supports",
+        "note": "Independent reporting corroborates Huang's 0% statement, the 2030 framing and the opposing warnings from former Anthropic researchers and Dario Amodei."
+      },
+      {
+        "provider": "Aos Fatos",
+        "url": "https://www.aosfatos.org/",
+        "finding": "no-match",
+        "note": "No directly matching fact-check result was found in this run; no-match is neutral and not evidence of accuracy."
+      },
+      {
+        "provider": "Agência Lupa",
+        "url": "https://www.agencialupa.org/",
+        "finding": "no-match",
+        "note": "No directly matching fact-check result was found in this run; no-match is neutral and not evidence of accuracy."
+      },
+      {
+        "provider": "Projeto Comprova",
+        "url": "https://projetocomprova.com.br/",
+        "finding": "no-match",
+        "note": "No directly matching fact-check result was found in this run; no-match is neutral and not evidence of accuracy."
+      },
+      {
+        "provider": "TSE Fato ou Boato",
+        "url": "https://www.tse.jus.br/comunicacao/noticias/fato-ou-boato",
+        "finding": "no-match",
+        "note": "No directly matching fact-check result was found in this run; no-match is neutral and not evidence of accuracy."
+      },
+      {
+        "provider": "AFP Fact Check",
+        "url": "https://factcheck.afp.com/",
+        "finding": "no-match",
+        "note": "No directly matching fact-check result was found in this run; no-match is neutral and not evidence of accuracy."
+      },
+      {
+        "provider": "Reuters Fact Check",
+        "url": "https://www.reuters.com/fact-check/",
+        "finding": "no-match",
+        "note": "No directly matching fact-check result was found in this run; no-match is neutral and not evidence of accuracy."
+      },
+      {
+        "provider": "Full Fact",
+        "url": "https://fullfact.org/",
+        "finding": "no-match",
+        "note": "No directly matching fact-check result was found in this run; no-match is neutral and not evidence of accuracy."
+      },
+      {
+        "provider": "Google Fact Check Tools",
+        "url": "https://toolbox.google.com/factcheck/explorer",
+        "finding": "inconclusive",
+        "note": "No exact ClaimReview record was verified in the public Explorer search; absence of a confirmed record is not evidence for or against the article."
+      }
+    ],
+    "caveat": "The interview and the competing positions are corroborated as attributed statements. Huang's 0% forecast is an opinion about a future outcome, not an independently testable probability or scientific conclusion."
+  }
+}

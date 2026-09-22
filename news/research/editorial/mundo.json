@@ -1,113 +1,120 @@
 {
   "section": "mundo",
-  "cutoff": "2026-09-21T16:48:24.436Z",
-  "queries": [],
+  "cutoff": "2026-09-22T11:21:20.336Z",
+  "queries": [
+    "Mundo notícias internacionais",
+    "World latest news world",
+    "world affairs diplomacy conflict science latest news",
+    "international affairs United Nations AP BBC latest news",
+    "site:apnews.com world latest news",
+    "site:bbc.com/news world latest news"
+  ],
   "verified": [
     {
-      "articleId": "mundo-20260921-uk-air-traffic-control-glitch",
+      "articleId": "mundo-2026-09-22-un-mundo-em-turbulencia",
+      "url": "https://apnews.com/article/united-nations-general-assembly-unga-trump-war-83dfe88eaf541fdcef3a4758010bef6e",
+      "publishedAt": "2026-09-22T04:08:38",
+      "evidence": "Complete extraction fb59885cc43e.json (HTTP 200), canonical URL matches the source URL, publishedAt 2026-09-22T04:08:38, retrieved 2026-09-22T11:23:48.709Z, contains 15 paragraphs and 697 words with no warnings. It reports diplomats' descriptions of wars in Europe and the Middle East, economic and institutional uncertainty, the U.N. agenda, and issues expected in sideline meetings.",
+      "selectionReason": "Most consequential 2026-09-22 world-affairs overview in the run, directly tied to the opening of the U.N. General Assembly; selected as the desk's international frame rather than duplicating any single conflict report.",
+      "contentReview": {
+        "bodyComplete": true,
+        "aiSummaryReviewed": true
+      }
+    },
+    {
+      "articleId": "mundo-2026-09-22-g7-exige-fim-apoio-houthis",
+      "url": "https://www.bbc.com/news/articles/cwm2qpmepmlzo",
+      "publishedAt": "2026-09-22T07:14:12.616Z",
+      "evidence": "Complete extraction 1cfe2326e002.json (HTTP 200), canonical URL matches the source URL, publishedAt 2026-09-22T07:14:12.616Z, retrieved 2026-09-22T11:23:52.972Z, contains 30 paragraphs and 822 words with no warnings. It reports the G7 statement, the Bab al-Mandab escalation, displacement estimates, the attributed Mokha casualty report, and the defensive support announced by Britain and France.",
+      "selectionReason": "Fresh, high-impact regional-security report from BBC News with direct implications for shipping and energy; selected as a distinct G7 statement, not as duplicate coverage of the separate British support announcement.",
+      "contentReview": {
+        "bodyComplete": true,
+        "aiSummaryReviewed": true
+      }
+    },
+    {
+      "articleId": "mundo-2026-09-22-bomba-segunda-guerra-falmouth",
+      "url": "https://www.bbc.com/news/articles/c9rk3vm3plego",
+      "publishedAt": "2026-09-22T09:56:01.429Z",
+      "evidence": "Complete extraction 2cfc367e3b69.json (HTTP 200), canonical URL matches the source URL, publishedAt 2026-09-22T09:56:01.429Z, retrieved 2026-09-22T11:23:53.148Z, contains 37 paragraphs and 824 words with no warnings. It reports the suspected 250kg World War Two missile, the reduced cordon, precautionary evacuation, specialist assessment, and the unresolved disposal method.",
+      "selectionReason": "Fresh, fully extracted public-safety report with a clearly bounded local impact and a distinct historical-infrastructure angle; selected to replace the preliminary trade item whose source timestamp could fall beyond the immutable cutoff under local-time parsing.",
+      "contentReview": {
+        "bodyComplete": true,
+        "aiSummaryReviewed": true
+      }
+    },
+    {
+      "articleId": "mundo-2026-09-22-norte-coreia-sistema-hipersonico",
+      "url": "https://apnews.com/article/north-korea-missile-kim-hypersonic-27b540de28525e4bf23c89b90991393d",
+      "publishedAt": "2026-09-22T02:58:04",
+      "evidence": "Complete extraction dda7e1410bd1.json (HTTP 200), canonical URL matches the source URL, publishedAt 2026-09-22T02:58:04, retrieved 2026-09-22T11:23:48.698Z, contains 17 paragraphs and 882 words with no warnings. It reports the test claims, South Korean detection figures, the stated performance data, and the official caveat that North Korean claims cannot be independently accepted as fully reliable.",
+      "selectionReason": "Fresh, consequential military development with explicit source-side uncertainty; selected as the missile-test event, distinct from the separate South Korean policy interview about phased denuclearization.",
+      "contentReview": {
+        "bodyComplete": true,
+        "aiSummaryReviewed": true
+      }
+    },
+    {
+      "articleId": "mundo-2026-09-22-coreia-denuclearizacao-gradual",
+      "url": "https://apnews.com/article/koreas-lee-trump-kim-un-nuclear-2c12c8b88ca37e9dab861af584efa574",
+      "publishedAt": "2026-09-22T00:30:25",
+      "evidence": "Complete extraction aba62d65dad0.json (HTTP 200), canonical URL matches the source URL, publishedAt 2026-09-22T00:30:25, retrieved 2026-09-22T11:23:46.016Z, contains 32 paragraphs and 1,048 words with no warnings. It reports Lee's interview, the phased proposal, attributed nuclear estimates, diplomatic obstacles, and the South Korea-U.S. relationship.",
+      "selectionReason": "High-impact diplomatic policy proposal from a complete AP interview; selected as a distinct political initiative, not duplicate coverage of the separate North Korean missile-test report.",
+      "contentReview": {
+        "bodyComplete": true,
+        "aiSummaryReviewed": true
+      }
+    },
+    {
+      "articleId": "mundo-2026-09-22-mercados-globais-alta",
+      "url": "https://apnews.com/article/markets-ai-oil-wall-street-de8c5f9659e44556e40e661f794b48ad",
+      "publishedAt": "2026-09-22T03:31:07",
+      "evidence": "Complete extraction 19cba3368267.json (HTTP 200), canonical URL matches the source URL, publishedAt 2026-09-22T03:31:07, retrieved 2026-09-22T11:23:41.454Z, contains 15 paragraphs and 416 words with no warnings. It supplies regional index moves, oil prices, the Strait of Hormuz context, AI-market context, and currency levels.",
+      "selectionReason": "Current AP market snapshot that adds global economic coverage to a desk otherwise dominated by diplomacy and conflict; selected for distinct cross-market impact and precise, time-stamped figures.",
+      "contentReview": {
+        "bodyComplete": true,
+        "aiSummaryReviewed": true
+      }
+    },
+    {
+      "articleId": "mundo-2026-09-22-gloriavale-perde-status-caridade",
+      "url": "https://apnews.com/article/new-zealand-gloriavale-commune-charity-status-trust-6c6c4ce0dfa9ae9b29ed2aa7d322c72e",
+      "publishedAt": "2026-09-22T06:49:17",
+      "evidence": "Complete extraction 0046a26cd1dc.json (HTTP 200), canonical URL matches the source URL, publishedAt 2026-09-22T06:49:17, retrieved 2026-09-22T11:23:47.356Z, contains 24 paragraphs and 750 words with no warnings. It reports the board's three-year decision, cited court and school findings, appeal possibility, financial context, and Temple's governance ban.",
+      "selectionReason": "Fresh AP accountability report with a formal state decision, documented legal findings, and clear public-interest consequences; selected as a distinct institutional story rather than a general crime brief.",
+      "contentReview": {
+        "bodyComplete": true,
+        "aiSummaryReviewed": true
+      }
+    },
+    {
+      "articleId": "cultura-2026-09-22-burberry-london-fashion-week",
+      "url": "https://www.bbc.com/news/articles/cmzxz2pe5vd0o",
+      "publishedAt": "2026-09-22T09:46:15.766Z",
+      "evidence": "Complete extraction 66438282a1fb.json (HTTP 200), canonical URL matches the source URL, publishedAt 2026-09-22T09:46:15.766Z, retrieved 2026-09-22T11:23:51.201Z, contains 34 paragraphs and 926 words with no warnings. It reports Burberry's show, the McQueen and Mulberry returns, British Fashion Council aims, and attributed trend analysis.",
+      "selectionReason": "Most current established-source culture item in the run, with international industry relevance and enough complete material for a substantive bilingual report; selected to keep the desk from becoming a duplicate conflict digest.",
+      "contentReview": {
+        "bodyComplete": true,
+        "aiSummaryReviewed": true
+      }
+    },
+    {
+      "articleId": "mundo-2026-09-22-trump-mamdani-encontro",
+      "url": "https://apnews.com/article/donald-trump-zohran-mamdani-new-york-40a2a3e36c47e5ddec61cba145292344",
+      "publishedAt": "2026-09-21T23:23:00",
+      "evidence": "Complete extraction 67d50d000fe2.json (HTTP 200), canonical URL matches the source URL, publishedAt 2026-09-21T23:23:00, retrieved 2026-09-22T11:23:43.729Z, contains 18 paragraphs and 576 words with no warnings. It reports the hourlong meeting, the housing discussion, prior encounters, and stated political differences.",
+      "selectionReason": "Fresh 2026-09-21 AP report linked to U.N. week and a consequential U.S. city-policy relationship; selected as a distinct meeting rather than duplicating the broader U.N. outlook story.",
+      "contentReview": {
+        "bodyComplete": true,
+        "aiSummaryReviewed": true
+      }
+    },
+    {
+      "articleId": "mundo-2026-09-22-falha-controle-trafego-britanico",
       "url": "https://www.bbc.com/news/articles/cqp80p78mxx5o",
-      "publishedAt": "2026-09-21T15:28:07.459Z",
-      "evidence": "Complete extraction 150ef8722727.json (HTTP 200), published 2026-09-21T15:28:07.459Z, reports a connectivity failure at Prestwick that disrupted UK flights, at least 200 cancellations or non-operated flights by 13:45 BST, and restoration to full capacity. This is a routine service report; no independent corroboration was needed or available in the run.",
-      "selectionReason": "Fresh, reputable BBC service report with concrete passenger impact and an operational resolution inside the 24-hour window.",
-      "contentReview": {
-        "bodyComplete": true,
-        "aiSummaryReviewed": true
-      }
-    },
-    {
-      "articleId": "mundo-20260921-russia-united-parliament-majority",
-      "url": "https://apnews.com/article/russia-elections-kremlin-putin-5342c2757623f2e46e94b4c548e94213",
-      "publishedAt": "2026-09-21T00:00:00.000Z",
-      "evidence": "Complete extraction 1ae251e81a68.json, published 2026-09-21, reports preliminary United Russia results of about 58% and 355 of 450 Duma seats after more than 95% of stations were counted, plus restrictions on opposition and objections to voting in occupied Ukrainian areas. Complete extraction 32b683ec7c3c.json from Agência Brasil independently confirms 57.83% and 355 seats; corroboration is limited to the preliminary result figures.",
-      "selectionReason": "Major current international election result with direct institutional figures and independent same-run corroboration, while the copy preserves the preliminary status and contested context.",
-      "contentReview": {
-        "bodyComplete": true,
-        "aiSummaryReviewed": true
-      }
-    },
-    {
-      "articleId": "mundo-20260921-germany-merz-election-defeats",
-      "url": "https://apnews.com/article/germany-elections-chancellor-merz-reform-f8cae1d2218962a0200ab26186053028",
-      "publishedAt": "2026-09-21T00:00:00.000Z",
-      "evidence": "Complete extraction 235dced888da.json, published 2026-09-21, reports CDU losses in Berlin and Mecklenburg-Western Pomerania, the CDU falling below 5% in the latter, AfD strength, Merz staying in office and no visible leadership challenge. Complete extraction b48d84bd70f0.json from CNN Brasil independently corroborates the state-election results and pressure on Merz.",
-      "selectionReason": "High-impact European political development with current final-result reporting and independent same-run corroboration.",
-      "contentReview": {
-        "bodyComplete": true,
-        "aiSummaryReviewed": true
-      }
-    },
-    {
-      "articleId": "mundo-20260921-p4m-multilateralism-initiative",
-      "url": "https://g1.globo.com/mundo/noticia/2026/09/20/brasil-ue-canada-e-quenia-criam-alianca-global-pelo-multilateralismo-as-vesperas-de-assembleia-geral-da-onu.ghtml",
-      "publishedAt": "2026-09-20T18:23:50.898-03:00",
-      "evidence": "Complete extraction 8a5bc1acb4a1.json, published 2026-09-20T18:23:50.898-03:00, reports the P4M manifesto by Brazil, the European Union, Canada and Kenya before the U.N. General Assembly, including its open coalition model and reform aims. Complete extraction b2e40961f1a2.json independently confirms the signatories, manifesto and stated institutional goals.",
-      "selectionReason": "Current diplomatic initiative directly relevant to Brazil and the international agenda, supported by two complete reputable extractions covering the same announcement.",
-      "contentReview": {
-        "bodyComplete": true,
-        "aiSummaryReviewed": true
-      }
-    },
-    {
-      "articleId": "mundo-20260921-dmz-explosion-south-korean-officers",
-      "url": "https://apnews.com/article/north-korea-dmz-explosion-border-85889eaed6308b7c05a2bf402076c772",
-      "publishedAt": "2026-09-21T00:00:00.000Z",
-      "evidence": "Complete extraction d994caa9c458.json (HTTP 200), published 2026-09-21, reports three South Korean officers injured in an explosion inside the western DMZ, the evacuation of all three and an unknown cause. Independent corroboration: Yonhap reports the same three-officer injury, search operation and unresolved mine cause at https://en.yna.co.kr/view/AEN20260921006153315. Both reports leave responsibility and the mine’s origin unresolved.",
-      "selectionReason": "Fresh, clearly attributed border-security report corroborated by Yonhap; the copy avoids assigning blame or treating an unconfirmed mine theory as fact.",
-      "contentReview": {
-        "bodyComplete": true,
-        "aiSummaryReviewed": true
-      }
-    },
-    {
-      "articleId": "mundo-20260921-nvidia-ai-extinction-debate",
-      "url": "https://www.bbc.com/news/articles/cr5ye7p13jg7o",
-      "publishedAt": "2026-09-21T06:25:43.927Z",
-      "evidence": "Complete extraction 47ebd43620b6.json (HTTP 200), published 2026-09-21T06:25:43.927Z, reports Jensen Huang rejecting AI-extinction predictions, the competing calls for slower development, and the related U.S.-China discussion of an AI safety notification mechanism. The article attributes the views and preserves the debate rather than presenting a forecast as established fact.",
-      "selectionReason": "Current global technology and AI-safety debate from a complete BBC report, framed as attributed positions rather than verified predictions; classified as low-risk commentary because it reports public statements and competing views, not an unverified incident or safety claim.",
-      "contentReview": {
-        "bodyComplete": true,
-        "aiSummaryReviewed": true
-      }
-    },
-    {
-      "articleId": "mundo-20260920-converse-ad-apology",
-      "url": "https://apnews.com/article/converse-ad-removed-sneakers-0b8858b25f50a3e820a2fcc3ef5d0410",
-      "publishedAt": "2026-09-20T00:00:00.000Z",
-      "evidence": "Complete extraction 317563e56732.json (HTTP 200), published 2026-09-20, reports Converse removing a social-media ad after critics said its imagery evoked racist references, followed by an apology and unanswered questions about ad screening. The source also records mixed public reactions; no allegation beyond the documented criticism is asserted.",
-      "selectionReason": "Low-risk current culture and business accountability report from a complete AP extraction, suitable for single-source treatment.",
-      "contentReview": {
-        "bodyComplete": true,
-        "aiSummaryReviewed": true
-      }
-    },
-    {
-      "articleId": "mundo-20260921-cate-blanchett-no-filming",
-      "url": "https://www.bbc.com/news/articles/cmvgyzpy6g43o",
-      "publishedAt": "2026-09-21T14:03:20.131Z",
-      "evidence": "Complete extraction b19825bc4dd2.json (HTTP 200), published 2026-09-21T14:03:20.131Z, reports Cate Blanchett asking theatergoers not to film at the National Theatre and an audience account that the recording occurred during the interval. It also gives the production dates and comparable incidents involving other performers.",
-      "selectionReason": "Fresh, low-risk culture report with a clear event, direct attribution and complete source text.",
-      "contentReview": {
-        "bodyComplete": true,
-        "aiSummaryReviewed": true
-      }
-    },
-    {
-      "articleId": "mundo-20260921-un-climate-ai-renewables",
-      "url": "https://apnews.com/article/climate-change-un-fuel-ai-renewables-f3208930e39c7d233bdc24315065dcd2",
-      "publishedAt": "2026-09-21T13:00:29Z",
-      "evidence": "Complete extraction 90d5e96932c0.json (HTTP 200), published 2026-09-21T13:00:29Z, with warnings empty and complete=true. The AP report covers climate costs, heat waves, wildfires, the Nepal-China border flood that killed more than 1,300 people, energy-price pressure, AI and data centers, and the need to accelerate renewable deployment. Independent corroboration: IRENA's 2026 Renewable Capacity Statistics (https://www.irena.org/-/media/Files/IRENA/Agency/Publication/2026/Mar/IRENA_DAT_RE_capacity_statistics_2026.pdf) confirms the renewable-growth trend and records 692 GW of 2025 additions; the article uses that primary figure and keeps the AP report for the UN agenda and disaster chronology.",
-      "selectionReason": "Distinct, current AP climate and world-affairs report inside the 24-hour window, with complete dated evidence and concrete climate, energy, AI and renewable-capacity developments; it replaces the low-relevance streaming schedule without padding the section.",
-      "contentReview": {
-        "bodyComplete": true,
-        "aiSummaryReviewed": true
-      }
-    },
-    {
-      "articleId": "mundo-20260921-ted-lasso-oxford-city-goalkeeper",
-      "url": "https://www.bbc.com/news/articles/cq8jeq88wk3o",
-      "publishedAt": "2026-09-21T05:14:47.828Z",
-      "evidence": "Complete extraction f207024a4040.json (HTTP 200), published 2026-09-21T05:14:47.828Z, reports Oxford City goalkeeper Robyn Cullen’s recurring role as a goalkeeper in Ted Lasso’s fourth season and her account of the family response to the premiere. This is a low-risk culture and sport profile using one complete BBC source.",
-      "selectionReason": "Current, reputable human-interest culture/sport report that broadens the desk beyond hard-news duplication without relying on allegations or unverified claims.",
+      "publishedAt": "2026-09-21T20:21:18.689Z",
+      "evidence": "Complete extraction 150ef8722727.json (HTTP 200), canonical URL matches the source URL, publishedAt 2026-09-21T20:21:18.689Z, retrieved 2026-09-22T11:23:52.738Z, contains 39 paragraphs and 978 words with no warnings. It reports the Prestwick connectivity failure, cancellation figures, passenger-rights caveat, the two control centers, and the independent review.",
+      "selectionReason": "Established BBC service report with concrete cross-region passenger impact and a defined regulatory follow-up; selected as a distinct infrastructure failure rather than duplicate conflict or diplomacy coverage.",
       "contentReview": {
         "bodyComplete": true,
         "aiSummaryReviewed": true
@@ -119,7 +126,7 @@
     "en": ""
   },
   "improvements": [],
-  "candidateRun": "research/runs/2026-09-21T16-48-24-436Z-221c0d1e-a836-45cb-b034-62c6ef37c843",
-  "retrievedAt": "2026-09-21T18:03:53.289Z",
+  "candidateRun": "research/runs/2026-09-22T11-21-20-336Z-6df281a2-9343-4cb7-a1b3-001b9e9a3dde",
+  "retrievedAt": "2026-09-22T11:21:25.354Z",
   "reviewStatus": "draft-source-verified-no-publication-approval"
 }

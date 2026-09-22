@@ -1,113 +1,128 @@
 {
   "section": "ciencia",
-  "cutoff": "2026-09-21T16:48:24.436Z",
-  "queries": [],
+  "cutoff": "2026-09-22T11:21:20.336Z",
+  "queries": [
+    "Ciência notícias Brasil",
+    "Science latest news Brazil",
+    "ciência saúde clima espaço pesquisa notícias recentes",
+    "NASA climate health research latest news",
+    "pesquisa científica brasileira saúde clima espaço notícias",
+    "site:agencia.fapesp.br ciência pesquisa",
+    "site:nasa.gov news science",
+    "site:iaea.org/newscenter news science",
+    "site:nature.com science research latest news",
+    "site:sciencedaily.com/releases science research",
+    "site:news.mit.edu science research latest",
+    "site:medicalxpress.com/news science health research",
+    "site:space.com space science latest news",
+    "focused-query note: NASA APOD and ESTIM primary pages were extracted separately after the broad batch to add current space and Earth-science coverage; both focused records were complete, status 200 and warning-free."
+  ],
   "verified": [
     {
-      "articleId": "ciencia-edicao-epigenetica-hepatite-b",
-      "url": "https://www.nature.com/articles/d41586-026-02981-9",
-      "publishedAt": "2026-09-21T00:00:00.000Z",
-      "evidence": "Complete extraction file 23f4bb9b0fbe.json from Nature, dated 2026-09-21 (calendar date only). It reports CRMA-1001 epigenetic tagging of hepatitis B viral DNA, results in human liver cells, mice and monkeys, and the first participant in a multiple-dose clinical trial. No independent corroboration URL was available in another complete extraction in this run; the source is retained as a complete, directly extracted Nature report. No independent corroboration was materially necessary: this is a low-risk research report, not medical advice or a treatment claim; the copy separates cell and animal results from the first participant in an early trial and does not promise efficacy.",
-      "selectionReason": "Current, substantive, directly extracted Nature science report with a clear research result and an explicit distinction between preclinical evidence and the early human trial; classified as low-risk because it makes no treatment recommendation or efficacy claim.",
+      "articleId": "ciencia-2026-09-22-morte-celular",
+      "url": "https://www.nature.com/articles/d41586-026-02929-z",
+      "publishedAt": "2026-09-22T00:00:00-03:00",
+      "evidence": "Complete extraction research/runs/2026-09-22T11-21-20-336Z-6df281a2-9343-4cb7-a1b3-001b9e9a3dde/extractions/ciencia/0d1ae821a9e8.json was retrieved with status 200, complete=true, 83 paragraphs and no warnings. The calendar date is 2026-09-22; the article records a local-midnight normalized publishedAt for ordering and preserves publishedDate separately. The extraction covers alkaliptosis, the expansion from two classical cell-death modes to about 20 described forms, immune and tissue effects, and evidence for reversible death through anastasis.",
+      "selectionReason": "Most substantive and authoritative current health-science report in the run, from Nature, with direct relevance to cancer biology, inflammation and immunity; selected first for source quality, depth and public scientific interest.",
       "contentReview": {
         "bodyComplete": true,
         "aiSummaryReviewed": true
       }
     },
     {
-      "articleId": "brasil-ibge-mapas-mundi-downloads-2026-09-21",
-      "url": "https://agenciadenoticias.ibge.gov.br/agencia-noticias/2012-agencia-de-noticias/noticias/48104-colecao-de-mapas-mundi-do-ibge-ultrapassa-7-4-mil-downloads-apos-liberacao-gratuita",
-      "publishedAt": "2026-09-21T14:29:35+00:00",
-      "evidence": "Complete extraction file 461d5d455149.json from the IBGE news agency, published 2026-09-21 at 14:29:35 UTC. It reports 7,408 downloads since September 7, the three leading map variants and the continued free availability of the 2024-2026 collection. This is a low-risk official service/result report, so one complete reputable source is sufficient.",
-      "selectionReason": "Current official Brazilian science and information-service report with complete date and concrete public-use results; distinct from the research and policy items.",
+      "articleId": "ciencia-2026-09-22-alinhamento-apod",
+      "url": "https://science.nasa.gov/image-article/apod-2026-september-22-chance-triple-alignment-plane-space-station-sun/",
+      "publishedAt": "2026-09-22T00:05:00-04:00",
+      "evidence": "Complete focused extraction research/runs/2026-09-22T11-21-20-336Z-6df281a2-9343-4cb7-a1b3-001b9e9a3dde/extractions/ciencia/focused-apod.json was retrieved with status 200, complete=true, 6 paragraphs and no warnings. NASA’s page gives the exact 2026-09-22T00:05:00-04:00 publication time and describes the planned sub-second capture from Prasek, the sunspots, ISS, airplane and the photographer’s approximately one-in-30-million estimate.",
+      "selectionReason": "Current primary NASA space-science item with an exact timestamp and a distinct visual astronomy event; selected as a concise, low-risk observational story that adds space coverage without duplicating a mission or policy report.",
       "contentReview": {
         "bodyComplete": true,
         "aiSummaryReviewed": true
       }
     },
     {
-      "articleId": "ciencia-temporada-de-degelo-do-artico",
-      "url": "https://science.nasa.gov/earth/earth-observatory/arctic-melt-season-length-levels-off/",
-      "publishedAt": "2026-09-21T00:00:00-04:00",
-      "evidence": "Complete extraction file 830d3c1eb1e2.json from NASA Science, published 2026-09-21 at 00:00:00-04:00. It reports a 1979-2023 satellite analysis finding an Arctic melt season about 40 days longer than in 1979, with most growth before 2010 and relative stabilization afterward, while warning that the pause may be temporary. No independent corroboration URL was available in another complete extraction in this run. No independent corroboration was materially necessary: NASA is the primary source for its own satellite analysis, the item is an observational science report, and the copy preserves the warning that stabilization may be temporary.",
-      "selectionReason": "Current primary-source NASA science report with a complete timestamp, explicit methods and careful limits on what the stabilization finding means; classified as low-risk observational science rather than a policy or safety claim.",
+      "articleId": "ciencia-2026-09-22-pinguim-gentoo",
+      "url": "https://news.ssbcrack.com/new-gentoo-penguin-species-identified-in-the-kerguelen-islands/",
+      "publishedAt": "2026-09-22T00:16:57-04:00",
+      "evidence": "Complete extraction research/runs/2026-09-22T11-21-20-336Z-6df281a2-9343-4cb7-a1b3-001b9e9a3dde/extractions/ciencia/c63ef64568d7.json was retrieved with status 200, complete=true, 12 paragraphs and no warnings. It reports the designation of Pygoscelis kerguelensis, four gentoo species identified through genetic evidence, whole-genome data from 64 penguins at ten colonies, trait comparisons and conservation pressures linked to climate, habitat and fisheries.",
+      "selectionReason": "Distinct current biodiversity story with a concrete genomic basis, a named species and conservation context; selected to represent environment and evolution while keeping all claims attributed to the complete report.",
       "contentReview": {
         "bodyComplete": true,
         "aiSummaryReviewed": true
       }
     },
     {
-      "articleId": "ciencia-conferencia-geral-iaea-70",
-      "url": "https://www.iaea.org/newscenter/news/week-in-review-iaea-70th-general-conference",
-      "publishedAt": "2026-09-21T00:00:00.000Z",
-      "evidence": "Complete extraction file 8db919a8e834.json from the IAEA, dated 2026-09-21. It summarizes the five-day 70th General Conference, more than 3,600 participants from 160 member states, the election of 11 countries including Brazil to the 35-member Board of Governors, the Rays of Hope cancer-care initiative and nuclear/uranium projections. This is a routine official institutional report, so one complete reputable source is sufficient.",
-      "selectionReason": "Current official international science and nuclear-policy summary with complete date-only evidence and multiple concrete conference outcomes; it is retained instead of the overlapping TVC item.",
+      "articleId": "ciencia-2026-09-22-estim-nasa",
+      "url": "https://esto.nasa.gov/estim2026/",
+      "publishedAt": "2026-09-22T00:00:00-03:00",
+      "evidence": "Complete focused extraction research/runs/2026-09-22T11-21-20-336Z-6df281a2-9343-4cb7-a1b3-001b9e9a3dde/extractions/ciencia/focused-estim.json was retrieved with status 200, complete=true, 33 paragraphs and no warnings. The page has no publication timestamp; 2026-09-22T00:00:00-03:00 is a normalized event-start marker because ESTIM2026 is scheduled for September 22-24. The evidence contains the meeting purpose, invitation status, venue, three-day agenda and Earth-science technology themes.",
+      "selectionReason": "Primary NASA Earth-science institutional program with complete evidence and current event dates; selected for its breadth across remote sensing, hydrology, wildfire, atmosphere, modeling and mission autonomy.",
       "contentReview": {
         "bodyComplete": true,
         "aiSummaryReviewed": true
       }
     },
     {
-      "articleId": "ciencia-ai-co-cientista",
-      "url": "https://www.nature.com/articles/d41586-026-02931-5",
-      "publishedAt": "2026-09-21T00:00:00.000Z",
-      "evidence": "Complete extraction file d41918848bb0.json from Nature, dated 2026-09-21. It describes the Co-Scientist system's multi-agent search, synthesis, hypothesis refinement and critique workflow, including Anna Pertl's use of it to explore MYC-related cancer biology, and emphasizes continued human judgment. No independent corroboration URL was available in another complete extraction in this run. No independent corroboration was materially necessary: this is a low-risk report of a research workflow, and the copy preserves the human-judgment limitation rather than presenting the system as an autonomous scientific authority.",
-      "selectionReason": "Current, substantive Nature report on a scientifically relevant AI workflow, with clear description of both the capability and the human-review limitation; classified as low-risk research reporting rather than a clinical or product-performance claim.",
+      "articleId": "ciencia-2026-09-22-primavera-astronomia",
+      "url": "https://www.gov.br/mcti/pt-br/acompanhe-o-mcti/noticias/noticias-julho-outubro-2026/primavera-2026-ciencia-explica-as-mudancas-na-vegetacao-nas-temperaturas-e-nas-chuvas",
+      "publishedAt": "2026-09-22T00:00:00-03:00",
+      "evidence": "Complete extraction research/runs/2026-09-22T11-21-20-336Z-6df281a2-9343-4cb7-a1b3-001b9e9a3dde/extractions/tecnologia/5252e1219874.json was retrieved with status 200, complete=true, 12 paragraphs and no warnings. The source gives the 2026-09-22 seasonal start at 21:05 Brasília time, explanations from the National Observatory and INPE, and the reported transition from dry conditions to more localized rain in parts of Brazil. The page has no publication timestamp, so the event date is used as a normalized publishedAt.",
+      "selectionReason": "Official Brazilian science explainer anchored in astronomy and Earth-system knowledge, with a current seasonal event and named institutional experts; selected instead of weather-only forecast pages because the evidence explains the physical mechanism and seasonal transition.",
       "contentReview": {
         "bodyComplete": true,
         "aiSummaryReviewed": true
       }
     },
     {
-      "articleId": "ciencia-vermes-regeneracao-cerebral",
-      "url": "https://news.uga.edu/regenerating-the-brain/",
-      "publishedAt": "2026-09-21T13:21:23+00:00",
-      "evidence": "Complete extraction file focused-ciencia-23.json from the University of Georgia, published 2026-09-21 at 13:21 UTC. It reports genes that guide planarian stem cells to form dopamine-producing neurons, the effects of gene knockouts on regeneration and the study's possible relevance to future brain-injury therapies. No independent corroboration was materially necessary: this is a primary university report of preclinical planarian research, and the copy explicitly distinguishes possible future relevance from an available human therapy.",
-      "selectionReason": "Current primary university science report with a complete dated body and a concrete regenerative-biology result; the source clearly distinguishes future therapeutic relevance from an available treatment, and the item is classified as low-risk preclinical research.",
+      "articleId": "ciencia-2026-09-22-cpqba-unicamp",
+      "url": "https://www.unicamp.br/noticias/2026/09/21/parque-cientifico-e-tecnologico-abre-edital-para-uso-de-campo-agricola-do-cpqba/",
+      "publishedAt": "2026-09-21T18:26:07+00:00",
+      "evidence": "Complete extraction research/runs/2026-09-22T11-21-20-336Z-6df281a2-9343-4cb7-a1b3-001b9e9a3dde/extractions/tecnologia/81cd65e23dcb.json was retrieved with status 200, complete=true, 25 paragraphs and no warnings. The source reports 7.7 hectares of experimental agricultural field and laboratory access, CPQBA’s research areas, continuous proposal review, contract limits, infrastructure and the ban on synthetic agricultural pesticides.",
+      "selectionReason": "Current official university research-and-innovation report with exact publication time and concrete agricultural, biotechnology and sustainability content; selected for Brazilian relevance and a distinct applied-science angle.",
       "contentReview": {
         "bodyComplete": true,
         "aiSummaryReviewed": true
       }
     },
     {
-      "articleId": "ciencia-bebes-atencao-rostos",
-      "url": "https://www.theguardian.com/science/2026/sep/21/baby-girls-boys-interest-faces-nature-nurture",
-      "publishedAt": "2026-09-21T09:00:20+00:00",
-      "evidence": "Complete extraction file focused-ciencia-20.json from The Guardian, published 2026-09-21 at 09:00 UTC. It reports an eye-tracking study of 130 newborns, the average difference in face-versus-toy attention, the study's limits and the researchers' need for longer follow-up. No independent corroboration was materially necessary: this is a low-risk observational science report, not medical advice or a clinical claim, and the article itself states the sample, uncertainty and limits.",
-      "selectionReason": "Current, substantive and dated science report with a clearly stated sample, measured result and caution against applying a group average to individual children; classified as low-risk because it reports an observational study without treatment or policy claims.",
+      "articleId": "ciencia-2026-09-22-florestas-terapeuticas",
+      "url": "https://www.noticiasaominuto.com/mundo/3055026/bussaco-vai-coordenar-projeto-internacional-sobre-florestas-terapeuticas",
+      "publishedAt": "2026-09-21T18:48:46+01:00",
+      "evidence": "Complete extraction research/runs/2026-09-22T11-21-20-336Z-6df281a2-9343-4cb7-a1b3-001b9e9a3dde/extractions/mundo/efe0073da9e6.json was retrieved with status 200, complete=true, 19 paragraphs and no warnings. It reports the three-year PhorestAll project, budget above one million euros, five-country consortium, the biodiversity/soil-microbiome/phytoncide design, participant health indicators, community participation and the scheduled first session.",
+      "selectionReason": "Current health-science and environment project with named institutions, a defined study design and international scope; selected because it connects biodiversity research to measurable human well-being without presenting a therapy as an established treatment.",
       "contentReview": {
         "bodyComplete": true,
         "aiSummaryReviewed": true
       }
     },
     {
-      "articleId": "ciencia-buracos-negros-jatos",
-      "url": "https://www.theguardian.com/science/2026/sep/17/black-hole-burps-scientists-solve-mystery-astronomy",
-      "publishedAt": "2026-09-17T09:00:44+00:00",
-      "evidence": "Complete extraction file focused-ciencia-21.json from The Guardian, published 2026-09-17 at 09:00 UTC. It reports radio observations of 20 tidal-disruption events, two recurring jet-emission phases and the possible value for telescope scheduling. No independent corroboration was materially necessary: this is a low-risk observational astronomy report with a defined sample and measured limits, not a safety, health or policy claim.",
-      "selectionReason": "In-scope, substantive astronomy report within the seven-day window, with a defined observational sample and measured limits rather than a speculative space claim; classified as low-risk observational astronomy with no health, safety or policy consequence.",
+      "articleId": "ciencia-2026-09-22-matrizes-cultura-celular",
+      "url": "https://finance.yahoo.com/healthcare/articles/cell-culture-matrices-market-set-083600015.html",
+      "publishedAt": "2026-09-22T08:36:00+00:00",
+      "evidence": "Complete extraction research/runs/2026-09-22T11-21-20-336Z-6df281a2-9343-4cb7-a1b3-001b9e9a3dde/extractions/cultura/e5b76672763c.json was retrieved with status 200, complete=true, 39 paragraphs and no warnings. The GlobeNewswire/ResearchAndMarkets release reports the estimated 2025 market value, 2033 projection, 8% CAGR, 3D cell-culture applications and product, application, end-use and regional segments. Forecast figures remain explicitly attributed to the report.",
+      "selectionReason": "Complete current biomedical-research market report with concrete 3D-cell-culture applications and clearly attributed forecasts; selected as a health-science infrastructure story, not as an efficacy claim or investment recommendation.",
       "contentReview": {
         "bodyComplete": true,
         "aiSummaryReviewed": true
       }
     },
     {
-      "articleId": "ciencia-felino-tigre-bolivia",
-      "url": "https://www.theguardian.com/world/2026/sep/17/new-cat-species-identified-bolivia",
-      "publishedAt": "2026-09-17T20:43:38+00:00",
-      "evidence": "Complete extraction file focused-ciencia-17.json from The Guardian, published 2026-09-17 at 20:43 UTC. It reports the genetic identification of Leopardus tilcayo, analysis of 38 cats, the inferred 1.4-million-year lineage split and conservation pressure on the Yungas habitat. Independent corroboration: the Associated Press report at https://apnews.com/article/ae6f7928ae5b37be3cfd478fe6f1027c covers the same genetic identification and conservation context.",
-      "selectionReason": "Current biodiversity report with complete date and body, a concrete genetic basis for the species description and a clear conservation context; corroborated by an independent AP report and not duplicated elsewhere in the run.",
+      "articleId": "ciencia-2026-09-22-musica-escolhas-alimentares",
+      "url": "https://www.terra.com.br/vida-e-estilo/comportamento/voce-sabia-que-a-musica-pode-ter-influencia-no-que-voce-come-veja-o-que-diz-estudo,f655e40724d570046dca21a1b9e501e1k2bsx6kt.html",
+      "publishedAt": "2026-09-22T00:00:00-03:00",
+      "evidence": "Complete extraction research/runs/2026-09-22T11-21-20-336Z-6df281a2-9343-4cb7-a1b3-001b9e9a3dde/extractions/ciencia/2e13134182ad.json was retrieved with status 200, complete=true, 12 paragraphs and no warnings. The page does not expose a publication timestamp in the extraction; the local-midnight 2026-09-22 marker is used only for current-run ordering. The complete body reports four tests, 911 cafeteria meals, the 18.94% versus 13.59% comparison and the laboratory scores for calm and high-stimulation music.",
+      "selectionReason": "A distinct behavioral-health research report with a complete body, quantified study design and direct relevance to everyday food environments; selected after excluding weather-only, political, opinion and inaccessible candidates.",
       "contentReview": {
         "bodyComplete": true,
         "aiSummaryReviewed": true
       }
     },
     {
-      "articleId": "ciencia-cratera-recente-lua",
-      "url": "https://www.space.com/astronomy/moon/a-giant-new-crater-on-the-moon-space-photo-of-the-day-for-sept-21-2026",
-      "publishedAt": "2026-09-21T14:10:15+00:00",
-      "evidence": "Complete extraction file focused-ciencia-18.json from Space.com, published 2026-09-21 at 14:10 UTC. It reports the Lunar Reconnaissance Orbiter image of McGetchin crater, its measured dimensions, the estimated 2024 impact window and why the fresh site is scientifically useful.",
-      "selectionReason": "Current low-risk space-science report with a complete timestamp, concrete measurements and a direct connection to NASA mission data; one complete reputable source is sufficient for this routine observational result.",
+      "articleId": "ciencia-2026-09-22-ouro-rios-erosao",
+      "url": "https://oantagonista.com.br/economia/por-que-o-ouro-aparece-em-determinados-rios-e-nao-em-outros-a-relacao-entre-montanhas-erosao-e-antigos-depositos-minerais/",
+      "publishedAt": "2026-09-22T01:23:00+00:00",
+      "evidence": "Complete extraction research/runs/2026-09-22T11-21-20-336Z-6df281a2-9343-4cb7-a1b3-001b9e9a3dde/extractions/economia/ba9f34fb1007.json was retrieved with status 200, complete=true, 43 paragraphs and no warnings. It explains how erosion, quartz veins, tectonic and volcanic history, river-bed geometry, heavy sediment and floods contribute to alluvial-gold concentration; unrelated recommendation modules were excluded from the report.",
+      "selectionReason": "A self-contained geology explainer with an exact timestamp and distinct environmental-science content; selected to complete the desk’s coverage of Earth processes while omitting the source’s unrelated recommendation material.",
       "contentReview": {
         "bodyComplete": true,
         "aiSummaryReviewed": true
@@ -119,7 +134,7 @@
     "en": ""
   },
   "improvements": [],
-  "candidateRun": "research/runs/2026-09-21T16-48-24-436Z-221c0d1e-a836-45cb-b034-62c6ef37c843",
-  "retrievedAt": "2026-09-21T18:03:53.289Z",
+  "candidateRun": "research/runs/2026-09-22T11-21-20-336Z-6df281a2-9343-4cb7-a1b3-001b9e9a3dde",
+  "retrievedAt": "2026-09-22T11:26:42.066Z",
   "reviewStatus": "draft-source-verified-no-publication-approval"
 }

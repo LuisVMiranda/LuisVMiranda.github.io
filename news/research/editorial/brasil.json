@@ -1,113 +1,120 @@
 {
   "section": "brasil",
-  "cutoff": "2026-09-21T16:48:24.436Z",
-  "queries": [],
+  "cutoff": "2026-09-22T11:21:20.336Z",
+  "queries": [
+    "Brasil notícias Brasil",
+    "Brazil latest news Brazil",
+    "Brasil governo tribunais serviços públicos notícias recentes",
+    "site:agenciabrasil.ebc.com.br Brasil notícias",
+    "site:g1.globo.com Brasil notícias hoje",
+    "site:cnnbrasil.com.br Brasil notícias"
+  ],
   "verified": [
     {
-      "articleId": "brasil-quem-ama-cuida-segredos-familia-brandao-2026-09-21",
-      "url": "https://www.itatiaia.com.br/entretenimento/quem-ama-cuida-tres-segredos-enterrados-vao-explodir-a-familia-brandao/",
-      "publishedAt": "2026-09-21T13:11:26-03:00",
-      "evidence": "Complete extraction 0c6c721ce812.json, status 200 with no warnings, published 2026-09-21; the entertainment report describes a medical report that may contradict Adriana’s guilt, a planned criminal review, a hidden document and Fábia’s confession and blackmail. No corroboration was needed for this routine culture/entertainment plot report.",
-      "selectionReason": "Current within the 24-hour window, complete reputable local reporting, substantive culture item, and distinct from the other selected events.",
+      "articleId": "brasil-2026-09-22-helicoptero-rick-buscas",
+      "url": "https://agenciabrasil.ebc.com.br/geral/noticia/2026-09/fab-e-bombeiros-buscam-helicoptero-com-cantor-rick-desaparecido-em-sc",
+      "publishedAt": "2026-09-21T23:03:00-03:00",
+      "evidence": "Complete extraction b53eb4fd589c.json, status 200 with no warnings, published 2026-09-21; Agência Brasil reports the missing PP-MGR helicopter near São Joaquim, the presence of singer Rick and businessman Bruno Avelar, the Porto Belo departure and 4 p.m. last contact, the FAB Black Hawk and SC-105 search aircraft, two search points about 30 kilometers apart, and the participation of about 20 firefighters with four-wheel-drive vehicles. The report describes an ongoing search and does not assert an outcome.",
+      "selectionReason": "Strong pre-cutoff national public-safety report from Agência Brasil with concrete search details and careful treatment of an unresolved event; selected as the desk's distinct breaking-news item instead of the several duplicate helicopter reports in the candidate run.",
       "contentReview": {
         "bodyComplete": true,
         "aiSummaryReviewed": true
       }
     },
     {
-      "articleId": "brasil-tst-dissidio-correios-greve-2026-09-21",
-      "url": "https://agenciabrasil.ebc.com.br/radioagencia-nacional/justica/audio/2026-09/tst-julga-nesta-segunda-feira-dissidio-coletivo-dos-correios",
-      "publishedAt": "2026-09-21T12:23:00-03:00",
-      "evidence": "Complete extraction 3d06b16c81a1.json, status 200 with no warnings, published 2026-09-21; it reports the scheduled TST hearing after a week of strike, the health-plan dispute, the 0.87% offer, worker demands, the 80% staffing order and Correios’ service statement. No corroboration was needed for this routine labor schedule report.",
-      "selectionReason": "Current scheduled labor report from Agência Brasil with concrete public-service implications and no duplicate event selected.",
+      "articleId": "brasil-2026-09-22-alerta-ventos-rio",
+      "url": "https://agenciabrasil.ebc.com.br/meio-ambiente/noticia/2026-09/defesa-civil-alerta-para-ventos-fortes-na-cidade-do-rio",
+      "publishedAt": "2026-09-22T00:16:00-03:00",
+      "evidence": "Complete extraction 17c092838b9e.json, status 200 with no warnings, published 2026-09-22; Agência Brasil reports the Rio Civil Defense phone alert, the cold-front forecast of cloudy skies, moderate to heavy rain and lightning, winds up to 51.9 km/h with gusts above 76 km/h, and the temperature and rain outlook through Friday. The earlier complete alert is used so the selected source remains within the immutable cutoff.",
+      "selectionReason": "Earliest complete pre-cutoff version of the desk's weather-safety story, with direct service value and measurable forecast details; selected once and not duplicated with the later post-cutoff weather update.",
       "contentReview": {
         "bodyComplete": true,
         "aiSummaryReviewed": true
       }
     },
     {
-      "articleId": "brasil-ibge-mapas-mundi-downloads-2026-09-21",
+      "articleId": "brasil-2026-09-22-quaest-pesquisa-presidente",
+      "url": "https://g1.globo.com/politica/eleicoes/2026/pesquisa-eleitoral/noticia/2026/09/21/quaest-divulga-nova-pesquisa-eleitoral-para-presidente-nesta-segunda-21.ghtml",
+      "publishedAt": "2026-09-21T09:26:47.104-03:00",
+      "evidence": "Complete extraction 07a58d86c486.json, status 200 with no warnings, published 2026-09-21; g1 reports the planned Quaest presidential poll, the prior first- and second-round figures, interviews with 2,004 people from September 17 to 20, the two-point margin of error, 95% confidence level, TSE registration BR-06004/2026, and questionnaire topics including government approval, the economy, the election, the STF crisis and the Master case. The report is framed as survey context and does not treat planned results as already released.",
+      "selectionReason": "Complete pre-cutoff election-research report from a major Brazilian outlet with transparent methodology and civic relevance; selected for national public interest and to replace the post-cutoff e-Título notice without repeating an event already selected in this desk.",
+      "contentReview": {
+        "bodyComplete": true,
+        "aiSummaryReviewed": true
+      }
+    },
+    {
+      "articleId": "brasil-2026-09-22-turma-kn-master",
+      "url": "https://www.cnnbrasil.com.br/politica/turma-do-kn-negociou-contrato-de-r-427-mi-com-master-apontam-mensagens/",
+      "publishedAt": "2026-09-21T17:07:29-03:00",
+      "evidence": "Complete extraction 734354d033d1.json, status 200 with no warnings, published 2026-09-21T17:07:29-03:00; CNN Brasil reports that messages from Daniel Vorcaro's phone, obtained by the Federal Police and sent to the STF, point to a R$427 million legal contract described as the ‘Turma do KN’, the possible release of R$8.5 billion in precatórios, the messages' identification of ‘KN’ with Justice Kassio Nunes Marques and the ‘group’ with Newton Ramos and Camilla Ramos, Nunes Marques's denials, the 12 sugar-sector cases, the 5% fee and payment timing, and Newton Ramos's response. The report attributes allegations to documents and messages and preserves responses rather than asserting wrongdoing as established.",
+      "selectionReason": "Complete pre-cutoff CNN Brasil investigation report with substantial documentary detail, explicit attribution and responses from named parties; selected as a distinct document-based public-interest item, not a duplicate of the existing Quaest survey story, which only mentions the Master case as a questionnaire topic.",
+      "contentReview": {
+        "bodyComplete": true,
+        "aiSummaryReviewed": true
+      }
+    },
+    {
+      "articleId": "brasil-2026-09-22-investigacao-isabelle-caracristi",
+      "url": "https://agenciabrasil.ebc.com.br/radioagencia-nacional/seguranca/audio/2026-09/mp-do-ceara-acompanha-investigacoes-sobre-morte-de-isabelle-caracristi",
+      "publishedAt": "2026-09-21T23:10:00-03:00",
+      "evidence": "Complete extraction d76612dc9dfb.json, status 200 with no warnings, published 2026-09-21; Agência Brasil reports that Ceará prosecutors are monitoring the investigation into the death of 22-year-old Isabelle Caracristi, that Civil Police and forensic authorities are conducting the inquiry, that the prosecutors' office is supporting the family, and that family lawyers described the case as being in the testimony stage. The account preserves the family's statements as allegations and does not assert an investigative conclusion.",
+      "selectionReason": "Recent, complete public-safety report with an official prosecutorial update and a clearly stated evidentiary boundary; selected over speculative crime coverage because it avoids declaring a cause or culprit.",
+      "contentReview": {
+        "bodyComplete": true,
+        "aiSummaryReviewed": true
+      }
+    },
+    {
+      "articleId": "brasil-2026-09-22-pe-de-meia-sexta-parcela",
+      "url": "https://agenciabrasil.ebc.com.br/educacao/noticia/2026-09/pe-de-meia-comeca-pagar-sexta-parcela-estudantes-nesta-segunda",
+      "publishedAt": "2026-09-21T19:38:00-03:00",
+      "evidence": "Complete extraction a1c7cf18b001.json, status 200 with no warnings, published 2026-09-21; Agência Brasil reports the start of the sixth Pé-de-Meia attendance installment, the payment window through September 28, the R$200 regular-school and R$225 EJA amounts, the birth-month calendar, the 80% attendance rule, CadÚnico and age requirements, and the treatment of withheld installments.",
+      "selectionReason": "Recent official education-service report with concrete payment dates, amounts and eligibility rules that affect students nationwide; selected for practical public value and distinct from the desk's legal, weather and security items.",
+      "contentReview": {
+        "bodyComplete": true,
+        "aiSummaryReviewed": true
+      }
+    },
+    {
+      "articleId": "brasil-2026-09-22-futebol-feminino-corinthians-bahia",
+      "url": "https://agenciabrasil.ebc.com.br/esportes/noticia/2026-09/futebol-feminino-tv-brasil-exibe-corinthians-e-bahia-pela-semifinal",
+      "publishedAt": "2026-09-21T18:44:00-03:00",
+      "evidence": "Complete extraction 06a15be7207f.json, status 200 with no warnings, published 2026-09-21; Agência Brasil reports the Corinthians-Bahia Women's Série A1 semifinal return leg, the 21h30 broadcast, Corinthians' 1-0 first-leg win, the advancement scenarios, TV Brasil's women's-football strategy and the competition format.",
+      "selectionReason": "Recent complete sports-service report with a scheduled match, verified scoreline and clear public-broadcast information; selected as one distinct women's-sports story rather than a duplicate match listing.",
+      "contentReview": {
+        "bodyComplete": true,
+        "aiSummaryReviewed": true
+      }
+    },
+    {
+      "articleId": "brasil-2026-09-22-tst-correios",
+      "url": "https://agenciabrasil.ebc.com.br/geral/noticia/2026-09/tst-suspende-julgamento-de-dissidio-da-greve-dos-correios",
+      "publishedAt": "2026-09-21T18:35:00-03:00",
+      "evidence": "Complete extraction 2f40e9a72272.json, status 200 with no warnings, published 2026-09-21; Agência Brasil reports the TST suspension and September 24 resumption date, the 48-hour union response period for newly filed documents, the president's due-process explanation, the strike's start after failed wage talks, the 80% staffing order and Correios' continuity plan.",
+      "selectionReason": "Recent labor and public-service report with a concrete court schedule and service implications; selected as distinct from the Pé-de-Meia education item and other institutional updates.",
+      "contentReview": {
+        "bodyComplete": true,
+        "aiSummaryReviewed": true
+      }
+    },
+    {
+      "articleId": "brasil-2026-09-22-jet-ski-maceio",
+      "url": "https://www.itatiaia.com.br/brasil/nordeste/al/jet-ski-adaptado-para-circular-no-asfalto-chama-atencao-em-maceio-veja-o-video/",
+      "publishedAt": "2026-09-21T20:35:47-03:00",
+      "evidence": "Complete extraction 4557813acb4a.json, status 200 with no warnings, published 2026-09-21T20:35:47-03:00; Rádio Itatiaia reports a jet ski adapted for road travel spotted in Maceió, the DMTT's requirement for prior authorization, the application of CTB article 98 to changes in color, suspension, engine, fuel and structure, the need to regularize and record changes in the CRLV, the article 230 VII serious infraction with R$195.23 fine, five CNH points and retention, and that the authority did not say whether this vehicle had authorization. The article does not resolve the vehicle's legal status.",
+      "selectionReason": "Complete pre-cutoff local service report with a directly attributed DMTT explanation and a bounded unresolved point; selected as a distinct transport-regulation and human-interest item, replacing the blocked local-fire story without duplicating the desk's weather, helicopter, investigation, labor or education events.",
+      "contentReview": {
+        "bodyComplete": true,
+        "aiSummaryReviewed": true
+      }
+    },
+    {
+      "articleId": "brasil-2026-09-22-ibge-mapas-mundi",
       "url": "https://agenciadenoticias.ibge.gov.br/agencia-noticias/2012-agencia-de-noticias/noticias/48104-colecao-de-mapas-mundi-do-ibge-ultrapassa-7-4-mil-downloads-apos-liberacao-gratuita",
       "publishedAt": "2026-09-21T14:29:35+00:00",
-      "evidence": "Complete extraction 461d5d455149.json, status 200 with no warnings, published 2026-09-21; IBGE reports 7,408 downloads since September 7, identifies the three most-downloaded maps and explains the 2024–2026 series and continued availability. No corroboration was needed for this low-risk official service/culture report.",
-      "selectionReason": "Fresh official IBGE item within the 24-hour window, useful public-interest culture/science coverage, and distinct from event listings.",
-      "contentReview": {
-        "bodyComplete": true,
-        "aiSummaryReviewed": true
-      }
-    },
-    {
-      "articleId": "brasil-mohamed-toure-lesao-amistosos-brasil-2026-09-20",
-      "url": "https://www.foxsports.com.au/football/premier-league/teams/norwich-city/football-2026-mohamed-toure-injures-shoulder-for-norwich-city-against-bolton-team-lose-efl-match-in-doubt-for-socceroos-friendlies-against-brazil-video-latest-news/news-story/cee11c3fe7c75c7f004ca6db283df13b",
-      "publishedAt": "2026-09-20T23:05:29.000Z",
-      "evidence": "Complete extraction 82ef7997cbfe.json, status 200 with no warnings, published 2026-09-20; it reports Mohamed Toure’s shoulder injury, his early goal, Norwich’s 4–3 loss and the uncertainty around his possible selection for Australia’s friendlies with Brazil. No corroboration was needed for this routine sports result/injury report.",
-      "selectionReason": "Current sports item directly connected to upcoming Brazil fixtures, with a complete established sports-source extraction and no duplicate event selected.",
-      "contentReview": {
-        "bodyComplete": true,
-        "aiSummaryReviewed": true
-      }
-    },
-    {
-      "articleId": "brasil-cine-inclusao-60-festival-2026-09-20",
-      "url": "https://agenciabrasil.ebc.com.br/cultura/noticia/2026-09/cine-inclusao-60-traz-filmes-dedicados-ao-debate-sobre-envelhecimento",
-      "publishedAt": "2026-09-20T21:09:00-03:00",
-      "evidence": "Complete extraction adcd538883cb.json, status 200 with no warnings, published 2026-09-20; it reports the free Cine Inclusão 60+ festival in São Paulo, Campinas and Santos through September 27, its 21-film selection and the forum on women in audiovisual work. No corroboration was needed for this low-risk culture schedule report.",
-      "selectionReason": "Current within the 24-hour window, reputable public-service culture reporting, and a distinct festival item rather than navigation noise.",
-      "contentReview": {
-        "bodyComplete": true,
-        "aiSummaryReviewed": true
-      }
-    },
-    {
-      "articleId": "brasil-lula-agenda-onu-encontros-bilaterais-2026-09-21",
-      "url": "https://agenciabrasil.ebc.com.br/radioagencia-nacional/internacional/audio/2026-09/lula-participa-de-encontros-bilaterais-antes-de-discurso-na-onu",
-      "publishedAt": "2026-09-21T13:12:00-03:00",
-      "evidence": "Complete extraction c787d042e7fa.json, status 200 with no warnings, published 2026-09-21; it reports Lula’s planned New York bilateral meetings, Brazil’s opening role in the U.N. general debate, the intended multilateralism themes and the wider Brazilian delegation agenda. It is treated as a low-risk schedule/agenda report and no outcome is asserted.",
-      "selectionReason": "Fresh official agenda report about Brazil’s international activity, selected as a schedule item without converting planned events into confirmed outcomes.",
-      "contentReview": {
-        "bodyComplete": true,
-        "aiSummaryReviewed": true
-      }
-    },
-    {
-      "articleId": "cultura-primavera-dos-museus-2026",
-      "url": "https://agenciabrasil.ebc.com.br/radioagencia-nacional/cultura/audio/2026-09/mais-de-900-instituicoes-participam-da-primavera-dos-museus",
-      "publishedAt": "2026-09-21T12:23:00-03:00",
-      "evidence": "Complete extraction with status 200 and complete:true, published 2026-09-21 at 12:23 BRT. Agência Brasil reports that Ibram’s Primavera dos Museus involves more than 900 institutions and over 2,000 activities, with exhibitions, workshops, educational events and accessibility programming across Brazil. No independent corroboration was materially necessary for this routine low-risk culture and public-programming report.",
-      "selectionReason": "Fresh nationwide culture and public-service report with concrete programming and broad Brazilian relevance; shared with Cultura as one canonical article rather than duplicating the event.",
-      "contentReview": {
-        "bodyComplete": true,
-        "aiSummaryReviewed": true
-      }
-    },
-    {
-      "articleId": "brasil-presley-gerber-morre-2026-09-21",
-      "url": "https://www.cnnbrasil.com.br/pop/celebridades/filho-de-cindy-crawford-modelo-presley-gerber-morre-aos-27-anos/",
-      "publishedAt": "2026-09-21T01:32:37-03:00",
-      "evidence": "Complete extraction e5ae5d645aa6.json, status 200 with no warnings, published 2026-09-21; CNN reports the representative’s confirmation of Presley Gerber’s death, the Los Angeles coroner’s statement that he was in a rehabilitation clinic, the undisclosed cause and his modeling and mental-health work. No corroboration was needed for this routine culture obituary.",
-      "selectionReason": "Current complete celebrity/culture report from a reputable outlet; the copy preserves the undisclosed cause and does not add speculation.",
-      "contentReview": {
-        "bodyComplete": true,
-        "aiSummaryReviewed": true
-      }
-    },
-    {
-      "articleId": "brasil-bpc-inss-decisoes-2026-09-21",
-      "url": "https://www.jornalcruzeiro.com.br/tendencias/noticia-preocupante-acaba-de-chegar-para-quem-solicitou-bpc-ao-inss/",
-      "publishedAt": "2026-09-21T09:30:00-03:00",
-      "evidence": "Complete extraction caf657076384.json, status 200 with no warnings, published 2026-09-21; the report gives January–July INSS decision totals and explicitly notes that the 50.8% rejection rate covers multiple benefits, then summarizes BPC criteria and application follow-up steps. It is included as a service item while preserving that the aggregate is not BPC-specific. No independent corroboration was materially necessary: this is a low-risk service explainer, the figures are explicitly attributed to the report’s cited INSS totals, and the copy does not make an eligibility or legal determination.",
-      "selectionReason": "Current practical service report with a material caveat retained in both locales, avoiding the source headline’s sensational framing; classified as low-risk because it provides attributed administrative guidance rather than alleging misconduct or forecasting an outcome.",
-      "contentReview": {
-        "bodyComplete": true,
-        "aiSummaryReviewed": true
-      }
-    },
-    {
-      "articleId": "brasil-ig4-raizen-oferta-controle-2026-09-21",
-      "url": "https://www.infomoney.com.br/mercados/ig4-prepara-oferta-para-credores-da-raizen-raiz4-e-mira-controle-da-companhia/",
-      "publishedAt": "2026-09-21T14:38:16+00:00",
-      "evidence": "Complete extraction 472c3d00c1fc.json, status 200 with no warnings, published 2026-09-21T14:38:16+00:00; the InfoMoney report states that IG4 is preparing a binding offer to Raízen creditors, that the company has about R$ 65 billion in debt, that the proposed structure targets more than 50% of the credits through cash and credit rights convertible into shares, and that the recovery plan would separate the Shell-Cosan venture into fuel and sugar-and-ethanol units. It also attributes the assessment about bond attractiveness and potential valuation effects to Bradesco BBI. Timestamp, market-navigation and related-link noise were excluded from the paraphrase.",
-      "selectionReason": "Pre-cutoff, complete InfoMoney financial reporting inside the preferred 24-hour window; distinct from every selected article across the desk drafts and from the shared IBGE maps and Cine Inclusão items, while adding Brazilian corporate-restructuring coverage without duplicating the Focus forecast story. No independent corroboration was materially necessary for this report of a corporate-finance proposal: no transaction is presented as completed, no investment recommendation is made, and every figure and forward-looking action remains attributed to InfoMoney, IG4 or Bradesco BBI.",
+      "evidence": "Complete extraction 461d5d455149.json, status 200 with no warnings, published 2026-09-21; IBGE reports 7,408 downloads of its free world-map collection, identifies the three leading map models and their counts, describes the 2024-2026 series and explains that the collection remains available for download.",
+      "selectionReason": "Recent official IBGE public-information report with precise usage data and accessible educational material; selected as a distinct civic and knowledge item, avoiding event-listing and low-quality listicle coverage.",
       "contentReview": {
         "bodyComplete": true,
         "aiSummaryReviewed": true
@@ -119,7 +126,7 @@
     "en": ""
   },
   "improvements": [],
-  "candidateRun": "research/runs/2026-09-21T16-48-24-436Z-221c0d1e-a836-45cb-b034-62c6ef37c843",
-  "retrievedAt": "2026-09-21T18:03:53.289Z",
+  "candidateRun": "research/runs/2026-09-22T11-21-20-336Z-6df281a2-9343-4cb7-a1b3-001b9e9a3dde",
+  "retrievedAt": "2026-09-22T11:22:12.152Z",
   "reviewStatus": "draft-source-verified-no-publication-approval"
 }

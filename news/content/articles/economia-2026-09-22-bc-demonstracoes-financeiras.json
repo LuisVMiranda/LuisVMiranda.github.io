@@ -1,0 +1,118 @@
+{
+  "id": "economia-2026-09-22-bc-demonstracoes-financeiras",
+  "slug": "economia-2026-09-22-bc-demonstracoes-financeiras",
+  "section": "economia",
+  "secondarySections": [],
+  "publishedAt": "2026-09-21T14:54:41-03:00",
+  "updatedAt": "2026-09-22T13:17:34.573Z",
+  "sources": [
+    {
+      "name": "CNN Brasil",
+      "url": "https://www.cnnbrasil.com.br/economia/money/macroeconomia/bc-abre-consulta-sobre-criterios-de-demonstracoes-financeiras/"
+    }
+  ],
+  "rights": {
+    "mode": "original-report"
+  },
+  "translations": {
+    "pt-BR": {
+      "title": "Banco Central abre consulta sobre critérios de demonstrações financeiras",
+      "summary": "Propostas do CMN e do BC revisam classificação, divulgação e medidas de desempenho para instituições que seguem o padrão Cosif.",
+      "aiSummary": [
+        "Sugestões podem ser enviadas até 9 de novembro de 2026 pelo BC, Participa + Brasil ou Denor.",
+        "A proposta organiza receitas e despesas em cinco categorias e exige explicações sobre a atividade principal do negócio.",
+        "As novas regras valeriam para períodos encerrados a partir de 31 de dezembro de 2027, com aplicação semestral facultativa em 2027."
+      ],
+      "paragraphs": [
+        "O Banco Central colocou em consulta pública propostas de resoluções do Conselho Monetário Nacional e da própria autarquia para alterar os critérios de elaboração e divulgação de demonstrações financeiras das instituições que seguem o padrão contábil Cosif. O objetivo declarado é aproximar as regras dos padrões internacionais.",
+        "Sugestões podem ser enviadas até 9 de novembro de 2026 por formulário no site do Banco Central e no portal Participa + Brasil. O Departamento de Regulação do Sistema Financeiro, o Denor, também receberá contribuições por e-mail.",
+        "Pelo edital da consulta pública 130/2026, as instituições deverão observar características compartilhadas na classificação e agregação de ativos, passivos, patrimônio líquido, receitas, despesas e fluxos de caixa. Na demonstração do resultado, terão de avaliar se a principal atividade é investir em ativos ou conceder financiamento a clientes e divulgar essa conclusão nas notas explicativas.",
+        "As receitas e despesas reconhecidas no resultado seriam distribuídas em cinco categorias: operacional, investimento, financiamento, tributos sobre o lucro e operações descontinuadas. A proposta também cria o conceito de medidas de desempenho definidas pela administração e permite divulgá-las em uma nota explicativa única, com conteúdo mínimo determinado.",
+        "Segundo o documento, a mudança pretende ampliar a transparência e disciplinar indicadores usados pelas instituições para comunicar seu desempenho financeiro. A previsão é que as resoluções produzam efeitos para demonstrações de períodos encerrados a partir de 31 de dezembro de 2027, com aplicação facultativa nas demonstrações semestrais de 2027."
+      ]
+    },
+    "en": {
+      "title": "Brazil’s Central Bank opens consultation on financial-statement criteria",
+      "summary": "CMN and Central Bank proposals revise classification, disclosure and performance measures for institutions using the Cosif framework.",
+      "aiSummary": [
+        "Comments can be submitted by November 9, 2026, through the Central Bank, Participa + Brasil or Denor.",
+        "The proposal places revenue and expenses into five categories and requires explanations of a bank’s main business activity.",
+        "The rules would apply to periods ending from December 31, 2027, with optional interim use in 2027."
+      ],
+      "paragraphs": [
+        "Brazil’s Central Bank opened a public consultation on resolutions from the National Monetary Council and the bank that would change how institutions using the Cosif accounting framework prepare and disclose financial statements. The stated aim is to bring the rules closer to international standards.",
+        "Comments may be submitted by November 9, 2026, through a form on the Central Bank website and the Participa + Brasil portal. The Department of Financial-System Regulation, known as Denor, will also receive contributions by email.",
+        "Under public consultation notice 130/2026, institutions would have to consider shared characteristics when classifying and aggregating assets, liabilities, equity, revenue, expenses and cash flows. For the income statement, they would assess whether their main business is investing in assets or providing financing to customers and disclose that conclusion in the notes.",
+        "Recognized revenue and expenses would be assigned to five categories: operating, investing, financing, income taxes and discontinued operations. The proposal also defines management-defined performance measures and allows them to be disclosed in a single explanatory note with specified minimum content.",
+        "The document says the changes are intended to improve transparency and discipline the indicators institutions use to communicate financial performance. The proposed effective date is for statements covering periods ending from December 31, 2027, with optional application to 2027 interim statements."
+      ]
+    }
+  },
+  "verification": {
+    "score": 8.1,
+    "checkedAt": "2026-09-22T12:27:59Z",
+    "checks": [
+      {
+        "provider": "CNN Brasil",
+        "url": "https://www.cnnbrasil.com.br/economia/money/macroeconomia/bc-abre-consulta-sobre-criterios-de-demonstracoes-financeiras/",
+        "finding": "supports",
+        "note": "Complete HTTP-200 extraction supports the public consultation 130/2026, November 9 deadline, Cosif classification changes, five result categories, management-defined performance measures, and proposed December 31, 2027 effect date with optional 2027 interim use."
+      },
+      {
+        "provider": "Banco Central do Brasil",
+        "url": "https://www.bcb.gov.br/estabilidadefinanceira/balancetesbalanco",
+        "finding": "context",
+        "note": "The official BC accounting/Cosif material provides relevant institutional context, but no directly matching indexed primary notice for consultation 130/2026 was retrieved; the detailed claims remain attributed to the complete report."
+      },
+      {
+        "provider": "Aos Fatos",
+        "url": "https://www.aosfatos.org/",
+        "finding": "no-match",
+        "note": "Exact-claim and meaningful-variant searches in Portuguese found no matching fact-check verdict; no-match is neutral and is not evidence that the consultation details are final rules."
+      },
+      {
+        "provider": "Agência Lupa",
+        "url": "https://www.agencialupa.org/",
+        "finding": "no-match",
+        "note": "Exact-claim and meaningful-variant searches in Portuguese found no matching fact-check verdict; no-match is neutral and is not evidence that the consultation details are final rules."
+      },
+      {
+        "provider": "Projeto Comprova",
+        "url": "https://projetocomprova.com.br/",
+        "finding": "no-match",
+        "note": "Exact-claim and meaningful-variant searches in Portuguese found no matching fact-check verdict; no-match is neutral and is not evidence that the consultation details are final rules."
+      },
+      {
+        "provider": "TSE Fato ou Boato",
+        "url": "https://www.tse.jus.br/comunicacao/noticias/fato-ou-boato",
+        "finding": "no-match",
+        "note": "No election or civic-process fact-check was relevant to the BC accounting consultation; the result is neutral."
+      },
+      {
+        "provider": "AFP Fact Check",
+        "url": "https://factcheck.afp.com/",
+        "finding": "no-match",
+        "note": "English and Portuguese variant searches found no matching fact-check verdict for the consultation notice or proposed Cosif changes; no-match is neutral."
+      },
+      {
+        "provider": "Reuters Fact Check",
+        "url": "https://www.reuters.com/fact-check/",
+        "finding": "no-match",
+        "note": "English and Portuguese variant searches found no matching fact-check verdict for the consultation notice or proposed Cosif changes; no-match is neutral."
+      },
+      {
+        "provider": "Full Fact",
+        "url": "https://fullfact.org/",
+        "finding": "no-match",
+        "note": "English and Portuguese variant searches found no matching fact-check verdict for the consultation notice or proposed Cosif changes; no-match is neutral."
+      },
+      {
+        "provider": "Google Fact Check Tools",
+        "url": "https://toolbox.google.com/factcheck/explorer",
+        "finding": "inconclusive",
+        "note": "Web-indexed Explorer searches did not surface a matching ClaimReview record; API coverage was unavailable in this run, so this is not a no-match or truth finding."
+      }
+    ],
+    "caveat": "The article accurately describes a proposal and consultation, not enacted accounting rules. The complete source supports the dates and five-category framework, while the lack of a directly retrieved primary notice limits confidence in operational details."
+  }
+}

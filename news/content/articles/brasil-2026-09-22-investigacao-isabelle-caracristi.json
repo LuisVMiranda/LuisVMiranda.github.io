@@ -1,0 +1,118 @@
+{
+  "id": "brasil-2026-09-22-investigacao-isabelle-caracristi",
+  "slug": "brasil-2026-09-22-investigacao-isabelle-caracristi",
+  "section": "brasil",
+  "secondarySections": [],
+  "publishedAt": "2026-09-21T23:10:00-03:00",
+  "updatedAt": "2026-09-22T13:17:34.573Z",
+  "sources": [
+    {
+      "name": "Agência Brasil",
+      "url": "https://agenciabrasil.ebc.com.br/radioagencia-nacional/seguranca/audio/2026-09/mp-do-ceara-acompanha-investigacoes-sobre-morte-de-isabelle-caracristi"
+    }
+  ],
+  "rights": {
+    "mode": "original-report"
+  },
+  "translations": {
+    "pt-BR": {
+      "title": "MP do Ceará acompanha investigação sobre morte de estudante em Fortaleza",
+      "summary": "Órgão acompanha apurações da Polícia Civil e da perícia sobre a morte de Isabelle Caracristi, de 22 anos.",
+      "aiSummary": [
+        "O MPCE acompanha a investigação sobre a morte de Isabelle Caracristi, de 22 anos, em Fortaleza.",
+        "A Polícia Civil e a perícia forense conduzem as apurações para esclarecer as circunstâncias do caso.",
+        "O Ministério Público informou que apoia a família, enquanto os advogados dizem que a fase atual envolve depoimentos."
+      ],
+      "paragraphs": [
+        "O Ministério Público do Ceará informou que acompanha as investigações sobre a morte da estudante de Direito Isabelle Caracristi, de 22 anos. A jovem morreu no dia 13, no condomínio onde morava com o namorado e a família dele, em Fortaleza.",
+        "O caso ganhou repercussão depois que a mãe da universitária, a professora Isorlanda Caracristi, publicou um vídeo cobrando explicações e justiça. O relato da família é apresentado como parte do contexto que levou o episódio a receber atenção pública.",
+        "Isorlanda disse ter estranhado o comportamento da filha no dia anterior à morte e a quantidade de mensagens que ela recebia do namorado. A professora também relatou que tentou falar com ele no dia seguinte, não obteve resposta e percebeu que havia sido bloqueada.",
+        "O MP informou que mantém contato com as autoridades responsáveis pelas apurações, conduzidas pela Polícia Civil do Ceará e pela perícia forense, para esclarecer as circunstâncias da morte.",
+        "O órgão afirma ainda que presta apoio à família por meio do Núcleo de Acolhimento às Vítimas de Violência. Segundo os advogados da família, a investigação está na etapa de depoimentos."
+      ]
+    },
+    "en": {
+      "title": "Ceará prosecutors monitor investigation into student's death in Fortaleza",
+      "summary": "The office is following Civil Police and forensic inquiries into the death of 22-year-old Isabelle Caracristi.",
+      "aiSummary": [
+        "Ceará prosecutors are monitoring the investigation into the death of 22-year-old Isabelle Caracristi in Fortaleza.",
+        "Civil Police and forensic experts are conducting the inquiry into the circumstances of the case.",
+        "The prosecutors' office said it is supporting the family, while lawyers said investigators are taking testimony."
+      ],
+      "paragraphs": [
+        "Ceará's Public Prosecutor's Office said it is monitoring the investigation into the death of law student Isabelle Caracristi, 22. She died on the 13th at the condominium in Fortaleza where she lived with her boyfriend and his family.",
+        "The case drew public attention after the student's mother, teacher Isorlanda Caracristi, posted a video demanding explanations and justice. The family's account is presented as part of the context surrounding the case.",
+        "Isorlanda said she had noticed a change in her daughter's behavior the day before her death and the large number of messages she was receiving from her boyfriend. She also said she tried to contact him the next day, received no response and realized she had been blocked.",
+        "The prosecutors' office said it is in contact with the authorities conducting the inquiry, including Ceará's Civil Police and forensic experts, to clarify the circumstances of the death.",
+        "The office also said it is supporting the family through its Center for Assistance to Victims of Violence. The family's lawyers said the investigation is currently at the testimony stage."
+      ]
+    }
+  },
+  "verification": {
+    "score": 8.1,
+    "checkedAt": "2026-09-22T13:03:31Z",
+    "checks": [
+      {
+        "provider": "Agência Brasil",
+        "url": "https://agenciabrasil.ebc.com.br/radioagencia-nacional/seguranca/audio/2026-09/mp-do-ceara-acompanha-investigacoes-sobre-morte-de-isabelle-caracristi",
+        "finding": "supports",
+        "note": "The complete selected-source extraction reports MPCE monitoring, Civil Police and forensic involvement, family support and the family's lawyers' statement that testimony was underway, while preserving allegations as attributed."
+      },
+      {
+        "provider": "GCMAIS",
+        "url": "https://gcmais.com.br/noticias/2026/09/21/mpce-acompanha-investigacoes-sobre-morte-de-estudante-em-fortaleza/",
+        "finding": "supports",
+        "note": "Independent Ceará reporting corroborates MPCE monitoring, the Fortaleza death investigation, police and forensic involvement and family-support information."
+      },
+      {
+        "provider": "Aos Fatos",
+        "url": "https://www.aosfatos.org/",
+        "finding": "no-match",
+        "note": "No direct fact-check verdict for this investigation update surfaced; no-match is neutral and not evidence of accuracy."
+      },
+      {
+        "provider": "Agência Lupa",
+        "url": "https://www.agencialupa.org/",
+        "finding": "no-match",
+        "note": "No direct Lupa verdict for this investigation update surfaced; no-match is neutral and does not resolve the underlying case."
+      },
+      {
+        "provider": "Projeto Comprova",
+        "url": "https://projetocomprova.com.br/",
+        "finding": "no-match",
+        "note": "No direct Comprova verdict for this investigation update surfaced; no-match is neutral and not evidence of accuracy."
+      },
+      {
+        "provider": "TSE Fato ou Boato",
+        "url": "https://www.tse.jus.br/comunicacao/noticias/fato-ou-boato",
+        "finding": "no-match",
+        "note": "No direct civic-process fact-check is relevant to this investigation update; no-match is neutral and does not confirm the case details."
+      },
+      {
+        "provider": "AFP Fact Check",
+        "url": "https://factcheck.afp.com/",
+        "finding": "no-match",
+        "note": "No direct AFP verdict for this investigation update surfaced; no-match is neutral and not proof of accuracy."
+      },
+      {
+        "provider": "Reuters Fact Check",
+        "url": "https://www.reuters.com/fact-check/",
+        "finding": "no-match",
+        "note": "No direct Reuters verdict for this investigation update surfaced; no-match is neutral and not evidence of accuracy."
+      },
+      {
+        "provider": "Full Fact",
+        "url": "https://fullfact.org/",
+        "finding": "no-match",
+        "note": "No direct Full Fact verdict for this investigation update surfaced; no-match is neutral and not evidence of accuracy."
+      },
+      {
+        "provider": "Google Fact Check Explorer",
+        "url": "https://toolbox.google.com/factcheck/explorer",
+        "finding": "inconclusive",
+        "note": "The public explorer interface did not yield a directly confirmable ClaimReview record for this case update; the result is inconclusive, not a verdict."
+      }
+    ],
+    "caveat": "The procedural claim that Ceará prosecutors were monitoring an ongoing investigation is corroborated; cause of death, responsibility and the family's allegations remained unresolved. This score is an evidence estimate, not a guarantee."
+  }
+}

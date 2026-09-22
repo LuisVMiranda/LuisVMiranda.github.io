@@ -1,0 +1,118 @@
+{
+  "id": "economia-2026-09-22-simples-nacional-prazo",
+  "slug": "economia-2026-09-22-simples-nacional-prazo",
+  "section": "economia",
+  "secondarySections": [],
+  "publishedAt": "2026-09-22T00:37:00+00:00",
+  "updatedAt": "2026-09-22T13:17:34.573Z",
+  "sources": [
+    {
+      "name": "Correio Braziliense",
+      "url": "https://www.correiobraziliense.com.br/economia/2026/09/7505468-simples-nacional-empresas-tem-8-dias-para-escolher-regime-tributario.html"
+    }
+  ],
+  "rights": {
+    "mode": "original-report"
+  },
+  "translations": {
+    "pt-BR": {
+      "title": "Empresas do Simples Nacional têm prazo até 30 de setembro para escolher regime",
+      "summary": "Micro e pequenas empresas precisam definir como recolherão IBS e CBS a partir de 2027; a decisão não vale para MEI neste momento.",
+      "aiSummary": [
+        "A escolha deve ser feita no Portal do Simples Nacional até 30 de setembro de 2026.",
+        "A empresa pode manter IBS e CBS unificados no DAS ou recolhê-los separadamente no regime geral.",
+        "A obrigação não se aplica ao MEI agora, e uma nova alteração será possível em março de 2027."
+      ],
+      "paragraphs": [
+        "Microempresas e empresas de pequeno porte optantes pelo Simples Nacional têm até 30 de setembro de 2026 para escolher como recolherão a Contribuição sobre Bens e Serviços e o Imposto sobre Bens e Serviços a partir de 2027. A reportagem alerta que uma opção mal calculada pode elevar a carga tributária do negócio.",
+        "A manifestação deve ser feita diretamente no Portal do Simples Nacional. Quem não escolher dentro do prazo será enquadrado automaticamente no regime de apuração separado para IBS e CBS, embora exista uma nova oportunidade de alteração em março de 2027, antes do início da vigência das regras.",
+        "O empresário precisa optar entre manter os dois tributos reunidos na guia única do Simples, o Documento de Arrecadação do Simples Nacional, ou recolhê-los por fora, no regime geral. O segundo caminho permite que os clientes aproveitem créditos tributários, mas muda a forma de apuração e exige análise do negócio.",
+        "A alternativa híbrida pode ser mais interessante para empresas que vendem principalmente para outras empresas, porque esses compradores podem utilizar créditos. Para negócios voltados ao consumidor final, o recolhimento unificado tende a ser mais simples e, segundo a orientação apresentada, pode ser mais adequado.",
+        "A obrigação não se aplica ao Microempreendedor Individual neste momento, pois as regras específicas para o MEI ainda dependem de regulamentação própria. A recomendação é consultar um contador e simular faturamento, perfil dos clientes, folha de pagamento e margem de lucro antes de decidir."
+      ]
+    },
+    "en": {
+      "title": "Brazil’s Simples Nacional companies have until September 30 to choose a tax regime",
+      "summary": "Small businesses must decide how to collect IBS and CBS from 2027; the decision does not apply to MEIs at this stage.",
+      "aiSummary": [
+        "The choice must be made on the Simples Nacional portal by September 30, 2026.",
+        "A company can keep IBS and CBS together in the DAS or collect them separately under the general regime.",
+        "The requirement does not currently apply to MEIs, and another change will be possible in March 2027."
+      ],
+      "paragraphs": [
+        "Brazilian micro and small companies enrolled in Simples Nacional have until September 30, 2026, to choose how they will collect the Contribution on Goods and Services and the Tax on Goods and Services from 2027. The report warns that a poorly calculated option could increase a company’s tax burden.",
+        "The decision must be submitted through the Simples Nacional portal. Companies that do not choose by the deadline will automatically enter the separate calculation regime for IBS and CBS, although another opportunity to change the choice will be available in March 2027 before the rules take effect.",
+        "Business owners must choose between keeping the two taxes together on the Simples payment form, known as DAS, or collecting them outside the program under the general regime. The second route allows customers to use tax credits, but it changes the calculation method and requires business-specific analysis.",
+        "The hybrid alternative may be more useful for companies that mainly sell to other businesses because those buyers can use credits. For businesses selling to final consumers, the unified collection method tends to be simpler and, according to the guidance in the report, may be more suitable.",
+        "The requirement does not currently apply to Individual Microentrepreneurs because specific MEI rules still depend on separate regulation. The report recommends consulting an accountant and modeling revenue, customer profile, payroll and profit margin before making the decision."
+      ]
+    }
+  },
+  "verification": {
+    "score": 9.4,
+    "checkedAt": "2026-09-22T12:27:59Z",
+    "checks": [
+      {
+        "provider": "Correio Braziliense",
+        "url": "https://www.correiobraziliense.com.br/economia/2026/09/7505468-simples-nacional-empresas-tem-8-dias-para-escolher-regime-tributario.html",
+        "finding": "supports",
+        "note": "Complete HTTP-200 extraction supports the September 30, 2026 deadline, automatic separate IBS/CBS calculation absent a choice, March 2027 change window, DAS versus general-regime options, and current MEI exclusion."
+      },
+      {
+        "provider": "Receita Federal",
+        "url": "https://www.gov.br/receitafederal/pt-br",
+        "finding": "supports",
+        "note": "Indexed official Receita guidance corroborates the September 30 option deadline and the IBS/CBS collection choice for Simples Nacional companies; the article keeps the rule prospective for 2027."
+      },
+      {
+        "provider": "Aos Fatos",
+        "url": "https://www.aosfatos.org/",
+        "finding": "no-match",
+        "note": "Exact-claim and meaningful-variant searches in Portuguese found no matching fact-check verdict; no-match is neutral and is not evidence that the tax guidance is true."
+      },
+      {
+        "provider": "Agência Lupa",
+        "url": "https://www.agencialupa.org/",
+        "finding": "no-match",
+        "note": "Exact-claim and meaningful-variant searches in Portuguese found no matching fact-check verdict; no-match is neutral and is not evidence that the tax guidance is true."
+      },
+      {
+        "provider": "Projeto Comprova",
+        "url": "https://projetocomprova.com.br/",
+        "finding": "no-match",
+        "note": "Exact-claim and meaningful-variant searches in Portuguese found no matching fact-check verdict; no-match is neutral and is not evidence that the tax guidance is true."
+      },
+      {
+        "provider": "TSE Fato ou Boato",
+        "url": "https://www.tse.jus.br/comunicacao/noticias/fato-ou-boato",
+        "finding": "no-match",
+        "note": "No election or civic-process fact-check was relevant to the Simples Nacional tax-regime claim; the result is neutral."
+      },
+      {
+        "provider": "AFP Fact Check",
+        "url": "https://factcheck.afp.com/",
+        "finding": "no-match",
+        "note": "English and Portuguese variant searches found no matching fact-check verdict for the deadline or IBS/CBS rule; no-match is neutral."
+      },
+      {
+        "provider": "Reuters Fact Check",
+        "url": "https://www.reuters.com/fact-check/",
+        "finding": "no-match",
+        "note": "English and Portuguese variant searches found no matching fact-check verdict for the deadline or IBS/CBS rule; no-match is neutral."
+      },
+      {
+        "provider": "Full Fact",
+        "url": "https://fullfact.org/",
+        "finding": "no-match",
+        "note": "English and Portuguese variant searches found no matching fact-check verdict for the deadline or IBS/CBS rule; no-match is neutral."
+      },
+      {
+        "provider": "Google Fact Check Tools",
+        "url": "https://toolbox.google.com/factcheck/explorer",
+        "finding": "inconclusive",
+        "note": "Web-indexed Explorer searches did not surface a matching ClaimReview record; API coverage was unavailable in this run, so this is not a no-match or truth finding."
+      }
+    ],
+    "caveat": "The official Receita guidance and complete report align on the deadline and prospective 2027 mechanics. The article appropriately presents tax burden effects as business-specific guidance, not a guaranteed outcome."
+  }
+}

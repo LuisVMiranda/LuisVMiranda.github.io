@@ -1,0 +1,67 @@
+{
+  "id": "esportes-2026-09-22-santos-atraso-pagamentos",
+  "slug": "esportes-2026-09-22-santos-atraso-pagamentos",
+  "section": "esportes",
+  "secondarySections": [],
+  "publishedAt": "2026-09-21T14:48:34.701-03:00",
+  "publishedDate": "2026-09-21",
+  "updatedAt": "2026-09-22T13:17:34.573Z",
+  "sources": [
+    {
+      "name": "ge.globo.com",
+      "url": "https://ge.globo.com/sp/santos-e-regiao/futebol/times/santos/noticia/2026/09/21/pode-ser-que-haja-atraso-diz-marcelo-teixeira-sobre-o-pagamento-a-jogadores-do-santos.ghtml"
+    }
+  ],
+  "rights": {
+    "mode": "original-report"
+  },
+  "translations": {
+    "pt-BR": {
+      "title": "Presidente do Santos admite possível atraso em pagamentos ao elenco",
+      "summary": "Marcelo Teixeira citou dificuldades de caixa, mas negou que as novas contratações tenham comprometido o orçamento do clube.",
+      "aiSummary": [
+        "Marcelo Teixeira disse que o Santos pode atrasar o pagamento de direitos de imagem vencidos em 21 de setembro.",
+        "O presidente citou a eliminação na Copa Sul-Americana e afirmou que o clube busca alternativas para cumprir as obrigações.",
+        "O dirigente negou impacto significativo das contratações, falou sobre renovações e quer levar até dois jogos ao Morumbis."
+      ],
+      "paragraphs": [
+        "O presidente do Santos, Marcelo Teixeira, admitiu que o clube pode atrasar pagamentos ao elenco. A declaração foi dada em 21 de setembro, data de vencimento dos direitos de imagem dos jogadores, durante o lançamento do Instituto Leão do Mar.",
+        "Teixeira afirmou que o departamento financeiro estuda alternativas para cumprir as obrigações. Ele relacionou a possível dificuldade de caixa à ausência de receitas de premiação e de partidas decisivas da Copa Sul-Americana, torneio do qual o Santos foi eliminado nas quartas de final.",
+        "O dirigente negou, porém, que a chegada de reforços tenha provocado um impacto significativo nas contas. Segundo ele, a saída de outros jogadores compensou os gastos e o orçamento elaborado no início do ano continua sendo a referência para a gestão.",
+        "Na avaliação do presidente, o trabalho de Cuca também ganhou importância com a recuperação do time no Campeonato Brasileiro. Teixeira disse que pretende discutir a reta final da competição e a possibilidade de levar até dois jogos do Santos para São Paulo, incluindo o Morumbis.",
+        "A situação contratual de Gabigol e de outros jogadores que encerram seus vínculos ao fim da temporada também foi abordada. Teixeira afirmou que a diretoria deve iniciar as conversas, embora os atletas possam preferir esperar o resultado da eleição presidencial do clube, prevista para dezembro.",
+        "O presidente ainda comentou o manifesto “O fim do futebol brasileiro”, assinado por clubes em defesa de uma discussão sobre o mercado regulado de apostas. Para ele, qualquer mudança precisa envolver clubes, entidades e federações e respeitar contratos que ainda estejam vigentes."
+      ]
+    },
+    "en": {
+      "title": "Santos president admits possible delay in squad payments",
+      "summary": "Marcelo Teixeira cited cash-flow difficulties but denied that new signings had significantly affected the club’s budget.",
+      "aiSummary": [
+        "Marcelo Teixeira said Santos could delay image-rights payments due on September 21.",
+        "The president cited the Copa Sudamericana exit and said the club was seeking ways to meet its obligations.",
+        "He denied a major impact from new signings, discussed renewals and wants to take up to two matches to Morumbis."
+      ],
+      "paragraphs": [
+        "Santos president Marcelo Teixeira admitted that the club could delay payments to its squad. He made the statement on September 21, when players’ image-rights payments were due, during the launch of the Leão do Mar Institute.",
+        "Teixeira said the finance department was studying alternatives to meet the club’s obligations. He linked the possible cash-flow problem to the absence of prize money and decisive-match revenue from the Copa Sudamericana, which Santos left in the quarterfinals.",
+        "The president denied, however, that the arrival of new players had significantly damaged the accounts. He said departures had offset the cost of the signings and that the budget prepared at the start of the year remained the management’s guide.",
+        "Teixeira also credited coach Cuca’s work with Santos’s recovery in the Brazilian league. He said he would discuss the final part of the campaign and the possibility of staging up to two Santos matches in São Paulo, including at Morumbis.",
+        "The contracts of Gabigol and other players whose deals expire at the end of the season were also discussed. Teixeira said the board should begin negotiations, although the players may prefer to wait for the club’s presidential election, scheduled for December.",
+        "The president also addressed the “End of Brazilian Football” manifesto, signed by clubs calling for debate over the regulated betting market. He said any change should include clubs, governing bodies and federations and respect contracts that are still in force."
+      ]
+    }
+  },
+  "verification": {
+    "score": 7.6,
+    "checkedAt": "2026-09-22T12:28:11Z",
+    "checks": [
+      {
+        "provider": "ge.globo.com",
+        "url": "https://ge.globo.com/sp/santos-e-regiao/futebol/times/santos/noticia/2026/09/21/pode-ser-que-haja-atraso-diz-marcelo-teixeira-sobre-o-pagamento-a-jogadores-do-santos.ghtml",
+        "finding": "supports",
+        "note": "Complete local extraction was status 200 with complete=true. It directly records Marcelo Teixeira's September 21 statement that image-rights payments could be delayed, the stated effect of the Copa Sul-Americana exit, his denial that new signings materially damaged the budget, and the proposed Morumbis and contract discussions."
+      }
+    ],
+    "caveat": "The central claim is a directly attributed statement by Santos's president, not an independently audited financial finding. No unresolved contradiction was located, but the possible delay and budget explanations should remain attributed and time-specific."
+  }
+}

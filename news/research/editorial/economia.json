@@ -1,113 +1,120 @@
 {
   "section": "economia",
-  "cutoff": "2026-09-21T16:48:24.436Z",
-  "queries": [],
+  "cutoff": "2026-09-22T11:21:20.336Z",
+  "queries": [
+    "Economia notícias Brasil",
+    "Economy latest news Brazil",
+    "economia Brasil mercados inflação negócios notícias recentes",
+    "site:valor.globo.com economia Brasil",
+    "site:correiobraziliense.com.br economia Brasil",
+    "site:cnnbrasil.com.br/economia economia Brasil"
+  ],
   "verified": [
     {
-      "articleId": "economia-focus-2026-selic-ipca-pib",
-      "url": "https://valor.globo.com/brasil/noticia/2026/09/21/mercado-eleva-projecao-do-ipca-de-2026-e-reduz-estimativas-para-selic-e-pib-aponta-focus.ghtml",
-      "publishedAt": "2026-09-21T08:43:47.894-03:00",
-      "evidence": "Complete extraction research/runs/2026-09-21T16-48-24-436Z-221c0d1e-a836-45cb-b034-62c6ef37c843/extractions/economia/6775001a26cc.json, retrieved in the current run with status 200 and complete=true, published at 2026-09-21T08:43:47.894-03:00. It reports the Focus medians for 2026: IPCA 4.92%, Selic 13.50% and GDP growth 1.88%, plus 2027-2028 projections. Corroboration basis: complete extraction research/runs/2026-09-21T16-48-24-436Z-221c0d1e-a836-45cb-b034-62c6ef37c843/extractions/economia/0565abd68e82.json from Correio Braziliense independently reports the same IPCA, Selic and GDP revisions.",
-      "selectionReason": "Current domestic macroeconomic data release within the preferred 24-hour window; selected after deduplicating the other Focus reports in the catalog and retaining the fuller Valor extraction with a second complete extraction as corroboration.",
+      "articleId": "economia-2026-09-22-bolsas-asia-petroleo",
+      "url": "https://www.cnnbrasil.com.br/economia/money/mercado/bolsas-da-asia-fecham-perto-da-estabilidade-com-recuperacao-do-petroleo/",
+      "publishedAt": "2026-09-22T07:32:43-03:00",
+      "evidence": "Complete extraction research/runs/2026-09-22T11-21-20-336Z-6df281a2-9343-4cb7-a1b3-001b9e9a3dde/extractions/economia/1bb40c9e6108.json, HTTP 200, complete=true, warnings=[], 11 extracted paragraphs. It records the Kospi, Hang Seng, Taiex, Shanghai, Shenzhen and Australian index moves, Japan's holiday closure, the Brent recovery and the Tencent and Alibaba sessions.",
+      "selectionReason": "Current September 22 regional-markets result report with distinct Asian index data and a clearly time-bounded oil-market context; it is reported development rather than forecast or opinion.",
       "contentReview": {
         "bodyComplete": true,
         "aiSummaryReviewed": true
       }
     },
     {
-      "articleId": "economia-estados-deficit-eleitoral-2026",
-      "url": "https://valor.globo.com/brasil/noticia/2026/09/21/ciclo-eleitoral-amplia-gasto-e-corroi-resultado-primario-dos-estados.ghtml",
-      "publishedAt": "2026-09-21T05:00:00.583-03:00",
-      "evidence": "Complete extraction research/runs/2026-09-21T16-48-24-436Z-221c0d1e-a836-45cb-b034-62c6ef37c843/extractions/economia/120db5bfd193.json, retrieved with status 200 and complete=true, published at 2026-09-21T05:00:00.583-03:00. It documents the projected R$36.9 billion combined 2026 primary deficit, the change from prior surpluses, 18 states forecasting deficits, the LDO and National Treasury data method, and the role of election-year investment, borrowing and Propag. No matching second complete extraction was available in the current run, so all estimates remain explicitly attributed to state projections and the report methodology.",
-      "selectionReason": "High-value, current fiscal report with unusually detailed methodology and primary budget documents described in the complete extraction; retained as an attributed estimate rather than a confirmed year-end result. The primary-data method and uncertainty are the verification basis, so no second newsroom extraction was materially necessary.",
+      "articleId": "economia-2026-09-22-simples-nacional-prazo",
+      "url": "https://www.correiobraziliense.com.br/economia/2026/09/7505468-simples-nacional-empresas-tem-8-dias-para-escolher-regime-tributario.html",
+      "publishedAt": "2026-09-22T00:37:00+00:00",
+      "evidence": "Complete extraction research/runs/2026-09-22T11-21-20-336Z-6df281a2-9343-4cb7-a1b3-001b9e9a3dde/extractions/economia/3904306348ff.json, HTTP 200, complete=true, warnings=[], 19 extracted paragraphs. It states the September 30, 2026 deadline for Simples Nacional companies, the unified-DAS and hybrid options for IBS and CBS, the March 2027 change window, the current MEI exclusion and the planning factors described by the source.",
+      "selectionReason": "Current deadline-driven business development with direct relevance to micro and small companies; selected as reported service journalism and not as a tax prediction or opinion column.",
       "contentReview": {
         "bodyComplete": true,
         "aiSummaryReviewed": true
       }
     },
     {
-      "articleId": "economia-bitcoin-85-mil",
-      "url": "https://valor.globo.com/financas/criptomoedas/noticia/2026/09/21/bitcoin-chega-a-us-85-mil-com-melhora-do-apetite-por-risco.ghtml",
-      "publishedAt": "2026-09-21T10:55:30.031-03:00",
-      "evidence": "Complete extraction research/runs/2026-09-21T16-48-24-436Z-221c0d1e-a836-45cb-b034-62c6ef37c843/extractions/economia/17e3c48953fd.json, retrieved with status 200 and complete=true, published at 2026-09-21T10:55:30.031-03:00. It records bitcoin at US$85,059.77, up 6.1% in 24 hours, the Brazilian quote at R$436,887.41, ETF inflows, liquidations and the market drivers described in the report. No second matching complete extraction was available; this is a time-specific market snapshot and the copy preserves its timestamps and attributions.",
-      "selectionReason": "Current, distinct market result report from a reputable financial outlet, with concrete time-stamped prices and flows rather than promotional or speculative language. No independent corroboration was materially necessary because this is a low-risk, time-specific market snapshot, not investment advice or a forecast.",
+      "articleId": "economia-2026-09-22-stf-publicidade-bets",
+      "url": "https://www.correiobraziliense.com.br/economia/2026/09/7505393-dino-citou-vicio-e-endividamento-ao-restringir-publicidade-de-bets.html",
+      "publishedAt": "2026-09-22T05:00:00+00:00",
+      "evidence": "Complete extraction research/runs/2026-09-22T11-21-20-336Z-6df281a2-9343-4cb7-a1b3-001b9e9a3dde/extractions/economia/5e459c422e7b.json, HTTP 200, complete=true, warnings=[], 15 extracted paragraphs. It reports the STF injunction decision, the Minas Gerais decree's limits on betting advertising in public assets and events, Dino's stated consumer and public-interest reasoning, the ANJL arguments and the remaining merits dispute.",
+      "selectionReason": "Current named-court regulatory development affecting a large commercial sector; selected because the source distinguishes the provisional injunction ruling from the unresolved constitutional merits and attributes contextual concerns to the decision.",
       "contentReview": {
         "bodyComplete": true,
         "aiSummaryReviewed": true
       }
     },
     {
-      "articleId": "economia-programa-dividas-antigas",
-      "url": "https://www.correiobraziliense.com.br/aqui/2026/09/21/dividas-como-sair-do-cadastro-negativo-e-limpar-nome/",
-      "publishedAt": "2026-09-21T10:18:00-03:00",
-      "evidence": "Complete extraction research/runs/2026-09-21T16-48-24-436Z-221c0d1e-a836-45cb-b034-62c6ef37c843/extractions/economia/23491adaa36f.json, retrieved with status 200 and complete=true, published at 2026-09-21T10:18:00-03:00. It reports the Finance Ministry proposal to study a debt-purchase auction, possible discounts of 95% or more, pandemic-era debts, the possible 2027 timing and practical budgeting steps. No second matching complete extraction was available; the article is written as a proposal and the draft does not present it as an approved program.",
-      "selectionReason": "Current household-finance service report with a clear distinction between an official proposal and an available benefit; selected because it offers practical, low-risk consumer context without unverified allegations.",
+      "articleId": "economia-2026-09-22-wall-street-ia",
+      "url": "https://www.cnnbrasil.com.br/economia/money/mercado/wall-street-fecha-em-alta-com-otimismo-sobre-ia/",
+      "publishedAt": "2026-09-21T19:36:33-03:00",
+      "evidence": "Complete extraction research/runs/2026-09-22T11-21-20-336Z-6df281a2-9343-4cb7-a1b3-001b9e9a3dde/extractions/economia/05450956caf3.json, HTTP 200, complete=true, warnings=[], 14 extracted paragraphs. It records the Dow, S&P 500 and Nasdaq closes, semiconductor and company moves, oil and Treasury changes, the AMD market-value milestone and the attributed window-dressing explanation.",
+      "selectionReason": "Distinct September 21 global market result report with concrete index, commodity, yield and company data; selected as observed trading coverage and not as investment advice.",
       "contentReview": {
         "bodyComplete": true,
         "aiSummaryReviewed": true
       }
     },
     {
-      "articleId": "economia-google-multa-rgpd",
-      "url": "https://www.cnnbrasil.com.br/economia/money/negocios/google-e-multada-em-403-milhoes-de-euros-por-uso-indevido-de-dados/",
-      "publishedAt": "2026-09-21T09:37:29-03:00",
-      "evidence": "Complete extraction research/runs/2026-09-21T16-48-24-436Z-221c0d1e-a836-45cb-b034-62c6ef37c843/extractions/economia/405541849e75.json, retrieved with status 200 and complete=true, published at 2026-09-21T09:37:29-03:00. It reports the Irish regulator's €403 million fine, the three location-data features, the six-month remediation period, the regulator's reasoning and the 2020 consumer complaints. No second matching complete extraction was available in the current run; the report attributes the findings to the regulator and does not add an allegation beyond the decision described.",
-      "selectionReason": "Current, material corporate-regulatory development with a named regulator, decision amount, compliance deadline and stated findings in a complete reputable extraction. No independent corroboration was materially necessary because the report is explicitly about a named regulator’s decision and adds no allegation beyond that decision.",
+      "articleId": "economia-2026-09-22-bitcoin-86-mil",
+      "url": "https://www.cnnbrasil.com.br/economia/money/mercado/bitcoin-opera-em-alta-e-chega-a-us-86-mil-maior-valor-em-7-meses/",
+      "publishedAt": "2026-09-21T19:38:12-03:00",
+      "evidence": "Complete extraction research/runs/2026-09-22T11-21-20-336Z-6df281a2-9343-4cb7-a1b3-001b9e9a3dde/extractions/economia/0789db736f98.json, HTTP 200, complete=true, warnings=[], 13 extracted paragraphs. It records bitcoin above US$86,000 at a seven-month high, the 6.45% move and US$86,300 quote, ether's rise, ETF and futures-flow explanations, and the attributed downside risks.",
+      "selectionReason": "Distinct September 21 cryptocurrency-market report with a timestamped price move and attributed explanations; selected as market reporting rather than a forecast or investment recommendation.",
       "contentReview": {
         "bodyComplete": true,
         "aiSummaryReviewed": true
       }
     },
     {
-      "articleId": "economia-fmi-riscos-inflacao-ia",
-      "url": "https://www.cnnbrasil.com.br/economia/money/macroeconomia/fmi-alerta-para-riscos-de-inflacao-e-ia-em-meio-a-economia-resiliente/",
-      "publishedAt": "2026-09-21T12:10:47-03:00",
-      "evidence": "Complete extraction research/runs/2026-09-21T16-48-24-436Z-221c0d1e-a836-45cb-b034-62c6ef37c843/extractions/economia/415232162059.json, retrieved with status 200 and complete=true, published at 2026-09-21T12:10:47-03:00. It reports Kristalina Georgieva's remarks, the IMF's 3.0% 2026 growth forecast, inflation and debt-service risks, and warnings about leverage and circular financing around AI investment. No second matching complete extraction was available, so the draft attributes forecasts and warnings to the IMF and its managing director.",
-      "selectionReason": "Current global macroeconomic report based on a named IMF official and a quantified forecast; selected as attributed analysis rather than presented as an unverified prediction. No independent corroboration was materially necessary because the item reports official IMF forecasts and warnings, not a claimed economic outcome or financial recommendation.",
+      "articleId": "economia-2026-09-22-industria-agosto-cni",
+      "url": "https://www.cnnbrasil.com.br/economia/money/macroeconomia/producao-da-industria-brasileira-tem-pior-agosto-desde-2015-mostra-cni/",
+      "publishedAt": "2026-09-21T15:56:09-03:00",
+      "evidence": "Complete extraction research/runs/2026-09-22T11-21-20-336Z-6df281a2-9343-4cb7-a1b3-001b9e9a3dde/extractions/economia/596411cfd77f.json, HTTP 200, complete=true, warnings=[], 24 extracted paragraphs. It reports CNI's 46.3 production index, the 51.3 investment-intention reading, four falling expectation indicators, capacity utilization, employment, inventories and the 1,403-company sample.",
+      "selectionReason": "High-value September 21 industrial activity release with a concrete survey methodology and several current indicators; selected as reported economic data rather than commentary.",
       "contentReview": {
         "bodyComplete": true,
         "aiSummaryReviewed": true
       }
     },
     {
-      "articleId": "economia-petroleo-abaixo-100",
-      "url": "https://www.cnnbrasil.com.br/economia/money/mercado/precos-petroleo-21-setembro-2026/",
-      "publishedAt": "2026-09-21T09:34:44-03:00",
-      "evidence": "Complete extraction research/runs/2026-09-21T16-48-24-436Z-221c0d1e-a836-45cb-b034-62c6ef37c843/extractions/economia/5927f9ef391f.json, retrieved with status 200 and complete=true, published at 2026-09-21T09:34:44-03:00. It reports Brent at US$99.64 after a 4% fall, WTI at US$94.93 after a 5% fall, the lowest levels since September 10, the diplomatic and Saudi-shipment factors described by the report, and the cited JPMorgan and satellite-data context. No second matching complete extraction was available; the draft preserves market levels as a time-specific report.",
-      "selectionReason": "Current energy-market result report with concrete contract prices, percentage moves and clearly attributed market drivers; no allegation is used as an established fact.",
+      "articleId": "economia-2026-09-22-eneva-termeletricas",
+      "url": "https://www.infomoney.com.br/business/eneva-ve-economia-de-ate-r32-bi-a-consumidor-com-flexibilizacao-de-termeletricas/",
+      "publishedAt": "2026-09-21T16:43:42+00:00",
+      "evidence": "Complete extraction research/runs/2026-09-22T11-21-20-336Z-6df281a2-9343-4cb7-a1b3-001b9e9a3dde/extractions/economia/6e4c9c71d092.json, HTTP 200, complete=true, warnings=[], 26 extracted paragraphs. It identifies the TCU-mediated proposal, CCEE and PSR savings estimates, the three projects totaling 1.2 GW, the ONS dispatch model, potential curtailment reduction and the possible July 2027 start.",
+      "selectionReason": "Distinct September 21 energy-business development with named public institutions, a defined proposal and explicit estimates; selected because the report preserves that the savings are conditional and not realized results.",
       "contentReview": {
         "bodyComplete": true,
         "aiSummaryReviewed": true
       }
     },
     {
-      "articleId": "economia-amd-trilhao-ia",
-      "url": "https://www.cnnbrasil.com.br/economia/money/negocios/amd-atinge-valor-de-mercado-de-us-1-trilhao-com-forte-demanda-por-ia/",
-      "publishedAt": "2026-09-21T12:29:11-03:00",
-      "evidence": "Complete extraction research/runs/2026-09-21T16-48-24-436Z-221c0d1e-a836-45cb-b034-62c6ef37c843/extractions/economia/f034fee909c6.json, retrieved with status 200 and complete=true, published at 2026-09-21T12:29:11-03:00. It reports AMD briefly exceeding US$1 trillion in market value, the 9% share rise and US$613.92 record, the comparison with other chipmakers, AI-system expansion and market-share context. No second matching complete extraction was available; the draft treats the valuation as a time-specific market milestone.",
-      "selectionReason": "Current business-market result report with a specific valuation milestone and concrete trading figures, distinct from the macro and energy stories in the section. No independent corroboration was materially necessary because this is a time-specific market milestone and the copy makes no investment recommendation or unsupported causal claim.",
+      "articleId": "economia-2026-09-22-bc-demonstracoes-financeiras",
+      "url": "https://www.cnnbrasil.com.br/economia/money/macroeconomia/bc-abre-consulta-sobre-criterios-de-demonstracoes-financeiras/",
+      "publishedAt": "2026-09-21T14:54:41-03:00",
+      "evidence": "Complete extraction research/runs/2026-09-22T11-21-20-336Z-6df281a2-9343-4cb7-a1b3-001b9e9a3dde/extractions/economia/fa4bd37fe850.json, HTTP 200, complete=true, warnings=[], 12 extracted paragraphs. It describes the CMN and BC public consultation, the November 9 submission deadline, Cosif classification and disclosure changes, five result categories, performance measures and the proposed 2027/2028 effect dates.",
+      "selectionReason": "Current regulatory consultation with a clear official process and operational accounting details; selected as a reported institutional development rather than a prediction.",
       "contentReview": {
         "bodyComplete": true,
         "aiSummaryReviewed": true
       }
     },
     {
-      "articleId": "economia-petrobras-diesel-autossuficiencia",
-      "url": "https://valor.globo.com/empresas/noticia/2026/09/21/ainda-queremos-atingir-autossuficiencia-de-diesel-no-brasil-diz-presidente-da-petrobras.ghtml",
-      "publishedAt": "2026-09-21T11:04:43.235-03:00",
-      "evidence": "Complete extraction research/runs/2026-09-21T16-48-24-436Z-221c0d1e-a836-45cb-b034-62c6ef37c843/extractions/economia/89def0b82eaf.json, retrieved with status 200 and complete=true, published at 2026-09-21T11:04:43.235-03:00. It reports Magda Chambriard's statement at the ROG.e event, the company plan to supply 90% of the diesel market versus 70% today, the 30% import share, refining resilience, exploration frontiers and Colombian gas discoveries. No second matching complete extraction was available; the draft labels the figures as company-plan targets and executive statements.",
-      "selectionReason": "Current domestic business and energy report from a reputable financial outlet, selected for its concrete company target and fuel-supply relevance while keeping forward-looking claims attributed. No independent corroboration was materially necessary because the 90% figure is explicitly presented as a company plan and not as an achieved result or guarantee.",
+      "articleId": "economia-2026-09-22-senacon-postos-combustiveis",
+      "url": "https://www.correiobraziliense.com.br/economia/2026/09/7505411-senacon-abre-processos-contra-70-postos-por-aumento-abusivo.html",
+      "publishedAt": "2026-09-21T23:46:30+00:00",
+      "evidence": "Complete extraction research/runs/2026-09-22T11-21-20-336Z-6df281a2-9343-4cb7-a1b3-001b9e9a3dde/extractions/economia/cd64cfb9c14c.json, HTTP 200, complete=true, warnings=[], 15 extracted paragraphs. It reports 70 Senacon administrative cases, at least 330 ANP complaints, the cited margin and fine figures, the 15-state complaint coverage and the 15-day defense period.",
+      "selectionReason": "Current consumer and fuel-market enforcement development with concrete case counts and procedural safeguards; selected over the duplicate CNN extraction because this complete record contains more contextual detail.",
       "contentReview": {
         "bodyComplete": true,
         "aiSummaryReviewed": true
       }
     },
     {
-      "articleId": "economia-forum-agenda-global-ny",
-      "url": "https://valor.globo.com/brasil/agenda-global-2026/noticia/2026/09/21/forum-em-ny-debate-transformacoes-globais.ghtml",
-      "publishedAt": "2026-09-21T05:00:00.569-03:00",
-      "evidence": "Complete extraction research/runs/2026-09-21T16-48-24-436Z-221c0d1e-a836-45cb-b034-62c6ef37c843/extractions/economia/6d0129bb971f.json, retrieved with status 200 and complete=true, published at 2026-09-21T05:00:00.569-03:00. It describes the same-day Agenda Global 2026 forum at Citi Headquarters, its four panels on global economy, energy and critical minerals, AI and industry, and Super El Niño impacts, along with the participating institutions. No corroboration was needed for this low-risk schedule report.",
-      "selectionReason": "Current same-day economic event listing that fits the permitted schedule category and adds distinct coverage of energy, investment, technology and climate themes.",
+      "articleId": "economia-2026-09-22-amazon-agente-ia",
+      "url": "https://investnews.com.br/negocios/amazon-bloqueia-agente-de-ia-da-meta-em-seu-site-de-varejo/",
+      "publishedAt": "2026-09-21T14:02:48-03:00",
+      "evidence": "Complete extraction research/runs/2026-09-22T11-21-20-336Z-6df281a2-9343-4cb7-a1b3-001b9e9a3dde/extractions/economia/8fc5ae5ab941.json, HTTP 200, complete=true, warnings=[], 16 extracted paragraphs. It reports Amazon's blocking of Meta's Muse shopping agent, the retailer's automated-shopping policy, the company's stated transparency and opt-in position, Meta's lack of an immediate response, the earlier Perplexity dispute and the possible competitive effects.",
+      "selectionReason": "Distinct September 21 business-platform dispute involving an AI shopping agent and a major retailer; selected as reported corporate news rather than promotional or speculative material.",
       "contentReview": {
         "bodyComplete": true,
         "aiSummaryReviewed": true
@@ -119,7 +126,7 @@
     "en": ""
   },
   "improvements": [],
-  "candidateRun": "research/runs/2026-09-21T16-48-24-436Z-221c0d1e-a836-45cb-b034-62c6ef37c843",
-  "retrievedAt": "2026-09-21T18:03:53.289Z",
+  "candidateRun": "research/runs/2026-09-22T11-21-20-336Z-6df281a2-9343-4cb7-a1b3-001b9e9a3dde",
+  "retrievedAt": "2026-09-22T11:21:30.734Z",
   "reviewStatus": "draft-source-verified-no-publication-approval"
 }

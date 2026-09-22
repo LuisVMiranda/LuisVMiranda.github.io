@@ -1,0 +1,101 @@
+{
+  "id": "mundo-2026-09-22-bomba-segunda-guerra-falmouth",
+  "slug": "mundo-2026-09-22-bomba-segunda-guerra-falmouth",
+  "section": "mundo",
+  "secondarySections": [],
+  "publishedAt": "2026-09-22T09:56:01.429Z",
+  "publishedDate": "2026-09-22",
+  "updatedAt": "2026-09-22T13:17:34.573Z",
+  "sources": [
+    {
+      "name": "BBC News",
+      "url": "https://www.bbc.com/news/articles/c9rk3vm3plego"
+    }
+  ],
+  "rights": {
+    "mode": "original-report"
+  },
+  "translations": {
+    "pt-BR": {
+      "title": "Míssil da Segunda Guerra Mundial mantém área isolada em docas britânicas",
+      "summary": "Uma suspeita de munição americana de 250 quilos encontrada na água mantém um cordão de segurança nas docas de Falmouth, na Cornualha.",
+      "aiSummary": [
+        "Um mergulhador encontrou na água o objeto suspeito, que a polícia acredita ser um míssil americano de 250 quilos da Segunda Guerra Mundial.",
+        "Três imóveis foram evacuados por precaução, mas os moradores puderam voltar para casa enquanto o isolamento ficou concentrado nas docas e áreas marítimas próximas.",
+        "Equipes especializadas avaliam se a munição será removida ou destruída de forma controlada; a operação ainda não tinha sido concluída."
+      ],
+      "paragraphs": [
+        "Um cordão de segurança permaneceu pelo segundo dia nas docas de Falmouth, na Cornualha, depois que uma suspeita de munição não detonada foi encontrada na água. A polícia de Devon e Cornualha informou que o objeto é provavelmente um míssil americano da Segunda Guerra Mundial.",
+        "Os serviços de emergência foram chamados às 9h15 de segunda-feira, no horário britânico, e inicialmente estabeleceram uma zona de exclusão de 300 metros. Na terça-feira, a área foi reduzida às docas e às águas ao redor, mas o público continuou orientado a evitar os trechos restritos.",
+        "Três imóveis residenciais foram evacuados como medida de precaução. Os moradores receberam autorização para voltar, embora as autoridades tenham avisado que novas remoções ainda poderiam ser necessárias enquanto as equipes avaliam como tornar a área segura.",
+        "Especialistas em eliminação de artefatos explosivos, a Guarda Costeira de Falmouth, a polícia e o serviço de bombeiros participaram da operação. A Marinha Real também enviou uma equipe de Devonport para ajudar na avaliação. Ainda não havia decisão final sobre retirar o objeto ou realizar uma explosão controlada no local.",
+        "Segundo a Guarda Costeira, um mergulhador encontrou o objeto e alertou as autoridades, que comunicaram o Ministério da Defesa. Moradores e estudantes relataram bloqueios de ruas e preocupação com a proximidade das residências, enquanto os responsáveis pela operação pediram que as pessoas sigam as instruções de emergência até a conclusão do trabalho."
+      ]
+    },
+    "en": {
+      "title": "World War Two missile keeps British dock area under cordon",
+      "summary": "A suspected 250kg American wartime weapon found in the water keeps a security cordon in place at Falmouth Docks in Cornwall.",
+      "aiSummary": [
+        "A diver found the suspected device in the water, and police believe it is a 250kg American missile from the Second World War.",
+        "Three homes were evacuated as a precaution, but residents were allowed to return while the cordon was reduced to the docks and nearby waters.",
+        "Specialist teams are assessing whether the weapon will be removed or destroyed in a controlled explosion; the operation was not complete."
+      ],
+      "paragraphs": [
+        "A security cordon remained in place for a second day at Falmouth Docks in Cornwall after suspected unexploded ordnance was found in the water. Devon and Cornwall Police said the object was believed to be an American missile from the Second World War.",
+        "Emergency services were called at 09:15 BST on Monday and initially created a 300-metre exclusion zone. On Tuesday, the restricted area was reduced to the docks and surrounding waters, but the public was still told to avoid the cordoned sections.",
+        "Three residential properties were evacuated as a precaution. Residents were later allowed to return home, although authorities said further displacement could still be needed while crews worked through the steps required to make the area safe.",
+        "Explosive ordnance disposal specialists, the Falmouth Coastguard Rescue Team, police and fire and rescue services took part in the operation. The Royal Navy also sent a bomb-disposal team from Devonport to assist with the assessment. Officials had not decided whether to remove the device or carry out a controlled explosion on site.",
+        "The coastguard said a diver found the object and alerted authorities, who notified the Ministry of Defence. Residents and students described blocked roads and concern about living close to the site, while those leading the operation urged people to follow emergency instructions until the work was finished."
+      ]
+    }
+  },
+  "verification": {
+    "score": 8.3,
+    "checkedAt": "2026-09-22T12:25:05Z",
+    "checks": [
+      {
+        "provider": "BBC News",
+        "url": "https://www.bbc.com/news/articles/c9rk3vm3plego",
+        "finding": "supports",
+        "note": "Complete source extraction reports the suspected 250kg American World War Two missile, the reduced cordon, precautionary evacuation and the police, coastguard, MoD and Royal Navy response."
+      },
+      {
+        "provider": "Aos Fatos",
+        "url": "https://www.aosfatos.org/",
+        "finding": "no-match",
+        "note": "No directly matching Portuguese fact-check was found for the Falmouth ordnance report; no-match is neutral and does not establish that the device identification is correct."
+      },
+      {
+        "provider": "Agência Lupa",
+        "url": "https://www.agencialupa.org/",
+        "finding": "no-match",
+        "note": "No directly matching Lupa fact-check was found for the local public-safety event; no-match is neutral."
+      },
+      {
+        "provider": "AFP Fact Check",
+        "url": "https://factcheck.afp.com/",
+        "finding": "no-match",
+        "note": "No relevant AFP fact-check result was found for the Falmouth device or evacuation claims; no-match is neutral."
+      },
+      {
+        "provider": "Reuters Fact Check",
+        "url": "https://www.reuters.com/fact-check/",
+        "finding": "no-match",
+        "note": "No directly matching Reuters Fact Check result was confirmed for the Falmouth incident; no-match is neutral."
+      },
+      {
+        "provider": "Full Fact",
+        "url": "https://fullfact.org/",
+        "finding": "no-match",
+        "note": "No directly matching Full Fact adjudication was found for the reported unexploded ordnance; no-match is not evidence for or against the report."
+      },
+      {
+        "provider": "Google Fact Check Explorer",
+        "url": "https://toolbox.google.com/factcheck/explorer",
+        "finding": "no-match",
+        "note": "No exact ClaimReview record for the Falmouth incident was confirmed in the public explorer search; no-match is neutral."
+      }
+    ],
+    "caveat": "The complete BBC report quotes local authorities and emergency responders and clearly labels the weapon as suspected or believed to be an American World War Two missile. The final disposal method and definitive device identification were unresolved at the cutoff."
+  }
+}

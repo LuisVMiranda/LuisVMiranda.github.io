@@ -1,0 +1,119 @@
+{
+  "id": "ciencia-2026-09-22-morte-celular",
+  "slug": "ciencia-2026-09-22-morte-celular",
+  "section": "ciencia",
+  "secondarySections": [],
+  "publishedAt": "2026-09-22T00:00:00-03:00",
+  "publishedDate": "2026-09-22",
+  "updatedAt": "2026-09-22T13:17:34.573Z",
+  "sources": [
+    {
+      "name": "Nature",
+      "url": "https://www.nature.com/articles/d41586-026-02929-z"
+    }
+  ],
+  "rights": {
+    "mode": "original-report"
+  },
+  "translations": {
+    "pt-BR": {
+      "title": "A ciência descreve mais caminhos para a morte celular — e por que isso importa",
+      "summary": "Pesquisadores já identificaram cerca de 20 formas de morte celular desde 1999, ampliando pistas para câncer, inflamação e imunidade.",
+      "aiSummary": [
+        "Uma equipe descreveu a alkaliptose, ligada ao pH interno elevado de células que morreram.",
+        "A literatura recente reúne cerca de 20 formas de morte celular descritas desde 1999.",
+        "As vias de morte influenciam imunidade, tecidos e possíveis estratégias contra doenças."
+      ],
+      "paragraphs": [
+        "Pesquisadores liderados por Daolin Tang encontraram células que morreram depois de atingir um pH interno anormalmente alto. O fenômeno foi chamado de alkaliptose e sugeriu uma via ainda pouco explorada para eliminar células cancerosas.",
+        "A reportagem explica que a biologia celular deixou de trabalhar apenas com necrose, uma morte acidental, e apoptose, um processo regulado. Técnicas como edição genética, imagens de alta resolução e ferramentas ômicas ajudaram a revelar novas formas, entre elas piroptose, necroptose e ferroptose.",
+        "Desde 1999, cientistas descreveram cerca de 20 modalidades de morte celular, e pelo menos quatro tipos foram definidos apenas em 2025. Um trabalho com vermes achatados também descreveu a ruptose, na qual determinadas células explodem e espalham toxinas contra bactérias invasoras.",
+        "A maneira como uma célula morre afeta tecidos vizinhos e a resposta imune. Células infectadas podem liberar sinais ao se sacrificar, enquanto outras vias estão sendo estudadas para matar tumores, reduzir inflamações ou compreender danos no coração e no cérebro.",
+        "O texto também reúne evidências de que a morte celular nem sempre é imediatamente irreversível. Em experimentos, células em apoptose recuperaram-se depois que o agente indutor foi removido, um processo chamado anastase; os autores ressaltam que ainda é preciso definir quando a célula cruza o ponto sem retorno."
+      ]
+    },
+    "en": {
+      "title": "Scientists are mapping more ways for cells to die — and why it matters",
+      "summary": "Researchers have identified about 20 forms of cell death since 1999, expanding clues for cancer, inflammation and immunity.",
+      "aiSummary": [
+        "A team described alkaliptosis, linked to the unusually high internal pH of dying cells.",
+        "Recent literature includes about 20 forms of cell death described since 1999.",
+        "Death pathways affect immunity, tissues and possible approaches to disease research."
+      ],
+      "paragraphs": [
+        "Researchers led by Daolin Tang found cells that died after reaching an unusually high internal pH. The phenomenon was named alkaliptosis and suggested a previously underexplored route for killing cancer cells.",
+        "The report explains that cell biology now goes beyond necrosis, an accidental death, and apoptosis, a regulated process. Gene editing, high-resolution imaging and omics tools have helped reveal forms including pyroptosis, necroptosis and ferroptosis.",
+        "Since 1999, scientists have described about 20 forms of cell death, and at least four types were defined in 2025 alone. A study of flatworms also described ruptosis, in which particular cells explode and spread toxins against invading bacteria.",
+        "How a cell dies affects neighboring tissue and the immune response. Infected cells can release signals as they sacrifice themselves, while other pathways are being studied for tumor killing, inflammation control and damage in the heart and brain.",
+        "The article also presents evidence that cell death is not always immediately irreversible. In experiments, cells undergoing apoptosis recovered after the inducing agent was removed, a process called anastasis; researchers still need to establish when a cell passes the point of no return."
+      ]
+    }
+  },
+  "verification": {
+    "score": 8.8,
+    "checkedAt": "2026-09-22T12:31:55Z",
+    "checks": [
+      {
+        "provider": "Nature",
+        "url": "https://www.nature.com/articles/d41586-026-02929-z",
+        "finding": "supports",
+        "note": "The complete Nature feature directly reports alkaliptosis, about 20 cell-death forms described since 1999, newly described pathways, immune and tissue effects, and experimental anastasis; the article preserves those qualifications."
+      },
+      {
+        "provider": "PubMed / Biochemical and Biophysical Research Communications",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/33992959/",
+        "finding": "supports",
+        "note": "The primary research record independently supports alkaliptosis as regulated cell death driven by intracellular alkalization and examines its inflammatory signaling; it does not establish a clinical cancer treatment."
+      },
+      {
+        "provider": "Aos Fatos",
+        "url": "https://www.aosfatos.org/",
+        "finding": "no-match",
+        "note": "Site-restricted searches in Portuguese for alkaliptose, morte celular, anastase and the named researchers found no directly matching fact-check; no-match is neutral."
+      },
+      {
+        "provider": "Agência Lupa",
+        "url": "https://www.agencialupa.org/",
+        "finding": "no-match",
+        "note": "Site-restricted searches in Portuguese for the central cell-death claims and named terms found no directly matching fact-check; no-match is neutral."
+      },
+      {
+        "provider": "Projeto Comprova",
+        "url": "https://projetocomprova.com.br/",
+        "finding": "no-match",
+        "note": "Site-restricted searches for the central scientific claim and named terms found no directly matching fact-check; no-match is neutral."
+      },
+      {
+        "provider": "TSE Fato ou Boato",
+        "url": "https://www.tse.jus.br/comunicacao/noticias/fato-ou-boato",
+        "finding": "no-match",
+        "note": "This civic-process registry is not materially targeted to a cell-biology claim; no relevant matching fact-check was found, which is neutral."
+      },
+      {
+        "provider": "AFP Fact Check",
+        "url": "https://factcheck.afp.com/",
+        "finding": "no-match",
+        "note": "Site-restricted searches in English for alkaliptosis, cell-death pathways and anastasis found no directly matching AFP fact-check; no-match is neutral."
+      },
+      {
+        "provider": "Reuters Fact Check",
+        "url": "https://www.reuters.com/fact-check/",
+        "finding": "no-match",
+        "note": "Site-restricted searches in English for the article's central cell-biology claims found no directly matching Reuters fact-check; no-match is neutral."
+      },
+      {
+        "provider": "Full Fact",
+        "url": "https://fullfact.org/",
+        "finding": "no-match",
+        "note": "Searches for alkaliptosis, anastasis and the article's central cell-death claims found no directly matching Full Fact check; no-match is neutral."
+      },
+      {
+        "provider": "Google Fact Check Tools",
+        "url": "https://toolbox.google.com/factcheck/explorer",
+        "finding": "inconclusive",
+        "note": "The public claims:search endpoint returned HTTP 403 without an API key, so indexed ClaimReview coverage could not be confirmed; this is not evidence for or against the article."
+      }
+    ],
+    "caveat": "The evidence strongly supports the feature's description of basic and preclinical research. It does not demonstrate that any newly described death pathway is an approved or effective human cancer therapy; the score is an editorial evidence estimate, not a calibrated probability."
+  }
+}

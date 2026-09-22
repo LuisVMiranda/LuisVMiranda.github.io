@@ -1,0 +1,118 @@
+{
+  "id": "cultura-2026-09-22-historia-de-taipei-livro",
+  "slug": "cultura-2026-09-22-historia-de-taipei-livro",
+  "section": "cultura",
+  "secondarySections": [],
+  "publishedAt": "2026-09-21T19:32:37-03:00",
+  "updatedAt": "2026-09-22T13:17:34.573Z",
+  "sources": [
+    {
+      "name": "CNN Brasil",
+      "url": "https://www.cnnbrasil.com.br/pop/historia-de-taipei-conheca-novo-livro-da-autora-de-a-guerra-da-papoula/"
+    }
+  ],
+  "rights": {
+    "mode": "original-report"
+  },
+  "translations": {
+    "pt-BR": {
+      "title": "R.F. Kuang lança História de Taipei, romance sobre identidade e pertencimento",
+      "summary": "O livro acompanha uma jovem de origem chinesa que viaja a Taipei para estudar o idioma e reexaminar sua relação com a cultura herdada.",
+      "aiSummary": [
+        "A protagonista Lily passa três meses em Taipei em um curso intensivo de chinês.",
+        "A trama trata de identidade, imigração, choque cultural e a tentativa de se aproximar dos avós.",
+        "A edição brasileira saiu pela Intrínseca durante a Bienal do Livro de São Paulo."
+      ],
+      "paragraphs": [
+        "R.F. Kuang lançou no Brasil o romance História de Taipei, uma narrativa sobre identidade, pertencimento e as fronteiras culturais vividas por uma jovem imigrante. A protagonista Lily é filha de pais chineses, cresceu nos Estados Unidos e chega à vida universitária sentindo que se afasta da cultura herdada.",
+        "Para enfrentar essa sensação, Lily viaja a Taipei e se matricula em um curso intensivo de chinês durante três meses de verão. A pouca familiaridade com o idioma asiático é parte do conflito central: aprender a língua aparece como uma tentativa de recuperar uma ligação com a família e com a própria história.",
+        "A personagem também espera que o estudo a aproxime dos avós. Quando recebe a notícia da morte do avô no período mais difícil da viagem, passa a duvidar de que conseguirá encontrar o que buscava. O romance organiza esse percurso em torno do choque cultural, do não pertencimento e das escolhas de quem vive entre referências diferentes.",
+        "A edição brasileira foi lançada na primeira semana de setembro pela editora Intrínseca, durante a Bienal do Livro de São Paulo. O exemplar impresso foi anunciado por R$ 79,90, e a versão para leitores digitais por R$ 54,90.",
+        "Kuang é doutoranda em Literatura e Línguas do Leste da Ásia em Yale e usou experiências ligadas à sua ascendência chinesa na criação de História de Taipei e de Yellowface. Ela também escreveu a trilogia A Guerra da Papoula e venceu os prêmios Nebula e Locus por Babel ou a necessidade de violência."
+      ]
+    },
+    "en": {
+      "title": "R.F. Kuang releases History of Taipei, a novel about identity and belonging",
+      "summary": "The book follows a young woman of Chinese heritage who travels to Taipei to study the language and reconsider her relationship with inherited culture.",
+      "aiSummary": [
+        "The protagonist Lily spends three months in Taipei taking an intensive Chinese course.",
+        "The story explores identity, immigration, culture shock and the hope of reconnecting with grandparents.",
+        "The Brazilian edition was released by Intrínseca during the São Paulo Book Biennial."
+      ],
+      "paragraphs": [
+        "R.F. Kuang’s novel History of Taipei has been released in Brazil as a story about identity, belonging and the cultural borders experienced by a young immigrant. Its protagonist, Lily, is the daughter of Chinese parents, grew up in the United States and reaches university age feeling increasingly distant from the culture she inherited.",
+        "To address that feeling, Lily travels to Taipei and enrolls in an intensive Chinese course lasting three months over the summer. Her limited familiarity with the Asian language is part of the central conflict: learning it becomes an attempt to recover a connection with family and personal history.",
+        "Lily also hopes that studying the language will bring her closer to her grandparents. When she learns that her grandfather has died during the most difficult part of the trip, she begins to doubt that she will find what she was looking for. The novel follows this journey through culture shock, non-belonging and the choices of someone living between different reference points.",
+        "The Brazilian edition was released in the first week of September by Intrínseca during the São Paulo Book Biennial. The print edition was listed at R$79.90, while the e-reader version was listed at R$54.90.",
+        "Kuang is a doctoral student in East Asian Literature and Languages at Yale and drew on experiences related to her Chinese heritage when creating History of Taipei and Yellowface. She also wrote the Poppy War trilogy and won the Nebula and Locus awards for Babel, or the Necessity of Violence."
+      ]
+    }
+  },
+  "verification": {
+    "score": 8.8,
+    "checkedAt": "2026-09-22T12:28:07Z",
+    "checks": [
+      {
+        "provider": "CNN Brasil",
+        "url": "https://www.cnnbrasil.com.br/pop/historia-de-taipei-conheca-novo-livro-da-autora-de-a-guerra-da-papoula/",
+        "finding": "supports",
+        "note": "Complete local extraction was HTTP 200 with complete:true and 13 body paragraphs. It supports the book title, Lily's premise, three-month Taipei course, Brazilian release, prices, and Kuang's biographical and award details."
+      },
+      {
+        "provider": "Intrínseca",
+        "url": "https://intrinseca.com.br/livro/historia-de-taipei/",
+        "finding": "supports",
+        "note": "The publisher's book context corroborates the title, author, Brazilian edition, and official synopsis framing; it does not independently verify every biographical detail or retail price snapshot."
+      },
+      {
+        "provider": "Aos Fatos",
+        "url": "https://www.aosfatos.org/",
+        "finding": "no-match",
+        "note": "No matching fact-check page surfaced for the book release, plot synopsis, prices, or Kuang biography. This no-match is neutral and is not evidence of accuracy."
+      },
+      {
+        "provider": "Agência Lupa",
+        "url": "https://www.agencialupa.org/",
+        "finding": "no-match",
+        "note": "No matching fact-check addressing the article's book or author claims was confirmed. The no-match is neutral."
+      },
+      {
+        "provider": "Projeto Comprova",
+        "url": "https://projetocomprova.com.br/",
+        "finding": "no-match",
+        "note": "No relevant Projeto Comprova fact-check for the literary-release claims was found. The result is neutral."
+      },
+      {
+        "provider": "TSE Fato ou Boato",
+        "url": "https://www.tse.jus.br/comunicacao/noticias/fato-ou-boato",
+        "finding": "no-match",
+        "note": "No civic or election-related fact-check is relevant to this book report; no matching item was found. The no-match is neutral."
+      },
+      {
+        "provider": "AFP Fact Check",
+        "url": "https://factcheck.afp.com/",
+        "finding": "no-match",
+        "note": "No matching AFP fact-check for the book, author, release, or plot claims was confirmed. This no-match is neutral."
+      },
+      {
+        "provider": "Reuters Fact Check",
+        "url": "https://www.reuters.com/fact-check/",
+        "finding": "no-match",
+        "note": "No matching Reuters fact-check for the article's literary claims was confirmed. This no-match is neutral."
+      },
+      {
+        "provider": "Full Fact",
+        "url": "https://fullfact.org/",
+        "finding": "no-match",
+        "note": "No relevant Full Fact item addressing the book release or author biography was found. The no-match is neutral."
+      },
+      {
+        "provider": "Google Fact Check Explorer",
+        "url": "https://toolbox.google.com/factcheck/explorer",
+        "finding": "inconclusive",
+        "note": "No exact indexed ClaimReview record was confirmed in the Explorer searches used for this claim; coverage is incomplete, so this is not evidence for or against the article."
+      }
+    ],
+    "caveat": "The central release and synopsis claims are supported by the complete CNN report and publisher context. Plot details are descriptions of a work of fiction, while prices and release timing are edition-specific and time-sensitive."
+  }
+}

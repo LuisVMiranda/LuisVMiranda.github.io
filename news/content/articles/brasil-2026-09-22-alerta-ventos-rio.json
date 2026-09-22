@@ -1,0 +1,118 @@
+{
+  "id": "brasil-2026-09-22-alerta-ventos-rio",
+  "slug": "brasil-2026-09-22-alerta-ventos-rio",
+  "section": "brasil",
+  "secondarySections": [],
+  "publishedAt": "2026-09-22T00:16:00-03:00",
+  "updatedAt": "2026-09-22T13:17:34.573Z",
+  "sources": [
+    {
+      "name": "Agência Brasil",
+      "url": "https://agenciabrasil.ebc.com.br/meio-ambiente/noticia/2026-09/defesa-civil-alerta-para-ventos-fortes-na-cidade-do-rio"
+    }
+  ],
+  "rights": {
+    "mode": "original-report"
+  },
+  "translations": {
+    "pt-BR": {
+      "title": "Defesa Civil alerta para ventos fortes na cidade do Rio",
+      "summary": "Aviso prevê chuva moderada a forte, raios e rajadas acima de 76 km/h durante a passagem de uma frente fria.",
+      "aiSummary": [
+        "A Defesa Civil do Rio emitiu alerta para ventos fortes durante a passagem de uma frente fria.",
+        "A previsão inclui chuva moderada a forte, raios e rajadas que podem superar 76 km/h.",
+        "A temperatura deve cair na quarta-feira, com máxima prevista de 22 graus Celsius."
+      ],
+      "paragraphs": [
+        "A Defesa Civil do Rio emitiu na madrugada desta terça-feira (22) um alerta para ventos fortes. Moradores da capital receberam a comunicação por celular.",
+        "Segundo o Sistema Alerta Rio, áreas de instabilidade associadas à aproximação de uma frente fria continental podem deixar o céu nublado ou encoberto. A previsão inclui pancadas de chuva moderada a forte, acompanhadas de raios, durante a tarde e a noite.",
+        "Os ventos podem chegar a 51,9 km/h, enquanto as rajadas previstas variam de fortes a muito fortes e podem superar 76 km/h ao longo do dia.",
+        "Para quarta-feira (23), a previsão é de céu encoberto e pancadas de chuva durante a madrugada, com chuva fraca a moderada no restante do dia. As temperaturas devem cair, e a máxima prevista é de 22 graus Celsius.",
+        "Na quinta-feira (24) e na sexta-feira (25), o tempo deve continuar encoberto, com chuva fraca a moderada. A quinta tende a ser mais fria, enquanto a temperatura pode subir para até 27 graus na sexta-feira."
+      ]
+    },
+    "en": {
+      "title": "Rio Civil Defense warns of strong winds in the city",
+      "summary": "The alert forecasts moderate to heavy rain, lightning and gusts above 76 km/h as a cold front moves through.",
+      "aiSummary": [
+        "Rio Civil Defense issued an alert for strong winds as a cold front moves through.",
+        "The forecast includes moderate to heavy rain, lightning and gusts that may exceed 76 km/h.",
+        "Temperatures are expected to fall on Wednesday, with a forecast high of 22 degrees Celsius."
+      ],
+      "paragraphs": [
+        "Rio Civil Defense issued a strong-wind alert early Tuesday (22). Residents of the capital received the notice on their phones.",
+        "According to the Alerta Rio system, instability linked to the approach of a continental cold front may leave skies cloudy or overcast. The forecast includes moderate to heavy showers with lightning during the afternoon and evening.",
+        "Winds may reach 51.9 km/h, while the forecast calls for strong to very strong gusts that could exceed 76 km/h during the day.",
+        "For Wednesday (23), forecasters expect overcast skies and showers overnight, followed by light to moderate rain during the day. Temperatures are expected to fall, with a high of 22 degrees Celsius.",
+        "Cloudy conditions and light to moderate rain are also expected on Thursday (24) and Friday (25). Thursday should be colder, while temperatures may rise to 27 degrees on Friday."
+      ]
+    }
+  },
+  "verification": {
+    "score": 8.4,
+    "checkedAt": "2026-09-22T13:03:31Z",
+    "checks": [
+      {
+        "provider": "Agência Brasil",
+        "url": "https://agenciabrasil.ebc.com.br/meio-ambiente/noticia/2026-09/defesa-civil-alerta-para-ventos-fortes-na-cidade-do-rio",
+        "finding": "supports",
+        "note": "The complete selected-source extraction reports the Civil Defense phone alert, cold-front forecast, rain and lightning, winds up to 51.9 km/h, gusts above 76 km/h and the Wednesday-Friday outlook."
+      },
+      {
+        "provider": "Centro de Operações Rio",
+        "url": "https://cor.rio/agenda/tempo/",
+        "finding": "supports",
+        "note": "The official Rio operations/weather material corroborates the time-specific warning context, strong-wind risk, rain and lightning forecast, while recognizing that forecasts update."
+      },
+      {
+        "provider": "Aos Fatos",
+        "url": "https://www.aosfatos.org/",
+        "finding": "no-match",
+        "note": "No direct fact-check verdict for this weather-service report surfaced in exact-claim or meaningful-variant searches; no-match is neutral and not evidence of accuracy."
+      },
+      {
+        "provider": "Agência Lupa",
+        "url": "https://www.agencialupa.org/",
+        "finding": "no-match",
+        "note": "No direct fact-check verdict for this weather-service report surfaced in exact-claim or meaningful-variant searches; no-match is neutral and not evidence of accuracy."
+      },
+      {
+        "provider": "Projeto Comprova",
+        "url": "https://projetocomprova.com.br/",
+        "finding": "no-match",
+        "note": "No direct fact-check verdict for this weather-service report surfaced in exact-claim or meaningful-variant searches; no-match is neutral and not evidence of accuracy."
+      },
+      {
+        "provider": "TSE Fato ou Boato",
+        "url": "https://www.tse.jus.br/comunicacao/noticias/fato-ou-boato",
+        "finding": "no-match",
+        "note": "No direct civic-process fact-check is relevant to this weather alert; no-match is neutral and does not confirm the forecast."
+      },
+      {
+        "provider": "AFP Fact Check",
+        "url": "https://factcheck.afp.com/",
+        "finding": "no-match",
+        "note": "No direct AFP fact-check verdict for this forecast or alert surfaced in the checked searches; no-match is neutral."
+      },
+      {
+        "provider": "Reuters Fact Check",
+        "url": "https://www.reuters.com/fact-check/",
+        "finding": "no-match",
+        "note": "No direct Reuters fact-check verdict for this forecast or alert surfaced; no-match is neutral and not proof of accuracy."
+      },
+      {
+        "provider": "Full Fact",
+        "url": "https://fullfact.org/",
+        "finding": "no-match",
+        "note": "No direct Full Fact verdict for this weather report surfaced; no-match is neutral and not evidence of accuracy."
+      },
+      {
+        "provider": "Google Fact Check Explorer",
+        "url": "https://toolbox.google.com/factcheck/explorer",
+        "finding": "inconclusive",
+        "note": "No directly confirmable ClaimReview record for the alert was returned by the public explorer interface; the result is inconclusive, not a verdict."
+      }
+    ],
+    "caveat": "Official city-weather material corroborates the warning context, but forecast values and timing are inherently time-sensitive; this score is an evidence estimate, not a guarantee."
+  }
+}

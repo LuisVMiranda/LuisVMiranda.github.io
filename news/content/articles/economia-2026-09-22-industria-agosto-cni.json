@@ -1,0 +1,118 @@
+{
+  "id": "economia-2026-09-22-industria-agosto-cni",
+  "slug": "economia-2026-09-22-industria-agosto-cni",
+  "section": "economia",
+  "secondarySections": [],
+  "publishedAt": "2026-09-21T15:56:09-03:00",
+  "updatedAt": "2026-09-22T13:17:34.573Z",
+  "sources": [
+    {
+      "name": "CNN Brasil",
+      "url": "https://www.cnnbrasil.com.br/economia/money/macroeconomia/producao-da-industria-brasileira-tem-pior-agosto-desde-2015-mostra-cni/"
+    }
+  ],
+  "rights": {
+    "mode": "original-report"
+  },
+  "translations": {
+    "pt-BR": {
+      "title": "Indústria brasileira tem pior agosto desde 2015, aponta sondagem da CNI",
+      "summary": "Produção, intenção de investimento e expectativas industriais recuaram em setembro, em meio a demanda mais fraca e incertezas.",
+      "aiSummary": [
+        "O índice de evolução da produção caiu 4,7 pontos, para 46,3, abaixo da linha de 50 pontos.",
+        "A intenção de investimento recuou para 51,3 pontos, menor nível desde agosto de 2020.",
+        "A CNI ouviu 1.403 empresas entre 1º e 11 de setembro."
+      ],
+      "paragraphs": [
+        "A Sondagem Industrial divulgada pela Confederação Nacional da Indústria registrou em agosto o pior resultado para o índice de evolução da produção desde 2015. O indicador caiu 4,7 pontos, de 51 para 46,3, deixando o campo positivo, definido pela marca de 50 pontos.",
+        "A intenção de investimento também perdeu força. O indicador recuou 1,3 ponto em setembro, de 52,6 para 51,3, o menor nível desde agosto de 2020. Foi a quarta queda consecutiva desde maio, acumulando redução de 3,5 pontos.",
+        "As quatro medidas de expectativa da indústria caíram no mês. A previsão para a demanda por produtos recuou 1,4 ponto, para 51,2, e a de compra de insumos caiu 0,8, para 50,4. Já as expectativas para quantidade exportada e número de empregados foram a 48,9 e 49,2 pontos, respectivamente, abaixo de 50.",
+        "A utilização da capacidade instalada diminuiu um ponto percentual, para 69%, dois pontos abaixo da média de agosto. O índice de evolução do emprego ficou em 48,2 pontos, enquanto o de estoques caiu de 51 para 49,5; ainda assim, o indicador de estoque efetivo em relação ao planejado subiu levemente, para 50,4.",
+        "Segundo Marcelo Azevedo, gerente de Análise Econômica da CNI, a perda de ritmo da atividade e o aumento das incertezas ajudaram a explicar o recuo. A entidade consultou 1.403 empresas, entre pequenas, médias e grandes, de 1º a 11 de setembro; a proximidade das eleições foi citada na reportagem como um fator de cautela para investir, produzir e contratar."
+      ]
+    },
+    "en": {
+      "title": "Brazilian industry posts worst August since 2015, CNI survey shows",
+      "summary": "Production, investment intentions and industrial expectations fell in September amid weaker demand and uncertainty.",
+      "aiSummary": [
+        "The production-evolution index fell 4.7 points to 46.3, below the 50-point line.",
+        "Investment intentions dropped to 51.3, their lowest level since August 2020.",
+        "CNI surveyed 1,403 companies between September 1 and 11."
+      ],
+      "paragraphs": [
+        "The Industrial Survey released by Brazil’s National Confederation of Industry recorded the worst August result for its production-evolution index since 2015. The measure fell 4.7 points from 51 to 46.3, moving below the positive range defined by the 50-point threshold.",
+        "Investment intentions also weakened. The measure fell 1.3 points in September from 52.6 to 51.3, its lowest level since August 2020. It was the fourth consecutive decline since May, bringing the cumulative drop to 3.5 points.",
+        "All four industrial-expectation measures declined during the month. Expected demand for products fell 1.4 points to 51.2, and expected purchases of inputs dropped 0.8 to 50.4. Expectations for export volume and employment fell to 48.9 and 49.2, respectively, below 50.",
+        "Capacity utilization declined by one percentage point to 69%, two points below the August average. The employment-evolution index stood at 48.2, while the finished-goods inventory measure fell from 51 to 49.5; the actual-versus-planned inventory measure nevertheless edged up to 50.4.",
+        "CNI economic-analysis manager Marcelo Azevedo said the loss of industrial momentum and greater uncertainty helped explain the decline. The organization surveyed 1,403 small, medium-sized and large companies from September 1 to 11; the report cited the approaching election as one source of caution over investment, production and hiring."
+      ]
+    }
+  },
+  "verification": {
+    "score": 9.7,
+    "checkedAt": "2026-09-22T12:27:59Z",
+    "checks": [
+      {
+        "provider": "CNN Brasil",
+        "url": "https://www.cnnbrasil.com.br/economia/money/macroeconomia/producao-da-industria-brasileira-tem-pior-agosto-desde-2015-mostra-cni/",
+        "finding": "supports",
+        "note": "Complete HTTP-200 extraction supports the CNI figures: production 51 to 46.3 (-4.7), investment intention 52.6 to 51.3 (-1.3), expectations 51.2/50.4/48.9/49.2, capacity utilization 69%, and sample of 1,403 firms."
+      },
+      {
+        "provider": "CNI",
+        "url": "https://imprensa.portaldaindustria.com.br/releases/intencao-de-investir-da-industria-e-a-menor-em-6-anos-aponta-cni/",
+        "finding": "supports",
+        "note": "Official CNI release/search result corroborates the investment-intention decline and its lowest level since August 2020; the article preserves the survey attribution and September fieldwork dates."
+      },
+      {
+        "provider": "Aos Fatos",
+        "url": "https://www.aosfatos.org/",
+        "finding": "no-match",
+        "note": "Exact-claim and meaningful-variant searches in Portuguese found no matching fact-check verdict; no-match is neutral and is not evidence that the survey figures are true."
+      },
+      {
+        "provider": "Agência Lupa",
+        "url": "https://www.agencialupa.org/",
+        "finding": "no-match",
+        "note": "Exact-claim and meaningful-variant searches in Portuguese found no matching fact-check verdict; no-match is neutral and is not evidence that the survey figures are true."
+      },
+      {
+        "provider": "Projeto Comprova",
+        "url": "https://projetocomprova.com.br/",
+        "finding": "no-match",
+        "note": "Exact-claim and meaningful-variant searches in Portuguese found no matching fact-check verdict; no-match is neutral and is not evidence that the survey figures are true."
+      },
+      {
+        "provider": "TSE Fato ou Boato",
+        "url": "https://www.tse.jus.br/comunicacao/noticias/fato-ou-boato",
+        "finding": "no-match",
+        "note": "No election or civic-process fact-check was relevant to the CNI industrial survey; the result is neutral."
+      },
+      {
+        "provider": "AFP Fact Check",
+        "url": "https://factcheck.afp.com/",
+        "finding": "no-match",
+        "note": "English and Portuguese variant searches found no matching fact-check verdict for the CNI survey results; no-match is neutral."
+      },
+      {
+        "provider": "Reuters Fact Check",
+        "url": "https://www.reuters.com/fact-check/",
+        "finding": "no-match",
+        "note": "English and Portuguese variant searches found no matching fact-check verdict for the CNI survey results; no-match is neutral."
+      },
+      {
+        "provider": "Full Fact",
+        "url": "https://fullfact.org/",
+        "finding": "no-match",
+        "note": "English and Portuguese variant searches found no matching fact-check verdict for the CNI survey results; no-match is neutral."
+      },
+      {
+        "provider": "Google Fact Check Tools",
+        "url": "https://toolbox.google.com/factcheck/explorer",
+        "finding": "inconclusive",
+        "note": "Web-indexed Explorer searches did not surface a matching ClaimReview record; API coverage was unavailable in this run, so this is not a no-match or truth finding."
+      }
+    ],
+    "caveat": "The complete CNN extraction and official CNI material align on the main indices and survey design. The election-proximity explanation remains attributed to CNI's manager and is not treated as a separately measured causal result."
+  }
+}

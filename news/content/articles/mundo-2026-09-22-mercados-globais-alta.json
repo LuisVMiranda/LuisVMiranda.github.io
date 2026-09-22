@@ -1,0 +1,101 @@
+{
+  "id": "mundo-2026-09-22-mercados-globais-alta",
+  "slug": "mundo-2026-09-22-mercados-globais-alta",
+  "section": "mundo",
+  "secondarySections": [],
+  "publishedAt": "2026-09-22T03:31:07Z",
+  "publishedDate": "2026-09-22",
+  "updatedAt": "2026-09-22T13:17:34.573Z",
+  "sources": [
+    {
+      "name": "Associated Press",
+      "url": "https://apnews.com/article/markets-ai-oil-wall-street-de8c5f9659e44556e40e661f794b48ad"
+    }
+  ],
+  "rights": {
+    "mode": "original-report"
+  },
+  "translations": {
+    "pt-BR": {
+      "title": "Mercados globais sobem após rali em Wall Street",
+      "summary": "A maioria dos principais mercados acionários avançou na terça-feira, acompanhando a alta de Wall Street enquanto investidores monitoravam petróleo, conflitos no Oriente Médio e ações de inteligência artificial.",
+      "aiSummary": [
+        "As bolsas europeias e asiáticas subiram em sua maioria depois da alta de Wall Street.",
+        "O petróleo recuou, mas continuou acima dos níveis do início do verão e sujeito às incertezas do estreito de Ormuz.",
+        "Ações de IA ajudaram o humor dos mercados após uma queda global no começo da semana anterior."
+      ],
+      "paragraphs": [
+        "Os mercados acionários globais subiram em sua maioria na terça-feira, informou a Associated Press, depois que o rali noturno em Wall Street melhorou o humor dos investidores. O movimento ocorreu enquanto as bolsas acompanhavam petróleo, moedas e ações ligadas à inteligência artificial.",
+        "Na Europa, o CAC 40 francês avançou quase 0,2%, o DAX alemão ganhou 0,1% e o FTSE 100 britânico subiu quase 0,1% no início dos negócios. Os futuros do Dow Jones avançaram quase 0,1%, enquanto os futuros do S&P 500 recuaram menos de 0,1%.",
+        "Na Ásia, o S&P/ASX 200 australiano ganhou 0,3%, o Kospi sul-coreano subiu 0,2% e o Hang Seng de Hong Kong avançou 0,2%. O índice de Xangai ficou praticamente estável, enquanto os mercados de Tóquio permaneceram fechados por um feriado prolongado.",
+        "O petróleo ajudou a sustentar as ações. O petróleo dos Estados Unidos caiu 2,07%, para US$ 93,80 por barril, e o Brent recuou 0,58%, para US$ 99,76; ainda assim, os preços ficaram acima dos cerca de US$ 72 do começo do verão e abaixo do pico próximo de US$ 110 da semana anterior.",
+        "A AP relacionou a oscilação do petróleo à passagem limitada de cargas pelo estreito de Ormuz e disse que ações de IA também vêm sustentando os mercados depois da queda mundial do início da semana anterior. No câmbio, o dólar recuou para 157,15 ienes, enquanto o euro valia US$ 1,1460."
+      ]
+    },
+    "en": {
+      "title": "Global markets rise mostly after Wall Street rally",
+      "summary": "Most major stock markets advanced Tuesday after Wall Street’s rally, as investors watched oil, Middle East conflicts and artificial-intelligence shares.",
+      "aiSummary": [
+        "European and Asian equities mostly rose after Wall Street’s advance.",
+        "Oil prices fell but remained above early-summer levels and sensitive to uncertainty around the Strait of Hormuz.",
+        "AI stocks helped market sentiment after a global slide at the start of the previous week."
+      ],
+      "paragraphs": [
+        "Global stock markets mostly rose Tuesday, The Associated Press reported, after an overnight rally on Wall Street improved investor sentiment. The move came as markets watched oil, currencies and artificial-intelligence shares.",
+        "In Europe, France’s CAC 40 gained nearly 0.2%, Germany’s DAX rose 0.1% and Britain’s FTSE 100 edged up nearly 0.1% in early trading. Dow futures were up nearly 0.1%, while S&P 500 futures fell by less than 0.1%.",
+        "In Asia, Australia’s S&P/ASX 200 added 0.3%, South Korea’s Kospi rose 0.2% and Hong Kong’s Hang Seng gained 0.2%. The Shanghai Composite was nearly flat, while Tokyo markets were closed for an extended holiday.",
+        "Oil prices supported the stock-market mood. U.S. crude fell 2.07% to $93.80 a barrel and Brent declined 0.58% to $99.76; prices were still above roughly $72 at the start of the summer and below the nearly $110 peak reached the previous week.",
+        "The AP linked oil’s swings to limited crude movement through the Strait of Hormuz and said AI shares have also been supporting markets after a worldwide slide at the start of the previous week. In currency trading, the dollar slipped to 157.15 yen while the euro cost $1.1460."
+      ]
+    }
+  },
+  "verification": {
+    "score": 7.9,
+    "checkedAt": "2026-09-22T12:25:05Z",
+    "checks": [
+      {
+        "provider": "Associated Press",
+        "url": "https://apnews.com/article/markets-ai-oil-wall-street-de8c5f9659e44556e40e661f794b48ad",
+        "finding": "supports",
+        "note": "Complete AP extraction directly reports the time-stamped market snapshot: mostly higher global benchmarks, the stated oil prices, mixed US futures, currency levels and AI-market context."
+      },
+      {
+        "provider": "Aos Fatos",
+        "url": "https://www.aosfatos.org/",
+        "finding": "no-match",
+        "note": "No directly matching Portuguese fact-check of this same-day market snapshot was found; no-match is neutral and not evidence that every quoted price remains current."
+      },
+      {
+        "provider": "Agência Lupa",
+        "url": "https://www.agencialupa.org/",
+        "finding": "no-match",
+        "note": "No directly matching Lupa fact-check was found for the market figures or the article's explanation; no-match is neutral."
+      },
+      {
+        "provider": "AFP Fact Check",
+        "url": "https://factcheck.afp.com/",
+        "finding": "no-match",
+        "note": "No directly matching AFP fact-check for this same-day market snapshot or its quoted prices was confirmed; no-match is neutral."
+      },
+      {
+        "provider": "Reuters Fact Check",
+        "url": "https://www.reuters.com/fact-check/",
+        "finding": "no-match",
+        "note": "No directly matching Reuters Fact Check result was confirmed for the quoted index, oil or currency snapshot; no-match is neutral."
+      },
+      {
+        "provider": "Full Fact",
+        "url": "https://fullfact.org/",
+        "finding": "no-match",
+        "note": "No directly matching Full Fact adjudication was found for the AP market report; no-match does not validate time-sensitive prices."
+      },
+      {
+        "provider": "Google Fact Check Explorer",
+        "url": "https://toolbox.google.com/factcheck/explorer",
+        "finding": "no-match",
+        "note": "No exact ClaimReview record for the market snapshot was confirmed; no-match is neutral."
+      }
+    ],
+    "caveat": "The report is a time-specific market snapshot, and the AP source provides the figures and direction of travel. Exact prices and index levels can change rapidly; no independent same-minute price feed was used to reconstitute every number."
+  }
+}

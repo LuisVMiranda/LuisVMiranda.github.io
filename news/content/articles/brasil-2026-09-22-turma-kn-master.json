@@ -1,0 +1,122 @@
+{
+  "id": "brasil-2026-09-22-turma-kn-master",
+  "slug": "brasil-2026-09-22-turma-kn-master",
+  "section": "brasil",
+  "secondarySections": [],
+  "publishedAt": "2026-09-21T17:07:29-03:00",
+  "updatedAt": "2026-09-22T13:17:34.573Z",
+  "sources": [
+    {
+      "name": "CNN Brasil",
+      "url": "https://www.cnnbrasil.com.br/politica/turma-do-kn-negociou-contrato-de-r-427-mi-com-master-apontam-mensagens/"
+    }
+  ],
+  "rights": {
+    "mode": "original-report"
+  },
+  "translations": {
+    "pt-BR": {
+      "title": "Mensagens apontam contrato de R$ 427 milhões ligado à chamada ‘Turma do KN’",
+      "summary": "Documento atribuído a negociações do Banco Master previa honorários condicionados a resultados em ações sobre precatórios; ministro citado nega vínculo.",
+      "aiSummary": [
+        "Mensagens obtidas pela Polícia Federal apontam um contrato de advocacia de R$ 427 milhões ligado à chamada “Turma do KN”.",
+        "O documento previa honorários de 5% em 12 ações relacionadas a precatórios de interesse do Banco Master, segundo a CNN.",
+        "Kassio Nunes Marques negou ter autorizado contatos, trocado mensagens com Vorcaro ou votado a favor dele ou do banco."
+      ],
+      "paragraphs": [
+        "Mensagens extraídas do celular de Daniel Vorcaro, obtidas pela Polícia Federal e enviadas ao Supremo Tribunal Federal, apontam um contrato de advocacia de R$ 427 milhões ligado à chamada “Turma do KN”. O caso é tratado pela CNN como uma revelação baseada nos documentos e nas mensagens.",
+        "Segundo a reportagem, o repasse seria feito se houvesse resultados favoráveis em ações de interesse do Banco Master nos tribunais superiores. As causas poderiam liberar cerca de R$ 8,5 bilhões em precatórios.",
+        "Nas trocas de mensagens, “KN” é apresentado como referência ao ministro Kassio Nunes Marques, do STF. A expressão “turma” seria associada ao desembargador Newton Ramos e à advogada Camilla Ramos, mulher dele; a CNN afirma que as informações foram reveladas pelo Metrópoles e confirmadas pela emissora.",
+        "Nunes Marques classificou a divulgação como uma tentativa de criar uma narrativa para incriminá-lo. O ministro disse que nunca autorizou terceiros a falar em seu nome, que não conversou com Vorcaro e que nunca votou a favor dele ou do Banco Master.",
+        "O contrato teria sido firmado com o escritório de Camilla Ramos para atuar em 12 ações nas quais o banco era parte contra a União, relacionadas ao setor sucroalcooleiro. O documento obtido pela CNN prevê honorários líquidos de 5% sobre os valores recebidos pelo banco, com pagamentos em até cinco dias após os ganhos.",
+        "Pela cláusula descrita na reportagem, os honorários poderiam chegar a R$ 427 milhões se as causas fossem vencidas. As mensagens também registram pedidos atribuídos a Newton Ramos envolvendo hospedagem e ingressos, enquanto o desembargador afirmou que sua relação com Vorcaro era pessoal e que não julgou causas de interesse do banco.",
+        "A reportagem apresenta as acusações, os documentos e as respostas dos envolvidos sem tratar as mensagens como prova de uma decisão judicial ou de um vínculo público já estabelecido. O conteúdo descreve uma investigação em andamento e preserva as negativas apresentadas pelos citados."
+      ]
+    },
+    "en": {
+      "title": "Messages point to R$427 million contract linked to the so-called ‘KN group’",
+      "summary": "A document tied to Banco Master negotiations set fees contingent on results in cases involving court-ordered debts; the cited justice denies a connection.",
+      "aiSummary": [
+        "Messages obtained by Brazil's Federal Police point to a R$427 million legal contract linked to the so-called “KN group.”",
+        "The document set fees at 5% in 12 cases involving court-ordered debts of interest to Banco Master, CNN reported.",
+        "Kassio Nunes Marques denied authorizing contacts, exchanging messages with Vorcaro or voting in favor of him or the bank."
+      ],
+      "paragraphs": [
+        "Messages extracted from Daniel Vorcaro's cellphone, obtained by Brazil's Federal Police and sent to the Supreme Federal Court, point to a R$427 million legal contract linked to the so-called “KN group.” CNN described the report as based on the documents and messages.",
+        "According to the report, payment would be made if favorable results were achieved in cases of interest to Banco Master before higher courts. The cases could release about R$8.5 billion in court-ordered debts.",
+        "In the messages, “KN” is presented as a reference to Supreme Court Justice Kassio Nunes Marques. The “group” is associated with appellate judge Newton Ramos and his wife, attorney Camilla Ramos; CNN said the information was first revealed by Metrópoles and confirmed by the network.",
+        "Nunes Marques called the release of the messages an attempt to create a narrative to incriminate him. He said he never authorized anyone to speak on his behalf, never exchanged messages with Vorcaro and never voted in favor of him or Banco Master.",
+        "The contract was reportedly agreed with Camilla Ramos's law firm for 12 cases in which the bank was opposing the federal government, involving the sugar industry. The document obtained by CNN sets net fees at 5% of the amounts received by the bank, payable within five days after gains were obtained.",
+        "Under the clause described in the report, the fees could reach R$427 million if the cases were won. The messages also record requests attributed to Newton Ramos involving hotel stays and tickets, while the judge said his relationship with Vorcaro was personal and that he had not ruled on cases involving the bank.",
+        "The report presents the allegations, documents and responses from the people cited without treating the messages as proof of a judicial decision or an established public-sector link. It describes an ongoing investigation and preserves the denials issued by those named."
+      ]
+    }
+  },
+  "verification": {
+    "score": 7.8,
+    "checkedAt": "2026-09-22T13:03:31Z",
+    "checks": [
+      {
+        "provider": "CNN Brasil",
+        "url": "https://www.cnnbrasil.com.br/politica/turma-do-kn-negociou-contrato-de-r-427-mi-com-master-apontam-mensagens/",
+        "finding": "supports",
+        "note": "The complete selected-source extraction reports the attributed messages, R$427 million contract, possible R$8.5 billion in precatórios, 12 cases, 5% fee clause and denials; it presents allegations as attributed and unresolved."
+      },
+      {
+        "provider": "Metrópoles",
+        "url": "https://www.metropoles.com/brasil/flavio-evitar-comentar-contrato-da-turma-do-kn-com-master-nao-sei",
+        "finding": "supports",
+        "note": "Independent Brazilian reporting corroborates the existence of the reported contract and the messages' reference to the so-called Turma do KN; it does not establish wrongdoing as proven."
+      },
+      {
+        "provider": "Aos Fatos",
+        "url": "https://www.aosfatos.org/",
+        "finding": "no-match",
+        "note": "No direct fact-check verdict for the specific contract-and-messages claim surfaced; no-match is neutral and not evidence that the allegations are true."
+      },
+      {
+        "provider": "Agência Lupa",
+        "url": "https://www.agencialupa.org/",
+        "finding": "no-match",
+        "note": "No direct Lupa verdict for the specific Turma do KN contract claim surfaced; no-match is neutral and does not validate the allegations."
+      },
+      {
+        "provider": "Projeto Comprova",
+        "url": "https://projetocomprova.com.br/",
+        "finding": "no-match",
+        "note": "No direct Comprova verdict for the specific contract-and-messages claim surfaced; no-match is neutral and not proof of accuracy."
+      },
+      {
+        "provider": "TSE Fato ou Boato",
+        "url": "https://www.tse.jus.br/comunicacao/noticias/fato-ou-boato",
+        "finding": "no-match",
+        "note": "No direct TSE fact-check is relevant to this court-investigation report; no-match is neutral and does not validate the allegations."
+      },
+      {
+        "provider": "AFP Fact Check",
+        "url": "https://factcheck.afp.com/",
+        "finding": "no-match",
+        "note": "No direct AFP fact-check verdict for the specific contract claim surfaced; no-match is neutral and not evidence of accuracy."
+      },
+      {
+        "provider": "Reuters Fact Check",
+        "url": "https://www.reuters.com/fact-check/",
+        "finding": "no-match",
+        "note": "No direct Reuters fact-check verdict for the specific Turma do KN claim surfaced; no-match is neutral and not proof of truth."
+      },
+      {
+        "provider": "Full Fact",
+        "url": "https://fullfact.org/",
+        "finding": "no-match",
+        "note": "No direct Full Fact verdict for the specific messages or contract surfaced; no-match is neutral and not evidence of accuracy."
+      },
+      {
+        "provider": "Google Fact Check Explorer",
+        "url": "https://toolbox.google.com/factcheck/explorer",
+        "finding": "inconclusive",
+        "note": "The public explorer interface did not yield a directly confirmable ClaimReview record for the specific allegation; the result is inconclusive, not a verdict."
+      }
+    ],
+    "caveat": "The documentary reporting is independently corroborated, but the meaning of the messages, any real-world influence and possible wrongdoing remain allegations under investigation; this score is an evidence estimate, not a guarantee."
+  }
+}

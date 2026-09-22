@@ -1,0 +1,107 @@
+{
+  "id": "mundo-2026-09-22-norte-coreia-sistema-hipersonico",
+  "slug": "mundo-2026-09-22-norte-coreia-sistema-hipersonico",
+  "section": "mundo",
+  "secondarySections": [],
+  "publishedAt": "2026-09-22T02:58:04Z",
+  "publishedDate": "2026-09-22",
+  "updatedAt": "2026-09-22T13:17:34.573Z",
+  "sources": [
+    {
+      "name": "Associated Press",
+      "url": "https://apnews.com/article/north-korea-missile-kim-hypersonic-27b540de28525e4bf23c89b90991393d"
+    }
+  ],
+  "rights": {
+    "mode": "original-report"
+  },
+  "translations": {
+    "pt-BR": {
+      "title": "Coreia do Norte apresenta sistema descrito como hipersônico",
+      "summary": "Pyongyang disse que seus testes recentes envolveram um novo sistema de armas, mas autoridades sul-coreanas alertaram que as alegações sobre o desempenho do míssil ainda precisam ser avaliadas.",
+      "aiSummary": [
+        "A Coreia do Norte afirmou que testou um sistema de grande importância militar e as imagens indicam um míssil descrito anteriormente como hipersônico.",
+        "Dois mísseis percorreram cerca de 450 e 600 quilômetros a partir da costa leste, segundo a Coreia do Sul.",
+        "Seul disse que as alegações de capacidade divulgadas por Pyongyang não podem ser aceitas como totalmente confiáveis."
+      ],
+      "paragraphs": [
+        "A Coreia do Norte afirmou que os testes de domingo envolveram um novo sistema de armas de grande importância, informou a Associated Press. As imagens divulgadas pelo governo indicam o lançamento de um míssil que Pyongyang já havia descrito como hipersônico, embora jornalistas independentes não tenham podido verificar as cenas.",
+        "Kim Jong Un disse que o desenvolvimento reforçaria a prontidão militar do país e criaria uma dor de cabeça incurável para seus inimigos. A Coreia do Sul detectou dois lançamentos a partir da região costeira de Wonsan, com voos de aproximadamente 450 e 600 quilômetros em direção ao mar.",
+        "Os testes integram uma sequência recente de demonstrações militares, incluindo exercícios de fogo real e a entrada em serviço de um novo navio de guerra. A AP descreve um arsenal que inclui mísseis capazes de transportar ogivas nucleares, enquanto sistemas chamados hipersônicos são projetados para viajar a mais de cinco vezes a velocidade do som e tentar escapar de defesas antimísseis.",
+        "As fotografias da agência oficial KCNA parecem mostrar dois mísseis Hwasong-11Ma, sistema que a Coreia do Norte já classificou como hipersônico. Gráficos exibidos nas imagens indicaram velocidade de 2.146 metros por segundo, altitude de 35,8 quilômetros e alcance de 908,2 quilômetros, números que o Estado-Maior sul-coreano disse estar avaliando e que não podem ser aceitos como cem por cento confiáveis.",
+        "O anúncio ocorreu depois de Donald Trump reduzir um exercício militar conjunto com a Coreia do Sul na tentativa de reabrir a diplomacia com Kim Jong Un. O presidente sul-coreano Lee Jae Myung disse esperar a retomada do diálogo e defendeu uma desnuclearização gradual, enquanto Pyongyang continua exigindo o fim do que chama de política hostil dos Estados Unidos."
+      ]
+    },
+    "en": {
+      "title": "North Korea presents a system described as hypersonic",
+      "summary": "Pyongyang said its latest tests involved a new weapons system, while South Korean officials warned that the missile-performance claims still require assessment.",
+      "aiSummary": [
+        "North Korea said it tested a weapons system of major significance, and images indicate a missile previously described as hypersonic.",
+        "South Korea said two missiles flew about 450 and 600 kilometers from the eastern coast.",
+        "Seoul said Pyongyang’s claims about the system’s capabilities cannot be treated as fully reliable."
+      ],
+      "paragraphs": [
+        "North Korea said Sunday’s tests involved a new weapons system of great significance, The Associated Press reported. Images released by the government indicate the launch of a missile Pyongyang has previously described as hypersonic, although independent journalists could not verify the scenes.",
+        "Kim Jong Un said the development would strengthen the country’s war readiness and give its enemies an incurable headache. South Korea detected two launches from the coastal Wonsan area, with flights of about 450 and 600 kilometers toward the sea.",
+        "The tests are part of a recent run of military demonstrations that has included live-fire exercises and the commissioning of a new warship. The AP describes an arsenal that includes nuclear-capable missiles, while weapons labeled hypersonic are designed to travel at more than five times the speed of sound and help evade missile defenses.",
+        "Photos from the official KCNA agency appeared to show two Hwasong-11Ma missiles, a system North Korea has previously called hypersonic. Graphics in the images gave a speed of 2,146 meters per second, an altitude of 35.8 kilometers and a range of 908.2 kilometers; South Korea said it was assessing the details and cautioned that the claims could not be trusted completely.",
+        "The announcement came after Donald Trump scaled back a joint military exercise with South Korea in an effort to reopen diplomacy with Kim Jong Un. South Korean President Lee Jae Myung said he hoped dialogue could resume and advocated gradual denuclearization, while Pyongyang continues to demand an end to what it calls U.S. hostility."
+      ]
+    }
+  },
+  "verification": {
+    "score": 8,
+    "checkedAt": "2026-09-22T12:25:05Z",
+    "checks": [
+      {
+        "provider": "Associated Press",
+        "url": "https://apnews.com/article/north-korea-missile-kim-hypersonic-27b540de28525e4bf23c89b90991393d",
+        "finding": "supports",
+        "note": "Complete source extraction supports the bounded claim that North Korea presented a system described as hypersonic and that South Korea detected two launches; AP explicitly says the performance claims and imagery were not independently verified."
+      },
+      {
+        "provider": "Reuters",
+        "url": "https://www.reuters.com/world/asia-pacific/north-korea-tests-missiles-while-trump-seeks-revive-diplomacy-2026-09-21/",
+        "finding": "supports",
+        "note": "Independent reporting corroborates the two short-range launches and their approximate flight distances, but not North Korea's claimed hypersonic performance figures."
+      },
+      {
+        "provider": "Aos Fatos",
+        "url": "https://www.aosfatos.org/",
+        "finding": "no-match",
+        "note": "No directly matching Portuguese fact-check of the missile test or hypersonic-performance claim was found; no-match is neutral."
+      },
+      {
+        "provider": "Agência Lupa",
+        "url": "https://www.agencialupa.org/",
+        "finding": "no-match",
+        "note": "No directly matching Lupa fact-check was found for this launch report; no-match is not evidence that the military capability claim is true."
+      },
+      {
+        "provider": "AFP Fact Check",
+        "url": "https://factcheck.afp.com/",
+        "finding": "no-match",
+        "note": "No directly matching AFP fact-check was found for the current missile test or the Hwasong-11Ma performance claim; no-match is neutral."
+      },
+      {
+        "provider": "Reuters Fact Check",
+        "url": "https://www.reuters.com/fact-check/",
+        "finding": "no-match",
+        "note": "No Reuters Fact Check adjudication was found for the current launch or the claimed speed, altitude and range; no-match is neutral."
+      },
+      {
+        "provider": "Full Fact",
+        "url": "https://fullfact.org/",
+        "finding": "no-match",
+        "note": "No directly matching Full Fact result was found for the North Korean weapons claim; no-match does not resolve the technical uncertainty."
+      },
+      {
+        "provider": "Google Fact Check Explorer",
+        "url": "https://toolbox.google.com/factcheck/explorer",
+        "finding": "no-match",
+        "note": "No exact ClaimReview record for the current missile-test claim was confirmed; no-match is neutral."
+      }
+    ],
+    "caveat": "The event detection and launch distances are corroborated, but the hypersonic label and the 2,146 m/s, 35.8 km and 908.2 km figures remain North Korean claims under assessment. The article preserves that uncertainty rather than presenting the capability as established fact."
+  }
+}

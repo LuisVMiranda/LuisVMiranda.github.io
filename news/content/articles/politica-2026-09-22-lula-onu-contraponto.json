@@ -1,0 +1,119 @@
+{
+  "id": "politica-2026-09-22-lula-onu-contraponto",
+  "slug": "politica-2026-09-22-lula-onu-contraponto",
+  "section": "politica",
+  "secondarySections": [],
+  "publishedAt": "2026-09-22T00:00:00.897-03:00",
+  "publishedDate": "2026-09-22",
+  "updatedAt": "2026-09-22T13:17:34.573Z",
+  "sources": [
+    {
+      "name": "G1",
+      "url": "https://g1.globo.com/politica/noticia/2026/09/22/guerras-soberania-e-democracia-lula-quer-fazer-contraponto-a-trump-em-abertura-de-assembleia-da-onu.ghtml"
+    }
+  ],
+  "rights": {
+    "mode": "original-report"
+  },
+  "translations": {
+    "pt-BR": {
+      "title": "Lula prepara contraponto a Trump para abertura da Assembleia Geral da ONU",
+      "summary": "O presidente deveria abrir o debate de líderes da ONU antes de Donald Trump, defendendo multilateralismo, soberania e reforma do Conselho de Segurança.",
+      "aiSummary": [
+        "Lula deveria falar antes de Donald Trump na abertura da 81ª Assembleia Geral da ONU.",
+        "Auxiliares disseram que a fala buscaria contrastar posições sobre democracia, comércio e paz.",
+        "O presidente defenderia o multilateralismo e a reforma do Conselho de Segurança."
+      ],
+      "paragraphs": [
+        "O presidente Luiz Inácio Lula da Silva deveria abrir nesta terça-feira (22) o debate de líderes da 81ª Assembleia Geral das Nações Unidas, em Nova York, antes do discurso do presidente dos Estados Unidos, Donald Trump.",
+        "Segundo auxiliares ouvidos pelo g1, a equipe brasileira preparou uma fala de contraponto a Trump em temas como democracia, comércio e paz mundial. A estratégia também buscava apresentar Lula como um estadista diante de eleitores brasileiros ainda não alinhados.",
+        "Um dos eixos previstos era a defesa do multilateralismo e a crítica ao enfraquecimento da cooperação entre países. A reportagem relaciona essa agenda a efeitos sobre segurança e paz, emergência climática, saúde, comércio e soberania nacional.",
+        "O discurso também deveria abordar conflitos globais e possíveis tentativas externas de interferência no processo eleitoral brasileiro. A orientação descrita pelos diplomatas era preservar as linhas tradicionais da política externa, sem dirigir nominalmente os recados a Trump.",
+        "Lula deveria voltar a defender a reforma do Conselho de Segurança da ONU, com ampliação de membros permanentes. O Brasil cita Japão, Alemanha, África do Sul e o próprio país, enquanto a sucessão de António Guterres mantém a defesa brasileira de uma mulher latino-americana; Michelle Bachelet retirou sua candidatura, e a escolha caberá à Assembleia Geral a partir de uma indicação do Conselho de Segurança."
+      ]
+    },
+    "en": {
+      "title": "Lula prepares counterpoint to Trump for opening of UN General Assembly",
+      "summary": "The president was expected to open the UN leaders’ debate before Donald Trump, defending multilateralism, sovereignty and Security Council reform.",
+      "aiSummary": [
+        "Lula was expected to speak before Donald Trump at the opening of the 81st UN General Assembly.",
+        "Aides said the speech would contrast positions on democracy, trade and peace.",
+        "The president was expected to defend multilateralism and Security Council reform."
+      ],
+      "paragraphs": [
+        "President Luiz Inácio Lula da Silva was expected to open the debate of leaders at the 81st United Nations General Assembly in New York on Tuesday, September 22, before a speech by U.S. President Donald Trump.",
+        "According to aides quoted by G1, the Brazilian team prepared a counterpoint to Trump on democracy, trade and world peace. The strategy also sought to present Lula as a statesman to Brazilian voters who are not aligned with either political camp.",
+        "One expected theme was a defense of multilateralism and criticism of the weakening of cooperation among countries. The report links that agenda to security and peace, the climate emergency, health, trade and national sovereignty.",
+        "The speech was also expected to address global conflicts and possible outside attempts to interfere in Brazil’s electoral process. The guidance described by diplomats was to preserve traditional lines of Brazilian foreign policy without naming Trump in the messages.",
+        "Lula was expected to again defend reform of the UN Security Council, including more permanent members. Brazil cites Japan, Germany, South Africa and Brazil itself, while the succession to António Guterres keeps Brazil’s support for a Latin American woman; Michelle Bachelet withdrew her candidacy, and the choice will be made by the General Assembly from a Security Council nomination."
+      ]
+    }
+  },
+  "verification": {
+    "score": 8.7,
+    "checkedAt": "2026-09-22T12:31:03Z",
+    "checks": [
+      {
+        "provider": "G1",
+        "url": "https://g1.globo.com/politica/noticia/2026/09/22/guerras-soberania-e-democracia-lula-quer-fazer-contraponto-a-trump-em-abertura-de-assembleia-da-onu.ghtml",
+        "finding": "supports",
+        "note": "Complete HTTP-200 extraction with complete:true supports the scheduled Sept. 22 opening of the 81st UN General Assembly, Lula speaking before Trump, the planned multilateralism and Security Council themes, and the succession discussion. The report keeps speech content attributed to aides and diplomats and uses future-tense qualifications."
+      },
+      {
+        "provider": "United Nations",
+        "url": "https://www.un.org/en/ga/81/meetings",
+        "finding": "supports",
+        "note": "The UN General Debate meeting schedule corroborates the 81st-session opening on Sept. 22, 2026 and the Brazil speaking slot; it does not independently verify the planned speech wording or political framing."
+      },
+      {
+        "provider": "Aos Fatos",
+        "url": "https://www.aosfatos.org/",
+        "finding": "no-match",
+        "note": "Portuguese searches surfaced unrelated Lula/UN rumors but no directly retrievable fact-check of this scheduled speech; no-match is neutral and does not contradict the article's time-qualified report."
+      },
+      {
+        "provider": "Agência Lupa",
+        "url": "https://www.agencialupa.org/",
+        "finding": "no-match",
+        "note": "Portuguese exact-claim and variant searches found no fact-check verdict about Lula's scheduled 81st General Assembly speech; no-match is neutral and not evidence of accuracy."
+      },
+      {
+        "provider": "Projeto Comprova",
+        "url": "https://projetocomprova.com.br/",
+        "finding": "no-match",
+        "note": "Portuguese searches for Lula, the UN opening, Trump and Security Council reform found no directly matching fact-check; no-match is neutral."
+      },
+      {
+        "provider": "TSE Fato ou Boato",
+        "url": "https://www.tse.jus.br/comunicacao/noticias/fato-ou-boato",
+        "finding": "no-match",
+        "note": "No relevant electoral-misinformation verdict was found for this UN speech report; no-match does not validate the article."
+      },
+      {
+        "provider": "AFP Fact Check",
+        "url": "https://factcheck.afp.com/",
+        "finding": "no-match",
+        "note": "English and Portuguese searches for Lula, the UN General Assembly, Trump and Security Council reform found no matching fact-check verdict; no-match is neutral."
+      },
+      {
+        "provider": "Reuters Fact Check",
+        "url": "https://www.reuters.com/fact-check/",
+        "finding": "no-match",
+        "note": "Searches for the scheduled Lula speech and its named institutions found no directly matching Reuters fact-check; no-match is neutral."
+      },
+      {
+        "provider": "Full Fact",
+        "url": "https://fullfact.org/",
+        "finding": "no-match",
+        "note": "English searches found no Full Fact verdict addressing this dated UN-speech preview; no-match is neutral."
+      },
+      {
+        "provider": "Google Fact Check Tools",
+        "url": "https://toolbox.google.com/factcheck/explorer",
+        "finding": "inconclusive",
+        "note": "Web-indexed Explorer searches did not surface an exact ClaimReview record, and the public claims-search API returned HTTP 403 in this run; this is not evidence for or against the article."
+      }
+    ],
+    "caveat": "The event date and speaking sequence have UN schedule corroboration. The speech themes, intended contrast with Trump, electoral framing and succession language are pre-event reporting attributed to aides, diplomats and G1, so they should remain time-qualified rather than presented as completed remarks."
+  }
+}

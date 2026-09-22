@@ -1,0 +1,120 @@
+{
+  "id": "brasil-2026-09-22-quaest-pesquisa-presidente",
+  "slug": "brasil-2026-09-22-quaest-pesquisa-presidente",
+  "section": "brasil",
+  "secondarySections": [],
+  "publishedAt": "2026-09-21T09:26:47.104-03:00",
+  "updatedAt": "2026-09-22T13:17:34.573Z",
+  "sources": [
+    {
+      "name": "g1",
+      "url": "https://g1.globo.com/politica/eleicoes/2026/pesquisa-eleitoral/noticia/2026/09/21/quaest-divulga-nova-pesquisa-eleitoral-para-presidente-nesta-segunda-21.ghtml"
+    }
+  ],
+  "rights": {
+    "mode": "original-report"
+  },
+  "translations": {
+    "pt-BR": {
+      "title": "Quaest prepara nova pesquisa sobre a corrida presidencial",
+      "summary": "Levantamento contratado pela Globo ouviu 2.004 pessoas e tem margem de erro de dois pontos percentuais.",
+      "aiSummary": [
+        "A Quaest preparou uma nova pesquisa presidencial contratada pela Globo e por O Globo.",
+        "O levantamento ouviu 2.004 pessoas entre 17 e 20 de setembro, com margem de erro de dois pontos.",
+        "O questionário incluía avaliação do governo, economia, eleição e perguntas sobre o caso Master."
+      ],
+      "paragraphs": [
+        "A Quaest informou que divulgaria nesta segunda-feira (21) uma nova pesquisa eleitoral para a Presidência da República. O levantamento foi contratado pela Globo e pelo jornal O Globo.",
+        "A rodada anterior, divulgada em 14 de setembro, registrou 36% das intenções de voto para Luiz Inácio Lula da Silva e 31% para Flávio Bolsonaro no primeiro turno. Augusto Cury aparecia com 7% naquela medição.",
+        "Na simulação de segundo turno da mesma pesquisa, Flávio Bolsonaro tinha 42% e Lula, 40%. O resultado foi descrito como empate técnico porque a diferença ficou dentro da margem de erro.",
+        "A nova rodada ouviu 2.004 pessoas com 16 anos ou mais entre 17 e 20 de setembro. A margem de erro informada é de dois pontos percentuais, para mais ou para menos, com nível de confiança de 95%.",
+        "O levantamento foi registrado no Tribunal Superior Eleitoral sob o número BR-06004/2026. A pesquisa também deveria abordar a aprovação do governo, a avaliação da economia e o interesse dos eleitores pela eleição.",
+        "O questionário incluía perguntas sobre a crise no Supremo Tribunal Federal e os desdobramentos do caso Master. A reportagem destacou que seria a primeira pesquisa presidencial da Quaest depois da sessão do tribunal sobre o tema."
+      ]
+    },
+    "en": {
+      "title": "Quaest prepares new poll on Brazil's presidential race",
+      "summary": "The survey commissioned by Globo interviewed 2,004 people and has a two-percentage-point margin of error.",
+      "aiSummary": [
+        "Quaest prepared a new presidential poll commissioned by Globo and O Globo.",
+        "The survey interviewed 2,004 people from September 17 to 20, with a two-point margin of error.",
+        "The questionnaire covered government approval, the economy, the election and questions about the Master case."
+      ],
+      "paragraphs": [
+        "Polling institute Quaest was scheduled to release a new survey on Brazil's presidential race on Monday (21). Globo and the newspaper O Globo commissioned the poll.",
+        "The previous round, released on September 14, gave Luiz Inácio Lula da Silva 36% and Flávio Bolsonaro 31% in the first round. Augusto Cury had 7% in that measurement.",
+        "In the same poll's runoff simulation, Flávio Bolsonaro had 42% and Lula 40%. The result was described as a technical tie because the difference was within the margin of error.",
+        "The new round interviewed 2,004 people aged 16 or older between September 17 and 20. Its stated margin of error is two percentage points in either direction, with a 95% confidence level.",
+        "The survey was registered with Brazil's Superior Electoral Court under number BR-06004/2026. It was also expected to ask about government approval, economic conditions and voters' interest in the election.",
+        "The questionnaire included questions about the Supreme Federal Court crisis and developments in the Master case. The report said it would be Quaest's first presidential poll after the court's session on the subject."
+      ]
+    }
+  },
+  "verification": {
+    "score": 8.4,
+    "checkedAt": "2026-09-22T13:03:31Z",
+    "checks": [
+      {
+        "provider": "g1",
+        "url": "https://g1.globo.com/politica/eleicoes/2026/pesquisa-eleitoral/noticia/2026/09/21/quaest-divulga-nova-pesquisa-eleitoral-para-presidente-nesta-segunda-21.ghtml",
+        "finding": "supports",
+        "note": "The complete selected-source extraction reports the planned poll, prior figures, 2,004 interviews from September 17-20, two-point margin, 95% confidence level, TSE registration BR-06004/2026 and questionnaire topics."
+      },
+      {
+        "provider": "Itatiaia",
+        "url": "https://www.itatiaia.com.br/politica/eleicoes/2026/2026/09/21/quaest-divulga-nova-pesquisa-eleitoral-para-presidente-nesta-segunda-21",
+        "finding": "supports",
+        "note": "Independent Brazilian reporting corroborates the new Quaest poll, its 2,004-person sample, September 17-20 fieldwork, two-point margin and prior first-round figures."
+      },
+      {
+        "provider": "Aos Fatos",
+        "url": "https://www.aosfatos.org/",
+        "finding": "no-match",
+        "note": "No direct fact-check verdict for this poll announcement or its methodology claims surfaced; no-match is neutral and not evidence of accuracy."
+      },
+      {
+        "provider": "Agência Lupa",
+        "url": "https://www.agencialupa.org/",
+        "finding": "no-match",
+        "note": "No direct verdict on this September 2026 Quaest announcement surfaced; related polling coverage was not treated as a verdict, and no-match is neutral."
+      },
+      {
+        "provider": "Projeto Comprova",
+        "url": "https://projetocomprova.com.br/",
+        "finding": "no-match",
+        "note": "No direct fact-check verdict for this poll announcement or methodology surfaced; no-match is neutral and not evidence of accuracy."
+      },
+      {
+        "provider": "TSE Fato ou Boato",
+        "url": "https://www.tse.jus.br/comunicacao/noticias/fato-ou-boato",
+        "finding": "no-match",
+        "note": "No direct Fato ou Boato verdict for this poll announcement surfaced; no-match is neutral and does not validate the figures."
+      },
+      {
+        "provider": "AFP Fact Check",
+        "url": "https://factcheck.afp.com/",
+        "finding": "no-match",
+        "note": "No direct AFP fact-check verdict for this poll announcement surfaced; no-match is neutral and not proof of accuracy."
+      },
+      {
+        "provider": "Reuters Fact Check",
+        "url": "https://www.reuters.com/fact-check/",
+        "finding": "no-match",
+        "note": "No direct Reuters fact-check verdict for this poll announcement surfaced; no-match is neutral and not evidence of accuracy."
+      },
+      {
+        "provider": "Full Fact",
+        "url": "https://fullfact.org/",
+        "finding": "no-match",
+        "note": "No direct Full Fact verdict for this poll announcement surfaced; no-match is neutral and does not establish the poll's truth."
+      },
+      {
+        "provider": "Google Fact Check Explorer",
+        "url": "https://toolbox.google.com/factcheck/explorer",
+        "finding": "inconclusive",
+        "note": "The public explorer interface did not yield a directly confirmable ClaimReview record for this announcement; the result is inconclusive, not a verdict."
+      }
+    ],
+    "caveat": "The announcement, fieldwork and methodology are corroborated; this audit does not confirm any eventual poll result or imply that planned results had already been released. The score is an evidence estimate, not a guarantee."
+  }
+}

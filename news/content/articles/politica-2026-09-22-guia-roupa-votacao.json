@@ -1,0 +1,119 @@
+{
+  "id": "politica-2026-09-22-guia-roupa-votacao",
+  "slug": "politica-2026-09-22-guia-roupa-votacao",
+  "section": "politica",
+  "secondarySections": [],
+  "publishedAt": "2026-09-22T00:00:00.674-03:00",
+  "publishedDate": "2026-09-22",
+  "updatedAt": "2026-09-22T13:17:34.573Z",
+  "sources": [
+    {
+      "name": "G1",
+      "url": "https://g1.globo.com/politica/eleicoes/2026/videos/noticia/2026/09/22/video-eleitor-pode-votar-de-bermuda-e-chinelo.ghtml"
+    }
+  ],
+  "rights": {
+    "mode": "original-report"
+  },
+  "translations": {
+    "pt-BR": {
+      "title": "Guia do eleitor: bermuda e chinelo são permitidos na votação",
+      "summary": "O g1 reuniu orientações sobre roupas, manifestações silenciosas e aparelhos que devem ficar com os mesários durante o voto.",
+      "aiSummary": [
+        "Bermuda e chinelo são permitidos, mas traje de banho e ficar sem camisa não.",
+        "Apoio político deve ser individual e silencioso, conforme orientação do TSE.",
+        "Celular, câmera e óculos inteligentes com câmera ficam com os mesários durante o voto."
+      ],
+      "paragraphs": [
+        "O eleitor pode votar de bermuda e chinelo nas eleições de 2026, segundo o guia publicado pelo g1. A restrição é para trajes de banho, como sunga e biquíni, e também é proibido entrar sem camisa na zona eleitoral.",
+        "A orientação permite que o eleitor escolha a roupa que preferir, desde que ela não se enquadre nas restrições descritas. O conteúdo faz parte de uma série dedicada a explicar regras e dúvidas práticas do processo eleitoral.",
+        "Broches, adesivos e outros itens de apoio a candidatos ou partidos são permitidos quando a manifestação é individual e silenciosa. A orientação atribuída ao Tribunal Superior Eleitoral não permite objetos ou ações que incomodem outras pessoas ou façam barulho no local de votação.",
+        "O celular pode ser levado até o local de votação, mas deve permanecer sobre a mesa dos mesários enquanto o voto é registrado. A mesma regra vale para câmeras fotográficas e óculos inteligentes com câmeras embutidas, equipamentos que podem comprometer o sigilo do voto.",
+        "O guia integra uma série de 50 vídeos sobre as eleições de 2026. Segundo o g1, os conteúdos explicam os cargos em disputa, o funcionamento do Congresso e orientações práticas, além de temas como inteligência artificial, deepfakes e influenciadores."
+      ]
+    },
+    "en": {
+      "title": "Voter guide: shorts and flip-flops are allowed at Brazilian polling stations",
+      "summary": "G1 compiled guidance on clothing, silent political expression and devices that must remain with poll workers during voting.",
+      "aiSummary": [
+        "Shorts and flip-flops are allowed, but swimwear and being shirtless are not.",
+        "Political support must be individual and silent under Superior Electoral Court guidance.",
+        "Phones, cameras and camera-equipped smart glasses stay with poll workers during voting."
+      ],
+      "paragraphs": [
+        "Voters may wear shorts and flip-flops in Brazil’s 2026 elections, according to a guide published by G1. The restriction applies to swimwear such as briefs and bikinis, and entering a polling place shirtless is also prohibited.",
+        "The guidance allows voters to choose their preferred clothing as long as it does not fall under those restrictions. The material is part of a series explaining practical rules and questions about the electoral process.",
+        "Brooches, stickers and other items supporting candidates or parties are allowed when the expression is individual and silent. Guidance attributed to the Superior Electoral Court does not allow objects or actions that disturb other people or make noise at the polling place.",
+        "A cellphone may be taken to the polling place, but it must remain on the poll workers’ table while the vote is recorded. The same rule applies to cameras and smart glasses with built-in cameras because they could compromise ballot secrecy.",
+        "The guide is part of a 50-video series about the 2026 elections. According to G1, the content explains the offices at stake, how Congress works and practical voting guidance, as well as topics such as artificial intelligence, deepfakes and influencers."
+      ]
+    }
+  },
+  "verification": {
+    "score": 9.1,
+    "checkedAt": "2026-09-22T12:31:03Z",
+    "checks": [
+      {
+        "provider": "G1",
+        "url": "https://g1.globo.com/politica/eleicoes/2026/videos/noticia/2026/09/22/video-eleitor-pode-votar-de-bermuda-e-chinelo.ghtml",
+        "finding": "supports",
+        "note": "Complete HTTP-200 extraction with complete:true reports the clothing guidance, individual silent political expression, the 50-video series and the rule that phones, cameras and camera-equipped smart glasses remain with poll workers during voting."
+      },
+      {
+        "provider": "Tribunal Superior Eleitoral",
+        "url": "https://www.tse.jus.br/comunicacao/noticias/2024/Junho/eleicoes-2024-eleitor-deve-deixar-celular-e-demais-aparelhos-eletronicos-com-mesarios",
+        "finding": "supports",
+        "note": "The TSE's official guidance corroborates that voters must leave cellphones and other electronic devices with poll workers before voting, supporting the article's device and ballot-secrecy guidance."
+      },
+      {
+        "provider": "Aos Fatos",
+        "url": "https://www.aosfatos.org/",
+        "finding": "no-match",
+        "note": "Portuguese searches for bermuda, chinelo, swimwear, silent expression and devices at polling places found no matching fact-check verdict; no-match is neutral."
+      },
+      {
+        "provider": "Agência Lupa",
+        "url": "https://www.agencialupa.org/",
+        "finding": "no-match",
+        "note": "No directly matching Lupa verdict was found for the clothing and device guidance; no-match is neutral and not evidence that every practical detail is correct."
+      },
+      {
+        "provider": "Projeto Comprova",
+        "url": "https://projetocomprova.com.br/",
+        "finding": "no-match",
+        "note": "No Comprova fact-check was found for this voter-service explainer; no-match is neutral."
+      },
+      {
+        "provider": "TSE Fato ou Boato",
+        "url": "https://www.tse.jus.br/comunicacao/noticias/fato-ou-boato",
+        "finding": "no-match",
+        "note": "The registry search found no exact Fato ou Boato verdict for this guide; the separate TSE official guidance check supports the device rule."
+      },
+      {
+        "provider": "AFP Fact Check",
+        "url": "https://factcheck.afp.com/",
+        "finding": "no-match",
+        "note": "English and Portuguese searches found no AFP verdict for Brazil's clothing, silent-expression or device rules; no-match is neutral."
+      },
+      {
+        "provider": "Reuters Fact Check",
+        "url": "https://www.reuters.com/fact-check/",
+        "finding": "no-match",
+        "note": "No matching Reuters fact-check was found for the Brazilian voter-guide claims; no-match is neutral."
+      },
+      {
+        "provider": "Full Fact",
+        "url": "https://fullfact.org/",
+        "finding": "no-match",
+        "note": "English searches found no Full Fact verdict addressing these Brazil-specific voting rules; no-match is neutral."
+      },
+      {
+        "provider": "Google Fact Check Tools",
+        "url": "https://toolbox.google.com/factcheck/explorer",
+        "finding": "inconclusive",
+        "note": "No exact indexed ClaimReview record surfaced, and the public claims-search API returned HTTP 403 in this run; this is not evidence for or against the article."
+      }
+    ],
+    "caveat": "The complete G1 guide and official TSE device guidance align on the central voter-service points. The clothing and silent-expression rules are reported as TSE-attributed practical guidance; local polling-place enforcement details should not be generalized beyond the stated rules."
+  }
+}

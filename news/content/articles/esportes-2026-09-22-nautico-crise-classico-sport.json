@@ -1,0 +1,71 @@
+{
+  "id": "esportes-2026-09-22-nautico-crise-classico-sport",
+  "slug": "esportes-2026-09-22-nautico-crise-classico-sport",
+  "section": "esportes",
+  "secondarySections": [],
+  "publishedAt": "2026-09-22T04:00:00.886-03:00",
+  "publishedDate": "2026-09-22",
+  "updatedAt": "2026-09-22T13:17:34.573Z",
+  "sources": [
+    {
+      "name": "ge.globo.com",
+      "url": "https://ge.globo.com/pe/futebol/times/nautico/noticia/2026/09/22/crise-volta-a-rondar-o-nautico-antes-de-classico-e-em-plena-reta-final-da-serie-b.ghtml"
+    }
+  ],
+  "rights": {
+    "mode": "original-report"
+  },
+  "translations": {
+    "pt-BR": {
+      "title": "Náutico chega pressionado ao clássico com o Sport na reta final da Série B",
+      "summary": "Derrota por 3 a 0 para o Cuiabá manteve o time com 38 pontos e aumentou a cobrança antes do duelo nos Aflitos.",
+      "aiSummary": [
+        "O Náutico perdeu por 3 a 0 para o Cuiabá e enfrenta o Sport no sábado, nos Aflitos.",
+        "O time tem 38 pontos e está oito pontos acima da zona de rebaixamento, com nove rodadas restantes.",
+        "Depois do clássico, o calendário inclui Fortaleza, Novorizontino e Vila Nova, hoje entre os três primeiros."
+      ],
+      "paragraphs": [
+        "A derrota do Náutico por 3 a 0 para o Cuiabá recolocou a equipe sob pressão na reta final da Série B. O próximo compromisso será o clássico contra o Sport, no sábado, às 16h30, nos Aflitos.",
+        "Com 38 pontos, o Náutico mantém oito pontos de distância para a zona de rebaixamento, mas ainda tem nove rodadas pela frente. A reportagem observa que a margem não é tratada como garantia diante do desempenho recente.",
+        "A equipe também havia mostrado instabilidade contra o América-MG e o Operário. A sequência, somada à atuação abaixo do esperado em Cuiabá, interrompeu a trajetória de maior tranquilidade que o time vinha construindo.",
+        "O calendário seguinte torna o cenário mais difícil. Depois do clássico, o Náutico enfrentará Fortaleza, Novorizontino e Vila Nova, equipes que ocupam atualmente as três primeiras posições da Série B.",
+        "A cobrança também recai sobre os técnicos Hélio e Guilherme dos Anjos. Após a derrota, Guilherme atribuiu o resultado à falta de intensidade e envolvimento dos jogadores, enquanto o clássico passou a ser visto como uma oportunidade de interromper a sequência negativa ou aprofundar a crise."
+      ]
+    },
+    "en": {
+      "title": "Náutico enter Sport derby under pressure in Serie B run-in",
+      "summary": "A 3-0 defeat by Cuiabá left the team on 38 points and increased scrutiny before the match at Aflitos.",
+      "aiSummary": [
+        "Náutico lost 3-0 to Cuiabá and face Sport on Saturday at Aflitos.",
+        "The team have 38 points and sit eight points above the relegation zone with nine rounds left.",
+        "After the derby, the schedule includes Fortaleza, Novorizontino and Vila Nova, currently the top three sides."
+      ],
+      "paragraphs": [
+        "Náutico’s 3-0 defeat by Cuiabá put the team under renewed pressure in the final stretch of Serie B. Their next match is the derby against Sport on Saturday at 4:30 p.m. at Aflitos.",
+        "Náutico have 38 points and remain eight points clear of the relegation zone, but nine rounds are still to play. The report says the margin is not being treated as a guarantee because of the team’s recent performances.",
+        "The side had also shown inconsistency against América-MG and Operário. That sequence, combined with the underwhelming display in Cuiabá, ended the more comfortable path the team had been building in recent rounds.",
+        "The schedule ahead adds difficulty. After the derby, Náutico will play Fortaleza, Novorizontino and Vila Nova, the teams currently occupying the top three places in Serie B.",
+        "The pressure also reaches coaches Hélio and Guilherme dos Anjos. After the defeat, Guilherme blamed a lack of intensity and involvement from the players, while the derby became a chance either to stop the negative run or to push the crisis deeper."
+      ]
+    }
+  },
+  "verification": {
+    "score": 8.7,
+    "checkedAt": "2026-09-22T12:28:11Z",
+    "checks": [
+      {
+        "provider": "ge.globo.com",
+        "url": "https://ge.globo.com/pe/futebol/times/nautico/noticia/2026/09/22/crise-volta-a-rondar-o-nautico-antes-de-classico-e-em-plena-reta-final-da-serie-b.ghtml",
+        "finding": "supports",
+        "note": "Complete local extraction was status 200 with complete=true. It reports the 3-0 Cuiaba defeat, the Saturday Sport derby at Aflitos, 38 points, an eight-point gap above Z-4, nine rounds remaining, and the listed Fortaleza, Novorizontino, and Vila Nova fixtures."
+      },
+      {
+        "provider": "CBF",
+        "url": "https://www.cbf.com.br/futebol-brasileiro/competicoes/campeonato-brasileiro-serie-b/2026/777655",
+        "finding": "supports",
+        "note": "CBF's official Serie B match context and player record corroborate the 3-0 Cuiaba result in the 29th round and the competition framing used by the article."
+      }
+    ],
+    "caveat": "The result and competition context have official CBF corroboration. Pressure, tactical disorder, and relegation safety are editorial or attributed assessments; the article correctly presents the 45-point threshold as a projection rather than a guarantee."
+  }
+}

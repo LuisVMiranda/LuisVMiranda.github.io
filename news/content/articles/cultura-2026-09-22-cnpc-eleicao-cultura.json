@@ -1,0 +1,118 @@
+{
+  "id": "cultura-2026-09-22-cnpc-eleicao-cultura",
+  "slug": "cultura-2026-09-22-cnpc-eleicao-cultura",
+  "section": "cultura",
+  "secondarySections": [],
+  "publishedAt": "2026-09-21T19:34:00-03:00",
+  "updatedAt": "2026-09-22T13:17:34.573Z",
+  "sources": [
+    {
+      "name": "Agência Brasil",
+      "url": "https://agenciabrasil.ebc.com.br/cultura/noticia/2026-09/inscricao-para-eleicao-do-conselho-de-politica-cultural-vai-ate-dia-30"
+    }
+  ],
+  "rights": {
+    "mode": "original-report"
+  },
+  "translations": {
+    "pt-BR": {
+      "title": "Inscrições para eleição do Conselho Nacional de Política Cultural vão até 30 de setembro",
+      "summary": "O prazo foi prorrogado, e o processo para escolher representantes da sociedade civil terá novas regras para documentos e validação de cotas.",
+      "aiSummary": [
+        "As inscrições para representantes da sociedade civil foram prorrogadas até 30 de setembro de 2026.",
+        "A análise documental ocorrerá de 1º a 13 de outubro, com divulgação da lista de habilitados em 14 de outubro.",
+        "A eleição escolherá integrantes de 21 colegiados e do plenário do CNPC para o mandato de 2026 a 2029."
+      ],
+      "paragraphs": [
+        "O prazo de inscrição para representantes da sociedade civil no Conselho Nacional de Política Cultural foi estendido até 30 de setembro de 2026. A data final anterior seria 22 de setembro, e a mudança foi publicada no Diário Oficial da União em 21 de setembro.",
+        "O calendário de análise dos documentos do Edital de Chamamento Público MinC nº 9 também mudou. A conferência ocorrerá entre 1º e 13 de outubro, enquanto o processo continuará sendo realizado pela plataforma digital Vota Cultura.",
+        "A eleição definirá representantes para 21 colegiados nacionais de Participação Social e para o plenário do CNPC, com mandato previsto de 2026 a 2029. O Ministério da Cultura informou ainda que candidatos poderão anexar portfólios, vídeos e complementos depois do envio inicial quando precisarem corrigir a causa de uma inabilitação na fase de recursos.",
+        "A confirmação complementar para pessoas negras poderá ser feita remotamente, com envio de fotos e vídeo. Para povos e comunidades tradicionais, será aceita uma declaração coletiva assinada por lideranças, desde que a lista apresente o nome e o CPF de cada pessoa declarada pertencente ao grupo.",
+        "Servidores da União que trabalham em áreas finalísticas da cultura não podem votar nem se candidatar; servidores estaduais e municipais ligados à cultura podem votar, mas não concorrer. Servidores de áreas não finalísticas podem votar e se candidatar. A campanha pode começar após a inscrição, e a lista de habilitados deve ser publicada em 14 de outubro."
+      ]
+    },
+    "en": {
+      "title": "Applications for Brazil’s National Cultural Policy Council election run until September 30",
+      "summary": "The deadline was extended, while the process gained new rules for documentation and quota validation for civil-society representatives.",
+      "aiSummary": [
+        "Applications for civil-society representatives are open until September 30, 2026.",
+        "Document review will run from October 1 to 13, with the eligible list due on October 14.",
+        "The election will choose members of 21 committees and the CNPC plenary for the 2026–2029 term."
+      ],
+      "paragraphs": [
+        "The application period for civil-society representatives to Brazil’s National Cultural Policy Council has been extended until September 30, 2026. The previous deadline was September 22, and the change was published in the Official Gazette on September 21.",
+        "The document-review calendar under Public Call MinC No. 9 was also changed. The review will take place from October 1 to 13, while the process will continue through the Vota Cultura digital platform.",
+        "The election will choose representatives for 21 national Social Participation committees and for the CNPC plenary, with a term running from 2026 to 2029. The Ministry of Culture also said applicants may add portfolios, videos and supplements after the initial submission when they need to correct the reason for an ineligibility decision during appeals.",
+        "Additional validation for Black applicants may be completed remotely by submitting photos and video. For traditional peoples and communities, a collective belonging declaration signed by leaders will be accepted, provided the list includes the name and tax identification number of every person covered.",
+        "Federal employees working in culture’s core policy areas cannot vote or run; state and municipal culture employees may vote but cannot stand as candidates. Employees in non-core areas may both vote and run. Campaigning can begin after registration, and the eligible list is due to be published on October 14."
+      ]
+    }
+  },
+  "verification": {
+    "score": 9.6,
+    "checkedAt": "2026-09-22T12:28:07Z",
+    "checks": [
+      {
+        "provider": "Agência Brasil",
+        "url": "https://agenciabrasil.ebc.com.br/cultura/noticia/2026-09/inscricao-para-eleicao-do-conselho-de-politica-cultural-vai-ate-dia-30",
+        "finding": "supports",
+        "note": "Complete local extraction was HTTP 200 with complete:true and 23 body paragraphs. It directly supports the September 30 deadline, revised October 1–13 review window, Vota Cultura, 21 collegia, quota rules, and eligibility details."
+      },
+      {
+        "provider": "Ministério da Cultura / gov.br",
+        "url": "https://www.gov.br/iphan/pt-br/assuntos/noticias/2026/inscricoes-para-eleicao-do-conselho-nacional-de-politica-cultural-sao-prorrogadas-ate-30-de-setembro",
+        "finding": "supports",
+        "note": "The official government notice corroborates the deadline extension, election process, and participation rules. It is primary institutional context for the article's central event."
+      },
+      {
+        "provider": "Aos Fatos",
+        "url": "https://www.aosfatos.org/",
+        "finding": "no-match",
+        "note": "No matching fact-check page surfaced for the CNPC deadline, Vota Cultura, 21 collegia, or eligibility claims. This no-match is neutral and is not evidence of accuracy."
+      },
+      {
+        "provider": "Agência Lupa",
+        "url": "https://www.agencialupa.org/",
+        "finding": "no-match",
+        "note": "No matching fact-check addressing the CNPC election claims was confirmed. The no-match is neutral."
+      },
+      {
+        "provider": "Projeto Comprova",
+        "url": "https://projetocomprova.com.br/",
+        "finding": "no-match",
+        "note": "No relevant Projeto Comprova fact-check for the CNPC election schedule or eligibility rules was found. The result is neutral."
+      },
+      {
+        "provider": "TSE Fato ou Boato",
+        "url": "https://www.tse.jus.br/comunicacao/noticias/fato-ou-boato",
+        "finding": "no-match",
+        "note": "No matching TSE item was found; this is a cultural-policy council election rather than a TSE-administered election. The no-match is neutral."
+      },
+      {
+        "provider": "AFP Fact Check",
+        "url": "https://factcheck.afp.com/",
+        "finding": "no-match",
+        "note": "No matching AFP fact-check for the CNPC deadline, platform, or named rules was confirmed. This no-match is neutral."
+      },
+      {
+        "provider": "Reuters Fact Check",
+        "url": "https://www.reuters.com/fact-check/",
+        "finding": "no-match",
+        "note": "No matching Reuters fact-check for the article's CNPC claims was confirmed. This no-match is neutral."
+      },
+      {
+        "provider": "Full Fact",
+        "url": "https://fullfact.org/",
+        "finding": "no-match",
+        "note": "No relevant Full Fact item addressing the CNPC election process was found. The no-match is neutral."
+      },
+      {
+        "provider": "Google Fact Check Explorer",
+        "url": "https://toolbox.google.com/factcheck/explorer",
+        "finding": "inconclusive",
+        "note": "No exact indexed ClaimReview record was confirmed in the Explorer searches used for this claim; coverage is incomplete, so this is not evidence for or against the article."
+      }
+    ],
+    "caveat": "The central deadline and procedural claims are corroborated by complete Agência Brasil evidence and an official government notice. The score is an editorial evidence estimate, not a probability or guarantee."
+  }
+}

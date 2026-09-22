@@ -1,0 +1,71 @@
+{
+  "id": "esportes-2026-09-22-copa-brasil-pagamentos-2027",
+  "slug": "esportes-2026-09-22-copa-brasil-pagamentos-2027",
+  "section": "esportes",
+  "secondarySections": [],
+  "publishedAt": "2026-09-21T17:00:40.393-03:00",
+  "publishedDate": "2026-09-21",
+  "updatedAt": "2026-09-22T13:17:34.573Z",
+  "sources": [
+    {
+      "name": "oglobo.globo.com",
+      "url": "https://oglobo.globo.com/esportes/futebol/noticia/2026/09/21/apos-faturamento-recorde-copa-do-brasil-tera-mudancas-na-forma-de-pagamento-aos-clubes-saiba-quais.ghtml"
+    }
+  ],
+  "rights": {
+    "mode": "original-report"
+  },
+  "translations": {
+    "pt-BR": {
+      "title": "Copa do Brasil terá cota fixa extra para clubes das Séries A e B a partir de 2027",
+      "summary": "CBF informou que o novo repasse será somado à premiação por desempenho e deverá financiar dívidas ou infraestrutura.",
+      "aiSummary": [
+        "Clubes das Séries A e B receberão uma cota fixa adicional além do pagamento por fase alcançada.",
+        "A verba extra deverá ser usada para reduzir passivos ou investir em infraestrutura, com prestação de contas.",
+        "A CBF ainda não informou os valores, mas relacionou a mudança ao recorde de direitos de TV do ciclo 2027-2030."
+      ],
+      "paragraphs": [
+        "A Copa do Brasil terá uma nova forma de distribuição financeira a partir de 2027. Segundo a reportagem, a CBF manterá a premiação paga por desempenho e acrescentará uma cota fixa para os clubes das Séries A e B.",
+        "A mudança foi relacionada ao aumento do valor negociado pelos direitos de transmissão do ciclo 2027-2030, que chegou à casa dos R$ 4 bilhões. O pagamento por fase avançada, conhecido como “pix” da competição, não será alterado.",
+        "A cota adicional terá destinação definida pela CBF. Os clubes deverão usar o dinheiro para reduzir passivos ou investir em infraestrutura, e a entidade pretende exigir prestação de contas sobre a aplicação da verba.",
+        "A opção de investir em obras será destinada aos clubes que não tiverem passivos comprometidos. A entidade ainda deverá divulgar um regulamento de infraestrutura com exigências mínimas para os próximos anos.",
+        "Os clubes que não pertencem às Séries A e B continuarão recebendo apenas a premiação por desempenho. Em reunião realizada na segunda-feira, a CBF informou o novo modelo de distribuição, mas ainda não revelou os valores individuais; apenas confirmou que eles serão maiores."
+      ]
+    },
+    "en": {
+      "title": "Brazil Cup to add fixed payments for Serie A and B clubs from 2027",
+      "summary": "The CBF said the new transfer will sit alongside performance prize money and must support debt reduction or infrastructure.",
+      "aiSummary": [
+        "Serie A and B clubs will receive a fixed additional payment alongside the money for each round reached.",
+        "The extra funds must be used to reduce liabilities or invest in infrastructure, with spending reports required.",
+        "The CBF has not disclosed the amounts but linked the change to record TV rights for the 2027-2030 cycle."
+      ],
+      "paragraphs": [
+        "The Brazil Cup will use a new financial distribution model from 2027. According to the report, the Brazilian Football Confederation will keep performance-based prize money and add a fixed payment for Serie A and B clubs.",
+        "The change was linked to the higher value negotiated for broadcast rights in the 2027-2030 cycle, which reached about 4 billion reais. The payment for advancing through each round, known in Brazil as the competition’s “pix,” will not change.",
+        "The CBF will determine how the additional payment is used. Clubs will have to direct it toward reducing liabilities or investing in infrastructure, and the organization plans to require accounts of how the funds are spent.",
+        "Investment in construction and modernization will be available to clubs without significant outstanding liabilities. The CBF is expected to publish an infrastructure regulation with minimum standards for the coming years.",
+        "Clubs outside Serie A and B will continue to receive only performance-based prize money. At a Monday meeting, the CBF explained the new distribution model but did not disclose individual amounts; it said only that the payments will increase."
+      ]
+    }
+  },
+  "verification": {
+    "score": 8.1,
+    "checkedAt": "2026-09-22T12:28:11Z",
+    "checks": [
+      {
+        "provider": "O Globo",
+        "url": "https://oglobo.globo.com/esportes/futebol/noticia/2026/09/21/apos-faturamento-recorde-copa-do-brasil-tera-mudancas-na-forma-de-pagamento-aos-clubes-saiba-quais.ghtml",
+        "finding": "supports",
+        "note": "Complete local extraction was status 200 with complete=true. It reports the proposed 2027 fixed payment for Serie A and B clubs, unchanged performance payments, restricted use for liabilities or infrastructure, accountability requirements, the 2027-2030 rights-cycle value near R$4 billion, and that individual amounts were not disclosed."
+      },
+      {
+        "provider": "CBF",
+        "url": "https://www.cbf.com.br/a-cbf/noticias/informes-cbf/nota-oficial-cbf-e-globo-assinam-maior-contrato-de-direitos-de-transmissao-da-historia-do-futebol-brasileiro",
+        "finding": "supports",
+        "note": "CBF's official announcement independently confirms the 2027-2030 domestic broadcast-rights agreement and total value above R$4 billion, supporting the financial backdrop reported by O Globo."
+      }
+    ],
+    "caveat": "The rights-value backdrop is independently confirmed by CBF. The fixed-cota design, eligible divisions, spending restrictions, and accountability mechanics are reported from the CBF-club meeting by O Globo; the article correctly notes that individual values were not disclosed."
+  }
+}

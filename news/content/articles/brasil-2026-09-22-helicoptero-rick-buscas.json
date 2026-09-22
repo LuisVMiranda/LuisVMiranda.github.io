@@ -1,0 +1,120 @@
+{
+  "id": "brasil-2026-09-22-helicoptero-rick-buscas",
+  "slug": "brasil-2026-09-22-helicoptero-rick-buscas",
+  "section": "brasil",
+  "secondarySections": [],
+  "publishedAt": "2026-09-21T23:03:00-03:00",
+  "updatedAt": "2026-09-22T13:17:34.573Z",
+  "sources": [
+    {
+      "name": "Agência Brasil",
+      "url": "https://agenciabrasil.ebc.com.br/geral/noticia/2026-09/fab-e-bombeiros-buscam-helicoptero-com-cantor-rick-desaparecido-em-sc"
+    }
+  ],
+  "rights": {
+    "mode": "original-report"
+  },
+  "translations": {
+    "pt-BR": {
+      "title": "FAB e bombeiros buscam helicóptero desaparecido em Santa Catarina",
+      "summary": "Aeronave seguia de Porto Belo para São Joaquim; cantor Rick e empresário Bruno Avelar estavam a bordo.",
+      "aiSummary": [
+        "FAB e bombeiros de Santa Catarina buscavam um helicóptero desaparecido perto de São Joaquim.",
+        "O cantor Rick e o empresário Bruno Avelar estavam na aeronave, que havia decolado de Porto Belo.",
+        "A operação reunia duas aeronaves da FAB, cerca de 20 bombeiros e equipes em dois pontos de busca."
+      ],
+      "paragraphs": [
+        "A Força Aérea Brasileira e o Corpo de Bombeiros de Santa Catarina faziam buscas por um helicóptero de matrícula PP-MGR desaparecido na tarde de segunda-feira (21), perto de São Joaquim. O cantor sertanejo Rick, da dupla Rick e Renner, estava entre os ocupantes.",
+        "A aeronave havia decolado de Porto Belo com destino à região de São Joaquim. Além do cantor, o empresário Bruno Avelar estava a bordo. O último contato com o helicóptero ocorreu por volta das 16h.",
+        "O Centro de Coordenação de Salvamento Aeronáutico de Curitiba, conhecido como Salvaero Curitiba, empregou duas aeronaves nas buscas: um helicóptero Black Hawk H-60 e um SC-105 Amazonas.",
+        "As equipes atuaram na região de Vacas Gordas depois que um aviso aos bombeiros relatou uma possível queda. A FAB informou que a prioridade era localizar a aeronave e os ocupantes, concentrando os esforços nas áreas com maior probabilidade.",
+        "Os bombeiros concentraram a operação em dois pontos separados por cerca de 30 quilômetros. A área abrangia o local onde uma queda teria sido avistada e o ponto em que foi registrado o último sinal de celular de um dos tripulantes.",
+        "Cerca de 20 bombeiros militares participavam da operação, com viaturas de tração 4x4 para acessar o terreno. No mesmo dia, as equipes atenderam ocorrências de alagamento e inundação em oito municípios do sul catarinense."
+      ]
+    },
+    "en": {
+      "title": "Brazilian Air Force and firefighters search for missing helicopter in Santa Catarina",
+      "summary": "The aircraft was flying from Porto Belo to São Joaquim; singer Rick and businessman Bruno Avelar were on board.",
+      "aiSummary": [
+        "Brazil's Air Force and Santa Catarina firefighters searched for a missing helicopter near São Joaquim.",
+        "Singer Rick and businessman Bruno Avelar were aboard the aircraft, which had left Porto Belo.",
+        "The operation involved two Air Force aircraft, about 20 firefighters and teams at two search points."
+      ],
+      "paragraphs": [
+        "The Brazilian Air Force and Santa Catarina firefighters were searching for a helicopter registered as PP-MGR that went missing Monday afternoon (21) near São Joaquim. Country singer Rick, of the duo Rick e Renner, was among those on board.",
+        "The aircraft had departed from Porto Belo for the São Joaquim region. Businessman Bruno Avelar was also on board. The last contact with the helicopter was reported at about 4 p.m.",
+        "The Curitiba Aeronautical Search and Rescue Coordination Center, known as Salvaero Curitiba, deployed two aircraft: a Black Hawk H-60 helicopter and an SC-105 Amazonas.",
+        "The teams operated near Vacas Gordas after firefighters received a report of a possible crash. The Air Force said its priority was to locate the aircraft and its occupants, focusing on areas with the highest probability.",
+        "Firefighters concentrated the operation at two points about 30 kilometers apart. The search area included where a fall was reportedly seen and where one of the occupants' last cellphone signal was recorded.",
+        "About 20 military firefighters were taking part, supported by four-wheel-drive vehicles needed to reach the terrain. The teams also responded to flooding reports in eight municipalities in southern Santa Catarina that day."
+      ]
+    }
+  },
+  "verification": {
+    "score": 8.8,
+    "checkedAt": "2026-09-22T13:03:31Z",
+    "checks": [
+      {
+        "provider": "Agência Brasil",
+        "url": "https://agenciabrasil.ebc.com.br/geral/noticia/2026-09/fab-e-bombeiros-buscam-helicoptero-com-cantor-rick-desaparecido-em-sc",
+        "finding": "supports",
+        "note": "The complete selected-source extraction reports the missing PP-MGR helicopter, Rick and Bruno Avelar aboard, the Porto Belo departure, last contact near 16h, FAB aircraft and the ongoing search without asserting an outcome."
+      },
+      {
+        "provider": "CNN Brasil",
+        "url": "https://www.cnnbrasil.com.br/nacional/sul/helicoptero-com-cantor-rick-desaparece-em-sao-joaquim-sc/",
+        "finding": "supports",
+        "note": "Independent contemporaneous reporting corroborates the missing helicopter, Rick's presence, the São Joaquim search and the emergency response; no material conflict with the selected report was found."
+      },
+      {
+        "provider": "Aos Fatos",
+        "url": "https://www.aosfatos.org/",
+        "finding": "no-match",
+        "note": "No direct fact-check verdict for this public-safety event surfaced in exact-claim or meaningful-variant searches; no-match is neutral and is not evidence of accuracy."
+      },
+      {
+        "provider": "Agência Lupa",
+        "url": "https://www.agencialupa.org/",
+        "finding": "no-match",
+        "note": "No direct fact-check verdict for this public-safety event surfaced in exact-claim or meaningful-variant searches; no-match is neutral and is not evidence of accuracy."
+      },
+      {
+        "provider": "Projeto Comprova",
+        "url": "https://projetocomprova.com.br/",
+        "finding": "no-match",
+        "note": "No direct fact-check verdict for this public-safety event surfaced in exact-claim or meaningful-variant searches; no-match is neutral and is not evidence of accuracy."
+      },
+      {
+        "provider": "TSE Fato ou Boato",
+        "url": "https://www.tse.jus.br/comunicacao/noticias/fato-ou-boato",
+        "finding": "no-match",
+        "note": "No direct election or civic-process fact-check is relevant to this event; no-match is neutral and does not confirm the report."
+      },
+      {
+        "provider": "AFP Fact Check",
+        "url": "https://factcheck.afp.com/",
+        "finding": "no-match",
+        "note": "No direct AFP fact-check verdict for the helicopter claim surfaced in exact-claim or meaningful-variant searches; no-match is neutral."
+      },
+      {
+        "provider": "Reuters Fact Check",
+        "url": "https://www.reuters.com/fact-check/",
+        "finding": "no-match",
+        "note": "No direct Reuters fact-check verdict for the helicopter claim surfaced in the checked searches; no-match is neutral and not proof of truth."
+      },
+      {
+        "provider": "Full Fact",
+        "url": "https://fullfact.org/",
+        "finding": "no-match",
+        "note": "No direct Full Fact verdict for this event surfaced in the checked searches; no-match is neutral and not evidence of accuracy."
+      },
+      {
+        "provider": "Google Fact Check Explorer",
+        "url": "https://toolbox.google.com/factcheck/explorer",
+        "finding": "inconclusive",
+        "note": "The public explorer interface did not yield a directly confirmable ClaimReview record for this event; the result is inconclusive, not a verdict."
+      }
+    ],
+    "caveat": "The report is strongly corroborated, but all operational details are time-bound and the search outcome was unresolved at the edition cutoff; this score is an evidence estimate, not a guarantee."
+  }
+}

@@ -1,0 +1,119 @@
+{
+  "id": "ciencia-2026-09-22-musica-escolhas-alimentares",
+  "slug": "ciencia-2026-09-22-musica-escolhas-alimentares",
+  "section": "ciencia",
+  "secondarySections": [],
+  "publishedAt": "2026-09-22T00:00:00-03:00",
+  "publishedDate": "2026-09-22",
+  "updatedAt": "2026-09-22T13:17:34.573Z",
+  "sources": [
+    {
+      "name": "Terra / Bons Fluidos",
+      "url": "https://www.terra.com.br/vida-e-estilo/comportamento/voce-sabia-que-a-musica-pode-ter-influencia-no-que-voce-come-veja-o-que-diz-estudo,f655e40724d570046dca21a1b9e501e1k2bsx6kt.html"
+    }
+  ],
+  "rights": {
+    "mode": "original-report"
+  },
+  "translations": {
+    "pt-BR": {
+      "title": "Estudo associa música calma a escolhas alimentares mais saudáveis em refeitórios",
+      "summary": "Quatro testes descritos em reportagem relacionaram trilhas de baixa estimulação a maior preferência por opções consideradas saudáveis.",
+      "aiSummary": [
+        "O estudo reuniu quatro testes, incluindo um refeitório universitário real.",
+        "Em 911 refeições, opções saudáveis chegaram a 18,94% nos dias de música calma.",
+        "Nos testes, versões tranquilas superaram as agitadas em hip-hop e jazz."
+      ],
+      "paragraphs": [
+        "Um trabalho da Universidade de Ciência e Tecnologia de Macau investigou como a música ambiente se relaciona com escolhas alimentares. A pesquisa reuniu quatro testes, sendo o primeiro realizado em um refeitório universitário e os demais em cenários simulados.",
+        "Durante oito dias úteis na cafeteria, 911 refeições foram registradas enquanto alternavam faixas relaxantes e faixas de alta estimulação. A proporção de opções saudáveis foi de 18,94% nos dias calmos e de 13,59% nos dias de música agitada.",
+        "Nos testes laboratoriais, participantes avaliaram a intenção de consumir um menu saudável ouvindo hip-hop ou jazz. A versão tranquila teve pontuações de 6,08 contra 5,56 no hip-hop e de 6,02 contra 4,40 no jazz.",
+        "Em outro cenário, a música calma recebeu pontuação de 5,91, acima da faixa agitada, com 5,59, e do ruído sem música, com 5,14. O material descreve como características de baixa estimulação o ritmo lento, volume baixo, suavidade e harmonia consonante.",
+        "A interpretação apresentada se apoia na teoria da congruência: as pessoas tenderiam a considerar mais adequadas as escolhas que combinam com o ambiente. A reportagem trata os resultados como uma relação observada nos testes, não como uma regra universal para todas as refeições."
+      ]
+    },
+    "en": {
+      "title": "Study links calm music with healthier food choices in dining settings",
+      "summary": "Four tests described in a report associated low-stimulation soundtracks with a greater preference for options considered healthy.",
+      "aiSummary": [
+        "The study used four tests, including a real university cafeteria.",
+        "Across 911 meals, healthy options reached 18.94% on calm-music days.",
+        "Calm versions scored higher than high-stimulation versions for hip-hop and jazz."
+      ],
+      "paragraphs": [
+        "A study from the Macau University of Science and Technology examined how background music relates to food choices. It used four tests, with the first conducted in a real university cafeteria and the others in simulated settings.",
+        "Over eight working days, the cafeteria recorded 911 meals while relaxed and high-stimulation tracks alternated. Healthy options accounted for 18.94% of meals on calm-music days and 13.59% on high-stimulation days.",
+        "In laboratory tests, participants rated their intention to choose a healthy menu while listening to hip-hop or jazz. The calm version scored 6.08 versus 5.56 for hip-hop and 6.02 versus 4.40 for jazz.",
+        "In another setting, calm music scored 5.91, above the high-stimulation track at 5.59 and background noise alone at 5.14. The report describes low-stimulation sound as slow, soft, quiet and consonant.",
+        "The interpretation draws on congruence theory: people may see choices that match their surroundings as more appropriate. The report presents an association observed in the tests, not a universal rule for every meal."
+      ]
+    }
+  },
+  "verification": {
+    "score": 8.5,
+    "checkedAt": "2026-09-22T12:31:55Z",
+    "checks": [
+      {
+        "provider": "Journal of Retailing and Consumer Services / DOI record",
+        "url": "https://doi.org/10.1016/j.jretconser.2025.104137",
+        "finding": "supports",
+        "note": "The original-study record matches the Macau affiliation, four-study design and the reported finding that low-stimulation background music was associated with healthier choices; the result is observational/experimental context, not a universal rule."
+      },
+      {
+        "provider": "Terra / Bons Fluidos",
+        "url": "https://www.terra.com.br/vida-e-estilo/comportamento/voce-sabia-que-a-musica-pode-ter-influencia-no-que-voce-come-veja-o-que-diz-estudo,f655e40724d570046dca21a1b9e501e1k2bsx6kt.html",
+        "finding": "supports",
+        "note": "The complete report contains the 911-meal comparison, laboratory scores and congruence-theory framing reproduced in the article."
+      },
+      {
+        "provider": "Aos Fatos",
+        "url": "https://www.aosfatos.org/",
+        "finding": "no-match",
+        "note": "Site-restricted searches for the Macau music-and-food study, 911 meals and the exact percentages found no directly matching fact-check; no-match is neutral."
+      },
+      {
+        "provider": "Agência Lupa",
+        "url": "https://www.agencialupa.org/",
+        "finding": "no-match",
+        "note": "Searches for the music, healthy-food and 18.94%/13.59% claims found no directly matching fact-check; no-match is neutral."
+      },
+      {
+        "provider": "Projeto Comprova",
+        "url": "https://projetocomprova.com.br/",
+        "finding": "no-match",
+        "note": "Searches for the study's central music-and-food claim and exact figures found no directly matching fact-check; no-match is neutral."
+      },
+      {
+        "provider": "TSE Fato ou Boato",
+        "url": "https://www.tse.jus.br/comunicacao/noticias/fato-ou-boato",
+        "finding": "no-match",
+        "note": "This civic-process registry is not materially targeted to a consumer-behavior study; no relevant matching fact-check was found, which is neutral."
+      },
+      {
+        "provider": "AFP Fact Check",
+        "url": "https://factcheck.afp.com/",
+        "finding": "no-match",
+        "note": "Site-restricted searches in English for the music-and-food study and its exact figures found no directly matching AFP fact-check; no-match is neutral."
+      },
+      {
+        "provider": "Reuters Fact Check",
+        "url": "https://www.reuters.com/fact-check/",
+        "finding": "no-match",
+        "note": "Searches for the Macau study, healthy choices and the exact percentages found no directly matching Reuters fact-check; no-match is neutral."
+      },
+      {
+        "provider": "Full Fact",
+        "url": "https://fullfact.org/",
+        "finding": "no-match",
+        "note": "Searches for the study's central claim and numeric results found no directly matching Full Fact check; no-match is neutral."
+      },
+      {
+        "provider": "Google Fact Check Tools",
+        "url": "https://toolbox.google.com/factcheck/explorer",
+        "finding": "inconclusive",
+        "note": "The public claims:search endpoint returned HTTP 403 without an API key, so indexed ClaimReview coverage could not be confirmed; this is not evidence for or against the article."
+      }
+    ],
+    "caveat": "The original study supports an association under the reported experimental conditions. The article appropriately avoids claiming a universal causal effect; results may not generalize to all cuisines, venues, populations or meals."
+  }
+}

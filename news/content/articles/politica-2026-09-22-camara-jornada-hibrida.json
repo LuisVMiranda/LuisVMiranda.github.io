@@ -1,0 +1,113 @@
+{
+  "id": "politica-2026-09-22-camara-jornada-hibrida",
+  "slug": "politica-2026-09-22-camara-jornada-hibrida",
+  "section": "politica",
+  "secondarySections": [],
+  "publishedAt": "2026-09-22T04:00:48-03:00",
+  "publishedDate": "2026-09-22",
+  "updatedAt": "2026-09-22T13:17:34.573Z",
+  "sources": [
+    {
+      "name": "CNN Brasil",
+      "url": "https://www.cnnbrasil.com.br/politica/camara-reduz-jornada-presencial-dos-servidores-em-periodo-eleitoral/"
+    }
+  ],
+  "rights": {
+    "mode": "original-report"
+  },
+  "translations": {
+    "pt-BR": {
+      "title": "Câmara autoriza regime híbrido para servidores durante período eleitoral",
+      "summary": "A Diretoria-Geral permitiu até 20 horas semanais remotas em alguns setores, sem reduzir a carga total de trabalho dos servidores.",
+      "aiSummary": [
+        "A Câmara autorizou até 20 horas remotas por semana em alguns setores.",
+        "A Diretoria-Geral classificou o regime híbrido como excepcional e temporário.",
+        "A carga total continua em 40 horas semanais, segundo a assessoria da Casa."
+      ],
+      "paragraphs": [
+        "A Câmara dos Deputados autorizou a redução da jornada presencial de seus funcionários durante o período eleitoral. Em alguns setores, os servidores podem cumprir até 20 horas semanais em regime remoto.",
+        "A decisão da Diretoria-Geral foi classificada como excepcional e temporária. A medida considera que o Congresso Nacional não realiza sessões deliberativas no plenário ou nas comissões durante a campanha eleitoral.",
+        "Segundo a assessoria de imprensa da Câmara, a mudança não reduz a carga horária. O regime híbrido mantém o padrão de 40 horas semanais, com no máximo metade desse tempo cumprida remotamente, sob acompanhamento das chefias.",
+        "A Casa informou que pretende racionalizar o uso de sua estrutura administrativa e diminuir despesas sem prejudicar os serviços, a produtividade das equipes ou o atendimento das demandas institucionais.",
+        "A CNN informou que o Senado Federal ainda não havia respondido se adotaria regra semelhante. O Congresso está esvaziado desde o fim do recesso parlamentar, em 31 de julho, e os parlamentares fizeram apenas duas semanas de esforço concentrado; projetos como o fim da escala 6x1 e a PEC da Segurança Pública ficaram para depois da eleição."
+      ]
+    },
+    "en": {
+      "title": "Brazil’s Chamber authorizes hybrid work for staff during election period",
+      "summary": "The directorate allowed up to 20 remote hours per week in some sectors without reducing employees’ total workload.",
+      "aiSummary": [
+        "The Chamber allowed up to 20 remote hours per week in some sectors.",
+        "The directorate-general described the hybrid arrangement as exceptional and temporary.",
+        "The total schedule remains 40 hours per week, according to the House press office."
+      ],
+      "paragraphs": [
+        "Brazil’s Chamber of Deputies authorized a reduction in the in-person work schedule for employees during the election period. In some sectors, staff may work up to 20 hours per week remotely.",
+        "The decision by the directorate-general was described as exceptional and temporary. It reflects the fact that Congress is not holding deliberative sessions in the plenary or committees during the campaign.",
+        "According to the Chamber’s press office, the change does not reduce total working hours. The hybrid arrangement keeps the standard 40-hour week, with no more than half of it performed remotely under managers’ supervision.",
+        "The House said the measure is intended to rationalize the use of its administrative structure and reduce expenses without harming services, team productivity or the handling of institutional demands.",
+        "CNN reported that the Federal Senate had not yet answered whether it would adopt a similar rule. Congress has been largely empty since the recess ended on July 31, and lawmakers held only two concentrated work periods; proposals such as ending the six-day workweek and the public-security constitutional amendment were left until after the election."
+      ]
+    }
+  },
+  "verification": {
+    "score": 8.1,
+    "checkedAt": "2026-09-22T12:31:03Z",
+    "checks": [
+      {
+        "provider": "CNN Brasil",
+        "url": "https://www.cnnbrasil.com.br/politica/camara-reduz-jornada-presencial-dos-servidores-em-periodo-eleitoral/",
+        "finding": "supports",
+        "note": "Complete HTTP-200 extraction with complete:true supports the exceptional temporary hybrid-work authorization, up to 20 remote hours within a 40-hour week, the administrative-cost rationale, the Senate non-response and the reduced legislative calendar."
+      },
+      {
+        "provider": "Aos Fatos",
+        "url": "https://www.aosfatos.org/",
+        "finding": "no-match",
+        "note": "Portuguese exact-claim and variant searches found no matching fact-check about the Chamber's temporary hybrid-work rule; no-match is neutral and not evidence that the administrative details are true."
+      },
+      {
+        "provider": "Agência Lupa",
+        "url": "https://www.agencialupa.org/",
+        "finding": "no-match",
+        "note": "Searches for Câmara, 20 remote hours, 40-hour week and election-period hybrid work found no directly matching verdict; no-match is neutral."
+      },
+      {
+        "provider": "Projeto Comprova",
+        "url": "https://projetocomprova.com.br/",
+        "finding": "no-match",
+        "note": "No relevant Comprova fact-check was found for this institutional staffing measure; no-match is neutral."
+      },
+      {
+        "provider": "TSE Fato ou Boato",
+        "url": "https://www.tse.jus.br/comunicacao/noticias/fato-ou-boato",
+        "finding": "no-match",
+        "note": "No election-misinformation verdict was relevant to the Chamber staffing rule; no-match does not validate the article."
+      },
+      {
+        "provider": "AFP Fact Check",
+        "url": "https://factcheck.afp.com/",
+        "finding": "no-match",
+        "note": "English and Portuguese searches found no matching AFP fact-check for the Chamber's 20-hour remote-work authorization; no-match is neutral."
+      },
+      {
+        "provider": "Reuters Fact Check",
+        "url": "https://www.reuters.com/fact-check/",
+        "finding": "no-match",
+        "note": "No directly matching Reuters fact-check was found for the dated Chamber work-schedule report; no-match is neutral."
+      },
+      {
+        "provider": "Full Fact",
+        "url": "https://fullfact.org/",
+        "finding": "no-match",
+        "note": "English searches found no Full Fact verdict about Brazil's Chamber hybrid-work measure; no-match is neutral."
+      },
+      {
+        "provider": "Google Fact Check Tools",
+        "url": "https://toolbox.google.com/factcheck/explorer",
+        "finding": "inconclusive",
+        "note": "No exact indexed ClaimReview record surfaced, and the public claims-search API returned HTTP 403 in this run; this is not evidence for or against the article."
+      }
+    ],
+    "caveat": "The current measure, its duration and the 40-hour/20-hour limits are reported from CNN's complete extraction and a Chamber-attributed statement. No independent full report of the September order was found, so the details remain source-reported and time-specific."
+  }
+}

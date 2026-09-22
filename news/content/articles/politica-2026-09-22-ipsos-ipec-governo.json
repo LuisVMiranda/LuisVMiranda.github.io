@@ -1,0 +1,113 @@
+{
+  "id": "politica-2026-09-22-ipsos-ipec-governo",
+  "slug": "politica-2026-09-22-ipsos-ipec-governo",
+  "section": "politica",
+  "secondarySections": [],
+  "publishedAt": "2026-09-21T14:31:11-03:00",
+  "publishedDate": "2026-09-21",
+  "updatedAt": "2026-09-22T13:17:34.573Z",
+  "sources": [
+    {
+      "name": "CNN Brasil",
+      "url": "https://www.cnnbrasil.com.br/politica/ipsos-ipec-governo-lula-tem-saldo-negativo-em-todas-as-areas/"
+    }
+  ],
+  "rights": {
+    "mode": "original-report"
+  },
+  "translations": {
+    "pt-BR": {
+      "title": "Ipsos-Ipec registra avaliação negativa do governo Lula em todas as áreas",
+      "summary": "Controle de gastos teve a pior avaliação, enquanto educação e combate à fome apareceram com os saldos menos negativos na pesquisa.",
+      "aiSummary": [
+        "A pesquisa encontrou saldo negativo em todas as áreas avaliadas do governo Lula.",
+        "Controle e corte de gastos tiveram 54% de avaliações ruins ou péssimas.",
+        "Educação teve 35% de avaliações ótimas ou boas, o melhor resultado relativo."
+      ],
+      "paragraphs": [
+        "Pesquisa Ipsos-Ipec divulgada na segunda-feira (21) registrou percepções negativas superiores às positivas em todas as áreas de atuação do governo Luiz Inácio Lula da Silva, segundo a CNN Brasil.",
+        "O controle e o corte de gastos públicos tiveram a pior avaliação: 54% classificaram o desempenho como ruim ou péssimo, enquanto 24% o consideraram ótimo ou bom e 19% disseram que era regular.",
+        "Combate à inflação e segurança pública apareceram em seguida, ambos com 51% de avaliações negativas e 25% de avaliações positivas. Na inflação, 20% avaliaram o trabalho como regular; na segurança, esse percentual foi de 22%.",
+        "A educação teve o saldo menos negativo entre as áreas pesquisadas. Ela foi considerada ótima ou boa por 35%, regular por 21% e ruim ou péssima por 41% dos entrevistados.",
+        "O combate à fome e à pobreza teve 34% de avaliações ótimas ou boas, 22% regulares e 43% ruins ou péssimas. O Ipsos-Ipec ouviu 2.000 eleitores em 130 municípios entre 9 e 13 de setembro, com margem de erro de dois pontos e confiança de 95%."
+      ]
+    },
+    "en": {
+      "title": "Ipsos-Ipec records negative assessments of Lula government across all areas",
+      "summary": "Spending control received the worst rating, while education and fighting hunger had the least negative balances in the survey.",
+      "aiSummary": [
+        "The survey found a negative balance in every evaluated area of the Lula government.",
+        "Spending control received 54% bad or very bad assessments.",
+        "Education received 35% good or very good assessments, the best relative result."
+      ],
+      "paragraphs": [
+        "An Ipsos-Ipec poll released Monday found that negative perceptions outweighed positive ones in every area of Luiz Inácio Lula da Silva’s government, according to CNN Brasil.",
+        "Control and cuts to public spending received the worst rating: 54% called the performance bad or very bad, while 24% called it good or very good and 19% rated it average.",
+        "Fighting inflation and public security followed, both with 51% negative assessments and 25% positive assessments. For inflation, 20% rated the government’s work average; for security, the figure was 22%.",
+        "Education had the least negative balance among the areas surveyed. It was rated good or very good by 35%, average by 21% and bad or very bad by 41% of respondents.",
+        "Fighting hunger and poverty received 34% good or very good assessments, 22% average and 43% bad or very bad. Ipsos-Ipec interviewed 2,000 voters in 130 municipalities from September 9 to 13, with a two-point margin of error and 95% confidence."
+      ]
+    }
+  },
+  "verification": {
+    "score": 8.1,
+    "checkedAt": "2026-09-22T12:31:03Z",
+    "checks": [
+      {
+        "provider": "CNN Brasil",
+        "url": "https://www.cnnbrasil.com.br/politica/ipsos-ipec-governo-lula-tem-saldo-negativo-em-todas-as-areas/",
+        "finding": "supports",
+        "note": "Complete HTTP-200 extraction with complete:true supports the negative balance in all listed areas, the 54% negative/24% positive spending-control result, area-specific figures, the 2,000-voter/130-municipality sample, Sept. 9-13 fieldwork, two-point margin and 95% confidence level."
+      },
+      {
+        "provider": "Aos Fatos",
+        "url": "https://www.aosfatos.org/",
+        "finding": "no-match",
+        "note": "Portuguese searches for the current Ipsos-Ipec release, 54% spending-control result and area ratings found no matching fact-check verdict; no-match is neutral."
+      },
+      {
+        "provider": "Agência Lupa",
+        "url": "https://www.agencialupa.org/",
+        "finding": "no-match",
+        "note": "No directly matching Lupa verdict was found for this dated Ipsos-Ipec poll; no-match is neutral and not evidence that the poll figures are true."
+      },
+      {
+        "provider": "Projeto Comprova",
+        "url": "https://projetocomprova.com.br/",
+        "finding": "no-match",
+        "note": "No Comprova fact-check was found for the Ipsos-Ipec area ratings or sampling details; no-match is neutral."
+      },
+      {
+        "provider": "TSE Fato ou Boato",
+        "url": "https://www.tse.jus.br/comunicacao/noticias/fato-ou-boato",
+        "finding": "no-match",
+        "note": "No electoral-misinformation verdict was relevant to this government-performance poll; no-match is neutral."
+      },
+      {
+        "provider": "AFP Fact Check",
+        "url": "https://factcheck.afp.com/",
+        "finding": "no-match",
+        "note": "English and Portuguese searches found no AFP verdict for the current Ipsos-Ipec ratings; no-match is neutral."
+      },
+      {
+        "provider": "Reuters Fact Check",
+        "url": "https://www.reuters.com/fact-check/",
+        "finding": "no-match",
+        "note": "No directly matching Reuters fact-check was found for the dated Brazilian poll; no-match is neutral."
+      },
+      {
+        "provider": "Full Fact",
+        "url": "https://fullfact.org/",
+        "finding": "no-match",
+        "note": "English searches found no Full Fact verdict addressing the Ipsos-Ipec figures; no-match is neutral."
+      },
+      {
+        "provider": "Google Fact Check Tools",
+        "url": "https://toolbox.google.com/factcheck/explorer",
+        "finding": "inconclusive",
+        "note": "No exact indexed ClaimReview record surfaced, and the public claims-search API returned HTTP 403 in this run; this is not evidence for or against the article."
+      }
+    ],
+    "caveat": "The complete CNN report supports the poll's headline results and methodology, but no independent full extraction of this exact release was found. Percentages are survey estimates subject to the stated margin of error and rounding; they describe respondent perceptions, not objective performance measurements."
+  }
+}

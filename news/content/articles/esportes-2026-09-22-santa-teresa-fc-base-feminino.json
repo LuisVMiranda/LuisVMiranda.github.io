@@ -1,0 +1,65 @@
+{
+  "id": "esportes-2026-09-22-santa-teresa-fc-base-feminino",
+  "slug": "esportes-2026-09-22-santa-teresa-fc-base-feminino",
+  "section": "esportes",
+  "secondarySections": [],
+  "publishedAt": "2026-09-21T10:35:56.613-03:00",
+  "publishedDate": "2026-09-21",
+  "updatedAt": "2026-09-22T13:17:34.573Z",
+  "sources": [
+    {
+      "name": "ge.globo.com",
+      "url": "https://ge.globo.com/es/futebol/noticia/2026/09/21/santa-teresa-fc-novo-time-do-espirito-santo-vai-iniciar-atividades-na-base-e-no-feminino.ghtml"
+    }
+  ],
+  "rights": {
+    "mode": "original-report"
+  },
+  "translations": {
+    "pt-BR": {
+      "title": "Santa Teresa FC planeja estrear na base e no feminino do Espírito Santo em 2027",
+      "summary": "Novo clube capixaba foi fundado em 2026 e mira o futebol masculino profissional até 2030.",
+      "aiSummary": [
+        "O Santa Teresa FC foi oficializado em 29 de abril de 2026 e terá base e futebol feminino em 2027.",
+        "O projeto prevê sub-15, sub-17 e estadual feminino no próximo ano, com futebol masculino profissional até 2030.",
+        "A diretoria aguarda autorização para usar o Estádio Ângelo Frechiani e o campo municipal."
+      ],
+      "paragraphs": [
+        "O Santa Teresa FC foi fundado e oficializado no Espírito Santo em 2026 e planeja iniciar as atividades nas categorias de base e no futebol feminino em 2027. A diretoria também mira a entrada no futebol masculino profissional até 2030.",
+        "O projeto foi apresentado publicamente em 2021 e formalizado perante a Junta Comercial em 29 de abril de 2026. O presidente e fundador Marcelinho Lima diz que o clube foi criado para representar Santa Teresa e conectar o futebol à cultura e ao turismo da cidade.",
+        "A programação prevista para 2027 inclui as equipes sub-15 e sub-17 e a disputa do Campeonato Capixaba feminino. O plano é implantar o sub-20 em 2028 ou 2029 e utilizá-lo como caminho para o profissional em 2029 ou 2030.",
+        "O clube usa verde, branco e vermelho, tem o colibri como mascote e assume a herança italiana como uma de suas referências. A diretoria ressalta, porém, que a organização pretende ser aberta a todos, e não apenas a descendentes de italianos.",
+        "A direção aguarda autorização do município para utilizar o Estádio Ângelo Frechiani e o campo municipal em treinos e jogos de 2027. Também planeja obter o registro amador em dezembro, fazer peneiras e avaliações e adquirir o registro profissional em 2028 ou 2029."
+      ]
+    },
+    "en": {
+      "title": "Santa Teresa FC plan youth and women’s debut in Espírito Santo for 2027",
+      "summary": "The new Espírito Santo club was founded in 2026 and are targeting men’s professional football by 2030.",
+      "aiSummary": [
+        "Santa Teresa FC were formally established on April 29, 2026, and will start youth and women’s football in 2027.",
+        "The plan includes under-15, under-17 and women’s teams next year, with men’s professional football by 2030.",
+        "The club are waiting for permission to use Estádio Ângelo Frechiani and the municipal field."
+      ],
+      "paragraphs": [
+        "Santa Teresa FC were founded and formally established in Espírito Santo in 2026 and plan to begin youth and women’s activities in 2027. The board also targets entry into men’s professional football by 2030.",
+        "The project was presented publicly in 2021 and registered with the Commercial Registry on April 29, 2026. President and founder Marcelinho Lima says the club was created to represent Santa Teresa and connect football with the city’s culture and tourism.",
+        "The plan for 2027 includes under-15 and under-17 teams and participation in the Espírito Santo women’s championship. The club intend to add an under-20 side in 2028 or 2029 and use it as a route into the professional game in 2029 or 2030.",
+        "The club use green, white and red, have a hummingbird as their mascot and draw on the city’s Italian heritage. The board also says the organization is intended for everyone, not only people of Italian descent.",
+        "The board are waiting for municipal authorization to use Estádio Ângelo Frechiani and the city field for training and matches in 2027. They also plan to secure amateur registration in December, hold trials and assessments, and obtain a professional registration in 2028 or 2029."
+      ]
+    }
+  },
+  "verification": {
+    "score": 7.5,
+    "checkedAt": "2026-09-22T12:28:11Z",
+    "checks": [
+      {
+        "provider": "ge.globo.com",
+        "url": "https://ge.globo.com/es/futebol/noticia/2026/09/21/santa-teresa-fc-novo-time-do-espirito-santo-vai-iniciar-atividades-na-base-e-no-feminino.ghtml",
+        "finding": "supports",
+        "note": "Complete local extraction was status 200 with complete=true. It reports the April 29, 2026 Junta Comercial formalization claimed by the club, the 2027 sub-15, sub-17 and women's plans, the 2029-2030 professional target, planned registrations, and the pending municipal authorization for facilities."
+      }
+    ],
+    "caveat": "This is a club-development report based on statements by founder Marcelinho Lima. The 2027-2030 activities are future plans, and no independent federation or registry confirmation of the formalization, registrations, or facility authorization was located; the article presents those items as plans or pending steps rather than completed outcomes."
+  }
+}

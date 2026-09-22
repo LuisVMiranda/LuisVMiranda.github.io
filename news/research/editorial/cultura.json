@@ -1,113 +1,122 @@
 {
   "section": "cultura",
-  "cutoff": "2026-09-21T16:48:24.436Z",
-  "queries": [],
+  "cutoff": "2026-09-22T11:21:20.336Z",
+  "queries": [
+    "Cultura notícias Brasil",
+    "Culture latest news Brazil",
+    "cultura cinema música livros patrimônio notícias recentes",
+    "cinema música literatura artes patrimônio latest news",
+    "cultura brasileira cinema música livros patrimônio notícias",
+    "site:agenciabrasil.ebc.com.br cultura",
+    "site:theguardian.com culture latest news",
+    "site:variety.com culture film music latest news"
+  ],
   "verified": [
     {
-      "articleId": "cultura-madness-take-it-or-leave-it-restauracao",
-      "url": "https://www.theguardian.com/music/2026/sep/21/madness-take-it-or-leave-it-baggy-trousers-nutty-boys",
-      "publishedAt": "2026-09-21T13:55:06.000Z",
-      "evidence": "Complete extraction with status 200 and complete:true, published September 21, 2026 at 13:55:06 UTC. The full article reports on the 1981 semifictional Madness film Take It or Leave It, its guerrilla production methods, real London locations, band interviews and a new 4K restoration. No independent corroboration URL was available in the current run; this is a low-risk culture feature supported by one complete reputable source.",
-      "selectionReason": "Current, dated Guardian culture reporting about a film restoration and the musical history of Madness; distinct from the other selected film and arts stories.",
+      "articleId": "cultura-2026-09-22-burberry-london-fashion-week",
+      "url": "https://www.bbc.com/news/articles/cmzxz2pe5vd0o",
+      "publishedAt": "2026-09-22T09:46:15.766Z",
+      "evidence": "Complete extraction at research/runs/2026-09-22T11-21-20-336Z-6df281a2-9343-4cb7-a1b3-001b9e9a3dde/extractions/mundo/66438282a1fb.json; HTTP 200, complete:true, 34 body paragraphs, 926 words and no warnings. The full source reports Burberry’s London Fashion Week closing show, Celia Birtwell’s runway work, Alexander McQueen and Mulberry returns, the British Fashion Council’s stated mission, and the 2027 trend signals covered in the article.",
+      "selectionReason": "Most recent complete arts-industry report in the run, published on September 22, with a distinct fashion-institution angle and substantial accessible source body.",
       "contentReview": {
         "bodyComplete": true,
         "aiSummaryReviewed": true
       }
     },
     {
-      "articleId": "cultura-primavera-dos-museus-2026",
-      "url": "https://agenciabrasil.ebc.com.br/radioagencia-nacional/cultura/audio/2026-09/mais-de-900-instituicoes-participam-da-primavera-dos-museus",
-      "publishedAt": "2026-09-21T12:23:00-03:00",
-      "evidence": "Complete extraction with status 200 and complete:true, published September 21, 2026 at 12:23 BRT. Agência Brasil reports that Ibram’s Primavera dos Museus involves more than 900 institutions and over 2,000 activities, with examples of exhibitions, workshops, educational events and accessibility programming across Brazil. No independent corroboration URL was available in the current run; this is a routine low-risk culture and service report supported by one complete reputable source.",
-      "selectionReason": "Fresh nationwide culture-service report with concrete public programming and broad cultural relevance; selected over the duplicate shorter Primavera dos Museus extraction.",
+      "articleId": "cultura-2026-09-22-indian-craftsmanship-fashion",
+      "url": "https://www.theguardian.com/world/2026/sep/21/the-indian-craftsmanship-behind-luxury-fashion",
+      "publishedAt": "2026-09-22T06:30:37.000Z",
+      "evidence": "Complete extraction at research/runs/2026-09-22T11-21-20-336Z-6df281a2-9343-4cb7-a1b3-001b9e9a3dde/extractions/cultura/1e2954a69640.json; HTTP 200, complete:true, 37 body paragraphs, 1,694 words and no warnings. The full source covers Chanakya International’s 40th anniversary, its 1,400-artisan network, revived craft techniques, institutional partnerships, credit disputes and the Chanakya School of Craft.",
+      "selectionReason": "Current September 22 heritage and cultural-institution feature with original reporting on living craft traditions, preservation and recognition in global fashion.",
       "contentReview": {
         "bodyComplete": true,
         "aiSummaryReviewed": true
       }
     },
     {
-      "articleId": "cultura-palmas-cinema-sessoes-acessiveis",
-      "url": "https://agenciabrasil.ebc.com.br/radioagencia-nacional/cultura/audio/2026-09/palmas-aprova-sessoes-de-cinema-adaptadas-para-jovens-com-tea",
-      "publishedAt": "2026-09-21T11:51:00-03:00",
-      "evidence": "Complete extraction with status 200 and complete:true, published September 21, 2026 at 11:51 BRT. The report describes Palmas Law 3,496, requiring at least monthly autism-adapted cinema screenings with softer lighting, reduced sound and permission to enter or leave during the session; it states that the measure is already in force. No independent corroboration URL was available in the current run; this is a routine low-risk cultural service report supported by one complete reputable source.",
-      "selectionReason": "Dated, in-scope cultural-access service report with a specific enacted measure and no allegation-dependent claims.",
+      "articleId": "cultura-2026-09-22-daisy-edgar-jones-sense-sensibility",
+      "url": "https://www.bbc.com/news/articles/c6j9xpg19x43o",
+      "publishedAt": "2026-09-22T06:20:52.319Z",
+      "evidence": "Complete extraction at research/runs/2026-09-22T11-21-20-336Z-6df281a2-9343-4cb7-a1b3-001b9e9a3dde/extractions/mundo/957e5f98e0d7.json; HTTP 200, complete:true, 20 body paragraphs, 458 words and no warnings. The full source reports Daisy Edgar-Jones’s preparation for Sense and Sensibility, the novel’s adaptation history, the Irish cast and the film’s September 25 cinema release.",
+      "selectionReason": "Fresh, dated film report inside the 24-hour priority window, centered on a literary adaptation, acting and Irish cultural production rather than celebrity opinion.",
       "contentReview": {
         "bodyComplete": true,
         "aiSummaryReviewed": true
       }
     },
     {
-      "articleId": "cultura-ott-lancamentos-21-27-setembro-2026",
-      "url": "https://www.vogue.in/content/latest-ott-releases-streaming-netflix-prime-video-jiohotstar-september-21-september-27-2026",
-      "publishedAt": "2026-09-21T02:30:00.000Z",
-      "evidence": "Complete extraction with status 200 and complete:true, published September 21, 2026 at 02:30 UTC. Vogue’s full weekly guide lists 13 streaming releases for September 21–27 and supplies the titles, dates and premises for productions including Minerva Academy, Habeas Corpus, A Different World, My Sad Dead, Shaque, Blood Legacy season two, Don’t Be Shy, Hunkkaar, The Final Problem and Unabomber. No independent corroboration URL was needed for this routine schedule report; it is supported by one complete reputable culture source.",
-      "selectionReason": "Current dated entertainment schedule with concrete release dates and distinct utility for the culture desk; no allegations are presented as facts.",
+      "articleId": "cultura-2026-09-22-agatha-christie-exhibition",
+      "url": "https://www.bbc.com/news/articles/c620l2zqpl2do",
+      "publishedAt": "2026-09-22T05:08:35.030Z",
+      "evidence": "Complete extraction at research/runs/2026-09-22T11-21-20-336Z-6df281a2-9343-4cb7-a1b3-001b9e9a3dde/extractions/mundo/76b593137241.json; HTTP 200, complete:true, 12 body paragraphs, 287 words and no warnings. The full source describes the Royal Berkshire Archives exhibition, the surviving 1926 police poster, collection objects, Christie’s biography and her record as a bestselling crime novelist.",
+      "selectionReason": "Dated September 22 heritage and archival-institution report with a free public exhibition and a distinct literary-history subject.",
       "contentReview": {
         "bodyComplete": true,
         "aiSummaryReviewed": true
       }
     },
     {
-      "articleId": "brasil-cine-inclusao-60-festival-2026-09-20",
-      "url": "https://agenciabrasil.ebc.com.br/cultura/noticia/2026-09/cine-inclusao-60-traz-filmes-dedicados-ao-debate-sobre-envelhecimento",
-      "publishedAt": "2026-09-20T21:09:00-03:00",
-      "evidence": "Complete extraction with status 200 and complete:true, published September 20, 2026 at 21:09 BRT. Agência Brasil reports that the free sixth Cine Inclusão 60+ festival runs through September 27 in São Paulo, Campinas and Santos, showing 21 national and international productions and adding a forum on women in audiovisual culture. No independent corroboration URL was available in the current run; this is a routine low-risk festival report supported by one complete reputable source.",
-      "selectionReason": "Current festival coverage within the 24-hour window, with clear cultural programming, public access information and a distinct focus on ageing and representation.",
+      "articleId": "cultura-2026-09-22-sao-paulo-grafite-lei",
+      "url": "https://agenciabrasil.ebc.com.br/radioagencia-nacional/cultura/audio/2026-09/sao-paulo-tem-nova-lei-de-fomento-ao-grafite-e-arte-de-rua",
+      "publishedAt": "2026-09-21T23:34:00-03:00",
+      "evidence": "Complete extraction at research/runs/2026-09-22T11-21-20-336Z-6df281a2-9343-4cb7-a1b3-001b9e9a3dde/extractions/cultura/5052dd1c28cd.json; HTTP 200, complete:true, 12 body paragraphs, 485 words and no warnings. The full source reports the Alex Vallauri Law, the Museu de Arte de Rua program, the unanimous municipal approval, eligible urban-art forms and public funding routes.",
+      "selectionReason": "The newest complete cultural-policy story from September 21, with an enacted municipal measure directly affecting graffiti and street-art production and access.",
       "contentReview": {
         "bodyComplete": true,
         "aiSummaryReviewed": true
       }
     },
     {
-      "articleId": "cultura-salman-toor-someone-like-you",
+      "articleId": "cultura-2026-09-22-cnpc-eleicao-cultura",
+      "url": "https://agenciabrasil.ebc.com.br/cultura/noticia/2026-09/inscricao-para-eleicao-do-conselho-de-politica-cultural-vai-ate-dia-30",
+      "publishedAt": "2026-09-21T19:34:00-03:00",
+      "evidence": "Complete extraction at research/runs/2026-09-22T11-21-20-336Z-6df281a2-9343-4cb7-a1b3-001b9e9a3dde/extractions/cultura/534aba08288f.json; HTTP 200, complete:true, 23 body paragraphs, 510 words and no warnings. The full source reports the extended September 30 deadline, revised document-review calendar, Vota Cultura process, 21 collegia and plenary, quota validation and eligibility rules.",
+      "selectionReason": "Current official cultural-governance report with a concrete deadline and direct relevance to national cultural participation and policy institutions.",
+      "contentReview": {
+        "bodyComplete": true,
+        "aiSummaryReviewed": true
+      }
+    },
+    {
+      "articleId": "cultura-2026-09-22-historia-de-taipei-livro",
+      "url": "https://www.cnnbrasil.com.br/pop/historia-de-taipei-conheca-novo-livro-da-autora-de-a-guerra-da-papoula/",
+      "publishedAt": "2026-09-21T19:32:37-03:00",
+      "evidence": "Complete extraction at research/runs/2026-09-22T11-21-20-336Z-6df281a2-9343-4cb7-a1b3-001b9e9a3dde/extractions/brasil/8cb30ddafe9a.json; HTTP 200, complete:true, 13 body paragraphs, 372 words and no warnings. The full source reports R.F. Kuang’s Brazilian release of História de Taipei, Lily’s three-month language course in Taipei, the identity and belonging themes, Brazilian publication details and Kuang’s literary background.",
+      "selectionReason": "Distinct current literary release inside the September 21 window, selected for its direct arts and cultural-identity focus and complete source body.",
+      "contentReview": {
+        "bodyComplete": true,
+        "aiSummaryReviewed": true
+      }
+    },
+    {
+      "articleId": "cultura-2026-09-22-chico-science-megamural",
+      "url": "https://agenciabrasil.ebc.com.br/radioagencia-nacional/cultura/audio/2026-09/no-ano-em-que-faria-60-chico-science-ganha-megamural-no-recife",
+      "publishedAt": "2026-09-21T18:23:00-03:00",
+      "evidence": "Complete extraction at research/runs/2026-09-22T11-21-20-336Z-6df281a2-9343-4cb7-a1b3-001b9e9a3dde/extractions/cultura/f850c8b79770.json; HTTP 200, complete:true, 12 body paragraphs, 489 words and no warnings. The full source reports the September 22 tour, its free route and locations, the planned mural by Arem, the Fred Jordão photograph and the Recife Cidade da Música project.",
+      "selectionReason": "Current public-art and heritage story linking a major Brazilian musician’s legacy to Recife’s cultural memory, tourism and urban programming.",
+      "contentReview": {
+        "bodyComplete": true,
+        "aiSummaryReviewed": true
+      }
+    },
+    {
+      "articleId": "cultura-2026-09-22-cate-blanchett-theatre",
+      "url": "https://www.bbc.com/news/articles/cmvgyzpy6g43o",
+      "publishedAt": "2026-09-21T14:03:20.131Z",
+      "evidence": "Complete extraction at research/runs/2026-09-22T11-21-20-336Z-6df281a2-9343-4cb7-a1b3-001b9e9a3dde/extractions/mundo/b19825bc4dd2.json; HTTP 200, complete:true, 14 body paragraphs, 483 words and no warnings. The full source reports Cate Blanchett’s request about filming, the interval context, the structure and dates of Electra/Persona and comparable theatre incidents involving other performers.",
+      "selectionReason": "Dated theatre report about audience practice and the protection of live performance, with the cultural angle primary and no political or sports focus.",
+      "contentReview": {
+        "bodyComplete": true,
+        "aiSummaryReviewed": true
+      }
+    },
+    {
+      "articleId": "cultura-2026-09-22-salman-toor-courtauld",
       "url": "https://www.theguardian.com/artanddesign/2026/sep/21/salman-toor-artist-interview-clubbing-queerness-new-york-muslim-moment",
       "publishedAt": "2026-09-21T04:00:34.000Z",
-      "evidence": "Complete extraction with status 200 and complete:true, published September 21, 2026 at 04:00:34 UTC. The Guardian interview profiles Pakistani American artist Salman Toor, describes his figurative paintings and themes of queer South Asian identity, immigration and belonging, and reports the Courtauld Gallery’s October 2 opening of Someone Like You. No independent corroboration URL was needed for this low-risk culture profile and exhibition preview; the full extraction is the supporting source.",
-      "selectionReason": "Dated, reputable arts reporting about a forthcoming major exhibition and a clearly identified artist, with substantive source material rather than opinion-only commentary.",
-      "contentReview": {
-        "bodyComplete": true,
-        "aiSummaryReviewed": true
-      }
-    },
-    {
-      "articleId": "cultura-flamenco-sketches-latido-san-sebastian",
-      "url": "https://variety.com/2026/film/global/isaki-lacuesta-flamenco-sketches-latido-san-sebastian-1236870389/",
-      "publishedAt": "2026-09-21T05:15:00+00:00",
-      "evidence": "Complete extraction with status 200 and complete:true, published September 21, 2026 at 05:15 UTC. Variety reports Latido Films’ acquisition of international sales rights to Isaki Lacuesta’s Flamenco Sketches, its closing position in San Sebastian’s Zabaltegi-Tabakalera section, the film’s archive-based approach to flamenco history and its production and distribution partners. No independent corroboration URL was available in the current run; this is a low-risk culture-industry report supported by one complete reputable source.",
-      "selectionReason": "Current, dated film-industry news with a concrete rights acquisition and festival placement; distinct from the selected festival and streaming schedule reports.",
-      "contentReview": {
-        "bodyComplete": true,
-        "aiSummaryReviewed": true
-      }
-    },
-    {
-      "articleId": "cultura-cnpc-eleicao-2026-inscricoes-prorrogadas",
-      "url": "https://www.gov.br/cultura/pt-br/assuntos/noticias-defeso-eleitoral/inscricoes-para-o-processo-eleitoral-do-conselho-nacional-de-politica-cultural-sao-prorrogadas-ate-30-de-setembro",
-      "publishedAt": "2026-09-21T08:51:00-03:00",
-      "evidence": "Focused SearXNG candidate from the Ministry of Culture search family; focused-cultura-1.json records HTTP 200, complete:true, 519 words, 15 extracted paragraphs and an empty warnings array. Page metadata shows publication on September 21, 2026 at 08:51 BRT and update at 08:58 BRT. The complete body reports the registration extension to September 30, the revised document-review calendar, the Vota Cultura process and changes to quota validation and collective declarations.",
-      "selectionReason": "Fresh official cultural-governance report inside the 24-hour window, with a concrete public deadline and complete source body; low-risk administrative information needs no independent corroboration.",
-      "contentReview": {
-        "bodyComplete": true,
-        "aiSummaryReviewed": true
-      }
-    },
-    {
-      "articleId": "cultura-semana-arte-rio-capanema-2026",
-      "url": "https://www.gov.br/cultura/pt-br/centrais-de-conteudo/sala-de-imprensa/avisos-de-pauta-defeso/palacio-gustavo-capanema-recebe-atividades-da-semana-de-arte-do-rio-a-partir-desta-quarta-feira-16",
-      "publishedAt": "2026-09-15T12:01:00-03:00",
-      "evidence": "Focused SearXNG candidate from the Ministry of Culture search family; focused-cultura-2.json records HTTP 200, complete:true, 674 words, 13 extracted paragraphs and an empty warnings array. Page metadata shows publication on September 15, 2026 at 12:01 BRT. The complete body reports the September 16–27 Rio Art Week program at the Gustavo Capanema Palace, including exhibitions, performances, samba, film, dance, guided tours and the wider eight-circuit program.",
-      "selectionReason": "Distinct public cultural-program report within the seven-day fallback window, with concrete dates, venues and access rules from the official organizer; accepted as a routine low-risk schedule item.",
-      "contentReview": {
-        "bodyComplete": true,
-        "aiSummaryReviewed": true
-      }
-    },
-    {
-      "articleId": "cultura-plataforma-snc-suspensao-2026",
-      "url": "https://www.gov.br/cultura/pt-br/assuntos/noticias-defeso-eleitoral/plataforma-do-sistema-nacional-de-cultura-fica-indisponivel-a-partir-de-21-de-setembro",
-      "publishedAt": "2026-09-15T15:05:00-03:00",
-      "evidence": "Focused SearXNG candidate from the Ministry of Culture search family; focused-cultura-6.json records HTTP 200, complete:true, 130 words, 5 extracted paragraphs and an empty warnings array. Page metadata shows publication on September 15, 2026 at 15:05 BRT. The complete body states that the National Culture System platform is unavailable from September 21 through October 14 for a technical upgrade, with access expected to return on October 15.",
-      "selectionReason": "Current official cultural-infrastructure service notice inside the seven-day fallback window, with clear maintenance dates and no allegation-dependent claims; accepted as a routine low-risk public-program report.",
+      "evidence": "Complete extraction at research/runs/2026-09-22T11-21-20-336Z-6df281a2-9343-4cb7-a1b3-001b9e9a3dde/extractions/cultura/b8123221cf12.json; HTTP 200, complete:true, 22 body paragraphs, 1,513 words and no warnings. The full source profiles Salman Toor’s paintings, biography and influences, prior museum exposure, the Courtauld Gallery exhibition Someone Like You and its October 2 to January 10 schedule.",
+      "selectionReason": "Substantive September 21 visual-arts profile with a clearly dated institutional exhibition and distinct representation, immigration and art-history themes.",
       "contentReview": {
         "bodyComplete": true,
         "aiSummaryReviewed": true
@@ -119,7 +128,7 @@
     "en": ""
   },
   "improvements": [],
-  "candidateRun": "research/runs/2026-09-21T16-48-24-436Z-221c0d1e-a836-45cb-b034-62c6ef37c843",
-  "retrievedAt": "2026-09-21T18:03:53.289Z",
+  "candidateRun": "research/runs/2026-09-22T11-21-20-336Z-6df281a2-9343-4cb7-a1b3-001b9e9a3dde",
+  "retrievedAt": "2026-09-22T11:21:43.133Z",
   "reviewStatus": "draft-source-verified-no-publication-approval"
 }

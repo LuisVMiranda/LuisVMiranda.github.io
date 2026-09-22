@@ -1,0 +1,71 @@
+{
+  "id": "esportes-2026-09-22-vini-jr-criticas-atletico-real",
+  "slug": "esportes-2026-09-22-vini-jr-criticas-atletico-real",
+  "section": "esportes",
+  "secondarySections": [],
+  "publishedAt": "2026-09-22T04:43:31.059-03:00",
+  "publishedDate": "2026-09-22",
+  "updatedAt": "2026-09-22T13:17:34.573Z",
+  "sources": [
+    {
+      "name": "ge.globo.com",
+      "url": "https://ge.globo.com/futebol/futebol-internacional/futebol-espanhol/times/real-madrid/noticia/2026/09/22/vini-jr-vira-alvo-de-critica-apos-classico-sombra-do-que-ja-foi.ghtml"
+    }
+  ],
+  "rights": {
+    "mode": "original-report"
+  },
+  "translations": {
+    "pt-BR": {
+      "title": "Vini Jr. é criticado na Espanha após derrota do Real para o Atlético de Madrid",
+      "summary": "Jornal Marca apontou queda de rendimento do brasileiro no clássico vencido pelo Atlético por 2 a 1.",
+      "aiSummary": [
+        "O Atlético de Madrid venceu o Real Madrid por 2 a 1 no clássico do Campeonato Espanhol.",
+        "O jornal Marca avaliou que Vini Jr. e Mbappé foram neutralizados pela estratégia do Atlético.",
+        "Vini deixou o campo aos nove minutos do segundo tempo, pouco depois da expulsão de Huijsen."
+      ],
+      "paragraphs": [
+        "Vini Jr. voltou a ser alvo de críticas na imprensa espanhola depois da derrota do Real Madrid por 2 a 1 para o Atlético de Madrid. A avaliação foi publicada pelo jornal Marca em uma análise do clássico disputado no Metropolitano.",
+        "O texto apontou o brasileiro e Kylian Mbappé como as principais estrelas neutralizadas pelo Atlético. Segundo a análise atribuída ao Marca, Vini esteve abaixo do nível que já apresentou com a camisa do Real Madrid.",
+        "A leitura do jornal relacionou a superioridade do Atlético à capacidade de impedir que os principais jogadores do Real encontrassem espaço. Com Vini e Mbappé limitados, a equipe de Diego Simeone conseguiu controlar mais a partida.",
+        "Vini teve participação discreta nas ações ofensivas e não repetiu o protagonismo habitual. O atacante foi substituído aos nove minutos do segundo tempo, pouco depois da expulsão do zagueiro Dean Huijsen.",
+        "A reportagem enquadra as críticas como parte da pressão que se acumulou após o clássico. O resultado e a análise do Marca registram um momento de cobrança sobre o brasileiro, sem transformar a opinião do jornal em um diagnóstico definitivo sobre sua temporada."
+      ]
+    },
+    "en": {
+      "title": "Vini Jr. faces Spanish criticism after Real Madrid lose to Atlético",
+      "summary": "Newspaper Marca described a subdued display by the Brazilian in Atlético’s 2-1 derby win.",
+      "aiSummary": [
+        "Atlético Madrid beat Real Madrid 2-1 in the Spanish league derby.",
+        "Marca said Vini Jr. and Mbappé were neutralized by Atlético’s approach.",
+        "Vini left after nine minutes of the second half, shortly after Huijsen was sent off."
+      ],
+      "paragraphs": [
+        "Vini Jr. faced renewed criticism in the Spanish press after Real Madrid lost 2-1 to Atlético Madrid. The assessment appeared in Marca’s analysis of the derby played at the Metropolitano.",
+        "The article identified the Brazilian and Kylian Mbappé as Atlético’s main neutralized stars. In the newspaper’s account, Vini performed well below the level he had previously shown in a Real Madrid shirt.",
+        "Marca linked Atlético’s superiority to its ability to deny space to Real’s leading attackers. With Vini and Mbappé contained, Diego Simeone’s team gained greater control of the match.",
+        "Vini had a quiet attacking performance and did not reproduce his usual influence. The forward was substituted after nine minutes of the second half, shortly after defender Dean Huijsen was sent off.",
+        "The report places the criticism within the pressure surrounding the player after the derby. The result and Marca’s analysis document a difficult moment for the Brazilian without treating the newspaper’s opinion as a definitive verdict on his season."
+      ]
+    }
+  },
+  "verification": {
+    "score": 8.8,
+    "checkedAt": "2026-09-22T12:28:11Z",
+    "checks": [
+      {
+        "provider": "ge.globo.com",
+        "url": "https://ge.globo.com/futebol/futebol-internacional/futebol-espanhol/times/real-madrid/noticia/2026/09/22/vini-jr-vira-alvo-de-critica-apos-classico-sombra-do-que-ja-foi.ghtml",
+        "finding": "supports",
+        "note": "Complete local extraction was status 200 with complete=true. It explicitly attributes the qualitative criticism to Marca and reports the 2-1 derby result, Vini Jr.'s subdued performance, Huijsen's dismissal, and Vini's substitution nine minutes into the second half."
+      },
+      {
+        "provider": "LaLiga",
+        "url": "https://www.laliga.com/en-ES/partidazos/el-derbi-de-madrid",
+        "finding": "supports",
+        "note": "LaLiga's official derby page confirms the Atlético Madrid 2-1 Real Madrid result and the match events, including the second-half substitutions involving Vini Jr. and Huijsen."
+      }
+    ],
+    "caveat": "The score, match events, and substitution timing are independently corroborated by LaLiga. The judgments that Vini was neutralized or a 'shadow' remain attributed opinions from Marca, not objective performance verdicts."
+  }
+}

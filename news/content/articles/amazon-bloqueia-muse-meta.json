@@ -4,7 +4,7 @@
   "section": "tecnologia",
   "secondarySections": ["economia"],
   "publishedAt": "2026-09-21T09:21:47+00:00",
-  "updatedAt": "2026-09-22T10:16:58.141Z",
+  "updatedAt": "2026-09-22T13:17:34.573Z",
   "sources": [
     {
       "name": "The Verge",
@@ -13,6 +13,85 @@
   ],
   "rights": {
     "mode": "original-report"
+  },
+  "verification": {
+    "score": 9,
+    "checkedAt": "2026-09-22T13:13:27Z",
+    "checks": [
+      {
+        "provider": "The Verge",
+        "url": "https://www.theverge.com/tech/998078/amazon-blocks-meta-muse-ai-agent-shopping",
+        "finding": "supports",
+        "note": "Complete source extraction was status 200 with complete:true and reports Amazon's block on Meta's Muse, the terms-of-use and privacy/security rationale, Meta's stated limits on access to login and payment data, and the related agentic-shopping dispute."
+      },
+      {
+        "provider": "InvestNews/Bloomberg",
+        "url": "https://investnews.com.br/negocios/amazon-bloqueia-agente-de-ia-da-meta-em-seu-site-de-varejo/",
+        "finding": "supports",
+        "note": "Complete fresh-run extraction was status 200 and independently supports the block, Amazon's transparency and opt-in rationale, the automated-shopping policy, Meta's lack of an immediate response, and the earlier Perplexity dispute."
+      },
+      {
+        "provider": "Canaltech",
+        "url": "https://canaltech.com.br/inteligencia-artificial/amazon-proibe-nova-ia-da-meta-de-fazer-compras-em-seu-site-entenda-o-porque/",
+        "finding": "supports",
+        "note": "Complete fresh-run extraction was status 200 and corroborates the block, the unauthorized-agent terms message, Amazon's identification and account-access concerns, and Meta's statement that Muse cannot directly view secure login or payment data."
+      },
+      {
+        "provider": "GeekWire",
+        "url": "https://www.geekwire.com/2026/amazon-blocks-metas-muse-ai-agent-shopping/",
+        "finding": "supports",
+        "note": "Independent reporting corroborates Amazon's blocking of Muse and preserves Amazon's stated terms-of-use and transparency rationale."
+      },
+      {
+        "provider": "Aos Fatos",
+        "url": "https://www.aosfatos.org/",
+        "finding": "no-match",
+        "note": "Exact-claim and meaningful-variant searches in Portuguese found no matching fact-check verdict; no-match is neutral and is not evidence that every corporate statement is true."
+      },
+      {
+        "provider": "Agência Lupa",
+        "url": "https://www.agencialupa.org/",
+        "finding": "no-match",
+        "note": "Exact-claim and meaningful-variant searches in Portuguese found no matching fact-check verdict; no-match is neutral and is not evidence that every corporate statement is true."
+      },
+      {
+        "provider": "Projeto Comprova",
+        "url": "https://projetocomprova.com.br/",
+        "finding": "no-match",
+        "note": "Exact-claim and meaningful-variant searches in Portuguese found no matching fact-check verdict; no-match is neutral and is not evidence that every corporate statement is true."
+      },
+      {
+        "provider": "TSE Fato ou Boato",
+        "url": "https://www.tse.jus.br/comunicacao/noticias/fato-ou-boato",
+        "finding": "no-match",
+        "note": "No election or civic-process fact-check was relevant to this corporate AI-shopping dispute; the result is neutral."
+      },
+      {
+        "provider": "AFP Fact Check",
+        "url": "https://factcheck.afp.com/",
+        "finding": "no-match",
+        "note": "English and Portuguese variant searches found no matching fact-check verdict for Amazon's block of Muse; no-match is neutral."
+      },
+      {
+        "provider": "Reuters Fact Check",
+        "url": "https://www.reuters.com/fact-check/",
+        "finding": "no-match",
+        "note": "English and Portuguese variant searches found no matching fact-check verdict for Amazon's block of Muse; no-match is neutral."
+      },
+      {
+        "provider": "Full Fact",
+        "url": "https://fullfact.org/",
+        "finding": "no-match",
+        "note": "English-language searches found no matching fact-check verdict for Amazon's block of Muse; no-match is neutral."
+      },
+      {
+        "provider": "Google Fact Check Tools",
+        "url": "https://toolbox.google.com/factcheck/explorer",
+        "finding": "inconclusive",
+        "note": "Web-indexed Explorer searches did not surface a matching ClaimReview record and API coverage was unavailable; this is not a no-match or truth finding."
+      }
+    ],
+    "caveat": "The blocking event and Amazon's stated policy are corroborated by The Verge and multiple independent complete reports. Meta's technical privacy limitation and the competitive implications remain attributed or analytical; no direct fact-check contradiction was found."
   },
   "translations": {
     "pt-BR": {
@@ -45,66 +124,5 @@
         "The case also shows that the agent company's claimed technical limits do not remove the retailer's decision about whether to allow or block access. The reference to Perplexity's Comet places the episode within Amazon's broader response to competing shopping agents."
       ]
     }
-  },
-  "verification": {
-    "score": 7.6,
-    "checkedAt": "2026-09-22T10:01:14Z",
-    "checks": [
-      {
-        "provider": "The Verge",
-        "url": "https://www.theverge.com/tech/998078/amazon-blocks-meta-muse-ai-agent-shopping",
-        "finding": "supports",
-        "note": "Complete source context for The Verge was reviewed against the article summary and manifest evidence; the central claim is represented with the source's attribution and stated limitations."
-      },
-      {
-        "provider": "Aos Fatos",
-        "url": "https://www.aosfatos.org/",
-        "finding": "no-match",
-        "note": "Direct site-restricted search in Portuguese for the central claim, named entities, and key dates in 'Amazon bloqueia agente de compras Muse, da Meta' found no matching fact-check page. This no-match is neutral and is not evidence that the claim is true."
-      },
-      {
-        "provider": "Agência Lupa",
-        "url": "https://www.agencialupa.org/",
-        "finding": "no-match",
-        "note": "Direct site-restricted search in Portuguese for the central claim, named entities, and key dates in 'Amazon bloqueia agente de compras Muse, da Meta' found no matching fact-check page. This no-match is neutral and is not evidence that the claim is true."
-      },
-      {
-        "provider": "Projeto Comprova",
-        "url": "https://projetocomprova.com.br/",
-        "finding": "no-match",
-        "note": "Direct site-restricted search in Portuguese for the central claim, named entities, and key dates in 'Amazon bloqueia agente de compras Muse, da Meta' found no matching fact-check page. This no-match is neutral and is not evidence that the claim is true."
-      },
-      {
-        "provider": "TSE Fato ou Boato",
-        "url": "https://www.tse.jus.br/comunicacao/noticias/fato-ou-boato",
-        "finding": "no-match",
-        "note": "No election/civic-process fact-check relevant to the claim 'Amazon bloqueia agente de compras Muse, da Meta' was found; this source is not materially targeted to the article. The result is neutral."
-      },
-      {
-        "provider": "AFP Fact Check",
-        "url": "https://factcheck.afp.com/",
-        "finding": "no-match",
-        "note": "Direct site-restricted search in English for the central claim, named entities, and key dates in 'Amazon blocks Meta’s Muse shopping agent' found no matching fact-check page. This no-match is neutral and is not evidence that the claim is true."
-      },
-      {
-        "provider": "Reuters Fact Check",
-        "url": "https://www.reuters.com/fact-check/",
-        "finding": "no-match",
-        "note": "Direct site-restricted search in English for the central claim, named entities, and key dates in 'Amazon blocks Meta’s Muse shopping agent' found no matching fact-check page. This no-match is neutral and is not evidence that the claim is true."
-      },
-      {
-        "provider": "Full Fact",
-        "url": "https://fullfact.org/",
-        "finding": "no-match",
-        "note": "Direct site-restricted search in English for the central claim, named entities, and key dates in 'Amazon blocks Meta’s Muse shopping agent' found no matching fact-check page. This no-match is neutral and is not evidence that the claim is true."
-      },
-      {
-        "provider": "Google Fact Check Tools",
-        "url": "https://toolbox.google.com/factcheck/explorer",
-        "finding": "inconclusive",
-        "note": "The Explorer homepage was checked through indexed search, but the claims:search API returned HTTP 403 without an API key; this is incomplete coverage, not a no-match and not evidence of truth."
-      }
-    ],
-    "caveat": "Evidence-confidence estimate based on the complete source context, attribution review, direct fact-check-source searches, and the absence of a contradictory finding; no-match results are neutral, and this score is not a calibrated probability or guarantee."
   }
 }

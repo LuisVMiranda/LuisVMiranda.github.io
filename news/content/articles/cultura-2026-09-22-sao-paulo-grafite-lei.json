@@ -1,0 +1,118 @@
+{
+  "id": "cultura-2026-09-22-sao-paulo-grafite-lei",
+  "slug": "cultura-2026-09-22-sao-paulo-grafite-lei",
+  "section": "cultura",
+  "secondarySections": [],
+  "publishedAt": "2026-09-21T23:34:00-03:00",
+  "updatedAt": "2026-09-22T13:17:34.573Z",
+  "sources": [
+    {
+      "name": "Agência Brasil",
+      "url": "https://agenciabrasil.ebc.com.br/radioagencia-nacional/cultura/audio/2026-09/sao-paulo-tem-nova-lei-de-fomento-ao-grafite-e-arte-de-rua"
+    }
+  ],
+  "rights": {
+    "mode": "original-report"
+  },
+  "translations": {
+    "pt-BR": {
+      "title": "São Paulo cria programa público de fomento ao grafite e à arte de rua",
+      "summary": "A Lei Alex Vallauri institui o Museu de Arte de Rua e prevê espaços, editais e recursos públicos para expressões urbanas.",
+      "aiSummary": [
+        "A lei foi sancionada em 16 de setembro após seis anos de tramitação.",
+        "O programa contempla grafite, instalações, murais, esculturas e projeções em espaços urbanos.",
+        "As ações poderão receber apoio por editais, cessão de espaços, fundos municipais e convênios."
+      ],
+      "paragraphs": [
+        "São Paulo passou a ter uma legislação específica para incentivar o grafite e outras formas de arte de rua. A Lei Alex Vallauri, batizada em homenagem a um dos pioneiros do grafite no Brasil, criou o programa Museu de Arte de Rua, conhecido como MAR, para apoiar essa produção na cidade.",
+        "A capital já era associada a galerias urbanas como o Beco do Batman e as empenas do Elevado Presidente João Goulart, o Minhocão. Com a sanção em 16 de setembro, o trabalho realizado nesses e em outros espaços passa a ser reconhecido também por meio de políticas públicas de estímulo.",
+        "O projeto foi aprovado por unanimidade na Câmara Municipal depois de seis anos de tramitação. A iniciativa começou em 2020 na sociedade civil e foi idealizada pelo artista e produtor cultural Kleber Pagu, que relaciona o financiamento à possibilidade de os artistas se dedicarem mais à produção e à profissionalização.",
+        "O MAR abrange expressões realizadas em ambientes urbanos, como grafites, instalações, murais, esculturas e projeções. A lei permite usar equipamentos públicos para ceder espaços e incluir atividades na programação da cidade, com realização por meio de editais e curadorias.",
+        "O financiamento poderá vir de fundos municipais, convênios e outras fontes públicas. Para os formuladores da proposta, o programa também serve para ampliar o acesso à cultura e enfrentar o preconceito que historicamente associa o grafite à criminalização, criando uma referência para políticas de valorização da arte urbana."
+      ]
+    },
+    "en": {
+      "title": "São Paulo creates a public program to support graffiti and street art",
+      "summary": "The Alex Vallauri Law establishes the Street Art Museum and provides public spaces, calls and funding for urban expressions.",
+      "aiSummary": [
+        "The law was approved on September 16 after six years of legislative discussion.",
+        "The program covers graffiti, installations, murals, sculptures and projections in urban spaces.",
+        "Activities may receive support through public calls, space grants, municipal funds and agreements."
+      ],
+      "paragraphs": [
+        "São Paulo now has legislation specifically designed to support graffiti and other forms of street art. The Alex Vallauri Law, named for one of Brazil’s graffiti pioneers, created the Street Art Museum program, known as MAR, to support this work across the city.",
+        "The capital was already associated with open-air galleries such as Beco do Batman and the blank walls of the Elevado Presidente João Goulart, known as Minhocão. With the law signed on September 16, work made in those and other places is also recognized through a public support policy.",
+        "The bill passed unanimously in the city council after six years of discussion. It began as a civil-society initiative in 2020 and was conceived by artist and cultural producer Kleber Pagu, who links public funding to artists’ ability to devote more time to production and professional development.",
+        "MAR covers forms of expression made in urban settings, including graffiti, installations, murals, sculptures and projections. The law allows public facilities to provide space and include activities in the city’s cultural programming, with projects organized through public calls and curatorial processes.",
+        "Funding may come from municipal funds, agreements and other public sources. Supporters also present the program as a way to broaden access to culture and challenge the prejudice that has historically led to graffiti being criminalized, making São Paulo a reference point for policies that recognize urban art."
+      ]
+    }
+  },
+  "verification": {
+    "score": 8.5,
+    "checkedAt": "2026-09-22T12:28:07Z",
+    "checks": [
+      {
+        "provider": "Agência Brasil",
+        "url": "https://agenciabrasil.ebc.com.br/radioagencia-nacional/cultura/audio/2026-09/sao-paulo-tem-nova-lei-de-fomento-ao-grafite-e-arte-de-rua",
+        "finding": "supports",
+        "note": "Complete local extraction was HTTP 200 with complete:true and 12 body paragraphs. It supports the Alex Vallauri Law, unanimous approval, September 16 sanction, MAR scope, and public-funding mechanisms."
+      },
+      {
+        "provider": "São Paulo City Council",
+        "url": "https://www.saopaulo.sp.leg.br/atividade-legislativa/projetos-de-lei/lei-alex-vallauri-arte-urbana",
+        "finding": "context",
+        "note": "The official legislative context supports the law's subject and Alex Vallauri/MAR framework, but its legal wording authorizes the institution of the program; operational funding and implementation should not be read as already delivered."
+      },
+      {
+        "provider": "Aos Fatos",
+        "url": "https://www.aosfatos.org/",
+        "finding": "no-match",
+        "note": "No matching fact-check page surfaced for the Alex Vallauri Law, MAR, approval date, or funding claims. This no-match is neutral and is not evidence of accuracy."
+      },
+      {
+        "provider": "Agência Lupa",
+        "url": "https://www.agencialupa.org/",
+        "finding": "no-match",
+        "note": "No matching fact-check addressing the article's municipal-law claims was confirmed. The no-match is neutral."
+      },
+      {
+        "provider": "Projeto Comprova",
+        "url": "https://projetocomprova.com.br/",
+        "finding": "no-match",
+        "note": "No relevant Projeto Comprova fact-check for the São Paulo street-art law was found. The result is neutral."
+      },
+      {
+        "provider": "TSE Fato ou Boato",
+        "url": "https://www.tse.jus.br/comunicacao/noticias/fato-ou-boato",
+        "finding": "no-match",
+        "note": "No civic or election-related fact-check is relevant to this municipal cultural-policy report; no matching item was found. The no-match is neutral."
+      },
+      {
+        "provider": "AFP Fact Check",
+        "url": "https://factcheck.afp.com/",
+        "finding": "no-match",
+        "note": "No matching AFP fact-check for the law, MAR, date, or named artist was confirmed. This no-match is neutral."
+      },
+      {
+        "provider": "Reuters Fact Check",
+        "url": "https://www.reuters.com/fact-check/",
+        "finding": "no-match",
+        "note": "No matching Reuters fact-check for the article's municipal-law claims was confirmed. This no-match is neutral."
+      },
+      {
+        "provider": "Full Fact",
+        "url": "https://fullfact.org/",
+        "finding": "no-match",
+        "note": "No relevant Full Fact item addressing the São Paulo street-art policy was found. The no-match is neutral."
+      },
+      {
+        "provider": "Google Fact Check Explorer",
+        "url": "https://toolbox.google.com/factcheck/explorer",
+        "finding": "inconclusive",
+        "note": "No exact indexed ClaimReview record was confirmed in the Explorer searches used for this claim; coverage is incomplete, so this is not evidence for or against the article."
+      }
+    ],
+    "caveat": "The central legislative event is supported, but the official legal framing is more precise than the article's shorthand: it authorizes creation of the program, while future implementation and funding remain conditional."
+  }
+}

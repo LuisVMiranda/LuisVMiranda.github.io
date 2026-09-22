@@ -1,0 +1,124 @@
+{
+  "id": "anel-ia-reunioes-privacidade-2026-09-21",
+  "slug": "anel-ia-reunioes-privacidade-2026-09-21",
+  "section": "tecnologia",
+  "secondarySections": [],
+  "publishedAt": "2026-09-21T16:14:45.000-03:00",
+  "updatedAt": "2026-09-22T13:17:34.573Z",
+  "sources": [
+    {
+      "name": "Canaltech",
+      "url": "https://canaltech.com.br/produtos/anel-com-ia-grava-ate-8-horas-de-reunioes-mas-levanta-alerta-de-privacidade/"
+    }
+  ],
+  "rights": {
+    "mode": "original-report"
+  },
+  "translations": {
+    "pt-BR": {
+      "title": "Anel com IA grava reuniões, mas desafia transparência sobre consentimento",
+      "summary": "O Vocci Ring promete até oito horas de áudio, transcrição e integração com assistentes de IA, mas seu formato discreto levanta dúvidas sobre privacidade.",
+      "aiSummary": [
+        "O Vocci Ring grava até oito horas e transforma reuniões em transcrições, resumos, destaques e tarefas.",
+        "O acessório pode enviar o conteúdo para ferramentas como ChatGPT, Claude, Notion, Gmail e calendários.",
+        "A fabricante recomenda avisar os participantes, porque o indicador de gravação pode ficar voltado para o usuário."
+      ],
+      "paragraphs": [
+        "O Vocci Ring é um anel com inteligência artificial projetado para registrar reuniões e transformar conversas longas em material organizado. Segundo a reportagem, o acessório grava até oito horas de áudio contínuo, gera transcrições, resumos e pontos importantes, mas seu formato parecido com uma joia torna menos evidente para terceiros que uma captura está acontecendo.",
+        "A gravação começa com dois toques em um botão. A fabricante afirma que o microfone consegue registrar vozes a até cinco metros e que o aparelho pode operar por até oito horas. O sistema foi pensado para dispensar o celular sobre a mesa, concentrando a captura em um dispositivo pequeno e discreto.",
+        "O anel também pode levar o material para outros serviços. Por meio do Model Context Protocol, a proposta é compartilhar transcrições, resumos, destaques e tarefas com assistentes como ChatGPT e Claude. A fabricante cita ainda a possibilidade de transformar o conteúdo de uma conversa em tarefas no Notion, mensagens no Gmail ou compromissos de calendário.",
+        "O dispositivo tem acabamento de titânio, pesa entre 3 e 5 gramas conforme o tamanho e traz certificação IP67. A construção inclui Bluetooth 5.4, motor de vibração, luz indicadora e uma bateria que pode chegar a dois dias de uso regular; o estojo permite até três recargas e alcança 80% em cerca de 30 minutos.",
+        "A principal dúvida está na transparência da gravação. O anel vibra e acende uma luz quando começa a capturar, mas o LED fica voltado para quem o usa, o que pode dificultar a percepção dos demais participantes. A Vocci recomenda avisar as pessoas antes de gravar, e a reportagem ressalta que as exigências de consentimento variam conforme a legislação e o contexto."
+      ]
+    },
+    "en": {
+      "title": "AI ring records meetings but raises consent concerns",
+      "summary": "The Vocci Ring promises up to eight hours of audio, transcription, and AI-assistant integrations, but its discreet design raises privacy questions.",
+      "aiSummary": [
+        "Vocci Ring records up to eight hours and turns meetings into transcripts, summaries, highlights, and tasks.",
+        "The accessory can send the material to tools including ChatGPT, Claude, Notion, Gmail, and calendars.",
+        "The maker recommends notifying participants because the recording indicator may face the wearer."
+      ],
+      "paragraphs": [
+        "Vocci Ring is an artificial-intelligence ring designed to record meetings and turn long conversations into organized material. According to the report, the accessory records up to eight hours of continuous audio and produces transcripts, summaries, and key points, but its jewelry-like form makes it less obvious to other people that recording is taking place.",
+        "Recording starts with two taps on a button. The manufacturer says the microphone can capture voices from up to five meters away and that the device can record for up to eight hours. The design is intended to remove the need to place a phone on the table, concentrating capture in a small and discreet device.",
+        "The ring can also send the material to other services. Through the Model Context Protocol, it is designed to share transcripts, summaries, highlights, and tasks with assistants such as ChatGPT and Claude. The maker also cites turning conversation content into Notion tasks, Gmail messages, or calendar appointments.",
+        "The device has a titanium finish, weighs between 3 and 5 grams depending on size, and carries an IP67 rating. Its components include Bluetooth 5.4, a vibration motor, an indicator light, and a battery that can last up to two days in regular use; the case can recharge the ring three times and reach 80 percent in about 30 minutes.",
+        "The central question concerns recording transparency. The ring vibrates and lights up when capture begins, but the LED faces the wearer, which may make it harder for other participants to notice. Vocci recommends notifying people before recording, and the report notes that consent requirements vary with the law and the context."
+      ]
+    }
+  },
+  "verification": {
+    "score": 8.5,
+    "checkedAt": "2026-09-22T13:01:26Z",
+    "checks": [
+      {
+        "provider": "Canaltech",
+        "url": "https://canaltech.com.br/produtos/anel-com-ia-grava-ate-8-horas-de-reunioes-mas-levanta-alerta-de-privacidade/",
+        "finding": "supports",
+        "note": "Complete local extraction was status 200 with complete:true and supports the product's reported recording time, integrations, hardware specifications, price and privacy qualification, with manufacturer claims identified as such."
+      },
+      {
+        "provider": "Vocci",
+        "url": "https://vocci.ai/blogs/news/ai-note-taking-ring-vocci-launch",
+        "finding": "supports",
+        "note": "The manufacturer's launch material supports up to eight hours of continuous recording, five-meter pickup, IP67 protection and integrations with productivity services; these remain company claims."
+      },
+      {
+        "provider": "Vocci product specifications",
+        "url": "https://vocci.ai/zh/products/vocci-ring",
+        "finding": "supports",
+        "note": "The official product page supports the titanium build, 3-to-5-gram weight range, Bluetooth 5.4, two-day regular use, three case charges and 80% charging in 30 minutes."
+      },
+      {
+        "provider": "Aos Fatos",
+        "url": "https://www.aosfatos.org/",
+        "finding": "no-match",
+        "note": "No directly matching fact-check result was found in this run; no-match is neutral and not evidence of accuracy."
+      },
+      {
+        "provider": "Agência Lupa",
+        "url": "https://www.agencialupa.org/",
+        "finding": "no-match",
+        "note": "No directly matching fact-check result was found in this run; no-match is neutral and not evidence of accuracy."
+      },
+      {
+        "provider": "Projeto Comprova",
+        "url": "https://projetocomprova.com.br/",
+        "finding": "no-match",
+        "note": "No directly matching fact-check result was found in this run; no-match is neutral and not evidence of accuracy."
+      },
+      {
+        "provider": "TSE Fato ou Boato",
+        "url": "https://www.tse.jus.br/comunicacao/noticias/fato-ou-boato",
+        "finding": "no-match",
+        "note": "No directly matching fact-check result was found in this run; no-match is neutral and not evidence of accuracy."
+      },
+      {
+        "provider": "AFP Fact Check",
+        "url": "https://factcheck.afp.com/",
+        "finding": "no-match",
+        "note": "No directly matching fact-check result was found in this run; no-match is neutral and not evidence of accuracy."
+      },
+      {
+        "provider": "Reuters Fact Check",
+        "url": "https://www.reuters.com/fact-check/",
+        "finding": "no-match",
+        "note": "No directly matching fact-check result was found in this run; no-match is neutral and not evidence of accuracy."
+      },
+      {
+        "provider": "Full Fact",
+        "url": "https://fullfact.org/",
+        "finding": "no-match",
+        "note": "No directly matching fact-check result was found in this run; no-match is neutral and not evidence of accuracy."
+      },
+      {
+        "provider": "Google Fact Check Tools",
+        "url": "https://toolbox.google.com/factcheck/explorer",
+        "finding": "inconclusive",
+        "note": "No exact ClaimReview record was verified in the public Explorer search; absence of a confirmed record is not evidence for or against the article."
+      }
+    ],
+    "caveat": "Specifications, recording range, battery, integrations and price are manufacturer claims. The article appropriately frames consent and notice as context-dependent privacy concerns and does not make a legal conclusion."
+  }
+}

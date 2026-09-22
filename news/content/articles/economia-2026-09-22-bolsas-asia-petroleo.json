@@ -1,0 +1,112 @@
+{
+  "id": "economia-2026-09-22-bolsas-asia-petroleo",
+  "slug": "economia-2026-09-22-bolsas-asia-petroleo",
+  "section": "economia",
+  "secondarySections": [],
+  "publishedAt": "2026-09-22T07:32:43-03:00",
+  "updatedAt": "2026-09-22T13:17:34.573Z",
+  "sources": [
+    {
+      "name": "CNN Brasil",
+      "url": "https://www.cnnbrasil.com.br/economia/money/mercado/bolsas-da-asia-fecham-perto-da-estabilidade-com-recuperacao-do-petroleo/"
+    }
+  ],
+  "rights": {
+    "mode": "original-report"
+  },
+  "translations": {
+    "pt-BR": {
+      "title": "Bolsas asiáticas fecham perto da estabilidade com petróleo em recuperação",
+      "summary": "Mercados da Ásia oscilaram pouco após o rali em Wall Street, enquanto o petróleo reagiu depois de quatro sessões de queda.",
+      "aiSummary": [
+        "O Kospi subiu 0,15%, o Hang Seng avançou 0,18% e o Taiex ganhou 0,17%.",
+        "O Xangai Composto teve alta de 0,06%, enquanto o Shenzhen Composto caiu 0,01%.",
+        "O Brent avançava cerca de 1% após quatro quedas, em meio a riscos de oferta e expectativa diplomática."
+      ],
+      "paragraphs": [
+        "As bolsas asiáticas encerraram a terça-feira, 22 de setembro, próximas da estabilidade. A recuperação dos preços do petróleo depois de perdas recentes contrabalançou o efeito do forte avanço das bolsas de Nova York no pregão anterior.",
+        "Em Seul, o Kospi subiu 0,15%, para 7.017,91 pontos. O Hang Seng avançou 0,18% em Hong Kong, a 25.087,75 pontos, e o Taiex ganhou 0,17% em Taiwan, a 47.800,17 pontos. O mercado acionário japonês permaneceu fechado por causa de feriados e só deveria reabrir na quinta-feira.",
+        "Na China continental, o Xangai Composto teve alta de 0,06%, aos 3.952,13 pontos. O Shenzhen Composto ficou praticamente estável, com baixa marginal de 0,01%, aos 2.538,64 pontos. O quadro reforçou a leitura de uma sessão asiática sem direção única, apesar do impulso vindo de Wall Street.",
+        "O petróleo voltou a subir após quatro pregões de queda. A reportagem relacionou o movimento a riscos elevados para a oferta física no Oriente Médio e à possibilidade de avanços diplomáticos à margem da Assembleia Geral da ONU, em Nova York. No fim da madrugada, o Brent avançava cerca de 1%.",
+        "Entre ações individuais, a Tencent saltou 5,02% em Hong Kong depois de lançar um novo modelo de geração de imagens, enquanto a Alibaba subiu 1,95% no dia de sua conferência anual de inteligência artificial. Na Austrália, o S&P/ASX 200 ganhou 0,30%, a 8.757,80 pontos, mantendo o tom moderado predominante na região."
+      ]
+    },
+    "en": {
+      "title": "Asian stocks end near flat as oil prices recover",
+      "summary": "Asian markets moved little after Wall Street’s rally, while oil recovered following four sessions of declines.",
+      "aiSummary": [
+        "The Kospi rose 0.15%, the Hang Seng gained 0.18% and the Taiex advanced 0.17%.",
+        "The Shanghai Composite added 0.06%, while the Shenzhen Composite slipped 0.01%.",
+        "Brent was up about 1% after four declines amid supply risks and diplomatic expectations."
+      ],
+      "paragraphs": [
+        "Asian stocks ended Tuesday, September 22, close to flat. A recovery in oil prices after recent losses offset the effect of a strong advance in New York markets during the previous session.",
+        "In Seoul, the Kospi rose 0.15% to 7,017.91 points. Hong Kong’s Hang Seng gained 0.18% to 25,087.75, while Taiwan’s Taiex added 0.17% to 47,800.17. Japan’s stock market remained closed because of holidays and was scheduled to reopen on Thursday.",
+        "On mainland China, the Shanghai Composite edged up 0.06% to 3,952.13 points. The Shenzhen Composite was nearly unchanged, slipping 0.01% to 2,538.64 points. The figures described a mixed Asian session despite the momentum from Wall Street.",
+        "Oil prices turned higher after four sessions of losses. The report linked the move to elevated risks to physical supply in the Middle East and the possibility of diplomatic progress on the sidelines of the U.N. General Assembly in New York. Brent was up about 1% late in the overnight session.",
+        "Among individual stocks, Tencent jumped 5.02% in Hong Kong after launching a new image-generation model, while Alibaba rose 1.95% on the day of its annual artificial-intelligence conference. In Australia, the S&P/ASX 200 gained 0.30% to 8,757.80 points, extending the region’s generally moderate tone."
+      ]
+    }
+  },
+  "verification": {
+    "score": 7.6,
+    "checkedAt": "2026-09-22T12:27:59Z",
+    "checks": [
+      {
+        "provider": "CNN Brasil",
+        "url": "https://www.cnnbrasil.com.br/economia/money/mercado/bolsas-da-asia-fecham-perto-da-estabilidade-com-recuperacao-do-petroleo/",
+        "finding": "supports",
+        "note": "Complete HTTP-200 extraction supports the time-specific market report: Kospi +0.15%, Hang Seng +0.18%, Taiex +0.17%, Shanghai +0.06%, Shenzhen -0.01%, Brent about +1% after four declines, Tencent +5.02%, Alibaba +1.95%, ASX 200 +0.30%, with Japan closed for a holiday."
+      },
+      {
+        "provider": "Aos Fatos",
+        "url": "https://www.aosfatos.org/",
+        "finding": "no-match",
+        "note": "Exact-claim and meaningful-variant searches in Portuguese found no matching fact-check verdict; no-match is neutral and is not evidence that the market figures are true."
+      },
+      {
+        "provider": "Agência Lupa",
+        "url": "https://www.agencialupa.org/",
+        "finding": "no-match",
+        "note": "Exact-claim and meaningful-variant searches in Portuguese found no matching fact-check verdict; no-match is neutral and is not evidence that the market figures are true."
+      },
+      {
+        "provider": "Projeto Comprova",
+        "url": "https://projetocomprova.com.br/",
+        "finding": "no-match",
+        "note": "Exact-claim and meaningful-variant searches in Portuguese found no matching fact-check verdict; no-match is neutral and is not evidence that the market figures are true."
+      },
+      {
+        "provider": "TSE Fato ou Boato",
+        "url": "https://www.tse.jus.br/comunicacao/noticias/fato-ou-boato",
+        "finding": "no-match",
+        "note": "No election or civic-process fact-check was relevant to this Asian-markets report; the result is neutral."
+      },
+      {
+        "provider": "AFP Fact Check",
+        "url": "https://factcheck.afp.com/",
+        "finding": "no-match",
+        "note": "Exact-claim and English-variant searches found no matching fact-check verdict for the dated index and oil-price snapshot; no-match is neutral."
+      },
+      {
+        "provider": "Reuters Fact Check",
+        "url": "https://www.reuters.com/fact-check/",
+        "finding": "no-match",
+        "note": "Exact-claim and English-variant searches found no matching fact-check verdict for the dated index and oil-price snapshot; no-match is neutral."
+      },
+      {
+        "provider": "Full Fact",
+        "url": "https://fullfact.org/",
+        "finding": "no-match",
+        "note": "Exact-claim and English-variant searches found no matching fact-check verdict for the dated index and oil-price snapshot; no-match is neutral."
+      },
+      {
+        "provider": "Google Fact Check Tools",
+        "url": "https://toolbox.google.com/factcheck/explorer",
+        "finding": "inconclusive",
+        "note": "Web-indexed Explorer searches did not surface a matching ClaimReview record; API coverage was unavailable in this run, so this is not a no-match or truth finding."
+      }
+    ],
+    "caveat": "This is a contemporaneous market snapshot. The complete source supports the listed figures and date, but no independent fact-check verdict or independent full extraction was found; no-match results are neutral."
+  }
+}

@@ -1,0 +1,107 @@
+{
+  "id": "mundo-2026-09-22-g7-exige-fim-apoio-houthis",
+  "slug": "mundo-2026-09-22-g7-exige-fim-apoio-houthis",
+  "section": "mundo",
+  "secondarySections": [],
+  "publishedAt": "2026-09-22T07:14:12.616Z",
+  "publishedDate": "2026-09-22",
+  "updatedAt": "2026-09-22T13:17:34.573Z",
+  "sources": [
+    {
+      "name": "BBC News",
+      "url": "https://www.bbc.com/news/articles/cwm2qpmepmlzo"
+    }
+  ],
+  "rights": {
+    "mode": "original-report"
+  },
+  "translations": {
+    "pt-BR": {
+      "title": "G7 exige que Irã pare de armar os houthis no Iêmen",
+      "summary": "Ministros das Relações Exteriores do G7 condenaram os ataques houthis contra a Arábia Saudita e disseram que a escalada ameaça a segurança energética global.",
+      "aiSummary": [
+        "O G7 pediu que o Irã encerre o fornecimento de armas e o apoio aos houthis no Iêmen.",
+        "A escalada alcançou a costa do Mar Vermelho e a região do estreito de Bab al-Mandab, rota importante para o transporte marítimo.",
+        "A ONU estima que mais de 120 mil iemenitas foram deslocados pela nova onda de combates."
+      ],
+      "paragraphs": [
+        "Os ministros das Relações Exteriores do G7 pediram que o Irã encerre o armamento e o apoio aos houthis no Iêmen, segundo uma declaração conjunta divulgada antes da Assembleia Geral da ONU. O grupo também condenou os ataques houthis contra a Arábia Saudita.",
+        "A BBC informou que a declaração classificou a escalada contra forças do governo apoiadas pelos sauditas como uma ameaça à segurança energética regional e global. Milhares de refugiados fugiram depois que os houthis tomaram áreas da costa do Mar Vermelho próximas ao estreito de Bab al-Mandab.",
+        "O G7 pediu que os houthis interrompam imediatamente ações militares, ameaças e ataques contra navios civis e retornem de boa-fé ao processo político. Os ministros reafirmaram apoio ao governo legítimo do Iêmen e à unidade, soberania, independência e integridade territorial do país.",
+        "A reportagem registrou que pelo menos seis pessoas morreram em ataques sauditas contra a cidade portuária de Mokha, de acordo com a AFP, que citou meios ligados aos houthis. O relato também apontou oito feridos e informou que a Arábia Saudita ainda não havia comentado; a ONU estima mais de 120 mil deslocados pela escalada.",
+        "A resposta regional já envolve apoio militar defensivo britânico para a Arábia Saudita e uma promessa francesa de ajudar a proteger a infraestrutura energética. O conflito começou a se intensificar depois do rompimento de um cessar-fogo informal de quatro anos, quando os houthis anunciaram um embargo marítimo e passaram a atacar aeroportos, instalações de petróleo e navios ligados aos sauditas."
+      ]
+    },
+    "en": {
+      "title": "G7 demands Iran stop arming Yemen’s Houthis",
+      "summary": "G7 foreign ministers condemned Houthi attacks on Saudi Arabia and said the escalation threatens regional and global energy security.",
+      "aiSummary": [
+        "The G7 called on Iran to end its arming and support of the Houthis in Yemen.",
+        "The escalation reached the Red Sea coast and the Bab al-Mandab Strait, an important maritime route.",
+        "The U.N. estimates that more than 120,000 Yemenis have been displaced by the renewed fighting."
+      ],
+      "paragraphs": [
+        "G7 foreign ministers called on Iran to end its arming and support of the Houthis in Yemen, according to a joint statement issued ahead of the U.N. General Assembly. The group also condemned Houthi attacks on Saudi Arabia.",
+        "The BBC reported that the statement described the escalation against Saudi-backed government forces as a threat to regional and global energy security. Thousands of refugees have fled after the Houthis seized parts of the Red Sea coast near the Bab al-Mandab Strait.",
+        "The G7 urged the Houthis to immediately stop military actions, threats and attacks on civilian shipping and return to the political process in good faith. The ministers reaffirmed support for Yemen’s legitimate government and for the country’s unity, sovereignty, independence and territorial integrity.",
+        "The report said at least six people were killed in Saudi strikes on the port city of Mokha, citing AFP and Houthi-affiliated media. It also reported eight wounded and said Saudi Arabia had not commented; the U.N. estimates that more than 120,000 people have been displaced by the escalation.",
+        "The regional response already includes limited British defensive military support for Saudi Arabia and a French pledge to help secure energy infrastructure. The conflict intensified after a four-year informal ceasefire began to unravel, when the Houthis announced a maritime embargo and began attacking Saudi-linked airports, oil facilities and shipping."
+      ]
+    }
+  },
+  "verification": {
+    "score": 8.7,
+    "checkedAt": "2026-09-22T12:25:05Z",
+    "checks": [
+      {
+        "provider": "BBC News",
+        "url": "https://www.bbc.com/news/articles/cwm2qpmepmlzo",
+        "finding": "supports",
+        "note": "Complete source extraction directly reports the G7 demand that Iran end arming and supporting the Houthis, the condemnation of attacks, the shipping-security concern and the attributed casualty and displacement figures."
+      },
+      {
+        "provider": "UK Government",
+        "url": "https://www.gov.uk/government/news/uk-military-support-to-the-kingdom-of-saudi-arabia",
+        "finding": "supports",
+        "note": "The official UK release corroborates the defensive support to Saudi Arabia described in the report; it supports that policy detail, not the independently attributed Mokha casualty count."
+      },
+      {
+        "provider": "Aos Fatos",
+        "url": "https://www.aosfatos.org/",
+        "finding": "no-match",
+        "note": "No directly matching Portuguese fact-check of the current G7 statement or the article's central event was found; no-match is neutral."
+      },
+      {
+        "provider": "Agência Lupa",
+        "url": "https://www.agencialupa.org/",
+        "finding": "no-match",
+        "note": "No directly matching Lupa fact-check was found for the current Yemen escalation and G7 statement; no-match is not evidence of accuracy."
+      },
+      {
+        "provider": "AFP Fact Check",
+        "url": "https://factcheck.afp.com/",
+        "finding": "no-match",
+        "note": "No directly matching AFP fact-check for the current G7 statement or its central Yemen claims was confirmed; no-match is neutral."
+      },
+      {
+        "provider": "Reuters Fact Check",
+        "url": "https://www.reuters.com/fact-check/",
+        "finding": "no-match",
+        "note": "No directly matching Reuters Fact Check result was confirmed for the G7 statement, current casualty report or displacement estimate; no-match is neutral."
+      },
+      {
+        "provider": "Full Fact",
+        "url": "https://fullfact.org/",
+        "finding": "no-match",
+        "note": "No directly matching Full Fact result for the current G7 statement or Yemen escalation was confirmed; no-match is neutral."
+      },
+      {
+        "provider": "Google Fact Check Explorer",
+        "url": "https://toolbox.google.com/factcheck/explorer",
+        "finding": "no-match",
+        "note": "No exact ClaimReview record for the central G7-demand claim was confirmed in the public explorer search; no-match is neutral."
+      }
+    ],
+    "caveat": "The G7 demand and British defensive-support elements are corroborated. The six-dead/eight-wounded report is attributed to AFP citing Houthi-affiliated media, and the more-than-120,000 displacement figure is attributed to the UN; those details were not independently resolved here."
+  }
+}

@@ -1,0 +1,113 @@
+{
+  "id": "politica-2026-09-22-lula-trump-reciprocidade",
+  "slug": "politica-2026-09-22-lula-trump-reciprocidade",
+  "section": "politica",
+  "secondarySections": [],
+  "publishedAt": "2026-09-21T16:36:10.875-03:00",
+  "publishedDate": "2026-09-21",
+  "updatedAt": "2026-09-22T13:17:34.573Z",
+  "sources": [
+    {
+      "name": "G1",
+      "url": "https://g1.globo.com/politica/eleicoes/2026/noticia/2026/09/21/nos-eua-lula-diz-que-trump-age-como-imperador-e-que-avalia-como-aplicar-reciprocidade-se-negociacao-do-tarifaco-nao-avancar.ghtml"
+    }
+  ],
+  "rights": {
+    "mode": "original-report"
+  },
+  "translations": {
+    "pt-BR": {
+      "title": "Lula avalia reciprocidade se negociação tarifária com os EUA não avançar",
+      "summary": "Em entrevista, o presidente criticou Donald Trump, disse que prefere negociar e afirmou que o Brasil ainda não aplicou retaliações práticas.",
+      "aiSummary": [
+        "Lula disse que Trump age como um imperador e criticou a lei do mais forte.",
+        "O presidente afirmou que prefere negociar antes de aplicar reciprocidade comercial.",
+        "O Brasil acionou a Lei de Reciprocidade, mas não adotou retaliação prática."
+      ],
+      "paragraphs": [
+        "Em entrevista à CNN, o presidente Luiz Inácio Lula da Silva disse que Donald Trump age como um imperador e criticou a ideia de que os Estados Unidos possam impor suas regras a outros países.",
+        "Lula afirmou que pretende negociar a redução das sobretaxas impostas a produtos brasileiros e que não quer iniciar uma guerra tarifária. Se as conversas não avançarem, porém, disse que avaliará como aplicar reciprocidade de forma concreta.",
+        "O presidente citou a Lei de Reciprocidade aprovada por unanimidade no Congresso. O governo brasileiro formalizou o acionamento do mecanismo e abriu consultas diplomáticas, mas ainda não havia aplicado novas tarifas ou outra retaliação prática contra produtos dos Estados Unidos.",
+        "A reportagem informa que as sobretaxas norte-americanas chegam a 37,5% sobre diversas exportações brasileiras. A composição inclui uma taxa de 25% ligada à Seção 301 da Lei de Comércio dos EUA e uma alíquota adicional de 12,5%, enquanto carne bovina, café e celulose aparecem entre as isenções citadas.",
+        "Na mesma entrevista, Lula classificou como grave a ação militar dos Estados Unidos na Venezuela e defendeu eleições para que a população escolha o próximo governante. Ele também disse estar preocupado com possíveis interferências externas e afirmou que há apenas suspeitas sobre o uso de inteligência artificial no processo eleitoral brasileiro."
+      ]
+    },
+    "en": {
+      "title": "Lula considers reciprocal measures if tariff talks with U.S. fail",
+      "summary": "In an interview, the president criticized Donald Trump, said he prefers negotiations and noted that Brazil has not yet imposed practical retaliation.",
+      "aiSummary": [
+        "Lula said Trump acts like an emperor and criticized rule by the strongest.",
+        "The president said he prefers negotiations before applying trade reciprocity.",
+        "Brazil activated its Reciprocity Law but has not taken practical retaliation."
+      ],
+      "paragraphs": [
+        "In an interview with CNN, President Luiz Inácio Lula da Silva said Donald Trump acts like an emperor and criticized the idea that the United States can impose its rules on other countries.",
+        "Lula said he intends to negotiate lower surcharges on Brazilian products and does not want to start a trade war. If talks do not advance, however, he said he would assess how to apply reciprocity in concrete terms.",
+        "The president cited the Reciprocity Law approved unanimously by Congress. Brazil’s government formally activated the mechanism and opened diplomatic consultations, but had not yet imposed new tariffs or other practical retaliation against U.S. products.",
+        "The report says U.S. surcharges reach 37.5% on several Brazilian exports. The package includes a 25% measure linked to Section 301 of the U.S. Trade Act and an additional 12.5% rate, while beef, coffee and cellulose are among the listed exemptions.",
+        "In the same interview, Lula called the U.S. military action in Venezuela serious and supported elections so its population can choose the next government. He also said he was concerned about possible outside interference and that suspected artificial-intelligence influence in Brazil’s election had not been confirmed."
+      ]
+    }
+  },
+  "verification": {
+    "score": 8.2,
+    "checkedAt": "2026-09-22T12:31:03Z",
+    "checks": [
+      {
+        "provider": "G1",
+        "url": "https://g1.globo.com/politica/eleicoes/2026/noticia/2026/09/21/nos-eua-lula-diz-que-trump-age-como-imperador-e-que-avalia-como-aplicar-reciprocidade-se-negociacao-do-tarifaco-nao-avancar.ghtml",
+        "finding": "supports",
+        "note": "Complete HTTP-200 extraction with complete:true supports the attributed CNN interview, Lula's negotiation-first position, possible use of Brazil's Reciprocity Law, no practical retaliation as of publication, the 37.5% surcharge breakdown and the clearly qualified statements about Venezuela and suspected election interference."
+      },
+      {
+        "provider": "Aos Fatos",
+        "url": "https://www.aosfatos.org/",
+        "finding": "no-match",
+        "note": "Source-restricted searches surfaced related debate over why the 37.5% tariff was imposed but no directly retrievable verdict resolving the article's combined claims; no-match is neutral."
+      },
+      {
+        "provider": "Agência Lupa",
+        "url": "https://www.agencialupa.org/",
+        "finding": "no-match",
+        "note": "Portuguese searches for Lula, Trump, 37.5%, the Reciprocity Law and the CNN interview found no exact verdict resolving the article's combined claims; no-match is neutral."
+      },
+      {
+        "provider": "Projeto Comprova",
+        "url": "https://projetocomprova.com.br/",
+        "finding": "no-match",
+        "note": "No Comprova fact-check was found for the interview, 37.5% tariff total or formal Reciprocity Law activation; no-match is neutral."
+      },
+      {
+        "provider": "TSE Fato ou Boato",
+        "url": "https://www.tse.jus.br/comunicacao/noticias/fato-ou-boato",
+        "finding": "no-match",
+        "note": "No TSE verdict was found for the trade-policy report; the article separately labels election-interference allegations as suspicion, not established fact."
+      },
+      {
+        "provider": "AFP Fact Check",
+        "url": "https://factcheck.afp.com/",
+        "finding": "no-match",
+        "note": "English and Portuguese searches found no AFP verdict for Lula's interview or the 37.5% tariff package; no-match is neutral."
+      },
+      {
+        "provider": "Reuters Fact Check",
+        "url": "https://www.reuters.com/fact-check/",
+        "finding": "no-match",
+        "note": "No directly matching Reuters fact-check was found for the interview, Reciprocity Law or tariff breakdown; no-match is neutral."
+      },
+      {
+        "provider": "Full Fact",
+        "url": "https://fullfact.org/",
+        "finding": "no-match",
+        "note": "English searches found no Full Fact verdict for the Brazil-U.S. tariff claims; no-match is neutral."
+      },
+      {
+        "provider": "Google Fact Check Tools",
+        "url": "https://toolbox.google.com/factcheck/explorer",
+        "finding": "inconclusive",
+        "note": "No exact indexed ClaimReview record was confirmed, and the public claims-search API returned HTTP 403 in this run; this is not evidence for or against the article."
+      }
+    ],
+    "caveat": "The complete G1 report supports the interview, tariff figure and time-qualified retaliation status, but no independent full extraction was found for the complete package. The causal explanation for the U.S. measures and the Venezuela comments remain attributed and should not be presented as settled independent findings."
+  }
+}

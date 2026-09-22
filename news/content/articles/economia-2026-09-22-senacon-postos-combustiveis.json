@@ -1,0 +1,118 @@
+{
+  "id": "economia-2026-09-22-senacon-postos-combustiveis",
+  "slug": "economia-2026-09-22-senacon-postos-combustiveis",
+  "section": "economia",
+  "secondarySections": [],
+  "publishedAt": "2026-09-21T23:46:30+00:00",
+  "updatedAt": "2026-09-22T13:17:34.573Z",
+  "sources": [
+    {
+      "name": "Correio Braziliense",
+      "url": "https://www.correiobraziliense.com.br/economia/2026/09/7505411-senacon-abre-processos-contra-70-postos-por-aumento-abusivo.html"
+    }
+  ],
+  "rights": {
+    "mode": "original-report"
+  },
+  "translations": {
+    "pt-BR": {
+      "title": "Senacon abre 70 processos contra postos por suspeita de aumento abusivo",
+      "summary": "Órgão cita margens superiores a 70% nos alvos e dá 15 dias para defesa; denúncias chegaram a 15 estados.",
+      "aiSummary": [
+        "Os processos envolvem postos de São Paulo, Rio de Janeiro, Paraná e Espírito Santo.",
+        "A ANP informou ter recebido ao menos 330 denúncias de possíveis aumentos abusivos no país.",
+        "As empresas terão 15 dias para se defender e podem receber multas de até R$ 14 milhões."
+      ],
+      "paragraphs": [
+        "A Secretaria Nacional do Consumidor instaurou 70 processos administrativos contra postos de combustíveis de São Paulo, Rio de Janeiro, Paraná e Espírito Santo por suspeita de aumento abusivo de preços. A medida foi divulgada pela Senacon em nota na segunda-feira, 21 de setembro.",
+        "A Agência Nacional do Petróleo informou ter recebido pelo menos 330 denúncias de possíveis aumentos abusivos em postos de todo o país. Segundo a Senacon, a fiscalização identificou alta superior a 70% nas margens de lucro dos estabelecimentos que se tornaram alvo dos processos.",
+        "As empresas terão 15 dias para apresentar defesa. De acordo com os critérios do Código de Defesa do Consumidor, a decisão final pode resultar em multas de até R$ 14 milhões. A abertura dos processos, porém, não equivale a uma conclusão definitiva sobre cada estabelecimento.",
+        "As denúncias alcançaram 15 estados, e em sete deles foram identificados aumentos nas margens dos postos, segundo a nota citada. Por causa desse quadro, a Senacon convocou uma reunião emergencial com órgãos de defesa do consumidor para coordenar fiscalizações em todo o território nacional.",
+        "A reportagem relembrou fiscalizações que resultaram em multas a postos em Fortaleza e autuações em Anápolis e Criciúma. O secretário nacional do Consumidor, Ricardo Morishita, afirmou que a liberdade de preços não autoriza práticas abusivas e que a Senacon continuará acompanhando a cadeia de combustíveis."
+      ]
+    },
+    "en": {
+      "title": "Brazil’s consumer agency opens 70 cases against fuel stations over suspected price abuse",
+      "summary": "The agency cited margins above 70% at the targets and gave them 15 days to respond; complaints reached 15 states.",
+      "aiSummary": [
+        "The cases involve stations in São Paulo, Rio de Janeiro, Paraná and Espírito Santo.",
+        "Brazil’s oil regulator said it had received at least 330 complaints of possible abusive increases.",
+        "Companies have 15 days to respond and could face fines of up to R$14 million."
+      ],
+      "paragraphs": [
+        "Brazil’s National Consumer Secretariat opened 70 administrative cases against fuel stations in São Paulo, Rio de Janeiro, Paraná and Espírito Santo over suspected abusive price increases. Senacon announced the measure in a statement on Monday, September 21.",
+        "The National Agency of Petroleum said it had received at least 330 complaints of possible abusive increases at stations across Brazil. Senacon said its inspection identified increases of more than 70% in profit margins at the establishments targeted by the cases.",
+        "The companies have 15 days to submit a defense. Under the criteria of Brazil’s Consumer Defense Code, a final decision could lead to fines of up to R$14 million. Opening the cases, however, is not a final finding against each establishment.",
+        "The complaints covered 15 states, and margin increases were identified in seven of them, according to the cited statement. Senacon therefore called an emergency meeting with consumer-protection agencies to coordinate inspections across the country.",
+        "The report recalled earlier inspections that led to fines for stations in Fortaleza and citations in Anápolis and Criciúma. National Consumer Secretary Ricardo Morishita said price freedom does not authorize abusive practices and that Senacon would continue monitoring the fuel chain."
+      ]
+    }
+  },
+  "verification": {
+    "score": 9.6,
+    "checkedAt": "2026-09-22T12:27:59Z",
+    "checks": [
+      {
+        "provider": "Correio Braziliense/Agência Estado",
+        "url": "https://www.correiobraziliense.com.br/economia/2026/09/7505411-senacon-abre-processos-contra-70-postos-por-aumento-abusivo.html",
+        "finding": "supports",
+        "note": "Complete HTTP-200 extraction supports 70 administrative cases, at least 330 ANP complaints, margins above 70%, 15-day defenses, possible fines up to R$14m, complaints in 15 states and margin increases in seven."
+      },
+      {
+        "provider": "Ministério da Justiça e Segurança Pública/Senacon",
+        "url": "https://www.gov.br/mj/pt-br/assuntos/noticias/senacon-instaura-70-processos-contra-postos-por-suspeita-de-aumento-abusivo-de-combustiveis",
+        "finding": "supports",
+        "note": "Official Senacon release corroborates the 70 cases and the procedural framing that investigations concern suspected abusive increases; it does not treat opening cases as final liability."
+      },
+      {
+        "provider": "Aos Fatos",
+        "url": "https://www.aosfatos.org/",
+        "finding": "no-match",
+        "note": "Exact-claim and meaningful-variant searches in Portuguese found no matching fact-check verdict; no-match is neutral and is not evidence that every targeted station committed abuse."
+      },
+      {
+        "provider": "Agência Lupa",
+        "url": "https://www.agencialupa.org/",
+        "finding": "no-match",
+        "note": "Exact-claim and meaningful-variant searches in Portuguese found no matching fact-check verdict; no-match is neutral and is not evidence that every targeted station committed abuse."
+      },
+      {
+        "provider": "Projeto Comprova",
+        "url": "https://projetocomprova.com.br/",
+        "finding": "no-match",
+        "note": "Exact-claim and meaningful-variant searches in Portuguese found no matching fact-check verdict; no-match is neutral and is not evidence that every targeted station committed abuse."
+      },
+      {
+        "provider": "TSE Fato ou Boato",
+        "url": "https://www.tse.jus.br/comunicacao/noticias/fato-ou-boato",
+        "finding": "no-match",
+        "note": "No election or civic-process fact-check was relevant to the Senacon enforcement report; the result is neutral."
+      },
+      {
+        "provider": "AFP Fact Check",
+        "url": "https://factcheck.afp.com/",
+        "finding": "no-match",
+        "note": "English and Portuguese variant searches found no matching fact-check verdict for the Senacon process counts; no-match is neutral."
+      },
+      {
+        "provider": "Reuters Fact Check",
+        "url": "https://www.reuters.com/fact-check/",
+        "finding": "no-match",
+        "note": "English and Portuguese variant searches found no matching fact-check verdict for the Senacon process counts; no-match is neutral."
+      },
+      {
+        "provider": "Full Fact",
+        "url": "https://fullfact.org/",
+        "finding": "no-match",
+        "note": "English and Portuguese variant searches found no matching fact-check verdict for the Senacon process counts; no-match is neutral."
+      },
+      {
+        "provider": "Google Fact Check Tools",
+        "url": "https://toolbox.google.com/factcheck/explorer",
+        "finding": "inconclusive",
+        "note": "Web-indexed Explorer searches did not surface a matching ClaimReview record; API coverage was unavailable in this run, so this is not a no-match or truth finding."
+      }
+    ],
+    "caveat": "The official Senacon release and complete report align on the counts and procedural safeguards. The article correctly distinguishes administrative investigations from final findings and possible fines."
+  }
+}

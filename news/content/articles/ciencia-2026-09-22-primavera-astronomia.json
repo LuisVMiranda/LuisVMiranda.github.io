@@ -1,0 +1,113 @@
+{
+  "id": "ciencia-2026-09-22-primavera-astronomia",
+  "slug": "ciencia-2026-09-22-primavera-astronomia",
+  "section": "ciencia",
+  "secondarySections": [],
+  "publishedAt": "2026-09-22T00:00:00-03:00",
+  "publishedDate": "2026-09-22",
+  "updatedAt": "2026-09-22T13:17:34.573Z",
+  "sources": [
+    {
+      "name": "Ministério da Ciência, Tecnologia e Inovação",
+      "url": "https://www.gov.br/mcti/pt-br/acompanhe-o-mcti/noticias/noticias-julho-outubro-2026/primavera-2026-ciencia-explica-as-mudancas-na-vegetacao-nas-temperaturas-e-nas-chuvas"
+    }
+  ],
+  "rights": {
+    "mode": "original-report"
+  },
+  "translations": {
+    "pt-BR": {
+      "title": "Primavera começa em 22 de setembro com instante calculado pela astronomia",
+      "summary": "O MCTI explica como a órbita e a inclinação da Terra definem a estação e descreve a transição para mais chuva em partes do Brasil.",
+      "aiSummary": [
+        "A primavera começa em 22 de setembro de 2026, às 21h05 em Brasília.",
+        "A estação depende da posição orbital da Terra e da inclinação do seu eixo.",
+        "O INPE descreve transição gradual para mais chuvas em partes do Brasil."
+      ],
+      "paragraphs": [
+        "A primavera de 2026 começa oficialmente em 22 de setembro, às 21h05 no horário de Brasília, e termina em 21 de dezembro. O instante é definido pela posição exata da Terra em sua órbita, e não apenas por uma data fixa do calendário.",
+        "A inclinação do eixo terrestre e o movimento de translação fazem com que diferentes regiões recebam quantidades distintas de luz e calor ao longo do ano. Essas mudanças ajudam a explicar o florescimento de espécies e alterações no comportamento de animais.",
+        "Segundo a astrônoma Josina Nascimento, do Observatório Nacional, o eixo inclinado mantém sua direção enquanto a Terra orbita o Sol. Assim, os raios solares incidem de forma diferente sobre cada parte do planeta ao longo da trajetória.",
+        "Para o meteorologista Fábio Rocha, do Instituto Nacional de Pesquisas Espaciais, a estação marca uma transição gradual do período seco para meses com mais chuva no Sudeste, Centro-Oeste e Centro-Norte, sobretudo a partir de outubro.",
+        "As precipitações tendem a ocorrer em pancadas localizadas, que podem trazer raios, rajadas de vento e eventualmente granizo. O material recomenda acompanhar previsões, avisos meteorológicos e orientações da Defesa Civil, além de manter hidratação em períodos quentes e secos."
+      ]
+    },
+    "en": {
+      "title": "Spring begins on September 22 at an instant calculated by astronomy",
+      "summary": "Brazil’s science ministry explains how Earth’s orbit and tilt define the season and describes a shift toward more rain in parts of the country.",
+      "aiSummary": [
+        "Spring begins in Brazil on September 22, 2026, at 9:05 p.m. Brasília time.",
+        "The season depends on Earth’s orbital position and axial tilt.",
+        "INPE describes a gradual shift toward more rain in parts of Brazil."
+      ],
+      "paragraphs": [
+        "The 2026 spring season officially begins on September 22 at 9:05 p.m. Brasília time and ends on December 21. The instant is defined by Earth’s exact orbital position, not simply by a fixed calendar date.",
+        "Earth’s axial tilt and its orbital motion cause different regions to receive different amounts of light and heat throughout the year. Those changes help explain flowering and shifts in animal behavior.",
+        "Astronomer Josina Nascimento of Brazil’s National Observatory says Earth’s tilted axis keeps pointing in the same direction as the planet orbits the Sun. Solar rays therefore reach different parts of the planet differently along the orbit.",
+        "Meteorologist Fábio Rocha of Brazil’s National Institute for Space Research describes a gradual transition from the dry season to wetter months in the Southeast, Center-West and Center-North, especially from October onward.",
+        "Rain is expected mainly in localized showers that can bring lightning, wind gusts and occasional hail. The report advises following forecasts, weather alerts and Civil Defense guidance, while maintaining hydration during hot and dry periods."
+      ]
+    }
+  },
+  "verification": {
+    "score": 9,
+    "checkedAt": "2026-09-22T12:31:55Z",
+    "checks": [
+      {
+        "provider": "Ministério da Ciência, Tecnologia e Inovação",
+        "url": "https://www.gov.br/mcti/pt-br/acompanhe-o-mcti/noticias/noticias-julho-outubro-2026/primavera-2026-ciencia-explica-as-mudancas-na-vegetacao-nas-temperaturas-e-nas-chuvas",
+        "finding": "supports",
+        "note": "The complete official MCTI article directly confirms the September 22, 2026 21:05 Brasília equinox time, the orbital/axial explanation and the attributed seasonal rainfall transition."
+      },
+      {
+        "provider": "Aos Fatos",
+        "url": "https://www.aosfatos.org/",
+        "finding": "no-match",
+        "note": "Site-restricted searches for the 2026 spring start, 21:05 Brasília and the MCTI/INPE seasonal explanation found no directly matching fact-check; no-match is neutral."
+      },
+      {
+        "provider": "Agência Lupa",
+        "url": "https://www.agencialupa.org/",
+        "finding": "no-match",
+        "note": "Searches for the equinox time and Brazil seasonal-transition claim found no directly matching fact-check; no-match is neutral."
+      },
+      {
+        "provider": "Projeto Comprova",
+        "url": "https://projetocomprova.com.br/",
+        "finding": "no-match",
+        "note": "Searches for the 2026 spring/equinox claim and the named Brazilian institutions found no directly matching fact-check; no-match is neutral."
+      },
+      {
+        "provider": "TSE Fato ou Boato",
+        "url": "https://www.tse.jus.br/comunicacao/noticias/fato-ou-boato",
+        "finding": "no-match",
+        "note": "This civic-process registry is not materially targeted to an astronomy and seasonal-weather explainer; no relevant matching fact-check was found, which is neutral."
+      },
+      {
+        "provider": "AFP Fact Check",
+        "url": "https://factcheck.afp.com/",
+        "finding": "no-match",
+        "note": "Site-restricted searches in English for the 2026 September equinox time and Brazil spring claim found no directly matching AFP fact-check; no-match is neutral."
+      },
+      {
+        "provider": "Reuters Fact Check",
+        "url": "https://www.reuters.com/fact-check/",
+        "finding": "no-match",
+        "note": "Searches for the equinox time, MCTI explanation and seasonal rainfall framing found no directly matching Reuters fact-check; no-match is neutral."
+      },
+      {
+        "provider": "Full Fact",
+        "url": "https://fullfact.org/",
+        "finding": "no-match",
+        "note": "Searches for the 2026 equinox time and the article's central seasonal-science claim found no directly matching Full Fact check; no-match is neutral."
+      },
+      {
+        "provider": "Google Fact Check Tools",
+        "url": "https://toolbox.google.com/factcheck/explorer",
+        "finding": "inconclusive",
+        "note": "The public claims:search endpoint returned HTTP 403 without an API key, so indexed ClaimReview coverage could not be confirmed; this is not evidence for or against the article."
+      }
+    ],
+    "caveat": "The official source strongly supports the astronomical explanation and exact event time. The rainfall discussion is a regional seasonal tendency and should not be read as a deterministic forecast for every location; the score is an editorial evidence estimate."
+  }
+}

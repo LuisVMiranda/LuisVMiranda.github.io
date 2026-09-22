@@ -1,0 +1,113 @@
+{
+  "id": "ciencia-2026-09-22-estim-nasa",
+  "slug": "ciencia-2026-09-22-estim-nasa",
+  "section": "ciencia",
+  "secondarySections": [],
+  "publishedAt": "2026-09-22T00:00:00-03:00",
+  "publishedDate": "2026-09-22",
+  "updatedAt": "2026-09-22T13:17:34.573Z",
+  "sources": [
+    {
+      "name": "NASA Earth Science and Technology Office",
+      "url": "https://esto.nasa.gov/estim2026/"
+    }
+  ],
+  "rights": {
+    "mode": "original-report"
+  },
+  "translations": {
+    "pt-BR": {
+      "title": "NASA reúne tecnologias para observar a Terra no ESTIM 2026",
+      "summary": "Encontro de 22 a 24 de setembro, em Chicago, apresenta projetos de sensoriamento, modelagem, autonomia e previsão.",
+      "aiSummary": [
+        "O ESTIM 2026 ocorre de 22 a 24 de setembro em Chicago.",
+        "A NASA apresenta tecnologias de sensoriamento remoto, modelagem, autonomia e sistemas de informação.",
+        "A programação inclui incêndios, água, vegetação, costas, atmosfera, nuvens e precipitação."
+      ],
+      "paragraphs": [
+        "O Earth Science Technology Interchange Meeting 2026 ocorre de 22 a 24 de setembro em Chicago, nos Estados Unidos. A reunião presencial foi formalizada pela NASA para aproximar tecnólogos, cientistas e planejadores de missões.",
+        "A programação apresenta pesquisa e desenvolvimento em instrumentos de sensoriamento remoto, plataformas, componentes, sistemas avançados de informação e modelagem para a ciência da Terra. O encontro é destinado a convidados.",
+        "No primeiro dia, as sessões cobrem gêmeos digitais, modelagem e autonomia, incluindo uso de dados da NASA por modelos de linguagem, previsão do sistema terrestre, análise de pontos de inflexão climática e decisões de missão em tempo real.",
+        "Também estão previstos blocos sobre incêndios florestais, ciclo da água, observação de neve, previsão hidrológica e apoio à decisão. Nos dias seguintes, a agenda passa por vegetação, topografia, gravidade, geodésia, zonas costeiras, composição atmosférica e nuvens.",
+        "O programa termina com tecnologias para aerossóis, convecção e precipitação, além de modelos de fundação, sensores lidar, radares atmosféricos e estruturas para tornar previsões e fluxos de trabalho de ciência da Terra mais confiáveis."
+      ]
+    },
+    "en": {
+      "title": "NASA brings Earth-observation technologies together at ESTIM 2026",
+      "summary": "The September 22–24 Chicago meeting presents projects in sensing, modeling, autonomy and prediction.",
+      "aiSummary": [
+        "ESTIM 2026 takes place September 22–24 in Chicago.",
+        "NASA is presenting remote-sensing, modeling, autonomy and information-system technologies.",
+        "The agenda covers fires, water, vegetation, coasts, atmosphere, clouds and precipitation."
+      ],
+      "paragraphs": [
+        "The 2026 Earth Science Technology Interchange Meeting runs from September 22 to 24 in Chicago, United States. NASA has designated the in-person meeting to connect technologists, scientists and mission planners.",
+        "Its program showcases research and development in remote-sensing instruments, platforms, components, advanced information systems and modeling for Earth science. Attendance is by invitation.",
+        "The first day covers digital twins, modeling and autonomy, including the use of NASA data by language models, Earth-system prediction, climate tipping-point analysis and real-time mission-science decisions.",
+        "Other sessions address wildfires, the water cycle, snow observation, hydrologic prediction and decision support. Later days move through vegetation, topography, gravity, geodesy, coastal zones, atmospheric composition and clouds.",
+        "The meeting concludes with technologies for aerosols, convection and precipitation, including foundation models, lidar sensors, atmospheric radar systems and structures intended to make Earth-science predictions and workflows more trustworthy."
+      ]
+    }
+  },
+  "verification": {
+    "score": 9.4,
+    "checkedAt": "2026-09-22T12:31:55Z",
+    "checks": [
+      {
+        "provider": "NASA Earth Science and Technology Office",
+        "url": "https://esto.nasa.gov/estim2026/",
+        "finding": "supports",
+        "note": "The focused NASA extraction directly confirms the September 22-24 Chicago dates, invitation-only status, venue, meeting purpose and the listed Earth-science technology sessions."
+      },
+      {
+        "provider": "Aos Fatos",
+        "url": "https://www.aosfatos.org/",
+        "finding": "no-match",
+        "note": "Site-restricted searches for ESTIM2026, NASA Earth Science Technology Interchange Meeting and the Chicago schedule found no directly matching fact-check; no-match is neutral."
+      },
+      {
+        "provider": "Agência Lupa",
+        "url": "https://www.agencialupa.org/",
+        "finding": "no-match",
+        "note": "Searches for ESTIM2026 and its NASA agenda found no directly matching fact-check; no-match is neutral."
+      },
+      {
+        "provider": "Projeto Comprova",
+        "url": "https://projetocomprova.com.br/",
+        "finding": "no-match",
+        "note": "Searches for the NASA ESTIM2026 event and agenda claims found no directly matching fact-check; no-match is neutral."
+      },
+      {
+        "provider": "TSE Fato ou Boato",
+        "url": "https://www.tse.jus.br/comunicacao/noticias/fato-ou-boato",
+        "finding": "no-match",
+        "note": "This civic-process registry is not materially targeted to a NASA conference schedule; no relevant matching fact-check was found, which is neutral."
+      },
+      {
+        "provider": "AFP Fact Check",
+        "url": "https://factcheck.afp.com/",
+        "finding": "no-match",
+        "note": "Site-restricted searches in English for ESTIM2026 and the NASA Earth-science meeting found no directly matching AFP fact-check; no-match is neutral."
+      },
+      {
+        "provider": "Reuters Fact Check",
+        "url": "https://www.reuters.com/fact-check/",
+        "finding": "no-match",
+        "note": "Searches for ESTIM2026, the venue and the stated NASA agenda found no directly matching Reuters fact-check; no-match is neutral."
+      },
+      {
+        "provider": "Full Fact",
+        "url": "https://fullfact.org/",
+        "finding": "no-match",
+        "note": "Searches for the NASA ESTIM2026 schedule and program found no directly matching Full Fact check; no-match is neutral."
+      },
+      {
+        "provider": "Google Fact Check Tools",
+        "url": "https://toolbox.google.com/factcheck/explorer",
+        "finding": "inconclusive",
+        "note": "The public claims:search endpoint returned HTTP 403 without an API key, so indexed ClaimReview coverage could not be confirmed; this is not evidence for or against the article."
+      }
+    ],
+    "caveat": "The primary NASA page verifies a scheduled meeting and published agenda, not attendance, completion or technical outcomes. The score reflects strong documentary support for the schedule and scope, not validation of every presentation's scientific results."
+  }
+}

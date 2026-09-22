@@ -1,0 +1,124 @@
+{
+  "id": "brasil-2026-09-22-ibge-mapas-mundi",
+  "slug": "brasil-2026-09-22-ibge-mapas-mundi",
+  "section": "brasil",
+  "secondarySections": [],
+  "publishedAt": "2026-09-21T14:29:35+00:00",
+  "updatedAt": "2026-09-22T13:17:34.573Z",
+  "sources": [
+    {
+      "name": "IBGE - Agência de Notícias",
+      "url": "https://agenciadenoticias.ibge.gov.br/agencia-noticias/2012-agencia-de-noticias/noticias/48104-colecao-de-mapas-mundi-do-ibge-ultrapassa-7-4-mil-downloads-apos-liberacao-gratuita"
+    }
+  ],
+  "rights": {
+    "mode": "original-report"
+  },
+  "translations": {
+    "pt-BR": {
+      "title": "Coleção de mapas-múndi do IBGE supera 7,4 mil downloads",
+      "summary": "Material gratuito reúne mapas publicados entre 2024 e 2026, com diferentes perspectivas cartográficas e destaque para o Brasil.",
+      "aiSummary": [
+        "A coleção gratuita de mapas-múndi do IBGE chegou a 7.408 downloads.",
+        "O material reúne mapas de 2024 a 2026 sobre o Brasil, o G20, biodiversidade e governança global.",
+        "O mapa do Brasil no Mundo G20, modelo A0, lidera os downloads, com 1.139 registros."
+      ],
+      "paragraphs": [
+        "A coleção de mapas-múndi disponibilizada gratuitamente pelo IBGE desde 7 de setembro alcançou 7.408 downloads. A iniciativa foi lançada em comemoração ao Dia da Independência do Brasil.",
+        "O conjunto reúne mapas publicados pelo instituto entre 2024 e 2026. As peças apresentam diferentes perspectivas cartográficas, colocam o Brasil em posição de destaque e abordam temas como governança global e biodiversidade.",
+        "O mapa mais baixado foi O Brasil no Mundo G20, no modelo A0, com 1.139 downloads. Na sequência aparecem o mapa de biodiversidade Species Richness 2025, modelo A0, com 1.018, e o mapa sobre o Triplo Fórum Internacional da Governança do Sul Global, modelo A0, com 929.",
+        "A série começou em 2024 com o mapa produzido para o G20, que representa o Brasil no centro da cartografia. Em 2025, o IBGE lançou uma versão com o Hemisfério Sul na parte superior; em 2026, divulgou o mapa sobre riqueza de espécies a partir de uma perspectiva centrada no Sul Global.",
+        "Segundo o instituto, os mapas também ajudam a discutir como escolhas técnicas e convenções históricas influenciam a maneira de visualizar o mundo. A coleção continua disponível para download na Loja do IBGE."
+      ]
+    },
+    "en": {
+      "title": "IBGE world-map collection surpasses 7,400 downloads",
+      "summary": "The free collection includes maps published from 2024 to 2026, with different cartographic perspectives and a focus on Brazil.",
+      "aiSummary": [
+        "IBGE's free world-map collection has reached 7,408 downloads.",
+        "The material covers maps from 2024 to 2026 on Brazil, the G20, biodiversity and global governance.",
+        "The Brazil in the G20 World map, A0 model, leads the list with 1,139 downloads."
+      ],
+      "paragraphs": [
+        "The Brazilian Institute of Geography and Statistics' world-map collection has reached 7,408 downloads since it was made freely available on September 7. The initiative was launched to mark Brazil's Independence Day.",
+        "The collection brings together maps published by the institute from 2024 through 2026. They offer different cartographic perspectives, place Brazil in a prominent position and address topics including global governance and biodiversity.",
+        "The most downloaded item was Brazil in the G20 World, A0 model, with 1,139 downloads. It was followed by the Biodiversity Species Richness 2025 map, A0 model, with 1,018, and the map on the Triple Forum for Global South Governance, A0 model, with 929.",
+        "The series began in 2024 with the G20 map, which places Brazil at the center of the cartographic representation. In 2025, IBGE released a version with the Southern Hemisphere at the top; in 2026, it published the species-richness map from a Global South-centered perspective.",
+        "The institute says the maps also encourage discussion of how technical choices and historical conventions shape the way the world is viewed. The collection remains available for download through the IBGE store."
+      ]
+    }
+  },
+  "verification": {
+    "score": 8.4,
+    "checkedAt": "2026-09-22T13:03:31Z",
+    "checks": [
+      {
+        "provider": "Agência de Notícias IBGE",
+        "url": "https://agenciadenoticias.ibge.gov.br/agencia-noticias/2012-agencia-de-noticias/noticias/48104-colecao-de-mapas-mundi-do-ibge-ultrapassa-7-4-mil-downloads-apos-liberacao-gratuita",
+        "finding": "supports",
+        "note": "The complete selected-source extraction reports 7,408 downloads, the September 7 free release, the 2024-2026 collection, the three leading maps and continuing availability."
+      },
+      {
+        "provider": "IBGE News Agency (English)",
+        "url": "https://agenciadenoticias.ibge.gov.br/en/agencia-news/2184-news-agency/news/47987-independence-day-ibge-grants-access-to-brazilian-map-of-the-world",
+        "finding": "supports",
+        "note": "An official IBGE release independently corroborates the free-access initiative and the world-map collection behind the reported download count."
+      },
+      {
+        "provider": "Brazil G20 / gov.br",
+        "url": "https://www.gov.br/g20/en/news/the-world-map-created-by-the-brazilian-institute-of-geography-and-statistics-ibge-highlights-the-g20-countries",
+        "finding": "supports",
+        "note": "An official government page corroborates the IBGE map series and its Brazil/G20-centered cartographic focus."
+      },
+      {
+        "provider": "Aos Fatos",
+        "url": "https://www.aosfatos.org/",
+        "finding": "no-match",
+        "note": "No direct fact-check verdict for the IBGE download report surfaced; no-match is neutral and not evidence of accuracy."
+      },
+      {
+        "provider": "Agência Lupa",
+        "url": "https://www.agencialupa.org/",
+        "finding": "no-match",
+        "note": "No direct Lupa verdict for the IBGE download report surfaced; no-match is neutral and does not independently recount the total."
+      },
+      {
+        "provider": "Projeto Comprova",
+        "url": "https://projetocomprova.com.br/",
+        "finding": "no-match",
+        "note": "No direct Comprova verdict for the IBGE download report surfaced; no-match is neutral and not proof of accuracy."
+      },
+      {
+        "provider": "TSE Fato ou Boato",
+        "url": "https://www.tse.jus.br/comunicacao/noticias/fato-ou-boato",
+        "finding": "no-match",
+        "note": "No direct civic-process fact-check is relevant to this IBGE public-information report; no-match is neutral."
+      },
+      {
+        "provider": "AFP Fact Check",
+        "url": "https://factcheck.afp.com/",
+        "finding": "no-match",
+        "note": "No direct AFP verdict for the IBGE download report surfaced; no-match is neutral and not evidence of accuracy."
+      },
+      {
+        "provider": "Reuters Fact Check",
+        "url": "https://www.reuters.com/fact-check/",
+        "finding": "no-match",
+        "note": "No direct Reuters verdict for the IBGE download report surfaced; no-match is neutral and not proof of truth."
+      },
+      {
+        "provider": "Full Fact",
+        "url": "https://fullfact.org/",
+        "finding": "no-match",
+        "note": "No direct Full Fact verdict for the IBGE download report surfaced; no-match is neutral and not evidence of accuracy."
+      },
+      {
+        "provider": "Google Fact Check Explorer",
+        "url": "https://toolbox.google.com/factcheck/explorer",
+        "finding": "inconclusive",
+        "note": "The public explorer interface did not yield a directly confirmable ClaimReview record for the IBGE report; the result is inconclusive, not a verdict."
+      }
+    ],
+    "caveat": "Official IBGE and government material corroborates the collection and free-access initiative; the exact 7,408 count and ranking remain tied to the dated IBGE release. This score is an evidence estimate, not a guarantee."
+  }
+}

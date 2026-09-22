@@ -1,0 +1,118 @@
+{
+  "id": "cultura-2026-09-22-burberry-london-fashion-week",
+  "slug": "cultura-2026-09-22-burberry-london-fashion-week",
+  "section": "cultura",
+  "secondarySections": ["mundo"],
+  "publishedAt": "2026-09-22T09:46:15.766Z",
+  "updatedAt": "2026-09-22T13:17:34.573Z",
+  "sources": [
+    {
+      "name": "BBC News",
+      "url": "https://www.bbc.com/news/articles/cmzxz2pe5vd0o"
+    }
+  ],
+  "rights": {
+    "mode": "original-report"
+  },
+  "translations": {
+    "pt-BR": {
+      "title": "Burberry encerra a London Fashion Week com xadrez, flores e retornos",
+      "summary": "O desfile da marca britânica combinou o xadrez tradicional com novas propostas e encerrou uma semana marcada por reestreias e tendências para 2027.",
+      "aiSummary": [
+        "Daniel Lee combinou o xadrez da Burberry com flores contrastantes e couro macio.",
+        "Alexander McQueen voltou a desfilar em Londres, e a Mulberry apresentou sua primeira coleção com Christopher Kane.",
+        "A programação destacou apostas como o estilo messy girl, referências à jardinagem, laranja e balé."
+      ],
+      "paragraphs": [
+        "A Burberry encerrou a London Fashion Week na noite de segunda-feira com uma coleção em que o diretor criativo Daniel Lee combinou o xadrez característico da marca com flores contrastantes e couro macio. A apresentação também incluiu trench coats de xadrez e suéteres com rostos sorridentes pintados à mão pela designer têxtil Celia Birtwell.",
+        "O desfile reuniu nomes conhecidos da cultura britânica. Central Cee apareceu na passarela, enquanto Romeo Beckham, Skepta, Jonathan Bailey e Rosie Huntington-Whiteley acompanharam a apresentação da primeira fila. A marca também havia registrado, no verão, crescimento de receita pela primeira vez em três anos.",
+        "A semana foi apresentada como um período de retorno e renovação para a moda britânica. A Alexander McQueen voltou a mostrar suas coleções em Londres depois de 25 anos desfilando em Paris, com criações de Seán McGirr que retomaram elementos como chifres, espartilhos de renda e vestidos com caveiras de malha metálica.",
+        "A Mulberry também retornou ao calendário depois de nove anos. A estreia de Christopher Kane na marca colocou a bolsa Baywater no centro da coleção e ampliou o uso de couro em casacos, saias e mocassins. Laura Weir, do British Fashion Council, descreveu como missão reposicionar a semana londrina como espaço para o design britânico e para o crescimento criativo e comercial.",
+        "Entre as tendências apontadas para a temporada de primavera e verão de 2027 estão o visual chamado messy girl, referências à jardinagem e silhuetas inspiradas na Grécia Antiga e no filme The Odyssey. O laranja apareceu em vários desfiles, enquanto o balé ganhou espaço em roupas e calçados, com a recomendação de procurar peças em brechós e lojas vintage para reproduzir a estética."
+      ]
+    },
+    "en": {
+      "title": "Burberry closes London Fashion Week with checks, florals and comebacks",
+      "summary": "The British label paired its signature check with new proposals and closed a week marked by designer returns and 2027 trend signals.",
+      "aiSummary": [
+        "Daniel Lee paired Burberry’s signature check with clashing florals and soft leather.",
+        "Alexander McQueen returned to London, while Mulberry presented its first collection under Christopher Kane.",
+        "The week highlighted messy-girl styling, gardening references, orange and ballet as signals for 2027."
+      ],
+      "paragraphs": [
+        "Burberry closed London Fashion Week on Monday evening with a collection in which chief designer Daniel Lee paired the label’s signature check with clashing florals and soft leather. The presentation also included check-print trench coats and smiley-face jumpers hand-painted by textile designer Celia Birtwell.",
+        "The show brought several familiar figures from British culture into the room. Central Cee appeared on the catwalk, while Romeo Beckham, Skepta, Jonathan Bailey and Rosie Huntington-Whiteley watched from the front row. The label had also reported revenue growth in the summer for the first time in three years.",
+        "The week was framed as a moment of return and renewal for British fashion. Alexander McQueen came back to London after 25 years of showing in Paris, with creative director Seán McGirr revisiting devil horns, lace corsets and chainmail skull dresses.",
+        "Mulberry also returned after a nine-year absence. Christopher Kane’s debut collection centered on the Baywater bag and used leather for coats, skirts and loafers. Laura Weir of the British Fashion Council said the wider mission was to re-establish London Fashion Week as a home for British design and an engine of creative and commercial growth.",
+        "Trend signals for spring and summer 2027 included the style described as messy girl, gardening references and silhouettes inspired by Ancient Greece and the film The Odyssey. Orange appeared across several shows, while ballet gained room in clothing and footwear, with vintage and charity shops suggested as places to find pieces that fit the look."
+      ]
+    }
+  },
+  "verification": {
+    "score": 9,
+    "checkedAt": "2026-09-22T12:28:07Z",
+    "checks": [
+      {
+        "provider": "BBC News",
+        "url": "https://www.bbc.com/news/articles/cmzxz2pe5vd0o",
+        "finding": "supports",
+        "note": "Complete local extraction was HTTP 200 with complete:true and 34 body paragraphs. It directly supports the Burberry closing show, Daniel Lee, Celia Birtwell, London returns, named attendees, and the attributed 2027 trend discussion."
+      },
+      {
+        "provider": "British Fashion Council",
+        "url": "https://www.britishfashioncouncil.co.uk/London-Fashion-Week",
+        "finding": "supports",
+        "note": "The official London Fashion Week page corroborates the event context and institutional role; it does not independently verify every runway detail, guest name, or trend forecast."
+      },
+      {
+        "provider": "Aos Fatos",
+        "url": "https://www.aosfatos.org/",
+        "finding": "no-match",
+        "note": "No matching fact-check page surfaced in exact-title, entity, and central-claim searches. This no-match is neutral and is not evidence of accuracy."
+      },
+      {
+        "provider": "Agência Lupa",
+        "url": "https://www.agencialupa.org/",
+        "finding": "no-match",
+        "note": "No matching fact-check page surfaced for the Burberry show, named designers, dates, or trend claims. This no-match is neutral, not evidence of truth."
+      },
+      {
+        "provider": "Projeto Comprova",
+        "url": "https://projetocomprova.com.br/",
+        "finding": "no-match",
+        "note": "No relevant fact-check addressing the article's central fashion-event claim was found. The result is neutral and does not raise the score."
+      },
+      {
+        "provider": "TSE Fato ou Boato",
+        "url": "https://www.tse.jus.br/comunicacao/noticias/fato-ou-boato",
+        "finding": "no-match",
+        "note": "No civic or election-related fact-check is relevant to this fashion report; no matching item was found. The no-match is neutral."
+      },
+      {
+        "provider": "AFP Fact Check",
+        "url": "https://factcheck.afp.com/",
+        "finding": "no-match",
+        "note": "No matching AFP fact-check for the Burberry event, participants, or dated trend claims was confirmed. This no-match is neutral."
+      },
+      {
+        "provider": "Reuters Fact Check",
+        "url": "https://www.reuters.com/fact-check/",
+        "finding": "no-match",
+        "note": "No matching Reuters fact-check for the article's central claim or named entities was confirmed. This no-match is neutral."
+      },
+      {
+        "provider": "Full Fact",
+        "url": "https://fullfact.org/",
+        "finding": "no-match",
+        "note": "No relevant Full Fact item addressing the London Fashion Week claims was found. The no-match is neutral and not evidence of truth."
+      },
+      {
+        "provider": "Google Fact Check Explorer",
+        "url": "https://toolbox.google.com/factcheck/explorer",
+        "finding": "inconclusive",
+        "note": "No exact indexed ClaimReview record was confirmed in the Explorer searches used for this claim; coverage is incomplete, so this is not evidence for or against the article."
+      }
+    ],
+    "caveat": "The source directly supports the event report and names, while trend language is explicitly attributed to Vogue Business/Vogue Runway commentary. The score is an editorial evidence estimate, not a probability or guarantee."
+  }
+}

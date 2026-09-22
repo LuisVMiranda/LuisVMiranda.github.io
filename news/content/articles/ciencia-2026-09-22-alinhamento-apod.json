@@ -1,0 +1,113 @@
+{
+  "id": "ciencia-2026-09-22-alinhamento-apod",
+  "slug": "ciencia-2026-09-22-alinhamento-apod",
+  "section": "ciencia",
+  "secondarySections": [],
+  "publishedAt": "2026-09-22T00:05:00-04:00",
+  "publishedDate": "2026-09-22",
+  "updatedAt": "2026-09-22T13:17:34.573Z",
+  "sources": [
+    {
+      "name": "NASA Science",
+      "url": "https://science.nasa.gov/image-article/apod-2026-september-22-chance-triple-alignment-plane-space-station-sun/"
+    }
+  ],
+  "rights": {
+    "mode": "original-report"
+  },
+  "translations": {
+    "pt-BR": {
+      "title": "NASA destaca alinhamento raro entre avião, estação espacial e Sol",
+      "summary": "Uma imagem planejada com precisão de frações de segundo registrou as silhuetas de um avião e da ISS diante do disco solar.",
+      "aiSummary": [
+        "A foto reúne manchas solares, a ISS e um avião no mesmo disco solar.",
+        "O registro foi planejado com temporização inferior a um segundo em Prasek, na República Tcheca.",
+        "A NASA descreve o avião como responsável pela ocultação parcial adicional."
+      ],
+      "paragraphs": [
+        "A imagem escolhida pela NASA para a edição de 22 de setembro do Astronomy Picture of the Day mostra o Sol com três elementos sobrepostos: manchas solares, a Estação Espacial Internacional e um avião.",
+        "O registro foi feito em junho, a partir de Prasek, na República Tcheca. As manchas solares já eram esperadas porque haviam sido observadas antes e podem durar semanas.",
+        "A Estação Espacial Internacional aparece como uma pequena estrutura escura no lado esquerdo do disco solar. A fotografia foi planejada com tempo inferior a um segundo para registrar a passagem da estação diante do Sol.",
+        "Durante a mesma exposição, um avião atravessou a cena e produziu sua própria pequena ocultação parcial do Sol. O resultado foi o alinhamento triplo descrito na legenda da NASA.",
+        "O fotógrafo estima que a chance de uma imagem solar aleatória conter as silhuetas de uma estação espacial e de um avião, a partir daquele local, seja de aproximadamente uma em 30 milhões."
+      ]
+    },
+    "en": {
+      "title": "NASA highlights a rare alignment of an airplane, space station and Sun",
+      "summary": "A photograph timed to fractions of a second captured an airplane and the ISS as silhouettes against the solar disk.",
+      "aiSummary": [
+        "The photograph combines sunspots, the ISS and an airplane on the same solar disk.",
+        "It was planned with sub-second timing in Prasek, Czech Republic.",
+        "NASA describes the airplane as creating the additional partial eclipse."
+      ],
+      "paragraphs": [
+        "NASA’s September 22 Astronomy Picture of the Day shows the Sun with three overlapping elements: sunspots, the International Space Station and an airplane.",
+        "The image was taken in June from Prasek in the Czech Republic. The sunspots were expected because they had been seen before and can last for weeks.",
+        "The International Space Station appears as a small dark structure on the left side of the solar disk. The photograph was planned with sub-second timing to record the station crossing in front of the Sun.",
+        "During the same exposure, an airplane crossed the scene and created its own small partial eclipse. The result was the triple alignment described in NASA’s caption.",
+        "The photographer estimates that a random solar image from that location would have about a one-in-30-million chance of containing silhouettes of both a space station and an airplane."
+      ]
+    }
+  },
+  "verification": {
+    "score": 9.2,
+    "checkedAt": "2026-09-22T12:31:55Z",
+    "checks": [
+      {
+        "provider": "NASA Science / APOD",
+        "url": "https://science.nasa.gov/image-article/apod-2026-september-22-chance-triple-alignment-plane-space-station-sun/",
+        "finding": "supports",
+        "note": "The focused NASA extraction directly confirms the sunspots, ISS, airplane, June capture from Prasek, sub-second planning and the photographer's approximately 30-million-to-one estimate."
+      },
+      {
+        "provider": "Aos Fatos",
+        "url": "https://www.aosfatos.org/",
+        "finding": "no-match",
+        "note": "Site-restricted searches for the NASA APOD triple-alignment claim, Prasek and the 30-million-to-one estimate found no directly matching fact-check; no-match is neutral."
+      },
+      {
+        "provider": "Agência Lupa",
+        "url": "https://www.agencialupa.org/",
+        "finding": "no-match",
+        "note": "Searches for the image event, the ISS-airplane alignment and the named location found no directly matching fact-check; no-match is neutral."
+      },
+      {
+        "provider": "Projeto Comprova",
+        "url": "https://projetocomprova.com.br/",
+        "finding": "no-match",
+        "note": "Searches for the NASA image and its central visual claim found no directly matching fact-check; no-match is neutral."
+      },
+      {
+        "provider": "TSE Fato ou Boato",
+        "url": "https://www.tse.jus.br/comunicacao/noticias/fato-ou-boato",
+        "finding": "no-match",
+        "note": "This civic-process registry is not materially targeted to an astronomy image claim; no relevant matching fact-check was found, which is neutral."
+      },
+      {
+        "provider": "AFP Fact Check",
+        "url": "https://factcheck.afp.com/",
+        "finding": "no-match",
+        "note": "Site-restricted searches in English for the APOD triple alignment and the cited odds found no directly matching AFP fact-check; no-match is neutral."
+      },
+      {
+        "provider": "Reuters Fact Check",
+        "url": "https://www.reuters.com/fact-check/",
+        "finding": "no-match",
+        "note": "Site-restricted searches for the NASA image event, Prasek and the ISS-airplane alignment found no directly matching Reuters fact-check; no-match is neutral."
+      },
+      {
+        "provider": "Full Fact",
+        "url": "https://fullfact.org/",
+        "finding": "no-match",
+        "note": "Searches for the APOD image and the triple-alignment claim found no directly matching Full Fact check; no-match is neutral."
+      },
+      {
+        "provider": "Google Fact Check Tools",
+        "url": "https://toolbox.google.com/factcheck/explorer",
+        "finding": "inconclusive",
+        "note": "The public claims:search endpoint returned HTTP 403 without an API key, so indexed ClaimReview coverage could not be confirmed; this is not evidence for or against the article."
+      }
+    ],
+    "caveat": "NASA directly supports the observed image and its stated caption. The approximately 30-million-to-one figure is the photographer's estimate, not an independently audited probability calculation; the score is an editorial evidence estimate, not a guarantee."
+  }
+}

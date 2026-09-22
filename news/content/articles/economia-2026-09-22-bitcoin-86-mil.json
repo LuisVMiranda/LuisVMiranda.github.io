@@ -1,0 +1,118 @@
+{
+  "id": "economia-2026-09-22-bitcoin-86-mil",
+  "slug": "economia-2026-09-22-bitcoin-86-mil",
+  "section": "economia",
+  "secondarySections": [],
+  "publishedAt": "2026-09-21T19:38:12-03:00",
+  "updatedAt": "2026-09-22T13:17:34.573Z",
+  "sources": [
+    {
+      "name": "CNN Brasil",
+      "url": "https://www.cnnbrasil.com.br/economia/money/mercado/bitcoin-opera-em-alta-e-chega-a-us-86-mil-maior-valor-em-7-meses/"
+    }
+  ],
+  "rights": {
+    "mode": "original-report"
+  },
+  "translations": {
+    "pt-BR": {
+      "title": "Bitcoin supera US$ 86 mil e atinge maior nível em sete meses",
+      "summary": "Criptomoeda avançou 6,45% em meio a entradas em ETFs e movimentações no mercado futuro, segundo analistas citados.",
+      "aiSummary": [
+        "O bitcoin subiu 6,45% e era negociado a US$ 86.300 por volta das 16h20 de segunda-feira.",
+        "A alta foi associada por analistas a entradas em ETFs e posições no mercado futuro.",
+        "O movimento permanece vulnerável a uma redução dos fluxos para ETFs ou à alta dos rendimentos dos Treasuries."
+      ],
+      "paragraphs": [
+        "O bitcoin superou US$ 86 mil na segunda-feira, 21 de setembro, e atingiu o maior nível em sete meses. A criptomoeda acompanhou o impulso observado no fim da semana anterior, mas a reportagem destacou que a alta ocorreu sem um fator macroeconômico único claramente dominante.",
+        "Por volta das 16h20, no horário de Brasília, o bitcoin subia 6,45%, para US$ 86.300, segundo a plataforma Binance. O ether também avançava, com alta de 5,50%, cotado a US$ 2.772,26.",
+        "Analistas ouvidos pela reportagem relacionaram o movimento principalmente às entradas em fundos negociados em bolsa e às operações no mercado futuro. A recuperação ganhou força depois que o ativo retomou US$ 80 mil e superou a região de US$ 82 mil, apontada como resistência recente.",
+        "Pedro Fontes, analista de research do Mercado Bitcoin, associou a retomada à melhora do ambiente regulatório e ao retorno dos fluxos para ETFs. Nicolai Sondergaard, da Nansen, avaliou que a alta poderia avançar se investidores de longo prazo aderissem ao movimento de compra.",
+        "O mesmo analista citado pela reportagem afirmou que a valorização continua sujeita a reversão caso diminuam as entradas nos ETFs ou os rendimentos dos Treasuries voltem a subir. As cotações e avaliações descritas são um retrato daquele pregão, não uma recomendação de investimento."
+      ]
+    },
+    "en": {
+      "title": "Bitcoin tops $86,000 at seven-month high",
+      "summary": "The cryptocurrency rose 6.45% amid ETF inflows and futures-market activity, according to analysts cited in the report.",
+      "aiSummary": [
+        "Bitcoin rose 6.45% to $86,300 at about 4:20 p.m. Brasília time on Monday.",
+        "Analysts linked the move to ETF inflows and futures-market positions.",
+        "The rally remains vulnerable if ETF inflows weaken or Treasury yields rise again."
+      ],
+      "paragraphs": [
+        "Bitcoin topped $86,000 on Monday, September 21, reaching its highest level in seven months. The cryptocurrency followed the momentum seen late the previous week, although the report said the advance was not driven by one clearly dominant macroeconomic factor.",
+        "At about 4:20 p.m. Brasília time, bitcoin was up 6.45% at $86,300, according to the Binance platform. Ether was also higher, gaining 5.50% to $2,772.26.",
+        "Analysts cited in the report mainly linked the move to inflows into exchange-traded funds and futures-market activity. The recovery strengthened after the asset reclaimed $80,000 and moved above the $82,000 area, described as a recent resistance level.",
+        "Pedro Fontes, a research analyst at Mercado Bitcoin, linked the recovery to an improved regulatory environment and renewed ETF flows. Nicolai Sondergaard of Nansen said the advance could extend if long-term investors joined the buying move.",
+        "The analyst also said the rise remained vulnerable to a reversal if ETF inflows slowed or Treasury yields moved higher again. The prices and assessments described are a snapshot of that session, not investment advice."
+      ]
+    }
+  },
+  "verification": {
+    "score": 7.5,
+    "checkedAt": "2026-09-22T12:27:59Z",
+    "checks": [
+      {
+        "provider": "CNN Brasil",
+        "url": "https://www.cnnbrasil.com.br/economia/money/mercado/bitcoin-opera-em-alta-e-chega-a-us-86-mil-maior-valor-em-7-meses/",
+        "finding": "supports",
+        "note": "Complete HTTP-200 extraction supports the market snapshot: bitcoin +6.45% at US$86,300 around 16:20 Brasília time, a seven-month high, ether +5.50% at US$2,772.26, with ETF and futures explanations attributed to analysts."
+      },
+      {
+        "provider": "Binance",
+        "url": "https://www.binance.com/en/markets",
+        "finding": "context",
+        "note": "The article attributes the 16:20 quote to Binance; the cited market page is relevant price-data context, but the historical intraday snapshot was not independently reconstructed."
+      },
+      {
+        "provider": "Aos Fatos",
+        "url": "https://www.aosfatos.org/",
+        "finding": "no-match",
+        "note": "Exact-claim and meaningful-variant searches in Portuguese found no matching fact-check verdict; no-match is neutral and is not evidence that the price snapshot is true."
+      },
+      {
+        "provider": "Agência Lupa",
+        "url": "https://www.agencialupa.org/",
+        "finding": "no-match",
+        "note": "Exact-claim and meaningful-variant searches in Portuguese found no matching fact-check verdict; no-match is neutral and is not evidence that the price snapshot is true."
+      },
+      {
+        "provider": "Projeto Comprova",
+        "url": "https://projetocomprova.com.br/",
+        "finding": "no-match",
+        "note": "Exact-claim and meaningful-variant searches in Portuguese found no matching fact-check verdict; no-match is neutral and is not evidence that the price snapshot is true."
+      },
+      {
+        "provider": "TSE Fato ou Boato",
+        "url": "https://www.tse.jus.br/comunicacao/noticias/fato-ou-boato",
+        "finding": "no-match",
+        "note": "No election or civic-process fact-check was relevant to this cryptocurrency-market report; the result is neutral."
+      },
+      {
+        "provider": "AFP Fact Check",
+        "url": "https://factcheck.afp.com/",
+        "finding": "no-match",
+        "note": "Exact-claim and English-variant searches found no matching fact-check verdict for the dated bitcoin and ether levels; no-match is neutral."
+      },
+      {
+        "provider": "Reuters Fact Check",
+        "url": "https://www.reuters.com/fact-check/",
+        "finding": "no-match",
+        "note": "Exact-claim and English-variant searches found no matching fact-check verdict for the dated bitcoin and ether levels; no-match is neutral."
+      },
+      {
+        "provider": "Full Fact",
+        "url": "https://fullfact.org/",
+        "finding": "no-match",
+        "note": "Exact-claim and English-variant searches found no matching fact-check verdict for the dated bitcoin and ether levels; no-match is neutral."
+      },
+      {
+        "provider": "Google Fact Check Tools",
+        "url": "https://toolbox.google.com/factcheck/explorer",
+        "finding": "inconclusive",
+        "note": "Web-indexed Explorer searches did not surface a matching ClaimReview record; API coverage was unavailable in this run, so this is not a no-match or truth finding."
+      }
+    ],
+    "caveat": "The complete source supports a timestamped Binance quote and attributes explanations to named analysts. No independent fact-check verdict was found; prices and analyst explanations are session-specific and not investment advice."
+  }
+}
