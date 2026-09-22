@@ -1,6 +1,6 @@
 # github-news-retention maintenance automation
 
-Run from `C:\Users\Admin\Documents\GitHub\LuisVMiranda.github.io\news` every day at 08:30 GMT-3 (`America/Sao_Paulo`), after the 07:45 publication job.
+Run from `C:\Users\Admin\Documents\GitHub\LuisVMiranda.github.io\news` every day at 08:30 GMT-3 (`America/Sao_Paulo`), after the 05:00 publication job.
 
 This is an unattended retention worker. Never ask the user questions. The retention window is three 24-hour days. Protect all article files referenced by retained active editions so cleanup never creates broken routes. Remove older editions, older unreferenced article JSON files, and local ignored research/build artifacts older than the cutoff. Do not delete credentials, unknown files, current manifests, or any article still referenced by a retained edition.
 

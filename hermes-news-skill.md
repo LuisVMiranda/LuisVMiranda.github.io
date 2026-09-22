@@ -831,7 +831,7 @@ Current job:
 - Workdir: repository `news/` directory
 - Intended publication branch: `main`
 - Editorial target: 08:00 local time
-- The 07:45 start leaves a measured 15-minute buffer before the target; adjust only after measuring the real workflow duration.
+- The 05:00 start leaves a three-hour buffer before the target because source retrieval, fact-checking, independent review, testing, deployment, and Telegram delivery are not a four-minute operation.
 - Current delivery target: `telegram`; the final response is sent only after live publication verification.
 
 Before creating or updating a job:
@@ -885,7 +885,7 @@ Current job:
 - Schedule: `30 8 * * *`
 - Timezone: `America/Sao_Paulo` / GMT-3
 - Workdir: `news/`
-- It runs after the 07:45 publication job.
+- It runs after the 05:00 publication job.
 - Retention window: three 24-hour days.
 
 The current retention job must remain separate from publication. Publication creates and verifies the newest edition first; retention runs afterward.
