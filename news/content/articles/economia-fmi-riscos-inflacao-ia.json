@@ -4,7 +4,7 @@
   "section": "economia",
   "secondarySections": ["mundo", "tecnologia"],
   "publishedAt": "2026-09-21T12:10:47-03:00",
-  "updatedAt": "2026-09-21T19:43:50.732Z",
+  "updatedAt": "2026-09-22T10:16:58.141Z",
   "sources": [
     {
       "name": "CNN Brasil",
@@ -18,34 +18,95 @@
     "pt-BR": {
       "title": "FMI vê economia global resiliente, mas alerta para inflação, dívida e IA",
       "summary": "Kristalina Georgieva manteve tom cauteloso ao projetar crescimento de 3% em 2026 e destacar riscos financeiros.",
+      "aiSummary": [
+        "O FMI projeta crescimento mundial de 3% em 2026, abaixo dos 3,5% previstos para 2025.",
+        "Georgieva relaciona inflação persistente a possível aperto monetário.",
+        "O relatório de outubro deverá reavaliar riscos de alavancagem e financiamento circular em IA."
+      ],
       "paragraphs": [
         "A diretora-gerente do Fundo Monetário Internacional, Kristalina Georgieva, afirmou que a economia global tem sido mais resistente do que se esperava, mas continua exposta à inflação persistente, ao custo crescente do serviço da dívida e ao alto volume de investimentos em inteligência artificial. O FMI havia projetado crescimento mundial de 3% em 2026, abaixo dos 3,5% previstos para 2025.",
         "Georgieva disse que a resiliência observada, apoiada pela atividade tecnológica, não elimina o risco de desaceleração. Na avaliação apresentada durante um fórum econômico em Nova York, o combate à inflação pode exigir políticas monetárias mais apertadas, enquanto o reconhecimento da necessidade de consolidação fiscal ainda não se traduziu em medidas suficientes.",
         "Ela também alertou para alavancagem e financiamento circular ligados aos investimentos em IA, com riscos concentrados principalmente nos Estados Unidos. O próximo relatório Perspectivas da Economia Mundial, previsto para outubro, deve avaliar se essas vulnerabilidades continuam elevadas.",
         "A avaliação do FMI combina uma previsão de crescimento mundial de 3% em 2026 com uma advertência sobre a qualidade dessa resiliência. Kristalina Georgieva afirmou que a atividade tecnológica ajuda a sustentar a economia, mas inflação persistente pode exigir política monetária mais apertada, enquanto o reconhecimento da consolidação fiscal ainda não se converteu em medidas suficientes.",
         "O alerta sobre inteligência artificial é financeiro, não apenas tecnológico: Georgieva mencionou alavancagem e financiamento circular associados aos investimentos, com riscos concentrados principalmente nos Estados Unidos. O próximo relatório Perspectivas da Economia Mundial, previsto para outubro, deverá avaliar se essas vulnerabilidades permanecem elevadas."
-      ],
-      "aiSummary": [
-        "O FMI projeta crescimento mundial de 3% em 2026, abaixo dos 3,5% previstos para 2025.",
-        "Georgieva relaciona inflação persistente a possível aperto monetário.",
-        "O relatório de outubro deverá reavaliar riscos de alavancagem e financiamento circular em IA."
       ]
     },
     "en": {
       "title": "IMF sees resilient global economy but warns on inflation, debt and AI",
       "summary": "Kristalina Georgieva kept a cautious tone while citing 3% growth in 2026 and financial risks linked to technology investment.",
+      "aiSummary": [
+        "The IMF forecasts 3% global growth in 2026, below the 3.5% projected for 2025.",
+        "Georgieva linked persistent inflation to the possibility of tighter monetary policy.",
+        "The October outlook is expected to reassess leverage and circular-financing risks around AI."
+      ],
       "paragraphs": [
         "IMF Managing Director Kristalina Georgieva said the global economy has been more resilient than expected but remains exposed to persistent inflation, rising debt-service costs and heavy investment in artificial intelligence. The IMF had forecast global growth of 3% in 2026, below the 3.5% projected for 2025.",
         "Georgieva said that resilience, supported in part by technology-driven activity, does not remove the risk of a slowdown. In remarks at an economic forum in New York, she said persistent inflation could require tighter monetary policy, while broad recognition of the need for fiscal consolidation had not yet produced enough action.",
         "She also warned about leverage and circular financing connected to AI investment, with the risk concentrated mainly in the United States. The IMF’s World Economic Outlook, expected in October, is due to assess whether those vulnerabilities remain elevated.",
         "The IMF’s assessment pairs a 3% global-growth forecast for 2026 with a warning about the quality of that resilience. Kristalina Georgieva said technology-driven activity is helping support the economy, but persistent inflation could require tighter monetary policy, while recognition of the need for fiscal consolidation has not yet produced enough action.",
         "The warning about artificial intelligence is financial rather than merely technological: Georgieva cited leverage and circular financing connected to investment, with risks concentrated mainly in the United States. The World Economic Outlook, expected in October, is due to assess whether those vulnerabilities remain elevated."
-      ],
-      "aiSummary": [
-        "The IMF forecasts 3% global growth in 2026, below the 3.5% projected for 2025.",
-        "Georgieva linked persistent inflation to the possibility of tighter monetary policy.",
-        "The October outlook is expected to reassess leverage and circular-financing risks around AI."
       ]
     }
+  },
+  "verification": {
+    "score": 7.6,
+    "checkedAt": "2026-09-22T10:00:08Z",
+    "checks": [
+      {
+        "provider": "CNN Brasil",
+        "url": "https://www.cnnbrasil.com.br/economia/money/macroeconomia/fmi-alerta-para-riscos-de-inflacao-e-ia-em-meio-a-economia-resiliente/",
+        "finding": "supports",
+        "note": "Complete local source extraction (HTTP 200, complete:true) directly supports the article’s central claim as written, with attribution and date preserved."
+      },
+      {
+        "provider": "Aos Fatos",
+        "url": "https://www.aosfatos.org/",
+        "finding": "no-match",
+        "note": "No matching fact-check verdict for the central claim was identified in exact-claim and meaningful-variant searches; no-match is neutral and is not evidence that the claim is true."
+      },
+      {
+        "provider": "Agência Lupa",
+        "url": "https://www.agencialupa.org/",
+        "finding": "no-match",
+        "note": "No matching fact-check verdict for the central claim was identified in exact-claim and meaningful-variant searches; no-match is neutral and is not evidence that the claim is true."
+      },
+      {
+        "provider": "Projeto Comprova",
+        "url": "https://projetocomprova.com.br/",
+        "finding": "no-match",
+        "note": "No matching fact-check verdict for the central claim was identified in exact-claim and meaningful-variant searches; no-match is neutral and is not evidence that the claim is true."
+      },
+      {
+        "provider": "TSE Fato ou Boato",
+        "url": "https://www.tse.jus.br/comunicacao/noticias/fato-ou-boato",
+        "finding": "no-match",
+        "note": "No matching fact-check verdict for the central claim was identified in exact-claim and meaningful-variant searches; no-match is neutral and is not evidence that the claim is true."
+      },
+      {
+        "provider": "AFP Fact Check",
+        "url": "https://factcheck.afp.com/",
+        "finding": "no-match",
+        "note": "No matching fact-check verdict for the central claim was identified in exact-claim and meaningful-variant searches; no-match is neutral and is not evidence that the claim is true."
+      },
+      {
+        "provider": "Reuters Fact Check",
+        "url": "https://www.reuters.com/fact-check/",
+        "finding": "no-match",
+        "note": "No matching fact-check verdict for the central claim was identified in exact-claim and meaningful-variant searches; no-match is neutral and is not evidence that the claim is true."
+      },
+      {
+        "provider": "Full Fact",
+        "url": "https://fullfact.org/",
+        "finding": "no-match",
+        "note": "No matching fact-check verdict for the central claim was identified in exact-claim and meaningful-variant searches; no-match is neutral and is not evidence that the claim is true."
+      },
+      {
+        "provider": "Google Fact Check Explorer",
+        "url": "https://toolbox.google.com/factcheck/explorer",
+        "finding": "no-match",
+        "note": "No matching fact-check verdict for the central claim was identified in exact-claim and meaningful-variant searches; no-match is neutral and is not evidence that the claim is true."
+      }
+    ],
+    "caveat": "The CNN report attributes the remarks and forecast to the IMF managing director and Reuters-style reporting, but no matching official IMF transcript was retrieved. No-match findings were treated as neutral, never as positive evidence."
   }
 }

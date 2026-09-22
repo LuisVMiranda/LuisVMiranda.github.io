@@ -4,7 +4,7 @@
   "section": "economia",
   "secondarySections": ["tecnologia", "mundo"],
   "publishedAt": "2026-09-21T09:37:29-03:00",
-  "updatedAt": "2026-09-21T19:43:50.732Z",
+  "updatedAt": "2026-09-22T10:16:58.141Z",
   "sources": [
     {
       "name": "CNN Brasil",
@@ -18,34 +18,101 @@
     "pt-BR": {
       "title": "Google recebe multa de € 403 milhões na Irlanda por dados de localização",
       "summary": "Regulador irlandês apontou falhas no tratamento de localização e deu seis meses para adequação.",
+      "aiSummary": [
+        "A investigação envolveu três recursos de localização usados entre 2018 e 2020.",
+        "O Google recebeu seis meses para ajustar os processos questionados.",
+        "A investigação começou em 2020 após queixas de organizações europeias de consumidores."
+      ],
       "paragraphs": [
         "A Comissão de Proteção de Dados da Irlanda aplicou ao Google uma multa de € 403 milhões, ou cerca de US$ 463 milhões, após investigar o processamento de dados de localização. O regulador concluiu que houve infrações em recursos como Atividade na Web e em apps, Histórico de localização e Precisão da localização entre 2018 e 2020.",
         "A decisão foi descrita como a quarta maior multa aplicada pela autoridade, que já acumulou mais de € 4 bilhões em penalidades desde que passou a supervisionar grandes empresas de tecnologia na União Europeia. O Google também recebeu prazo de seis meses para ajustar seus processos, e não havia respondido imediatamente ao pedido de comentário citado na reportagem.",
         "Segundo o regulador, usuários podem não ter percebido que sua localização era usada para influenciar anúncios ou inferir interesses, e a retenção por mais tempo do que o necessário teria ampliado a perda de controle sobre os dados. A investigação começou em 2020 após queixas de organizações europeias de defesa do consumidor.",
         "A investigação alcançou três recursos específicos usados entre 2018 e 2020: Atividade na Web e em apps, Histórico de localização e Precisão da localização. Segundo a autoridade irlandesa, usuários talvez não tenham percebido que esses dados poderiam influenciar anúncios ou permitir inferências sobre interesses, enquanto a retenção prolongada reduziria ainda mais o controle sobre as informações.",
         "Além da multa de € 403 milhões, a decisão fixou seis meses para que o Google ajuste seus processos. A autoridade classificou o valor como sua quarta maior penalidade e informou ter aplicado mais de € 4 bilhões desde que passou a supervisionar grandes empresas de tecnologia na União Europeia; a investigação começou após queixas de grupos de consumidores em 2020."
-      ],
-      "aiSummary": [
-        "A investigação envolveu três recursos de localização usados entre 2018 e 2020.",
-        "O Google recebeu seis meses para ajustar os processos questionados.",
-        "A investigação começou em 2020 após queixas de organizações europeias de consumidores."
       ]
     },
     "en": {
       "title": "Google faces €403 million Irish fine over location-data practices",
       "summary": "Ireland’s data regulator cited failures in location processing and gave the company six months to make changes.",
+      "aiSummary": [
+        "The investigation covered three location features used between 2018 and 2020.",
+        "Google was given six months to change the processes at issue.",
+        "The investigation began in 2020 after complaints from European consumer groups."
+      ],
       "paragraphs": [
         "Ireland’s Data Protection Commission fined Google €403 million, or about $463 million, after investigating its processing of location data. The regulator found violations involving features including Web & App Activity, Location History and Location Accuracy between 2018 and 2020.",
         "The decision was described as the authority’s fourth-largest fine; it has imposed more than €4 billion in penalties since becoming the lead EU regulator for many large US technology companies. Google was also ordered to adjust its processes within six months and had not immediately responded to the comment request cited in the report.",
         "The regulator said users may not have understood that their location data could be used to influence advertising or infer interests, while retaining the data longer than necessary further reduced their control. The investigation began in 2020 after complaints from European consumer-protection groups.",
         "The investigation covered three specific features used between 2018 and 2020: Web & App Activity, Location History and Location Accuracy. Ireland’s regulator said users may not have understood that the data could influence advertising or support inferences about interests, while keeping it longer than necessary further reduced control over the information.",
         "Alongside the €403 million fine, the decision gave Google six months to change its processes. The authority described the amount as its fourth-largest penalty and said it had imposed more than €4 billion since becoming the lead regulator for many large technology companies in the European Union; the investigation began after consumer-group complaints in 2020."
-      ],
-      "aiSummary": [
-        "The investigation covered three location features used between 2018 and 2020.",
-        "Google was given six months to change the processes at issue.",
-        "The investigation began in 2020 after complaints from European consumer groups."
       ]
     }
+  },
+  "verification": {
+    "score": 9.8,
+    "checkedAt": "2026-09-22T10:00:08Z",
+    "checks": [
+      {
+        "provider": "CNN Brasil",
+        "url": "https://www.cnnbrasil.com.br/economia/money/negocios/google-e-multada-em-403-milhoes-de-euros-por-uso-indevido-de-dados/",
+        "finding": "supports",
+        "note": "Complete local source extraction (HTTP 200, complete:true) directly supports the article’s central claim as written, with attribution and date preserved."
+      },
+      {
+        "provider": "Aos Fatos",
+        "url": "https://www.aosfatos.org/",
+        "finding": "no-match",
+        "note": "No matching fact-check verdict for the central claim was identified in exact-claim and meaningful-variant searches; no-match is neutral and is not evidence that the claim is true."
+      },
+      {
+        "provider": "Agência Lupa",
+        "url": "https://www.agencialupa.org/",
+        "finding": "no-match",
+        "note": "No matching fact-check verdict for the central claim was identified in exact-claim and meaningful-variant searches; no-match is neutral and is not evidence that the claim is true."
+      },
+      {
+        "provider": "Projeto Comprova",
+        "url": "https://projetocomprova.com.br/",
+        "finding": "no-match",
+        "note": "No matching fact-check verdict for the central claim was identified in exact-claim and meaningful-variant searches; no-match is neutral and is not evidence that the claim is true."
+      },
+      {
+        "provider": "TSE Fato ou Boato",
+        "url": "https://www.tse.jus.br/comunicacao/noticias/fato-ou-boato",
+        "finding": "no-match",
+        "note": "No matching fact-check verdict for the central claim was identified in exact-claim and meaningful-variant searches; no-match is neutral and is not evidence that the claim is true."
+      },
+      {
+        "provider": "AFP Fact Check",
+        "url": "https://factcheck.afp.com/",
+        "finding": "no-match",
+        "note": "No matching fact-check verdict for the central claim was identified in exact-claim and meaningful-variant searches; no-match is neutral and is not evidence that the claim is true."
+      },
+      {
+        "provider": "Reuters Fact Check",
+        "url": "https://www.reuters.com/fact-check/",
+        "finding": "no-match",
+        "note": "No matching fact-check verdict for the central claim was identified in exact-claim and meaningful-variant searches; no-match is neutral and is not evidence that the claim is true."
+      },
+      {
+        "provider": "Full Fact",
+        "url": "https://fullfact.org/",
+        "finding": "no-match",
+        "note": "No matching fact-check verdict for the central claim was identified in exact-claim and meaningful-variant searches; no-match is neutral and is not evidence that the claim is true."
+      },
+      {
+        "provider": "Google Fact Check Explorer",
+        "url": "https://toolbox.google.com/factcheck/explorer",
+        "finding": "no-match",
+        "note": "No matching fact-check verdict for the central claim was identified in exact-claim and meaningful-variant searches; no-match is neutral and is not evidence that the claim is true."
+      },
+      {
+        "provider": "Irish Data Protection Commission",
+        "url": "https://www.dataprotection.ie/en/news-media/latest-news/data-protection-commission-fines-google-eu403-million-following-inquiry-googles-processing-location",
+        "finding": "supports",
+        "note": "Primary regulator decision matches the €403 million amount, location-data findings and six-month remediation period."
+      }
+    ],
+    "caveat": "CNN’s report is directly corroborated by the Irish Data Protection Commission decision and the amount, findings and six-month remediation period. No-match findings were treated as neutral, never as positive evidence."
   }
 }

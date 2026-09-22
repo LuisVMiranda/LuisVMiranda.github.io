@@ -4,7 +4,7 @@
   "section": "esportes",
   "secondarySections": [],
   "publishedAt": "2026-09-21T09:42:11.737-03:00",
-  "updatedAt": "2026-09-21T19:43:50.732Z",
+  "updatedAt": "2026-09-22T10:16:58.141Z",
   "sources": [
     {
       "name": "ge.globo.com",
@@ -18,32 +18,93 @@
     "pt-BR": {
       "title": "Central anuncia contratação do meia Marllon para o Campeonato Pernambucano",
       "summary": "Clube de Caruaru confirmou o acordo e espera contar com o jogador a partir desta semana.",
+      "aiSummary": [
+        "Marllon chega ao quinto clube em 2026 depois de 25 partidas e quatro gols no ano.",
+        "O meia deve iniciar as atividades nesta semana, antes do estadual previsto para 17 de outubro."
+      ],
       "paragraphs": [
         "O Central anunciou acordo com o meia Marllon, que deve iniciar as atividades com o clube nesta semana e integrar o elenco para o próximo Campeonato Pernambucano.",
         "Revelado pelo Fortaleza e com passagem pelo Vitória, o jogador também defendeu Figueirense, Floresta-CE e Altos-PI ao longo da carreira profissional.",
         "Marllon chega ao Central como seu quinto clube em 2026. Antes do acerto, acumulou 25 partidas e quatro gols; o estadual está previsto para começar em 17 de outubro.",
         "O acerto acrescenta ao Central um meia que chega depois de circular por Fortaleza, Vitória, Figueirense, Floresta-CE e Altos-PI. A referência às 25 partidas e aos quatro gols em 2026 oferece um retrato recente de atividade, mas não antecipa qual será sua função no novo elenco.",
         "Como Marllon deve começar a trabalhar nesta semana e o Campeonato Pernambucano está previsto para 17 de outubro, o clube terá um intervalo para incorporá-lo antes da competição. A notícia confirma o acordo e o calendário, sem afirmar titularidade ou escalação específica."
-      ],
-      "aiSummary": [
-        "Marllon chega ao quinto clube em 2026 depois de 25 partidas e quatro gols no ano.",
-        "O meia deve iniciar as atividades nesta semana, antes do estadual previsto para 17 de outubro."
       ]
     },
     "en": {
       "title": "Central announces midfielder Marllon signing for Campeonato Pernambucano",
       "summary": "The Caruaru club confirmed the agreement and expects the player to begin work this week.",
+      "aiSummary": [
+        "Marllon joins his fifth club in 2026 after making 25 appearances and scoring four goals this year.",
+        "The midfielder is expected to begin work this week before the state competition starts on October 17."
+      ],
       "paragraphs": [
         "Central announced an agreement with midfielder Marllon, who is expected to begin work with the club this week and join the squad for the next Campeonato Pernambucano.",
         "Developed at Fortaleza and previously with Vitória, the player has also represented Figueirense, Floresta-CE and Altos-PI during his professional career.",
         "Marllon joins Central as his fifth club in 2026. Before the agreement, he had made 25 appearances and scored four goals; the state competition is scheduled to begin on October 17.",
         "The agreement adds to Central a midfielder who has moved through Fortaleza, Vitória, Figueirense, Floresta-CE and Altos-PI. The reference to 25 appearances and four goals in 2026 provides a recent activity record, but does not establish his role in the new squad.",
         "Because Marllon is expected to begin work this week and Campeonato Pernambucano is scheduled for October 17, the club has time to integrate him before the competition. The report confirms the agreement and calendar, not a starting place or specific lineup."
-      ],
-      "aiSummary": [
-        "Marllon joins his fifth club in 2026 after making 25 appearances and scoring four goals this year.",
-        "The midfielder is expected to begin work this week before the state competition starts on October 17."
       ]
     }
+  },
+  "verification": {
+    "score": 8.3,
+    "checkedAt": "2026-09-22T09:56:46Z",
+    "checks": [
+      {
+        "provider": "Original article source",
+        "url": "https://ge.globo.com/pe/caruaru-regiao/futebol/times/central/noticia/2026/09/21/central-acerta-com-meia-ex-fortaleza-e-vitoria-para-disputa-do-campeonato-pernambucano.ghtml",
+        "finding": "supports",
+        "note": "The complete source page was fetched directly with HTTP 200; its headline and body match the article's central claim and named entities. This is primary evidence, not an independent fact-check."
+      },
+      {
+        "provider": "Aos Fatos",
+        "url": "https://www.aosfatos.org/",
+        "finding": "no-match",
+        "note": "No fact-check addressing this article’s central claim appeared in exact-headline and claim/entity searches of this provider. The no-match is neutral, not evidence of truth."
+      },
+      {
+        "provider": "Agência Lupa",
+        "url": "https://www.agencialupa.org/",
+        "finding": "no-match",
+        "note": "No fact-check addressing this article’s central claim appeared in exact-headline and claim/entity searches of this provider. The no-match is neutral, not evidence of truth."
+      },
+      {
+        "provider": "Projeto Comprova",
+        "url": "https://projetocomprova.com.br/",
+        "finding": "no-match",
+        "note": "No fact-check addressing this article’s central claim appeared in exact-headline and claim/entity searches of this provider. The no-match is neutral, not evidence of truth."
+      },
+      {
+        "provider": "TSE Fato ou Boato",
+        "url": "https://www.tse.jus.br/comunicacao/noticias/fato-ou-boato",
+        "finding": "no-match",
+        "note": "No matching item addressing this article’s central claim was found in domain-scoped searches; this source is not generally relevant to routine culture or sports reporting. The no-match is neutral, not evidence of truth."
+      },
+      {
+        "provider": "AFP Fact Check",
+        "url": "https://factcheck.afp.com/",
+        "finding": "no-match",
+        "note": "No fact-check addressing this article’s central claim appeared in exact-headline and claim/entity searches. Any related hits concerned different claims and were excluded; the no-match is neutral."
+      },
+      {
+        "provider": "Reuters Fact Check",
+        "url": "https://www.reuters.com/fact-check/",
+        "finding": "no-match",
+        "note": "No fact-check addressing this article’s central claim appeared in exact-headline and claim/entity searches of this provider. The no-match is neutral, not evidence of truth."
+      },
+      {
+        "provider": "Full Fact",
+        "url": "https://fullfact.org/",
+        "finding": "no-match",
+        "note": "No fact-check addressing this article’s central claim appeared in exact-headline and claim/entity searches of this provider. The no-match is neutral, not evidence of truth."
+      },
+      {
+        "provider": "Google Fact Check Explorer",
+        "url": "https://toolbox.google.com/factcheck/explorer",
+        "finding": "no-match",
+        "note": "No matching indexed ClaimReview record appeared for exact-headline and claim/entity variants in the Explorer domain. The no-match is neutral, not evidence of truth."
+      }
+    ],
+    "caveat": "Confidence is based on the complete source page fetched directly and the absence of any contradictory fact-check; no relevant fact-check match was found, and no-match results are neutral. The score is an editorial evidence estimate, not a probability or guarantee."
   }
 }

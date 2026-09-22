@@ -4,7 +4,7 @@
   "section": "esportes",
   "secondarySections": [],
   "publishedAt": "2026-09-21T13:28:21.943-03:00",
-  "updatedAt": "2026-09-21T19:43:50.732Z",
+  "updatedAt": "2026-09-22T10:16:58.141Z",
   "sources": [
     {
       "name": "ge.globo.com",
@@ -18,32 +18,93 @@
     "pt-BR": {
       "title": "Rio Branco-ES encerrará parceria com a Kappa e negocia nova fornecedora",
       "summary": "Clube busca ampliar a linha de produtos oficiais e elevar as receitas com a operação.",
+      "aiSummary": [
+        "A Kappa fornecia os uniformes do Rio Branco-ES desde 2025, mas a parceria será encerrada.",
+        "O clube negocia uma nova empresa e espera anunciar a fornecedora nas próximas semanas."
+      ],
       "paragraphs": [
         "O Rio Branco-ES decidiu encerrar a parceria com a Kappa, fornecedora dos uniformes desde 2025, e está na fase final de negociação com outra empresa para a próxima temporada.",
         "A mudança faz parte do plano do clube de ampliar o portfólio de produtos oficiais, incluindo opções de treino, passeio e peças especiais além da camisa de jogo.",
         "O Rio Branco também busca aumentar as receitas com a venda de produtos e obter participação maior nos royalties. A expectativa é anunciar a nova fornecedora nas próximas semanas.",
         "A Kappa fornecia os uniformes desde 2025, e o Rio Branco-ES já está na fase final de negociação com outra empresa para a próxima temporada. A mudança pretende ampliar a oferta para além da camisa de jogo, incluindo peças de treino, passeio e edições especiais.",
         "O objetivo financeiro é duplo: vender uma linha mais ampla e aumentar a participação do clube nos royalties. Ainda não há nome anunciado para a substituta nem acordo concluído publicamente; a expectativa apresentada é de divulgação nas próximas semanas."
-      ],
-      "aiSummary": [
-        "A Kappa fornecia os uniformes do Rio Branco-ES desde 2025, mas a parceria será encerrada.",
-        "O clube negocia uma nova empresa e espera anunciar a fornecedora nas próximas semanas."
       ]
     },
     "en": {
       "title": "Rio Branco-ES to end Kappa partnership and negotiate new kit supplier",
       "summary": "The club wants to expand its official product line and increase revenue from the operation.",
+      "aiSummary": [
+        "Kappa had supplied Rio Branco-ES kits since 2025, but the partnership is ending.",
+        "The club is negotiating a new company and expects to announce the supplier in the coming weeks."
+      ],
       "paragraphs": [
         "Rio Branco-ES decided to end its partnership with Kappa, which has supplied the club's kits since 2025, and is in the final stage of negotiations with another company for next season.",
         "The change is part of the club's plan to expand its official product portfolio, including training, leisure and special items beyond the match jersey.",
         "Rio Branco also wants to increase product-sales revenue and secure a larger share of royalties. The new supplier is expected to be announced in the coming weeks.",
         "Kappa had supplied Rio Branco-ES kits since 2025, and the club is already in the final stage of talks with another company for next season. The change is intended to expand the offering beyond the match jersey to training, leisure and special items.",
         "The financial goal is twofold: sell a broader line and increase the club’s share of royalties. No replacement supplier has been named and no completed agreement is announced; the stated expectation is a disclosure in the coming weeks."
-      ],
-      "aiSummary": [
-        "Kappa had supplied Rio Branco-ES kits since 2025, but the partnership is ending.",
-        "The club is negotiating a new company and expects to announce the supplier in the coming weeks."
       ]
     }
+  },
+  "verification": {
+    "score": 8.1,
+    "checkedAt": "2026-09-22T09:56:46Z",
+    "checks": [
+      {
+        "provider": "Original article source",
+        "url": "https://ge.globo.com/es/futebol/times/rio-branco-es/noticia/2026/09/21/rio-branco-es-decide-romper-com-a-kappa-e-tera-nova-fornecedora-de-uniformes.ghtml",
+        "finding": "supports",
+        "note": "The complete source page was fetched directly with HTTP 200; its headline and body match the article's central claim and named entities. This is primary evidence, not an independent fact-check."
+      },
+      {
+        "provider": "Aos Fatos",
+        "url": "https://www.aosfatos.org/",
+        "finding": "no-match",
+        "note": "No fact-check addressing this article’s central claim appeared in exact-headline and claim/entity searches of this provider. The no-match is neutral, not evidence of truth."
+      },
+      {
+        "provider": "Agência Lupa",
+        "url": "https://www.agencialupa.org/",
+        "finding": "no-match",
+        "note": "No fact-check addressing this article’s central claim appeared in exact-headline and claim/entity searches of this provider. The no-match is neutral, not evidence of truth."
+      },
+      {
+        "provider": "Projeto Comprova",
+        "url": "https://projetocomprova.com.br/",
+        "finding": "no-match",
+        "note": "No fact-check addressing this article’s central claim appeared in exact-headline and claim/entity searches of this provider. The no-match is neutral, not evidence of truth."
+      },
+      {
+        "provider": "TSE Fato ou Boato",
+        "url": "https://www.tse.jus.br/comunicacao/noticias/fato-ou-boato",
+        "finding": "no-match",
+        "note": "No matching item addressing this article’s central claim was found in domain-scoped searches; this source is not generally relevant to routine culture or sports reporting. The no-match is neutral, not evidence of truth."
+      },
+      {
+        "provider": "AFP Fact Check",
+        "url": "https://factcheck.afp.com/",
+        "finding": "no-match",
+        "note": "No fact-check addressing this article’s central claim appeared in exact-headline and claim/entity searches. Any related hits concerned different claims and were excluded; the no-match is neutral."
+      },
+      {
+        "provider": "Reuters Fact Check",
+        "url": "https://www.reuters.com/fact-check/",
+        "finding": "no-match",
+        "note": "No fact-check addressing this article’s central claim appeared in exact-headline and claim/entity searches of this provider. The no-match is neutral, not evidence of truth."
+      },
+      {
+        "provider": "Full Fact",
+        "url": "https://fullfact.org/",
+        "finding": "no-match",
+        "note": "No fact-check addressing this article’s central claim appeared in exact-headline and claim/entity searches of this provider. The no-match is neutral, not evidence of truth."
+      },
+      {
+        "provider": "Google Fact Check Explorer",
+        "url": "https://toolbox.google.com/factcheck/explorer",
+        "finding": "no-match",
+        "note": "No matching indexed ClaimReview record appeared for exact-headline and claim/entity variants in the Explorer domain. The no-match is neutral, not evidence of truth."
+      }
+    ],
+    "caveat": "Confidence is based on the complete source page fetched directly and the absence of any contradictory fact-check; no relevant fact-check match was found, and no-match results are neutral. The score is an editorial evidence estimate, not a probability or guarantee."
   }
 }

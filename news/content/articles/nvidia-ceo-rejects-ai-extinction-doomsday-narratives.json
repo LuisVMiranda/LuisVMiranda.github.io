@@ -4,7 +4,7 @@
   "section": "mundo",
   "secondarySections": ["tecnologia"],
   "publishedAt": "2026-09-21T06:25:43.927Z",
-  "updatedAt": "2026-09-21T19:43:50.732Z",
+  "updatedAt": "2026-09-22T10:16:58.141Z",
   "sources": [
     {
       "name": "BBC News",
@@ -14,35 +14,114 @@
   "rights": {
     "mode": "original-report"
   },
+  "verification": {
+    "score": 8.3,
+    "checkedAt": "2026-09-22T10:05:52Z",
+    "checks": [
+      {
+        "provider": "BBC News",
+        "url": "https://www.bbc.com/news/articles/cr5ye7p13jg7o",
+        "finding": "supports",
+        "note": "Complete local extraction was status 200 with complete:true; the source directly contains the article's reported claim and its stated qualifications."
+      },
+      {
+        "provider": "Aos Fatos",
+        "url": "https://www.aosfatos.org/",
+        "finding": "no-match",
+        "note": "No directly matching fact-check result surfaced in the source-restricted search; no-match is neutral and not evidence of accuracy."
+      },
+      {
+        "provider": "Agência Lupa",
+        "url": "https://www.agencialupa.org/",
+        "finding": "no-match",
+        "note": "No directly matching fact-check result surfaced in the source-restricted search; no-match is neutral and not evidence of accuracy."
+      },
+      {
+        "provider": "Projeto Comprova",
+        "url": "https://projetocomprova.com.br/",
+        "finding": "no-match",
+        "note": "No directly matching fact-check result surfaced in the source-restricted search; no-match is neutral and not evidence of accuracy."
+      },
+      {
+        "provider": "TSE Fato ou Boato",
+        "url": "https://www.tse.jus.br/comunicacao/noticias/fato-ou-boato",
+        "finding": "no-match",
+        "note": "No directly matching fact-check result surfaced in the source-restricted search; no-match is neutral and not evidence of accuracy."
+      },
+      {
+        "provider": "AFP Fact Check",
+        "url": "https://factcheck.afp.com/",
+        "finding": "no-match",
+        "note": "No directly matching fact-check result surfaced in the source-restricted search; no-match is neutral and not evidence of accuracy."
+      },
+      {
+        "provider": "Reuters Fact Check",
+        "url": "https://www.reuters.com/fact-check/",
+        "finding": "no-match",
+        "note": "No directly matching fact-check result surfaced in the source-restricted search; no-match is neutral and not evidence of accuracy."
+      },
+      {
+        "provider": "Full Fact",
+        "url": "https://fullfact.org/",
+        "finding": "no-match",
+        "note": "No directly matching fact-check result surfaced in the source-restricted search; no-match is neutral and not evidence of accuracy."
+      },
+      {
+        "provider": "Google Fact Check Explorer",
+        "url": "https://toolbox.google.com/factcheck/explorer",
+        "finding": "inconclusive",
+        "note": "The public claims-search endpoint returned HTTP 403 in this run and no exact ClaimReview record was confirmed; this is not evidence for or against the article."
+      },
+      {
+        "provider": "Aos Fatos (related AI coverage)",
+        "url": "https://aosfatos.org/noticias/deputados-da-comissao-da-ia-atuaram-em-prol-de-big-techs-apos-visitas-de-lobistas",
+        "finding": "context",
+        "note": "This fact-checking report concerns AI-policy lobbying, not the extinction forecast or Jensen Huang's remarks; it is related context only."
+      },
+      {
+        "provider": "CBS News",
+        "url": "https://www.cbsnews.com/news/jensen-huang-nvidia-rejects-ai-extinction-warnings/",
+        "finding": "supports",
+        "note": "CBS, the interview source cited by the BBC, independently confirms Huang's quoted rejection of AI-extinction warnings."
+      },
+      {
+        "provider": "The Guardian",
+        "url": "https://www.theguardian.com/technology/2026/sep/21/nvidia-boss-jensen-huang-dismisses-warnings-ai-destroys-world-anthropic",
+        "finding": "supports",
+        "note": "Independent reporting corroborates the attributed remarks and the surrounding AI-safety debate."
+      }
+    ],
+    "caveat": "The central statements are attributed opinions in an ongoing AI-safety debate; this audit does not validate the 0% extinction forecast."
+  },
   "translations": {
     "pt-BR": {
       "title": "CEO da Nvidia rejeita previsões de extinção por IA e chama alertas de alarmismo",
       "summary": "Jensen Huang disse que previsões de que a inteligência artificial levará à extinção humana nesta década não têm base científica. As declarações ocorrem em meio a uma disputa pública sobre ritmo de desenvolvimento, segurança e responsabilidade das empresas.",
+      "aiSummary": [
+        "Jensen Huang rejeitou previsões de extinção, enquanto outros executivos defenderam desacelerar o desenvolvimento.",
+        "A discussão envolve implantação segura e possível coordenação de incidentes entre EUA e China."
+      ],
       "paragraphs": [
         "Jensen Huang, presidente-executivo da Nvidia, rejeitou a ideia de que a inteligência artificial provocará a extinção da humanidade até o fim da década. Em entrevista à CBS News, ele afirmou que 2030 não representará o fim do mundo e classificou esse tipo de previsão como uma narrativa apocalíptica desnecessária.",
         "As declarações entram em um debate que ganhou força depois de comentários de um ex-pesquisador da Anthropic sobre riscos extremos. Executivos como Dario Amodei e Sam Altman defenderam desacelerar o desenvolvimento, enquanto Huang disse que os alertas não estão fundamentados na ciência e que a implantação segura é essencial para a própria Nvidia.",
         "A reportagem também situa a disputa no contexto da indústria de chips, das restrições de exportação entre Estados Unidos e China e das conversas recentes entre os dois países sobre um mecanismo de notificação para incidentes de segurança em IA. Donald Trump, por sua vez, já havia rejeitado pedidos para reduzir o ritmo de desenvolvimento.",
         "A reportagem apresenta posições atribuídas, não uma conclusão científica sobre o futuro da humanidade. Huang rejeita previsões de extinção nesta década, enquanto Dario Amodei e Sam Altman defenderam desacelerar o desenvolvimento; o ponto de disputa é a avaliação do risco e da velocidade, não um fato já verificado.",
         "O debate também se conecta a decisões práticas da indústria e dos governos. A Nvidia depende da implantação segura, e as conversas entre Estados Unidos e China sobre notificação de incidentes indicam uma preocupação com resposta e coordenação, enquanto as restrições de exportação acrescentam uma dimensão estratégica à discussão."
-      ],
-      "aiSummary": [
-        "Jensen Huang rejeitou previsões de extinção, enquanto outros executivos defenderam desacelerar o desenvolvimento.",
-        "A discussão envolve implantação segura e possível coordenação de incidentes entre EUA e China."
       ]
     },
     "en": {
       "title": "Nvidia CEO rejects AI extinction predictions as alarmist",
       "summary": "Jensen Huang said predictions that artificial intelligence will cause human extinction this decade are not grounded in science. His comments come amid a public dispute over development speed, safety and corporate responsibility.",
+      "aiSummary": [
+        "Jensen Huang rejected extinction predictions while other executives urged slower development.",
+        "The debate includes safe deployment and possible U.S.-China coordination on incidents."
+      ],
       "paragraphs": [
         "Jensen Huang, Nvidia’s chief executive, rejected the idea that artificial intelligence will bring about humanity’s extinction by the end of the decade. In an interview with CBS News, he said 2030 would not mark the end of the world and called such predictions an unnecessary doomsday narrative.",
         "The comments add to a debate intensified by remarks from a former Anthropic researcher about extreme risks. Executives including Dario Amodei and Sam Altman have called for slower development, while Huang said the warnings are not grounded in science and that safe deployment is essential to Nvidia’s own interests.",
         "The report places the dispute in the context of the chip industry, export restrictions between the United States and China, and recent talks about an AI safety notification mechanism. President Donald Trump had separately rejected calls to reduce the pace of AI development.",
         "The report presents attributed positions rather than a scientific conclusion about humanity’s future. Huang rejects extinction predictions for this decade, while Dario Amodei and Sam Altman have urged slower development; the dispute concerns risk assessment and speed, not an established fact.",
         "The debate also connects to practical choices by industry and governments. Nvidia has an interest in safe deployment, and U.S.-China discussions about incident notifications point to concern about response and coordination, while export restrictions add a strategic dimension to the argument."
-      ],
-      "aiSummary": [
-        "Jensen Huang rejected extinction predictions while other executives urged slower development.",
-        "The debate includes safe deployment and possible U.S.-China coordination on incidents."
       ]
     }
   }

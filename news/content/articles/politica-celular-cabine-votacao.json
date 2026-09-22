@@ -4,7 +4,7 @@
   "section": "politica",
   "secondarySections": [],
   "publishedAt": "2026-09-21T00:00:00.689-03:00",
-  "updatedAt": "2026-09-21T19:43:50.732Z",
+  "updatedAt": "2026-09-22T10:16:58.141Z",
   "sources": [
     {
       "name": "G1",
@@ -14,37 +14,104 @@
   "rights": {
     "mode": "original-report"
   },
+  "verification": {
+    "score": 9.7,
+    "checkedAt": "2026-09-22T10:00:08Z",
+    "checks": [
+      {
+        "provider": "G1",
+        "url": "https://g1.globo.com/politica/eleicoes/2026/videos/noticia/2026/09/21/video-posso-usar-o-celular-durante-a-votacao.ghtml",
+        "finding": "supports",
+        "note": "Complete local source extraction (HTTP 200, complete:true) directly supports the article’s central claim as written, with attribution and date preserved."
+      },
+      {
+        "provider": "Aos Fatos",
+        "url": "https://www.aosfatos.org/",
+        "finding": "no-match",
+        "note": "No matching fact-check verdict for the central claim was identified in exact-claim and meaningful-variant searches; no-match is neutral and is not evidence that the claim is true."
+      },
+      {
+        "provider": "Agência Lupa",
+        "url": "https://www.agencialupa.org/",
+        "finding": "no-match",
+        "note": "No matching fact-check verdict for the central claim was identified in exact-claim and meaningful-variant searches; no-match is neutral and is not evidence that the claim is true."
+      },
+      {
+        "provider": "Projeto Comprova",
+        "url": "https://projetocomprova.com.br/publica%C3%A7%C3%B5es/esclareca-suas-duvidas-sobre-o-que-e-permitido-ou-nao-na-hora-de-votar/",
+        "finding": "supports",
+        "note": "Direct voter-guidance explainer supports the distinction between bringing a phone to the polling place and leaving it with the poll worker before entering the booth."
+      },
+      {
+        "provider": "TSE Fato ou Boato",
+        "url": "https://www.tse.jus.br/comunicacao/noticias/2022/Agosto/eleitor-deve-deixar-celular-com-mesario-antes-de-votar-435424",
+        "finding": "supports",
+        "note": "Official TSE guidance states that voters must leave the phone with the poll worker before voting; this is primary guidance rather than a separate fact-check verdict."
+      },
+      {
+        "provider": "AFP Fact Check",
+        "url": "https://factcheck.afp.com/",
+        "finding": "no-match",
+        "note": "No matching fact-check verdict for the central claim was identified in exact-claim and meaningful-variant searches; no-match is neutral and is not evidence that the claim is true."
+      },
+      {
+        "provider": "Reuters Fact Check",
+        "url": "https://www.reuters.com/fact-check/",
+        "finding": "no-match",
+        "note": "No matching fact-check verdict for the central claim was identified in exact-claim and meaningful-variant searches; no-match is neutral and is not evidence that the claim is true."
+      },
+      {
+        "provider": "Full Fact",
+        "url": "https://fullfact.org/",
+        "finding": "no-match",
+        "note": "No matching fact-check verdict for the central claim was identified in exact-claim and meaningful-variant searches; no-match is neutral and is not evidence that the claim is true."
+      },
+      {
+        "provider": "Google Fact Check Explorer",
+        "url": "https://toolbox.google.com/factcheck/explorer",
+        "finding": "no-match",
+        "note": "No matching fact-check verdict for the central claim was identified in exact-claim and meaningful-variant searches; no-match is neutral and is not evidence that the claim is true."
+      },
+      {
+        "provider": "Official TSE voter guidance",
+        "url": "https://www.tse.jus.br/comunicacao/noticias/2022/Agosto/eleitor-deve-deixar-celular-com-mesario-antes-de-votar-435424",
+        "finding": "supports",
+        "note": "Primary TSE guidance independently matches the phone-storage rule described by G1."
+      }
+    ],
+    "caveat": "G1’s guidance is directly corroborated by official TSE voter guidance and a Comprova explainer; the rule is clear and the fact-check search found no contradiction. No-match findings were treated as neutral, never as positive evidence."
+  },
   "translations": {
     "pt-BR": {
       "title": "G1 explica regra que proíbe celular na cabine de votação",
       "summary": "O eleitor pode levar o aparelho à seção, mas precisa deixá-lo com o mesário antes de entrar na cabine.",
+      "aiSummary": [
+        "A regra alcança câmeras, filmadoras, óculos com gravação e outros transmissores.",
+        "O aparelho deve ser entregue ao mesário antes da entrada na cabine.",
+        "A medida protege o sigilo e a recusa pode impedir o voto."
+      ],
       "paragraphs": [
         "O uso de celular dentro da cabine de votação é proibido no Brasil, explica o guia do eleitor publicado pelo G1 para as eleições de 2026.",
         "O eleitor pode levar o aparelho até o local de votação, mas precisa deixá-lo com o mesário antes de entrar na cabine. Quem se recusar não será autorizado a votar, e a polícia pode ser chamada se necessário.",
         "A regra também alcança câmeras, filmadoras, óculos com gravação e qualquer equipamento capaz de registrar ou transmitir o voto. A medida protege o sigilo da escolha e evita que o eleitor seja pressionado a produzir prova do voto.",
         "A orientação vale para qualquer dispositivo capaz de registrar ou transmitir a escolha, não apenas para celulares: câmeras, filmadoras e óculos com gravação também precisam ficar fora da cabine. O procedimento ocorre antes de o eleitor entrar no espaço reservado, de modo que o aparelho deve ser entregue ao mesário ainda na seção.",
         "A justificativa prática apresentada pelo guia é preservar o sigilo e impedir que alguém seja pressionado a produzir prova do voto. Por isso, a recusa não é tratada como uma simples irregularidade de uso: ela pode impedir a votação e, se necessário, levar à chamada da polícia."
-      ],
-      "aiSummary": [
-        "A regra alcança câmeras, filmadoras, óculos com gravação e outros transmissores.",
-        "O aparelho deve ser entregue ao mesário antes da entrada na cabine.",
-        "A medida protege o sigilo e a recusa pode impedir o voto."
       ]
     },
     "en": {
       "title": "G1 explains Brazil’s rule banning phones inside voting booths",
       "summary": "Voters may bring a phone to the polling station but must leave it with the poll worker before entering the booth.",
+      "aiSummary": [
+        "The rule covers cameras, video recorders, recording glasses and other transmitters.",
+        "The device must be handed to the poll worker before entering the booth.",
+        "The measure protects secrecy, and refusal can prevent voting."
+      ],
       "paragraphs": [
         "Using a cellphone inside the voting booth is prohibited in Brazil, according to the voter guide published by G1 for the 2026 elections.",
         "Voters may bring the device to the polling station but must leave it with the poll worker before entering the booth. Anyone who refuses will not be allowed to vote, and police may be called if necessary.",
         "The rule also covers cameras, video recorders, recording glasses and any equipment capable of recording or transmitting the vote. It protects ballot secrecy and prevents voters from being pressured to create proof of their choice.",
         "The guidance applies to any device capable of recording or transmitting a choice, not only cellphones: cameras, video recorders and recording glasses must also stay out of the booth. The handover takes place before the voter enters the private space, so the device must be left with the poll worker at the station.",
         "The practical rationale given by the guide is to preserve ballot secrecy and prevent anyone from being pressured to produce proof of a vote. For that reason, refusal is not treated as a minor phone-use issue: it can stop the ballot from being cast and may lead to police involvement if necessary."
-      ],
-      "aiSummary": [
-        "The rule covers cameras, video recorders, recording glasses and other transmitters.",
-        "The device must be handed to the poll worker before entering the booth.",
-        "The measure protects secrecy, and refusal can prevent voting."
       ]
     }
   }

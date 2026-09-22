@@ -4,7 +4,7 @@
   "section": "tecnologia",
   "secondarySections": ["economia"],
   "publishedAt": "2026-09-21T09:21:47+00:00",
-  "updatedAt": "2026-09-21T19:43:50.732Z",
+  "updatedAt": "2026-09-22T10:16:58.141Z",
   "sources": [
     {
       "name": "The Verge",
@@ -18,32 +18,93 @@
     "pt-BR": {
       "title": "Amazon bloqueia agente de compras Muse, da Meta",
       "summary": "A Amazon impediu o agente Muse de comprar em sua plataforma, citando regras de uso e preocupações de privacidade e segurança sobre o acesso automatizado.",
+      "aiSummary": [
+        "A Amazon citou termos de uso e preocupações com identificação, credenciais, privacidade e segurança ao bloquear o Muse.",
+        "A Meta afirmou que o agente não consegue ver dados seguros de login ou pagamento, mas o acesso foi bloqueado."
+      ],
       "paragraphs": [
         "O The Verge informou que a Amazon bloqueou o acesso do agente de IA Muse, da Meta, às compras feitas em sua plataforma. Usuários começaram a ver uma mensagem dizendo que o acesso contínuo por um agente não autorizado violava as condições de uso do serviço.",
         "Segundo a reportagem, a Amazon afirmou que a Meta não avisou previamente que o Muse acessaria a loja e apontou preocupações sobre identificação do agente e possível captura de credenciais. A Meta havia dito no lançamento que o assistente não consegue ver dados seguros de login ou pagamento.",
         "O bloqueio amplia a disputa sobre agentes que navegam e compram em nome de usuários, enquanto varejistas tentam manter o relacionamento direto com o consumidor. A matéria relaciona o caso a uma iniciativa semelhante da Amazon contra o serviço Comet, da Perplexity.",
         "A disputa não envolve apenas uma compra específica, mas quem controla a relação entre usuário, agente e varejista. A Amazon invocou termos de uso, falta de aviso prévio e dúvidas sobre identificação e credenciais, enquanto a Meta sustentou que o Muse não acessa dados seguros de login ou pagamento.",
         "O caso também mostra que os limites técnicos alegados pela empresa do agente não eliminam a decisão do varejista sobre permitir ou bloquear o acesso. A referência ao Comet, da Perplexity, coloca o episódio em uma reação mais ampla da Amazon contra agentes de compras concorrentes."
-      ],
-      "aiSummary": [
-        "A Amazon citou termos de uso e preocupações com identificação, credenciais, privacidade e segurança ao bloquear o Muse.",
-        "A Meta afirmou que o agente não consegue ver dados seguros de login ou pagamento, mas o acesso foi bloqueado."
       ]
     },
     "en": {
       "title": "Amazon blocks Meta’s Muse shopping agent",
       "summary": "Amazon blocked the Muse agent from shopping on its platform, citing terms of use and privacy and security concerns about automated access.",
+      "aiSummary": [
+        "Amazon cited terms of use and concerns about identification, credentials, privacy, and security when blocking Muse.",
+        "Meta said the agent cannot see secure login or payment data, but the access was still blocked."
+      ],
       "paragraphs": [
         "The Verge reported that Amazon blocked Meta’s Muse AI agent from shopping on its platform. Users began seeing a message saying that continued access by an unauthorized agent violated the service’s terms of use.",
         "According to the report, Amazon said Meta had not notified it that Muse would access the store and raised concerns about the agent identifying itself and possibly capturing credentials. Meta had said at launch that the assistant could not see secure login or payment information.",
         "The block expands the dispute over agents that browse and buy on behalf of users, as retailers try to keep a direct relationship with shoppers. The article connects the case with Amazon’s similar effort against Perplexity’s Comet service.",
         "The dispute is not only about one purchase, but about who controls the relationship among the user, the agent, and the retailer. Amazon cited its terms, a lack of advance notice, and questions about identification and credentials, while Meta said Muse cannot access secure login or payment data.",
         "The case also shows that the agent company's claimed technical limits do not remove the retailer's decision about whether to allow or block access. The reference to Perplexity's Comet places the episode within Amazon's broader response to competing shopping agents."
-      ],
-      "aiSummary": [
-        "Amazon cited terms of use and concerns about identification, credentials, privacy, and security when blocking Muse.",
-        "Meta said the agent cannot see secure login or payment data, but the access was still blocked."
       ]
     }
+  },
+  "verification": {
+    "score": 7.6,
+    "checkedAt": "2026-09-22T10:01:14Z",
+    "checks": [
+      {
+        "provider": "The Verge",
+        "url": "https://www.theverge.com/tech/998078/amazon-blocks-meta-muse-ai-agent-shopping",
+        "finding": "supports",
+        "note": "Complete source context for The Verge was reviewed against the article summary and manifest evidence; the central claim is represented with the source's attribution and stated limitations."
+      },
+      {
+        "provider": "Aos Fatos",
+        "url": "https://www.aosfatos.org/",
+        "finding": "no-match",
+        "note": "Direct site-restricted search in Portuguese for the central claim, named entities, and key dates in 'Amazon bloqueia agente de compras Muse, da Meta' found no matching fact-check page. This no-match is neutral and is not evidence that the claim is true."
+      },
+      {
+        "provider": "Agência Lupa",
+        "url": "https://www.agencialupa.org/",
+        "finding": "no-match",
+        "note": "Direct site-restricted search in Portuguese for the central claim, named entities, and key dates in 'Amazon bloqueia agente de compras Muse, da Meta' found no matching fact-check page. This no-match is neutral and is not evidence that the claim is true."
+      },
+      {
+        "provider": "Projeto Comprova",
+        "url": "https://projetocomprova.com.br/",
+        "finding": "no-match",
+        "note": "Direct site-restricted search in Portuguese for the central claim, named entities, and key dates in 'Amazon bloqueia agente de compras Muse, da Meta' found no matching fact-check page. This no-match is neutral and is not evidence that the claim is true."
+      },
+      {
+        "provider": "TSE Fato ou Boato",
+        "url": "https://www.tse.jus.br/comunicacao/noticias/fato-ou-boato",
+        "finding": "no-match",
+        "note": "No election/civic-process fact-check relevant to the claim 'Amazon bloqueia agente de compras Muse, da Meta' was found; this source is not materially targeted to the article. The result is neutral."
+      },
+      {
+        "provider": "AFP Fact Check",
+        "url": "https://factcheck.afp.com/",
+        "finding": "no-match",
+        "note": "Direct site-restricted search in English for the central claim, named entities, and key dates in 'Amazon blocks Meta’s Muse shopping agent' found no matching fact-check page. This no-match is neutral and is not evidence that the claim is true."
+      },
+      {
+        "provider": "Reuters Fact Check",
+        "url": "https://www.reuters.com/fact-check/",
+        "finding": "no-match",
+        "note": "Direct site-restricted search in English for the central claim, named entities, and key dates in 'Amazon blocks Meta’s Muse shopping agent' found no matching fact-check page. This no-match is neutral and is not evidence that the claim is true."
+      },
+      {
+        "provider": "Full Fact",
+        "url": "https://fullfact.org/",
+        "finding": "no-match",
+        "note": "Direct site-restricted search in English for the central claim, named entities, and key dates in 'Amazon blocks Meta’s Muse shopping agent' found no matching fact-check page. This no-match is neutral and is not evidence that the claim is true."
+      },
+      {
+        "provider": "Google Fact Check Tools",
+        "url": "https://toolbox.google.com/factcheck/explorer",
+        "finding": "inconclusive",
+        "note": "The Explorer homepage was checked through indexed search, but the claims:search API returned HTTP 403 without an API key; this is incomplete coverage, not a no-match and not evidence of truth."
+      }
+    ],
+    "caveat": "Evidence-confidence estimate based on the complete source context, attribution review, direct fact-check-source searches, and the absence of a contradictory finding; no-match results are neutral, and this score is not a calibrated probability or guarantee."
   }
 }

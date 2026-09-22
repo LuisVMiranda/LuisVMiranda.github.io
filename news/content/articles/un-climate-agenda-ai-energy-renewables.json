@@ -4,7 +4,7 @@
   "section": "mundo",
   "secondarySections": ["ciencia", "economia"],
   "publishedAt": "2026-09-21T13:00:29Z",
-  "updatedAt": "2026-09-21T19:43:50.732Z",
+  "updatedAt": "2026-09-22T10:16:58.141Z",
   "sources": [
     {
       "name": "The Associated Press",
@@ -18,35 +18,108 @@
   "rights": {
     "mode": "original-report"
   },
+  "verification": {
+    "score": 8,
+    "checkedAt": "2026-09-22T10:05:52Z",
+    "checks": [
+      {
+        "provider": "The Associated Press",
+        "url": "https://apnews.com/article/climate-change-un-fuel-ai-renewables-f3208930e39c7d233bdc24315065dcd2",
+        "finding": "supports",
+        "note": "Complete local extraction was status 200 with complete:true; the source directly contains the article's reported claim and its stated qualifications."
+      },
+      {
+        "provider": "International Renewable Energy Agency",
+        "url": "https://www.irena.org/-/media/Files/IRENA/Agency/Publication/2026/Mar/IRENA_DAT_RE_capacity_statistics_2026.pdf",
+        "finding": "supports",
+        "note": "Complete local extraction was status 200 with complete:true; the source directly contains the article's reported claim and its stated qualifications."
+      },
+      {
+        "provider": "Aos Fatos",
+        "url": "https://www.aosfatos.org/",
+        "finding": "no-match",
+        "note": "No directly matching fact-check result surfaced in the source-restricted search; no-match is neutral and not evidence of accuracy."
+      },
+      {
+        "provider": "Agência Lupa",
+        "url": "https://www.agencialupa.org/",
+        "finding": "no-match",
+        "note": "No directly matching fact-check result surfaced in the source-restricted search; no-match is neutral and not evidence of accuracy."
+      },
+      {
+        "provider": "Projeto Comprova",
+        "url": "https://projetocomprova.com.br/",
+        "finding": "no-match",
+        "note": "No directly matching fact-check result surfaced in the source-restricted search; no-match is neutral and not evidence of accuracy."
+      },
+      {
+        "provider": "TSE Fato ou Boato",
+        "url": "https://www.tse.jus.br/comunicacao/noticias/fato-ou-boato",
+        "finding": "no-match",
+        "note": "No directly matching fact-check result surfaced in the source-restricted search; no-match is neutral and not evidence of accuracy."
+      },
+      {
+        "provider": "AFP Fact Check",
+        "url": "https://factcheck.afp.com/",
+        "finding": "no-match",
+        "note": "No directly matching fact-check result surfaced in the source-restricted search; no-match is neutral and not evidence of accuracy."
+      },
+      {
+        "provider": "Reuters Fact Check",
+        "url": "https://www.reuters.com/fact-check/",
+        "finding": "no-match",
+        "note": "No directly matching fact-check result surfaced in the source-restricted search; no-match is neutral and not evidence of accuracy."
+      },
+      {
+        "provider": "Full Fact",
+        "url": "https://fullfact.org/",
+        "finding": "no-match",
+        "note": "No directly matching fact-check result surfaced in the source-restricted search; no-match is neutral and not evidence of accuracy."
+      },
+      {
+        "provider": "Google Fact Check Explorer",
+        "url": "https://toolbox.google.com/factcheck/explorer",
+        "finding": "inconclusive",
+        "note": "The public claims-search endpoint returned HTTP 403 in this run and no exact ClaimReview record was confirmed; this is not evidence for or against the article."
+      },
+      {
+        "provider": "International Renewable Energy Agency",
+        "url": "https://www.irena.org/-/media/Files/IRENA/Agency/Publication/2026/Mar/IRENA_DAT_RE_capacity_statistics_2026.pdf",
+        "finding": "supports",
+        "note": "IRENA's 2026 Renewable Capacity Statistics corroborate the renewable-growth trend and the reported 2025 additions used in the article."
+      }
+    ],
+    "caveat": "The AP report supports the agenda and quoted expert claims; IRENA corroborates renewable-capacity growth, but the article combines many attributed claims and disaster figures."
+  },
   "translations": {
     "pt-BR": {
       "title": "Líderes mundiais enfrentam custos climáticos sob pressão de preços, IA e desastres",
       "summary": "Governantes e executivos reunidos em Nova York levarão à ONU e à Climate Week os efeitos de ondas de calor, incêndios e enchentes, além do impacto dos preços de energia e do consumo de eletricidade por centros de dados. Um novo relatório diz que a expansão das renováveis precisa acelerar para cumprir a meta de triplicar a capacidade até 2030.",
+      "aiSummary": [
+        "Desastres, combustíveis e centros de dados ampliam a pressão sobre a agenda climática da ONU.",
+        "As renováveis cresceram, mas a meta de triplicar a capacidade até 2030 exige aceleração sem precedentes."
+      ],
       "paragraphs": [
         "Líderes políticos e empresariais reunidos em Nova York nesta semana chegam à Assembleia Geral da ONU e à Climate Week sob pressão pelos custos cada vez mais visíveis da mudança climática. Ondas de calor, incêndios e uma enchente no Nepal que matou mais de 1.300 pessoas após o colapso de uma geleira na fronteira entre Nepal e China aumentam o peso humanitário da discussão.",
         "A agenda também deve incorporar a rápida expansão da inteligência artificial e dos centros de dados, que consomem muita energia, além da alta dos combustíveis fósseis associada às guerras no Irã e na Ucrânia. Autoridades da ONU relacionam a dependência de combustíveis à inflação e às contas das famílias, enquanto especialistas discutem se a IA agravará as emissões ou poderá acelerar avanços científicos e tecnológicos.",
         "Um relatório da Agência Internacional de Energia Renovável, da Global Renewables Alliance e da Turquia afirma que ainda é possível triplicar a capacidade renovável até o fim da década, mas será preciso avançar muito mais rápido. As estatísticas da IRENA registram 692 gigawatts adicionados em 2025, enquanto o mundo precisa instalar entre 2026 e 2030 mais capacidade do que em todos os anos anteriores combinados; a geração fóssil também voltou a crescer, puxada principalmente pelo carvão na China.",
         "A agenda climática descrita em Nova York combina impactos imediatos e decisões de infraestrutura: ondas de calor, incêndios e a enchente no Nepal dão dimensão humanitária, enquanto preços de combustíveis e consumo de centros de dados pressionam famílias e sistemas de energia. A IA aparece como fator de risco e possível ferramenta de avanço.",
         "O dado de 692 gigawatts adicionados em 2025 mostra crescimento, mas não basta para cumprir a meta de triplicar a capacidade renovável até 2030. A avaliação citada diz que entre 2026 e 2030 será preciso instalar mais capacidade do que em todos os anos anteriores combinados, num cenário em que a geração fóssil voltou a crescer, sobretudo com carvão na China."
-      ],
-      "aiSummary": [
-        "Desastres, combustíveis e centros de dados ampliam a pressão sobre a agenda climática da ONU.",
-        "As renováveis cresceram, mas a meta de triplicar a capacidade até 2030 exige aceleração sem precedentes."
       ]
     },
     "en": {
       "title": "World leaders confront climate costs as fuel prices, AI and disasters complicate the agenda",
       "summary": "Government and business leaders gathering in New York will take the effects of heat waves, wildfires and floods to the U.N. and Climate Week, alongside pressure from energy prices and data centers’ electricity demand. A new report says renewable expansion must accelerate to meet the goal of tripling capacity by 2030.",
+      "aiSummary": [
+        "Disasters, fuel costs and data centers are intensifying pressure on the U.N. climate agenda.",
+        "Renewables grew, but tripling capacity by 2030 requires an unprecedented acceleration."
+      ],
       "paragraphs": [
         "Political and business leaders gathering in New York this week are arriving at the U.N. General Assembly and Climate Week under pressure from the increasingly visible costs of climate change. Heat waves, wildfires and flooding in Nepal that killed more than 1,300 people after a glacier collapsed on the Nepal-China border are adding a humanitarian weight to the discussion.",
         "The agenda will also have to account for the rapid rise of artificial intelligence and energy-hungry data centers, as well as higher fossil-fuel prices linked to wars in Iran and Ukraine. U.N. officials connect fossil-fuel dependence with inflation and household bills, while experts debate whether AI will worsen emissions or help unlock scientific and technological advances.",
         "A report from the International Renewable Energy Agency, the Global Renewables Alliance and Turkey says the world can still triple renewable capacity by the end of the decade, but must move much faster. IRENA statistics record 692 gigawatts of additions in 2025, yet the world needs to build more capacity from 2026 through 2030 than in all previous years combined; fossil-fuel additions also rebounded, driven mainly by coal power in China.",
         "The climate agenda described in New York combines immediate impacts with infrastructure choices: heat waves, wildfires and Nepal’s flood add humanitarian weight, while fuel prices and data-center demand pressure households and energy systems. AI appears both as a possible risk and as a tool for progress.",
         "The 692 gigawatts added in 2025 show growth but are not enough to meet the goal of tripling renewable capacity by 2030. The cited assessment says 2026–2030 must deliver more capacity than all previous years combined, even as fossil generation has rebounded, especially through coal in China."
-      ],
-      "aiSummary": [
-        "Disasters, fuel costs and data centers are intensifying pressure on the U.N. climate agenda.",
-        "Renewables grew, but tripling capacity by 2030 requires an unprecedented acceleration."
       ]
     }
   }

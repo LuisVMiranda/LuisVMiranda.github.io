@@ -123,6 +123,16 @@
   padding-left: 1.2rem;
 }
 
+.article-ai-summary__confidence {
+  color: var(--ink);
+  margin: 0 0 0.35rem;
+}
+
+.article-ai-summary__caveat {
+  font-size: 0.9em;
+  margin: 0 0 0.75rem;
+}
+
 .article-ai-summary li + li {
   margin-top: 0.35rem;
 }

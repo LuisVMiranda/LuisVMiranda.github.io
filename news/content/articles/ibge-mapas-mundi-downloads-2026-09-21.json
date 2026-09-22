@@ -4,7 +4,7 @@
   "section": "brasil",
   "secondarySections": ["ciencia", "cultura"],
   "publishedAt": "2026-09-21T14:29:35+00:00",
-  "updatedAt": "2026-09-21T19:43:50.732Z",
+  "updatedAt": "2026-09-22T10:16:58.141Z",
   "sources": [
     {
       "name": "Agência de Notícias IBGE",
@@ -14,35 +14,108 @@
   "rights": {
     "mode": "original-report"
   },
+  "verification": {
+    "score": 8.6,
+    "checkedAt": "2026-09-22T10:05:52Z",
+    "checks": [
+      {
+        "provider": "Agência de Notícias IBGE",
+        "url": "https://agenciadenoticias.ibge.gov.br/agencia-noticias/2012-agencia-de-noticias/noticias/48104-colecao-de-mapas-mundi-do-ibge-ultrapassa-7-4-mil-downloads-apos-liberacao-gratuita",
+        "finding": "supports",
+        "note": "Complete local extraction was status 200 with complete:true; the source directly contains the article's reported claim and its stated qualifications."
+      },
+      {
+        "provider": "Aos Fatos",
+        "url": "https://www.aosfatos.org/",
+        "finding": "no-match",
+        "note": "No directly matching fact-check result surfaced in the source-restricted search; no-match is neutral and not evidence of accuracy."
+      },
+      {
+        "provider": "Agência Lupa",
+        "url": "https://www.agencialupa.org/",
+        "finding": "no-match",
+        "note": "No directly matching fact-check result surfaced in the source-restricted search; no-match is neutral and not evidence of accuracy."
+      },
+      {
+        "provider": "Projeto Comprova",
+        "url": "https://projetocomprova.com.br/",
+        "finding": "no-match",
+        "note": "No directly matching fact-check result surfaced in the source-restricted search; no-match is neutral and not evidence of accuracy."
+      },
+      {
+        "provider": "TSE Fato ou Boato",
+        "url": "https://www.tse.jus.br/comunicacao/noticias/fato-ou-boato",
+        "finding": "no-match",
+        "note": "No directly matching fact-check result surfaced in the source-restricted search; no-match is neutral and not evidence of accuracy."
+      },
+      {
+        "provider": "AFP Fact Check",
+        "url": "https://factcheck.afp.com/",
+        "finding": "no-match",
+        "note": "No directly matching fact-check result surfaced in the source-restricted search; no-match is neutral and not evidence of accuracy."
+      },
+      {
+        "provider": "Reuters Fact Check",
+        "url": "https://www.reuters.com/fact-check/",
+        "finding": "no-match",
+        "note": "No directly matching fact-check result surfaced in the source-restricted search; no-match is neutral and not evidence of accuracy."
+      },
+      {
+        "provider": "Full Fact",
+        "url": "https://fullfact.org/",
+        "finding": "no-match",
+        "note": "No directly matching fact-check result surfaced in the source-restricted search; no-match is neutral and not evidence of accuracy."
+      },
+      {
+        "provider": "Google Fact Check Explorer",
+        "url": "https://toolbox.google.com/factcheck/explorer",
+        "finding": "inconclusive",
+        "note": "The public claims-search endpoint returned HTTP 403 in this run and no exact ClaimReview record was confirmed; this is not evidence for or against the article."
+      },
+      {
+        "provider": "IBGE News Agency (English)",
+        "url": "https://agenciadenoticias.ibge.gov.br/en/agencia-news/2184-news-agency/news/47987-independence-day-ibge-grants-access-to-brazilian-map-of-the-world",
+        "finding": "supports",
+        "note": "An official IBGE release corroborates the free availability of the world-map collection and the initiative behind it."
+      },
+      {
+        "provider": "Brazil G20 / gov.br",
+        "url": "https://www.gov.br/g20/en/news/the-world-map-created-by-the-brazilian-institute-of-geography-and-statistics-ibge-highlights-the-g20-countries",
+        "finding": "supports",
+        "note": "An official government page corroborates the IBGE world-map series and its G20/Brazil-centered cartographic focus."
+      }
+    ],
+    "caveat": "The exact 7,408 count is from the official IBGE release; corroborating official pages support the free-map initiative but do not independently recount the current total."
+  },
   "translations": {
     "pt-BR": {
       "title": "Coleção gratuita de mapas-múndi do IBGE supera 7,4 mil downloads",
       "summary": "O instituto informou que a coleção liberada em setembro reúne mapas com diferentes perspectivas sobre o Brasil, a biodiversidade e o Sul Global.",
+      "aiSummary": [
+        "Os downloads se distribuíram entre mapas sobre G20, biodiversidade e Sul Global.",
+        "A série evoluiu desde o mapa do G20 e continua disponível na loja do IBGE."
+      ],
       "paragraphs": [
         "Os mapas-múndi disponibilizados gratuitamente pelo IBGE desde 7 de setembro somaram 7.408 downloads. A coleção reúne materiais lançados pelo instituto entre 2024 e 2026 e coloca o Brasil em destaque em diferentes representações cartográficas.",
         "O mapa sobre o Brasil no mundo no G20, em modelo A0, liderou o ranking com 1.139 downloads. Em seguida vieram o mapa de biodiversidade Species Richness 2025, com 1.018, e o mapa sobre o Brasil no mundo e o Fórum Internacional da Governança do Sul Global, com 929.",
         "A série começou com o mapa produzido para o G20, ganhou uma versão com o Hemisfério Sul no topo e passou a incluir uma representação da riqueza de espécies. O IBGE informou que os arquivos continuam disponíveis para download em sua loja.",
         "O ranking de downloads mostra que a coleção não se limita a uma representação única do país. O mapa do G20 liderou, mas a procura também foi alta por uma obra de biodiversidade e por outra dedicada ao Sul Global, sinalizando que o conjunto articula posição geopolítica, ambiente e diferentes escolhas cartográficas.",
         "A cronologia da série ajuda a entender sua proposta: ela começou com o mapa produzido para o G20, incorporou o Hemisfério Sul no topo e depois acrescentou a riqueza de espécies. Como os arquivos continuam disponíveis na loja do IBGE, o acesso não depende apenas do momento inicial de divulgação gratuita."
-      ],
-      "aiSummary": [
-        "Os downloads se distribuíram entre mapas sobre G20, biodiversidade e Sul Global.",
-        "A série evoluiu desde o mapa do G20 e continua disponível na loja do IBGE."
       ]
     },
     "en": {
       "title": "IBGE’s free world-map collection surpasses 7,400 downloads",
       "summary": "The institute said the collection released in September brings together different views of Brazil, biodiversity and the Global South.",
+      "aiSummary": [
+        "Downloads were spread across maps about the G20, biodiversity and the Global South.",
+        "The series grew from the G20 map and remains available through IBGE’s store."
+      ],
       "paragraphs": [
         "World maps made freely available by IBGE since September 7 had reached 7,408 downloads. The collection brings together materials released by the institute between 2024 and 2026 and highlights Brazil in different cartographic representations.",
         "The A0 map about Brazil in the G20 world led the ranking with 1,139 downloads. It was followed by the Species Richness 2025 biodiversity map, with 1,018, and the map about Brazil, the Global South and the International Forum on Global Governance, with 929.",
         "The series began with the map produced for the G20, gained a version with the Southern Hemisphere at the top and added a representation of species richness. IBGE said the files remain available for download through its store.",
         "The download ranking shows that the collection is not limited to a single portrayal of Brazil. The G20 map led, but demand was also strong for a biodiversity work and one focused on the Global South, linking geopolitical position, the environment and different cartographic choices.",
         "The series’ chronology clarifies its purpose: it began with the map produced for the G20, added a Southern Hemisphere-up version and later included species richness. Because the files remain available through IBGE’s store, access does not depend only on the initial moment of free release."
-      ],
-      "aiSummary": [
-        "Downloads were spread across maps about the G20, biodiversity and the Global South.",
-        "The series grew from the G20 map and remains available through IBGE’s store."
       ]
     }
   }

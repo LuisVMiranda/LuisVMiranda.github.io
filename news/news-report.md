@@ -201,6 +201,19 @@ their existing presentation. New automated selections must include the field,
 reviewed `contentReview` record in each section manifest. The existing synopsis
 remains separate and is still used by cards, article leads and metadata.
 
+New automated selections must also include an article-level `verification`
+record. Fact-checking subagents consult the configured Brazilian sources—Aos
+Fatos, Agência Lupa, Projeto Comprova and TSE Fato ou Boato—and international
+sources—AFP Fact Check, Reuters Fact Check, Full Fact and Google Fact Check
+Tools. They record a one-decimal evidence-confidence score from 0.0 to 10.0,
+the checked sources, each finding, a note and a caveat. The score is displayed
+inside the AI-summary block as an estimated percentage, but it is explicitly
+not a calibrated probability or guarantee. A no-match is neutral; a
+contradicting finding blocks publication until resolved. Use
+`automation/fact-checking-prompt.md` and
+`npm run fact-check:apply -- --edition EDITION --input AUDIT.json` for the
+subagent-to-catalog handoff.
+
 ## 5. Verify, deduplicate, rank and translate
 
 Confirm names, dates, numbers and factual claims against the complete source.

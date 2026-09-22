@@ -5,7 +5,7 @@
   "secondarySections": [],
   "publishedAt": "2026-09-21T00:00:00.000Z",
   "publishedDate": "2026-09-21",
-  "updatedAt": "2026-09-21T19:43:50.732Z",
+  "updatedAt": "2026-09-22T10:16:58.141Z",
   "sources": [
     {
       "name": "Correio do Povo",
@@ -19,34 +19,95 @@
     "pt-BR": {
       "title": "Seminário eleitoral expõe barreiras à participação feminina na política",
       "summary": "Especialistas discutiram representação, fraude à cota de gênero, violência política e desigualdade no acesso a recursos de campanha.",
+      "aiSummary": [
+        "Mulheres são 53% do eleitorado, mas ocupam 17,5% das cadeiras da Câmara.",
+        "Candidaturas fictícias podem levar a cassação, inelegibilidade e nulidade de votos partidários.",
+        "O seminário defendeu recursos, formação e aplicação das reservas de 30%."
+      ],
       "paragraphs": [
         "Um seminário do TRE-RS sobre fraude à cota de gênero discutiu as barreiras que mantêm baixa a presença feminina na política. O Correio do Povo informa que as mulheres ocupam 90 das 513 cadeiras da Câmara, ou 17,5%, enquanto a bancada gaúcha tem seis mulheres entre 31 representantes.",
         "Pesquisadoras e integrantes da Justiça Eleitoral relacionaram a desigualdade ao sistema de lista aberta e a fraudes como candidaturas fictícias, que podem levar à cassação de registros e diplomas, inelegibilidade e nulidade de votos do partido. Também apontaram assédio e violência política como obstáculos.",
         "O texto registra que mulheres são 53% dos 158,7 milhões de eleitores aptos em 2026, mas representam 35% dos pedidos de registro de candidatura. As participantes defenderam condições materiais, distribuição de recursos e formação de lideranças, além da aplicação das regras que reservam ao menos 30% do financiamento e do tempo de propaganda às candidatas.",
         "Os números apresentados no seminário mostram uma diferença entre participação eleitoral e representação institucional: mulheres são 53% dos 158,7 milhões de eleitores aptos, mas ocupam 17,5% das cadeiras da Câmara e correspondem a 35% dos pedidos de registro de candidatura. O desequilíbrio aparece, portanto, tanto no resultado parlamentar quanto no acesso às disputas.",
         "As participantes também destacaram que a fraude à cota pode produzir consequências eleitorais concretas, como cassação de registros e diplomas, inelegibilidade e nulidade de votos partidários. Entre as respostas defendidas estão condições materiais, formação de lideranças, combate à violência política e cumprimento das reservas de 30% para financiamento e propaganda."
-      ],
-      "aiSummary": [
-        "Mulheres são 53% do eleitorado, mas ocupam 17,5% das cadeiras da Câmara.",
-        "Candidaturas fictícias podem levar a cassação, inelegibilidade e nulidade de votos partidários.",
-        "O seminário defendeu recursos, formação e aplicação das reservas de 30%."
       ]
     },
     "en": {
       "title": "Election seminar highlights barriers to women’s participation in politics",
       "summary": "Experts discussed representation, gender-quota fraud, political violence and unequal access to campaign resources.",
+      "aiSummary": [
+        "Women are 53% of eligible voters but hold 17.5% of Chamber seats.",
+        "Sham candidacies can trigger cancellations, ineligibility and invalidation of party votes.",
+        "The seminar called for resources, training and enforcement of 30% reservations."
+      ],
       "paragraphs": [
         "A TRE-RS seminar on gender-quota fraud examined barriers that keep women’s political representation low. Correio do Povo reported that women hold 90 of the Chamber of Deputies’ 513 seats, or 17.5%, while Rio Grande do Sul’s congressional delegation has six women among 31 representatives.",
         "Researchers and electoral officials linked the gap to Brazil’s open-list system and to practices such as sham candidacies, which can lead to the cancellation of party registrations and elected mandates, ineligibility and invalidation of party votes. They also identified harassment and political violence as obstacles.",
         "The report says women make up 53% of Brazil’s 158.7 million eligible voters in 2026 but only 35% of registered candidacy requests. Participants called for material support, fairer resource distribution and leadership development, alongside enforcement of rules reserving at least 30% of campaign funding and broadcast time for women.",
         "The seminar’s figures show a gap between electoral participation and institutional representation: women make up 53% of Brazil’s 158.7 million eligible voters, yet hold 17.5% of Chamber seats and account for 35% of candidacy-registration requests. The imbalance therefore appears both in parliamentary results and in access to contests.",
         "Participants also emphasized that sham candidacies can produce concrete electoral consequences, including cancellation of registrations and mandates, ineligibility and invalidation of party votes. The responses they advocated included material support, leadership development, protection from political violence and enforcement of the 30% funding and broadcast-time reservations."
-      ],
-      "aiSummary": [
-        "Women are 53% of eligible voters but hold 17.5% of Chamber seats.",
-        "Sham candidacies can trigger cancellations, ineligibility and invalidation of party votes.",
-        "The seminar called for resources, training and enforcement of 30% reservations."
       ]
     }
+  },
+  "verification": {
+    "score": 8,
+    "checkedAt": "2026-09-22T10:00:08Z",
+    "checks": [
+      {
+        "provider": "Correio do Povo",
+        "url": "https://www.correiodopovo.com.br/not%C3%ADcias/pol%C3%ADtica/elei%C3%A7%C3%B5es/nao-basta-assegurar-as-mulheres-o-direito-de-participar-da-politica-e-preciso-criar-condicoes-diz-procuradora-1.1749526",
+        "finding": "supports",
+        "note": "Complete local source extraction (HTTP 200, complete:true) directly supports the article’s central claim as written, with attribution and date preserved."
+      },
+      {
+        "provider": "Aos Fatos",
+        "url": "https://www.aosfatos.org/",
+        "finding": "no-match",
+        "note": "No matching fact-check verdict for the central claim was identified in exact-claim and meaningful-variant searches; no-match is neutral and is not evidence that the claim is true."
+      },
+      {
+        "provider": "Agência Lupa",
+        "url": "https://www.agencialupa.org/jornalismo/2022/06/10/mulheres-eleitas-2000-2020/",
+        "finding": "context",
+        "note": "Provides historical context on women’s underrepresentation; it does not independently verify the TRE-RS seminar’s 2026 figures."
+      },
+      {
+        "provider": "Projeto Comprova",
+        "url": "https://projetocomprova.com.br/",
+        "finding": "no-match",
+        "note": "No matching fact-check verdict for the central claim was identified in exact-claim and meaningful-variant searches; no-match is neutral and is not evidence that the claim is true."
+      },
+      {
+        "provider": "TSE Fato ou Boato",
+        "url": "https://www.tse.jus.br/comunicacao/noticias/2024/Julho/tse-tem-jurisprudencia-pacificada-sobre-fraude-a-cota-de-generopara-as-eleicoes-2024",
+        "finding": "context",
+        "note": "Official TSE material confirms the legal relevance of gender-quota fraud, but it is not a fact-check of this seminar report."
+      },
+      {
+        "provider": "AFP Fact Check",
+        "url": "https://factcheck.afp.com/",
+        "finding": "no-match",
+        "note": "No matching fact-check verdict for the central claim was identified in exact-claim and meaningful-variant searches; no-match is neutral and is not evidence that the claim is true."
+      },
+      {
+        "provider": "Reuters Fact Check",
+        "url": "https://www.reuters.com/fact-check/",
+        "finding": "no-match",
+        "note": "No matching fact-check verdict for the central claim was identified in exact-claim and meaningful-variant searches; no-match is neutral and is not evidence that the claim is true."
+      },
+      {
+        "provider": "Full Fact",
+        "url": "https://fullfact.org/",
+        "finding": "no-match",
+        "note": "No matching fact-check verdict for the central claim was identified in exact-claim and meaningful-variant searches; no-match is neutral and is not evidence that the claim is true."
+      },
+      {
+        "provider": "Google Fact Check Explorer",
+        "url": "https://toolbox.google.com/factcheck/explorer",
+        "finding": "no-match",
+        "note": "No matching fact-check verdict for the central claim was identified in exact-claim and meaningful-variant searches; no-match is neutral and is not evidence that the claim is true."
+      }
+    ],
+    "caveat": "The complete dated report documents the TRE-RS seminar and attributed representation figures. Lupa and TSE material provide contextual support on women’s representation and quota-fraud enforcement, not a direct verdict on the event report. No-match findings were treated as neutral, never as positive evidence."
   }
 }

@@ -5,7 +5,7 @@
   "secondarySections": ["politica"],
   "publishedAt": "2026-09-21T00:00:00.000Z",
   "publishedDate": "2026-09-21",
-  "updatedAt": "2026-09-21T19:43:50.732Z",
+  "updatedAt": "2026-09-22T10:16:58.141Z",
   "sources": [
     {
       "name": "The Associated Press",
@@ -19,35 +19,120 @@
   "rights": {
     "mode": "original-report"
   },
+  "verification": {
+    "score": 9.3,
+    "checkedAt": "2026-09-22T10:05:52Z",
+    "checks": [
+      {
+        "provider": "The Associated Press",
+        "url": "https://apnews.com/article/russia-elections-kremlin-putin-5342c2757623f2e46e94b4c548e94213",
+        "finding": "supports",
+        "note": "Complete local extraction was status 200 with complete:true; the source directly contains the article's reported claim and its stated qualifications."
+      },
+      {
+        "provider": "Agência Brasil",
+        "url": "https://agenciabrasil.ebc.com.br/internacional/noticia/2026-09/partido-pro-putin-vence-eleicao-russa-com-mais-de-57-dos-votos",
+        "finding": "supports",
+        "note": "Complete local extraction was status 200 with complete:true; the source directly contains the article's reported claim and its stated qualifications."
+      },
+      {
+        "provider": "Aos Fatos",
+        "url": "https://www.aosfatos.org/",
+        "finding": "no-match",
+        "note": "No directly matching fact-check result surfaced in the source-restricted search; no-match is neutral and not evidence of accuracy."
+      },
+      {
+        "provider": "Agência Lupa",
+        "url": "https://www.agencialupa.org/",
+        "finding": "no-match",
+        "note": "No directly matching fact-check result surfaced in the source-restricted search; no-match is neutral and not evidence of accuracy."
+      },
+      {
+        "provider": "Projeto Comprova",
+        "url": "https://projetocomprova.com.br/",
+        "finding": "no-match",
+        "note": "No directly matching fact-check result surfaced in the source-restricted search; no-match is neutral and not evidence of accuracy."
+      },
+      {
+        "provider": "TSE Fato ou Boato",
+        "url": "https://www.tse.jus.br/comunicacao/noticias/fato-ou-boato",
+        "finding": "no-match",
+        "note": "No directly matching fact-check result surfaced in the source-restricted search; no-match is neutral and not evidence of accuracy."
+      },
+      {
+        "provider": "AFP Fact Check",
+        "url": "https://factcheck.afp.com/",
+        "finding": "no-match",
+        "note": "No directly matching fact-check result surfaced in the source-restricted search; no-match is neutral and not evidence of accuracy."
+      },
+      {
+        "provider": "Reuters Fact Check",
+        "url": "https://www.reuters.com/fact-check/",
+        "finding": "no-match",
+        "note": "No directly matching fact-check result surfaced in the source-restricted search; no-match is neutral and not evidence of accuracy."
+      },
+      {
+        "provider": "Full Fact",
+        "url": "https://fullfact.org/",
+        "finding": "no-match",
+        "note": "No directly matching fact-check result surfaced in the source-restricted search; no-match is neutral and not evidence of accuracy."
+      },
+      {
+        "provider": "Google Fact Check Explorer",
+        "url": "https://toolbox.google.com/factcheck/explorer",
+        "finding": "inconclusive",
+        "note": "The public claims-search endpoint returned HTTP 403 in this run and no exact ClaimReview record was confirmed; this is not evidence for or against the article."
+      },
+      {
+        "provider": "Reuters",
+        "url": "https://www.reuters.com/world/europe/pro-putin-party-keeps-grip-parliament-anti-war-party-gains-tiny-regional-2026-09-21/",
+        "finding": "supports",
+        "note": "Reuters independently reports United Russia retaining a decisive majority in near-complete results."
+      },
+      {
+        "provider": "PBS NewsHour",
+        "url": "https://www.pbs.org/newshour/world/main-kremlin-party-keeps-control-russia-parliament-after-a-carefully-orchestrated-vote",
+        "finding": "supports",
+        "note": "PBS, republishing AP reporting, corroborates the parliamentary majority and the tightly managed voting context."
+      },
+      {
+        "provider": "The Guardian",
+        "url": "https://www.theguardian.com/world/2026/sep/21/putin-consolidates-grip-russia-ukraine-war-veterans-elected-duma",
+        "finding": "supports",
+        "note": "Independent reporting corroborates the 355-of-450 seat result and the broader contested context."
+      }
+    ],
+    "caveat": "Figures are preliminary or near-complete and the election's conduct is contested; independent reports corroborate the seat and vote figures."
+  },
   "translations": {
     "pt-BR": {
       "title": "Rússia Unida mantém maioria no Parlamento após eleição sob forte controle do Kremlin",
       "summary": "Resultados preliminares dão ao partido governista 355 das 450 cadeiras da Duma, após mais de 95% das urnas processadas. A votação, marcada por restrições à oposição e contestação ucraniana nas áreas ocupadas, foi apresentada por Putin como teste de apoio à guerra.",
+      "aiSummary": [
+        "A projeção de 355 cadeiras ainda dependia da conclusão e da divulgação formal da apuração.",
+        "O pleito ocorreu com oposição limitada, críticas ao voto eletrônico e contestação nas áreas ocupadas."
+      ],
       "paragraphs": [
         "A Comissão Eleitoral Central da Rússia informou que o Rússia Unida liderava com cerca de 57,8% dos votos para as cadeiras distribuídas por listas e poderia conquistar 355 das 450 vagas da Duma. A apuração preliminar, com mais de 95% das urnas processadas, também indicava comparecimento superior a 59%; a divulgação formal do resultado estava prevista para sexta-feira.",
         "A eleição ocorreu durante três dias e teve participação limitada da oposição. O partido liberal e contrário à guerra Yabloko foi impedido de disputar a lista nacional, enquanto críticos relataram restrições a observadores e questionaram a transparência do voto eletrônico. Kyiv rejeitou a votação realizada em áreas da Ucrânia ocupadas pela Rússia.",
         "Foi a primeira eleição parlamentar russa desde a invasão em larga escala da Ucrânia em 2022. A AP registrou que o Kremlin pode usar o resultado como demonstração de apoio à guerra, embora a votação também tenha ocorrido em meio a ataques de drones ucranianos e a críticas sobre a ausência de competição política efetiva.",
         "Os números permaneciam preliminares: mais de 95% das urnas haviam sido processadas, a projeção era de 355 cadeiras e a divulgação formal estava prevista para sexta-feira. A vantagem eleitoral, portanto, deve ser lida junto com o estágio da apuração, sem transformar a estimativa em resultado definitivo.",
         "O contexto de legitimidade é parte central da notícia. A exclusão do Yabloko, as críticas ao voto eletrônico e as objeções de Kyiv às áreas ocupadas mostram que a maioria projetada foi obtida em um pleito com competição e alcance territorial contestados, enquanto o Kremlin poderia apresentá-la como apoio à guerra."
-      ],
-      "aiSummary": [
-        "A projeção de 355 cadeiras ainda dependia da conclusão e da divulgação formal da apuração.",
-        "O pleito ocorreu com oposição limitada, críticas ao voto eletrônico e contestação nas áreas ocupadas."
       ]
     },
     "en": {
       "title": "United Russia keeps parliamentary majority after election held under tight Kremlin control",
       "summary": "Preliminary results give the governing party 355 of the Duma’s 450 seats after more than 95% of ballots were processed. The vote, marked by restrictions on opponents and Ukrainian objections in occupied areas, was presented by Putin as a test of support for the war.",
+      "aiSummary": [
+        "The projection of 355 seats still awaited completed counting and formal results.",
+        "The election featured restricted opposition, electronic-voting criticism and disputes over occupied areas."
+      ],
       "paragraphs": [
         "Russia’s Central Election Commission said United Russia was leading with about 57.8% of the party-list vote and could win 355 of the Duma’s 450 seats. With more than 95% of polling stations counted, preliminary figures also put turnout above 59%; the formal result was expected on Friday.",
         "The election took place over three days with limited opposition participation. The liberal, anti-war Yabloko party was barred from the national list, while critics reported restrictions on observers and questioned the transparency of electronic voting. Kyiv rejected voting held in Ukrainian areas occupied by Russia.",
         "It was Russia’s first parliamentary election since the full-scale invasion of Ukraine in 2022. The AP reported that the Kremlin may use the result as evidence of support for the war, although the vote also unfolded amid Ukrainian drone attacks and criticism that meaningful political competition had been suppressed.",
         "The figures were still preliminary: more than 95% of polling stations had been processed, the projection was 355 seats and the formal result was expected Friday. The apparent majority should therefore be read alongside the counting stage, rather than treated as a definitive outcome.",
         "Legitimacy is central to the report’s context. Yabloko’s exclusion, criticism of electronic voting and Kyiv’s objections to ballots in occupied areas show that the projected majority emerged from a contest whose competition and territorial reach were disputed, even as the Kremlin could present it as support for the war."
-      ],
-      "aiSummary": [
-        "The projection of 355 seats still awaited completed counting and formal results.",
-        "The election featured restricted opposition, electronic-voting criticism and disputes over occupied areas."
       ]
     }
   }

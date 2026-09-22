@@ -5,7 +5,7 @@
   "secondarySections": [],
   "publishedAt": "2026-09-17T20:43:38+00:00",
   "publishedDate": "2026-09-17",
-  "updatedAt": "2026-09-21T19:43:50.732Z",
+  "updatedAt": "2026-09-22T10:16:58.141Z",
   "sources": [
     {
       "name": "The Guardian",
@@ -23,32 +23,93 @@
     "pt-BR": {
       "title": "Novo felino é descrito pela primeira vez em mais de um século",
       "summary": "Dados genéticos levaram pesquisadores a reconhecer o Leopardus tilcayo, um pequeno gato-tigre da floresta nublada de Yungas, na Bolívia.",
+      "aiSummary": [
+        "O DNA de 38 gatos, incluindo exemplares de museu, distinguiu cinco espécies de gato-tigre.",
+        "Os dados foram enviados à IUCN enquanto o habitat de Yungas enfrenta desmatamento, agricultura, incêndios e mineração."
+      ],
       "paragraphs": [
         "Pesquisadores descreveram uma nova espécie de gato-tigre encontrada na floresta nublada de Yungas, na Bolívia. Batizado de Leopardus tilcayo, o felino mede cerca de 46 centímetros e pesa aproximadamente 1,4 quilo.",
         "A equipe analisou o DNA de 38 gatos de vários países sul-americanos, incluindo exemplares de museu, e concluiu que os gatos-tigre formam cinco espécies geneticamente distintas. A linhagem do tilcayo teria se separado das demais há cerca de 1,4 milhão de anos.",
         "Ainda se sabe pouco sobre a biologia do animal, e o habitat sofre pressão de desmatamento, agricultura, incêndios e mineração. Os pesquisadores compartilharam os dados com a União Internacional para a Conservação da Natureza para que as linhagens sejam avaliadas separadamente.",
         "A identificação não veio apenas da aparência: o DNA de 38 gatos, incluindo exemplares de museu, separou o grupo em cinco espécies geneticamente distintas. Nesse conjunto, a linhagem do tilcayo aparece como uma divisão antiga, estimada em cerca de 1,4 milhão de anos.",
         "Reconhecer a linhagem individualmente muda a escala da avaliação de conservação, porque ameaças sobre a floresta nublada de Yungas podem afetar uma espécie específica. Ainda assim, a biologia do animal é pouco conhecida, e os dados foram enviados à IUCN para análise."
-      ],
-      "aiSummary": [
-        "O DNA de 38 gatos, incluindo exemplares de museu, distinguiu cinco espécies de gato-tigre.",
-        "Os dados foram enviados à IUCN enquanto o habitat de Yungas enfrenta desmatamento, agricultura, incêndios e mineração."
       ]
     },
     "en": {
       "title": "New feline described for the first time in more than a century",
       "summary": "Genetic data led researchers to recognize Leopardus tilcayo, a small tiger cat from Bolivia’s Yungas cloud forest.",
+      "aiSummary": [
+        "DNA from 38 cats, including museum specimens, distinguished five tiger-cat species.",
+        "The data were sent to the IUCN while the Yungas habitat faces deforestation, farming, fires, and mining."
+      ],
       "paragraphs": [
         "Researchers described a new tiger-cat species found in Bolivia’s Yungas cloud forest. Named Leopardus tilcayo, the feline is about 46 centimeters long and weighs roughly 1.4 kilograms.",
         "The team analyzed DNA from 38 cats across several South American countries, including museum specimens, and concluded that tiger cats comprise five genetically distinct species. The tilcayo lineage appears to have separated from the others about 1.4 million years ago.",
         "Little is known about the animal’s biology, while its habitat faces pressure from deforestation, farming, fires and mining. The researchers shared the data with the International Union for Conservation of Nature so the lineages can be assessed separately.",
         "The identification did not rely only on appearance: DNA from 38 cats, including museum specimens, separated the group into five genetically distinct species. Within that set, the tilcayo lineage appears to be an ancient split estimated at about 1.4 million years.",
         "Recognizing the lineage separately changes the scale of conservation assessment because threats to the Yungas cloud forest can affect one specific species. The animal's biology is still poorly known, however, and the data were sent to the IUCN for assessment."
-      ],
-      "aiSummary": [
-        "DNA from 38 cats, including museum specimens, distinguished five tiger-cat species.",
-        "The data were sent to the IUCN while the Yungas habitat faces deforestation, farming, fires, and mining."
       ]
     }
+  },
+  "verification": {
+    "score": 8.7,
+    "checkedAt": "2026-09-22T10:01:14Z",
+    "checks": [
+      {
+        "provider": "The Guardian",
+        "url": "https://www.theguardian.com/world/2026/sep/17/new-cat-species-identified-bolivia",
+        "finding": "supports",
+        "note": "Complete source context for The Guardian was reviewed against the article summary and manifest evidence; the central claim is represented with the source's attribution and stated limitations."
+      },
+      {
+        "provider": "Aos Fatos",
+        "url": "https://www.aosfatos.org/",
+        "finding": "no-match",
+        "note": "Direct site-restricted search in Portuguese for the central claim, named entities, and key dates in 'Novo felino é descrito pela primeira vez em mais de um século' found no matching fact-check page. This no-match is neutral and is not evidence that the claim is true."
+      },
+      {
+        "provider": "Agência Lupa",
+        "url": "https://www.agencialupa.org/",
+        "finding": "no-match",
+        "note": "Direct site-restricted search in Portuguese for the central claim, named entities, and key dates in 'Novo felino é descrito pela primeira vez em mais de um século' found no matching fact-check page. This no-match is neutral and is not evidence that the claim is true."
+      },
+      {
+        "provider": "Projeto Comprova",
+        "url": "https://projetocomprova.com.br/",
+        "finding": "no-match",
+        "note": "Direct site-restricted search in Portuguese for the central claim, named entities, and key dates in 'Novo felino é descrito pela primeira vez em mais de um século' found no matching fact-check page. This no-match is neutral and is not evidence that the claim is true."
+      },
+      {
+        "provider": "TSE Fato ou Boato",
+        "url": "https://www.tse.jus.br/comunicacao/noticias/fato-ou-boato",
+        "finding": "no-match",
+        "note": "No election/civic-process fact-check relevant to the claim 'Novo felino é descrito pela primeira vez em mais de um século' was found; this source is not materially targeted to the article. The result is neutral."
+      },
+      {
+        "provider": "AFP Fact Check",
+        "url": "https://factcheck.afp.com/",
+        "finding": "no-match",
+        "note": "Direct site-restricted search in English for the central claim, named entities, and key dates in 'New feline described for the first time in more than a century' found no matching fact-check page. This no-match is neutral and is not evidence that the claim is true."
+      },
+      {
+        "provider": "Reuters Fact Check",
+        "url": "https://www.reuters.com/fact-check/",
+        "finding": "no-match",
+        "note": "Direct site-restricted search in English for the central claim, named entities, and key dates in 'New feline described for the first time in more than a century' found no matching fact-check page. This no-match is neutral and is not evidence that the claim is true."
+      },
+      {
+        "provider": "Full Fact",
+        "url": "https://fullfact.org/",
+        "finding": "no-match",
+        "note": "Direct site-restricted search in English for the central claim, named entities, and key dates in 'New feline described for the first time in more than a century' found no matching fact-check page. This no-match is neutral and is not evidence that the claim is true."
+      },
+      {
+        "provider": "Google Fact Check Tools",
+        "url": "https://toolbox.google.com/factcheck/explorer",
+        "finding": "inconclusive",
+        "note": "The Explorer homepage was checked through indexed search, but the claims:search API returned HTTP 403 without an API key; this is incomplete coverage, not a no-match and not evidence of truth."
+      }
+    ],
+    "caveat": "Evidence-confidence estimate based on the complete source context, attribution review, direct fact-check-source searches, and the absence of a contradictory finding; no-match results are neutral, and this score is not a calibrated probability or guarantee. The species-identification claim is additionally supported by the independent Associated Press source listed in the input."
   }
 }

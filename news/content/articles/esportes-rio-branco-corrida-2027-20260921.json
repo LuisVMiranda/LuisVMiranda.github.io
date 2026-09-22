@@ -4,7 +4,7 @@
   "section": "esportes",
   "secondarySections": [],
   "publishedAt": "2026-09-21T11:33:33.773-03:00",
-  "updatedAt": "2026-09-21T19:43:50.732Z",
+  "updatedAt": "2026-09-22T10:16:58.141Z",
   "sources": [
     {
       "name": "ge.globo.com",
@@ -18,32 +18,93 @@
     "pt-BR": {
       "title": "Rio Branco-ES confirma segunda edição de corrida de rua para 2027",
       "summary": "Evento de estreia em Vitória reuniu 1.800 inscritos e esgotou as vagas mais de um mês antes.",
+      "aiSummary": [
+        "A primeira corrida teve 1.800 inscritos, 23 marcas parceiras e vagas esgotadas com mais de um mês de antecedência.",
+        "A edição de 2027 foi confirmada, mas a reportagem ainda não informa data, percurso ou número de vagas."
+      ],
       "paragraphs": [
         "A primeira Corrida do Rio Branco-ES foi realizada em 13 de setembro, na Praia de Camburi, em Vitória, com 1.800 inscritos e 23 marcas parceiras.",
         "As inscrições terminaram mais de um mês antes da prova. O clube afirmou que decidiu manter o limite de participantes para priorizar a qualidade da experiência oferecida aos corredores, apesar da procura maior.",
         "A resposta positiva levou a SAF do Rio Branco-ES a confirmar uma segunda edição em 2027, com a expectativa de ampliar o evento sobre uma base construída na estreia.",
         "A estreia combinou escala controlada e forte procura: foram 1.800 inscritos, 23 marcas parceiras e esgotamento das vagas mais de um mês antes da prova. Mesmo diante da demanda maior, o clube manteve o limite para priorizar a experiência dos corredores.",
         "A confirmação de uma segunda edição em 2027 nasce desse resultado, mas ainda não traz data, percurso ou novo número de vagas. O que está definido é a continuidade do evento pela SAF do Rio Branco-ES, com expectativa de ampliar uma iniciativa que teve sua base construída em Vitória."
-      ],
-      "aiSummary": [
-        "A primeira corrida teve 1.800 inscritos, 23 marcas parceiras e vagas esgotadas com mais de um mês de antecedência.",
-        "A edição de 2027 foi confirmada, mas a reportagem ainda não informa data, percurso ou número de vagas."
       ]
     },
     "en": {
       "title": "Rio Branco-ES confirms second road race edition for 2027",
       "summary": "The debut event in Vitória drew 1,800 registered runners and sold out more than a month in advance.",
+      "aiSummary": [
+        "The first race had 1,800 registered runners, 23 partner brands and sold out more than a month early.",
+        "The 2027 edition is confirmed, but no date, route or participant capacity has been reported."
+      ],
       "paragraphs": [
         "The first Rio Branco-ES Road Race took place on September 13 at Praia de Camburi in Vitória, with 1,800 registered runners and 23 partner brands.",
         "Registration sold out more than a month before the race. The club said it chose to keep the participant limit to prioritize the quality of the experience despite stronger demand.",
         "The positive response led Rio Branco-ES's SAF to confirm a second edition in 2027, with the expectation of expanding the event from the foundation built in its debut.",
         "The debut combined a controlled scale with strong demand: it had 1,800 registered runners, 23 partner brands and sold out more than a month before race day. Despite the greater interest, the club kept the participant cap to prioritize the runners’ experience.",
         "The 2027 confirmation follows that response but does not yet provide a date, route or new capacity. What is established is the SAF’s continuation of the event, with an expectation to build on the foundation created by the Vitória debut."
-      ],
-      "aiSummary": [
-        "The first race had 1,800 registered runners, 23 partner brands and sold out more than a month early.",
-        "The 2027 edition is confirmed, but no date, route or participant capacity has been reported."
       ]
     }
+  },
+  "verification": {
+    "score": 8.3,
+    "checkedAt": "2026-09-22T09:56:46Z",
+    "checks": [
+      {
+        "provider": "Original article source",
+        "url": "https://ge.globo.com/es/futebol/times/rio-branco-es/noticia/2026/09/21/corrida-de-rua-do-rio-branco-es-tera-segunda-edicao-em-2027.ghtml",
+        "finding": "supports",
+        "note": "The complete source page was fetched directly with HTTP 200; its headline and body match the article's central claim and named entities. This is primary evidence, not an independent fact-check."
+      },
+      {
+        "provider": "Aos Fatos",
+        "url": "https://www.aosfatos.org/",
+        "finding": "no-match",
+        "note": "No fact-check addressing this article’s central claim appeared in exact-headline and claim/entity searches of this provider. The no-match is neutral, not evidence of truth."
+      },
+      {
+        "provider": "Agência Lupa",
+        "url": "https://www.agencialupa.org/",
+        "finding": "no-match",
+        "note": "No fact-check addressing this article’s central claim appeared in exact-headline and claim/entity searches of this provider. The no-match is neutral, not evidence of truth."
+      },
+      {
+        "provider": "Projeto Comprova",
+        "url": "https://projetocomprova.com.br/",
+        "finding": "no-match",
+        "note": "No fact-check addressing this article’s central claim appeared in exact-headline and claim/entity searches of this provider. The no-match is neutral, not evidence of truth."
+      },
+      {
+        "provider": "TSE Fato ou Boato",
+        "url": "https://www.tse.jus.br/comunicacao/noticias/fato-ou-boato",
+        "finding": "no-match",
+        "note": "No matching item addressing this article’s central claim was found in domain-scoped searches; this source is not generally relevant to routine culture or sports reporting. The no-match is neutral, not evidence of truth."
+      },
+      {
+        "provider": "AFP Fact Check",
+        "url": "https://factcheck.afp.com/",
+        "finding": "no-match",
+        "note": "No fact-check addressing this article’s central claim appeared in exact-headline and claim/entity searches. Any related hits concerned different claims and were excluded; the no-match is neutral."
+      },
+      {
+        "provider": "Reuters Fact Check",
+        "url": "https://www.reuters.com/fact-check/",
+        "finding": "no-match",
+        "note": "No fact-check addressing this article’s central claim appeared in exact-headline and claim/entity searches of this provider. The no-match is neutral, not evidence of truth."
+      },
+      {
+        "provider": "Full Fact",
+        "url": "https://fullfact.org/",
+        "finding": "no-match",
+        "note": "No fact-check addressing this article’s central claim appeared in exact-headline and claim/entity searches of this provider. The no-match is neutral, not evidence of truth."
+      },
+      {
+        "provider": "Google Fact Check Explorer",
+        "url": "https://toolbox.google.com/factcheck/explorer",
+        "finding": "no-match",
+        "note": "No matching indexed ClaimReview record appeared for exact-headline and claim/entity variants in the Explorer domain. The no-match is neutral, not evidence of truth."
+      }
+    ],
+    "caveat": "Confidence is based on the complete source page fetched directly and the absence of any contradictory fact-check; no relevant fact-check match was found, and no-match results are neutral. The score is an editorial evidence estimate, not a probability or guarantee."
   }
 }

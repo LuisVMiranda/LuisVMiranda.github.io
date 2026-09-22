@@ -4,7 +4,7 @@
   "section": "tecnologia",
   "secondarySections": [],
   "publishedAt": "2026-09-21T10:06:00.000-03:00",
-  "updatedAt": "2026-09-21T19:43:50.732Z",
+  "updatedAt": "2026-09-22T10:16:58.141Z",
   "sources": [
     {
       "name": "Canaltech",
@@ -18,32 +18,93 @@
     "pt-BR": {
       "title": "Teste autorizado encontrou falha que permitiu acesso a contas ligadas à OpenAI",
       "summary": "A Hacktron AI explorou uma falha no fórum de ajuda da OpenAI durante um teste autorizado, e a empresa informou que corrigiu o problema em cerca de 14 horas.",
+      "aiSummary": [
+        "A falha foi encontrada em um exercício autorizado no fórum de ajuda da OpenAI, operado pela Discourse.",
+        "A OpenAI informou correção em cerca de 14 horas e pagou uma recompensa de 6.500 dólares."
+      ],
       "paragraphs": [
         "A startup chamada Hacktron AI conseguiu alcançar contas do ChatGPT ligadas a funcionários da OpenAI durante um exercício de segurança autorizado. O ponto de entrada foi uma vulnerabilidade no fórum público de ajuda da OpenAI, operado pela plataforma Discourse.",
         "Para identificar e explorar a falha, a equipe usou modelos da Anthropic; a matéria relata que o Claude Opus 5 produziu um ataque funcional em cerca de três horas. O episódio ilustra como modelos de IA podem acelerar testes ofensivos, sem transformar o exercício autorizado em prova de um ataque criminoso.",
         "A OpenAI confirmou o incidente à AFP, segundo a reportagem, e disse que corrigiu a vulnerabilidade aproximadamente 14 horas depois de ser avisada. A empresa também pagou uma recompensa de 6.500 dólares à Hacktron AI, enquanto OpenAI e Discourse coordenaram a correção.",
         "O episódio reúne uma cadeia de resposta relativamente clara: o exercício autorizado encontrou a falha no fórum operado pela Discourse, a OpenAI confirmou o caso à AFP e a correção foi informada cerca de 14 horas depois do aviso. Nada no relato o caracteriza como invasão criminosa.",
         "O uso de modelos da Anthropic também é parte central do caso, porque o Claude Opus 5 teria produzido um ataque funcional em aproximadamente três horas. A recompensa de 6.500 dólares e a coordenação entre OpenAI e Discourse completam a remediação descrita."
-      ],
-      "aiSummary": [
-        "A falha foi encontrada em um exercício autorizado no fórum de ajuda da OpenAI, operado pela Discourse.",
-        "A OpenAI informou correção em cerca de 14 horas e pagou uma recompensa de 6.500 dólares."
       ]
     },
     "en": {
       "title": "Authorized test found a flaw that enabled access to accounts linked to OpenAI",
       "summary": "Hacktron AI exploited a flaw in OpenAI’s help forum during an authorized test, and the company said it fixed the issue in about 14 hours.",
+      "aiSummary": [
+        "The flaw was found during an authorized exercise against OpenAI's help forum, which is operated by Discourse.",
+        "OpenAI said it fixed the issue in about 14 hours and paid a 6,500-dollar bounty."
+      ],
       "paragraphs": [
         "A startup called Hacktron AI reached ChatGPT accounts linked to OpenAI employees during an authorized security exercise. The entry point was a vulnerability in OpenAI’s public help forum, which is operated by Discourse.",
         "To identify and exploit the flaw, the team used Anthropic models; the report says Claude Opus 5 produced a functional attack in about three hours. The episode shows how AI models can speed up offensive testing, without turning an authorized exercise into evidence of a criminal intrusion.",
         "OpenAI confirmed the incident to AFP, according to the report, and said it fixed the vulnerability roughly 14 hours after being notified. The company also paid Hacktron AI a 6,500-dollar bug bounty, while OpenAI and Discourse coordinated the fix.",
         "The episode presents a relatively clear response chain: the authorized exercise found the flaw in the Discourse-operated forum, OpenAI confirmed the case to AFP, and the fix was reported about 14 hours after notification. Nothing in the account characterizes it as a criminal intrusion.",
         "The use of Anthropic models is also central because Claude Opus 5 reportedly produced a functional attack in roughly three hours. The 6,500-dollar bounty and coordination between OpenAI and Discourse complete the remediation described."
-      ],
-      "aiSummary": [
-        "The flaw was found during an authorized exercise against OpenAI's help forum, which is operated by Discourse.",
-        "OpenAI said it fixed the issue in about 14 hours and paid a 6,500-dollar bounty."
       ]
     }
+  },
+  "verification": {
+    "score": 7.7,
+    "checkedAt": "2026-09-22T10:01:14Z",
+    "checks": [
+      {
+        "provider": "Canaltech",
+        "url": "https://canaltech.com.br/inteligencia-artificial/openai-foi-invadida-por-hackers-que-usaram-rival-do-chatgpt/",
+        "finding": "supports",
+        "note": "Complete source context for Canaltech was reviewed against the article summary and manifest evidence; the central claim is represented with the source's attribution and stated limitations."
+      },
+      {
+        "provider": "Aos Fatos",
+        "url": "https://www.aosfatos.org/",
+        "finding": "no-match",
+        "note": "Direct site-restricted search in Portuguese for the central claim, named entities, and key dates in 'Teste autorizado encontrou falha que permitiu acesso a contas ligadas à OpenAI' found no matching fact-check page. This no-match is neutral and is not evidence that the claim is true."
+      },
+      {
+        "provider": "Agência Lupa",
+        "url": "https://www.agencialupa.org/",
+        "finding": "no-match",
+        "note": "Direct site-restricted search in Portuguese for the central claim, named entities, and key dates in 'Teste autorizado encontrou falha que permitiu acesso a contas ligadas à OpenAI' found no matching fact-check page. This no-match is neutral and is not evidence that the claim is true."
+      },
+      {
+        "provider": "Projeto Comprova",
+        "url": "https://projetocomprova.com.br/",
+        "finding": "no-match",
+        "note": "Direct site-restricted search in Portuguese for the central claim, named entities, and key dates in 'Teste autorizado encontrou falha que permitiu acesso a contas ligadas à OpenAI' found no matching fact-check page. This no-match is neutral and is not evidence that the claim is true."
+      },
+      {
+        "provider": "TSE Fato ou Boato",
+        "url": "https://www.tse.jus.br/comunicacao/noticias/fato-ou-boato",
+        "finding": "no-match",
+        "note": "No election/civic-process fact-check relevant to the claim 'Teste autorizado encontrou falha que permitiu acesso a contas ligadas à OpenAI' was found; this source is not materially targeted to the article. The result is neutral."
+      },
+      {
+        "provider": "AFP Fact Check",
+        "url": "https://factcheck.afp.com/",
+        "finding": "no-match",
+        "note": "Direct site-restricted search in English for the central claim, named entities, and key dates in 'Authorized test found a flaw that enabled access to accounts linked to OpenAI' found no matching fact-check page. This no-match is neutral and is not evidence that the claim is true."
+      },
+      {
+        "provider": "Reuters Fact Check",
+        "url": "https://www.reuters.com/fact-check/",
+        "finding": "no-match",
+        "note": "Direct site-restricted search in English for the central claim, named entities, and key dates in 'Authorized test found a flaw that enabled access to accounts linked to OpenAI' found no matching fact-check page. This no-match is neutral and is not evidence that the claim is true."
+      },
+      {
+        "provider": "Full Fact",
+        "url": "https://fullfact.org/",
+        "finding": "no-match",
+        "note": "Direct site-restricted search in English for the central claim, named entities, and key dates in 'Authorized test found a flaw that enabled access to accounts linked to OpenAI' found no matching fact-check page. This no-match is neutral and is not evidence that the claim is true."
+      },
+      {
+        "provider": "Google Fact Check Tools",
+        "url": "https://toolbox.google.com/factcheck/explorer",
+        "finding": "inconclusive",
+        "note": "The Explorer homepage was checked through indexed search, but the claims:search API returned HTTP 403 without an API key; this is incomplete coverage, not a no-match and not evidence of truth."
+      }
+    ],
+    "caveat": "Evidence-confidence estimate based on the complete source context, attribution review, direct fact-check-source searches, and the absence of a contradictory finding; no-match results are neutral, and this score is not a calibrated probability or guarantee."
   }
 }

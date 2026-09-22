@@ -4,7 +4,7 @@
   "section": "mundo",
   "secondarySections": [],
   "publishedAt": "2026-09-21T15:28:07.459Z",
-  "updatedAt": "2026-09-21T19:43:50.732Z",
+  "updatedAt": "2026-09-22T10:16:58.141Z",
   "sources": [
     {
       "name": "BBC News",
@@ -14,35 +14,108 @@
   "rights": {
     "mode": "original-report"
   },
+  "verification": {
+    "score": 9,
+    "checkedAt": "2026-09-22T10:05:52Z",
+    "checks": [
+      {
+        "provider": "BBC News",
+        "url": "https://www.bbc.com/news/articles/cqp80p78mxx5o",
+        "finding": "supports",
+        "note": "Complete local extraction was status 200 with complete:true; the source directly contains the article's reported claim and its stated qualifications."
+      },
+      {
+        "provider": "Aos Fatos",
+        "url": "https://www.aosfatos.org/",
+        "finding": "no-match",
+        "note": "No directly matching fact-check result surfaced in the source-restricted search; no-match is neutral and not evidence of accuracy."
+      },
+      {
+        "provider": "Agência Lupa",
+        "url": "https://www.agencialupa.org/",
+        "finding": "no-match",
+        "note": "No directly matching fact-check result surfaced in the source-restricted search; no-match is neutral and not evidence of accuracy."
+      },
+      {
+        "provider": "Projeto Comprova",
+        "url": "https://projetocomprova.com.br/",
+        "finding": "no-match",
+        "note": "No directly matching fact-check result surfaced in the source-restricted search; no-match is neutral and not evidence of accuracy."
+      },
+      {
+        "provider": "TSE Fato ou Boato",
+        "url": "https://www.tse.jus.br/comunicacao/noticias/fato-ou-boato",
+        "finding": "no-match",
+        "note": "No directly matching fact-check result surfaced in the source-restricted search; no-match is neutral and not evidence of accuracy."
+      },
+      {
+        "provider": "AFP Fact Check",
+        "url": "https://factcheck.afp.com/",
+        "finding": "no-match",
+        "note": "No directly matching fact-check result surfaced in the source-restricted search; no-match is neutral and not evidence of accuracy."
+      },
+      {
+        "provider": "Reuters Fact Check",
+        "url": "https://www.reuters.com/fact-check/",
+        "finding": "no-match",
+        "note": "No directly matching fact-check result surfaced in the source-restricted search; no-match is neutral and not evidence of accuracy."
+      },
+      {
+        "provider": "Full Fact",
+        "url": "https://fullfact.org/",
+        "finding": "no-match",
+        "note": "No directly matching fact-check result surfaced in the source-restricted search; no-match is neutral and not evidence of accuracy."
+      },
+      {
+        "provider": "Google Fact Check Explorer",
+        "url": "https://toolbox.google.com/factcheck/explorer",
+        "finding": "inconclusive",
+        "note": "The public claims-search endpoint returned HTTP 403 in this run and no exact ClaimReview record was confirmed; this is not evidence for or against the article."
+      },
+      {
+        "provider": "Airways Magazine",
+        "url": "https://airwaysmag.com/new-post/nats-prestwick-connectivity-fault-uk-flights",
+        "finding": "supports",
+        "note": "Independent aviation reporting corroborates the Prestwick connectivity fault, the second disruption in two weeks, and the resulting flight cancellations."
+      },
+      {
+        "provider": "Los Angeles Times",
+        "url": "https://latimes.com/world-nation/story/2026-09-21/second-technical-issue-in-2-weeks-afflicts-u-k-s-air-traffic-controller-prompting-more-travel-chaos",
+        "finding": "supports",
+        "note": "Independent reporting corroborates the geographic disruption and renewed criticism of NATS."
+      }
+    ],
+    "caveat": "BBC and independent aviation reporting agree on the Prestwick connectivity fault and disruption; cancellation totals are time-stamped estimates."
+  },
   "translations": {
     "pt-BR": {
       "title": "Falha no controle aéreo britânico atrasa dezenas de voos e reacende pressão por reformas",
       "summary": "Uma falha de conectividade no centro de Prestwick interrompeu parte do tráfego aéreo do Reino Unido, afetando aeroportos da Escócia, Irlanda do Norte e norte da Inglaterra. O serviço foi normalizado, mas companhias aéreas voltaram a questionar a resiliência da Nats após um segundo problema técnico em poucas semanas.",
+      "aiSummary": [
+        "A falha de Prestwick foi de conectividade e distinta do problema de software em Swanwick.",
+        "Mesmo com a capacidade restaurada, companhias alertaram para efeitos em cadeia e pediram reformas."
+      ],
       "paragraphs": [
         "Uma falha técnica no centro de controle de Prestwick, na Escócia, provocou atrasos e cancelamentos em dezenas de voos que passavam pelo norte do Reino Unido. Dados da empresa Cirium citados pela BBC apontavam ao menos 200 voos cancelados ou não realizados até 13h45 no horário britânico, incluindo chegadas e partidas.",
         "A Nats, responsável pelo tráfego aéreo do país, atribuiu o episódio a um problema de conectividade e afirmou que ele não tinha relação com a falha de software em Swanwick que levou ao cancelamento de cerca de 2 mil voos no início de setembro. A empresa informou que a causa imediata foi resolvida e que a operação havia voltado à capacidade total, embora ainda houvesse efeitos em cadeia.",
         "EasyJet, Wizz Air, Jet2, Ryanair e British Airways criticaram a recorrência dos problemas e defenderam medidas de reforma ou reforço da infraestrutura. A autoridade britânica de aviação disse que os passageiros afetados provavelmente não teriam direito a indenização, por se tratar de circunstância extraordinária, mas recomendou que acompanhassem o status diretamente com suas companhias.",
         "O episódio de Prestwick foi diferente da falha de software em Swanwick, responsável por cerca de 2 mil cancelamentos no início de setembro, segundo a Nats. A distinção importa porque a capacidade foi restaurada no segundo caso, mas os efeitos em cadeia continuavam possíveis mesmo depois da resolução imediata.",
         "A consequência para passageiros não se limitava ao cancelamento inicial: companhias aéreas criticaram a recorrência e pediram reformas, enquanto o regulador avaliou que a maioria provavelmente não teria direito a compensação por circunstância extraordinária. A orientação prática era conferir o status diretamente com a empresa responsável pelo voo."
-      ],
-      "aiSummary": [
-        "A falha de Prestwick foi de conectividade e distinta do problema de software em Swanwick.",
-        "Mesmo com a capacidade restaurada, companhias alertaram para efeitos em cadeia e pediram reformas."
       ]
     },
     "en": {
       "title": "UK air traffic control failure delays dozens of flights and renews pressure for reform",
       "summary": "A connectivity failure at the Prestwick center disrupted part of the United Kingdom’s air traffic, affecting airports across Scotland, Northern Ireland and northern England. Service was restored, but airlines again questioned Nats’ resilience after a second technical problem in a few weeks.",
+      "aiSummary": [
+        "Prestwick involved connectivity and differed from the Swanwick software problem.",
+        "Airlines warned of knock-on effects and called for reform even after capacity returned."
+      ],
       "paragraphs": [
         "A technical failure at the Prestwick control center in Scotland caused delays and cancellations for dozens of flights using northern UK airspace. Data from analytics company Cirium cited by the BBC showed at least 200 flights canceled or not operated by 13:45 BST, covering both arrivals and departures.",
         "Nats, the country’s air traffic service, blamed the episode on a connectivity problem and said it was unrelated to the Swanwick software failure that led to roughly 2,000 cancellations earlier in September. The company said the immediate issue had been resolved and that operations were back at full capacity, although knock-on effects remained.",
         "EasyJet, Wizz Air, Jet2, Ryanair and British Airways criticized the recurrence and called for reform or stronger infrastructure. The UK aviation regulator said affected passengers were unlikely to qualify for compensation because the incident would probably count as an extraordinary circumstance, while advising travelers to check their status with their airline.",
         "The Prestwick episode differed from the Swanwick software failure that caused roughly 2,000 cancellations earlier in September, according to Nats. The distinction matters because capacity was restored in the second incident, while knock-on disruption could continue even after the immediate fault was resolved.",
         "The passenger impact went beyond the initial cancellations: airlines criticized the recurrence and called for reforms, while the regulator said most travelers were unlikely to qualify for compensation because of an extraordinary circumstance. The practical advice was to check flight status directly with the relevant airline."
-      ],
-      "aiSummary": [
-        "Prestwick involved connectivity and differed from the Swanwick software problem.",
-        "Airlines warned of knock-on effects and called for reform even after capacity returned."
       ]
     }
   }

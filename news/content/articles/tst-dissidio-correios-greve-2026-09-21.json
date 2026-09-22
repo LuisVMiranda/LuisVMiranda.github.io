@@ -4,7 +4,7 @@
   "section": "brasil",
   "secondarySections": ["economia"],
   "publishedAt": "2026-09-21T12:23:00-03:00",
-  "updatedAt": "2026-09-21T19:43:50.732Z",
+  "updatedAt": "2026-09-22T10:16:58.141Z",
   "sources": [
     {
       "name": "Agência Brasil",
@@ -14,35 +14,108 @@
   "rights": {
     "mode": "original-report"
   },
+  "verification": {
+    "score": 8.6,
+    "checkedAt": "2026-09-22T10:05:52Z",
+    "checks": [
+      {
+        "provider": "Agência Brasil",
+        "url": "https://agenciabrasil.ebc.com.br/radioagencia-nacional/justica/audio/2026-09/tst-julga-nesta-segunda-feira-dissidio-coletivo-dos-correios",
+        "finding": "supports",
+        "note": "Complete local extraction was status 200 with complete:true; the source directly contains the article's reported claim and its stated qualifications."
+      },
+      {
+        "provider": "Aos Fatos",
+        "url": "https://www.aosfatos.org/",
+        "finding": "no-match",
+        "note": "No directly matching fact-check result surfaced in the source-restricted search; no-match is neutral and not evidence of accuracy."
+      },
+      {
+        "provider": "Agência Lupa",
+        "url": "https://www.agencialupa.org/",
+        "finding": "no-match",
+        "note": "No directly matching fact-check result surfaced in the source-restricted search; no-match is neutral and not evidence of accuracy."
+      },
+      {
+        "provider": "Projeto Comprova",
+        "url": "https://projetocomprova.com.br/",
+        "finding": "no-match",
+        "note": "No directly matching fact-check result surfaced in the source-restricted search; no-match is neutral and not evidence of accuracy."
+      },
+      {
+        "provider": "TSE Fato ou Boato",
+        "url": "https://www.tse.jus.br/comunicacao/noticias/fato-ou-boato",
+        "finding": "no-match",
+        "note": "No directly matching fact-check result surfaced in the source-restricted search; no-match is neutral and not evidence of accuracy."
+      },
+      {
+        "provider": "AFP Fact Check",
+        "url": "https://factcheck.afp.com/",
+        "finding": "no-match",
+        "note": "No directly matching fact-check result surfaced in the source-restricted search; no-match is neutral and not evidence of accuracy."
+      },
+      {
+        "provider": "Reuters Fact Check",
+        "url": "https://www.reuters.com/fact-check/",
+        "finding": "no-match",
+        "note": "No directly matching fact-check result surfaced in the source-restricted search; no-match is neutral and not evidence of accuracy."
+      },
+      {
+        "provider": "Full Fact",
+        "url": "https://fullfact.org/",
+        "finding": "no-match",
+        "note": "No directly matching fact-check result surfaced in the source-restricted search; no-match is neutral and not evidence of accuracy."
+      },
+      {
+        "provider": "Google Fact Check Explorer",
+        "url": "https://toolbox.google.com/factcheck/explorer",
+        "finding": "inconclusive",
+        "note": "The public claims-search endpoint returned HTTP 403 in this run and no exact ClaimReview record was confirmed; this is not evidence for or against the article."
+      },
+      {
+        "provider": "Agência Brasil (independent article)",
+        "url": "https://agenciabrasil.ebc.com.br/geral/noticia/2026-09/apos-semana-em-greve-empregados-dos-correios-tem-dissidio-na-segunda",
+        "finding": "supports",
+        "note": "A separate Agência Brasil report independently repeats the weeklong strike, the Monday TST hearing, and the dispute over pay and health-plan changes."
+      },
+      {
+        "provider": "Folha de S.Paulo",
+        "url": "https://www1.folha.uol.com.br/mercado/2026/09/justica-determina-que-trabalhadores-dos-correios-mantenham-80-do-efetivo-durante-greve.shtml",
+        "finding": "supports",
+        "note": "Independent reporting corroborates the 80% staffing order and the scheduled September 21 hearing."
+      }
+    ],
+    "caveat": "Confidence is based on complete Agência Brasil reporting and same-event corroboration; it covers the scheduled hearing and dispute, not the eventual ruling."
+  },
   "translations": {
     "pt-BR": {
       "title": "TST tinha audiência marcada sobre dissídio dos Correios após uma semana de greve",
       "summary": "O tribunal foi convocado a analisar o conflito coletivo em meio ao impasse sobre o plano de saúde, reajuste e manutenção de benefícios.",
+      "aiSummary": [
+        "A audiência do TST ocorreria após uma semana de greve e sem acordo entre Correios e empregados.",
+        "O impasse combinava mudanças no plano de saúde, reajuste de 0,87% e manutenção de benefícios."
+      ],
       "paragraphs": [
         "Após uma semana de greve e sem acordo entre a empresa e os empregados, o Tribunal Superior do Trabalho tinha sessão marcada para analisar o dissídio coletivo dos Correios às 13h30 de 21 de setembro.",
         "A direção da estatal apresentou a necessidade de controlar despesas durante uma reestruturação. O principal ponto de conflito era a mudança do Correios Saúde, com a empresa deixando de atuar como mantenedora para assumir a condição de patrocinadora.",
         "Os sindicatos rejeitaram a proposta inicial de reajuste de 0,87% e pediram reposição pela inflação com ganho real, além da preservação de gratificações e do vale extra de Natal. Em decisão sobre a greve, o TST havia determinado a manutenção de 80% do efetivo, enquanto os Correios afirmavam manter os serviços.",
         "A audiência marcada pelo TST representava uma etapa de decisão depois de uma semana de paralisação, mas o texto não antecipa o resultado do julgamento. O conflito reunia uma questão estrutural, a mudança no Correios Saúde, e reivindicações salariais e de benefícios apresentadas pelos sindicatos.",
         "A ordem de manter 80% do efetivo buscava limitar o impacto da greve sobre o serviço, enquanto a empresa dizia preservar as operações. Na prática, o desfecho poderia afetar simultaneamente a cobertura de saúde dos empregados, a remuneração negociada e a continuidade do atendimento postal, três pontos ainda dependentes da solução coletiva."
-      ],
-      "aiSummary": [
-        "A audiência do TST ocorreria após uma semana de greve e sem acordo entre Correios e empregados.",
-        "O impasse combinava mudanças no plano de saúde, reajuste de 0,87% e manutenção de benefícios."
       ]
     },
     "en": {
       "title": "Labor court had hearing scheduled on Correios dispute after a weeklong strike",
       "summary": "The court was called to examine the collective dispute amid a standoff over the health plan, pay adjustment and benefits.",
+      "aiSummary": [
+        "The TST hearing followed a weeklong strike and no agreement between Correios and employees.",
+        "The standoff involved the health plan, a 0.87% pay offer and preservation of benefits."
+      ],
       "paragraphs": [
         "After a weeklong strike and no agreement between the company and employees, Brazil’s Superior Labor Court had a session scheduled for 1:30 p.m. on September 21 to examine the Correios collective dispute.",
         "The state-owned company cited the need to control expenses during a restructuring. The main conflict concerned Correios Saúde, with the company moving from the role of maintainer to that of sponsor.",
         "Unions rejected the initial 0.87% pay proposal and sought inflation replacement plus a real increase, as well as preservation of specific bonuses and the extra Christmas payment. In a decision on the strike, the court had ordered 80% of the workforce to remain active, while Correios said services were being maintained.",
         "The TST hearing was a decision-making stage after a weeklong stoppage, but the report does not anticipate the judgment’s outcome. The dispute combined a structural issue, the change to Correios Saúde, with wage and benefit demands put forward by the unions.",
         "The order requiring 80% of the workforce to remain active was intended to limit the strike’s effect on services, while the company said operations were being maintained. The eventual settlement could affect employees’ health coverage, negotiated pay and postal continuity at the same time, leaving all three dependent on the collective decision."
-      ],
-      "aiSummary": [
-        "The TST hearing followed a weeklong strike and no agreement between Correios and employees.",
-        "The standoff involved the health plan, a 0.87% pay offer and preservation of benefits."
       ]
     }
   }

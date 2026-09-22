@@ -5,7 +5,7 @@
   "secondarySections": ["politica"],
   "publishedAt": "2026-09-21T00:00:00.000Z",
   "publishedDate": "2026-09-21",
-  "updatedAt": "2026-09-21T19:43:50.732Z",
+  "updatedAt": "2026-09-22T10:16:58.141Z",
   "sources": [
     {
       "name": "The Associated Press",
@@ -15,35 +15,108 @@
   "rights": {
     "mode": "original-report"
   },
+  "verification": {
+    "score": 9,
+    "checkedAt": "2026-09-22T10:05:52Z",
+    "checks": [
+      {
+        "provider": "The Associated Press",
+        "url": "https://apnews.com/article/north-korea-dmz-explosion-border-85889eaed6308b7c05a2bf402076c772",
+        "finding": "supports",
+        "note": "Complete local extraction was status 200 with complete:true; the source directly contains the article's reported claim and its stated qualifications."
+      },
+      {
+        "provider": "Aos Fatos",
+        "url": "https://www.aosfatos.org/",
+        "finding": "no-match",
+        "note": "No directly matching fact-check result surfaced in the source-restricted search; no-match is neutral and not evidence of accuracy."
+      },
+      {
+        "provider": "Agência Lupa",
+        "url": "https://www.agencialupa.org/",
+        "finding": "no-match",
+        "note": "No directly matching fact-check result surfaced in the source-restricted search; no-match is neutral and not evidence of accuracy."
+      },
+      {
+        "provider": "Projeto Comprova",
+        "url": "https://projetocomprova.com.br/",
+        "finding": "no-match",
+        "note": "No directly matching fact-check result surfaced in the source-restricted search; no-match is neutral and not evidence of accuracy."
+      },
+      {
+        "provider": "TSE Fato ou Boato",
+        "url": "https://www.tse.jus.br/comunicacao/noticias/fato-ou-boato",
+        "finding": "no-match",
+        "note": "No directly matching fact-check result surfaced in the source-restricted search; no-match is neutral and not evidence of accuracy."
+      },
+      {
+        "provider": "AFP Fact Check",
+        "url": "https://factcheck.afp.com/",
+        "finding": "no-match",
+        "note": "No directly matching fact-check result surfaced in the source-restricted search; no-match is neutral and not evidence of accuracy."
+      },
+      {
+        "provider": "Reuters Fact Check",
+        "url": "https://www.reuters.com/fact-check/",
+        "finding": "no-match",
+        "note": "No directly matching fact-check result surfaced in the source-restricted search; no-match is neutral and not evidence of accuracy."
+      },
+      {
+        "provider": "Full Fact",
+        "url": "https://fullfact.org/",
+        "finding": "no-match",
+        "note": "No directly matching fact-check result surfaced in the source-restricted search; no-match is neutral and not evidence of accuracy."
+      },
+      {
+        "provider": "Google Fact Check Explorer",
+        "url": "https://toolbox.google.com/factcheck/explorer",
+        "finding": "inconclusive",
+        "note": "The public claims-search endpoint returned HTTP 403 in this run and no exact ClaimReview record was confirmed; this is not evidence for or against the article."
+      },
+      {
+        "provider": "Yonhap News Agency",
+        "url": "https://en.yna.co.kr/view/AEN20260921006153315",
+        "finding": "supports",
+        "note": "Yonhap independently reports the same three-officer injury, search/evacuation operation and unresolved cause."
+      },
+      {
+        "provider": "ABC News / Associated Press",
+        "url": "https://abcnews.com/International/wireStory/explosion-injures-three-south-korean-military-officers-border-136611060",
+        "finding": "supports",
+        "note": "An AP wire publication independently carries the same incident and preserves the unresolved cause."
+      }
+    ],
+    "caveat": "The injury count and unknown cause are corroborated; responsibility and any mine link remain unresolved."
+  },
   "translations": {
     "pt-BR": {
       "title": "Explosão fere três militares sul-coreanos na zona desmilitarizada",
       "summary": "Três militares da Coreia do Sul ficaram feridos durante uma operação na DMZ, segundo o Ministério da Defesa. A causa da explosão não foi esclarecida, e as autoridades não disseram se houve relação com uma mina norte-coreana.",
+      "aiSummary": [
+        "Os três militares foram evacuados e levados a hospital, mas a causa da explosão permaneceu desconhecida.",
+        "A DMZ é densamente minada e tensa, sem confirmação de responsabilidade norte-coreana."
+      ],
       "paragraphs": [
         "Uma explosão feriu três militares sul-coreanos durante uma operação na parte oeste da zona desmilitarizada que separa as duas Coreias. Dois foram retirados de helicóptero e o terceiro foi levado por terra antes de também ser transportado de avião para um hospital militar perto de Seul.",
         "O Ministério da Defesa da Coreia do Sul não informou imediatamente o que provocou o incidente. As autoridades também não disseram se a explosão poderia ter sido causada por uma mina instalada pela Coreia do Norte, evitando atribuir responsabilidade pelo episódio.",
         "A DMZ tem 248 quilômetros de extensão e é uma das fronteiras mais armadas do mundo, com estimativa de cerca de 2 milhões de minas na região. O relato ocorre em um período de tensão elevada, marcado por lançamentos de mísseis, exercícios de fogo real e o comissionamento de um novo navio norte-coreano.",
         "O atendimento aos três militares foi descrito em etapas: dois foram retirados de helicóptero, o terceiro saiu por terra e depois também foi levado de avião ao hospital militar. A operação de resgate é conhecida, mas a causa da explosão e eventual presença de uma mina continuam sem confirmação pelas autoridades.",
         "A localização ajuda a dimensionar o risco sem estabelecer a origem do acidente. A DMZ tem 248 quilômetros e cerca de 2 milhões de minas estimadas, enquanto a tensão recente inclui mísseis, exercícios de fogo real e um novo navio norte-coreano; nenhum desses elementos prova responsabilidade norte-coreana no episódio."
-      ],
-      "aiSummary": [
-        "Os três militares foram evacuados e levados a hospital, mas a causa da explosão permaneceu desconhecida.",
-        "A DMZ é densamente minada e tensa, sem confirmação de responsabilidade norte-coreana."
       ]
     },
     "en": {
       "title": "Explosion injures three South Korean officers in the Demilitarized Zone",
       "summary": "Three South Korean military officers were injured during an operation in the DMZ, according to the Defense Ministry. The cause of the blast was not established, and officials did not say whether it was linked to a North Korean mine.",
+      "aiSummary": [
+        "All three officers were evacuated to a hospital, but the blast’s cause remained unknown.",
+        "The heavily mined DMZ is tense, but North Korean responsibility was not confirmed."
+      ],
       "paragraphs": [
         "An explosion injured three South Korean officers during an operation in the western section of the Demilitarized Zone separating the two Koreas. Two were airlifted and the third was taken by land before also being flown to a military hospital near Seoul.",
         "South Korea’s Defense Ministry did not immediately identify what caused the incident. Officials also did not say whether a mine planted by North Korea might have been involved, leaving responsibility for the blast unresolved.",
         "The DMZ is 248 kilometers long and one of the world’s most heavily armed borders, with an estimated 2 million mines in and around the zone. The incident came during heightened tensions marked by missile launches, live-fire exercises and the commissioning of a new North Korean warship.",
         "The treatment of the three officers unfolded in stages: two were airlifted, the third left by ground and was later flown to a military hospital as well. The evacuation is documented, but the blast’s cause and any mine involvement remain unconfirmed by officials.",
         "The setting indicates the level of risk without establishing the accident’s origin. The DMZ is 248 kilometers long and has an estimated 2 million mines, while recent tensions include missiles, live-fire drills and a new North Korean warship; none of those facts proves North Korean responsibility for the blast."
-      ],
-      "aiSummary": [
-        "All three officers were evacuated to a hospital, but the blast’s cause remained unknown.",
-        "The heavily mined DMZ is tense, but North Korean responsibility was not confirmed."
       ]
     }
   }

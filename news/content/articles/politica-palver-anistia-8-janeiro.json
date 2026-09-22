@@ -4,7 +4,7 @@
   "section": "politica",
   "secondarySections": [],
   "publishedAt": "2026-09-21T10:31:07-03:00",
-  "updatedAt": "2026-09-21T19:43:50.732Z",
+  "updatedAt": "2026-09-22T10:16:58.141Z",
   "sources": [
     {
       "name": "CNN Brasil",
@@ -18,34 +18,95 @@
     "pt-BR": {
       "title": "Pesquisa Palver divide opiniões sobre anistia pelos atos de 8 de janeiro",
       "summary": "Levantamento registrado no TSE aponta 47% contra e 46% a favor de eventual anistia aos condenados, dentro da margem de erro.",
+      "aiSummary": [
+        "A diferença de 47% a 46% está dentro da margem de erro de três pontos.",
+        "A pesquisa ouviu 5.000 eleitores online entre 15 e 18 de setembro.",
+        "O levantamento foi registrado no TSE sob o protocolo BR-00860/2026."
+      ],
       "paragraphs": [
         "Pesquisa do Instituto Palver aponta divisão estreita sobre uma eventual anistia aos condenados pelos atos de 8 de janeiro de 2023: 47% dos entrevistados são contra e 46% aprovam, enquanto 6% não souberam responder.",
         "O levantamento ouviu 5.000 eleitores em entrevistas online entre 15 e 18 de setembro, com margem de erro de três pontos percentuais e intervalo de confiança de 95%. A pesquisa foi registrada no TSE sob o protocolo BR-00860/2026.",
         "A pergunta foi feita no contexto do debate sobre a invasão e depredação das sedes dos Três Poderes. A reportagem também relembra que a Câmara estimou mais de R$ 3 milhões em danos a equipamentos e que a Procuradoria-Geral da República calculou prejuízo total acima de R$ 20 milhões.",
         "A diferença de um ponto percentual entre as respostas está dentro da margem de erro de três pontos, por isso o levantamento descreve uma divisão estatística, não uma maioria consolidada. A metodologia informada também delimita o resultado: foram 5.000 entrevistas online, realizadas de 15 a 18 de setembro, com intervalo de confiança de 95%.",
         "O registro no TSE, sob o protocolo BR-00860/2026, permite identificar o levantamento no debate eleitoral, mas a pesquisa não decide a validade jurídica de uma eventual anistia. A reportagem apenas contextualiza a pergunta com estimativas de danos: mais de R$ 3 milhões em equipamentos, segundo a Câmara, e acima de R$ 20 milhões no total, segundo a PGR."
-      ],
-      "aiSummary": [
-        "A diferença de 47% a 46% está dentro da margem de erro de três pontos.",
-        "A pesquisa ouviu 5.000 eleitores online entre 15 e 18 de setembro.",
-        "O levantamento foi registrado no TSE sob o protocolo BR-00860/2026."
       ]
     },
     "en": {
       "title": "Palver poll finds Brazil split over amnesty for January 8 convictions",
       "summary": "A TSE-registered survey finds 47% opposed and 46% in favor of a possible amnesty, within the poll’s margin of error.",
+      "aiSummary": [
+        "The 47%-46% difference falls within the three-point margin of error.",
+        "The online poll interviewed 5,000 voters from September 15 to 18.",
+        "The survey was registered with the electoral court under protocol BR-00860/2026."
+      ],
       "paragraphs": [
         "A Palver Institute poll finds a narrow split over a possible amnesty for people convicted over the January 8, 2023 attacks: 47% of respondents oppose it and 46% approve, while 6% did not answer.",
         "The online survey interviewed 5,000 voters from September 15 to 18, with a margin of error of three percentage points and a 95% confidence level. It was registered with Brazil’s Superior Electoral Court under protocol BR-00860/2026.",
         "The question was asked in the context of debate over the invasion and vandalism of the seats of Brazil’s three branches of government. The report also recalls congressional estimates of more than R$3 million in equipment damage and a Prosecutor-General’s Office estimate of total losses above R$20 million.",
         "The one-point difference between the responses falls within the three-point margin of error, so the survey indicates a statistical split rather than an established majority. Its stated methodology also limits the result: 5,000 people were interviewed online from September 15 to 18, with a 95% confidence level.",
         "Registration with the electoral court under protocol BR-00860/2026 identifies the poll within the election debate, but the survey does not determine the legal validity of any amnesty. The report only contextualizes the question with damage estimates: more than R$3 million in equipment, according to Congress, and above R$20 million overall, according to the Prosecutor-General’s Office."
-      ],
-      "aiSummary": [
-        "The 47%-46% difference falls within the three-point margin of error.",
-        "The online poll interviewed 5,000 voters from September 15 to 18.",
-        "The survey was registered with the electoral court under protocol BR-00860/2026."
       ]
     }
+  },
+  "verification": {
+    "score": 7.2,
+    "checkedAt": "2026-09-22T10:00:08Z",
+    "checks": [
+      {
+        "provider": "CNN Brasil",
+        "url": "https://www.cnnbrasil.com.br/politica/palver-47-sao-contra-anistia-a-presos-do-8-de-janeiro-46-aprovam/",
+        "finding": "supports",
+        "note": "Complete local source extraction (HTTP 200, complete:true) directly supports the article’s central claim as written, with attribution and date preserved."
+      },
+      {
+        "provider": "Aos Fatos",
+        "url": "https://www.aosfatos.org/",
+        "finding": "no-match",
+        "note": "No matching fact-check verdict for the central claim was identified in exact-claim and meaningful-variant searches; no-match is neutral and is not evidence that the claim is true."
+      },
+      {
+        "provider": "Agência Lupa",
+        "url": "https://www.agencialupa.org/",
+        "finding": "no-match",
+        "note": "No matching fact-check verdict for the central claim was identified in exact-claim and meaningful-variant searches; no-match is neutral and is not evidence that the claim is true."
+      },
+      {
+        "provider": "Projeto Comprova",
+        "url": "https://projetocomprova.com.br/",
+        "finding": "no-match",
+        "note": "No matching fact-check verdict for the central claim was identified in exact-claim and meaningful-variant searches; no-match is neutral and is not evidence that the claim is true."
+      },
+      {
+        "provider": "TSE Fato ou Boato",
+        "url": "https://www.tse.jus.br/comunicacao/noticias/fato-ou-boato",
+        "finding": "no-match",
+        "note": "No matching fact-check verdict for the central claim was identified in exact-claim and meaningful-variant searches; no-match is neutral and is not evidence that the claim is true."
+      },
+      {
+        "provider": "AFP Fact Check",
+        "url": "https://factcheck.afp.com/",
+        "finding": "no-match",
+        "note": "No matching fact-check verdict for the central claim was identified in exact-claim and meaningful-variant searches; no-match is neutral and is not evidence that the claim is true."
+      },
+      {
+        "provider": "Reuters Fact Check",
+        "url": "https://www.reuters.com/fact-check/",
+        "finding": "no-match",
+        "note": "No matching fact-check verdict for the central claim was identified in exact-claim and meaningful-variant searches; no-match is neutral and is not evidence that the claim is true."
+      },
+      {
+        "provider": "Full Fact",
+        "url": "https://fullfact.org/",
+        "finding": "no-match",
+        "note": "No matching fact-check verdict for the central claim was identified in exact-claim and meaningful-variant searches; no-match is neutral and is not evidence that the claim is true."
+      },
+      {
+        "provider": "Google Fact Check Explorer",
+        "url": "https://toolbox.google.com/factcheck/explorer",
+        "finding": "no-match",
+        "note": "No matching fact-check verdict for the central claim was identified in exact-claim and meaningful-variant searches; no-match is neutral and is not evidence that the claim is true."
+      }
+    ],
+    "caveat": "The complete CNN extraction preserves sample, dates, margin of error and registration details. No matching fact-check or independent poll release was found; the near-tie should remain attributed to Palver. No-match findings were treated as neutral, never as positive evidence."
   }
 }

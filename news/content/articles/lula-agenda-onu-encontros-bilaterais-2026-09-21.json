@@ -4,7 +4,7 @@
   "section": "brasil",
   "secondarySections": ["politica"],
   "publishedAt": "2026-09-21T13:12:00-03:00",
-  "updatedAt": "2026-09-21T19:43:50.732Z",
+  "updatedAt": "2026-09-22T10:16:58.141Z",
   "sources": [
     {
       "name": "Agência Brasil",
@@ -14,35 +14,120 @@
   "rights": {
     "mode": "original-report"
   },
+  "verification": {
+    "score": 8.5,
+    "checkedAt": "2026-09-22T10:05:52Z",
+    "checks": [
+      {
+        "provider": "Agência Brasil",
+        "url": "https://agenciabrasil.ebc.com.br/radioagencia-nacional/internacional/audio/2026-09/lula-participa-de-encontros-bilaterais-antes-de-discurso-na-onu",
+        "finding": "supports",
+        "note": "Complete local extraction was status 200 with complete:true; the source directly contains the article's reported claim and its stated qualifications."
+      },
+      {
+        "provider": "Aos Fatos",
+        "url": "https://www.aosfatos.org/",
+        "finding": "no-match",
+        "note": "No directly matching fact-check result surfaced in the source-restricted search; no-match is neutral and not evidence of accuracy."
+      },
+      {
+        "provider": "Agência Lupa",
+        "url": "https://www.agencialupa.org/",
+        "finding": "no-match",
+        "note": "No directly matching fact-check result surfaced in the source-restricted search; no-match is neutral and not evidence of accuracy."
+      },
+      {
+        "provider": "Projeto Comprova",
+        "url": "https://projetocomprova.com.br/",
+        "finding": "no-match",
+        "note": "No directly matching fact-check result surfaced in the source-restricted search; no-match is neutral and not evidence of accuracy."
+      },
+      {
+        "provider": "TSE Fato ou Boato",
+        "url": "https://www.tse.jus.br/comunicacao/noticias/fato-ou-boato",
+        "finding": "no-match",
+        "note": "No directly matching fact-check result surfaced in the source-restricted search; no-match is neutral and not evidence of accuracy."
+      },
+      {
+        "provider": "AFP Fact Check",
+        "url": "https://factcheck.afp.com/",
+        "finding": "no-match",
+        "note": "No directly matching fact-check result surfaced in the source-restricted search; no-match is neutral and not evidence of accuracy."
+      },
+      {
+        "provider": "Reuters Fact Check",
+        "url": "https://www.reuters.com/fact-check/",
+        "finding": "no-match",
+        "note": "No directly matching fact-check result surfaced in the source-restricted search; no-match is neutral and not evidence of accuracy."
+      },
+      {
+        "provider": "Full Fact",
+        "url": "https://fullfact.org/",
+        "finding": "no-match",
+        "note": "No directly matching fact-check result surfaced in the source-restricted search; no-match is neutral and not evidence of accuracy."
+      },
+      {
+        "provider": "Google Fact Check Explorer",
+        "url": "https://toolbox.google.com/factcheck/explorer",
+        "finding": "inconclusive",
+        "note": "The public claims-search endpoint returned HTTP 403 in this run and no exact ClaimReview record was confirmed; this is not evidence for or against the article."
+      },
+      {
+        "provider": "Agência Lupa (related fact-check)",
+        "url": "https://www.agencialupa.org/jornalismo/2025/09/19/trump-nao-cancelou-o-visto-de-lula-para-a-assembleia-geral-da-onu/",
+        "finding": "context",
+        "note": "This related fact-check addresses a separate false visa-cancellation claim; it does not verify the September 21, 2026 meeting schedule."
+      },
+      {
+        "provider": "Aos Fatos (related fact-check)",
+        "url": "https://www.aosfatos.org/noticias/trump-nao-negou-visto-para-lula-ir-a-assembleia-geral-da-onu/",
+        "finding": "context",
+        "note": "This related fact-check concerns Lula's visa and does not resolve the article's schedule claims."
+      },
+      {
+        "provider": "The Rio Times",
+        "url": "https://www.riotimesonline.com/lula-mamdani-meeting-new-york-unga-2026/",
+        "finding": "supports",
+        "note": "Independent pre-event reporting corroborates the expected Lula-Mamdani meeting in New York on September 21, 2026."
+      },
+      {
+        "provider": "United Nations Web TV",
+        "url": "https://webtv.un.org/en/asset/k1f/k1fz0ckds5",
+        "finding": "supports",
+        "note": "The UN's official video listing corroborates Brazil's participation in the 80th General Debate, while not proving every planned bilateral meeting."
+      }
+    ],
+    "caveat": "The report concerns scheduled meetings and a planned speech, not confirmed outcomes; related Lupa/Aos Fatos checks concern separate visa and discourse claims."
+  },
   "translations": {
     "pt-BR": {
       "title": "Lula cumpre agenda de reuniões antes de discurso do Brasil na ONU",
       "summary": "A agenda em Nova York previa encontros com autoridades do Uruguai, da cidade de Nova York e dos Estados Unidos antes da fala brasileira na Assembleia Geral.",
+      "aiSummary": [
+        "A reportagem descreve reuniões previstas, sem afirmar que os encontros já haviam ocorrido.",
+        "A delegação brasileira também participaria de fóruns como BRICS, Celac, Ibas e G77."
+      ],
       "paragraphs": [
         "A reportagem informou que Lula estava em Nova York para a semana de alto nível da Assembleia Geral das Nações Unidas e tinha reuniões bilaterais previstas antes do discurso brasileiro. O Brasil mantém a tradição de abrir o debate geral do encontro.",
         "A agenda descrita incluía reuniões com o presidente uruguaio Yamandú Orsi, o prefeito de Nova York Zohran Mamdani e o senador americano Bernie Sanders. Depois da abertura, também estava previsto um encontro com o secretário-geral da ONU, António Guterres.",
         "O conteúdo antecipou que Lula defenderia o multilateralismo, a negociação para resolver disputas, o direito humanitário e a reforma das Nações Unidas. Ministros brasileiros também participariam de reuniões do BRICS, da Celac, do Ibas, do G77 e de outros fóruns.",
         "A agenda descrita é prospectiva: os encontros com Yamandú Orsi, Zohran Mamdani, Bernie Sanders e António Guterres estavam previstos, e a reportagem não os apresenta como reuniões já concluídas. A informação central, portanto, é a sequência planejada entre conversas bilaterais e a abertura do debate geral.",
         "O calendário também mostra que a participação brasileira não se restringia ao discurso presidencial. Ministros deveriam atuar em reuniões do BRICS, da Celac, do Ibas e do G77, enquanto Lula levaria temas de multilateralismo, negociação, direito humanitário e reforma da ONU, sem que o texto afirme resultados concretos."
-      ],
-      "aiSummary": [
-        "A reportagem descreve reuniões previstas, sem afirmar que os encontros já haviam ocorrido.",
-        "A delegação brasileira também participaria de fóruns como BRICS, Celac, Ibas e G77."
       ]
     },
     "en": {
       "title": "Lula follows a meeting schedule before Brazil’s U.N. address",
       "summary": "The New York agenda included meetings with officials from Uruguay, New York City and the United States before Brazil’s speech at the General Assembly.",
+      "aiSummary": [
+        "The report describes planned meetings and does not say they had already taken place.",
+        "Brazil’s delegation was also due at BRICS, CELAC, IBSA and G77 forums."
+      ],
       "paragraphs": [
         "The report said Lula was in New York for the high-level week of the United Nations General Assembly and had bilateral meetings planned before Brazil’s address. Brazil retains the tradition of opening the general debate.",
         "The agenda described meetings with Uruguayan President Yamandú Orsi, New York Mayor Zohran Mamdani and U.S. Senator Bernie Sanders. After the opening, a meeting with U.N. Secretary-General António Guterres was also planned.",
         "The report anticipated that Lula would defend multilateralism, negotiation to resolve disputes, humanitarian law and reform of the United Nations. Brazilian ministers were also due to attend meetings of BRICS, CELAC, IBSA, the G77 and other forums.",
         "The schedule described is prospective: meetings with Yamandú Orsi, Zohran Mamdani, Bernie Sanders and António Guterres were planned, and the report does not present them as completed. The key information is therefore the intended sequence from bilateral conversations to the opening of the general debate.",
         "The calendar also shows that Brazil’s participation was not limited to the president’s speech. Ministers were due to attend BRICS, CELAC, IBSA and G77 meetings, while Lula was expected to address multilateralism, negotiation, humanitarian law and U.N. reform without the report claiming concrete results."
-      ],
-      "aiSummary": [
-        "The report describes planned meetings and does not say they had already taken place.",
-        "Brazil’s delegation was also due at BRICS, CELAC, IBSA and G77 forums."
       ]
     }
   }

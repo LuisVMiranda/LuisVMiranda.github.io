@@ -5,7 +5,7 @@
   "secondarySections": [],
   "publishedAt": "2026-09-21T14:10:15+00:00",
   "publishedDate": "2026-09-21",
-  "updatedAt": "2026-09-21T19:43:50.732Z",
+  "updatedAt": "2026-09-22T10:16:58.141Z",
   "sources": [
     {
       "name": "Space.com",
@@ -19,32 +19,93 @@
     "pt-BR": {
       "title": "Sonda da NASA encontra maior cratera lunar recém-formada já identificada",
       "summary": "A Lunar Reconnaissance Orbiter registrou a cratera McGetchin, com 222 metros de largura, formada provavelmente por impacto entre abril e maio de 2024.",
+      "aiSummary": [
+        "A cratera McGetchin tem cerca de 222 metros de largura e 43 metros de profundidade, segundo os dados da missão.",
+        "O local recente preserva sinais do impacto e pode ajudar a estudar a remodelação da Lua por colisões."
+      ],
       "paragraphs": [
         "A sonda Lunar Reconnaissance Orbiter, da NASA, registrou uma nova cratera na Lua com cerca de 222 metros de largura e 43 metros de profundidade. O acidente geológico foi identificado durante uma checagem rotineira de dados da missão.",
         "Pesquisadores estimam que a cratera McGetchin tenha surgido entre 11 de abril e 22 de maio de 2024, quando um asteroide ou cometa do tamanho aproximado de um prédio de três a seis andares atingiu a superfície lunar.",
         "A cratera é valiosa porque o impacto é recente e os materiais lançados ainda preservam sinais do evento. A observação de um local tão pouco alterado pode ajudar a estudar como impactos modificam a superfície lunar e a frequência de colisões grandes.",
         "A identificação ocorreu em uma checagem rotineira de dados da missão, mas a interpretação depende de estimativa: o impacto teria ocorrido entre 11 de abril e 22 de maio de 2024. A cratera mede cerca de 222 metros de largura e 43 metros de profundidade.",
         "O valor científico está na juventude do local, não apenas no tamanho. Como os materiais ejetados ainda preservam sinais do impacto, a McGetchin oferece uma referência pouco alterada para estudar como colisões remodelam a Lua e estimar a frequência de eventos grandes."
-      ],
-      "aiSummary": [
-        "A cratera McGetchin tem cerca de 222 metros de largura e 43 metros de profundidade, segundo os dados da missão.",
-        "O local recente preserva sinais do impacto e pode ajudar a estudar a remodelação da Lua por colisões."
       ]
     },
     "en": {
       "title": "NASA probe finds the largest newly formed lunar crater identified so far",
       "summary": "NASA’s Lunar Reconnaissance Orbiter recorded McGetchin crater, about 222 meters wide and likely formed by an impact between April and May 2024.",
+      "aiSummary": [
+        "McGetchin crater is about 222 meters wide and 43 meters deep according to mission data.",
+        "The young site preserves impact evidence that can help study lunar reshaping by collisions."
+      ],
       "paragraphs": [
         "NASA’s Lunar Reconnaissance Orbiter recorded a new crater on the Moon about 222 meters wide and 43 meters deep. The feature was identified during a routine check of mission data.",
         "Researchers estimate that McGetchin crater formed between April 11 and May 22, 2024, when an asteroid or comet roughly the size of a three- to six-story building struck the lunar surface.",
         "The crater is valuable because the impact is recent and the ejected material still preserves evidence of the event. Studying such a lightly altered site can help scientists understand how impacts reshape the Moon and how often large collisions occur.",
         "The feature was identified during a routine check of mission data, but the interpretation depends on an estimate: the impact likely occurred between April 11 and May 22, 2024. The crater is about 222 meters wide and 43 meters deep.",
         "Its scientific value lies in the site's youth, not only its size. Because the ejected material still preserves signs of the impact, McGetchin offers a relatively unaltered reference for studying how collisions reshape the Moon and estimating the frequency of large events."
-      ],
-      "aiSummary": [
-        "McGetchin crater is about 222 meters wide and 43 meters deep according to mission data.",
-        "The young site preserves impact evidence that can help study lunar reshaping by collisions."
       ]
     }
+  },
+  "verification": {
+    "score": 8.2,
+    "checkedAt": "2026-09-22T10:01:14Z",
+    "checks": [
+      {
+        "provider": "Space.com",
+        "url": "https://www.space.com/astronomy/moon/a-giant-new-crater-on-the-moon-space-photo-of-the-day-for-sept-21-2026",
+        "finding": "supports",
+        "note": "Complete source context for Space.com was reviewed against the article summary and manifest evidence; the central claim is represented with the source's attribution and stated limitations."
+      },
+      {
+        "provider": "Aos Fatos",
+        "url": "https://www.aosfatos.org/",
+        "finding": "no-match",
+        "note": "Direct site-restricted search in Portuguese for the central claim, named entities, and key dates in 'Sonda da NASA encontra maior cratera lunar recém-formada já identificada' found no matching fact-check page. This no-match is neutral and is not evidence that the claim is true."
+      },
+      {
+        "provider": "Agência Lupa",
+        "url": "https://www.agencialupa.org/",
+        "finding": "no-match",
+        "note": "Direct site-restricted search in Portuguese for the central claim, named entities, and key dates in 'Sonda da NASA encontra maior cratera lunar recém-formada já identificada' found no matching fact-check page. This no-match is neutral and is not evidence that the claim is true."
+      },
+      {
+        "provider": "Projeto Comprova",
+        "url": "https://projetocomprova.com.br/",
+        "finding": "no-match",
+        "note": "Direct site-restricted search in Portuguese for the central claim, named entities, and key dates in 'Sonda da NASA encontra maior cratera lunar recém-formada já identificada' found no matching fact-check page. This no-match is neutral and is not evidence that the claim is true."
+      },
+      {
+        "provider": "TSE Fato ou Boato",
+        "url": "https://www.tse.jus.br/comunicacao/noticias/fato-ou-boato",
+        "finding": "no-match",
+        "note": "No election/civic-process fact-check relevant to the claim 'Sonda da NASA encontra maior cratera lunar recém-formada já identificada' was found; this source is not materially targeted to the article. The result is neutral."
+      },
+      {
+        "provider": "AFP Fact Check",
+        "url": "https://factcheck.afp.com/doc.afp.com.A6WV668",
+        "finding": "context",
+        "note": "A related AFP check concerns misleading Artemis II imagery and claims that the mission was staged; it does not assess the McGetchin crater measurement."
+      },
+      {
+        "provider": "Reuters Fact Check",
+        "url": "https://www.reuters.com/fact-check/close-up-depiction-lunar-crater-earthrise-is-not-an-authentic-nasa-photo-2026-04-22/",
+        "finding": "context",
+        "note": "A related Reuters check concerns an inauthentic lunar-crater image, not the Space.com report of NASA LRO observations of McGetchin crater."
+      },
+      {
+        "provider": "Full Fact",
+        "url": "https://fullfact.org/technology/artemis-2-photo-orientale-basin-fake-ai-picture/",
+        "finding": "context",
+        "note": "A related Full Fact check concerns a fake Artemis II lunar image; it does not contradict the reported NASA LRO crater observation."
+      },
+      {
+        "provider": "Google Fact Check Tools",
+        "url": "https://toolbox.google.com/factcheck/explorer",
+        "finding": "inconclusive",
+        "note": "The Explorer homepage was checked through indexed search, but the claims:search API returned HTTP 403 without an API key; this is incomplete coverage, not a no-match and not evidence of truth."
+      }
+    ],
+    "caveat": "Evidence-confidence estimate based on the complete source context, attribution review, direct fact-check-source searches, and the absence of a contradictory finding; no-match results are neutral, and this score is not a calibrated probability or guarantee."
   }
 }

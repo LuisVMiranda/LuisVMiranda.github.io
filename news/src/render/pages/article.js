@@ -23,6 +23,8 @@ const copy = {
     decrease: 'Diminuir tamanho do texto',
     correction: 'Correção',
     aiSummary: 'Resumo por IA',
+    verification: 'Confiança da verificação',
+    verificationCaveat: 'Estimativa editorial; não é garantia matemática.',
     sources: 'Fontes',
     related: 'Leia também',
     backToSection: 'Mais notícias de',
@@ -43,6 +45,8 @@ const copy = {
     decrease: 'Decrease text size',
     correction: 'Correction',
     aiSummary: 'AI summary',
+    verification: 'Verification confidence',
+    verificationCaveat: 'Editorial estimate; not a mathematical guarantee.',
     sources: 'Sources',
     related: 'More stories',
     backToSection: 'More news from',
@@ -106,13 +110,34 @@ function aiSummaryBullets(translation) {
     : [translation.aiSummary];
 }
 
-/** @param {Record<string, string>} labels @param {import('../../modules/content/types.ts').Translation} translation @returns {string} */
-function renderAiSummary(labels, translation) {
+/** @param {Record<string, string>} labels @param {import('../../modules/content/types.ts').Translation} translation @param {import('../../modules/content/types.ts').Article} article @param {import('../../modules/content/types.ts').Locale} locale @returns {string} */
+function renderAiSummary(labels, translation, article, locale) {
   const bullets = aiSummaryBullets(translation);
-  if (!bullets.length) return '';
+  const verification = article.verification;
+  if (!bullets.length && !verification) return '';
+  const confidence = verification
+    ? (() => {
+        const percentage = Math.round(verification.score * 10);
+        const score = verification.score.toFixed(1).replace('.', ',');
+        const localizedScore =
+          labels.verification === 'Verification confidence'
+            ? verification.score.toFixed(1)
+            : score;
+        const confidenceText =
+          locale === 'pt-BR'
+            ? `estimativa de ${percentage}% de probabilidade de veracidade`
+            : `${percentage}% estimated likelihood of being accurate`;
+        return `<p class="article-ai-summary__confidence" role="note"><strong>${escapeHtml(labels.verification)}: ${escapeHtml(localizedScore)}/10</strong> — ${escapeHtml(confidenceText)}.</p>
+          <p class="article-ai-summary__caveat">${escapeHtml(labels.verificationCaveat)}</p>`;
+      })()
+    : '';
+  const bulletMarkup = bullets.length
+    ? `<ul>${bullets.map((bullet) => `<li>${escapeHtml(bullet)}</li>`).join('')}</ul>`
+    : '';
   return `<aside class="article-ai-summary" aria-label="${escapeHtml(labels.aiSummary)}">
     <p class="article-ai-summary__label text-xs font-semibold uppercase tracking-widest">${escapeHtml(labels.aiSummary)}</p>
-    <ul>${bullets.map((bullet) => `<li>${escapeHtml(bullet)}</li>`).join('')}</ul>
+    ${confidence}
+    ${bulletMarkup}
   </aside>`;
 }
 
@@ -145,7 +170,7 @@ export default function renderArticle(context) {
   const paragraphs = translation.paragraphs
     .map((paragraph) => `<p>${escapeHtml(paragraph)}</p>`)
     .join('');
-  const aiSummary = renderAiSummary(labels, translation);
+  const aiSummary = renderAiSummary(labels, translation, article, locale);
   const correction = translation.correction
     ? `<aside class="correction" aria-label="${escapeHtml(labels.correction)}">
         <p class="correction-label text-xs font-semibold uppercase tracking-widest">${escapeHtml(labels.correction)}</p>

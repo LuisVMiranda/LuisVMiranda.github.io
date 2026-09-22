@@ -4,7 +4,7 @@
   "section": "economia",
   "secondarySections": ["brasil"],
   "publishedAt": "2026-09-21T10:18:00-03:00",
-  "updatedAt": "2026-09-21T19:43:50.732Z",
+  "updatedAt": "2026-09-22T10:16:58.141Z",
   "sources": [
     {
       "name": "Correio Braziliense",
@@ -18,34 +18,95 @@
     "pt-BR": {
       "title": "Governo prepara programa para comprar dívidas antigas de famílias",
       "summary": "Proposta em estudo prevê leilão e descontos elevados, mas ainda depende de decisão do governo e de espaço orçamentário.",
+      "aiSummary": [
+        "A proposta prevê leilão de dívidas com descontos de 95% ou mais, mas ainda não foi aprovada.",
+        "A execução a partir de 2027 dependeria de espaço no Orçamento.",
+        "O consumidor pode mapear credores, juros e valores enquanto aguarda os detalhes."
+      ],
       "paragraphs": [
         "O governo federal estuda um programa para comprar dívidas antigas de famílias brasileiras, especialmente débitos acumulados durante a pandemia. Segundo a reportagem, o ministro da Fazenda, Dario Durigan, apresentou a ideia como uma possível iniciativa para reorganizar a vida financeira das famílias a partir de 2027.",
         "A proposta discutida prevê um leilão para adquirir os débitos diretamente de bancos e varejistas, com descontos que poderiam chegar a 95% ou mais. Durigan indicou que a execução dependeria de espaço no Orçamento, e os termos ainda não constituem um benefício aprovado ou disponível ao consumidor.",
         "Enquanto a medida não é definida, o texto recomenda mapear credores, valores e juros, consultar o CPF em plataformas de crédito e organizar o orçamento. Essas orientações são apresentadas como preparação para uma eventual negociação, não como garantia de participação em um programa já lançado.",
         "O desenho discutido ainda depende de decisões que não foram tomadas. A ideia apresentada pelo Ministério da Fazenda prevê comprar débitos diretamente de bancos e varejistas por meio de leilão, com descontos de 95% ou mais, mas a eventual execução a partir de 2027 está condicionada a espaço no Orçamento e não representa um benefício já disponível.",
         "Enquanto os termos não são definidos, a utilidade imediata para o consumidor é organizar informação, não esperar uma adesão automática: levantar credores, valores e juros, consultar o CPF em plataformas de crédito e revisar o orçamento pode preparar uma negociação futura. Essas providências não garantem participação em um programa ainda em estudo."
-      ],
-      "aiSummary": [
-        "A proposta prevê leilão de dívidas com descontos de 95% ou mais, mas ainda não foi aprovada.",
-        "A execução a partir de 2027 dependeria de espaço no Orçamento.",
-        "O consumidor pode mapear credores, juros e valores enquanto aguarda os detalhes."
       ]
     },
     "en": {
       "title": "Brazilian government studies program to buy families’ old debts",
       "summary": "The proposal would use an auction and deep discounts, but still depends on a government decision and budget room.",
+      "aiSummary": [
+        "The proposal would auction old debts with discounts of 95% or more, but is not approved.",
+        "Implementation from 2027 would depend on available budget space.",
+        "Consumers can list creditors, interest and balances while awaiting details."
+      ],
       "paragraphs": [
         "Brazil’s federal government is studying a program to buy old household debts, especially balances accumulated during the pandemic. According to the report, Finance Minister Dario Durigan presented the idea as a possible way to help families reorganize their finances from 2027 onward.",
         "The proposal under discussion would use an auction to acquire debts directly from banks and retailers, with discounts that could reach 95% or more. Durigan indicated that implementation would depend on available budget space, and the terms are not an approved or available consumer benefit.",
         "While the measure remains undefined, the report advises consumers to list creditors, balances and interest, check their taxpayer ID with credit platforms and organize their budgets. Those steps are preparation for a possible negotiation, not a guarantee of access to a program that has already been launched.",
         "The plan under discussion still depends on decisions that have not been made. The Finance Ministry idea would buy debts directly from banks and retailers through an auction, with discounts of 95% or more, but possible implementation from 2027 depends on budget room and does not represent a benefit currently available to consumers.",
         "While the terms remain undefined, the immediate practical step is to organize information rather than assume automatic enrollment: list creditors, balances and interest, check the taxpayer ID with credit platforms and review the budget. Those actions may prepare a future negotiation but do not guarantee access to a program still under study."
-      ],
-      "aiSummary": [
-        "The proposal would auction old debts with discounts of 95% or more, but is not approved.",
-        "Implementation from 2027 would depend on available budget space.",
-        "Consumers can list creditors, interest and balances while awaiting details."
       ]
     }
+  },
+  "verification": {
+    "score": 7,
+    "checkedAt": "2026-09-22T10:00:08Z",
+    "checks": [
+      {
+        "provider": "Correio Braziliense",
+        "url": "https://www.correiobraziliense.com.br/aqui/2026/09/21/dividas-como-sair-do-cadastro-negativo-e-limpar-nome/",
+        "finding": "supports",
+        "note": "Complete local source extraction (HTTP 200, complete:true) directly supports the article’s central claim as written, with attribution and date preserved."
+      },
+      {
+        "provider": "Aos Fatos",
+        "url": "https://www.aosfatos.org/",
+        "finding": "no-match",
+        "note": "No matching fact-check verdict for the central claim was identified in exact-claim and meaningful-variant searches; no-match is neutral and is not evidence that the claim is true."
+      },
+      {
+        "provider": "Agência Lupa",
+        "url": "https://www.agencialupa.org/",
+        "finding": "no-match",
+        "note": "No matching fact-check verdict for the central claim was identified in exact-claim and meaningful-variant searches; no-match is neutral and is not evidence that the claim is true."
+      },
+      {
+        "provider": "Projeto Comprova",
+        "url": "https://projetocomprova.com.br/",
+        "finding": "no-match",
+        "note": "No matching fact-check verdict for the central claim was identified in exact-claim and meaningful-variant searches; no-match is neutral and is not evidence that the claim is true."
+      },
+      {
+        "provider": "TSE Fato ou Boato",
+        "url": "https://www.tse.jus.br/comunicacao/noticias/fato-ou-boato",
+        "finding": "no-match",
+        "note": "No matching fact-check verdict for the central claim was identified in exact-claim and meaningful-variant searches; no-match is neutral and is not evidence that the claim is true."
+      },
+      {
+        "provider": "AFP Fact Check",
+        "url": "https://factcheck.afp.com/",
+        "finding": "no-match",
+        "note": "No matching fact-check verdict for the central claim was identified in exact-claim and meaningful-variant searches; no-match is neutral and is not evidence that the claim is true."
+      },
+      {
+        "provider": "Reuters Fact Check",
+        "url": "https://www.reuters.com/fact-check/",
+        "finding": "no-match",
+        "note": "No matching fact-check verdict for the central claim was identified in exact-claim and meaningful-variant searches; no-match is neutral and is not evidence that the claim is true."
+      },
+      {
+        "provider": "Full Fact",
+        "url": "https://fullfact.org/",
+        "finding": "no-match",
+        "note": "No matching fact-check verdict for the central claim was identified in exact-claim and meaningful-variant searches; no-match is neutral and is not evidence that the claim is true."
+      },
+      {
+        "provider": "Google Fact Check Explorer",
+        "url": "https://toolbox.google.com/factcheck/explorer",
+        "finding": "no-match",
+        "note": "No matching fact-check verdict for the central claim was identified in exact-claim and meaningful-variant searches; no-match is neutral and is not evidence that the claim is true."
+      }
+    ],
+    "caveat": "The report describes a Finance Ministry proposal, not an approved or currently available program. No official implementation text or matching fact-check was found. No-match findings were treated as neutral, never as positive evidence."
   }
 }

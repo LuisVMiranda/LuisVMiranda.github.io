@@ -4,7 +4,7 @@
   "section": "politica",
   "secondarySections": [],
   "publishedAt": "2026-09-21T12:32:29.909-03:00",
-  "updatedAt": "2026-09-21T19:43:50.732Z",
+  "updatedAt": "2026-09-22T10:16:58.141Z",
   "sources": [
     {
       "name": "Valor Internacional",
@@ -18,34 +18,95 @@
     "pt-BR": {
       "title": "Campanha de Lula busca neutralidade de partidos de centro em eventual segundo turno",
       "summary": "O PT considera mais realista impedir um endosso formal a Flávio Bolsonaro do que obter o apoio direto de todas as siglas centristas.",
+      "aiSummary": [
+        "A neutralidade nacional não impede alianças locais de diretórios e filiados.",
+        "PSD, União Brasil e Republicanos são apontados como inclinados à neutralidade.",
+        "O Progressistas deve decidir sua posição nacional em reunião prevista para 6 de outubro."
+      ],
       "paragraphs": [
         "A campanha de Lula tenta manter neutros os principais partidos de centro em um eventual segundo turno contra Flávio Bolsonaro, informou o Valor. O objetivo seria evitar que essas siglas apoiem formalmente o adversário, em vez de buscar seu endosso direto.",
         "O texto diz que PSD, União Brasil e Republicanos tendem à neutralidade nacional, embora diretórios e filiados possam fazer alianças locais. União Brasil e Republicanos já haviam anunciado neutralidade no primeiro turno; o Progressistas aparece como principal incógnita.",
         "Segundo a reportagem, as conversas também alcançam a composição do próximo governo e a formação da base no Congresso. Ciro Nogueira pretende reunir a federação do Progressistas em 6 de outubro para definir a posição nacional após o primeiro turno.",
         "A possível neutralidade nacional não elimina a autonomia local. O texto separa a orientação das siglas em âmbito brasileiro das alianças que diretórios e filiados podem formar nos Estados e municípios; PSD, União Brasil e Republicanos aparecem inclinados à neutralidade, e União Brasil e Republicanos já haviam adotado essa posição no primeiro turno.",
         "O cálculo político envolve mais do que a declaração eleitoral imediata: as conversas também tratam da composição de um eventual governo e de sua base no Congresso. O Progressistas continua sendo a principal incógnita, com reunião da federação prevista para 6 de outubro, depois do primeiro turno, para definir a posição nacional."
-      ],
-      "aiSummary": [
-        "A neutralidade nacional não impede alianças locais de diretórios e filiados.",
-        "PSD, União Brasil e Republicanos são apontados como inclinados à neutralidade.",
-        "O Progressistas deve decidir sua posição nacional em reunião prevista para 6 de outubro."
       ]
     },
     "en": {
       "title": "Lula campaign seeks centrist neutrality in a possible runoff",
       "summary": "The Workers’ Party sees blocking a formal endorsement of Flávio Bolsonaro as more realistic than winning every centrist party’s direct support.",
+      "aiSummary": [
+        "National neutrality does not prevent local party organizations and members from forming alliances.",
+        "PSD, Brazil Union and Republicans are described as leaning toward neutrality.",
+        "The Progressives are expected to decide nationally on October 6."
+      ],
       "paragraphs": [
         "Lula’s campaign is trying to keep major centrist parties neutral in a possible runoff against Flávio Bolsonaro, Valor reported. The goal is to prevent formal endorsements of his rival rather than win direct backing from every centrist party.",
         "The report says the Social Democratic Party, Brazil Union and Republicans are leaning toward national neutrality, even as local organizations and members may form their own alliances. Brazil Union and Republicans had already announced neutrality in the first round; the Progressives remain the main uncertainty.",
         "According to the report, the talks also cover the composition of a future government and its congressional base. Ciro Nogueira plans to convene the Progressives federation on October 6 to decide its national position after the first round.",
         "Possible national neutrality does not remove local autonomy. The report separates party guidance at the Brazilian level from alliances that local organizations and members may form; the Social Democratic Party, Brazil Union and Republicans are described as leaning neutral, while Brazil Union and Republicans had already taken that position in the first round.",
         "The political calculation goes beyond an immediate election statement: the talks also concern the composition of a possible government and its congressional base. The Progressives remain the main uncertainty, with its federation scheduled to meet on October 6, after the first round, to decide its national position."
-      ],
-      "aiSummary": [
-        "National neutrality does not prevent local party organizations and members from forming alliances.",
-        "PSD, Brazil Union and Republicans are described as leaning toward neutrality.",
-        "The Progressives are expected to decide nationally on October 6."
       ]
     }
+  },
+  "verification": {
+    "score": 7.1,
+    "checkedAt": "2026-09-22T10:00:08Z",
+    "checks": [
+      {
+        "provider": "Valor Internacional",
+        "url": "https://valorinternational.globo.com/politics/news/2026/09/21/lula-campaign-courts-centrist-neutrality-for-possible-runoff.ghtml",
+        "finding": "supports",
+        "note": "Complete local source extraction (HTTP 200, complete:true) directly supports the article’s central claim as written, with attribution and date preserved."
+      },
+      {
+        "provider": "Aos Fatos",
+        "url": "https://www.aosfatos.org/",
+        "finding": "no-match",
+        "note": "No matching fact-check verdict for the central claim was identified in exact-claim and meaningful-variant searches; no-match is neutral and is not evidence that the claim is true."
+      },
+      {
+        "provider": "Agência Lupa",
+        "url": "https://www.agencialupa.org/",
+        "finding": "no-match",
+        "note": "No matching fact-check verdict for the central claim was identified in exact-claim and meaningful-variant searches; no-match is neutral and is not evidence that the claim is true."
+      },
+      {
+        "provider": "Projeto Comprova",
+        "url": "https://projetocomprova.com.br/",
+        "finding": "no-match",
+        "note": "No matching fact-check verdict for the central claim was identified in exact-claim and meaningful-variant searches; no-match is neutral and is not evidence that the claim is true."
+      },
+      {
+        "provider": "TSE Fato ou Boato",
+        "url": "https://www.tse.jus.br/comunicacao/noticias/fato-ou-boato",
+        "finding": "no-match",
+        "note": "No matching fact-check verdict for the central claim was identified in exact-claim and meaningful-variant searches; no-match is neutral and is not evidence that the claim is true."
+      },
+      {
+        "provider": "AFP Fact Check",
+        "url": "https://factcheck.afp.com/",
+        "finding": "no-match",
+        "note": "No matching fact-check verdict for the central claim was identified in exact-claim and meaningful-variant searches; no-match is neutral and is not evidence that the claim is true."
+      },
+      {
+        "provider": "Reuters Fact Check",
+        "url": "https://www.reuters.com/fact-check/",
+        "finding": "no-match",
+        "note": "No matching fact-check verdict for the central claim was identified in exact-claim and meaningful-variant searches; no-match is neutral and is not evidence that the claim is true."
+      },
+      {
+        "provider": "Full Fact",
+        "url": "https://fullfact.org/",
+        "finding": "no-match",
+        "note": "No matching fact-check verdict for the central claim was identified in exact-claim and meaningful-variant searches; no-match is neutral and is not evidence that the claim is true."
+      },
+      {
+        "provider": "Google Fact Check Explorer",
+        "url": "https://toolbox.google.com/factcheck/explorer",
+        "finding": "no-match",
+        "note": "No matching fact-check verdict for the central claim was identified in exact-claim and meaningful-variant searches; no-match is neutral and is not evidence that the claim is true."
+      }
+    ],
+    "caveat": "The complete Valor report frames the claims as campaign strategy and party-position reporting rather than settled outcomes. Internal talks were not independently confirmed. No-match findings were treated as neutral, never as positive evidence."
   }
 }

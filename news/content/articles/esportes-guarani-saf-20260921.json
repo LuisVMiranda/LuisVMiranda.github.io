@@ -4,7 +4,7 @@
   "section": "esportes",
   "secondarySections": [],
   "publishedAt": "2026-09-21T08:26:02.465-03:00",
-  "updatedAt": "2026-09-21T19:43:50.732Z",
+  "updatedAt": "2026-09-22T10:16:58.141Z",
   "sources": [
     {
       "name": "ge.globo.com",
@@ -18,32 +18,93 @@
     "pt-BR": {
       "title": "Guarani prepara votação de proposta de SAF nesta sexta-feira",
       "summary": "Clube fará duas reuniões antes de avaliar o projeto apresentado pelo empresário Roberto Graziano.",
+      "aiSummary": [
+        "O Guarani fará reuniões de esclarecimento antes da assembleia híbrida marcada para 25 de setembro.",
+        "Os R$ 1,075 bilhão e a divisão de 10%/90% são termos da proposta ainda submetida à votação."
+      ],
       "paragraphs": [
         "O Guarani marcou duas reuniões de esclarecimento para segunda e quarta-feira antes da votação da proposta de constituição de uma SAF, prevista para sexta-feira, dia 25.",
         "A assembleia terá formato híbrido, com primeira chamada às 15h30 e votação aberta até as 20h. O projeto apresentado por Roberto Graziano prevê investimento total de R$ 1,075 bilhão.",
         "O plano distribui recursos entre a operação da SAF e do clube social, um novo estádio, um centro de treinamento e o passivo da recuperação judicial. Pelo modelo proposto, o Guarani ficaria com 10% da SAF e o grupo de Graziano com 90%.",
         "O processo foi desenhado em etapas: primeiro vêm as reuniões de esclarecimento de segunda e quarta-feira; depois, a assembleia híbrida de sexta-feira, com primeira chamada às 15h30 e votação aberta até as 20h. Esses marcos mostram que a proposta ainda depende da decisão dos associados.",
         "O valor de R$ 1,075 bilhão é uma previsão do projeto apresentado por Roberto Graziano, distribuída entre a SAF, o clube social, estádio, centro de treinamento e passivo da recuperação judicial. A divisão proposta de 10% e 90% também é parte do modelo em avaliação, não uma transação concluída."
-      ],
-      "aiSummary": [
-        "O Guarani fará reuniões de esclarecimento antes da assembleia híbrida marcada para 25 de setembro.",
-        "Os R$ 1,075 bilhão e a divisão de 10%/90% são termos da proposta ainda submetida à votação."
       ]
     },
     "en": {
       "title": "Guarani prepares to vote on SAF proposal this Friday",
       "summary": "The club will hold two meetings before considering the project presented by businessman Roberto Graziano.",
+      "aiSummary": [
+        "Guarani will hold clarification meetings before the hybrid assembly scheduled for September 25.",
+        "The 1.075 billion reais and 10%/90% ownership split remain terms of a proposal awaiting a vote."
+      ],
       "paragraphs": [
         "Guarani scheduled two clarification meetings for Monday and Wednesday before a vote on the proposed creation of a SAF, set for Friday, September 25.",
         "The assembly will use a hybrid format, with the first call at 3:30 p.m. and voting open until 8 p.m. The project presented by Roberto Graziano calls for total investment of 1.075 billion reais.",
         "The plan allocates funds to the SAF and social club operations, a new stadium, a training center and judicial-recovery liabilities. Under the proposal, Guarani would retain 10% of the SAF and Graziano's group would hold 90%.",
         "The process is staged: clarification meetings come first on Monday and Wednesday, followed by Friday’s hybrid assembly, with the first call at 3:30 p.m. and voting open until 8 p.m. Those milestones make clear that the proposal still depends on the members’ decision.",
         "The 1.075 billion reais figure is a projection in Roberto Graziano’s proposal, allocated among the SAF, social club, stadium, training center and judicial-recovery liabilities. The proposed 10%/90% split is likewise part of the model under review, not a completed transaction."
-      ],
-      "aiSummary": [
-        "Guarani will hold clarification meetings before the hybrid assembly scheduled for September 25.",
-        "The 1.075 billion reais and 10%/90% ownership split remain terms of a proposal awaiting a vote."
       ]
     }
+  },
+  "verification": {
+    "score": 8.2,
+    "checkedAt": "2026-09-22T09:56:46Z",
+    "checks": [
+      {
+        "provider": "Original article source",
+        "url": "https://ge.globo.com/sp/campinas-e-regiao/futebol/times/guarani/noticia/2026/09/21/guarani-tem-semana-decisiva-para-discutir-e-votar-proposta-de-saf.ghtml",
+        "finding": "supports",
+        "note": "The complete source page was fetched directly with HTTP 200; its headline and body match the article's central claim and named entities. This is primary evidence, not an independent fact-check."
+      },
+      {
+        "provider": "Aos Fatos",
+        "url": "https://www.aosfatos.org/",
+        "finding": "no-match",
+        "note": "No fact-check addressing this article’s central claim appeared in exact-headline and claim/entity searches of this provider. The no-match is neutral, not evidence of truth."
+      },
+      {
+        "provider": "Agência Lupa",
+        "url": "https://www.agencialupa.org/",
+        "finding": "no-match",
+        "note": "No fact-check addressing this article’s central claim appeared in exact-headline and claim/entity searches of this provider. The no-match is neutral, not evidence of truth."
+      },
+      {
+        "provider": "Projeto Comprova",
+        "url": "https://projetocomprova.com.br/",
+        "finding": "no-match",
+        "note": "No fact-check addressing this article’s central claim appeared in exact-headline and claim/entity searches of this provider. The no-match is neutral, not evidence of truth."
+      },
+      {
+        "provider": "TSE Fato ou Boato",
+        "url": "https://www.tse.jus.br/comunicacao/noticias/fato-ou-boato",
+        "finding": "no-match",
+        "note": "No matching item addressing this article’s central claim was found in domain-scoped searches; this source is not generally relevant to routine culture or sports reporting. The no-match is neutral, not evidence of truth."
+      },
+      {
+        "provider": "AFP Fact Check",
+        "url": "https://factcheck.afp.com/",
+        "finding": "no-match",
+        "note": "No fact-check addressing this article’s central claim appeared in exact-headline and claim/entity searches. Any related hits concerned different claims and were excluded; the no-match is neutral."
+      },
+      {
+        "provider": "Reuters Fact Check",
+        "url": "https://www.reuters.com/fact-check/",
+        "finding": "no-match",
+        "note": "No fact-check addressing this article’s central claim appeared in exact-headline and claim/entity searches of this provider. The no-match is neutral, not evidence of truth."
+      },
+      {
+        "provider": "Full Fact",
+        "url": "https://fullfact.org/",
+        "finding": "no-match",
+        "note": "No fact-check addressing this article’s central claim appeared in exact-headline and claim/entity searches of this provider. The no-match is neutral, not evidence of truth."
+      },
+      {
+        "provider": "Google Fact Check Explorer",
+        "url": "https://toolbox.google.com/factcheck/explorer",
+        "finding": "no-match",
+        "note": "No matching indexed ClaimReview record appeared for exact-headline and claim/entity variants in the Explorer domain. The no-match is neutral, not evidence of truth."
+      }
+    ],
+    "caveat": "The report concerns a scheduled vote and proposed SAF terms, not a completed transaction; confidence rests on the complete ge report, with no contradictory fact-check found. No-match results are neutral. The score is an editorial evidence estimate, not a probability or guarantee."
   }
 }

@@ -33,6 +33,35 @@ const translation = z.object({
   paragraphs: z.array(z.string().trim().min(20)).min(2),
   correction: z.string().trim().min(5).optional(),
 });
+const verificationCheck = z.object({
+  provider: z.string().trim().min(2),
+  url: z
+    .url()
+    .refine(
+      (value) => /^https:\/\//.test(value),
+      'HTTPS fact-check source required',
+    ),
+  finding: z.enum([
+    'supports',
+    'contradicts',
+    'context',
+    'no-match',
+    'inconclusive',
+  ]),
+  note: z.string().trim().min(10).max(500),
+});
+const verification = z.object({
+  score: z
+    .number()
+    .min(0)
+    .max(10)
+    .refine((value) => Number.isInteger(value * 10), {
+      message: 'Verification score must use at most one decimal place',
+    }),
+  checkedAt: timestamp,
+  checks: z.array(verificationCheck).min(1).max(16),
+  caveat: z.string().trim().min(10).max(600),
+});
 const translations = z
   .object({ 'pt-BR': translation, en: translation })
   .refine(
@@ -63,6 +92,7 @@ export const articleSchema = z
       )
       .min(1),
     rights: rights.optional(),
+    verification: verification.optional(),
     translations,
   })
   .refine(

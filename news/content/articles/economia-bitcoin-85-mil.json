@@ -4,7 +4,7 @@
   "section": "economia",
   "secondarySections": [],
   "publishedAt": "2026-09-21T10:55:30.031-03:00",
-  "updatedAt": "2026-09-21T19:43:50.732Z",
+  "updatedAt": "2026-09-22T10:16:58.141Z",
   "sources": [
     {
       "name": "Valor Econômico",
@@ -18,34 +18,95 @@
     "pt-BR": {
       "title": "Bitcoin supera US$ 85 mil com maior apetite por risco",
       "summary": "A criptomoeda subiu 6,1% em 24 horas, enquanto petróleo mais barato e expectativa de trégua comercial ajudaram o movimento.",
+      "aiSummary": [
+        "O bitcoin era negociado a US$ 85.059,77, com alta de 6,1% em 24 horas.",
+        "ETFs à vista receberam US$ 433 milhões na sexta-feira.",
+        "Mais de US$ 700 milhões em posições vendidas foram liquidados durante a recuperação."
+      ],
       "paragraphs": [
         "O bitcoin superou US$ 85 mil na manhã de segunda-feira, acompanhando a melhora do apetite por risco nos mercados globais. Por volta das 10h50, a cotação era de US$ 85.059,77, com alta de 6,1% em 24 horas; no Brasil, a moeda era negociada a R$ 436.887,41, avanço de 4,75%.",
         "A reportagem relaciona o movimento à queda do petróleo e à expectativa de manutenção da trégua comercial entre Estados Unidos e China antes do encontro entre Donald Trump e Xi Jinping. O texto também cita uma decisão da SEC que autorizou, sob isenção de cinco anos, a negociação de valores mobiliários tokenizados nos Estados Unidos.",
         "Os ETFs à vista de bitcoin receberam US$ 433 milhões na sexta-feira, depois de US$ 159 milhões no dia anterior, segundo os dados citados na matéria. A recuperação também coincidiu com mais de US$ 700 milhões em posições vendidas liquidadas.",
         "A cotação descrita é um retrato de horário específico, não uma referência permanente: por volta das 10h50, o bitcoin estava em US$ 85.059,77 e subia 6,1% em 24 horas, enquanto a cotação brasileira alcançava R$ 436.887,41, com alta de 4,75%. A matéria associa o movimento a fatores de mercado, sem apresentar uma garantia de continuidade.",
         "Além do petróleo mais barato e da expectativa sobre a trégua comercial entre Estados Unidos e China, o texto cita a decisão da SEC sobre valores mobiliários tokenizados sob isenção de cinco anos. Os ETFs à vista receberam US$ 433 milhões na sexta-feira, e mais de US$ 700 milhões em posições vendidas foram liquidados, dados que ajudam a descrever a força do movimento daquele momento."
-      ],
-      "aiSummary": [
-        "O bitcoin era negociado a US$ 85.059,77, com alta de 6,1% em 24 horas.",
-        "ETFs à vista receberam US$ 433 milhões na sexta-feira.",
-        "Mais de US$ 700 milhões em posições vendidas foram liquidados durante a recuperação."
       ]
     },
     "en": {
       "title": "Bitcoin tops $85,000 as risk appetite improves",
       "summary": "The cryptocurrency rose 6.1% in 24 hours as lower oil prices and hopes for a trade truce helped support the move.",
+      "aiSummary": [
+        "Bitcoin traded at $85,059.77, up 6.1% in 24 hours.",
+        "Spot bitcoin ETFs received $433 million on Friday.",
+        "More than $700 million in short positions were liquidated during the rebound."
+      ],
       "paragraphs": [
         "Bitcoin moved above $85,000 on Monday morning as risk appetite improved across global markets. At about 10:50 a.m., it was trading at $85,059.77, up 6.1% in 24 hours; in Brazil, it was quoted at R$436,887.41, a 4.75% gain.",
         "The report linked the move to lower oil prices and expectations that the United States-China trade truce would hold before Donald Trump and Xi Jinping meet. It also cited an SEC decision allowing, under a five-year exemption, the trading of tokenized securities in the United States.",
         "Spot bitcoin ETFs took in $433 million on Friday after receiving $159 million the previous day, according to data cited in the report. The rebound also coincided with more than $700 million in short positions being liquidated.",
         "The quoted price is a time-specific snapshot rather than a permanent reference: at about 10:50 a.m., bitcoin stood at $85,059.77 and was up 6.1% in 24 hours, while the Brazilian quote reached R$436,887.41, a 4.75% gain. The report links the move to market factors without presenting a guarantee that it will continue.",
         "Alongside cheaper oil and expectations about the US-China trade truce, the article cites the SEC decision allowing tokenized securities under a five-year exemption. Spot bitcoin ETFs received $433 million on Friday, and more than $700 million in short positions were liquidated, figures that help explain the strength of that moment’s rebound."
-      ],
-      "aiSummary": [
-        "Bitcoin traded at $85,059.77, up 6.1% in 24 hours.",
-        "Spot bitcoin ETFs received $433 million on Friday.",
-        "More than $700 million in short positions were liquidated during the rebound."
       ]
     }
+  },
+  "verification": {
+    "score": 7.5,
+    "checkedAt": "2026-09-22T10:00:08Z",
+    "checks": [
+      {
+        "provider": "Valor Econômico",
+        "url": "https://valor.globo.com/financas/criptomoedas/noticia/2026/09/21/bitcoin-chega-a-us-85-mil-com-melhora-do-apetite-por-risco.ghtml",
+        "finding": "supports",
+        "note": "Complete local source extraction (HTTP 200, complete:true) directly supports the article’s central claim as written, with attribution and date preserved."
+      },
+      {
+        "provider": "Aos Fatos",
+        "url": "https://www.aosfatos.org/",
+        "finding": "no-match",
+        "note": "No matching fact-check verdict for the central claim was identified in exact-claim and meaningful-variant searches; no-match is neutral and is not evidence that the claim is true."
+      },
+      {
+        "provider": "Agência Lupa",
+        "url": "https://www.agencialupa.org/",
+        "finding": "no-match",
+        "note": "No matching fact-check verdict for the central claim was identified in exact-claim and meaningful-variant searches; no-match is neutral and is not evidence that the claim is true."
+      },
+      {
+        "provider": "Projeto Comprova",
+        "url": "https://projetocomprova.com.br/",
+        "finding": "no-match",
+        "note": "No matching fact-check verdict for the central claim was identified in exact-claim and meaningful-variant searches; no-match is neutral and is not evidence that the claim is true."
+      },
+      {
+        "provider": "TSE Fato ou Boato",
+        "url": "https://www.tse.jus.br/comunicacao/noticias/fato-ou-boato",
+        "finding": "no-match",
+        "note": "No matching fact-check verdict for the central claim was identified in exact-claim and meaningful-variant searches; no-match is neutral and is not evidence that the claim is true."
+      },
+      {
+        "provider": "AFP Fact Check",
+        "url": "https://factcheck.afp.com/",
+        "finding": "no-match",
+        "note": "No matching fact-check verdict for the central claim was identified in exact-claim and meaningful-variant searches; no-match is neutral and is not evidence that the claim is true."
+      },
+      {
+        "provider": "Reuters Fact Check",
+        "url": "https://www.reuters.com/fact-check/",
+        "finding": "no-match",
+        "note": "No matching fact-check verdict for the central claim was identified in exact-claim and meaningful-variant searches; no-match is neutral and is not evidence that the claim is true."
+      },
+      {
+        "provider": "Full Fact",
+        "url": "https://fullfact.org/",
+        "finding": "no-match",
+        "note": "No matching fact-check verdict for the central claim was identified in exact-claim and meaningful-variant searches; no-match is neutral and is not evidence that the claim is true."
+      },
+      {
+        "provider": "Google Fact Check Explorer",
+        "url": "https://toolbox.google.com/factcheck/explorer",
+        "finding": "no-match",
+        "note": "No matching fact-check verdict for the central claim was identified in exact-claim and meaningful-variant searches; no-match is neutral and is not evidence that the claim is true."
+      }
+    ],
+    "caveat": "The article is a time-specific market snapshot with exact timestamps and named market-data sources. Fact-check databases have no direct verdict; market levels can change after publication. No-match findings were treated as neutral, never as positive evidence."
   }
 }

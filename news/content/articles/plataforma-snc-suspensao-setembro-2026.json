@@ -5,7 +5,7 @@
   "secondarySections": [],
   "publishedAt": "2026-09-15T15:05:00-03:00",
   "publishedDate": "2026-09-15",
-  "updatedAt": "2026-09-21T19:43:50.732Z",
+  "updatedAt": "2026-09-22T10:16:58.141Z",
   "sources": [
     {
       "name": "Ministério da Cultura",
@@ -19,32 +19,93 @@
     "pt-BR": {
       "title": "Plataforma do Sistema Nacional de Cultura fica suspensa até 14 de outubro",
       "summary": "O Ministério da Cultura interrompe o sistema para implantar uma nova versão e orienta municípios a concluir consultas e cadastros antes do período de manutenção.",
+      "aiSummary": [
+        "A plataforma do SNC ficará suspensa de 21 de setembro a 14 de outubro de 2026.",
+        "Novas inscrições municipais e atualizações de dados só deverão voltar com o acesso esperado em 15 de outubro."
+      ],
       "paragraphs": [
         "A Plataforma do Sistema Nacional de Cultura ficará temporariamente suspensa de 21 de setembro a 14 de outubro de 2026. Segundo o Ministério da Cultura, a interrupção é necessária para procedimentos técnicos de implantação de uma nova versão.",
         "Durante a manutenção, não será possível atualizar dados nem cadastrar novos municípios no Sistema Nacional de Cultura. O ministério recomendou que consultas e procedimentos pendentes fossem concluídos até 20 de setembro.",
         "O acesso deverá ser normalizado em 15 de outubro de 2026. A suspensão afeta uma plataforma usada para organizar informações e adesões municipais ao sistema nacional de políticas culturais.",
         "A janela de manutenção começa em 21 de setembro e se estende até 14 de outubro, período em que não será possível atualizar dados nem cadastrar novos municípios. O ministério orientou que consultas e procedimentos pendentes fossem concluídos até 20 de setembro, antes da interrupção.",
         "O acesso é esperado para 15 de outubro de 2026, mas o aviso não detalha quais funções ou mudanças a nova versão trará. A consequência prática informada é a pausa temporária na rotina de municípios que dependem da plataforma para informações e adesões ao sistema nacional."
-      ],
-      "aiSummary": [
-        "A plataforma do SNC ficará suspensa de 21 de setembro a 14 de outubro de 2026.",
-        "Novas inscrições municipais e atualizações de dados só deverão voltar com o acesso esperado em 15 de outubro."
       ]
     },
     "en": {
       "title": "Brazil’s National Culture System platform to remain offline until October 14",
       "summary": "The Culture Ministry is taking the platform offline to deploy a new version and advises municipalities to finish pending consultations and registrations before the maintenance period.",
+      "aiSummary": [
+        "Brazil’s National Culture System platform will be suspended from September 21 through October 14, 2026.",
+        "Municipal registrations and data updates are paused until access is expected to return on October 15."
+      ],
       "paragraphs": [
         "Brazil’s National Culture System platform will be temporarily suspended from September 21 through October 14, 2026. The Culture Ministry said the interruption is needed for technical work to deploy a new version.",
         "During the maintenance period, users will not be able to update data or register new municipalities in the National Culture System. The ministry advised that pending consultations and procedures be completed by September 20.",
         "Access is expected to return on October 15, 2026. The suspension affects a platform used to organize information and municipal participation in Brazil’s national cultural-policy system.",
         "The maintenance window begins on September 21 and runs through October 14, during which users cannot update data or register new municipalities. The ministry advised that pending consultations and procedures be completed by September 20, before the interruption began.",
         "Access is expected to return on October 15, 2026, but the notice does not detail which functions or changes the new version will bring. Its stated practical effect is a temporary pause for municipalities that rely on the platform for information and participation procedures."
-      ],
-      "aiSummary": [
-        "Brazil’s National Culture System platform will be suspended from September 21 through October 14, 2026.",
-        "Municipal registrations and data updates are paused until access is expected to return on October 15."
       ]
     }
+  },
+  "verification": {
+    "score": 9,
+    "checkedAt": "2026-09-22T09:56:46Z",
+    "checks": [
+      {
+        "provider": "Original article source",
+        "url": "https://www.gov.br/cultura/pt-br/assuntos/noticias-defeso-eleitoral/plataforma-do-sistema-nacional-de-cultura-fica-indisponivel-a-partir-de-21-de-setembro",
+        "finding": "supports",
+        "note": "The complete source page was fetched directly with HTTP 200; its headline and body match the article's central claim and named entities. This is primary evidence, not an independent fact-check."
+      },
+      {
+        "provider": "Aos Fatos",
+        "url": "https://www.aosfatos.org/",
+        "finding": "no-match",
+        "note": "No fact-check addressing this article’s central claim appeared in exact-headline and claim/entity searches of this provider. The no-match is neutral, not evidence of truth."
+      },
+      {
+        "provider": "Agência Lupa",
+        "url": "https://www.agencialupa.org/",
+        "finding": "no-match",
+        "note": "No fact-check addressing this article’s central claim appeared in exact-headline and claim/entity searches of this provider. The no-match is neutral, not evidence of truth."
+      },
+      {
+        "provider": "Projeto Comprova",
+        "url": "https://projetocomprova.com.br/",
+        "finding": "no-match",
+        "note": "No fact-check addressing this article’s central claim appeared in exact-headline and claim/entity searches of this provider. The no-match is neutral, not evidence of truth."
+      },
+      {
+        "provider": "TSE Fato ou Boato",
+        "url": "https://www.tse.jus.br/comunicacao/noticias/fato-ou-boato",
+        "finding": "no-match",
+        "note": "No matching item addressing this article’s central claim was found in domain-scoped searches; this source is not generally relevant to routine culture or sports reporting. The no-match is neutral, not evidence of truth."
+      },
+      {
+        "provider": "AFP Fact Check",
+        "url": "https://factcheck.afp.com/",
+        "finding": "no-match",
+        "note": "No fact-check addressing this article’s central claim appeared in exact-headline and claim/entity searches. Any related hits concerned different claims and were excluded; the no-match is neutral."
+      },
+      {
+        "provider": "Reuters Fact Check",
+        "url": "https://www.reuters.com/fact-check/",
+        "finding": "no-match",
+        "note": "No fact-check addressing this article’s central claim appeared in exact-headline and claim/entity searches of this provider. The no-match is neutral, not evidence of truth."
+      },
+      {
+        "provider": "Full Fact",
+        "url": "https://fullfact.org/",
+        "finding": "no-match",
+        "note": "No fact-check addressing this article’s central claim appeared in exact-headline and claim/entity searches of this provider. The no-match is neutral, not evidence of truth."
+      },
+      {
+        "provider": "Google Fact Check Explorer",
+        "url": "https://toolbox.google.com/factcheck/explorer",
+        "finding": "no-match",
+        "note": "No matching indexed ClaimReview record appeared for exact-headline and claim/entity variants in the Explorer domain. The no-match is neutral, not evidence of truth."
+      }
+    ],
+    "caveat": "Confidence is based on a complete official Ministry of Culture source fetched directly and the absence of any contradictory fact-check; no relevant fact-check match was found, and no-match results are neutral. The score is an editorial evidence estimate, not a probability or guarantee."
   }
 }

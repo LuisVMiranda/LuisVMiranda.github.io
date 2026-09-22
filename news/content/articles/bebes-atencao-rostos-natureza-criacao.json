@@ -5,7 +5,7 @@
   "secondarySections": [],
   "publishedAt": "2026-09-21T09:00:20+00:00",
   "publishedDate": "2026-09-21",
-  "updatedAt": "2026-09-21T19:43:50.732Z",
+  "updatedAt": "2026-09-22T10:16:58.141Z",
   "sources": [
     {
       "name": "The Guardian",
@@ -19,32 +19,93 @@
     "pt-BR": {
       "title": "Estudo com recém-nascidos reabre debate sobre natureza e criação",
       "summary": "Bebês do sexo feminino passaram proporcionalmente mais tempo olhando para rostos do que para um brinquedo, mas os pesquisadores destacam a grande variação individual.",
+      "aiSummary": [
+        "O estudo acompanhou o olhar de 130 recém-nascidos com idades entre oito horas e três dias.",
+        "A diferença observada é média de grupo e não prevê o comportamento ou desenvolvimento de uma criança individual."
+      ],
       "paragraphs": [
         "Em testes com 130 bebês de oito horas a três dias de vida, pesquisadores exibiram lado a lado um rosto e um brinquedo enquanto um rastreador registrava para onde cada criança olhava.",
         "Todos os grupos demonstraram mais interesse pelo rosto, mas as meninas preferiram o vídeo do rosto em proporção maior que os meninos. Como os participantes tinham poucos dias de vida, os autores apontam fatores biológicos, como genética e exposição hormonal no útero, como possíveis explicações.",
         "O estudo mostra diferenças médias entre grupos e não determina o comportamento de cada criança. Os pesquisadores dizem que serão necessários acompanhamentos mais longos para saber se essa diferença inicial influencia o desenvolvimento social ou a vulnerabilidade a condições neurológicas.",
         "O desenho do experimento ajuda a limitar a interpretação: 130 recém-nascidos, com idades entre oito horas e três dias, viram um rosto e um brinquedo lado a lado, enquanto o rastreador registrava o olhar. Todos os grupos mostraram interesse maior pelo rosto.",
         "A diferença entre meninas e meninos é uma média proporcional, não uma regra individual. Os autores levantam genética e hormônios no útero como possibilidades, mas dizem que somente acompanhamentos mais longos poderão indicar se o padrão inicial tem relação com desenvolvimento social ou condições neurológicas."
-      ],
-      "aiSummary": [
-        "O estudo acompanhou o olhar de 130 recém-nascidos com idades entre oito horas e três dias.",
-        "A diferença observada é média de grupo e não prevê o comportamento ou desenvolvimento de uma criança individual."
       ]
     },
     "en": {
       "title": "Newborn study reopens the nature-versus-nurture debate",
       "summary": "Baby girls spent proportionally more time looking at faces than at a toy, but the researchers stress the large amount of individual variation.",
+      "aiSummary": [
+        "The study tracked the gaze of 130 newborns aged from eight hours to three days.",
+        "The observed difference is a group average and cannot predict an individual child's behavior or development."
+      ],
       "paragraphs": [
         "In tests involving 130 babies aged from eight hours to three days, researchers showed a face and a toy side by side while an eye tracker recorded where each child looked.",
         "All groups showed more interest in the face, but girls preferred the face video by a larger proportion than boys did. Because the participants were only days old, the authors point to biological factors such as genetics and hormone exposure in the womb as possible explanations.",
         "The study found average differences between groups and does not determine any individual child’s behavior. The researchers say longer follow-up will be needed to learn whether the early difference affects social development or vulnerability to neurological conditions.",
         "The experiment's design helps limit the interpretation: 130 newborns aged from eight hours to three days saw a face and a toy side by side while an eye tracker recorded their gaze. All groups showed greater interest in the face.",
         "The difference between girls and boys is a proportional group average, not an individual rule. The authors raise genetics and hormones in the womb as possibilities, but say only longer follow-up can show whether the early pattern relates to social development or neurological conditions."
-      ],
-      "aiSummary": [
-        "The study tracked the gaze of 130 newborns aged from eight hours to three days.",
-        "The observed difference is a group average and cannot predict an individual child's behavior or development."
       ]
     }
+  },
+  "verification": {
+    "score": 8.4,
+    "checkedAt": "2026-09-22T10:01:14Z",
+    "checks": [
+      {
+        "provider": "The Guardian",
+        "url": "https://www.theguardian.com/science/2026/sep/21/baby-girls-boys-interest-faces-nature-nurture",
+        "finding": "supports",
+        "note": "Complete source context for The Guardian was reviewed against the article summary and manifest evidence; the central claim is represented with the source's attribution and stated limitations."
+      },
+      {
+        "provider": "Aos Fatos",
+        "url": "https://www.aosfatos.org/",
+        "finding": "no-match",
+        "note": "Direct site-restricted search in Portuguese for the central claim, named entities, and key dates in 'Estudo com recém-nascidos reabre debate sobre natureza e criação' found no matching fact-check page. This no-match is neutral and is not evidence that the claim is true."
+      },
+      {
+        "provider": "Agência Lupa",
+        "url": "https://www.agencialupa.org/",
+        "finding": "no-match",
+        "note": "Direct site-restricted search in Portuguese for the central claim, named entities, and key dates in 'Estudo com recém-nascidos reabre debate sobre natureza e criação' found no matching fact-check page. This no-match is neutral and is not evidence that the claim is true."
+      },
+      {
+        "provider": "Projeto Comprova",
+        "url": "https://projetocomprova.com.br/",
+        "finding": "no-match",
+        "note": "Direct site-restricted search in Portuguese for the central claim, named entities, and key dates in 'Estudo com recém-nascidos reabre debate sobre natureza e criação' found no matching fact-check page. This no-match is neutral and is not evidence that the claim is true."
+      },
+      {
+        "provider": "TSE Fato ou Boato",
+        "url": "https://www.tse.jus.br/comunicacao/noticias/fato-ou-boato",
+        "finding": "no-match",
+        "note": "No election/civic-process fact-check relevant to the claim 'Estudo com recém-nascidos reabre debate sobre natureza e criação' was found; this source is not materially targeted to the article. The result is neutral."
+      },
+      {
+        "provider": "AFP Fact Check",
+        "url": "https://factcheck.afp.com/",
+        "finding": "no-match",
+        "note": "Direct site-restricted search in English for the central claim, named entities, and key dates in 'Newborn study reopens the nature-versus-nurture debate' found no matching fact-check page. This no-match is neutral and is not evidence that the claim is true."
+      },
+      {
+        "provider": "Reuters Fact Check",
+        "url": "https://www.reuters.com/fact-check/",
+        "finding": "no-match",
+        "note": "Direct site-restricted search in English for the central claim, named entities, and key dates in 'Newborn study reopens the nature-versus-nurture debate' found no matching fact-check page. This no-match is neutral and is not evidence that the claim is true."
+      },
+      {
+        "provider": "Full Fact",
+        "url": "https://fullfact.org/",
+        "finding": "no-match",
+        "note": "Direct site-restricted search in English for the central claim, named entities, and key dates in 'Newborn study reopens the nature-versus-nurture debate' found no matching fact-check page. This no-match is neutral and is not evidence that the claim is true."
+      },
+      {
+        "provider": "Google Fact Check Tools",
+        "url": "https://toolbox.google.com/factcheck/explorer",
+        "finding": "inconclusive",
+        "note": "The Explorer homepage was checked through indexed search, but the claims:search API returned HTTP 403 without an API key; this is incomplete coverage, not a no-match and not evidence of truth."
+      }
+    ],
+    "caveat": "Evidence-confidence estimate based on the complete source context, attribution review, direct fact-check-source searches, and the absence of a contradictory finding; no-match results are neutral, and this score is not a calibrated probability or guarantee."
   }
 }

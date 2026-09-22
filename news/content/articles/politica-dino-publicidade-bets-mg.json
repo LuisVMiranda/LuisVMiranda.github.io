@@ -4,7 +4,7 @@
   "section": "politica",
   "secondarySections": [],
   "publishedAt": "2026-09-21T12:37:31-03:00",
-  "updatedAt": "2026-09-21T19:43:50.732Z",
+  "updatedAt": "2026-09-22T10:16:58.141Z",
   "sources": [
     {
       "name": "CNN Brasil",
@@ -14,37 +14,98 @@
   "rights": {
     "mode": "original-report"
   },
+  "verification": {
+    "score": 8,
+    "checkedAt": "2026-09-22T10:00:08Z",
+    "checks": [
+      {
+        "provider": "CNN Brasil",
+        "url": "https://www.cnnbrasil.com.br/politica/dino-rejeita-liminar-e-mantem-decreto-que-proibe-publicidade-de-bets-em-mg/",
+        "finding": "supports",
+        "note": "Complete local source extraction (HTTP 200, complete:true) directly supports the article’s central claim as written, with attribution and date preserved."
+      },
+      {
+        "provider": "Aos Fatos",
+        "url": "https://www.aosfatos.org/",
+        "finding": "no-match",
+        "note": "No matching fact-check verdict for the central claim was identified in exact-claim and meaningful-variant searches; no-match is neutral and is not evidence that the claim is true."
+      },
+      {
+        "provider": "Agência Lupa",
+        "url": "https://www.agencialupa.org/",
+        "finding": "no-match",
+        "note": "No matching fact-check verdict for the central claim was identified in exact-claim and meaningful-variant searches; no-match is neutral and is not evidence that the claim is true."
+      },
+      {
+        "provider": "Projeto Comprova",
+        "url": "https://projetocomprova.com.br/publica%C3%A7%C3%B5es/entenda-por-que-apostas-digitais-nao-garantem-retorno-financeiro-e-como-identificar-plataformas-autorizadas-pelo-governo-federal/",
+        "finding": "context",
+        "note": "Provides context about betting platforms and misleading betting claims, but does not assess Dino’s Minas Gerais ruling."
+      },
+      {
+        "provider": "TSE Fato ou Boato",
+        "url": "https://www.tse.jus.br/comunicacao/noticias/fato-ou-boato",
+        "finding": "no-match",
+        "note": "No matching fact-check verdict for the central claim was identified in exact-claim and meaningful-variant searches; no-match is neutral and is not evidence that the claim is true."
+      },
+      {
+        "provider": "AFP Fact Check",
+        "url": "https://factcheck.afp.com/",
+        "finding": "no-match",
+        "note": "No matching fact-check verdict for the central claim was identified in exact-claim and meaningful-variant searches; no-match is neutral and is not evidence that the claim is true."
+      },
+      {
+        "provider": "Reuters Fact Check",
+        "url": "https://www.reuters.com/fact-check/",
+        "finding": "no-match",
+        "note": "No matching fact-check verdict for the central claim was identified in exact-claim and meaningful-variant searches; no-match is neutral and is not evidence that the claim is true."
+      },
+      {
+        "provider": "Full Fact",
+        "url": "https://fullfact.org/",
+        "finding": "no-match",
+        "note": "No matching fact-check verdict for the central claim was identified in exact-claim and meaningful-variant searches; no-match is neutral and is not evidence that the claim is true."
+      },
+      {
+        "provider": "Google Fact Check Explorer",
+        "url": "https://toolbox.google.com/factcheck/explorer",
+        "finding": "no-match",
+        "note": "No matching fact-check verdict for the central claim was identified in exact-claim and meaningful-variant searches; no-match is neutral and is not evidence that the claim is true."
+      }
+    ],
+    "caveat": "Complete CNN extraction reports a formal STF ruling and its stated competence reasoning. No fact-checker result directly addresses this ruling; confidence is based on the source report, not a fact-check verdict. No-match findings were treated as neutral, never as positive evidence."
+  },
   "translations": {
     "pt-BR": {
       "title": "Dino mantém proibição de publicidade de bets em bens e eventos de Minas",
       "summary": "Ministro do STF rejeitou pedido da associação do setor e considerou válida a competência estadual para administrar patrimônio e orçamento públicos.",
+      "aiSummary": [
+        "Flávio Dino manteve a regra mineira para bens e eventos estaduais, não uma proibição geral do setor.",
+        "A decisão cita saúde pública, proteção do consumidor e segurança.",
+        "O governo federal discute uma possível medida provisória sobre apostas online."
+      ],
       "paragraphs": [
         "O ministro Flávio Dino negou pedido da Associação Nacional de Jogos e Loterias e manteve válido o decreto de Minas Gerais que proíbe publicidade de bets e plataformas de conteúdo adulto em bens e eventos estaduais.",
         "A associação argumentava que o estado invadira competência da União. Dino entendeu que a regra trata da gestão do patrimônio público estadual e da execução do orçamento de Minas, áreas em que a União não poderia interferir.",
         "A decisão cita, como fundamentos, preocupações de saúde pública, proteção do consumidor e segurança, além de dados e relatórios da CPI das Bets sobre redes clandestinas, endividamento e lavagem de dinheiro. O julgamento ocorre enquanto o governo federal discute uma possível medida provisória para limitar apostas online.",
         "A decisão trata especificamente do uso de bens e eventos estaduais, e não de uma proibição geral de publicidade de apostas em qualquer ambiente. Ao rejeitar a liminar da associação, Flávio Dino aceitou a leitura de que Minas Gerais pode disciplinar a utilização de seu patrimônio e a execução de seu orçamento dentro desse alcance.",
         "Os fundamentos reunidos no voto conectam a restrição a saúde pública, proteção do consumidor e segurança, além de dados da CPI das Bets sobre redes clandestinas, endividamento e lavagem de dinheiro. O tema ainda pode ganhar novo capítulo no plano federal, já que o governo discute uma medida provisória sobre apostas online."
-      ],
-      "aiSummary": [
-        "Flávio Dino manteve a regra mineira para bens e eventos estaduais, não uma proibição geral do setor.",
-        "A decisão cita saúde pública, proteção do consumidor e segurança.",
-        "O governo federal discute uma possível medida provisória sobre apostas online."
       ]
     },
     "en": {
       "title": "Justice Dino upholds Minas Gerais ban on betting ads at state assets and events",
       "summary": "The Supreme Court justice rejected an industry request and found that the state may manage its public property and budget in this area.",
+      "aiSummary": [
+        "Dino upheld a Minas Gerais rule for state property and events, not a general industry-wide ban.",
+        "The decision cites public-health, consumer-protection and safety concerns.",
+        "Brazil’s federal government is considering a measure on online betting."
+      ],
       "paragraphs": [
         "Justice Flávio Dino rejected a request from the National Association of Games and Lotteries and upheld a Minas Gerais decree banning advertising for betting companies and adult-content platforms on state property and at state events.",
         "The association argued that the state had encroached on federal authority. Dino found that the rule concerns management of state public property and execution of Minas Gerais’s budget, areas in which the federal government could not intervene.",
         "The decision cites public-health, consumer-protection and safety concerns, along with data and reports from the Senate betting inquiry about illicit networks, debt and money laundering. The ruling comes as the federal government considers a possible measure to restrict online betting.",
         "The ruling specifically concerns the use of state property and state events, rather than imposing a general ban on betting advertising in every setting. By rejecting the association’s injunction request, Flávio Dino accepted the view that Minas Gerais may regulate its public assets and budget execution within that defined scope.",
         "The decision connects the restriction to public-health, consumer-protection and safety concerns, while also citing Senate betting-inquiry material about illicit networks, debt and money laundering. The issue may receive a federal follow-up because the government is considering a measure concerning online betting."
-      ],
-      "aiSummary": [
-        "Dino upheld a Minas Gerais rule for state property and events, not a general industry-wide ban.",
-        "The decision cites public-health, consumer-protection and safety concerns.",
-        "Brazil’s federal government is considering a measure on online betting."
       ]
     }
   }

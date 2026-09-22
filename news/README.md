@@ -59,6 +59,13 @@ and at least five substantive body paragraphs, and every editorial manifest
 records source evidence, selection reasoning, a complete-body review and an
 AI-summary review. `--legacy-ok` is only a smoke-test escape hatch for the
 pre-feature catalog; it must not be used by the daily job or for publication.
+New automated editions also run `npm run news:verify -- --require-verification`
+after fact-checking subagents inspect the configured Brazilian and international
+fact-check sources. Each article receives a one-decimal evidence-confidence
+score from 0.0 to 10.0, displayed in the AI-summary box as an estimated
+percentage with an explicit non-guarantee caveat. A score below 7.0 or an
+unresolved contradicting fact-check finding blocks publication. A no-match in a
+fact-check database is neutral and never raises the score by itself.
 The review command documents its required digest and reviewer arguments in the
 research template. New edits invalidate approval. Corrected stories retain their
 identity, update timestamp, and bilingual correction note.

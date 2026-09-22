@@ -33,6 +33,24 @@ export interface Article {
         permissionRef?: string | undefined;
       }
     | undefined;
+  verification?:
+    | {
+        score: number;
+        checkedAt: string;
+        checks: {
+          provider: string;
+          url: string;
+          finding:
+            | 'supports'
+            | 'contradicts'
+            | 'context'
+            | 'no-match'
+            | 'inconclusive';
+          note: string;
+        }[];
+        caveat: string;
+      }
+    | undefined;
   translations: Record<Locale, Translation>;
 }
 

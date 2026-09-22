@@ -4,7 +4,7 @@
   "section": "politica",
   "secondarySections": [],
   "publishedAt": "2026-09-21T13:31:44+00:00",
-  "updatedAt": "2026-09-21T19:43:50.732Z",
+  "updatedAt": "2026-09-22T10:16:58.141Z",
   "sources": [
     {
       "name": "Midiamax",
@@ -18,34 +18,95 @@
     "pt-BR": {
       "title": "Câmara de Campo Grande decreta luto pela morte de ex-vereador",
       "summary": "A Casa declarou três dias de luto oficial pela morte de Djalma Flores Blans e determinou que a bandeira fique a meio-mastro.",
+      "aiSummary": [
+        "Blans morreu em 18 de setembro, e o decreto foi publicado no Diogrande em 21 de setembro.",
+        "A Câmara determinou três dias de luto e bandeira a meio-mastro.",
+        "Ele foi médico, vereador de Campo Grande entre 2007 e 2008 e autor de um livro de 2022."
+      ],
       "paragraphs": [
         "A Câmara Municipal de Campo Grande decretou luto oficial de três dias pela morte do ex-vereador Djalma Flores Blans, informou o Midiamax. O ato foi publicado no Diogrande em 21 de setembro e determina que a bandeira do Legislativo fique a meio-mastro.",
         "O documento foi assinado pelo presidente Epaminondas Neto em 18 de setembro. Blans, médico homeopata formado pela UFMS, morreu na madrugada de 18 de setembro enquanto fazia tratamento contra o câncer.",
         "Além da carreira médica e da atuação na associação estadual de homeopatia, ele foi vereador de Campo Grande entre 2007 e 2008 e integrava o projeto Cuidar de Quem Cuida. Também era autor de um livro lançado em 2022.",
         "A sequência dos atos institucionais é específica: Djalma Flores Blans morreu na madrugada de 18 de setembro, o decreto foi assinado pelo presidente Epaminondas Neto no mesmo dia e a publicação no Diogrande ocorreu em 21 de setembro. O luto de três dias e a bandeira a meio-mastro formalizam a homenagem do Legislativo municipal.",
         "O registro combina a homenagem pública com diferentes dimensões da trajetória de Blans: médico homeopata formado pela UFMS, integrante da associação estadual de homeopatia, vereador entre 2007 e 2008, participante do projeto Cuidar de Quem Cuida e autor de um livro lançado em 2022."
-      ],
-      "aiSummary": [
-        "Blans morreu em 18 de setembro, e o decreto foi publicado no Diogrande em 21 de setembro.",
-        "A Câmara determinou três dias de luto e bandeira a meio-mastro.",
-        "Ele foi médico, vereador de Campo Grande entre 2007 e 2008 e autor de um livro de 2022."
       ]
     },
     "en": {
       "title": "Campo Grande city council declares mourning after former councilor dies",
       "summary": "The council declared three days of official mourning for Djalma Flores Blans and ordered its flag to fly at half-staff.",
+      "aiSummary": [
+        "Blans died September 18, and the order appeared in the municipal gazette on September 21.",
+        "The council ordered three days of mourning and a half-staff flag.",
+        "He was a physician, a Campo Grande councilor from 2007 to 2008 and a 2022 author."
+      ],
       "paragraphs": [
         "Campo Grande’s city council declared three days of official mourning after former councilor Djalma Flores Blans died, Midiamax reported. The order was published in the municipal gazette on September 21 and requires the legislature’s flag to fly at half-staff.",
         "The document was signed by council president Epaminondas Neto on September 18. Blans, a homeopathic physician trained at UFMS, died early on September 18 while undergoing cancer treatment.",
         "Alongside his medical career and work with the state homeopathy association, he served as a Campo Grande councilor from 2007 to 2008 and took part in the Cuidar de Quem Cuida project. He also wrote a book published in 2022.",
         "The sequence of institutional acts is specific: Djalma Flores Blans died early on September 18, council president Epaminondas Neto signed the order that day, and the municipal gazette published it on September 21. The three-day mourning period and half-staff flag formally record the city legislature’s tribute.",
         "The notice combines the public tribute with several parts of Blans’s career: he was a homeopathic physician trained at UFMS, worked with the state homeopathy association, served as a councilor from 2007 to 2008, joined the Cuidar de Quem Cuida project and wrote a book released in 2022."
-      ],
-      "aiSummary": [
-        "Blans died September 18, and the order appeared in the municipal gazette on September 21.",
-        "The council ordered three days of mourning and a half-staff flag.",
-        "He was a physician, a Campo Grande councilor from 2007 to 2008 and a 2022 author."
       ]
     }
+  },
+  "verification": {
+    "score": 8.8,
+    "checkedAt": "2026-09-22T10:00:08Z",
+    "checks": [
+      {
+        "provider": "Midiamax",
+        "url": "https://midiamax.com.br/politica/2026/camara-campo-grande-decreta-luto-3-dias-morte-ex-vereador-djalma-flores/",
+        "finding": "supports",
+        "note": "Complete local source extraction (HTTP 200, complete:true) directly supports the article’s central claim as written, with attribution and date preserved."
+      },
+      {
+        "provider": "Aos Fatos",
+        "url": "https://www.aosfatos.org/",
+        "finding": "no-match",
+        "note": "No matching fact-check verdict for the central claim was identified in exact-claim and meaningful-variant searches; no-match is neutral and is not evidence that the claim is true."
+      },
+      {
+        "provider": "Agência Lupa",
+        "url": "https://www.agencialupa.org/",
+        "finding": "no-match",
+        "note": "No matching fact-check verdict for the central claim was identified in exact-claim and meaningful-variant searches; no-match is neutral and is not evidence that the claim is true."
+      },
+      {
+        "provider": "Projeto Comprova",
+        "url": "https://projetocomprova.com.br/",
+        "finding": "no-match",
+        "note": "No matching fact-check verdict for the central claim was identified in exact-claim and meaningful-variant searches; no-match is neutral and is not evidence that the claim is true."
+      },
+      {
+        "provider": "TSE Fato ou Boato",
+        "url": "https://www.tse.jus.br/comunicacao/noticias/fato-ou-boato",
+        "finding": "no-match",
+        "note": "No matching fact-check verdict for the central claim was identified in exact-claim and meaningful-variant searches; no-match is neutral and is not evidence that the claim is true."
+      },
+      {
+        "provider": "AFP Fact Check",
+        "url": "https://factcheck.afp.com/",
+        "finding": "no-match",
+        "note": "No matching fact-check verdict for the central claim was identified in exact-claim and meaningful-variant searches; no-match is neutral and is not evidence that the claim is true."
+      },
+      {
+        "provider": "Reuters Fact Check",
+        "url": "https://www.reuters.com/fact-check/",
+        "finding": "no-match",
+        "note": "No matching fact-check verdict for the central claim was identified in exact-claim and meaningful-variant searches; no-match is neutral and is not evidence that the claim is true."
+      },
+      {
+        "provider": "Full Fact",
+        "url": "https://fullfact.org/",
+        "finding": "no-match",
+        "note": "No matching fact-check verdict for the central claim was identified in exact-claim and meaningful-variant searches; no-match is neutral and is not evidence that the claim is true."
+      },
+      {
+        "provider": "Google Fact Check Explorer",
+        "url": "https://toolbox.google.com/factcheck/explorer",
+        "finding": "no-match",
+        "note": "No matching fact-check verdict for the central claim was identified in exact-claim and meaningful-variant searches; no-match is neutral and is not evidence that the claim is true."
+      }
+    ],
+    "caveat": "The complete local report quotes the official mourning act and gazette publication, making the central civic action low risk and directly documented. No-match findings were treated as neutral, never as positive evidence."
   }
 }

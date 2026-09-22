@@ -17,6 +17,19 @@ describe('daily news automation gate', () => {
   it('accepts a complete article in every selected section', () => {
     const complete = structuredClone(article);
     complete.rights = { mode: 'original-report' };
+    complete.verification = {
+      score: 8.7,
+      checkedAt: '2026-09-22T12:00:00Z',
+      checks: [
+        {
+          provider: 'Aos Fatos',
+          url: 'https://www.aosfatos.org/',
+          finding: 'no-match',
+          note: 'No matching claim was indexed; this is neutral evidence.',
+        },
+      ],
+      caveat: 'Editorial estimate based on checked sources, not a guarantee.',
+    };
     complete.translations['pt-BR'].aiSummary = [
       'Resumo verificado com contexto e consequência imediata.',
       'A relevância pública está explicitada.',
@@ -49,6 +62,71 @@ describe('daily news automation gate', () => {
       };
     }
     expect(automationIssues(completeEdition, [complete], 1)).toEqual([]);
+    expect(
+      automationIssues(completeEdition, [complete], 1, true, true),
+    ).toEqual([]);
+  });
+
+  it('blocks missing or contradictory fact-check verification when required', () => {
+    const complete = structuredClone(article);
+    complete.rights = { mode: 'original-report' };
+    complete.translations['pt-BR'].aiSummary = [
+      'Resumo verificado com contexto.',
+    ];
+    complete.translations.en.aiSummary = ['Verified summary with context.'];
+    complete.translations['pt-BR'].paragraphs = Array.from(
+      { length: 5 },
+      (_, index) =>
+        `Parágrafo factual de teste número ${index + 1} com contexto suficiente.`,
+    );
+    complete.translations.en.paragraphs = Array.from(
+      { length: 5 },
+      (_, index) =>
+        `Factual test paragraph number ${index + 1} with enough context.`,
+    );
+    const completeEdition = structuredClone(edition);
+    for (const section of Object.keys(completeEdition.sections)) {
+      completeEdition.sections[
+        section as keyof typeof completeEdition.sections
+      ] = {
+        articleIds: [complete.id],
+        shortfall: 'Fixture uses one article per section.',
+      };
+    }
+    const missing = automationIssues(
+      completeEdition,
+      [complete],
+      1,
+      true,
+      true,
+    );
+    expect(missing.some((issue) => issue.includes('missing fact-check'))).toBe(
+      true,
+    );
+    complete.verification = {
+      score: 8.2,
+      checkedAt: '2026-09-22T12:00:00Z',
+      checks: [
+        {
+          provider: 'Reuters Fact Check',
+          url: 'https://www.reuters.com/fact-check/',
+          finding: 'contradicts',
+          note: 'The indexed claim conflicts with the article assertion.',
+        },
+      ],
+      caveat:
+        'Editorial estimate pending resolution of the conflicting finding.',
+    };
+    const contradictory = automationIssues(
+      completeEdition,
+      [complete],
+      1,
+      true,
+      true,
+    );
+    expect(
+      contradictory.some((issue) => issue.includes('contradicting fact-check')),
+    ).toBe(true);
   });
 
   it('rejects inline links and media from published reading text', () => {

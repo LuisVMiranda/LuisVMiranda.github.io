@@ -4,7 +4,7 @@
   "section": "brasil",
   "secondarySections": ["cultura"],
   "publishedAt": "2026-09-21T01:32:37-03:00",
-  "updatedAt": "2026-09-21T19:43:50.732Z",
+  "updatedAt": "2026-09-22T10:16:58.141Z",
   "sources": [
     {
       "name": "CNN Brasil",
@@ -14,35 +14,102 @@
   "rights": {
     "mode": "original-report"
   },
+  "verification": {
+    "score": 9.1,
+    "checkedAt": "2026-09-22T10:05:52Z",
+    "checks": [
+      {
+        "provider": "CNN Brasil",
+        "url": "https://www.cnnbrasil.com.br/pop/celebridades/filho-de-cindy-crawford-modelo-presley-gerber-morre-aos-27-anos/",
+        "finding": "supports",
+        "note": "Complete local extraction was status 200 with complete:true; the source directly contains the article's reported claim and its stated qualifications."
+      },
+      {
+        "provider": "Aos Fatos",
+        "url": "https://www.aosfatos.org/",
+        "finding": "no-match",
+        "note": "No directly matching fact-check result surfaced in the source-restricted search; no-match is neutral and not evidence of accuracy."
+      },
+      {
+        "provider": "Agência Lupa",
+        "url": "https://www.agencialupa.org/",
+        "finding": "no-match",
+        "note": "No directly matching fact-check result surfaced in the source-restricted search; no-match is neutral and not evidence of accuracy."
+      },
+      {
+        "provider": "Projeto Comprova",
+        "url": "https://projetocomprova.com.br/",
+        "finding": "no-match",
+        "note": "No directly matching fact-check result surfaced in the source-restricted search; no-match is neutral and not evidence of accuracy."
+      },
+      {
+        "provider": "TSE Fato ou Boato",
+        "url": "https://www.tse.jus.br/comunicacao/noticias/fato-ou-boato",
+        "finding": "no-match",
+        "note": "No directly matching fact-check result surfaced in the source-restricted search; no-match is neutral and not evidence of accuracy."
+      },
+      {
+        "provider": "AFP Fact Check",
+        "url": "https://factcheck.afp.com/",
+        "finding": "no-match",
+        "note": "No directly matching fact-check result surfaced in the source-restricted search; no-match is neutral and not evidence of accuracy."
+      },
+      {
+        "provider": "Reuters Fact Check",
+        "url": "https://www.reuters.com/fact-check/",
+        "finding": "no-match",
+        "note": "No directly matching fact-check result surfaced in the source-restricted search; no-match is neutral and not evidence of accuracy."
+      },
+      {
+        "provider": "Full Fact",
+        "url": "https://fullfact.org/",
+        "finding": "no-match",
+        "note": "No directly matching fact-check result surfaced in the source-restricted search; no-match is neutral and not evidence of accuracy."
+      },
+      {
+        "provider": "Google Fact Check Explorer",
+        "url": "https://toolbox.google.com/factcheck/explorer",
+        "finding": "inconclusive",
+        "note": "The public claims-search endpoint returned HTTP 403 in this run and no exact ClaimReview record was confirmed; this is not evidence for or against the article."
+      },
+      {
+        "provider": "Reuters",
+        "url": "https://www.reuters.com/world/us/cindy-crawfords-son-presley-gerber-dies-aged-27-2026-09-21/",
+        "finding": "supports",
+        "note": "Reuters independently reports Presley Gerber's death at 27 and the lack of a disclosed cause."
+      }
+    ],
+    "caveat": "Death confirmation is corroborated by Reuters; the cause of death remained undisclosed in the checked reporting."
+  },
   "translations": {
     "pt-BR": {
       "title": "Modelo Presley Gerber morre aos 27 anos",
       "summary": "O representante do filho de Cindy Crawford confirmou a morte; o instituto médico-legal informou que ele estava em uma clínica de reabilitação e não divulgou a causa.",
+      "aiSummary": [
+        "A causa da morte não foi divulgada, e a família pediu privacidade.",
+        "Gerber também era conhecido por trabalho de modelo e pela iniciativa Mental Health Mondays."
+      ],
       "paragraphs": [
         "Presley Gerber, filho da modelo Cindy Crawford, morreu aos 27 anos, segundo confirmação de seu representante. O Instituto Médico Legal do Condado de Los Angeles informou que a morte ocorreu no domingo, enquanto ele estava em uma clínica de reabilitação.",
         "A causa da morte não foi divulgada. O assessor de Crawford pediu privacidade para a família durante o período de luto.",
         "Gerber começou a carreira de modelo ainda adolescente, desfilou para marcas internacionais e também participou de campanhas publicitárias. Nos últimos anos, falou publicamente sobre saúde mental e criou uma iniciativa chamada Mental Health Mondays, de acordo com sua agência.",
         "A confirmação veio do representante de Gerber, enquanto o instituto médico-legal informou apenas que ele estava em uma clínica de reabilitação quando morreu. Como a causa não foi divulgada e o assessor pediu privacidade, o relato mantém separados os fatos oficiais e qualquer interpretação sobre as circunstâncias.",
         "O obituário também registra uma trajetória profissional iniciada na adolescência, com desfiles e campanhas internacionais, além de uma atuação pública relacionada à saúde mental. Esses elementos contextualizam sua imagem para além do parentesco com Cindy Crawford, sem atribuir relação causal entre sua iniciativa e a morte."
-      ],
-      "aiSummary": [
-        "A causa da morte não foi divulgada, e a família pediu privacidade.",
-        "Gerber também era conhecido por trabalho de modelo e pela iniciativa Mental Health Mondays."
       ]
     },
     "en": {
       "title": "Model Presley Gerber dies at 27",
       "summary": "The son of Cindy Crawford was confirmed dead by his representative; the coroner said he was in a rehabilitation clinic and did not disclose a cause.",
+      "aiSummary": [
+        "The cause of death was not disclosed, and the family requested privacy.",
+        "Gerber was also known for modeling and the Mental Health Mondays initiative."
+      ],
       "paragraphs": [
         "Presley Gerber, model and son of Cindy Crawford, died at 27, according to confirmation from his representative. The Los Angeles County coroner said he died on Sunday while in a rehabilitation clinic.",
         "The cause of death was not disclosed. Crawford’s publicist asked for privacy for the family during the grieving period.",
         "Gerber began modeling as a teenager, walked for international brands and appeared in advertising campaigns. In recent years, he spoke publicly about mental health and created an initiative called Mental Health Mondays, according to his agency.",
         "The death was confirmed by Gerber’s representative, while the coroner’s office said only that he was in a rehabilitation clinic when he died. Since the cause was not disclosed and the publicist requested privacy, the report keeps official facts separate from speculation about the circumstances.",
         "The obituary also records a career that began in adolescence, with international runway work and advertising campaigns, along with public activity related to mental health. That context presents him beyond his relationship to Cindy Crawford without implying a causal connection between the initiative and his death."
-      ],
-      "aiSummary": [
-        "The cause of death was not disclosed, and the family requested privacy.",
-        "Gerber was also known for modeling and the Mental Health Mondays initiative."
       ]
     }
   }

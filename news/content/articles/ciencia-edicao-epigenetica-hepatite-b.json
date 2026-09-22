@@ -5,7 +5,7 @@
   "secondarySections": [],
   "publishedAt": "2026-09-21T00:00:00.000Z",
   "publishedDate": "2026-09-21",
-  "updatedAt": "2026-09-21T19:43:50.732Z",
+  "updatedAt": "2026-09-22T10:16:58.141Z",
   "sources": [
     {
       "name": "Nature",
@@ -19,32 +19,93 @@
     "pt-BR": {
       "title": "Edição epigenética silencia o vírus da hepatite B em testes pré-clínicos",
       "summary": "Técnica experimental marca o DNA do vírus para reduzir sua atividade, enquanto uma empresa inicia testes clínicos de doses múltiplas.",
+      "aiSummary": [
+        "O CRMA-1001 usa Cas9 inativo e RNA para acrescentar marcas químicas ao DNA viral sem fazer cortes.",
+        "Os resultados apresentados continuam pré-clínicos, enquanto o ensaio humano de doses múltiplas está em fase inicial."
+      ],
       "paragraphs": [
         "Pesquisadores da nChroma Bio e de institutos italianos desenvolveram o CRMA-1001, uma terapia que usa uma versão inativa do Cas9 guiada por RNA para adicionar marcas químicas ao genoma do vírus da hepatite B e reduzir sua atividade.",
         "Em experimentos com células hepáticas humanas e camundongos, a abordagem impediu a produção de partículas virais; testes em macacos apontaram efeitos colaterais mínimos e temporários. O resultado permanece uma evidência pré-clínica, embora tenha sido considerado promissor pelos pesquisadores.",
         "A empresa iniciou um ensaio clínico em Hong Kong e na Nova Zelândia para avaliar doses múltiplas, e o primeiro participante recebeu a terapia por infusão intravenosa em janeiro. A estratégia tenta atingir o material viral que permanece nas células do fígado e ajuda a explicar por que os tratamentos atuais nem sempre eliminam a infecção.",
         "O CRMA-1001 tenta agir sobre o material viral persistente sem cortar o DNA: um Cas9 inativo, guiado por RNA, acrescenta marcas químicas ao genoma do vírus. Essa diferença explica a descrição de edição epigenética e separa o mecanismo de abordagens que fazem cortes no DNA.",
         "A sequência de evidências ainda é desigual: houve resultados em células hepáticas humanas, camundongos e macacos, mas, em humanos, o relato registra apenas o primeiro participante de um ensaio inicial de doses múltiplas. Isso não permite concluir eficácia ou segurança para uso amplo."
-      ],
-      "aiSummary": [
-        "O CRMA-1001 usa Cas9 inativo e RNA para acrescentar marcas químicas ao DNA viral sem fazer cortes.",
-        "Os resultados apresentados continuam pré-clínicos, enquanto o ensaio humano de doses múltiplas está em fase inicial."
       ]
     },
     "en": {
       "title": "Epigenetic editing silences hepatitis B virus in preclinical tests",
       "summary": "An experimental technique marks viral DNA to reduce its activity as a company begins a multiple-dose clinical trial.",
+      "aiSummary": [
+        "CRMA-1001 uses inactive Cas9 and RNA to add chemical tags to viral DNA without cutting it.",
+        "The reported results remain preclinical while the multiple-dose human trial is at an early stage."
+      ],
       "paragraphs": [
         "Researchers at nChroma Bio and Italian institutes developed CRMA-1001, a therapy that uses an inactive Cas9 guided by RNA to add chemical tags to the hepatitis B virus genome and reduce its activity.",
         "In experiments with human liver cells and mice, the approach prevented the production of viral particles, while monkey tests showed minimal and temporary side effects. The result remains preclinical evidence, although researchers described it as promising.",
         "The company has started a multiple-dose clinical trial in Hong Kong and New Zealand, and the first participant received the therapy through an intravenous infusion in January. The strategy targets viral material that remains in liver cells and helps explain why current treatments do not always eliminate the infection.",
         "CRMA-1001 aims to act on persistent viral material without cutting DNA: an inactive Cas9 guided by RNA adds chemical tags to the virus's genome. That difference explains the description of epigenetic editing and separates the mechanism from approaches that cut DNA.",
         "The evidence sequence is still uneven: results were reported in human liver cells, mice, and monkeys, but in humans the account records only the first participant in an early multiple-dose trial. That does not establish broad effectiveness or safety."
-      ],
-      "aiSummary": [
-        "CRMA-1001 uses inactive Cas9 and RNA to add chemical tags to viral DNA without cutting it.",
-        "The reported results remain preclinical while the multiple-dose human trial is at an early stage."
       ]
     }
+  },
+  "verification": {
+    "score": 8.6,
+    "checkedAt": "2026-09-22T10:01:14Z",
+    "checks": [
+      {
+        "provider": "Nature",
+        "url": "https://www.nature.com/articles/d41586-026-02981-9",
+        "finding": "supports",
+        "note": "Complete source context for Nature was reviewed against the article summary and manifest evidence; the central claim is represented with the source's attribution and stated limitations."
+      },
+      {
+        "provider": "Aos Fatos",
+        "url": "https://www.aosfatos.org/",
+        "finding": "no-match",
+        "note": "Direct site-restricted search in Portuguese for the central claim, named entities, and key dates in 'Edição epigenética silencia o vírus da hepatite B em testes pré-clínicos' found no matching fact-check page. This no-match is neutral and is not evidence that the claim is true."
+      },
+      {
+        "provider": "Agência Lupa",
+        "url": "https://www.agencialupa.org/",
+        "finding": "no-match",
+        "note": "Direct site-restricted search in Portuguese for the central claim, named entities, and key dates in 'Edição epigenética silencia o vírus da hepatite B em testes pré-clínicos' found no matching fact-check page. This no-match is neutral and is not evidence that the claim is true."
+      },
+      {
+        "provider": "Projeto Comprova",
+        "url": "https://projetocomprova.com.br/",
+        "finding": "no-match",
+        "note": "Direct site-restricted search in Portuguese for the central claim, named entities, and key dates in 'Edição epigenética silencia o vírus da hepatite B em testes pré-clínicos' found no matching fact-check page. This no-match is neutral and is not evidence that the claim is true."
+      },
+      {
+        "provider": "TSE Fato ou Boato",
+        "url": "https://www.tse.jus.br/comunicacao/noticias/fato-ou-boato",
+        "finding": "no-match",
+        "note": "No election/civic-process fact-check relevant to the claim 'Edição epigenética silencia o vírus da hepatite B em testes pré-clínicos' was found; this source is not materially targeted to the article. The result is neutral."
+      },
+      {
+        "provider": "AFP Fact Check",
+        "url": "https://factcheck.afp.com/",
+        "finding": "no-match",
+        "note": "Direct site-restricted search in English for the central claim, named entities, and key dates in 'Epigenetic editing silences hepatitis B virus in preclinical tests' found no matching fact-check page. This no-match is neutral and is not evidence that the claim is true."
+      },
+      {
+        "provider": "Reuters Fact Check",
+        "url": "https://www.reuters.com/fact-check/",
+        "finding": "no-match",
+        "note": "Direct site-restricted search in English for the central claim, named entities, and key dates in 'Epigenetic editing silences hepatitis B virus in preclinical tests' found no matching fact-check page. This no-match is neutral and is not evidence that the claim is true."
+      },
+      {
+        "provider": "Full Fact",
+        "url": "https://fullfact.org/",
+        "finding": "no-match",
+        "note": "Direct site-restricted search in English for the central claim, named entities, and key dates in 'Epigenetic editing silences hepatitis B virus in preclinical tests' found no matching fact-check page. This no-match is neutral and is not evidence that the claim is true."
+      },
+      {
+        "provider": "Google Fact Check Tools",
+        "url": "https://toolbox.google.com/factcheck/explorer",
+        "finding": "inconclusive",
+        "note": "The Explorer homepage was checked through indexed search, but the claims:search API returned HTTP 403 without an API key; this is incomplete coverage, not a no-match and not evidence of truth."
+      }
+    ],
+    "caveat": "Evidence-confidence estimate based on the complete source context, attribution review, direct fact-check-source searches, and the absence of a contradictory finding; no-match results are neutral, and this score is not a calibrated probability or guarantee. Preclinical results and the first participant in an early multiple-dose trial are kept distinct; no treatment efficacy is inferred."
   }
 }

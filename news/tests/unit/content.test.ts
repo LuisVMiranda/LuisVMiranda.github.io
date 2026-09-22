@@ -41,6 +41,25 @@ describe('publication invariants', () => {
     });
     expect(result.success).toBe(false);
   });
+  it('rejects verification scores outside the one-decimal 0-to-10 range', () => {
+    const result = articleSchema.safeParse({
+      ...article,
+      verification: {
+        score: 8.75,
+        checkedAt: '2026-09-22T12:00:00Z',
+        checks: [
+          {
+            provider: 'Aos Fatos',
+            url: 'https://www.aosfatos.org/',
+            finding: 'no-match',
+            note: 'No matching claim was indexed; this is neutral evidence.',
+          },
+        ],
+        caveat: 'Editorial estimate based on checked sources, not a guarantee.',
+      },
+    });
+    expect(result.success).toBe(false);
+  });
   it('rejects duplicate identities and broken edition references', () => {
     expect(() => validateCatalog([article, article], [edition])).toThrow(
       'Duplicate',

@@ -4,7 +4,7 @@
   "section": "politica",
   "secondarySections": [],
   "publishedAt": "2026-09-21T08:01:37.995-03:00",
-  "updatedAt": "2026-09-21T19:43:50.732Z",
+  "updatedAt": "2026-09-22T10:16:58.141Z",
   "sources": [
     {
       "name": "Valor Internacional",
@@ -18,37 +18,104 @@
   "rights": {
     "mode": "original-report"
   },
+  "verification": {
+    "score": 8.4,
+    "checkedAt": "2026-09-22T10:00:08Z",
+    "checks": [
+      {
+        "provider": "Valor Internacional",
+        "url": "https://valorinternational.globo.com/politics/news/2026/09/21/new-disclosure-deepens-turmoil-at-brazils-supreme-court.ghtml",
+        "finding": "supports",
+        "note": "Complete local source extraction (HTTP 200, complete:true) directly supports the article’s central claim as written, with attribution and date preserved."
+      },
+      {
+        "provider": "CNN Brasil",
+        "url": "https://www.cnnbrasil.com.br/politica/saiba-como-e-o-legacy-650-jato-de-vorcaro-em-que-moraes-e-esposa-viajaram/",
+        "finding": "supports",
+        "note": "Complete local source extraction (HTTP 200, complete:true) directly supports the article’s central claim as written, with attribution and date preserved."
+      },
+      {
+        "provider": "Aos Fatos",
+        "url": "https://www.aosfatos.org/noticias/explicamos-novas-revelacoes-caso-master/",
+        "finding": "context",
+        "note": "Related explainer on new Banco Master revelations; it provides context for the surrounding case but does not independently verify every detail of the jet video."
+      },
+      {
+        "provider": "Agência Lupa",
+        "url": "https://www.agencialupa.org/",
+        "finding": "no-match",
+        "note": "No matching fact-check verdict for the central claim was identified in exact-claim and meaningful-variant searches; no-match is neutral and is not evidence that the claim is true."
+      },
+      {
+        "provider": "Projeto Comprova",
+        "url": "https://projetocomprova.com.br/",
+        "finding": "no-match",
+        "note": "No matching fact-check verdict for the central claim was identified in exact-claim and meaningful-variant searches; no-match is neutral and is not evidence that the claim is true."
+      },
+      {
+        "provider": "TSE Fato ou Boato",
+        "url": "https://www.tse.jus.br/comunicacao/noticias/fato-ou-boato",
+        "finding": "no-match",
+        "note": "No matching fact-check verdict for the central claim was identified in exact-claim and meaningful-variant searches; no-match is neutral and is not evidence that the claim is true."
+      },
+      {
+        "provider": "AFP Fact Check",
+        "url": "https://factcheck.afp.com/",
+        "finding": "no-match",
+        "note": "No matching fact-check verdict for the central claim was identified in exact-claim and meaningful-variant searches; no-match is neutral and is not evidence that the claim is true."
+      },
+      {
+        "provider": "Reuters Fact Check",
+        "url": "https://www.reuters.com/fact-check/portugues/WRRNSWPOWNM4ZG4XXK5RGJQ76Q-2026-03-23/",
+        "finding": "context",
+        "note": "Checks a different video involving Moraes and Mendonça; useful warning against conflating related footage, not a verdict on this jet disclosure."
+      },
+      {
+        "provider": "Full Fact",
+        "url": "https://fullfact.org/",
+        "finding": "no-match",
+        "note": "No matching fact-check verdict for the central claim was identified in exact-claim and meaningful-variant searches; no-match is neutral and is not evidence that the claim is true."
+      },
+      {
+        "provider": "Google Fact Check Explorer",
+        "url": "https://toolbox.google.com/factcheck/explorer",
+        "finding": "no-match",
+        "note": "No matching fact-check verdict for the central claim was identified in exact-claim and meaningful-variant searches; no-match is neutral and is not evidence that the claim is true."
+      }
+    ],
+    "caveat": "Complete Valor and CNN extractions agree on the video, aircraft attribution and law-firm response. Related fact-checks concern adjacent Banco Master narratives, not a direct verdict on this jet disclosure. No-match findings were treated as neutral, never as positive evidence."
+  },
   "translations": {
     "pt-BR": {
       "title": "Vídeo de jato reacende pressão sobre o STF no caso Banco Master",
       "summary": "Nova divulgação sobre uma aeronave ligada a Daniel Vorcaro amplia a pressão sobre o Supremo e mantém dúvidas sobre a condução dos processos relacionados ao banco.",
+      "aiSummary": [
+        "A Polícia Federal atribui o jato à Prime You, enquanto o escritório nega vínculo pessoal com operadores.",
+        "Disputas sobre os processos do Banco Master já provocaram adiamentos de sessões no STF.",
+        "Ainda não está definido quais gabinetes conduzirão os casos relacionados ao banco."
+      ],
       "paragraphs": [
         "Uma reportagem do Valor informa que o Supremo Tribunal Federal entrou na semana sob nova pressão após a divulgação de um vídeo que mostra Alexandre de Moraes e Viviane Barci de Moraes desembarcando de um jato atribuído pela Polícia Federal à Prime You, empresa ligada ao ex-banqueiro Daniel Vorcaro.",
         "O escritório Barci de Moraes afirmou, em nota reproduzida pelo Valor e pela CNN Brasil, que contrata táxi aéreo de diferentes empresas, entre elas a Prime Aviation, e que Vorcaro não esteve a bordo de voos com integrantes do escritório. A nota também negou vínculo pessoal com proprietários ou operadores específicos.",
         "O episódio se soma a mensagens extraídas do celular de Vorcaro e a dúvidas sobre a condução de processos ligados ao Banco Master. Segundo o Valor, o impasse entre ministros já provocou adiamentos de sessões e mantém incerta a definição sobre quais gabinetes conduzirão os casos.",
         "O vídeo registra o desembarque de Alexandre de Moraes e Viviane Barci de Moraes, mas a atribuição da aeronave à Prime You vem da Polícia Federal, enquanto a defesa descreve contratações de táxi aéreo com diferentes empresas. A combinação desses elementos mantém separadas a imagem divulgada, a identificação do avião e a versão apresentada pelo escritório.",
         "A controvérsia também tem consequência processual: mensagens extraídas do celular de Daniel Vorcaro foram incorporadas ao ambiente de dúvidas sobre o Banco Master, e o impasse entre ministros já adiou sessões. O próximo ponto de definição é saber quais gabinetes conduzirão os casos, enquanto a resposta do escritório permanece como posição formal registrada nas reportagens."
-      ],
-      "aiSummary": [
-        "A Polícia Federal atribui o jato à Prime You, enquanto o escritório nega vínculo pessoal com operadores.",
-        "Disputas sobre os processos do Banco Master já provocaram adiamentos de sessões no STF.",
-        "Ainda não está definido quais gabinetes conduzirão os casos relacionados ao banco."
       ]
     },
     "en": {
       "title": "Jet video renews pressure on Brazil’s Supreme Court in the Banco Master case",
       "summary": "A new disclosure involving an aircraft linked to Daniel Vorcaro adds pressure on the court and leaves uncertainty over cases tied to the bank.",
+      "aiSummary": [
+        "Federal police attribute the jet to Prime You, while the law firm denies personal ties to operators.",
+        "Disputes over Banco Master proceedings have already postponed Supreme Court sessions.",
+        "It remains unclear which chambers will handle the bank-related cases."
+      ],
       "paragraphs": [
         "A Valor report says Brazil’s Supreme Court began the week under renewed pressure after a video showed Alexandre de Moraes and Viviane Barci de Moraes leaving a jet that federal police attribute to Prime You, a company linked to former banker Daniel Vorcaro.",
         "The Barci de Moraes law firm said in a statement reproduced by Valor and CNN Brasil that it hires air-taxi services from several companies, including Prime Aviation, and that Vorcaro was not aboard flights with members of the firm. The statement also denied a personal relationship with aircraft owners or specific operators.",
         "The episode adds to messages extracted from Vorcaro’s cellphone and uncertainty over proceedings linked to Banco Master. Valor reported that the dispute among justices has already led to postponed sessions and left unclear which chambers will handle the cases.",
         "The video shows Alexandre de Moraes and Viviane Barci de Moraes leaving the aircraft, but federal police are the source for attributing the jet to Prime You, while the law firm describes air-taxi contracts with several companies. Those elements keep the released image, the aircraft attribution and the firm’s account as distinct parts of the report.",
         "The controversy also has a procedural consequence: messages extracted from Daniel Vorcaro’s cellphone have fed uncertainty around Banco Master cases, and the dispute among justices has already postponed sessions. The next institutional question is which chambers will handle the proceedings, while the law firm’s denial remains the formal position recorded by the reports."
-      ],
-      "aiSummary": [
-        "Federal police attribute the jet to Prime You, while the law firm denies personal ties to operators.",
-        "Disputes over Banco Master proceedings have already postponed Supreme Court sessions.",
-        "It remains unclear which chambers will handle the bank-related cases."
       ]
     }
   }

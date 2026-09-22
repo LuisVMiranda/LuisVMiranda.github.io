@@ -4,7 +4,7 @@ Run from `C:\Users\Admin\Documents\GitHub\LuisVMiranda.github.io\news` every day
 
 Goal: prepare one verified edition with exactly ten verified, fully developed stories in each fixed desk: `brasil`, `mundo`, `politica`, `economia`, `tecnologia`, `ciencia`, `cultura`, and `esportes`, then commit and push it to `main` so GitHub Pages can deploy it automatically. No human editorial step is required: an independent read-only subagent must review the exact content revision before the automation records approval and publishes.
 
-Read `news-report.md`, `README.md`, `research/TEMPLATE.md`, `src/modules/content/schema.ts`, the existing section manifests, and the current Git status before making any edit. Preserve the existing site design and article template. Populate the existing optional AI-summary field; do not redesign the pages or edit generated HTML.
+Read `news-report.md`, `README.md`, `research/TEMPLATE.md`, `automation/fact-checking-prompt.md`, `src/modules/content/schema.ts`, the existing section manifests, and the current Git status before making any edit. Preserve the existing site design and article template. Populate the existing optional AI-summary field and the reviewed verification score; do not redesign the pages or edit generated HTML.
 
 ## Safety gates
 
@@ -15,9 +15,19 @@ Read `news-report.md`, `README.md`, `research/TEMPLATE.md`, `src/modules/content
 5. Select the top ten distinct qualified stories per desk, prioritizing the preceding 24 hours and expanding to seven days only when necessary. Deduplicate canonical URLs and shared events across desks; use one article identity with justified secondary sections when appropriate.
 6. Never pad a desk. Use the complete-source inventory and corroboration leads to select real stories; do not report zero merely because every story lacks a second source when the story is routine and low-risk under step 4. If any desk still has fewer than ten qualified stories after focused retrieval and the appropriate verification gate, leave the current content, edition, approval record, and deployment untouched; write a dated failure report under `artifacts/`; report the per-desk shortfall and the exact rejected-source reasons; and stop without committing or pushing.
 
+## Fact-check cross-check and confidence score
+
+Before drafting each selected article, assign a fact-checking subagent to inspect the relevant claim against the configured Brazilian and international fact-checking sources in `src/modules/research/fact-check-sources.ts`. Use the article's central claim, named people, institutions, numbers, images or quotations as search variants. A source with no matching entry is neutral; it is not evidence that the claim is true. A matching verdict that contradicts the claim is a blocking signal until the discrepancy is resolved.
+
+The Brazilian source set is: Aos Fatos, Agência Lupa, Projeto Comprova, and TSE Fato ou Boato. The international set is: AFP Fact Check, Reuters Fact Check, Full Fact, and Google Fact Check Tools. Subagents must access the source pages directly when possible. Google Fact Check Tools API access is optional and requires a separately configured API key; never place that key in the repository or article content. The source registry is the authoritative list and includes the current homepages, search guidance, and optional API endpoints.
+
+For every selected article, record a `verification` object with a one-decimal score from 0.0 to 10.0, the UTC check timestamp, every consulted fact-check source, its finding (`supports`, `contradicts`, `context`, `no-match`, or `inconclusive`), a concise note, and a caveat. Calculate the score as an evidence-confidence estimate, not a mathematically calibrated probability. Do not inflate a score because a fact-check site has no matching entry. Contradictory fact-check findings require resolution or exclusion. The public article may phrase `8.7/10` as an estimated `87% likelihood of being accurate`, but must also disclose that the score is an editorial estimate and not a guarantee.
+
+The score must be reviewed in both locales and displayed inside the existing AI-summary box. Keep the underlying fact-check notes in the article record/editorial manifest; do not publish a source's full text. Do not assign a score from a search snippet alone.
+
 ## Article and template contract
 
-6. Produce a complete, faithful, rights-safe reading version. Read the full source article and carry over all material verified facts, chronology, attribution, qualifications, corrections and relevant context. Do not publish a near-verbatim or paragraph-by-paragraph substitute for an unlicensed source: use `original-report` prose unless the source is public domain or a real reproduction license/permission is recorded. Each selected article must include paired PT-BR and EN title, synopsis, source links, publication/update dates, and an original reading body with at least five substantive paragraphs per language. Add at least two meaningful paragraphs beyond the initial event summary: use them for overlooked facts, chronology, named actors, practical implications, caveats, consequences or next steps already supported by the evidence. Do not pad a short source or invent detail, and use more than five paragraphs when the verified material requires it.
+7. Produce a complete, faithful, rights-safe reading version. Read the full source article and carry over all material verified facts, chronology, attribution, qualifications, corrections and relevant context. Do not publish a near-verbatim or paragraph-by-paragraph substitute for an unlicensed source: use `original-report` prose unless the source is public domain or a real reproduction license/permission is recorded. Each selected article must include paired PT-BR and EN title, synopsis, source links, publication/update dates, an original reading body with at least five substantive paragraphs per language, and the reviewed `verification` score/object. Add at least two meaningful paragraphs beyond the initial event summary: use them for overlooked facts, chronology, named actors, practical implications, caveats, consequences or next steps already supported by the evidence. Do not pad a short source or invent detail, and use more than five paragraphs when the verified material requires it.
 
 ```json
 "rights": { "mode": "original-report" }
@@ -27,7 +37,7 @@ Use `licensed-reproduction` only with a real permission reference and license. P
 
 The published body is intentionally minimalist: remove all inline hyperlinks, Markdown links, HTML links, images, image galleries, embeds, tracking pixels, advertisements, related-story modules and decorative media from the article text. Keep source names and URLs only in the article's dedicated Sources area. If an image caption contains a material fact, preserve that fact as clean prose only after verifying it independently; never carry the image or its embed into the portal. Reject the article if the generated body still contains URLs, link markup, image markup or embedded media.
 
-7. Update `research/editorial/<section>.json` with the shared cutoff, the exact ordered ten IDs, complete source and corroboration evidence, selection reasons, translation/review status, and for every selected entry:
+8. Update `research/editorial/<section>.json` with the shared cutoff, the exact ordered ten IDs, complete source and corroboration evidence, fact-check verification status, selection reasons, translation/review status, and for every selected entry:
 
 ```json
 "contentReview": {
@@ -36,14 +46,15 @@ The published body is intentionally minimalist: remove all inline hyperlinks, Ma
 }
 ```
 
-8. Stage the current edition through `npx tsx scripts/edition.ts YYYY-MM-DD --lead ARTICLE_ID --refresh`, selecting the strongest current Brasil story explicitly. The `--refresh` mode replaces the same-date edition in place so the homepage and all section pages immediately use the latest verified rankings; older dated editions remain preserved. Do not edit page-review scores or shared implementation hashes during a content run.
+9. Stage the current edition through `npx tsx scripts/edition.ts YYYY-MM-DD --lead ARTICLE_ID --refresh`, selecting the strongest current Brasil story explicitly. The `--refresh` mode replaces the same-date edition in place so the homepage and all section pages immediately use the latest verified rankings; older dated editions remain preserved. Do not edit page-review scores or shared implementation hashes during a content run.
 
 ## Verification and submission
 
 Run all of these before committing:
 
 ```text
-npm run news:verify
+npm run fact-check:apply -- --edition YYYY-MM-DD --input FACT_CHECK_AUDIT.json
+npm run news:verify -- --require-verification
 npm run check
 npm test -- --run
 npm run build:preview
@@ -58,3 +69,15 @@ After the local checks pass, calculate the exact `npm run review` revision and d
 Only after the independent reviewer returns `PASS`, record machine approval with `npm run review -- --approve --revision DIGEST --by "github-news independent reviewer" --confirm-reviewed`. Verify the approval revision, the exact content digest, and all selected counts again. Then remain on `main`, commit only intended source/content/manifests/edition/approval changes, and push `main` to `origin`. Never use `automation/daily-news` as the publication branch, force-push, alter page-review scores, or claim deployment before reading back the remote SHA and GitHub Actions result.
 
 A successful search is never permission to submit unverified articles. If no qualified full-text selection exists, fail closed and leave the previously approved edition deployed. A successful push is not proof of publication; verify the Pages workflow and report its run and deployment state.
+
+## Telegram completion summary
+
+The scheduler delivers the job's final response to Telegram. Send nothing until
+the GitHub Pages deployment and live route checks have completed. After a
+successful publication, send one concise summary containing the edition date,
+the eight-desk/80-reference result, unique article count, verification-score
+range, lead story, commit SHA, deployment status, and the fact that live routes
+returned successfully. Do not include raw source excerpts, credentials, tokens,
+or a long process log. If publication fails closed, send one concise Telegram
+notice stating that the previous approved edition remains live and naming the
+blocking gate; do not imply that new news was published.

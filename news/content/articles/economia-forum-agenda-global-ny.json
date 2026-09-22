@@ -4,7 +4,7 @@
   "section": "economia",
   "secondarySections": ["mundo"],
   "publishedAt": "2026-09-21T05:00:00.569-03:00",
-  "updatedAt": "2026-09-21T19:43:50.732Z",
+  "updatedAt": "2026-09-22T10:16:58.141Z",
   "sources": [
     {
       "name": "Valor Econômico",
@@ -18,34 +18,95 @@
     "pt-BR": {
       "title": "Fórum em Nova York reúne debates sobre geopolítica, energia e IA",
       "summary": "Evento do Valor e da Amcham Brasil terá painéis sobre negócios, minerais críticos, indústria e clima durante a semana da ONU.",
+      "aiSummary": [
+        "O evento acontece no Citi Headquarters durante a semana da ONU e da Climate Week.",
+        "Os painéis incluem energia, minerais críticos, cooperação Brasil-EUA, IA e indústria.",
+        "O painel final discutirá efeitos econômicos do Super El Niño em 2026 e 2027."
+      ],
       "paragraphs": [
         "Lideranças empresariais, autoridades e especialistas do Brasil e dos Estados Unidos participam nesta segunda-feira, em Nova York, do Fórum Agenda Global 2026. O evento do Valor Econômico e da Amcham Brasil ocorre no Citi Headquarters durante a semana da Assembleia Geral da ONU e da Climate Week.",
         "A programação prevê discussões sobre a nova economia global, segurança energética, minerais críticos e cooperação entre Brasil e Estados Unidos. Também estão previstos painéis sobre inteligência artificial, automação, robótica e a competitividade da indústria em meio à disputa tecnológica entre grandes economias.",
         "O último painel tratará dos efeitos do Super El Niño sobre agronegócio, investimentos, seguros e competitividade no biênio 2026/2027. Entre os participantes citados estão representantes da ApexBrasil, Copel, Ibram, CSIS, USP e empresas patrocinadoras do evento.",
         "O fórum ocorre no Citi Headquarters durante a semana da Assembleia Geral da ONU e da Climate Week, reunindo representantes empresariais, autoridades e especialistas dos dois países. A agenda combina temas de curto alcance empresarial, como competitividade industrial, com questões estratégicas de energia, minerais críticos e cooperação Brasil-Estados Unidos.",
         "O painel final desloca o foco para um risco climático com impacto econômico projetado para 2026 e 2027, examinando efeitos do Super El Niño sobre agronegócio, investimentos, seguros e competitividade. A programação e a lista de instituições participantes descrevem o debate previsto, não resultados já produzidos pelo evento."
-      ],
-      "aiSummary": [
-        "O evento acontece no Citi Headquarters durante a semana da ONU e da Climate Week.",
-        "Os painéis incluem energia, minerais críticos, cooperação Brasil-EUA, IA e indústria.",
-        "O painel final discutirá efeitos econômicos do Super El Niño em 2026 e 2027."
       ]
     },
     "en": {
       "title": "New York forum focuses on geopolitics, energy and AI",
       "summary": "A Valor-Amcham Brazil event will hold panels on business, critical minerals, industry and climate during UN week.",
+      "aiSummary": [
+        "The event takes place at Citi Headquarters during UN and Climate Week.",
+        "Panels cover energy, critical minerals, Brazil-US cooperation, AI and industry.",
+        "The final panel will discuss Super El Niño’s economic effects in 2026 and 2027."
+      ],
       "paragraphs": [
         "Business leaders, officials and experts from Brazil and the United States are taking part in the Agenda Global 2026 Forum in New York on Monday. The Valor Econômico and Amcham Brazil event is being held at Citi Headquarters during UN General Assembly week and Climate Week.",
         "The program includes discussions on the new global economy, energy security, critical minerals and Brazil-US cooperation. Other panels will address artificial intelligence, automation, robotics and industrial competitiveness amid technological competition among major economies.",
         "The final panel will examine how a Super El Niño could affect agriculture, investment, insurance and competitiveness in 2026-2027. Participants cited in the program include representatives of ApexBrasil, Copel, Ibram, CSIS, the University of São Paulo and event sponsors.",
         "The forum is being held at Citi Headquarters during UN General Assembly week and Climate Week, bringing together business representatives, officials and experts from both countries. Its agenda combines business concerns such as industrial competitiveness with strategic subjects including energy, critical minerals and Brazil-US cooperation.",
         "The final panel shifts toward a climate risk with projected economic implications for 2026 and 2027, examining how a Super El Niño could affect agriculture, investment, insurance and competitiveness. The program and participating institutions describe the planned discussion, not results already produced by the event."
-      ],
-      "aiSummary": [
-        "The event takes place at Citi Headquarters during UN and Climate Week.",
-        "Panels cover energy, critical minerals, Brazil-US cooperation, AI and industry.",
-        "The final panel will discuss Super El Niño’s economic effects in 2026 and 2027."
       ]
     }
+  },
+  "verification": {
+    "score": 8,
+    "checkedAt": "2026-09-22T10:00:08Z",
+    "checks": [
+      {
+        "provider": "Valor Econômico",
+        "url": "https://valor.globo.com/brasil/agenda-global-2026/noticia/2026/09/21/forum-em-ny-debate-transformacoes-globais.ghtml",
+        "finding": "supports",
+        "note": "Complete local source extraction (HTTP 200, complete:true) directly supports the article’s central claim as written, with attribution and date preserved."
+      },
+      {
+        "provider": "Aos Fatos",
+        "url": "https://www.aosfatos.org/",
+        "finding": "no-match",
+        "note": "No matching fact-check verdict for the central claim was identified in exact-claim and meaningful-variant searches; no-match is neutral and is not evidence that the claim is true."
+      },
+      {
+        "provider": "Agência Lupa",
+        "url": "https://www.agencialupa.org/",
+        "finding": "no-match",
+        "note": "No matching fact-check verdict for the central claim was identified in exact-claim and meaningful-variant searches; no-match is neutral and is not evidence that the claim is true."
+      },
+      {
+        "provider": "Projeto Comprova",
+        "url": "https://projetocomprova.com.br/",
+        "finding": "no-match",
+        "note": "No matching fact-check verdict for the central claim was identified in exact-claim and meaningful-variant searches; no-match is neutral and is not evidence that the claim is true."
+      },
+      {
+        "provider": "TSE Fato ou Boato",
+        "url": "https://www.tse.jus.br/comunicacao/noticias/fato-ou-boato",
+        "finding": "no-match",
+        "note": "No matching fact-check verdict for the central claim was identified in exact-claim and meaningful-variant searches; no-match is neutral and is not evidence that the claim is true."
+      },
+      {
+        "provider": "AFP Fact Check",
+        "url": "https://factcheck.afp.com/",
+        "finding": "no-match",
+        "note": "No matching fact-check verdict for the central claim was identified in exact-claim and meaningful-variant searches; no-match is neutral and is not evidence that the claim is true."
+      },
+      {
+        "provider": "Reuters Fact Check",
+        "url": "https://www.reuters.com/fact-check/",
+        "finding": "no-match",
+        "note": "No matching fact-check verdict for the central claim was identified in exact-claim and meaningful-variant searches; no-match is neutral and is not evidence that the claim is true."
+      },
+      {
+        "provider": "Full Fact",
+        "url": "https://fullfact.org/",
+        "finding": "no-match",
+        "note": "No matching fact-check verdict for the central claim was identified in exact-claim and meaningful-variant searches; no-match is neutral and is not evidence that the claim is true."
+      },
+      {
+        "provider": "Google Fact Check Explorer",
+        "url": "https://toolbox.google.com/factcheck/explorer",
+        "finding": "no-match",
+        "note": "No matching fact-check verdict for the central claim was identified in exact-claim and meaningful-variant searches; no-match is neutral and is not evidence that the claim is true."
+      }
+    ],
+    "caveat": "The complete Valor extraction documents the same-day event, venue, organizers and panels. No independent event-page corroboration or fact-check verdict was found, but the item is a low-risk schedule report. No-match findings were treated as neutral, never as positive evidence."
   }
 }

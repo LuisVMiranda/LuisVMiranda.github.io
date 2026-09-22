@@ -8,6 +8,19 @@ import { article, edition } from './fixtures';
 it('renders an optional AI summary block without replacing the article body', () => {
   const story = {
     ...article,
+    verification: {
+      score: 8.7,
+      checkedAt: '2026-09-22T12:00:00Z',
+      checks: [
+        {
+          provider: 'Aos Fatos',
+          url: 'https://www.aosfatos.org/',
+          finding: 'no-match',
+          note: 'No matching claim was indexed; this is neutral evidence.',
+        },
+      ],
+      caveat: 'Editorial estimate based on checked sources, not a guarantee.',
+    },
     translations: {
       ...article.translations,
       en: {
@@ -38,11 +51,30 @@ it('renders an optional AI summary block without replacing the article body', ()
   };
   const markup = renderArticle(context);
   expect(markup).toContain('AI summary');
+  expect(markup).toContain('Verification confidence: 8.7/10');
+  expect(markup).toContain('87% estimated likelihood of being accurate.');
+  expect(markup).toContain('not a mathematical guarantee');
   expect(markup).toContain('<li>The event is verified');
   expect(markup).toContain(
     '<li>The context explains why readers should care.</li>',
   );
   expect(markup).toContain('First paragraph for automated testing.');
+
+  const ptContext: RenderContext = {
+    ...context,
+    locale: 'pt-BR',
+    path: `artigos/${story!.slug}`,
+    title: story!.translations['pt-BR'].title,
+  };
+  const ptMarkup = renderArticle(ptContext);
+  expect(ptMarkup).toContain('Confiança da verificação: 8,7/10');
+  expect(ptMarkup).toContain(
+    'estimativa de 87% de probabilidade de veracidade.',
+  );
+  expect(ptMarkup).toContain(
+    'Estimativa editorial; não é garantia matemática.',
+  );
+  expect(ptMarkup).not.toContain('Editorial estimate');
 });
 
 it('renders source text safely and retains bilingual metadata without a framework', () => {

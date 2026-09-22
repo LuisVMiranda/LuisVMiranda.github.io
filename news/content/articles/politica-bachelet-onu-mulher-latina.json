@@ -4,7 +4,7 @@
   "section": "politica",
   "secondarySections": [],
   "publishedAt": "2026-09-21T08:06:18.924-03:00",
-  "updatedAt": "2026-09-21T19:43:50.732Z",
+  "updatedAt": "2026-09-22T10:16:58.141Z",
   "sources": [
     {
       "name": "G1",
@@ -14,37 +14,98 @@
   "rights": {
     "mode": "original-report"
   },
+  "verification": {
+    "score": 7.6,
+    "checkedAt": "2026-09-22T10:00:08Z",
+    "checks": [
+      {
+        "provider": "G1",
+        "url": "https://g1.globo.com/politica/noticia/2026/09/21/apos-bachelet-desistir-de-concorrer-a-onu-brasil-defende-que-regiao-tem-mulheres-a-altura-do-cargo.ghtml",
+        "finding": "supports",
+        "note": "Complete local source extraction (HTTP 200, complete:true) directly supports the article’s central claim as written, with attribution and date preserved."
+      },
+      {
+        "provider": "Aos Fatos",
+        "url": "https://www.aosfatos.org/",
+        "finding": "no-match",
+        "note": "No matching fact-check verdict for the central claim was identified in exact-claim and meaningful-variant searches; no-match is neutral and is not evidence that the claim is true."
+      },
+      {
+        "provider": "Agência Lupa",
+        "url": "https://www.agencialupa.org/",
+        "finding": "no-match",
+        "note": "No matching fact-check verdict for the central claim was identified in exact-claim and meaningful-variant searches; no-match is neutral and is not evidence that the claim is true."
+      },
+      {
+        "provider": "Projeto Comprova",
+        "url": "https://projetocomprova.com.br/",
+        "finding": "no-match",
+        "note": "No matching fact-check verdict for the central claim was identified in exact-claim and meaningful-variant searches; no-match is neutral and is not evidence that the claim is true."
+      },
+      {
+        "provider": "TSE Fato ou Boato",
+        "url": "https://www.tse.jus.br/comunicacao/noticias/fato-ou-boato",
+        "finding": "no-match",
+        "note": "No matching fact-check verdict for the central claim was identified in exact-claim and meaningful-variant searches; no-match is neutral and is not evidence that the claim is true."
+      },
+      {
+        "provider": "AFP Fact Check",
+        "url": "https://factcheck.afp.com/",
+        "finding": "no-match",
+        "note": "No matching fact-check verdict for the central claim was identified in exact-claim and meaningful-variant searches; no-match is neutral and is not evidence that the claim is true."
+      },
+      {
+        "provider": "Reuters Fact Check",
+        "url": "https://www.reuters.com/fact-check/",
+        "finding": "no-match",
+        "note": "No matching fact-check verdict for the central claim was identified in exact-claim and meaningful-variant searches; no-match is neutral and is not evidence that the claim is true."
+      },
+      {
+        "provider": "Full Fact",
+        "url": "https://fullfact.org/",
+        "finding": "no-match",
+        "note": "No matching fact-check verdict for the central claim was identified in exact-claim and meaningful-variant searches; no-match is neutral and is not evidence that the claim is true."
+      },
+      {
+        "provider": "Google Fact Check Explorer",
+        "url": "https://toolbox.google.com/factcheck/explorer",
+        "finding": "no-match",
+        "note": "No matching fact-check verdict for the central claim was identified in exact-claim and meaningful-variant searches; no-match is neutral and is not evidence that the claim is true."
+      }
+    ],
+    "caveat": "Complete G1 extraction quotes the Itamaraty position and separates it from expectations about Lula’s speech. The withdrawal and succession positioning were not independently confirmed by a matching fact-check. No-match findings were treated as neutral, never as positive evidence."
+  },
   "translations": {
     "pt-BR": {
       "title": "Brasil reforça defesa de mulher latino-americana para chefiar a ONU após desistência de Bachelet",
       "summary": "Itamaraty ainda não indicou novo nome, mas manteve a defesa de uma escolha latino-americana e feminina para suceder António Guterres.",
+      "aiSummary": [
+        "Bachelet retirou a candidatura em 19 de setembro após perder o apoio chileno.",
+        "O Brasil mantém a preferência por uma mulher latino-americana, mas não indicou substituta.",
+        "As expectativas sobre o discurso de Lula são atribuídas a interlocutores, não ao texto oficial do Itamaraty."
+      ],
       "paragraphs": [
         "O Itamaraty reforçou que a América Latina tem mulheres qualificadas para assumir a Secretaria-Geral da ONU depois de Michelle Bachelet retirar sua candidatura, que contava com apoio brasileiro e mexicano.",
         "Bachelet desistiu em 19 de setembro após perder o apoio do Chile. O Brasil continua defendendo que a região indique o próximo secretário-geral, em substituição a António Guterres, cujo segundo mandato termina em 31 de dezembro.",
         "A nota não define o nome que o Brasil apoiará. Lula está em Nova York para discursar em 22 de setembro e, segundo interlocutores citados pelo G1, deve defender multilateralismo, criticar guerras e falar de soberania brasileira sem mencionar diretamente Donald Trump.",
         "A cronologia deixa claro que a retirada de Michelle Bachelet ocorreu em 19 de setembro, depois que ela perdeu o apoio do Chile, apesar do respaldo de Brasil e México. Mesmo sem apresentar substituta, o Itamaraty preservou as duas características centrais da posição brasileira: uma escolha latino-americana e uma mulher para suceder António Guterres.",
         "O próximo marco citado é o discurso de Lula em Nova York, previsto para 22 de setembro. A defesa do multilateralismo, as críticas às guerras e a referência à soberania brasileira são expectativas atribuídas a interlocutores, não um roteiro oficial divulgado; a nota diplomática, por sua vez, não indica qual nome o Brasil apoiará."
-      ],
-      "aiSummary": [
-        "Bachelet retirou a candidatura em 19 de setembro após perder o apoio chileno.",
-        "O Brasil mantém a preferência por uma mulher latino-americana, mas não indicou substituta.",
-        "As expectativas sobre o discurso de Lula são atribuídas a interlocutores, não ao texto oficial do Itamaraty."
       ]
     },
     "en": {
       "title": "Brazil renews call for a Latin American woman to lead the UN after Bachelet withdraws",
       "summary": "The Foreign Ministry has not named a new candidate but continues to back a Latin American and female successor to António Guterres.",
+      "aiSummary": [
+        "Bachelet withdrew on September 19 after losing Chile’s backing.",
+        "Brazil still favors a Latin American woman but has not named a replacement.",
+        "Expectations about Lula’s speech come from cited interlocutors, not the Foreign Ministry statement."
+      ],
       "paragraphs": [
         "Brazil’s Foreign Ministry reiterated that Latin America has qualified women to lead the United Nations after Michelle Bachelet withdrew her candidacy, which had the support of Brazil and Mexico.",
         "Bachelet withdrew on September 19 after losing Chile’s backing. Brazil continues to argue that the region should provide the next secretary-general to replace António Guterres, whose second term ends on December 31.",
         "The statement did not identify the person Brazil will support. Lula is in New York for a September 22 speech and, according to sources cited by G1, is expected to defend multilateralism, criticize wars and discuss Brazilian sovereignty without directly naming Donald Trump.",
         "The chronology shows that Michelle Bachelet withdrew on September 19 after losing Chile’s backing, despite support from Brazil and Mexico. Brazil’s Foreign Ministry has not named a replacement, but it has preserved the two central features of its position: a Latin American choice and a woman to succeed António Guterres.",
         "The next milestone mentioned is Lula’s speech in New York, scheduled for September 22. Expectations that he will defend multilateralism, criticize wars and discuss Brazilian sovereignty come from interlocutors cited by G1, not an official script; the ministry’s statement does not identify the candidate Brazil will support."
-      ],
-      "aiSummary": [
-        "Bachelet withdrew on September 19 after losing Chile’s backing.",
-        "Brazil still favors a Latin American woman but has not named a replacement.",
-        "Expectations about Lula’s speech come from cited interlocutors, not the Foreign Ministry statement."
       ]
     }
   }

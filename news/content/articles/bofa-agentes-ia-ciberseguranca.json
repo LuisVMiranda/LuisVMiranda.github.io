@@ -4,7 +4,7 @@
   "section": "tecnologia",
   "secondarySections": ["economia"],
   "publishedAt": "2026-09-21T12:33:00.748Z",
-  "updatedAt": "2026-09-21T19:43:50.732Z",
+  "updatedAt": "2026-09-22T10:16:58.141Z",
   "sources": [
     {
       "name": "Bloomberg Línea",
@@ -18,32 +18,93 @@
     "pt-BR": {
       "title": "BofA vê agentes de IA abrindo nova frente para o mercado de cibersegurança",
       "summary": "O Bank of America avalia que a expansão de agentes de IA aumenta a necessidade de autenticação, autorização e governança, reforçando a demanda por segurança digital.",
+      "aiSummary": [
+        "A análise do BofA destaca identidade, autorização e monitoramento como controles centrais para agentes de IA.",
+        "Os preços-alvo citados para Okta, SailPoint e CrowdStrike são uma avaliação atribuída ao banco, não uma garantia."
+      ],
       "paragraphs": [
         "O Bank of America avalia que a adoção de agentes de inteligência artificial amplia o campo de ameaças e cria novas necessidades de segurança e governança. Na leitura do banco, a cibersegurança passa a funcionar como uma camada de controle para que empresas usem esses sistemas.",
         "A análise citada pela Bloomberg Línea relaciona essa percepção ao desempenho recente de fundos do setor e destaca a gestão de identidades como um componente central. Cada agente precisa de autenticação, autorização e monitoramento compatíveis com os acessos que recebe.",
         "O banco elevou os preços-alvo que acompanha para Okta, SailPoint e CrowdStrike, associando as empresas a diferentes frentes de proteção de identidade, dispositivos e redes. A matéria apresenta essas conclusões como uma avaliação do BofA, não como garantia de desempenho dos papéis.",
         "Na prática, a avaliação do banco desloca a discussão do desempenho isolado do modelo para o controle de cada identidade que recebe permissões. Autenticação, autorização e monitoramento aparecem como condições para ampliar o uso de agentes sem perder visibilidade sobre seus acessos.",
         "Como os preços-alvo e a expectativa de maior gasto foram apresentados pela Bloomberg Línea como leitura do BofA, o alcance da conclusão é limitado: ela descreve uma tese de mercado atribuída ao banco, não uma comprovação de resultados futuros para Okta, SailPoint ou CrowdStrike."
-      ],
-      "aiSummary": [
-        "A análise do BofA destaca identidade, autorização e monitoramento como controles centrais para agentes de IA.",
-        "Os preços-alvo citados para Okta, SailPoint e CrowdStrike são uma avaliação atribuída ao banco, não uma garantia."
       ]
     },
     "en": {
       "title": "BofA sees AI agents opening a new front for the cybersecurity market",
       "summary": "Bank of America says the expansion of AI agents increases the need for authentication, authorization, and governance, strengthening demand for digital security.",
+      "aiSummary": [
+        "BofA identifies identity, authorization, and monitoring as central controls for AI agents.",
+        "The cited price targets for Okta, SailPoint, and CrowdStrike are attributed to the bank and are not guarantees."
+      ],
       "paragraphs": [
         "Bank of America says that adopting artificial intelligence agents expands the threat landscape and creates new security and governance needs. In the bank's view, cybersecurity becomes a control layer that allows companies to use these systems.",
         "The analysis cited by Bloomberg Línea links that view to the recent performance of sector funds and highlights identity management as a central component. Each agent needs authentication, authorization, and monitoring suited to the access it receives.",
         "The bank raised the price targets it follows for Okta, SailPoint, and CrowdStrike, connecting the companies with different areas of protection for identity, devices, and networks. The report presents these conclusions as BofA's assessment, not as a guarantee of stock performance.",
         "In practical terms, the bank's assessment shifts the discussion from a model's isolated performance to the control of each identity that receives permissions. Authentication, authorization, and monitoring are presented as conditions for expanding agent use while keeping access visible.",
         "Because the higher price targets and spending outlook are reported as BofA's analysis, the conclusion has a defined limit: it describes an attributed market thesis, not proof that Okta, SailPoint, or CrowdStrike will deliver future results or that the targets will be met."
-      ],
-      "aiSummary": [
-        "BofA identifies identity, authorization, and monitoring as central controls for AI agents.",
-        "The cited price targets for Okta, SailPoint, and CrowdStrike are attributed to the bank and are not guarantees."
       ]
     }
+  },
+  "verification": {
+    "score": 7.8,
+    "checkedAt": "2026-09-22T10:01:14Z",
+    "checks": [
+      {
+        "provider": "Bloomberg Línea",
+        "url": "https://www.bloomberglinea.com.br/mercados/avanco-de-agentes-de-ia-abre-nova-frente-de-crescimento-para-ciberseguranca-diz-bofa/",
+        "finding": "supports",
+        "note": "Complete source context for Bloomberg Línea was reviewed against the article summary and manifest evidence; the central claim is represented with the source's attribution and stated limitations."
+      },
+      {
+        "provider": "Aos Fatos",
+        "url": "https://www.aosfatos.org/",
+        "finding": "no-match",
+        "note": "Direct site-restricted search in Portuguese for the central claim, named entities, and key dates in 'BofA vê agentes de IA abrindo nova frente para o mercado de cibersegurança' found no matching fact-check page. This no-match is neutral and is not evidence that the claim is true."
+      },
+      {
+        "provider": "Agência Lupa",
+        "url": "https://www.agencialupa.org/",
+        "finding": "no-match",
+        "note": "Direct site-restricted search in Portuguese for the central claim, named entities, and key dates in 'BofA vê agentes de IA abrindo nova frente para o mercado de cibersegurança' found no matching fact-check page. This no-match is neutral and is not evidence that the claim is true."
+      },
+      {
+        "provider": "Projeto Comprova",
+        "url": "https://projetocomprova.com.br/",
+        "finding": "no-match",
+        "note": "Direct site-restricted search in Portuguese for the central claim, named entities, and key dates in 'BofA vê agentes de IA abrindo nova frente para o mercado de cibersegurança' found no matching fact-check page. This no-match is neutral and is not evidence that the claim is true."
+      },
+      {
+        "provider": "TSE Fato ou Boato",
+        "url": "https://www.tse.jus.br/comunicacao/noticias/fato-ou-boato",
+        "finding": "no-match",
+        "note": "No election/civic-process fact-check relevant to the claim 'BofA vê agentes de IA abrindo nova frente para o mercado de cibersegurança' was found; this source is not materially targeted to the article. The result is neutral."
+      },
+      {
+        "provider": "AFP Fact Check",
+        "url": "https://factcheck.afp.com/",
+        "finding": "no-match",
+        "note": "Direct site-restricted search in English for the central claim, named entities, and key dates in 'BofA sees AI agents opening a new front for the cybersecurity market' found no matching fact-check page. This no-match is neutral and is not evidence that the claim is true."
+      },
+      {
+        "provider": "Reuters Fact Check",
+        "url": "https://www.reuters.com/fact-check/",
+        "finding": "no-match",
+        "note": "Direct site-restricted search in English for the central claim, named entities, and key dates in 'BofA sees AI agents opening a new front for the cybersecurity market' found no matching fact-check page. This no-match is neutral and is not evidence that the claim is true."
+      },
+      {
+        "provider": "Full Fact",
+        "url": "https://fullfact.org/",
+        "finding": "no-match",
+        "note": "Direct site-restricted search in English for the central claim, named entities, and key dates in 'BofA sees AI agents opening a new front for the cybersecurity market' found no matching fact-check page. This no-match is neutral and is not evidence that the claim is true."
+      },
+      {
+        "provider": "Google Fact Check Tools",
+        "url": "https://toolbox.google.com/factcheck/explorer",
+        "finding": "inconclusive",
+        "note": "The Explorer homepage was checked through indexed search, but the claims:search API returned HTTP 403 without an API key; this is incomplete coverage, not a no-match and not evidence of truth."
+      }
+    ],
+    "caveat": "Evidence-confidence estimate based on the complete source context, attribution review, direct fact-check-source searches, and the absence of a contradictory finding; no-match results are neutral, and this score is not a calibrated probability or guarantee."
   }
 }

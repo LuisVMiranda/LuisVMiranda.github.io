@@ -5,7 +5,7 @@
   "secondarySections": [],
   "publishedAt": "2026-09-21T11:51:00-03:00",
   "publishedDate": "2026-09-21",
-  "updatedAt": "2026-09-21T19:43:50.732Z",
+  "updatedAt": "2026-09-22T10:16:58.141Z",
   "sources": [
     {
       "name": "Agência Brasil",
@@ -19,32 +19,93 @@
     "pt-BR": {
       "title": "Palmas passa a exigir sessões de cinema adaptadas para jovens com TEA",
       "summary": "Lei sancionada na capital do Tocantins determina ao menos uma sessão mensal com luzes parcialmente acesas, som reduzido e liberdade para entrar ou sair da sala.",
+      "aiSummary": [
+        "A Lei nº 3.496 exige pelo menos uma sessão adaptada por mês em cada cinema de Palmas.",
+        "A medida já vigora, mas a reportagem não informa filmes ou horários específicos de cada sala."
+      ],
       "paragraphs": [
         "As salas de cinema de Palmas deverão oferecer pelo menos uma sessão adaptada por mês para crianças e adolescentes com transtorno do espectro autista e seus acompanhantes. A medida está prevista na Lei nº 3.496, sancionada pelo prefeito Eduardo Siqueira Campos.",
         "As exibições terão iluminação mais suave, com as luzes parcialmente acesas, e volume de som inferior ao das sessões convencionais. O público também poderá entrar ou sair da sala a qualquer momento, de acordo com suas necessidades.",
         "A proposta é criar um ambiente mais acolhedor para pessoas com necessidades sensoriais específicas. A regra vale para todas as salas instaladas na capital e já está em vigor.",
         "A exigência alcança todas as salas instaladas na capital e estabelece uma frequência mínima, não uma ação pontual. Crianças e adolescentes com transtorno do espectro autista poderão ir acompanhados e contarão com condições menos rígidas de iluminação, volume e circulação durante a sessão.",
         "A notícia descreve uma obrigação geral já em vigor, mas não informa quais filmes ou horários serão oferecidos por cada cinema. Na prática, famílias e estabelecimentos ainda precisam verificar a programação local para transformar a regra mensal em uma opção concreta de acesso."
-      ],
-      "aiSummary": [
-        "A Lei nº 3.496 exige pelo menos uma sessão adaptada por mês em cada cinema de Palmas.",
-        "A medida já vigora, mas a reportagem não informa filmes ou horários específicos de cada sala."
       ]
     },
     "en": {
       "title": "Palmas requires adapted cinema screenings for young people with autism",
       "summary": "A law in the Tocantins capital requires at least one monthly screening with partially lit rooms, lower sound and freedom to enter or leave the theater.",
+      "aiSummary": [
+        "Law 3,496 requires every cinema in Palmas to offer at least one adapted screening each month.",
+        "The rule is already in force, but the report does not list specific films or showtimes."
+      ],
       "paragraphs": [
         "Cinemas in Palmas must offer at least one adapted screening each month for children and teenagers with autism spectrum disorder and their companions. The requirement is set out in Law 3,496, sanctioned by Mayor Eduardo Siqueira Campos.",
         "The screenings will use softer lighting, with the lights partially on, and lower sound than conventional showings. Audiences may also enter or leave the theater at any time according to their needs.",
         "The measure is intended to provide a more welcoming setting for people with specific sensory needs. It applies to every cinema in the capital and is already in force.",
         "The requirement covers every cinema operating in the capital and sets a minimum frequency rather than a one-off initiative. Children and teenagers with autism spectrum disorder may attend with companions and have more flexible conditions for lighting, sound and movement during the screening.",
         "The report describes a general rule already in force but does not identify the films or times each cinema will offer. In practice, families and theaters still need to check local schedules to turn the monthly requirement into a specific access option."
-      ],
-      "aiSummary": [
-        "Law 3,496 requires every cinema in Palmas to offer at least one adapted screening each month.",
-        "The rule is already in force, but the report does not list specific films or showtimes."
       ]
     }
+  },
+  "verification": {
+    "score": 8.4,
+    "checkedAt": "2026-09-22T09:56:46Z",
+    "checks": [
+      {
+        "provider": "Original article source",
+        "url": "https://agenciabrasil.ebc.com.br/radioagencia-nacional/cultura/audio/2026-09/palmas-aprova-sessoes-de-cinema-adaptadas-para-jovens-com-tea",
+        "finding": "supports",
+        "note": "The complete source page was fetched directly with HTTP 200; its headline and body match the article's central claim and named entities. This is primary evidence, not an independent fact-check."
+      },
+      {
+        "provider": "Aos Fatos",
+        "url": "https://www.aosfatos.org/",
+        "finding": "no-match",
+        "note": "No fact-check addressing this article’s central claim appeared in exact-headline and claim/entity searches of this provider. The no-match is neutral, not evidence of truth."
+      },
+      {
+        "provider": "Agência Lupa",
+        "url": "https://www.agencialupa.org/",
+        "finding": "no-match",
+        "note": "No fact-check addressing this article’s central claim appeared in exact-headline and claim/entity searches of this provider. The no-match is neutral, not evidence of truth."
+      },
+      {
+        "provider": "Projeto Comprova",
+        "url": "https://projetocomprova.com.br/",
+        "finding": "no-match",
+        "note": "No fact-check addressing this article’s central claim appeared in exact-headline and claim/entity searches of this provider. The no-match is neutral, not evidence of truth."
+      },
+      {
+        "provider": "TSE Fato ou Boato",
+        "url": "https://www.tse.jus.br/comunicacao/noticias/fato-ou-boato",
+        "finding": "no-match",
+        "note": "No matching item addressing this article’s central claim was found in domain-scoped searches; this source is not generally relevant to routine culture or sports reporting. The no-match is neutral, not evidence of truth."
+      },
+      {
+        "provider": "AFP Fact Check",
+        "url": "https://factcheck.afp.com/",
+        "finding": "no-match",
+        "note": "No fact-check addressing this article’s central claim appeared in exact-headline and claim/entity searches. Any related hits concerned different claims and were excluded; the no-match is neutral."
+      },
+      {
+        "provider": "Reuters Fact Check",
+        "url": "https://www.reuters.com/fact-check/",
+        "finding": "no-match",
+        "note": "No fact-check addressing this article’s central claim appeared in exact-headline and claim/entity searches of this provider. The no-match is neutral, not evidence of truth."
+      },
+      {
+        "provider": "Full Fact",
+        "url": "https://fullfact.org/",
+        "finding": "no-match",
+        "note": "No fact-check addressing this article’s central claim appeared in exact-headline and claim/entity searches of this provider. The no-match is neutral, not evidence of truth."
+      },
+      {
+        "provider": "Google Fact Check Explorer",
+        "url": "https://toolbox.google.com/factcheck/explorer",
+        "finding": "no-match",
+        "note": "No matching indexed ClaimReview record appeared for exact-headline and claim/entity variants in the Explorer domain. The no-match is neutral, not evidence of truth."
+      }
+    ],
+    "caveat": "Confidence is based on the complete source page fetched directly and the absence of any contradictory fact-check; no relevant fact-check match was found, and no-match results are neutral. The score is an editorial evidence estimate, not a probability or guarantee."
   }
 }

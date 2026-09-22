@@ -5,7 +5,7 @@
   "secondarySections": ["politica", "economia"],
   "publishedAt": "2026-09-21T00:00:00.000Z",
   "publishedDate": "2026-09-21",
-  "updatedAt": "2026-09-21T19:43:50.732Z",
+  "updatedAt": "2026-09-22T10:16:58.141Z",
   "sources": [
     {
       "name": "The Associated Press",
@@ -19,35 +19,114 @@
   "rights": {
     "mode": "original-report"
   },
+  "verification": {
+    "score": 9.1,
+    "checkedAt": "2026-09-22T10:05:52Z",
+    "checks": [
+      {
+        "provider": "The Associated Press",
+        "url": "https://apnews.com/article/germany-elections-chancellor-merz-reform-f8cae1d2218962a0200ab26186053028",
+        "finding": "supports",
+        "note": "Complete local extraction was status 200 with complete:true; the source directly contains the article's reported claim and its stated qualifications."
+      },
+      {
+        "provider": "CNN Brasil",
+        "url": "https://www.cnnbrasil.com.br/internacional/eleicoes-alemas-afd-lidera-em-mais-um-estado-e-esquerda-avanca-em-berlim/",
+        "finding": "supports",
+        "note": "Complete local extraction was status 200 with complete:true; the source directly contains the article's reported claim and its stated qualifications."
+      },
+      {
+        "provider": "Aos Fatos",
+        "url": "https://www.aosfatos.org/",
+        "finding": "no-match",
+        "note": "No directly matching fact-check result surfaced in the source-restricted search; no-match is neutral and not evidence of accuracy."
+      },
+      {
+        "provider": "Agência Lupa",
+        "url": "https://www.agencialupa.org/",
+        "finding": "no-match",
+        "note": "No directly matching fact-check result surfaced in the source-restricted search; no-match is neutral and not evidence of accuracy."
+      },
+      {
+        "provider": "Projeto Comprova",
+        "url": "https://projetocomprova.com.br/",
+        "finding": "no-match",
+        "note": "No directly matching fact-check result surfaced in the source-restricted search; no-match is neutral and not evidence of accuracy."
+      },
+      {
+        "provider": "TSE Fato ou Boato",
+        "url": "https://www.tse.jus.br/comunicacao/noticias/fato-ou-boato",
+        "finding": "no-match",
+        "note": "No directly matching fact-check result surfaced in the source-restricted search; no-match is neutral and not evidence of accuracy."
+      },
+      {
+        "provider": "AFP Fact Check",
+        "url": "https://factcheck.afp.com/",
+        "finding": "no-match",
+        "note": "No directly matching fact-check result surfaced in the source-restricted search; no-match is neutral and not evidence of accuracy."
+      },
+      {
+        "provider": "Reuters Fact Check",
+        "url": "https://www.reuters.com/fact-check/",
+        "finding": "no-match",
+        "note": "No directly matching fact-check result surfaced in the source-restricted search; no-match is neutral and not evidence of accuracy."
+      },
+      {
+        "provider": "Full Fact",
+        "url": "https://fullfact.org/",
+        "finding": "no-match",
+        "note": "No directly matching fact-check result surfaced in the source-restricted search; no-match is neutral and not evidence of accuracy."
+      },
+      {
+        "provider": "Google Fact Check Explorer",
+        "url": "https://toolbox.google.com/factcheck/explorer",
+        "finding": "inconclusive",
+        "note": "The public claims-search endpoint returned HTTP 403 in this run and no exact ClaimReview record was confirmed; this is not evidence for or against the article."
+      },
+      {
+        "provider": "BBC News",
+        "url": "https://www.bbc.com/news/articles/cvwyz29n0nn2o",
+        "finding": "supports",
+        "note": "BBC independently reports the state-election defeats and Merz's vow to remain in office."
+      },
+      {
+        "provider": "The Guardian",
+        "url": "https://www.theguardian.com/world/2026/sep/20/friedrich-merz-chancellor-germany-state-elections-cdu-afd-linke-berlin",
+        "finding": "supports",
+        "note": "Independent reporting corroborates the CDU losses, AfD/left gains and Merz's response."
+      }
+    ],
+    "caveat": "Independent reports corroborate the state-election losses and Merz's stated intention to stay; “no prominent challenge” is a time-bound assessment."
+  },
   "translations": {
     "pt-BR": {
       "title": "Derrotas regionais pressionam Merz, que promete permanecer no comando da Alemanha",
       "summary": "A CDU de Friedrich Merz perdeu terreno em duas eleições estaduais, caiu abaixo da cláusula de barreira em Mecklemburgo-Pomerânia Ocidental e ficou atrás da esquerda em Berlim. O chanceler disse que continuará no cargo e defenderá reformas econômicas, sem enfrentar até agora uma contestação pública relevante.",
+      "aiSummary": [
+        "A CDU perdeu em dois estados, mas os avanços da AfD e da esquerda ocorreram em contextos diferentes.",
+        "Merz permaneceu no cargo, com reformas econômicas mais difíceis dentro da coalizão."
+      ],
       "paragraphs": [
         "A União Democrata-Cristã de Friedrich Merz sofreu derrotas em duas eleições regionais realizadas no domingo. Em Mecklemburgo-Pomerânia Ocidental, a legenda ficou abaixo dos 5% necessários para manter representação, enquanto a AfD terminou como força mais votada; em Berlim, a esquerda ficou à frente da CDU.",
         "Merz classificou o resultado no estado do Báltico como um desastre, mas reiterou que permanecerá como chanceler e líder do partido. Segundo a AP, não surgiram na segunda-feira pedidos públicos relevantes para sua saída nem sinais de uma disputa interna imediata.",
         "O revés aumenta a dificuldade de sustentar a agenda de reformas econômicas do governo, que inclui mudanças potencialmente impopulares em aposentadorias e saúde. Dirigentes social-democratas mantiveram o apoio à coalizão, mas defenderam uma revisão de justiça e de viabilidade das propostas antes das próximas eleições estaduais, cinco das quais estão previstas para 2027.",
         "As derrotas têm perfis diferentes: a CDU ficou abaixo de 5% em Mecklemburgo-Pomerânia Ocidental, onde a AfD foi a força mais votada, enquanto em Berlim a esquerda terminou à frente dos democrata-cristãos. O resultado regionalizado indica pressões distintas sobre o partido, não uma única transferência uniforme de apoio.",
         "Merz declarou que seguirá no cargo e não havia uma contestação interna pública relevante na segunda-feira, mas a coalizão enfrenta um problema legislativo e político. Reformas em aposentadorias e saúde podem ficar mais difíceis, enquanto os social-democratas pedem revisão de justiça e viabilidade antes das eleições estaduais previstas para 2027."
-      ],
-      "aiSummary": [
-        "A CDU perdeu em dois estados, mas os avanços da AfD e da esquerda ocorreram em contextos diferentes.",
-        "Merz permaneceu no cargo, com reformas econômicas mais difíceis dentro da coalizão."
       ]
     },
     "en": {
       "title": "Regional defeats pressure Merz as he vows to remain Germany’s leader",
       "summary": "Friedrich Merz’s CDU lost ground in two state elections, fell below the electoral threshold in Mecklenburg-Western Pomerania and trailed the left in Berlin. The chancellor said he would stay in office and pursue economic reforms, with no prominent public challenge yet emerging.",
+      "aiSummary": [
+        "The CDU lost in two states, but AfD and left gains occurred in different contexts.",
+        "Merz stayed in office as economic reforms became harder inside the coalition."
+      ],
       "paragraphs": [
         "Friedrich Merz’s Christian Democratic Union suffered defeats in two regional elections held Sunday. In Mecklenburg-Western Pomerania, the party fell below the 5% threshold needed to retain seats while the AfD finished strongest; in Berlin, the left came ahead of the CDU.",
         "Merz called the result in the Baltic state a disaster but repeated that he would remain chancellor and party leader. The AP reported that no prominent public calls for his departure or signs of an immediate internal challenge appeared on Monday.",
         "The setback makes it harder to sustain the government’s economic reform agenda, which includes potentially unpopular changes to pensions and health care. Social Democratic leaders continued to back the coalition but called for fairness and feasibility checks before the next state votes, five of which are scheduled for 2027.",
         "The defeats had different profiles: the CDU fell below 5% in Mecklenburg-Western Pomerania, where the AfD was strongest, while the left finished ahead of the Christian Democrats in Berlin. The regional pattern points to different pressures on the party rather than one uniform shift in support.",
         "Merz said he would remain in office, and no prominent internal challenge had appeared on Monday, but the coalition faces a political and legislative problem. Pension and health reforms may become harder, while Social Democrats seek fairness and feasibility reviews before state elections scheduled for 2027."
-      ],
-      "aiSummary": [
-        "The CDU lost in two states, but AfD and left gains occurred in different contexts.",
-        "Merz stayed in office as economic reforms became harder inside the coalition."
       ]
     }
   }

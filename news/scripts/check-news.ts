@@ -67,13 +67,20 @@ function entryIssues(
 }
 
 const legacyOk = process.argv.includes('--legacy-ok');
+const requireVerification = process.argv.includes('--require-verification');
 const { articles, editions } = await readContent();
 const edition = [...editions].sort((a, b) =>
   b.cutoff.localeCompare(a.cutoff),
 )[0];
 if (!edition)
   throw new Error('No edition is available for automation verification');
-const issues = automationIssues(edition, articles, 10, !legacyOk);
+const issues = automationIssues(
+  edition,
+  articles,
+  10,
+  !legacyOk,
+  requireVerification,
+);
 for (const { id: section } of sections) {
   let data: EditorialManifest;
   try {

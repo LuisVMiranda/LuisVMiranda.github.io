@@ -377,7 +377,68 @@ Rules:
 - Archived string summaries remain valid and must continue rendering correctly.
 - The renderer shows the labeled compact block immediately below article metadata and before the full body.
 
-### 7.3 Clean article body
+### 7.3 Fact-check sources and article confidence score
+
+Every new automated article must receive a fact-check review from subagents
+before publication. The configured Brazilian sources are:
+
+- Aos Fatos: `https://www.aosfatos.org/`
+- Agência Lupa: `https://www.agencialupa.org/`
+- Projeto Comprova: `https://projetocomprova.com.br/`
+- TSE Fato ou Boato: `https://www.tse.jus.br/comunicacao/noticias/fato-ou-boato`
+
+The configured international sources and tools are:
+
+- AFP Fact Check: `https://factcheck.afp.com/`
+- Reuters Fact Check: `https://www.reuters.com/fact-check/`
+- Full Fact: `https://fullfact.org/`
+- Google Fact Check Explorer: `https://toolbox.google.com/factcheck/explorer`
+- Optional Google Fact Check Tools API: `https://factchecktools.googleapis.com/v1alpha1/claims:search`
+
+The authoritative source registry is
+`news/src/modules/research/fact-check-sources.ts`; the subagent procedure is
+`news/automation/fact-checking-prompt.md`.
+
+Fact-checking subagents must search exact claim variants, open matching pages,
+compare verdicts with the complete source article and independent corroboration,
+and record one of `supports`, `contradicts`, `context`, `no-match`, or
+`inconclusive` for each consulted source. A no-match is neutral, not proof of
+truth. A contradictory finding blocks publication until resolved.
+
+Each selected article stores an optional-backward-compatible `verification`
+object with:
+
+```json
+{
+  "score": 8.7,
+  "checkedAt": "2026-09-22T12:00:00Z",
+  "checks": [
+    {
+      "provider": "Aos Fatos",
+      "url": "https://www.aosfatos.org/",
+      "finding": "no-match",
+      "note": "No matching indexed claim was found; this result is neutral."
+    }
+  ],
+  "caveat": "Editorial estimate based on checked evidence; not a mathematical guarantee."
+}
+```
+
+Scores use one decimal place from 0.0 to 10.0. New automated publication
+requires at least 7.0 and no unresolved `contradicts` finding. The public
+article displays the score in the AI-summary box as an estimated percentage,
+for example `8.7/10 — 87% estimated likelihood of being accurate`, followed by
+an explicit caveat that the figure is an editorial evidence-confidence estimate,
+not a calibrated probability or guarantee.
+
+Use the machine handoff command after combining subagent results:
+
+```text
+npm run fact-check:apply -- --edition YYYY-MM-DD --input FACT_CHECK_AUDIT.json
+npm run news:verify -- --require-verification
+```
+
+### 7.4 Clean article body
 
 Reject generated body paragraphs containing:
 
@@ -771,6 +832,7 @@ Current job:
 - Intended publication branch: `main`
 - Editorial target: 08:00 local time
 - The 07:45 start leaves a measured 15-minute buffer before the target; adjust only after measuring the real workflow duration.
+- Current delivery target: `telegram`; the final response is sent only after live publication verification.
 
 Before creating or updating a job:
 
@@ -800,10 +862,17 @@ The prompt must state:
 - Remote/CI/Pages verification.
 - Fail-closed behavior.
 - No credentials or unknown-file deletion.
+- One concise Telegram completion/failure summary after the final live-site decision.
 
 Never launch a second run while the same job has a running entry. A concurrent run can race on content, approval, and shared publication state.
 
-A scheduler delivery of `local` is history-only in CLI sessions. Do not promise a chat notification unless a gateway-connected delivery target is configured.
+A scheduler delivery of `local` is history-only in CLI sessions. For this job,
+use the gateway-connected `telegram` target. Send exactly one concise success
+summary after Pages and live routes verify, including edition date, eight-desk
+and 80-reference counts, unique article count, verification-score range, lead,
+commit SHA, deployment status, and live-route status. On fail-closed runs, send
+one concise notice that the previous approved edition remains live and name the
+blocking gate; never imply that new news was published.
 
 ---
 

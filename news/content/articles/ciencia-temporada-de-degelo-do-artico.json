@@ -4,7 +4,7 @@
   "section": "ciencia",
   "secondarySections": [],
   "publishedAt": "2026-09-21T00:00:00-04:00",
-  "updatedAt": "2026-09-21T19:43:50.732Z",
+  "updatedAt": "2026-09-22T10:16:58.141Z",
   "sources": [
     {
       "name": "NASA Science",
@@ -18,32 +18,93 @@
     "pt-BR": {
       "title": "Estudo da NASA aponta estabilização do período de degelo do Ártico",
       "summary": "Análise de observações por satélite indica que a temporada de derretimento ficou cerca de 40 dias mais longa desde 1979, mas o aumento desacelerou após 2010.",
+      "aiSummary": [
+        "O prolongamento da temporada veio principalmente do congelamento mais tardio no outono.",
+        "A estabilização média desde 2010 ocorre com gelo mais fino, grande variação anual e possibilidade de ser temporária."
+      ],
       "paragraphs": [
         "Um estudo liderado pela NASA analisou observações de satélite de 1979 a 2023 e concluiu que a temporada de degelo do gelo marinho do Ártico está cerca de 40 dias mais longa do que no início da série. A maior parte desse aumento ocorreu antes de 2010.",
         "Segundo a análise, a mudança foi puxada principalmente pelo congelamento mais tardio no outono, e não por um início de derretimento muito mais cedo na primavera. Desde 2010, a duração média ficou relativamente estável, embora continue variando bastante de um ano para outro.",
         "A NASA relaciona a estabilização recente a mudanças nos padrões de nuvens e ressalta que ela não significa que os efeitos do aquecimento tenham parado. O Ártico continua aquecendo mais rapidamente que a média global, o gelo está mais fino e a pausa pode ser temporária.",
         "A série de satélites mostra que a mudança acumulada veio principalmente do congelamento mais tardio no outono, e não de uma antecipação equivalente do derretimento na primavera. Esse detalhe ajuda a interpretar por que o período total ficou mais longo mesmo com a estabilização média posterior.",
         "A estabilização desde 2010 é, portanto, uma característica da média analisada, não uma volta às condições de 1979. A variabilidade anual continua alta, o gelo está mais fino e a NASA atribui a pausa recente a padrões de nuvens que podem mudar."
-      ],
-      "aiSummary": [
-        "O prolongamento da temporada veio principalmente do congelamento mais tardio no outono.",
-        "A estabilização média desde 2010 ocorre com gelo mais fino, grande variação anual e possibilidade de ser temporária."
       ]
     },
     "en": {
       "title": "NASA study finds Arctic melt season has leveled off",
       "summary": "Satellite analysis shows the melting season is about 40 days longer than in 1979, but its expansion slowed after 2010.",
+      "aiSummary": [
+        "The longer season was driven mainly by later autumn freezing.",
+        "The average leveling since 2010 comes with thinner ice, substantial yearly variation, and the possibility of being temporary."
+      ],
       "paragraphs": [
         "A NASA-led study analyzed satellite observations from 1979 through 2023 and found that the Arctic sea-ice melt season is about 40 days longer than at the start of the record. Most of that increase occurred before 2010.",
         "The analysis indicates that the change was driven mainly by later autumn freezing rather than a much earlier spring melt. Since 2010, the average length has remained relatively stable, although it continues to vary substantially from year to year.",
         "NASA links the recent leveling to shifts in cloud patterns and stresses that it does not mean warming effects have stopped. The Arctic is still warming faster than the global average, its ice is thinner, and the pause may prove temporary.",
         "The satellite record shows that the accumulated change came mainly from later autumn freezing, not from an equivalent advance in spring melting. That detail helps explain why the total season became longer even with the later leveling of the average.",
         "The leveling since 2010 is therefore a feature of the analyzed average, not a return to 1979 conditions. Year-to-year variation remains high, the ice is thinner, and NASA links the recent pause to cloud patterns that can change."
-      ],
-      "aiSummary": [
-        "The longer season was driven mainly by later autumn freezing.",
-        "The average leveling since 2010 comes with thinner ice, substantial yearly variation, and the possibility of being temporary."
       ]
     }
+  },
+  "verification": {
+    "score": 8.8,
+    "checkedAt": "2026-09-22T10:01:14Z",
+    "checks": [
+      {
+        "provider": "NASA Science",
+        "url": "https://science.nasa.gov/earth/earth-observatory/arctic-melt-season-length-levels-off/",
+        "finding": "supports",
+        "note": "Complete source context for NASA Science was reviewed against the article summary and manifest evidence; the central claim is represented with the source's attribution and stated limitations."
+      },
+      {
+        "provider": "Aos Fatos",
+        "url": "https://www.aosfatos.org/",
+        "finding": "no-match",
+        "note": "Direct site-restricted search in Portuguese for the central claim, named entities, and key dates in 'Estudo da NASA aponta estabilização do período de degelo do Ártico' found no matching fact-check page. This no-match is neutral and is not evidence that the claim is true."
+      },
+      {
+        "provider": "Agência Lupa",
+        "url": "https://www.agencialupa.org/",
+        "finding": "no-match",
+        "note": "Direct site-restricted search in Portuguese for the central claim, named entities, and key dates in 'Estudo da NASA aponta estabilização do período de degelo do Ártico' found no matching fact-check page. This no-match is neutral and is not evidence that the claim is true."
+      },
+      {
+        "provider": "Projeto Comprova",
+        "url": "https://projetocomprova.com.br/",
+        "finding": "no-match",
+        "note": "Direct site-restricted search in Portuguese for the central claim, named entities, and key dates in 'Estudo da NASA aponta estabilização do período de degelo do Ártico' found no matching fact-check page. This no-match is neutral and is not evidence that the claim is true."
+      },
+      {
+        "provider": "TSE Fato ou Boato",
+        "url": "https://www.tse.jus.br/comunicacao/noticias/fato-ou-boato",
+        "finding": "no-match",
+        "note": "No election/civic-process fact-check relevant to the claim 'Estudo da NASA aponta estabilização do período de degelo do Ártico' was found; this source is not materially targeted to the article. The result is neutral."
+      },
+      {
+        "provider": "AFP Fact Check",
+        "url": "https://factcheck.afp.com/doc.afp.com.A7XY466",
+        "finding": "context",
+        "note": "A related AFP check concerns a different Arctic/climate-data narrative; it does not assess NASA’s 1979–2023 melt-season analysis."
+      },
+      {
+        "provider": "Reuters Fact Check",
+        "url": "https://www.reuters.com/fact-check/",
+        "finding": "no-match",
+        "note": "Direct site-restricted search in English for the central claim, named entities, and key dates in 'NASA study finds Arctic melt season has leveled off' found no matching fact-check page. This no-match is neutral and is not evidence that the claim is true."
+      },
+      {
+        "provider": "Full Fact",
+        "url": "https://fullfact.org/",
+        "finding": "no-match",
+        "note": "Direct site-restricted search in English for the central claim, named entities, and key dates in 'NASA study finds Arctic melt season has leveled off' found no matching fact-check page. This no-match is neutral and is not evidence that the claim is true."
+      },
+      {
+        "provider": "Google Fact Check Tools",
+        "url": "https://toolbox.google.com/factcheck/explorer",
+        "finding": "inconclusive",
+        "note": "The Explorer homepage was checked through indexed search, but the claims:search API returned HTTP 403 without an API key; this is incomplete coverage, not a no-match and not evidence of truth."
+      }
+    ],
+    "caveat": "Evidence-confidence estimate based on the complete source context, attribution review, direct fact-check-source searches, and the absence of a contradictory finding; no-match results are neutral, and this score is not a calibrated probability or guarantee. The source itself warns that the post-2010 leveling-off may be temporary."
   }
 }

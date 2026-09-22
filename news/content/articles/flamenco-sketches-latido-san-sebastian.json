@@ -5,7 +5,7 @@
   "secondarySections": [],
   "publishedAt": "2026-09-21T05:15:00+00:00",
   "publishedDate": "2026-09-21",
-  "updatedAt": "2026-09-21T19:43:50.732Z",
+  "updatedAt": "2026-09-22T10:16:58.141Z",
   "sources": [
     {
       "name": "Variety",
@@ -19,32 +19,93 @@
     "pt-BR": {
       "title": "Latido adquire direitos internacionais de Flamenco Sketches, de Isaki Lacuesta",
       "summary": "O filme, que encerra a seção Zabaltegi-Tabakalera do Festival de San Sebastián, percorre a história do flamenco por meio de imagens de arquivo e associações com a vanguarda artística.",
+      "aiSummary": [
+        "A Latido Films fará as vendas internacionais de Flamenco Sketches fora da Espanha.",
+        "O filme usa arquivo, registros de Carmencita e referências à vanguarda para evitar uma narrativa linear do flamenco."
+      ],
       "paragraphs": [
         "A distribuidora espanhola Latido Films adquiriu os direitos internacionais de Flamenco Sketches, novo longa de Isaki Lacuesta que será exibido nesta semana no Festival de San Sebastián. O filme encerra a seção Zabaltegi-Tabakalera do evento.",
         "Em vez de apresentar uma história linear, a produção usa um grande conjunto de imagens de arquivo para atravessar diferentes momentos do flamenco. O percurso vai das primeiras aparições do gênero no século XIX a registros de Carmencita feitos por Thomas Edison e às relações com artistas da vanguarda.",
         "O projeto trata o flamenco como uma forma viva, marcada por mutações e contradições, e reúne vozes ligadas à música, à dança e às artes visuais. A Latido fará as vendas mundiais fora da Espanha, enquanto a produção é assinada por Lastor Media, Goroka Contents e La Termita Films.",
         "A aquisição pela Latido dá ao filme uma via de circulação internacional fora da Espanha, enquanto o encerramento da seção Zabaltegi-Tabakalera oferece uma primeira vitrine no Festival de San Sebastián. O acordo trata de direitos e vendas; não anuncia, por si só, datas de lançamento em outros territórios.",
         "A abordagem de Lacuesta evita uma cronologia linear e aproxima registros de Carmencita filmados por Thomas Edison, aparições do flamenco no século XIX e conexões com a vanguarda. A presença de vozes da música, da dança e das artes visuais reforça a ideia de uma tradição em transformação."
-      ],
-      "aiSummary": [
-        "A Latido Films fará as vendas internacionais de Flamenco Sketches fora da Espanha.",
-        "O filme usa arquivo, registros de Carmencita e referências à vanguarda para evitar uma narrativa linear do flamenco."
       ]
     },
     "en": {
       "title": "Latido acquires international rights to Isaki Lacuesta’s Flamenco Sketches",
       "summary": "The film, which closes San Sebastian’s Zabaltegi-Tabakalera section, explores flamenco’s history through archival images and links to the artistic avant-garde.",
+      "aiSummary": [
+        "Latido Films will handle international sales of Flamenco Sketches outside Spain.",
+        "The film uses archival material, Carmencita footage and avant-garde links instead of a linear history of flamenco."
+      ],
       "paragraphs": [
         "Spanish distributor Latido Films has acquired international rights to Flamenco Sketches, the new feature by Isaki Lacuesta that will screen this week at the San Sebastian Film Festival. The film will close the festival’s Zabaltegi-Tabakalera section.",
         "Rather than tell a linear history, the production uses a large archive of images to move through different moments in flamenco. Its journey runs from the form’s first appearances in the 19th century to Thomas Edison’s footage of Carmencita and its connections with avant-garde artists.",
         "The project treats flamenco as a living form shaped by mutations and contradictions, bringing together voices from music, dance and visual art. Latido will handle worldwide sales outside Spain, while the film is produced by Lastor Media, Goroka Contents and La Termita Films.",
         "Latido’s acquisition gives the film an international circulation route outside Spain, while its closing position in San Sebastian’s Zabaltegi-Tabakalera section provides an initial festival showcase. The deal concerns rights and sales; it does not by itself announce release dates in other territories.",
         "Lacuesta’s approach avoids a linear chronology, connecting nineteenth-century appearances of flamenco and Thomas Edison’s footage of Carmencita with links to the avant-garde. Voices from music, dance and visual art reinforce the idea of a tradition that continues to change."
-      ],
-      "aiSummary": [
-        "Latido Films will handle international sales of Flamenco Sketches outside Spain.",
-        "The film uses archival material, Carmencita footage and avant-garde links instead of a linear history of flamenco."
       ]
     }
+  },
+  "verification": {
+    "score": 8.2,
+    "checkedAt": "2026-09-22T09:56:46Z",
+    "checks": [
+      {
+        "provider": "Original article source",
+        "url": "https://variety.com/2026/film/global/isaki-lacuesta-flamenco-sketches-latido-san-sebastian-1236870389/",
+        "finding": "supports",
+        "note": "The complete source page was fetched directly with HTTP 200; its headline and body match the article's central claim and named entities. This is primary evidence, not an independent fact-check."
+      },
+      {
+        "provider": "Aos Fatos",
+        "url": "https://www.aosfatos.org/",
+        "finding": "no-match",
+        "note": "No fact-check addressing this article’s central claim appeared in exact-headline and claim/entity searches of this provider. The no-match is neutral, not evidence of truth."
+      },
+      {
+        "provider": "Agência Lupa",
+        "url": "https://www.agencialupa.org/",
+        "finding": "no-match",
+        "note": "No fact-check addressing this article’s central claim appeared in exact-headline and claim/entity searches of this provider. The no-match is neutral, not evidence of truth."
+      },
+      {
+        "provider": "Projeto Comprova",
+        "url": "https://projetocomprova.com.br/",
+        "finding": "no-match",
+        "note": "No fact-check addressing this article’s central claim appeared in exact-headline and claim/entity searches of this provider. The no-match is neutral, not evidence of truth."
+      },
+      {
+        "provider": "TSE Fato ou Boato",
+        "url": "https://www.tse.jus.br/comunicacao/noticias/fato-ou-boato",
+        "finding": "no-match",
+        "note": "No matching item addressing this article’s central claim was found in domain-scoped searches; this source is not generally relevant to routine culture or sports reporting. The no-match is neutral, not evidence of truth."
+      },
+      {
+        "provider": "AFP Fact Check",
+        "url": "https://factcheck.afp.com/",
+        "finding": "no-match",
+        "note": "No fact-check addressing this article’s central claim appeared in exact-headline and claim/entity searches. Any related hits concerned different claims and were excluded; the no-match is neutral."
+      },
+      {
+        "provider": "Reuters Fact Check",
+        "url": "https://www.reuters.com/fact-check/",
+        "finding": "no-match",
+        "note": "No fact-check addressing this article’s central claim appeared in exact-headline and claim/entity searches of this provider. The no-match is neutral, not evidence of truth."
+      },
+      {
+        "provider": "Full Fact",
+        "url": "https://fullfact.org/",
+        "finding": "no-match",
+        "note": "No fact-check addressing this article’s central claim appeared in exact-headline and claim/entity searches of this provider. The no-match is neutral, not evidence of truth."
+      },
+      {
+        "provider": "Google Fact Check Explorer",
+        "url": "https://toolbox.google.com/factcheck/explorer",
+        "finding": "no-match",
+        "note": "No matching indexed ClaimReview record appeared for exact-headline and claim/entity variants in the Explorer domain. The no-match is neutral, not evidence of truth."
+      }
+    ],
+    "caveat": "Confidence is based on the complete source page fetched directly and the absence of any contradictory fact-check; no relevant fact-check match was found, and no-match results are neutral. The score is an editorial evidence estimate, not a probability or guarantee."
   }
 }

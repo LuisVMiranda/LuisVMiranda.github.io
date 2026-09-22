@@ -4,7 +4,7 @@
   "section": "tecnologia",
   "secondarySections": [],
   "publishedAt": "2026-09-20T15:30:01.000-03:00",
-  "updatedAt": "2026-09-21T19:43:50.732Z",
+  "updatedAt": "2026-09-22T10:16:58.141Z",
   "sources": [
     {
       "name": "Canaltech",
@@ -18,32 +18,93 @@
     "pt-BR": {
       "title": "Troca de celular com eSIM exige transferir ou reativar o perfil da linha",
       "summary": "O eSIM não acompanha necessariamente o backup do celular; a linha precisa ser transferida ou reativada conforme a operadora e os aparelhos envolvidos.",
+      "aiSummary": [
+        "O perfil eSIM é separado do backup, e o QR Code de uma ativação anterior pode não ser reutilizável.",
+        "A linha deve ser testada em chamadas, mensagens e dados antes de o aparelho antigo ser apagado."
+      ],
       "paragraphs": [
         "A reportagem explica que fotos, aplicativos e contatos podem ser restaurados pelo backup, mas o eSIM é um perfil separado da linha telefônica. O número continua o mesmo, porém o perfil precisa ser levado ao aparelho novo por transferência compatível ou nova ativação.",
         "Antes de apagar ou formatar o celular antigo, a orientação é manter os dois aparelhos funcionando, atualizar os sistemas, concluir a transferência e testar chamadas, SMS e internet móvel. O QR Code usado na ativação anterior também pode não ser reutilizável.",
         "Os caminhos variam entre TIM, Vivo, Claro e NuCel, além de dependerem do sistema e do modelo do aparelho. As operadoras podem oferecer transferência direta, aplicativo, portal digital, QR Code ou outro fluxo de reativação, por isso o processo deve ser confirmado no canal da empresa.",
         "A troca segura depende de manter uma janela de continuidade entre os aparelhos. Como o perfil da linha fica separado do backup e o QR Code anterior pode não funcionar novamente, apagar ou formatar o telefone antigo antes dos testes pode interromper chamadas, mensagens e dados.",
         "Não existe um único procedimento universal: a transferência direta, o aplicativo, o portal, o QR Code ou a reativação dependem da operadora, do sistema e do modelo. A etapa prática é confirmar o fluxo do próprio provedor e validar a linha antes de encerrar o aparelho antigo."
-      ],
-      "aiSummary": [
-        "O perfil eSIM é separado do backup, e o QR Code de uma ativação anterior pode não ser reutilizável.",
-        "A linha deve ser testada em chamadas, mensagens e dados antes de o aparelho antigo ser apagado."
       ]
     },
     "en": {
       "title": "Changing phones with an eSIM requires transferring or reactivating the line profile",
       "summary": "An eSIM does not necessarily follow a phone backup; the line must be transferred or reactivated depending on the carrier and devices.",
+      "aiSummary": [
+        "An eSIM profile is separate from a backup, and an earlier activation QR code may not be reusable.",
+        "Calls, messages, and mobile data should be tested before the old phone is erased."
+      ],
       "paragraphs": [
         "The report explains that photos, apps, and contacts can be restored from a backup, but an eSIM is a separate mobile-line profile. The number stays the same, yet the profile must reach the new phone through a compatible transfer or a new activation.",
         "Before erasing or resetting the old phone, the advice is to keep both devices working, update their systems, complete the transfer, and test calls, text messages, and mobile data. The QR code used for the earlier activation may also be unusable again.",
         "The steps vary among TIM, Vivo, Claro, and NuCel and also depend on the phone model and operating system. Carriers may offer direct transfer, an app, a digital portal, a QR code, or another reactivation flow, so the process should be confirmed through the carrier’s channel.",
         "A safe switch depends on preserving a continuity window between the devices. Because the line profile is separate from the backup and the earlier QR code may not work again, erasing or resetting the old phone before testing can interrupt calls, messages, and data.",
         "There is no universal procedure: direct transfer, an app, a portal, a QR code, or reactivation depends on the carrier, operating system, and model. The practical step is to confirm the provider's own flow and validate the line before retiring the old device."
-      ],
-      "aiSummary": [
-        "An eSIM profile is separate from a backup, and an earlier activation QR code may not be reusable.",
-        "Calls, messages, and mobile data should be tested before the old phone is erased."
       ]
     }
+  },
+  "verification": {
+    "score": 8.6,
+    "checkedAt": "2026-09-22T10:01:14Z",
+    "checks": [
+      {
+        "provider": "Canaltech",
+        "url": "https://canaltech.com.br/telecom/trocou-de-celular-saiba-o-que-acontece-com-seu-esim-e-como-levar-o-numero/",
+        "finding": "supports",
+        "note": "Complete source context for Canaltech was reviewed against the article summary and manifest evidence; the central claim is represented with the source's attribution and stated limitations."
+      },
+      {
+        "provider": "Aos Fatos",
+        "url": "https://www.aosfatos.org/",
+        "finding": "no-match",
+        "note": "Direct site-restricted search in Portuguese for the central claim, named entities, and key dates in 'Troca de celular com eSIM exige transferir ou reativar o perfil da linha' found no matching fact-check page. This no-match is neutral and is not evidence that the claim is true."
+      },
+      {
+        "provider": "Agência Lupa",
+        "url": "https://www.agencialupa.org/",
+        "finding": "no-match",
+        "note": "Direct site-restricted search in Portuguese for the central claim, named entities, and key dates in 'Troca de celular com eSIM exige transferir ou reativar o perfil da linha' found no matching fact-check page. This no-match is neutral and is not evidence that the claim is true."
+      },
+      {
+        "provider": "Projeto Comprova",
+        "url": "https://projetocomprova.com.br/",
+        "finding": "no-match",
+        "note": "Direct site-restricted search in Portuguese for the central claim, named entities, and key dates in 'Troca de celular com eSIM exige transferir ou reativar o perfil da linha' found no matching fact-check page. This no-match is neutral and is not evidence that the claim is true."
+      },
+      {
+        "provider": "TSE Fato ou Boato",
+        "url": "https://www.tse.jus.br/comunicacao/noticias/fato-ou-boato",
+        "finding": "no-match",
+        "note": "No election/civic-process fact-check relevant to the claim 'Troca de celular com eSIM exige transferir ou reativar o perfil da linha' was found; this source is not materially targeted to the article. The result is neutral."
+      },
+      {
+        "provider": "AFP Fact Check",
+        "url": "https://factcheck.afp.com/",
+        "finding": "no-match",
+        "note": "Direct site-restricted search in English for the central claim, named entities, and key dates in 'Changing phones with an eSIM requires transferring or reactivating the line profile' found no matching fact-check page. This no-match is neutral and is not evidence that the claim is true."
+      },
+      {
+        "provider": "Reuters Fact Check",
+        "url": "https://www.reuters.com/fact-check/",
+        "finding": "no-match",
+        "note": "Direct site-restricted search in English for the central claim, named entities, and key dates in 'Changing phones with an eSIM requires transferring or reactivating the line profile' found no matching fact-check page. This no-match is neutral and is not evidence that the claim is true."
+      },
+      {
+        "provider": "Full Fact",
+        "url": "https://fullfact.org/",
+        "finding": "no-match",
+        "note": "Direct site-restricted search in English for the central claim, named entities, and key dates in 'Changing phones with an eSIM requires transferring or reactivating the line profile' found no matching fact-check page. This no-match is neutral and is not evidence that the claim is true."
+      },
+      {
+        "provider": "Google Fact Check Tools",
+        "url": "https://toolbox.google.com/factcheck/explorer",
+        "finding": "inconclusive",
+        "note": "The Explorer homepage was checked through indexed search, but the claims:search API returned HTTP 403 without an API key; this is incomplete coverage, not a no-match and not evidence of truth."
+      }
+    ],
+    "caveat": "Evidence-confidence estimate based on the complete source context, attribution review, direct fact-check-source searches, and the absence of a contradictory finding; no-match results are neutral, and this score is not a calibrated probability or guarantee."
   }
 }

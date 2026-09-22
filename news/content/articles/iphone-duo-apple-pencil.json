@@ -4,7 +4,7 @@
   "section": "tecnologia",
   "secondarySections": [],
   "publishedAt": "2026-09-21T07:44:31.000-03:00",
-  "updatedAt": "2026-09-21T19:43:50.732Z",
+  "updatedAt": "2026-09-22T10:16:58.141Z",
   "sources": [
     {
       "name": "Canaltech",
@@ -18,32 +18,93 @@
     "pt-BR": {
       "title": "Apple desistiu de Pencil menor para o dobrável iPhone Duo",
       "summary": "A Apple teria abandonado uma caneta menor criada para o iPhone Duo por problemas técnicos e deverá oferecer suporte ao Apple Pencil USB-C após uma atualização.",
+      "aiSummary": [
+        "A Pencil menor com conexão magnética teria sido abandonada antes da produção em massa por problemas técnicos.",
+        "O suporte à Pencil USB-C dependeria de atualização posterior, e o Pencil Pro não seria compatível."
+      ],
       "paragraphs": [
         "Segundo informações de Mark Gurman reproduzidas pelo Canaltech, a Apple desenvolveu uma versão menor do Apple Pencil para o dobrável iPhone Duo. O acessório teria conexão magnética com a dobradiça, mas foi abandonado antes da produção em massa por problemas técnicos.",
         "A alternativa prevista é liberar compatibilidade com o Apple Pencil USB-C por meio de uma atualização de software, enquanto o modelo Pencil Pro não seria compatível. A caneta USB-C poderá ser usada nas telas interna e externa, mas o suporte não estará disponível no lançamento.",
         "O aparelho tem lançamento previsto para 23 de outubro, com pré-venda a partir de 16 de outubro, de acordo com a matéria. O texto também informa que a Apple ainda precisa concluir testes internos antes de liberar a função da caneta.",
         "Segundo o relato atribuído a Mark Gurman, a Apple separou o que teria sido abandonado do que ainda está planejado: a Pencil menor com encaixe magnético não chegou à produção em massa, enquanto a compatibilidade com a Pencil USB-C dependeria de atualização e de testes internos concluídos.",
         "Para quem acompanha o lançamento, a consequência é que o suporte à caneta não estaria disponível no primeiro dia, e o Pencil Pro ficaria fora da compatibilidade descrita. As datas informadas são 16 de outubro para a pré-venda e 23 de outubro para o lançamento."
-      ],
-      "aiSummary": [
-        "A Pencil menor com conexão magnética teria sido abandonada antes da produção em massa por problemas técnicos.",
-        "O suporte à Pencil USB-C dependeria de atualização posterior, e o Pencil Pro não seria compatível."
       ]
     },
     "en": {
       "title": "Apple dropped a smaller Pencil planned for the foldable iPhone Duo",
       "summary": "Apple reportedly abandoned a smaller stylus made for the iPhone Duo because of technical problems and is expected to support the USB-C Apple Pencil after an update.",
+      "aiSummary": [
+        "The smaller magnetic Pencil was reportedly abandoned before mass production because of technical problems.",
+        "USB-C Pencil support would require a later update, while the Pencil Pro would not be compatible."
+      ],
       "paragraphs": [
         "According to information from Mark Gurman reproduced by Canaltech, Apple developed a smaller Apple Pencil for the foldable iPhone Duo. The accessory would have attached magnetically to the hinge but was dropped before mass production because of technical problems.",
         "The planned alternative is to enable support for the USB-C Apple Pencil through a software update, while the Pencil Pro would not be compatible. The USB-C stylus will work on both the inner and outer screens, but support will not be available at launch.",
         "The phone is scheduled to launch on October 23, with preorders starting October 16, according to the report. The article also says Apple still has to complete internal testing before releasing the stylus feature.",
         "According to the report attributed to Mark Gurman, Apple has separated what was reportedly abandoned from what is still planned: the smaller magnetic Pencil did not reach mass production, while USB-C Pencil compatibility would depend on an update and completed internal testing.",
         "For people following the launch, the consequence is that stylus support would not be available on day one, and the Pencil Pro would be outside the described compatibility. The dates given are October 16 for preorders and October 23 for launch."
-      ],
-      "aiSummary": [
-        "The smaller magnetic Pencil was reportedly abandoned before mass production because of technical problems.",
-        "USB-C Pencil support would require a later update, while the Pencil Pro would not be compatible."
       ]
     }
+  },
+  "verification": {
+    "score": 7.2,
+    "checkedAt": "2026-09-22T10:01:14Z",
+    "checks": [
+      {
+        "provider": "Canaltech",
+        "url": "https://canaltech.com.br/smartphone/iphone-duo-quase-veio-com-pencil-mas-apple-desistiu-por-problemas-tecnicos/",
+        "finding": "supports",
+        "note": "Complete source context for Canaltech was reviewed against the article summary and manifest evidence; the central claim is represented with the source's attribution and stated limitations."
+      },
+      {
+        "provider": "Aos Fatos",
+        "url": "https://www.aosfatos.org/",
+        "finding": "no-match",
+        "note": "Direct site-restricted search in Portuguese for the central claim, named entities, and key dates in 'Apple desistiu de Pencil menor para o dobrável iPhone Duo' found no matching fact-check page. This no-match is neutral and is not evidence that the claim is true."
+      },
+      {
+        "provider": "Agência Lupa",
+        "url": "https://www.agencialupa.org/",
+        "finding": "no-match",
+        "note": "Direct site-restricted search in Portuguese for the central claim, named entities, and key dates in 'Apple desistiu de Pencil menor para o dobrável iPhone Duo' found no matching fact-check page. This no-match is neutral and is not evidence that the claim is true."
+      },
+      {
+        "provider": "Projeto Comprova",
+        "url": "https://projetocomprova.com.br/",
+        "finding": "no-match",
+        "note": "Direct site-restricted search in Portuguese for the central claim, named entities, and key dates in 'Apple desistiu de Pencil menor para o dobrável iPhone Duo' found no matching fact-check page. This no-match is neutral and is not evidence that the claim is true."
+      },
+      {
+        "provider": "TSE Fato ou Boato",
+        "url": "https://www.tse.jus.br/comunicacao/noticias/fato-ou-boato",
+        "finding": "no-match",
+        "note": "No election/civic-process fact-check relevant to the claim 'Apple desistiu de Pencil menor para o dobrável iPhone Duo' was found; this source is not materially targeted to the article. The result is neutral."
+      },
+      {
+        "provider": "AFP Fact Check",
+        "url": "https://factcheck.afp.com/doc.afp.com.336R83M",
+        "finding": "context",
+        "note": "A related AFP check addresses a fake concept video about a foldable Apple phone, not the attributed smaller-Pencil report; no contradiction to this article was found."
+      },
+      {
+        "provider": "Reuters Fact Check",
+        "url": "https://www.reuters.com/fact-check/",
+        "finding": "no-match",
+        "note": "Direct site-restricted search in English for the central claim, named entities, and key dates in 'Apple dropped a smaller Pencil planned for the foldable iPhone Duo' found no matching fact-check page. This no-match is neutral and is not evidence that the claim is true."
+      },
+      {
+        "provider": "Full Fact",
+        "url": "https://fullfact.org/",
+        "finding": "no-match",
+        "note": "Direct site-restricted search in English for the central claim, named entities, and key dates in 'Apple dropped a smaller Pencil planned for the foldable iPhone Duo' found no matching fact-check page. This no-match is neutral and is not evidence that the claim is true."
+      },
+      {
+        "provider": "Google Fact Check Tools",
+        "url": "https://toolbox.google.com/factcheck/explorer",
+        "finding": "inconclusive",
+        "note": "The Explorer homepage was checked through indexed search, but the claims:search API returned HTTP 403 without an API key; this is incomplete coverage, not a no-match and not evidence of truth."
+      }
+    ],
+    "caveat": "Evidence-confidence estimate based on the complete source context, attribution review, direct fact-check-source searches, and the absence of a contradictory finding; no-match results are neutral, and this score is not a calibrated probability or guarantee. The article retains explicit language that reported or preliminary details are not independently confirmed."
   }
 }

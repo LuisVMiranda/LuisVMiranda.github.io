@@ -4,7 +4,7 @@
   "section": "mundo",
   "secondarySections": ["politica"],
   "publishedAt": "2026-09-20T18:23:50.898-03:00",
-  "updatedAt": "2026-09-21T19:43:50.732Z",
+  "updatedAt": "2026-09-22T10:16:58.141Z",
   "sources": [
     {
       "name": "G1",
@@ -18,35 +18,114 @@
   "rights": {
     "mode": "original-report"
   },
+  "verification": {
+    "score": 8.9,
+    "checkedAt": "2026-09-22T10:05:52Z",
+    "checks": [
+      {
+        "provider": "G1",
+        "url": "https://g1.globo.com/mundo/noticia/2026/09/20/brasil-ue-canada-e-quenia-criam-alianca-global-pelo-multilateralismo-as-vesperas-de-assembleia-geral-da-onu.ghtml",
+        "finding": "supports",
+        "note": "Complete local extraction was status 200 with complete:true; the source directly contains the article's reported claim and its stated qualifications."
+      },
+      {
+        "provider": "Correio Braziliense",
+        "url": "https://www.correiobraziliense.com.br/mundo/2026/09/7504582-brasil-ue-quenia-e-canada-escrevem-manifesto-em-defesa-do-multilateralismo.html",
+        "finding": "supports",
+        "note": "Complete local extraction was status 200 with complete:true; the source directly contains the article's reported claim and its stated qualifications."
+      },
+      {
+        "provider": "Aos Fatos",
+        "url": "https://www.aosfatos.org/",
+        "finding": "no-match",
+        "note": "No directly matching fact-check result surfaced in the source-restricted search; no-match is neutral and not evidence of accuracy."
+      },
+      {
+        "provider": "Agência Lupa",
+        "url": "https://www.agencialupa.org/",
+        "finding": "no-match",
+        "note": "No directly matching fact-check result surfaced in the source-restricted search; no-match is neutral and not evidence of accuracy."
+      },
+      {
+        "provider": "Projeto Comprova",
+        "url": "https://projetocomprova.com.br/",
+        "finding": "no-match",
+        "note": "No directly matching fact-check result surfaced in the source-restricted search; no-match is neutral and not evidence of accuracy."
+      },
+      {
+        "provider": "TSE Fato ou Boato",
+        "url": "https://www.tse.jus.br/comunicacao/noticias/fato-ou-boato",
+        "finding": "no-match",
+        "note": "No directly matching fact-check result surfaced in the source-restricted search; no-match is neutral and not evidence of accuracy."
+      },
+      {
+        "provider": "AFP Fact Check",
+        "url": "https://factcheck.afp.com/",
+        "finding": "no-match",
+        "note": "No directly matching fact-check result surfaced in the source-restricted search; no-match is neutral and not evidence of accuracy."
+      },
+      {
+        "provider": "Reuters Fact Check",
+        "url": "https://www.reuters.com/fact-check/",
+        "finding": "no-match",
+        "note": "No directly matching fact-check result surfaced in the source-restricted search; no-match is neutral and not evidence of accuracy."
+      },
+      {
+        "provider": "Full Fact",
+        "url": "https://fullfact.org/",
+        "finding": "no-match",
+        "note": "No directly matching fact-check result surfaced in the source-restricted search; no-match is neutral and not evidence of accuracy."
+      },
+      {
+        "provider": "Google Fact Check Explorer",
+        "url": "https://toolbox.google.com/factcheck/explorer",
+        "finding": "inconclusive",
+        "note": "The public claims-search endpoint returned HTTP 403 in this run and no exact ClaimReview record was confirmed; this is not evidence for or against the article."
+      },
+      {
+        "provider": "European Council",
+        "url": "https://www.consilium.europa.eu/en/press/press-releases/2026/09/21/declaration-of-the-partners-for-multilateralism-p4m-summit-21-september-2026/",
+        "finding": "context",
+        "note": "The official declaration confirms the P4M initiative and its goals, while listing additional initial co-sponsors beyond the four emphasized in the article."
+      },
+      {
+        "provider": "United Nations Web TV",
+        "url": "https://webtv.un.org/en/asset/k1b/k1bn52wnc0",
+        "finding": "supports",
+        "note": "The UN listing corroborates the Partners for Multilateralism summit and its multilateralism focus."
+      }
+    ],
+    "caveat": "The initiative is corroborated by official EU and UN materials, but the article names four principal partners while official materials list additional co-sponsors; this is a framing limitation, not a contradiction."
+  },
   "translations": {
     "pt-BR": {
       "title": "Brasil, União Europeia, Canadá e Quênia lançam iniciativa pelo multilateralismo",
       "summary": "Os quatro parceiros anunciaram o P4M por meio de manifesto conjunto antes da Assembleia Geral da ONU. A proposta prevê uma estrutura aberta para formar coalizões e apoiar reformas que tornem instituições internacionais mais representativas.",
+      "aiSummary": [
+        "O P4M usa conflitos e gastos militares de 2025 para defender uma resposta cooperativa.",
+        "A iniciativa se apresenta como coalizão aberta, não como bloco exclusivo ou nova burocracia."
+      ],
       "paragraphs": [
         "Brasil, União Europeia, Canadá e Quênia anunciaram a iniciativa Parceiros pelo Multilateralismo, conhecida pela sigla P4M, em um manifesto publicado às vésperas da Assembleia Geral da ONU. O texto é assinado por Luiz Inácio Lula da Silva, António Costa, Mark Carney e William Ruto, e o encontro da ONU começa com discursos de Lula e Donald Trump.",
         "Os signatários descrevem um mundo mais conectado economicamente, mas também mais fragmentado e polarizado. Segundo o manifesto, 2025 registrou 65 conflitos armados entre Estados e os gastos militares globais chegaram a 2,9 trilhões de dólares, números usados para defender uma resposta cooperativa.",
         "O P4M é apresentado como uma estrutura flexível, aberta a países de diferentes regiões e sem a intenção de formar um bloco exclusivo ou uma nova burocracia. A iniciativa pretende apoiar reformas na ONU e em outras instituições multilaterais diante de desafios como clima, inteligência artificial, pandemias, choques financeiros e guerras.",
         "O manifesto usa os dados de 2025 — 65 conflitos armados entre Estados e 2,9 trilhões de dólares em gastos militares — como diagnóstico para justificar cooperação, não como uma promessa de que o P4M resolverá esses problemas. A iniciativa nasce vinculada à Assembleia Geral, mas seus efeitos institucionais ainda são objetivos declarados.",
         "A escolha por uma estrutura aberta é uma diferença importante em relação a um bloco fechado: países de outras regiões poderiam aderir, e os signatários dizem não buscar uma nova burocracia. O alcance proposto inclui clima, IA, pandemias, choques financeiros e guerras, conectando a reforma institucional a crises que atravessam fronteiras."
-      ],
-      "aiSummary": [
-        "O P4M usa conflitos e gastos militares de 2025 para defender uma resposta cooperativa.",
-        "A iniciativa se apresenta como coalizão aberta, não como bloco exclusivo ou nova burocracia."
       ]
     },
     "en": {
       "title": "Brazil, European Union, Canada and Kenya launch multilateralism initiative",
       "summary": "The four partners announced the P4M through a joint manifesto ahead of the U.N. General Assembly. The proposal calls for an open structure to build coalitions and support reforms that make international institutions more representative.",
+      "aiSummary": [
+        "P4M uses 2025 conflict and military-spending figures to argue for cooperation.",
+        "The initiative presents itself as an open coalition, not an exclusive bloc or new bureaucracy."
+      ],
       "paragraphs": [
         "Brazil, the European Union, Canada and Kenya announced the Partners for Multilateralism initiative, known as P4M, in a manifesto published ahead of the U.N. General Assembly. The text was signed by Luiz Inácio Lula da Silva, António Costa, Mark Carney and William Ruto, while the U.N. meeting opens with speeches by Lula and Donald Trump.",
         "The signatories describe a world that is more economically connected but also more fragmented and polarized. The manifesto says 2025 saw 65 armed conflicts between states and that global military spending reached 2.9 trillion dollars, figures used to argue for a cooperative response.",
         "P4M is presented as a flexible structure open to countries from different regions, rather than an exclusive bloc or a new bureaucracy. The initiative aims to support reforms at the U.N. and other multilateral institutions in response to climate change, artificial intelligence, pandemics, financial shocks and wars.",
         "The manifesto uses 2025 figures—65 armed conflicts between states and $2.9 trillion in military spending—as a diagnosis supporting cooperation, not as a promise that P4M will solve those problems. The initiative begins alongside the General Assembly, while its institutional effects remain stated objectives.",
         "Its open structure is a key distinction from a closed bloc: countries from other regions could join, and the signatories say they do not seek a new bureaucracy. The proposed scope covers climate, AI, pandemics, financial shocks and wars, tying institutional reform to crises that cross borders."
-      ],
-      "aiSummary": [
-        "P4M uses 2025 conflict and military-spending figures to argue for cooperation.",
-        "The initiative presents itself as an open coalition, not an exclusive bloc or new bureaucracy."
       ]
     }
   }

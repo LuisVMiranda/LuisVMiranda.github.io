@@ -5,7 +5,7 @@
   "secondarySections": [],
   "publishedAt": "2026-09-21T00:00:00.000Z",
   "publishedDate": "2026-09-21",
-  "updatedAt": "2026-09-21T19:43:50.732Z",
+  "updatedAt": "2026-09-22T10:16:58.141Z",
   "sources": [
     {
       "name": "International Atomic Energy Agency",
@@ -19,32 +19,93 @@
     "pt-BR": {
       "title": "Conferência geral da AIEA termina com decisões para a agenda nuclear",
       "summary": "A 70ª conferência da agência reuniu mais de 3,6 mil participantes e elegeu 11 países para o Conselho de Governadores.",
+      "aiSummary": [
+        "As resoluções da conferência devem orientar o trabalho da AIEA no próximo ano, e o Brasil foi eleito para o conselho de 2026 a 2027.",
+        "Rays of Hope reúne mais de 100 países, enquanto as projeções de energia nuclear e urânio são cenários da agência."
+      ],
       "paragraphs": [
         "A 70ª Conferência Geral da Agência Internacional de Energia Atômica terminou após cinco dias de debates, eventos e decisões sobre temas nucleares. As resoluções aprovadas devem orientar o trabalho da agência no próximo ano.",
         "Mais de 3,6 mil pessoas participaram do encontro, incluindo representantes de 160 dos 181 países-membros, 78 ministros e 19 vice-ministros. Os países também elegeram 11 integrantes para o Conselho de Governadores de 35 membros no período de 2026 a 2027, entre eles o Brasil.",
         "O fórum científico da conferência destacou a expansão do atendimento oncológico por meio da iniciativa Rays of Hope, que já reúne mais de 100 países. A AIEA também apresentou projeções de que a capacidade nuclear global pode mais que triplicar até 2060 no cenário alto e informou que os recursos identificados de urânio atendem à demanda projetada até 2050.",
         "A conferência produziu efeitos institucionais e científicos em paralelo. As resoluções devem orientar o trabalho da AIEA no próximo ano, enquanto a eleição de 11 países, incluindo o Brasil, renovou parte do Conselho de Governadores para o período de 2026 a 2027.",
         "Na agenda científica, a iniciativa Rays of Hope aparece como expansão do atendimento oncológico para mais de 100 países. Já as projeções sobre triplicar a capacidade nuclear até 2060 e sobre urânio até 2050 são cenários e estimativas apresentados pela agência, não resultados já realizados."
-      ],
-      "aiSummary": [
-        "As resoluções da conferência devem orientar o trabalho da AIEA no próximo ano, e o Brasil foi eleito para o conselho de 2026 a 2027.",
-        "Rays of Hope reúne mais de 100 países, enquanto as projeções de energia nuclear e urânio são cenários da agência."
       ]
     },
     "en": {
       "title": "IAEA general conference closes with decisions for the nuclear agenda",
       "summary": "The agency's 70th conference drew more than 3,600 participants and elected 11 countries to its Board of Governors.",
+      "aiSummary": [
+        "The conference resolutions are expected to guide the IAEA's work, and Brazil was elected to the board for 2026 to 2027.",
+        "Rays of Hope includes more than 100 countries, while the nuclear and uranium figures are agency scenarios."
+      ],
       "paragraphs": [
         "The 70th General Conference of the International Atomic Energy Agency ended after five days of discussions, events and decisions on nuclear topics. The adopted resolutions are expected to guide the agency's work over the coming year.",
         "More than 3,600 people attended, including representatives from 160 of the 181 member states, 78 ministers and 19 vice-ministers. Members also elected 11 countries to the 35-seat Board of Governors for 2026 to 2027, including Brazil.",
         "The conference's scientific forum highlighted expanded cancer care through the Rays of Hope initiative, which now includes more than 100 countries. The IAEA also presented projections that global nuclear capacity could more than triple by 2060 in the high case and said identified uranium resources cover projected demand through 2050.",
         "The conference produced institutional and scientific effects in parallel. Its resolutions are expected to guide the IAEA's work over the coming year, while the election of 11 countries, including Brazil, renewed part of the Board of Governors for 2026 to 2027.",
         "On the scientific agenda, the Rays of Hope initiative appears as an expansion of cancer care to more than 100 countries. The projections of tripling nuclear capacity by 2060 and uranium through 2050 are scenarios and estimates presented by the agency, not completed outcomes."
-      ],
-      "aiSummary": [
-        "The conference resolutions are expected to guide the IAEA's work, and Brazil was elected to the board for 2026 to 2027.",
-        "Rays of Hope includes more than 100 countries, while the nuclear and uranium figures are agency scenarios."
       ]
     }
+  },
+  "verification": {
+    "score": 8.9,
+    "checkedAt": "2026-09-22T10:01:14Z",
+    "checks": [
+      {
+        "provider": "International Atomic Energy Agency",
+        "url": "https://www.iaea.org/newscenter/news/week-in-review-iaea-70th-general-conference",
+        "finding": "supports",
+        "note": "Complete source context for International Atomic Energy Agency was reviewed against the article summary and manifest evidence; the central claim is represented with the source's attribution and stated limitations."
+      },
+      {
+        "provider": "Aos Fatos",
+        "url": "https://www.aosfatos.org/",
+        "finding": "no-match",
+        "note": "Direct site-restricted search in Portuguese for the central claim, named entities, and key dates in 'Conferência geral da AIEA termina com decisões para a agenda nuclear' found no matching fact-check page. This no-match is neutral and is not evidence that the claim is true."
+      },
+      {
+        "provider": "Agência Lupa",
+        "url": "https://www.agencialupa.org/",
+        "finding": "no-match",
+        "note": "Direct site-restricted search in Portuguese for the central claim, named entities, and key dates in 'Conferência geral da AIEA termina com decisões para a agenda nuclear' found no matching fact-check page. This no-match is neutral and is not evidence that the claim is true."
+      },
+      {
+        "provider": "Projeto Comprova",
+        "url": "https://projetocomprova.com.br/",
+        "finding": "no-match",
+        "note": "Direct site-restricted search in Portuguese for the central claim, named entities, and key dates in 'Conferência geral da AIEA termina com decisões para a agenda nuclear' found no matching fact-check page. This no-match is neutral and is not evidence that the claim is true."
+      },
+      {
+        "provider": "TSE Fato ou Boato",
+        "url": "https://www.tse.jus.br/comunicacao/noticias/fato-ou-boato",
+        "finding": "no-match",
+        "note": "No election/civic-process fact-check relevant to the claim 'Conferência geral da AIEA termina com decisões para a agenda nuclear' was found; this source is not materially targeted to the article. The result is neutral."
+      },
+      {
+        "provider": "AFP Fact Check",
+        "url": "https://factcheck.afp.com/",
+        "finding": "no-match",
+        "note": "Direct site-restricted search in English for the central claim, named entities, and key dates in 'IAEA general conference closes with decisions for the nuclear agenda' found no matching fact-check page. This no-match is neutral and is not evidence that the claim is true."
+      },
+      {
+        "provider": "Reuters Fact Check",
+        "url": "https://www.reuters.com/fact-check/",
+        "finding": "no-match",
+        "note": "Direct site-restricted search in English for the central claim, named entities, and key dates in 'IAEA general conference closes with decisions for the nuclear agenda' found no matching fact-check page. This no-match is neutral and is not evidence that the claim is true."
+      },
+      {
+        "provider": "Full Fact",
+        "url": "https://fullfact.org/",
+        "finding": "no-match",
+        "note": "Direct site-restricted search in English for the central claim, named entities, and key dates in 'IAEA general conference closes with decisions for the nuclear agenda' found no matching fact-check page. This no-match is neutral and is not evidence that the claim is true."
+      },
+      {
+        "provider": "Google Fact Check Tools",
+        "url": "https://toolbox.google.com/factcheck/explorer",
+        "finding": "inconclusive",
+        "note": "The Explorer homepage was checked through indexed search, but the claims:search API returned HTTP 403 without an API key; this is incomplete coverage, not a no-match and not evidence of truth."
+      }
+    ],
+    "caveat": "Evidence-confidence estimate based on the complete source context, attribution review, direct fact-check-source searches, and the absence of a contradictory finding; no-match results are neutral, and this score is not a calibrated probability or guarantee."
   }
 }

@@ -4,7 +4,7 @@
   "section": "esportes",
   "secondarySections": [],
   "publishedAt": "2026-09-20T23:01:13+00:00",
-  "updatedAt": "2026-09-21T19:43:50.732Z",
+  "updatedAt": "2026-09-22T10:16:58.141Z",
   "sources": [
     {
       "name": "The Sporting News",
@@ -18,32 +18,93 @@
     "pt-BR": {
       "title": "Seahawks listam running back Jadarian Price como dúvida após lesão",
       "summary": "Price sofreu uma lesão no peito contra os Cardinals e foi monitorado no quarto período.",
+      "aiSummary": [
+        "Jadarian Price foi monitorado no quarto período do jogo da Semana 2 contra o Arizona Cardinals.",
+        "Os Seahawks o listaram como dúvida para retornar por causa de uma lesão no peito."
+      ],
       "paragraphs": [
         "O Seattle Seahawks acompanhava a situação do running back Jadarian Price durante o quarto período da partida da segunda semana contra o Arizona Cardinals.",
         "Price se machucou durante o jogo, em uma atuação que o Sporting News descreveu como dominante para Seattle diante do Arizona.",
         "Os Seahawks o listaram oficialmente como dúvida para retornar, com uma lesão no peito. O acompanhamento indicava que novas informações poderiam ser divulgadas depois.",
         "O status descrito é estritamente de acompanhamento durante a partida da segunda semana contra o Arizona Cardinals: Price foi monitorado no quarto período e listado como dúvida para retornar. A informação não confirma a extensão da lesão nem oferece uma previsão além da possibilidade de novas atualizações.",
         "A referência a uma atuação dominante de Seattle ajuda a situar o momento do jogo, mas não altera o caráter provisório do boletim. O dado central para o torcedor é a designação oficial por lesão no peito, sujeita a mudança conforme novas informações fossem divulgadas."
-      ],
-      "aiSummary": [
-        "Jadarian Price foi monitorado no quarto período do jogo da Semana 2 contra o Arizona Cardinals.",
-        "Os Seahawks o listaram como dúvida para retornar por causa de uma lesão no peito."
       ]
     },
     "en": {
       "title": "Seahawks list running back Jadarian Price as questionable after injury",
       "summary": "Price suffered a chest injury against the Cardinals and was monitored in the fourth quarter.",
+      "aiSummary": [
+        "Jadarian Price was monitored in the fourth quarter of Seattle’s Week 2 game against Arizona.",
+        "The Seahawks listed him as questionable to return because of a chest injury."
+      ],
       "paragraphs": [
         "The Seattle Seahawks were monitoring running back Jadarian Price during the fourth quarter of their Week 2 game against the Arizona Cardinals.",
         "Price was injured during the game, while Sporting News described Seattle as putting on a dominant performance against Arizona.",
         "The Seahawks officially listed him as questionable to return with a chest injury. The tracker indicated that more information could be released later.",
         "The status described is specifically an in-game update from Seattle’s Week 2 meeting with the Arizona Cardinals: Price was monitored in the fourth quarter and listed as questionable to return. It does not establish the injury’s extent or offer a forecast beyond possible further updates.",
         "The reference to Seattle’s dominant performance supplies game context but does not change the provisional nature of the report. The key service detail for fans is the official chest-injury designation, which could change as more information became available."
-      ],
-      "aiSummary": [
-        "Jadarian Price was monitored in the fourth quarter of Seattle’s Week 2 game against Arizona.",
-        "The Seahawks listed him as questionable to return because of a chest injury."
       ]
     }
+  },
+  "verification": {
+    "score": 8,
+    "checkedAt": "2026-09-22T09:56:46Z",
+    "checks": [
+      {
+        "provider": "Original article source",
+        "url": "https://www.sportingnews.com/us/nfl/seattle-seahawks/news/jadarian-price-injury-update-latest-news-seahawks-rbs-status-week-2-game/80372d082918e20843d5860e",
+        "finding": "supports",
+        "note": "The complete source page was fetched directly with HTTP 200; its headline and body match the article's central claim and named entities. This is primary evidence, not an independent fact-check."
+      },
+      {
+        "provider": "Aos Fatos",
+        "url": "https://www.aosfatos.org/",
+        "finding": "no-match",
+        "note": "No fact-check addressing this article’s central claim appeared in exact-headline and claim/entity searches of this provider. The no-match is neutral, not evidence of truth."
+      },
+      {
+        "provider": "Agência Lupa",
+        "url": "https://www.agencialupa.org/",
+        "finding": "no-match",
+        "note": "No fact-check addressing this article’s central claim appeared in exact-headline and claim/entity searches of this provider. The no-match is neutral, not evidence of truth."
+      },
+      {
+        "provider": "Projeto Comprova",
+        "url": "https://projetocomprova.com.br/",
+        "finding": "no-match",
+        "note": "No fact-check addressing this article’s central claim appeared in exact-headline and claim/entity searches of this provider. The no-match is neutral, not evidence of truth."
+      },
+      {
+        "provider": "TSE Fato ou Boato",
+        "url": "https://www.tse.jus.br/comunicacao/noticias/fato-ou-boato",
+        "finding": "no-match",
+        "note": "No matching item addressing this article’s central claim was found in domain-scoped searches; this source is not generally relevant to routine culture or sports reporting. The no-match is neutral, not evidence of truth."
+      },
+      {
+        "provider": "AFP Fact Check",
+        "url": "https://factcheck.afp.com/",
+        "finding": "no-match",
+        "note": "No fact-check addressing this article’s central claim appeared in exact-headline and claim/entity searches. Any related hits concerned different claims and were excluded; the no-match is neutral."
+      },
+      {
+        "provider": "Reuters Fact Check",
+        "url": "https://www.reuters.com/fact-check/",
+        "finding": "no-match",
+        "note": "No fact-check addressing this article’s central claim appeared in exact-headline and claim/entity searches of this provider. The no-match is neutral, not evidence of truth."
+      },
+      {
+        "provider": "Full Fact",
+        "url": "https://fullfact.org/",
+        "finding": "no-match",
+        "note": "No fact-check addressing this article’s central claim appeared in exact-headline and claim/entity searches of this provider. The no-match is neutral, not evidence of truth."
+      },
+      {
+        "provider": "Google Fact Check Explorer",
+        "url": "https://toolbox.google.com/factcheck/explorer",
+        "finding": "no-match",
+        "note": "No matching indexed ClaimReview record appeared for exact-headline and claim/entity variants in the Explorer domain. The no-match is neutral, not evidence of truth."
+      }
+    ],
+    "caveat": "Confidence is based on the complete source page fetched directly and the absence of any contradictory fact-check; no relevant fact-check match was found, and no-match results are neutral. The score is an editorial evidence estimate, not a probability or guarantee."
   }
 }

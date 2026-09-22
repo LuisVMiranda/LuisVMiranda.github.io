@@ -2,6 +2,11 @@ import type { Article, Edition, Locale, SectionId } from '../content/types';
 import { sections } from '../content/sections';
 
 const locales: Locale[] = ['pt-BR', 'en'];
+type AutomationOptions = {
+  requiredCount: number;
+  requireRichArticle: boolean;
+  requireVerification: boolean;
+};
 const embeddedContentPattern =
   /(?:https?:\/\/|www\.)|!\[[^\]]*\]\([^)]*\)|\[[^\]]+\]\([^)]*\)|<\s*(?:a|img|picture|iframe|video|figure|script|source)\b/i;
 
@@ -57,13 +62,29 @@ function translationIssues(
 function articleIssues(
   article: Article,
   requireRichArticle: boolean,
+  requireVerification: boolean,
 ): string[] {
   if (!requireRichArticle) return [];
   const rightsIssues = article.rights
     ? []
     : [`${article.id} is missing rights metadata`];
+  const verificationIssues = requireVerification
+    ? !article.verification
+      ? [`${article.id} is missing fact-check verification`]
+      : [
+          ...(article.verification.score < 7
+            ? [`${article.id} verification confidence is below 7.0/10`]
+            : []),
+          ...(article.verification.checks.some(
+            (check) => check.finding === 'contradicts',
+          )
+            ? [`${article.id} has a contradicting fact-check finding`]
+            : []),
+        ]
+    : [];
   return [
     ...rightsIssues,
+    ...verificationIssues,
     ...locales.flatMap((locale) =>
       translationIssues(article.id, locale, article.translations[locale]),
     ),
@@ -74,9 +95,9 @@ function sectionIssues(
   edition: Edition,
   section: SectionId,
   byId: Map<string, Article>,
-  requiredCount: number,
-  requireRichArticle: boolean,
+  options: AutomationOptions,
 ): string[] {
+  const { requiredCount, requireRichArticle, requireVerification } = options;
   const ids = selectedIds(edition, section);
   const countIssues =
     ids.length === requiredCount
@@ -89,7 +110,7 @@ function sectionIssues(
   const articleIssuesById = ids.flatMap((id) => {
     const article = byId.get(id);
     return article
-      ? articleIssues(article, requireRichArticle)
+      ? articleIssues(article, requireRichArticle, requireVerification)
       : [`${section} references missing article ${id}`];
   });
   return [...countIssues, ...duplicateIssues, ...articleIssuesById];
@@ -104,10 +125,15 @@ export function automationIssues(
   articles: Article[],
   requiredCount = 10,
   requireRichArticle = true,
+  requireVerification = false,
 ): string[] {
   const byId = new Map(articles.map((article) => [article.id, article]));
   return sections.flatMap(({ id: section }) =>
-    sectionIssues(edition, section, byId, requiredCount, requireRichArticle),
+    sectionIssues(edition, section, byId, {
+      requiredCount,
+      requireRichArticle,
+      requireVerification,
+    }),
   );
 }
 
@@ -116,12 +142,14 @@ export function assertAutomationReady(
   articles: Article[],
   requiredCount = 10,
   requireRichArticle = true,
+  requireVerification = false,
 ): void {
   const issues = automationIssues(
     edition,
     articles,
     requiredCount,
     requireRichArticle,
+    requireVerification,
   );
   if (issues.length)
     throw new Error(

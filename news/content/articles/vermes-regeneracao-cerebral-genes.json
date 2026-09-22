@@ -5,7 +5,7 @@
   "secondarySections": [],
   "publishedAt": "2026-09-21T13:21:23+00:00",
   "publishedDate": "2026-09-21",
-  "updatedAt": "2026-09-21T19:43:50.732Z",
+  "updatedAt": "2026-09-22T10:16:58.141Z",
   "sources": [
     {
       "name": "University of Georgia",
@@ -19,32 +19,93 @@
     "pt-BR": {
       "title": "Genes ajudam a explicar como vermes regeneram o cérebro",
       "summary": "Estudo da Universidade da Geórgia identificou genes que orientam a formação de neurônios dopaminérgicos em planárias e podem inspirar terapias para lesões e doenças cerebrais.",
+      "aiSummary": [
+        "Desativar alguns genes prejudicou a formação de neurônios dopaminérgicos e deixou as planárias mais lentas.",
+        "O estudo orienta pesquisas futuras, mas não oferece uma terapia humana disponível."
+      ],
       "paragraphs": [
         "Pesquisadores da Universidade da Geórgia identificaram quase uma dúzia de genes que orientam células-tronco de planárias a formar neurônios produtores de dopamina e a levá-los aos locais corretos do corpo.",
         "As planárias conseguem reconstruir tecidos, músculos e até o cérebro a partir de pequenos fragmentos, enquanto células-tronco humanas não regeneram neurônios com a mesma eficiência. Ao desativar alguns dos genes encontrados, os vermes tiveram dificuldade para produzir esses neurônios e apresentaram movimentos mais lentos.",
         "O trabalho, publicado na Nature Communications, não cria uma terapia humana, mas oferece caminhos para investigar como ativar ou transplantar células produtoras de dopamina em condições como Parkinson e lesões cerebrais traumáticas.",
         "O efeito dos desligamentos genéticos reforçou que os genes não aparecem apenas como uma associação estatística: quando alguns foram desativados, as planárias tiveram dificuldade para formar neurônios dopaminérgicos e passaram a se mover mais lentamente. Isso liga o mecanismo observado à função do animal.",
         "A utilidade do estudo está em oferecer um caminho experimental para investigar ativação ou transplante de células produtoras de dopamina, não em fornecer uma intervenção para pacientes. A distância entre o modelo regenerativo das planárias e uma terapia humana continua explicitamente aberta."
-      ],
-      "aiSummary": [
-        "Desativar alguns genes prejudicou a formação de neurônios dopaminérgicos e deixou as planárias mais lentas.",
-        "O estudo orienta pesquisas futuras, mas não oferece uma terapia humana disponível."
       ]
     },
     "en": {
       "title": "Genes help explain how flatworms regenerate their brains",
       "summary": "A University of Georgia study identified genes that guide dopamine-producing neurons in planarians and could inform future therapies for brain injuries and disease.",
+      "aiSummary": [
+        "Disabling some genes impaired dopamine-neuron formation and made the planarians move more slowly.",
+        "The study guides future research but does not provide an available human therapy."
+      ],
       "paragraphs": [
         "University of Georgia researchers identified almost a dozen genes that guide planarian stem cells to form dopamine-producing neurons and deliver them to the correct locations in the body.",
         "Planarians can rebuild tissue, muscle and even their brains from small fragments, while human stem cells do not regenerate neurons as efficiently. When some of the identified genes were disabled, the worms struggled to produce the neurons and moved more slowly.",
         "Published in Nature Communications, the study does not create a human therapy, but it gives researchers a route for investigating how dopamine-producing cells might be activated or transplanted for conditions such as Parkinson’s disease and traumatic brain injuries.",
         "The gene knockouts strengthened the case that these genes are not merely a statistical association: when some were disabled, planarians struggled to form dopamine-producing neurons and moved more slowly. That connects the observed mechanism to the animal's function.",
         "The study's value is to provide an experimental route for investigating activation or transplantation of dopamine-producing cells, not to provide an intervention for patients. The distance between planarian regeneration and a human therapy remains explicitly open."
-      ],
-      "aiSummary": [
-        "Disabling some genes impaired dopamine-neuron formation and made the planarians move more slowly.",
-        "The study guides future research but does not provide an available human therapy."
       ]
     }
+  },
+  "verification": {
+    "score": 8.4,
+    "checkedAt": "2026-09-22T10:01:14Z",
+    "checks": [
+      {
+        "provider": "University of Georgia",
+        "url": "https://news.uga.edu/regenerating-the-brain/",
+        "finding": "supports",
+        "note": "Complete source context for University of Georgia was reviewed against the article summary and manifest evidence; the central claim is represented with the source's attribution and stated limitations."
+      },
+      {
+        "provider": "Aos Fatos",
+        "url": "https://www.aosfatos.org/",
+        "finding": "no-match",
+        "note": "Direct site-restricted search in Portuguese for the central claim, named entities, and key dates in 'Genes ajudam a explicar como vermes regeneram o cérebro' found no matching fact-check page. This no-match is neutral and is not evidence that the claim is true."
+      },
+      {
+        "provider": "Agência Lupa",
+        "url": "https://www.agencialupa.org/",
+        "finding": "no-match",
+        "note": "Direct site-restricted search in Portuguese for the central claim, named entities, and key dates in 'Genes ajudam a explicar como vermes regeneram o cérebro' found no matching fact-check page. This no-match is neutral and is not evidence that the claim is true."
+      },
+      {
+        "provider": "Projeto Comprova",
+        "url": "https://projetocomprova.com.br/",
+        "finding": "no-match",
+        "note": "Direct site-restricted search in Portuguese for the central claim, named entities, and key dates in 'Genes ajudam a explicar como vermes regeneram o cérebro' found no matching fact-check page. This no-match is neutral and is not evidence that the claim is true."
+      },
+      {
+        "provider": "TSE Fato ou Boato",
+        "url": "https://www.tse.jus.br/comunicacao/noticias/fato-ou-boato",
+        "finding": "no-match",
+        "note": "No election/civic-process fact-check relevant to the claim 'Genes ajudam a explicar como vermes regeneram o cérebro' was found; this source is not materially targeted to the article. The result is neutral."
+      },
+      {
+        "provider": "AFP Fact Check",
+        "url": "https://factcheck.afp.com/",
+        "finding": "no-match",
+        "note": "Direct site-restricted search in English for the central claim, named entities, and key dates in 'Genes help explain how flatworms regenerate their brains' found no matching fact-check page. This no-match is neutral and is not evidence that the claim is true."
+      },
+      {
+        "provider": "Reuters Fact Check",
+        "url": "https://www.reuters.com/fact-check/",
+        "finding": "no-match",
+        "note": "Direct site-restricted search in English for the central claim, named entities, and key dates in 'Genes help explain how flatworms regenerate their brains' found no matching fact-check page. This no-match is neutral and is not evidence that the claim is true."
+      },
+      {
+        "provider": "Full Fact",
+        "url": "https://fullfact.org/",
+        "finding": "no-match",
+        "note": "Direct site-restricted search in English for the central claim, named entities, and key dates in 'Genes help explain how flatworms regenerate their brains' found no matching fact-check page. This no-match is neutral and is not evidence that the claim is true."
+      },
+      {
+        "provider": "Google Fact Check Tools",
+        "url": "https://toolbox.google.com/factcheck/explorer",
+        "finding": "inconclusive",
+        "note": "The Explorer homepage was checked through indexed search, but the claims:search API returned HTTP 403 without an API key; this is incomplete coverage, not a no-match and not evidence of truth."
+      }
+    ],
+    "caveat": "Evidence-confidence estimate based on the complete source context, attribution review, direct fact-check-source searches, and the absence of a contradictory finding; no-match results are neutral, and this score is not a calibrated probability or guarantee."
   }
 }

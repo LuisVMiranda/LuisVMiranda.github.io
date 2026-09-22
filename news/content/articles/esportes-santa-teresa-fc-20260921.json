@@ -4,7 +4,7 @@
   "section": "esportes",
   "secondarySections": [],
   "publishedAt": "2026-09-21T10:35:56.613-03:00",
-  "updatedAt": "2026-09-21T19:43:50.732Z",
+  "updatedAt": "2026-09-22T10:16:58.141Z",
   "sources": [
     {
       "name": "ge.globo.com",
@@ -18,32 +18,93 @@
     "pt-BR": {
       "title": "Santa Teresa FC começará pela base e pelo futebol feminino no Espírito Santo",
       "summary": "Novo clube pretende disputar competições de base e o estadual feminino em 2027.",
+      "aiSummary": [
+        "O Santa Teresa FC planeja iniciar na base e no futebol feminino em 2027.",
+        "A chegada ao futebol masculino profissional é apresentada como meta para 2030, não como participação já confirmada."
+      ],
       "paragraphs": [
         "O Santa Teresa FC, fundado no Espírito Santo em 2026 e presidido por Marcelinho Lima, planeja disputar torneios de base e o Campeonato Capixaba feminino em 2027.",
         "A diretoria também pretende levar o clube ao futebol masculino profissional até 2030. O projeto de gestão foi apresentado como inspirado no Porto Vitória, atual campeão capixaba.",
         "O projeto coloca Santa Teresa no centro da iniciativa e associa a criação do clube à promoção da cultura e do turismo da cidade por meio do esporte.",
         "O projeto apresenta uma sequência gradual de entrada no futebol: o clube fundado em 2026 pretende começar pelas categorias de base e pelo estadual feminino em 2027, deixando o futebol masculino profissional como meta para 2030. Trata-se de um plano anunciado, não de competições já disputadas.",
         "A referência ao Porto Vitória, atual campeão capixaba, aparece como inspiração de gestão, enquanto Santa Teresa é colocada no centro da iniciativa. A proposta também atribui ao esporte uma função de promoção cultural e turística da cidade, ampliando o objetivo para além do campo."
-      ],
-      "aiSummary": [
-        "O Santa Teresa FC planeja iniciar na base e no futebol feminino em 2027.",
-        "A chegada ao futebol masculino profissional é apresentada como meta para 2030, não como participação já confirmada."
       ]
     },
     "en": {
       "title": "Santa Teresa FC to begin with youth and women's football in Espírito Santo",
       "summary": "The new club plans to enter youth competitions and the state women's championship in 2027.",
+      "aiSummary": [
+        "Santa Teresa FC plans to begin with youth and women’s football in 2027.",
+        "Professional men’s football is a 2030 target, not a competition already confirmed for the club."
+      ],
       "paragraphs": [
         "Santa Teresa FC, founded in Espírito Santo in 2026 and led by president Marcelinho Lima, plans to enter youth tournaments and the Campeonato Capixaba women's competition in 2027.",
         "The board also aims to take the club into professional men's football by 2030. Its management project was described as being inspired by Porto Vitória, the current state champion.",
         "The project places Santa Teresa at its center and links the club's creation to promoting the city's culture and tourism through sport.",
         "The project describes a gradual entry into football: the club founded in 2026 plans to begin with youth teams and the state women’s competition in 2027, leaving professional men’s football as a 2030 target. These are announced plans, not competitions already played.",
         "Porto Vitória, the current state champion, is cited as a management inspiration, while Santa Teresa is placed at the center of the initiative. The proposal also gives sport a role in promoting the city’s culture and tourism, extending the aim beyond the pitch."
-      ],
-      "aiSummary": [
-        "Santa Teresa FC plans to begin with youth and women’s football in 2027.",
-        "Professional men’s football is a 2030 target, not a competition already confirmed for the club."
       ]
     }
+  },
+  "verification": {
+    "score": 8.1,
+    "checkedAt": "2026-09-22T09:56:46Z",
+    "checks": [
+      {
+        "provider": "Original article source",
+        "url": "https://ge.globo.com/es/futebol/noticia/2026/09/21/santa-teresa-fc-novo-time-do-espirito-santo-vai-iniciar-atividades-na-base-e-no-feminino.ghtml",
+        "finding": "supports",
+        "note": "The complete source page was fetched directly with HTTP 200; its headline and body match the article's central claim and named entities. This is primary evidence, not an independent fact-check."
+      },
+      {
+        "provider": "Aos Fatos",
+        "url": "https://www.aosfatos.org/",
+        "finding": "no-match",
+        "note": "No fact-check addressing this article’s central claim appeared in exact-headline and claim/entity searches of this provider. The no-match is neutral, not evidence of truth."
+      },
+      {
+        "provider": "Agência Lupa",
+        "url": "https://www.agencialupa.org/",
+        "finding": "no-match",
+        "note": "No fact-check addressing this article’s central claim appeared in exact-headline and claim/entity searches of this provider. The no-match is neutral, not evidence of truth."
+      },
+      {
+        "provider": "Projeto Comprova",
+        "url": "https://projetocomprova.com.br/",
+        "finding": "no-match",
+        "note": "No fact-check addressing this article’s central claim appeared in exact-headline and claim/entity searches of this provider. The no-match is neutral, not evidence of truth."
+      },
+      {
+        "provider": "TSE Fato ou Boato",
+        "url": "https://www.tse.jus.br/comunicacao/noticias/fato-ou-boato",
+        "finding": "no-match",
+        "note": "No matching item addressing this article’s central claim was found in domain-scoped searches; this source is not generally relevant to routine culture or sports reporting. The no-match is neutral, not evidence of truth."
+      },
+      {
+        "provider": "AFP Fact Check",
+        "url": "https://factcheck.afp.com/",
+        "finding": "no-match",
+        "note": "No fact-check addressing this article’s central claim appeared in exact-headline and claim/entity searches. Any related hits concerned different claims and were excluded; the no-match is neutral."
+      },
+      {
+        "provider": "Reuters Fact Check",
+        "url": "https://www.reuters.com/fact-check/",
+        "finding": "no-match",
+        "note": "No fact-check addressing this article’s central claim appeared in exact-headline and claim/entity searches of this provider. The no-match is neutral, not evidence of truth."
+      },
+      {
+        "provider": "Full Fact",
+        "url": "https://fullfact.org/",
+        "finding": "no-match",
+        "note": "No fact-check addressing this article’s central claim appeared in exact-headline and claim/entity searches of this provider. The no-match is neutral, not evidence of truth."
+      },
+      {
+        "provider": "Google Fact Check Explorer",
+        "url": "https://toolbox.google.com/factcheck/explorer",
+        "finding": "no-match",
+        "note": "No matching indexed ClaimReview record appeared for exact-headline and claim/entity variants in the Explorer domain. The no-match is neutral, not evidence of truth."
+      }
+    ],
+    "caveat": "The report describes stated future plans rather than an achieved result; confidence rests on the complete ge report, with no contradictory fact-check found. No-match results are neutral. The score is an editorial evidence estimate, not a probability or guarantee."
   }
 }
