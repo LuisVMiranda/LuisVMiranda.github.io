@@ -1,0 +1,6 @@
+.env
+state.json
+*.lock
+__pycache__/
+.pytest_cache/
+.venv/
