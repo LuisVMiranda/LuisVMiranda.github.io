@@ -39,7 +39,7 @@ The language toggle updates copy, metadata, image descriptions, and accessible n
 
 The interactive demo is local only: it never calls the API, creates a payment, or submits customer data. Sample pricing is R$25 per photo, or R$20 each for three photos. Pix simulation unlocks selected samples; cash/card simulation requires a separate photographer approval. Sample downloads are actual local WebP assets. Real ZIP delivery is explained, not falsely simulated. All campaign photography is generated illustrative imagery.
 
-The getting-started CTA explains the planned hosted service: each photographer will have an account and a separate workspace for galleries, clients and sales. The FAQ describes browser access and managed infrastructure, with account access clearly marked as available at launch. The dialog links only to the interactive demo; there is no invented signup backend, subscription, trial or contact address.
+The getting-started CTA explains the planned hosted service: each photographer will have an account and a separate workspace for galleries, clients and sales. The FAQ describes the photographer’s tasks: create an account, add branding, set up Pix, define prices/packages, upload photos and share a gallery. The dialog keeps the service’s launch status explicit. The dialog links only to the interactive demo; there is no invented signup backend, subscription, trial or contact address.
 
 Images are local and compressed. Google Fonts supplies DM Sans and Manrope, with system font fallbacks if unavailable. No animation framework or additional package dependency was added. Motion respects `prefers-reduced-motion`; menus and modal support keyboard navigation and Escape.
 
@@ -77,4 +77,4 @@ The selector follows the system by default, remembers explicit light/dark choice
 
 The dark hero uses `assets/hero-camera-dark.webp`, a coordinated imagegen edit of the existing composition. Both variants are local; CSS shows only the active theme’s image, including for assistive technology. The theme toggle does not dim or invert photographs.
 
-The closing ornament is an explicit SVG, not a Unicode emoji. On phones it sits above the copy in normal flow, so platform emoji rendering cannot obscure the heading or button. The sticky navigation uses an opaque theme surface for legibility over scrolling content.
+The closing ornament is an explicit SVG, not a Unicode emoji. At every screen size it sits above the copy in normal flow, with explicit 48px dimensions in both HTML and CSS and pointer events disabled. It cannot cover the heading or button, even if an older stylesheet is cached. The sticky navigation uses an opaque theme surface for legibility over scrolling content.

@@ -18,7 +18,7 @@ export const english = {
   closingEyebrow: 'MORE PRESENCE. LESS TO-DO.', closingLine1: 'Your vision makes the difference.', closingLine2: 'Give it a flow that keeps up.', closingCta: 'Get started with SnapFlow', closingNote: 'From photography to payment. From one sale to the next story.',
   footerTagline: 'A good eye deserves a great flow.', footerHelp: 'FAQ', footerMade: 'Created in Brazil. Made for your next shot.', backTop: 'Back to top ↑',
   closeLabel: 'Close', startEyebrow: 'YOUR NEXT STEP', startTitle: 'Let’s get your workflow moving.', startText: 'We’re preparing SnapFlow as a service for photographers. At launch, you’ll have your own account and a dedicated workspace for your galleries, clients, and sales, separate from other photographers.',
-  startItem1: 'Access your account in a browser, on your phone or computer.', startItem2: 'Customize your branding, prices, and packages.', startItem3: 'Organize your photos and share your galleries with clients.', startDemo: 'Explore the demo',
+  startItem1: 'Create your account and personalize your profile with your branding.', startItem2: 'Set up Pix payments and define your prices and packages.', startItem3: 'Organize your photos and share your galleries with clients.', startDemo: 'Explore the demo',
 };
 
 export const content = {
@@ -47,7 +47,7 @@ export const content = {
       ['Como funcionam os pagamentos?', 'O Pix usa a integração com o Mercado Pago. Após a confirmação chegar ao SnapFlow, as fotos compradas são liberadas automaticamente. Dinheiro e cartão exigem aprovação explícita no painel; a cobrança no cartão é feita por fora do sistema.'],
       ['A entrega depende do WhatsApp?', 'Não. As fotos compradas ficam disponíveis para download na galeria, individualmente ou em ZIP. Você pode ativar avisos e o envio adicional dos originais pelo WhatsApp. Uma falha nesse canal não bloqueia o download.'],
       ['Posso usar minhas marcas e meus preços?', 'Sim. Configure pacotes, preços e descontos, use marcas d’água e overlays próprios e personalize os links. Você também controla a validade de acesso; o prazo padrão após o pagamento é de 7 dias e pode ser ajustado.'],
-      ['Do que preciso para começar?', 'Um celular ou computador com internet e suas fotos. Estamos preparando o serviço para que você acesse sua conta pelo navegador, com um espaço exclusivo para suas galerias, clientes e vendas. Nossa equipe cuidará da estrutura; você personalizará sua marca e seus preços. O acesso às contas será disponibilizado no lançamento. Enquanto isso, explore a demonstração nesta página.'],
+      ['Do que preciso para começar?', 'Para começar, você vai criar sua conta, personalizar seu perfil com sua marca, configurar o recebimento por Pix e definir seus preços e pacotes. Depois, é só enviar suas primeiras fotos, criar uma galeria e compartilhar o link com seus clientes.'],
     ],
     demo: {
       location: 'ALAGOAS, BRASIL', title: 'Um dia para guardar.', subtitle: 'Escolha os seus momentos favoritos.', badge: 'GALERIA DEMONSTRATIVA',
@@ -83,7 +83,7 @@ export const content = {
       ['How do payments work?', 'Pix, Brazil’s instant payment method, connects through Mercado Pago. Once confirmation reaches SnapFlow, purchased photos unlock automatically. Cash and card payments require explicit approval in the dashboard; card charges are processed outside SnapFlow.'],
       ['Does delivery depend on WhatsApp?', 'No. Purchased photos are available in the gallery, individually or as a ZIP. You can enable notifications and optional original-file delivery through WhatsApp. An issue with that channel never blocks gallery downloads.'],
       ['Can I use my own branding and prices?', 'Yes. Configure packages, prices, and discounts, add your watermarks and overlays, and personalize gallery links. You also control access expiration; the default post-payment window is 7 days and can be adjusted.'],
-      ['What do I need to get started?', 'A phone or computer with internet access and your photos. We’re preparing the service so you can sign in through your browser, with a dedicated workspace for your galleries, clients, and sales. Our team will handle the infrastructure; you’ll customize your branding and prices. Account access will be available at launch. In the meantime, explore the demo on this page.'],
+      ['What do I need to get started?', 'To get started, you’ll create your account, personalize your profile with your branding, set up Pix payments, and define your prices and packages. Then upload your first photos, create a gallery, and share the link with your clients.'],
     ],
     demo: {
       location: 'ALAGOAS, BRAZIL', title: 'A day to remember.', subtitle: 'Choose your favorite moments.', badge: 'DEMO GALLERY',

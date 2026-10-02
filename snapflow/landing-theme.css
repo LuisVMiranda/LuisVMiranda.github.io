@@ -162,29 +162,8 @@ body { background: var(--paper); color: var(--ink); }
 .faq-list, .faq-list details { border-color: var(--line); }
 .faq-list summary::after { color: var(--link); }
 .closing { background: var(--surface-raised); border: 1px solid var(--line); }
-/* Explicit SVG avoids platform emoji artwork. Content always sits above it. */
-.closing { isolation: isolate; }
-.closing > :not(.closing-decoration) { position: relative; z-index: 1; }
-html .closing-decoration {
-  width: 300px;
-  height: 300px;
-  color: var(--decoration);
-  opacity: .55;
-  pointer-events: none;
-  z-index: 0;
-}
-@media (max-width: 650px) {
-  html .closing-decoration {
-    position: relative;
-    inset: auto;
-    display: block;
-    width: 48px;
-    height: 48px;
-    margin: 0 auto 24px;
-    color: var(--accent-text);
-    opacity: 1;
-  }
-}
+/* Keep the ornament in normal flow at every width, never over the CTA. */
+.closing-mark { color: var(--accent-text); }
 .start-dialog { background: var(--surface); color: var(--ink); border-color: var(--line); box-shadow: 0 25px 100px var(--shadow); }
 .start-dialog::backdrop { background: #080c12d9; }
 
