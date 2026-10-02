@@ -1,6 +1,6 @@
 # Complete GitHub Pages publication
 
-`Publish complete static portal` publishes the current portfolio and `mirastt/`
+`Publish complete static portal` publishes the current portfolio, `mirastt/` and `snapflow/`
 alongside the last successfully published, approved news version. GitHub Pages
 replaces the entire site with each artifact; copying files into the repository
 alone does not publish them.
@@ -19,10 +19,17 @@ Following failed news runs also recovers portal jobs displaced in GitHub's share
 concurrency queue. This never makes a failed news run eligible as approved source.
 
 The existing news workflow still validates pending news changes independently.
-Its failures do not block Mira publication. After a future approved news release,
+Its failures do not block Mira or SnapFlow publication. After a future approved news release,
 the follow-up portal workflow restores the complete site; the original news-only
 artifact may briefly be visible while that follow-up builds. Removing that
 transition would require a separately reviewed change to the news release pipeline.
+
+SnapFlow publishes its standalone `index.html`, `landing.bundle.js`, icon, three
+stylesheets and five WebP images under `/snapflow/`, plus the linked photographer
+portfolio/about pages and their runtime assets. The explicit list lives in
+`package.mjs`; update it when adding runtime assets. Build scripts, source tests,
+image prompts and dependencies are excluded. Its relative asset URLs work at this
+subdirectory without rewriting or running the SnapFlow development server.
 
 Only Mira's public HTML, assets, styles, scripts and two download metadata files
 are packaged. Installers remain on Google Drive. Development dependencies, tests,
@@ -37,6 +44,6 @@ node mirastt/tools/verify.mjs
 ```
 
 When checking a publication, use the **Publish complete static portal** Actions
-run and verify `/`, `/news/`, `/mirastt/` and `/deployment.json`. A failed news
-review run means pending news needs its own review; it does not mean Mira's
+run and verify `/`, `/news/`, `/mirastt/`, `/snapflow/` and `/deployment.json`. A failed news
+review run means pending news needs its own review; it does not mean the complete portal's
 separate publication failed.

@@ -7,6 +7,17 @@ const miraFiles = [
   'downloads/release.json', 'downloads/checksums.txt',
 ];
 
+// Publish the standalone landing bundle and its assets, excluding development files.
+const snapflowFiles = [
+  'index.html', 'landing-icon.svg', 'landing.bundle.js',
+  'landing.css', 'landing-theme.css', 'landing-responsive.css',
+  'assets/hero-camera.webp', 'assets/hero-camera-dark.webp',
+  'assets/coast.webp', 'assets/coast-detail.webp', 'assets/events.webp',
+  'portfolio.html', 'sobre.html', 'favicon.svg', 'site.css',
+  'site.js', 'navigation.js', 'carousel.js', 'contact.js',
+  'erick-about-maceio.png', 'erick-pfp-01.png',
+];
+
 async function rejectSymlinks(source) {
   const info = await lstat(source);
   if (info.isSymbolicLink()) throw new Error(`Symlink cannot be published: ${source}`);
@@ -39,6 +50,9 @@ export async function packagePortal(options) {
   for (const name of miraFiles) {
     await copy(join(source, 'mirastt', name), join(output, 'mirastt', name));
   }
+  for (const name of snapflowFiles) {
+    await copy(join(source, 'snapflow', name), join(output, 'snapflow', name));
+  }
   await copy(join(reviewed, 'dist'), join(output, 'news'));
   await copy(join(reviewed, 'static/404.html'), join(output, '404.html'));
   const site = new URL(process.env.SITE_URL || 'https://luisvmiranda.github.io');
@@ -49,7 +63,7 @@ export async function packagePortal(options) {
   await writeFile(join(output, 'deployment.json'), JSON.stringify({
     portalSha, newsSha: news.sha, newsRunId: news.runId,
   }, null, 2) + '\n');
-  for (const page of ['index.html', 'mirastt/index.html', 'news/index.html']) {
+  for (const page of ['index.html', 'mirastt/index.html', 'snapflow/index.html', 'news/index.html']) {
     if (!(await readFile(join(output, page), 'utf8')).trim()) throw new Error(`Empty page: ${page}`);
   }
 }

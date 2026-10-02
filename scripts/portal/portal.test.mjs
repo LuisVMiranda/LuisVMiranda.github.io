@@ -51,13 +51,22 @@ async function fixture(root, file, content = 'fixture') {
   await writeFile(destination, content);
 }
 
-test('packages both sites and current downloads without pending news or development files', async () => {
+test('packages all sites and current downloads without pending news or development files', async () => {
   const root = await mkdtemp(join(tmpdir(), 'portal-test-'));
   const source = join(root, 'source');
   const reviewed = join(root, 'reviewed');
   const output = join(root, 'public');
   try {
     const files = [
+      'snapflow/index.html', 'snapflow/landing-icon.svg', 'snapflow/landing.bundle.js',
+      'snapflow/landing.css', 'snapflow/landing-theme.css', 'snapflow/landing-responsive.css',
+      'snapflow/assets/hero-camera.webp', 'snapflow/assets/hero-camera-dark.webp',
+      'snapflow/assets/coast.webp', 'snapflow/assets/coast-detail.webp', 'snapflow/assets/events.webp',
+      'snapflow/portfolio.html', 'snapflow/sobre.html', 'snapflow/favicon.svg', 'snapflow/site.css',
+      'snapflow/site.js', 'snapflow/navigation.js', 'snapflow/carousel.js', 'snapflow/contact.js',
+      'snapflow/erick-about-maceio.png', 'snapflow/erick-pfp-01.png',
+      'snapflow/landing.test.js', 'snapflow/build-offline.mjs', 'snapflow/.env',
+      'snapflow/assets/PROMPTS.md', 'snapflow/node_modules/dependency.js',
       'index.html', 'assets/main.css', 'mirastt/index.html', 'mirastt/favicon.ico',
       'mirastt/assets/font.woff2', 'mirastt/styles/main.css', 'mirastt/scripts/main.js',
       'mirastt/downloads/release.json', 'mirastt/downloads/checksums.txt',
@@ -70,6 +79,16 @@ test('packages both sites and current downloads without pending news or developm
     await fixture(reviewed, 'artifacts/build.json', JSON.stringify({ preview: false, revision: sha }));
     await packagePortal({ source, reviewed, output, news: { sha, runId: 2 }, portalSha: sha });
     assert.equal(await readFile(join(output, 'news/index.html'), 'utf8'), 'approved news');
+    for (const file of files.filter((file) => file.startsWith('snapflow/') && /\.(html|svg|css|webp|png)$|(?:landing\.bundle|site|navigation|carousel|contact)\.js$/.test(file))) {
+      assert.equal(await readFile(join(output, file), 'utf8'), file);
+    }
+    assert.deepEqual((await readdir(join(output, 'snapflow'))).sort(),
+      ['assets', 'carousel.js', 'contact.js', 'erick-about-maceio.png', 'erick-pfp-01.png',
+        'favicon.svg', 'index.html', 'landing-icon.svg', 'landing-responsive.css',
+        'landing-theme.css', 'landing.bundle.js', 'landing.css', 'navigation.js',
+        'portfolio.html', 'site.css', 'site.js', 'sobre.html']);
+    assert.deepEqual((await readdir(join(output, 'snapflow/assets'))).sort(),
+      ['coast-detail.webp', 'coast.webp', 'events.webp', 'hero-camera-dark.webp', 'hero-camera.webp']);
     assert.equal(await readFile(join(output, 'mirastt/index.html'), 'utf8'), 'mirastt/index.html');
     assert.equal(await readFile(join(output, 'mirastt/downloads/release.json'), 'utf8'), 'mirastt/downloads/release.json');
     assert.deepEqual((await readdir(join(output, 'mirastt'))).sort(),
