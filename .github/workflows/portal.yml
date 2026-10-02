@@ -35,7 +35,6 @@ jobs:
     env:
       SITE_URL: ${{ vars.NEWS_SITE_URL || 'https://luisvmiranda.github.io' }}
       GH_TOKEN: ${{ github.token }}
-      PAGES_OUTPUT: ${{ runner.temp }}/complete-pages
     steps:
       - uses: actions/checkout@v4
         with:
@@ -45,7 +44,9 @@ jobs:
         with:
           node-version: '24'
       - name: Record the current portal revision
-        run: echo "PORTAL_SHA=$(git rev-parse HEAD)" >> "$GITHUB_ENV"
+        run: |
+          echo "PORTAL_SHA=$(git rev-parse HEAD)" >> "$GITHUB_ENV"
+          echo "PAGES_OUTPUT=$RUNNER_TEMP/complete-pages" >> "$GITHUB_ENV"
       - run: node --test scripts/portal/*.test.mjs
       - run: node mirastt/tools/verify.mjs
       - name: Select the last successfully published news source
