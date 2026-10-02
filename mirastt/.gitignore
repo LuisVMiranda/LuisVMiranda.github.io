@@ -1,5 +1,0 @@
-node_modules/
-tests/artifacts/
-downloads/*.exe
-downloads/*.tar.gz
-downloads/*.part

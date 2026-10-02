@@ -1,0 +1,196 @@
+{
+  "checkedAt": "2026-10-02T18:50:21.574Z",
+  "browser": "Chromium",
+  "results": [
+    {
+      "name": "Release checksums and all static links",
+      "passed": true,
+      "ms": 4
+    },
+    {
+      "name": "Real WebGL scene animates and respects pause / reduced motion",
+      "passed": true,
+      "ms": 502
+    },
+    {
+      "name": "3D rotate, reset, and pointer drag visibly change geometry",
+      "passed": true,
+      "ms": 1075
+    },
+    {
+      "name": "Animation suspends when the hero leaves the viewport",
+      "passed": true,
+      "ms": 442
+    },
+    {
+      "name": "Responsive layout at 320px has no horizontal overflow",
+      "passed": true,
+      "ms": 1885
+    },
+    {
+      "name": "Responsive layout at 390px has no horizontal overflow",
+      "passed": true,
+      "ms": 635
+    },
+    {
+      "name": "Responsive layout at 768px has no horizontal overflow",
+      "passed": true,
+      "ms": 664
+    },
+    {
+      "name": "Responsive layout at 1440px has no horizontal overflow",
+      "passed": true,
+      "ms": 755
+    },
+    {
+      "name": "All six language previews and both engine explanations work",
+      "passed": true,
+      "ms": 326
+    },
+    {
+      "name": "FAQ works with keyboard and skip link targets main content",
+      "passed": true,
+      "ms": 29
+    },
+    {
+      "name": "Hold to record; release delivers and pill dismisses after one second",
+      "passed": true,
+      "ms": 5439
+    },
+    {
+      "name": "Portuguese examples and toggle recording deliver the selected text",
+      "passed": true,
+      "ms": 1566
+    },
+    {
+      "name": "Keyboard hold and release work without a mouse",
+      "passed": true,
+      "ms": 1129
+    },
+    {
+      "name": "Focus leaving a held keyboard button cannot leave recording stuck",
+      "passed": true,
+      "ms": 1154
+    },
+    {
+      "name": "Reset cancels pending delivery with no late text or toast",
+      "passed": true,
+      "ms": 1668
+    },
+    {
+      "name": "Escape cancels recording and stale timer callbacks",
+      "passed": true,
+      "ms": 1322
+    },
+    {
+      "name": "Clipboard writes are opt-in and retain user edits",
+      "passed": true,
+      "ms": 1126
+    },
+    {
+      "name": "Clipboard refusal selects text and offers a manual copy fallback",
+      "passed": true,
+      "ms": 45
+    },
+    {
+      "name": "Toggle ignores Enter key auto-repeat and stops on the next press",
+      "passed": true,
+      "ms": 1125
+    },
+    {
+      "name": "Assistive-technology click can repeat an already completed demo",
+      "passed": true,
+      "ms": 5278
+    },
+    {
+      "name": "Late clipboard resolve cannot undo Reset or take focus",
+      "passed": true,
+      "ms": 88
+    },
+    {
+      "name": "Late clipboard reject cannot undo Reset or take focus",
+      "passed": true,
+      "ms": 67
+    },
+    {
+      "name": "Six complete catalogs preserve placeholders and readable copy",
+      "passed": true,
+      "ms": 15
+    },
+    {
+      "name": "en: full page, metadata, dynamic demo, mobile layout and persistence",
+      "passed": true,
+      "ms": 4196
+    },
+    {
+      "name": "pt: full page, metadata, dynamic demo, mobile layout and persistence",
+      "passed": true,
+      "ms": 4230
+    },
+    {
+      "name": "es: full page, metadata, dynamic demo, mobile layout and persistence",
+      "passed": true,
+      "ms": 4382
+    },
+    {
+      "name": "fr: full page, metadata, dynamic demo, mobile layout and persistence",
+      "passed": true,
+      "ms": 4265
+    },
+    {
+      "name": "it: full page, metadata, dynamic demo, mobile layout and persistence",
+      "passed": true,
+      "ms": 4071
+    },
+    {
+      "name": "de: full page, metadata, dynamic demo, mobile layout and persistence",
+      "passed": true,
+      "ms": 4183
+    },
+    {
+      "name": "Regional browser locale and disabled storage keep the selector usable",
+      "passed": true,
+      "ms": 1514
+    },
+    {
+      "name": "Desktop and mobile WCAG A/AA automated accessibility checks",
+      "passed": true,
+      "ms": 709
+    },
+    {
+      "name": "Windows hero/card and Linux choice navigate to the correct Drive file without JavaScript",
+      "passed": true,
+      "ms": 1318
+    },
+    {
+      "name": "Release metadata maps each platform to its Drive file and keeps checksums local",
+      "passed": true,
+      "ms": 31
+    },
+    {
+      "name": "WebGL-disabled fallback retains an operable demo",
+      "passed": true,
+      "ms": 1489
+    },
+    {
+      "name": "No-JavaScript mode keeps content and downloads available",
+      "passed": true,
+      "ms": 467
+    },
+    {
+      "name": "Touch input supports hold/release on mobile",
+      "passed": true,
+      "ms": 1423
+    },
+    {
+      "name": "Subdirectory deployment preserves modules, assets, and links",
+      "passed": true,
+      "ms": 417
+    },
+    {
+      "name": "No external requests, microphone use, page errors, or failed resources",
+      "passed": true,
+      "ms": 41
+    }
+  ]
+}
