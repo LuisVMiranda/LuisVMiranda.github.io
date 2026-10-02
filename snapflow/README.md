@@ -35,11 +35,11 @@ The existing Vite website configuration builds all three HTML entry points. Port
 
 ## Behavior and product accuracy
 
-The language toggle updates copy, metadata, image descriptions, and accessible names without losing demo selection or payment state. A fresh visit uses PT-BR regardless of browser language; a saved explicit English preference is honored. The existing photographer pages remain in Portuguese, and their English landing-page link is labeled accordingly.
+The language toggle updates copy, metadata, image descriptions, and accessible names without losing demo selection or payment state. A fresh visit uses PT-BR regardless of browser language; a saved explicit English preference is honored. The existing photographer pages remain in Portuguese and are preserved independently; the landing page does not link to them or to GitHub.
 
 The interactive demo is local only: it never calls the API, creates a payment, or submits customer data. Sample pricing is R$25 per photo, or R$20 each for three photos. Pix simulation unlocks selected samples; cash/card simulation requires a separate photographer approval. Sample downloads are actual local WebP assets. Real ZIP delivery is explained, not falsely simulated. All campaign photography is generated illustrative imagery.
 
-The getting-started CTA opens installation guidance with a link to the actual project README. There is no invented subscription, trial, contact address, or signup backend. Product descriptions follow the repository README and manifesto; no roadmap features are advertised as available.
+The getting-started CTA explains the planned hosted service: each photographer will have an account and a separate workspace for galleries, clients and sales. The FAQ describes browser access and managed infrastructure, with account access clearly marked as available at launch. The dialog links only to the interactive demo; there is no invented signup backend, subscription, trial or contact address.
 
 Images are local and compressed. Google Fonts supplies DM Sans and Manrope, with system font fallbacks if unavailable. No animation framework or additional package dependency was added. Motion respects `prefers-reduced-motion`; menus and modal support keyboard navigation and Escape.
 
@@ -76,3 +76,5 @@ The original `#1E90FF` blue remains a brand/focus accent. Text-specific blue and
 The selector follows the system by default, remembers explicit light/dark choices, responds to system changes in System mode, synchronizes across tabs, and works without localStorage. An early head script applies the preference before CSS paints. Theme controls and options are translated in PT-BR/English; theme changes do not rebuild the demo or reset a purchase selection. The original photographer portfolio retains its existing independent theme behavior.
 
 The dark hero uses `assets/hero-camera-dark.webp`, a coordinated imagegen edit of the existing composition. Both variants are local; CSS shows only the active theme’s image, including for assistive technology. The theme toggle does not dim or invert photographs.
+
+The closing ornament is an explicit SVG, not a Unicode emoji. On phones it sits above the copy in normal flow, so platform emoji rendering cannot obscure the heading or button. The sticky navigation uses an opaque theme surface for legibility over scrolling content.

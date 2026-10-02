@@ -16,9 +16,9 @@ export const english = {
   sceneNote: 'For schools, parks, graduations, and corporate events, too. One flow, so many possibilities.',
   faqEyebrow: 'BEFORE YOUR NEXT SHOT', faqTitle: 'A few things to know.', faqIntro: 'The details behind a smoother workflow.',
   closingEyebrow: 'MORE PRESENCE. LESS TO-DO.', closingLine1: 'Your vision makes the difference.', closingLine2: 'Give it a flow that keeps up.', closingCta: 'Get started with SnapFlow', closingNote: 'From photography to payment. From one sale to the next story.',
-  footerTagline: 'A good eye deserves a great flow.', footerPortfolio: 'View portfolio (PT)', footerHelp: 'FAQ', footerMade: 'Created in Brazil. Made for your next shot.', backTop: 'Back to top ↑',
-  closeLabel: 'Close', startEyebrow: 'YOUR NEXT STEP', startTitle: 'Let’s get your workflow moving.', startText: 'SnapFlow runs on your own setup. The project guide takes you from initial configuration to your first gallery.',
-  startItem1: 'Prepare Windows, Node.js, and PostgreSQL.', startItem2: 'Run the project’s guided installer.', startItem3: 'Set up your pricing, Pix, and public access.', startGuide: 'Open installation guide (PT)', startDemo: 'I’d like to explore the demo first',
+  footerTagline: 'A good eye deserves a great flow.', footerHelp: 'FAQ', footerMade: 'Created in Brazil. Made for your next shot.', backTop: 'Back to top ↑',
+  closeLabel: 'Close', startEyebrow: 'YOUR NEXT STEP', startTitle: 'Let’s get your workflow moving.', startText: 'We’re preparing SnapFlow as a service for photographers. At launch, you’ll have your own account and a dedicated workspace for your galleries, clients, and sales, separate from other photographers.',
+  startItem1: 'Access your account in a browser, on your phone or computer.', startItem2: 'Customize your branding, prices, and packages.', startItem3: 'Organize your photos and share your galleries with clients.', startDemo: 'Explore the demo',
 };
 
 export const content = {
@@ -47,7 +47,7 @@ export const content = {
       ['Como funcionam os pagamentos?', 'O Pix usa a integração com o Mercado Pago. Após a confirmação chegar ao SnapFlow, as fotos compradas são liberadas automaticamente. Dinheiro e cartão exigem aprovação explícita no painel; a cobrança no cartão é feita por fora do sistema.'],
       ['A entrega depende do WhatsApp?', 'Não. As fotos compradas ficam disponíveis para download na galeria, individualmente ou em ZIP. Você pode ativar avisos e o envio adicional dos originais pelo WhatsApp. Uma falha nesse canal não bloqueia o download.'],
       ['Posso usar minhas marcas e meus preços?', 'Sim. Configure pacotes, preços e descontos, use marcas d’água e overlays próprios e personalize os links. Você também controla a validade de acesso; o prazo padrão após o pagamento é de 7 dias e pode ser ajustado.'],
-      ['Do que preciso para começar?', 'A instalação atual usa Windows, Node.js e PostgreSQL. O projeto inclui um instalador guiado. Para Pix real, configure sua conta Mercado Pago e um webhook público. Para galerias acessíveis aos clientes, disponibilize o serviço na internet. Consulte o guia de instalação para todos os requisitos.'],
+      ['Do que preciso para começar?', 'Um celular ou computador com internet e suas fotos. Estamos preparando o serviço para que você acesse sua conta pelo navegador, com um espaço exclusivo para suas galerias, clientes e vendas. Nossa equipe cuidará da estrutura; você personalizará sua marca e seus preços. O acesso às contas será disponibilizado no lançamento. Enquanto isso, explore a demonstração nesta página.'],
     ],
     demo: {
       location: 'ALAGOAS, BRASIL', title: 'Um dia para guardar.', subtitle: 'Escolha os seus momentos favoritos.', badge: 'GALERIA DEMONSTRATIVA',
@@ -83,7 +83,7 @@ export const content = {
       ['How do payments work?', 'Pix, Brazil’s instant payment method, connects through Mercado Pago. Once confirmation reaches SnapFlow, purchased photos unlock automatically. Cash and card payments require explicit approval in the dashboard; card charges are processed outside SnapFlow.'],
       ['Does delivery depend on WhatsApp?', 'No. Purchased photos are available in the gallery, individually or as a ZIP. You can enable notifications and optional original-file delivery through WhatsApp. An issue with that channel never blocks gallery downloads.'],
       ['Can I use my own branding and prices?', 'Yes. Configure packages, prices, and discounts, add your watermarks and overlays, and personalize gallery links. You also control access expiration; the default post-payment window is 7 days and can be adjusted.'],
-      ['What do I need to get started?', 'The current installation runs on Windows, Node.js, and PostgreSQL. The project includes a guided installer. Real Pix payments require your Mercado Pago account and a public webhook. For client access, make your gallery service available online. See the installation guide for all requirements.'],
+      ['What do I need to get started?', 'A phone or computer with internet access and your photos. We’re preparing the service so you can sign in through your browser, with a dedicated workspace for your galleries, clients, and sales. Our team will handle the infrastructure; you’ll customize your branding and prices. Account access will be available at launch. In the meantime, explore the demo on this page.'],
     ],
     demo: {
       location: 'ALAGOAS, BRAZIL', title: 'A day to remember.', subtitle: 'Choose your favorite moments.', badge: 'DEMO GALLERY',

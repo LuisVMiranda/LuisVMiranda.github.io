@@ -20,7 +20,7 @@
   --link: #006bc9;
   --link-soft: #e5f1ff;
   --focus: #006bc9;
-  --header: #f6f8faf5;
+  --header: #f6f8fa;
   --shadow: #0b182a14;
   --decoration: #d7e6dc;
   --pending-bg: #fff2d2;
@@ -45,7 +45,7 @@
   --link: #4aa3ff;
   --link-soft: #142b42;
   --focus: #1e90ff;
-  --header: #121212f5;
+  --header: #121212;
   --shadow: #00000052;
   --decoration: #243c2d;
   --pending-bg: #382c12;
@@ -162,7 +162,29 @@ body { background: var(--paper); color: var(--ink); }
 .faq-list, .faq-list details { border-color: var(--line); }
 .faq-list summary::after { color: var(--link); }
 .closing { background: var(--surface-raised); border: 1px solid var(--line); }
-.closing-decoration { color: var(--decoration); }
+/* Explicit SVG avoids platform emoji artwork. Content always sits above it. */
+.closing { isolation: isolate; }
+.closing > :not(.closing-decoration) { position: relative; z-index: 1; }
+html .closing-decoration {
+  width: 300px;
+  height: 300px;
+  color: var(--decoration);
+  opacity: .55;
+  pointer-events: none;
+  z-index: 0;
+}
+@media (max-width: 650px) {
+  html .closing-decoration {
+    position: relative;
+    inset: auto;
+    display: block;
+    width: 48px;
+    height: 48px;
+    margin: 0 auto 24px;
+    color: var(--accent-text);
+    opacity: 1;
+  }
+}
 .start-dialog { background: var(--surface); color: var(--ink); border-color: var(--line); box-shadow: 0 25px 100px var(--shadow); }
 .start-dialog::backdrop { background: #080c12d9; }
 
