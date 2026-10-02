@@ -1,7 +1,7 @@
 # Website acceptance — 2026-10-02
 
-The complete static site is in this directory, including the actual Windows
-installer and Linux archive. It is ready to upload following `README.md`.
+The complete static site is in this directory. Windows and Linux download
+buttons point to Google Drive; only download metadata is hosted with the site.
 Public hosting was not part of this task and has not been published.
 
 ## Requirement evidence
@@ -12,10 +12,10 @@ Public hosting was not part of this task and has not been published.
 | Mira theme | Bundled Roboto, waveform branding, floating dictation pill, shortcut keycaps, tray/dictation workflow. Desktop and mobile screenshots visually inspected. |
 | Dynamic examples | Scripted English and Portuguese message/idea/note examples. Hold/release, keyboard activation, touch, toggle, timer, live preview, insertion, reset, and explicit copy tested. No microphone capture. |
 | Feature explanations | Local Whisper / API engine selector, six interface language previews, focus preservation, recording limits, clipboard recovery, setup instructions, and FAQs. Product claims checked against Mira source by independent reviewer. |
-| Downloads people can use | Windows and Linux binaries included locally. File sizes and SHA-256 match `downloads/release.json`. Browser downloaded the real Windows installer and verified its hash. Linux link responds with the complete archive size. No private GitHub links used as public downloads. |
+| Downloads people can use | The Windows hero/card and Linux card navigate to their respective Google Drive sharing pages, including without JavaScript. Browser navigation is verified using intercepted Drive destinations. Both actual sharing pages returned HTTP 200 without authentication and showed the expected filenames. Remote binary contents were not downloaded or rehashed. |
 | Six website languages | Top dropdown translates the full page, metadata, accessible labels, and live demo messages. All 180 catalog entries are present in every language. Browser locale detection and saved choice work; switching preserves edited text and recording state. |
 | Scroll to top | Minimal 44 px square up-arrow appears after scrolling 320 px. All six accessible labels, three viewport widths, keyboard activation and focus transfer to the header, mouse activation, smooth scrolling, and reduced motion passed browser checks. |
-| Deployment-ready folder | Zero runtime dependencies, external requests, or API keys. All 39 links/assets resolve. Root and `/mira/` subdirectory serving both pass. README documents hosting, MIME types, large-file requirements, and restoring ignored binaries from a fresh checkout. |
+| Deployment-ready folder | Zero runtime dependencies, external requests, or API keys. All 39 page links are local resources/anchors or the two declared Drive destinations. Root and `/mirastt/` subdirectory serving both pass. README documents static hosting and external downloads without bundled binaries. |
 
 ## Checks completed
 
@@ -28,7 +28,7 @@ Public hosting was not part of this task and has not been published.
   mobile widths. JavaScript-disabled pages retain information and downloads.
 - Clipboard writes require an explicit click. Rejected writes select the text
   for manual copying. Delayed results cannot override Reset or a newer recording.
-- No application page errors, failed resources, external HTTP requests, or
+- No application page errors, failed resources, automatic external HTTP requests, or
   microphone use during acceptance. Fonts and all translation catalogs are local.
 - Structural gates passed: all source files below **600 lines** (largest 469),
   cyclomatic complexity at most **10**, at most **5 parameters** per function,

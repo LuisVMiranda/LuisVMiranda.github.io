@@ -20,5 +20,5 @@ for (const artifact of release.artifacts) {
     await rm(temporary, { force: true });
   }
 }
-await verifyDownloads();
+await verifyDownloads({ local: true });
 console.log('Website downloads match the approved release manifest.');

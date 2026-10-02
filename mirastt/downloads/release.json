@@ -7,14 +7,16 @@
       "file": "Mira-Setup.exe",
       "bytes": 90276239,
       "sha256": "3442434edcc34c22a4bfc6776ce49edda3aaecb4adeddb29628582ac8fe84d66",
-      "requirements": "Windows 10 or newer, x64. Installer is unsigned."
+      "requirements": "Windows 10 or newer, x64. Installer is unsigned.",
+      "url": "https://drive.google.com/file/d/1VGaIit63rWNN1HW6XZC-vbfUmp1gaRSj/view?usp=sharing"
     },
     {
       "platform": "linux-x64",
       "file": "Mira-linux.tar.gz",
       "bytes": 189208690,
       "sha256": "6b8351ac058351fe3497e9efce724179ad66bd9fcb4625a0881b8962c2829462",
-      "requirements": "Desktop session with tray host. X11 tested; Wayland requires XWayland and GlobalShortcuts portal. Keep the complete extracted directory."
+      "requirements": "Desktop session with tray host. X11 tested; Wayland requires XWayland and GlobalShortcuts portal. Keep the complete extracted directory.",
+      "url": "https://drive.google.com/file/d/1-tH6MmVPzTqVhrS9xdHLvkw3N3PqHaxN/view?usp=sharing"
     }
   ],
   "ui_languages": [

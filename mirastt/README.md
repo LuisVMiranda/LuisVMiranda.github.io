@@ -2,7 +2,7 @@
 
 A complete static site: interactive WebGL dictation pill, hold/release and toggle
 workflow simulation, English/Portuguese examples, six-language interface preview,
-engine comparison, FAQs, and verified Windows/Linux downloads. Roboto and all
+engine comparison, FAQs, and Windows/Linux downloads hosted on Google Drive. Roboto and all
 assets are local. No analytics, cookies, CDN, API keys, or runtime dependencies.
 The header dropdown offers English, Brazilian Portuguese, Spanish, French,
 Italian, and German across the full page and live demo controls. It starts in the
@@ -29,19 +29,16 @@ browser ES modules require HTTP. Copy text needs HTTPS or localhost.
 3. Use `index.html` as the directory index. No SPA fallback, server application,
    environment variables, or build command is required. Relative links support
    either a domain root or a subdirectory (use a trailing slash).
-4. Ensure the host permits a **189,208,690-byte individual file** and about
-   **281 MB total**. Hosts with smaller limits need the two packages on object
-   storage; update all download links and keep `release.json` / checksums accurate.
-5. Serve `.js` as `text/javascript`, `.css` as `text/css`, `.ttf` as `font/ttf`,
-   `.exe` as `application/octet-stream`, and `.tar.gz` as `application/gzip`.
-   Do not apply HTTP `Content-Encoding: gzip` to the archive itself. Enable
-   byte-range responses on large downloads if your host supports them.
-6. Revalidate the public download links after deployment. The page uses bundled
-   downloads because this project's GitHub repository is private.
+4. Windows buttons open the Windows Google Drive sharing page; the Linux card
+   opens the Linux sharing page. Visitors download the file through Drive.
+   Keep both files shared with anyone who has the link. Drive may show its own
+   confirmation or download-limit notices.
+5. Only release metadata and checksums from `downloads/` need to be deployed.
+   Do not commit or upload the application binaries to GitHub Pages.
+6. Revalidate both public Drive links after deployment. The static page uses no
+   external runtime resources; Drive is contacted only when visitors follow a link.
 
 Do not upload `node_modules/`, `tools/`, `tests/`, or development package files.
-The existing local `downloads/` contains the actual installers, ready to upload.
-No deployment has been published automatically.
 
 Suggested response headers: `X-Content-Type-Options: nosniff`,
 `Referrer-Policy: strict-origin-when-cross-origin`, and
@@ -51,18 +48,14 @@ stable. Give font/icon files a longer cache lifetime if desired.
 
 ## Release files and Git
 
-Large application binaries are intentionally ignored by Git. A fresh checkout
-must restore them before deployment. With the matching app release in `../dist/`:
+The site does not require binaries in a fresh checkout. `npm run verify` checks
+the Drive URL metadata, checksum list, and page links. It does not download or
+hash remote Drive contents. The published hashes describe the validated Mira
+release; when replacing a Drive file, update its size/hash metadata too.
 
-```sh
-npm run sync-downloads
-npm run verify
-```
-
-Alternatively place the two release binaries in `downloads/` using their exact
-manifest filenames. Verification fails for missing or different files. To ship a
-new release, update the page version/size labels, `downloads/release.json`, and
-`downloads/checksums.txt` together, then run the full acceptance suite.
+To audit optional local binary copies, run `node tools/verify.mjs --local`.
+`npm run sync-downloads` remains an optional maintainer utility when matching
+build output is available in `../dist/`; it is not a deployment step.
 
 ## Acceptance tests
 
