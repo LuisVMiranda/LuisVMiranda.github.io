@@ -1,0 +1,227 @@
+/* Brand colors mirror src/styles/tokens-base.css. Semantic text variants provide
+   readable contrast without changing the app's action-green / link-blue identity. */
+:root {
+  color-scheme: light;
+  --brand-green: #00c851;
+  --brand-blue: #1e90ff;
+  --paper: #f6f8fa;
+  --surface: #ffffff;
+  --surface-raised: #edf1f5;
+  --ink: #161b22;
+  --muted: #535e6d;
+  --line: #cdd4dd;
+  --control-border: #778393;
+  --green: var(--brand-green);
+  --green-hover: #00b648;
+  --on-accent: #07120b;
+  --accent-text: #007b32;
+  --accent-soft: #e1f5e9;
+  --accent-border: #87be9b;
+  --link: #006bc9;
+  --link-soft: #e5f1ff;
+  --focus: #006bc9;
+  --header: #f6f8faf5;
+  --shadow: #0b182a14;
+  --decoration: #d7e6dc;
+  --pending-bg: #fff2d2;
+  --pending-text: #715000;
+  --lime: #a0eebf;
+  color: var(--ink);
+  background: var(--paper);
+}
+
+:root[data-theme='dark'] {
+  color-scheme: dark;
+  --paper: #121212;
+  --surface: #1e1e1e;
+  --surface-raised: #2a2a2a;
+  --ink: #ffffff;
+  --muted: #9ca3af;
+  --line: #41464e;
+  --control-border: #7d8796;
+  --accent-text: #00c851;
+  --accent-soft: #102c1c;
+  --accent-border: #35965b;
+  --link: #4aa3ff;
+  --link-soft: #142b42;
+  --focus: #1e90ff;
+  --header: #121212f5;
+  --shadow: #00000052;
+  --decoration: #243c2d;
+  --pending-bg: #382c12;
+  --pending-text: #ffd98a;
+}
+
+body { background: var(--paper); color: var(--ink); }
+::selection { background: var(--brand-green); color: var(--on-accent); }
+:focus-visible { outline-color: var(--focus); }
+.header { background: var(--header); border-color: var(--line); }
+.mobile-nav { background: var(--surface); }
+.menu-button span { background: var(--ink); }
+.desktop-links a:hover, .footer a:hover, .text-button:hover { color: var(--link); }
+.muted { color: var(--muted); }
+.dark, .skip-link { background: var(--brand-green); color: var(--on-accent); }
+.button.dark { border: 1px solid var(--accent-text); }
+.dark:hover:not(:disabled) { background: var(--green-hover); box-shadow: 0 6px 20px var(--shadow); }
+.button:disabled { opacity: 1; background: var(--surface-raised); color: var(--muted); }
+.status-dot, .float-dot { background: var(--brand-green); }
+.status-dot { box-shadow: 0 0 0 4px var(--accent-soft); }
+.hero h1 .serif, .closing h2 .serif { color: var(--accent-text); }
+.hero-spark { stroke: var(--accent-text); }
+.text-button .play { color: var(--link); border-color: var(--control-border); }
+.mini-aperture { color: var(--accent-text); }
+.orbit, .orbit-two { border-color: var(--line); opacity: .48; }
+.hero-image-dark { display: none; }
+[data-theme='dark'] .hero-image-light { display: none; }
+[data-theme='dark'] .hero-image-dark { display: block; mix-blend-mode: normal; }
+.float-card {
+  background: var(--surface);
+  border-color: var(--line);
+  box-shadow: 0 12px 30px var(--shadow);
+}
+.success-icon, .large-state-icon { background: var(--accent-soft); color: var(--accent-text); }
+.gallery-glyph { background: var(--link-soft); color: var(--link); }
+.strip-inner > div { color: var(--ink); }
+.strip-inner > div > span:first-child { color: var(--accent-text); }
+.steps article { border-color: var(--line); }
+.step-number { color: var(--link); }
+
+/* Secondary copy is consistently readable on every neutral surface. */
+.hero-description, .hero-note, .art-caption, .art-footnote,
+.float-card div > span, .strip-inner p, .section-intro, .steps p,
+.demo-location, .demo-gallery-heading p, .selection-status, .price-hint,
+.demo-checkout small, .payment-panel > p, .complete-panel > p,
+.payment-option small, .download-note, .card-kicker, .feature-card > p,
+.price-row small, .example-label, .delivery-message div > span,
+.scene-note, .faq-section > div > p:not(.eyebrow), .faq-list p,
+.closing-note, .footer-top > p, .footer-bottom,
+.start-dialog p:not(.eyebrow), .start-dialog ul {
+  color: var(--muted);
+}
+
+/* The workflow showcase keeps the app's charcoal frame in either theme. */
+.demo-section { background: #121212; color: #ffffff; }
+[data-theme='dark'] .demo-section { background: #181818; }
+.demo-section::after { border-color: #ffffff0c; }
+.light-eyebrow, .demo-copy h2 em { color: #00c851; }
+.light-eyebrow .status-dot { background: #00c851; box-shadow: none; }
+.demo-copy > p:not(.eyebrow), .demo-steps small { color: #b7c0cc; }
+.demo-copy .demo-disclaimer { color: #b7c0cc !important; }
+.demo-steps li { opacity: 1; }
+.demo-steps li > span { color: #b7c0cc; border-color: #7d8796; }
+.demo-steps li:not(:last-child)::after { background: #555e69; }
+.demo-steps li.active > span {
+  background: #00c851;
+  color: #07120b;
+  border-color: #00c851;
+}
+.demo-steps li.completed > span { color: #00c851; border-color: #00c851; }
+.demo-window { background: var(--surface); color: var(--ink); box-shadow: 0 28px 50px #00000040; }
+.window-bar { background: var(--surface-raised); color: var(--muted); border-color: var(--line); }
+.window-dots i, .window-dots i:first-child { background: var(--muted); }
+.demo-photo { background: var(--surface-raised); }
+.demo-photo[aria-pressed='true'] { border-color: var(--accent-text); }
+.photo-check { background: #ffffff; color: #161b22; }
+.demo-photo[aria-pressed='true'] .photo-check { background: #00c851; color: #07120b; }
+.selection-status span:last-child { background: var(--accent-soft); color: var(--accent-text); }
+.demo-checkout { border-color: var(--line); }
+.empty-hint { color: var(--accent-text); }
+.payment-option { border-color: var(--control-border); }
+.payment-option:has(input:checked) { border-color: var(--accent-text); background: var(--accent-soft); }
+.payment-option input { accent-color: var(--accent-text); }
+.payment-option > span:last-child { color: var(--link); }
+.pending-icon { color: var(--pending-text); background: var(--pending-bg); }
+.download-row { border-color: var(--line); }
+.download-row:hover { background: var(--accent-soft); }
+.download-row > span:last-child { color: var(--link); }
+.plain-button, .dialog-demo { color: var(--link); }
+
+.feature-visual { background: var(--surface-raised); }
+.stack-photo { border-color: var(--surface); box-shadow: 0 10px 20px var(--shadow); }
+.protect-pill, .delivery-message { background: var(--surface); color: var(--ink); box-shadow: 0 8px 20px var(--shadow); }
+.price-row { background: var(--surface); color: var(--ink); border-color: var(--line); }
+.price-row.highlighted { background: var(--accent-soft); color: var(--accent-text); border-color: var(--accent-border); box-shadow: 0 8px 15px var(--shadow); }
+.delivery-orbit { border-color: var(--accent-border); }
+.delivery-node {
+  background: linear-gradient(140deg, #00c851, #007b32);
+  color: #07120b;
+  border-color: #00c851;
+  box-shadow: 4px 8px 0 #084222, 9px 15px 18px var(--shadow);
+}
+.bar-chart { border-color: var(--line); }
+.bar-chart i { background: #68c28d; }
+.bar-chart i:nth-child(5n), .bar-chart i:nth-last-child(2) { background: #159e52; }
+.bar-chart i:nth-child(6n), .bar-chart i:last-child { background: #00c851; }
+.chart-label > span:last-child { color: var(--link); }
+
+.scene-overlay { background: linear-gradient(0deg, #090d13fa, #090d13b3 48%, #090d1300 85%); }
+.scene-tag { background: #121212b3; border-color: #ffffff80; }
+.scene p { color: #ffffff; }
+.scene a { color: #ffffff; border-color: #c8d0da; }
+.scene a:hover { color: #7ef0ad; }
+.faq-list, .faq-list details { border-color: var(--line); }
+.faq-list summary::after { color: var(--link); }
+.closing { background: var(--surface-raised); border: 1px solid var(--line); }
+.closing-decoration { color: var(--decoration); }
+.start-dialog { background: var(--surface); color: var(--ink); border-color: var(--line); box-shadow: 0 25px 100px var(--shadow); }
+.start-dialog::backdrop { background: #080c12d9; }
+
+/* Native select exposes all three modes to touch, keyboard, and assistive tech. */
+html .nav-actions { gap: 16px; }
+.language { white-space: nowrap; flex: none; }
+html .desktop-links { margin-left: 0; gap: 25px; }
+.theme-control {
+  display: flex;
+  align-items: center;
+  gap: 5px;
+  color: var(--muted);
+  border: 1px solid var(--control-border);
+  border-radius: 7px;
+  padding-left: 9px;
+  min-height: 38px;
+}
+.theme-control svg { flex: none; }
+.theme-control select {
+  min-height: 36px;
+  max-width: 90px;
+  color: var(--ink);
+  background: transparent;
+  border: 0;
+  padding: 5px 6px 5px 0;
+  font-size: 11px;
+  cursor: pointer;
+}
+.theme-control option { color: var(--ink); background: var(--surface); }
+.theme-control:focus-within { outline: 3px solid var(--focus); outline-offset: 3px; }
+.theme-control select:focus-visible { outline: none; }
+html .hero .eyebrow, html .section-top .eyebrow { font-size: 10px; }
+html .card-kicker, html .example-label, html .scene-tag,
+html .selection-status span:last-child { font-size: 10px; letter-spacing: .6px; }
+html .feature-card > p, html .steps p, html .section-intro { font-size: 13px; }
+html .demo-copy .demo-disclaimer { font-size: 10px !important; }
+html .price-row small, html .delivery-message div > span { font-size: 9px; }
+
+@media (max-width: 1100px) and (min-width: 901px) {
+  html .nav { gap: 18px; }
+  html .desktop-links { gap: 15px; font-size: 11px; }
+  html .nav-actions { gap: 12px; }
+}
+@media (max-width: 650px) {
+  html .nav { gap: 10px; }
+  html .nav-actions { gap: 10px; }
+  html .hero .eyebrow { font-size: 9px; letter-spacing: .8px; }
+  .theme-control { padding-left: 6px; min-height: 36px; }
+  .theme-control svg { display: none; }
+  .theme-control select { max-width: 78px; min-height: 34px; font-size: 10px; }
+  html .language { gap: 4px; }
+  html .language > span:first-child, html .language > span:last-child { display: none; }
+  html .menu-button { width: 31px; padding-inline: 5px; }
+  html .selection-status span:last-child { font-size: 8px; }
+  html .hero-note, html .closing-note, html .scene-note, html .footer-bottom { font-size: 11px; }
+}
+@media (max-width: 370px) {
+  html .nav-actions { gap: 7px; }
+  html .nav .logo { font-size: 20px; gap: 5px; }
+  html .nav .logo img { width: 25px; height: 25px; }
+  .theme-control select { max-width: 69px; font-size: 9px; }
+}
