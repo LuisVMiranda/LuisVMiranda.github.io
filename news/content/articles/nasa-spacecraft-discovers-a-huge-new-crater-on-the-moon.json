@@ -1,0 +1,66 @@
+{
+  "id": "nasa-spacecraft-discovers-a-huge-new-crater-on-the-moon",
+  "slug": "nasa-spacecraft-discovers-a-huge-new-crater-on-the-moon",
+  "section": "ciencia",
+  "secondarySections": [],
+  "publishedAt": "2026-09-16",
+  "publishedDate": "2026-09-16",
+  "updatedAt": "2026-09-25T11:01:22Z",
+  "sources": [
+    {
+      "name": "NASA Science — first-party factual source",
+      "url": "https://science.nasa.gov/solar-system/moon/nasas-moon-orbiter-spots-new-once-in-century-moon-crater/"
+    },
+    {
+      "name": "NASA Science — archived first-party copy captured 2026-09-22 21:41:04 UTC",
+      "url": "https://web.archive.org/web/20260922214104id_/https://science.nasa.gov/solar-system/moon/nasas-moon-orbiter-spots-new-once-in-century-moon-crater/"
+    },
+    {
+      "name": "PubMed — Science Advances article record/abstract: A new 222-m diameter lunar crater (primary crater study; DOI 10.1126/sciadv.aeh7812)",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42748243/"
+    },
+    {
+      "name": "PubMed — Science Advances article record/abstract: New lunar crater reveals extensive distal regolith modification (companion regolith study; DOI 10.1126/sciadv.aeh9568)",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42748253/"
+    }
+  ],
+  "rights": {
+    "mode": "original-report"
+  },
+  "translations": {
+    "pt-BR": {
+      "title": "Sonda da Nasa identifica nova cratera lunar após impacto",
+      "summary": "Imagens da Lunar Reconnaissance Orbiter revelaram uma cratera formada em 2024; medições também apontaram uma área fria no solo ao redor.",
+      "aiSummary": [
+        "A cratera se formou entre abril e maio de 2024, segundo a análise de imagens lunares da Nasa.",
+        "A estrutura tem 728 pés de largura e até 141 pés de profundidade.",
+        "O instrumento Diviner detectou uma área fria de cerca de quatro milhas de largura ao redor da cratera."
+      ],
+      "paragraphs": [
+        "Uma checagem rotineira da qualidade dos mapas lunares levou a equipe da Nasa a investigar uma marca clara cercada por uma região escura. Robert Wagner percebeu o padrão enquanto examinava os dados da Lunar Reconnaissance Orbiter, a sonda que observa a superfície da Lua.",
+        "Ao comparar imagens da mesma área feitas antes e depois, os pesquisadores identificaram uma cratera que não aparecia nos registros anteriores. As fotografias permitiram associar a estrutura a um impacto ocorrido na superfície lunar, em vez de uma formação antiga já conhecida.",
+        "A análise situa a formação entre 11 de abril e 22 de maio de 2024. Segundo a Nasa, o impacto veio de um cometa ou asteroide com dimensões equivalentes às de um prédio de três a seis andares.",
+        "A cratera recebeu o nome de Tom McGetchin, cientista pioneiro da exploração lunar. Ela mede 728 pés de diâmetro e chega a 141 pés de profundidade. A equipe estima que impactos dessa escala ocorram aproximadamente uma vez por século ou em intervalos ainda maiores; trata-se de uma estimativa, não de uma periodicidade observada.",
+        "O instrumento Diviner, também a bordo da LRO, encontrou uma área fria de aproximadamente quatro milhas de largura ao redor da cratera. À noite, a região fica cerca de 16 graus Fahrenheit mais fria do que o terreno próximo, uma diferença que os pesquisadores relacionam a mudanças na densidade do regolito.",
+        "A interpretação é que o impacto revolveu e soltou o solo lunar, alterando a forma como ele retém calor. A equipe aponta que essa textura pode afetar a interação das rodas de robôs com a superfície lunar."
+      ]
+    },
+    "en": {
+      "title": "NASA orbiter identifies a new crater on the Moon",
+      "summary": "Lunar Reconnaissance Orbiter images revealed a crater formed in 2024; measurements also found a cold area in the surrounding ground.",
+      "aiSummary": [
+        "NASA image analysis places the crater's formation between April and May 2024.",
+        "The structure is 728 feet wide and up to 141 feet deep.",
+        "The Diviner instrument detected a cold area about four miles wide around the crater."
+      ],
+      "paragraphs": [
+        "A routine quality check of lunar maps led NASA's team to investigate a bright mark surrounded by a darker area. Robert Wagner noticed the pattern while reviewing data from the Lunar Reconnaissance Orbiter, the spacecraft that observes the Moon's surface.",
+        "By comparing images of the same area taken before and after, researchers identified a crater absent from earlier records. The photographs allowed them to connect the feature to an impact on the lunar surface rather than to an older, already known formation.",
+        "The analysis places the crater's formation between April 11 and May 22, 2024. NASA describes the impactor as a comet or asteroid roughly the size of a three- to six-story building.",
+        "The crater was named for Tom McGetchin, a pioneering lunar scientist. It measures 728 feet across and reaches 141 feet deep. The team estimates that impacts of this scale occur about once a century or less often; this is an estimate, not an observed periodicity.",
+        "Diviner, an instrument aboard the LRO, found a cold area about four miles wide around the crater. At night, the area is roughly 16 degrees Fahrenheit cooler than nearby terrain, a difference researchers link to changes in the density of the lunar soil.",
+        "The interpretation is that the impact churned and loosened the lunar ground, changing how it retains heat. The team says this texture could affect how rover wheels interact with the lunar surface."
+      ]
+    }
+  }
+}

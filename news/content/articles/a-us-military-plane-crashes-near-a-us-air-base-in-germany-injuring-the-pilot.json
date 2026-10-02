@@ -1,0 +1,89 @@
+{
+  "id": "a-us-military-plane-crashes-near-a-us-air-base-in-germany-injuring-the-pilot",
+  "slug": "a-us-military-plane-crashes-near-a-us-air-base-in-germany-injuring-the-pilot",
+  "section": "mundo",
+  "secondarySections": [],
+  "publishedAt": "2026-09-22T00:00:00.000Z",
+  "publishedDate": "2026-09-22",
+  "updatedAt": "2026-09-24T17:45:13.603Z",
+  "sources": [
+    {
+      "name": "Associated Press",
+      "url": "https://apnews.com/article/germany-military-plane-crash-us-base-spangdahlem-abfd6a29c516766f5ee522cf5642edeb"
+    },
+    {
+      "name": "Deutsche Welle",
+      "url": "https://amp.dw.com/en/spangdahlem-germany-us-fighter-jet-crash/a-79376025"
+    }
+  ],
+  "rights": {
+    "mode": "original-report"
+  },
+  "translations": {
+    "pt-BR": {
+      "title": "Caça F-16 dos EUA cai perto de base na Alemanha; piloto é atendido",
+      "summary": "O avião ligado à 52ª Ala de Caça caiu em Spangdahlem; o piloto ejetou-se e recebeu atendimento, enquanto a causa era investigada.",
+      "aiSummary": [
+        "Um F-16 da 52ª Ala de Caça caiu em 22 de setembro na base de Spangdahlem, no oeste da Alemanha.",
+        "O piloto ejetou-se e recebeu atendimento médico, segundo a Força Aérea dos EUA.",
+        "As autoridades ainda investigavam a causa do acidente."
+      ],
+      "paragraphs": [
+        "Um avião militar dos Estados Unidos caiu perto da base aérea de Spangdahlem, no oeste da Alemanha, em 22 de setembro, e o piloto ficou ferido, informou a Associated Press. A aeronave era um caça F-16 Fighting Falcon ligado à 52ª Ala de Caça.",
+        "A base aérea informou que o piloto se ejetou e recebeu atendimento médico. O comunicado não detalhou a gravidade dos ferimentos, e as informações disponíveis na publicação não indicavam outros ocupantes da aeronave.",
+        "A queda ocorreu por volta das 14h30 no horário local, segundo a Força Aérea dos Estados Unidos. O distrito alemão onde fica a base informou que equipes de incêndio e emergência atenderam a ocorrência.",
+        "A causa do acidente permanecia sob investigação. A AP e a Deutsche Welle relataram que as autoridades não haviam estabelecido o que levou à queda; não há base para atribuí-la a falha técnica, ação externa ou treinamento.",
+        "Spangdahlem abriga unidades de F-16 que apoiam missões da Força Aérea dos EUA e da Otan. Esse contexto explica a relevância da instalação, mas não indica que o acidente tenha afetado operações militares mais amplas.",
+        "A Força Aérea mantém presença na base desde a década de 1950. Até a publicação das reportagens, o caso permanecia limitado a um acidente com um piloto ferido e uma investigação em andamento."
+      ]
+    },
+    "en": {
+      "title": "US F-16 crashes near air base in Germany; pilot receives medical care",
+      "summary": "The aircraft assigned to the 52nd Fighter Wing crashed at Spangdahlem; its pilot ejected and received care as the cause was investigated.",
+      "aiSummary": [
+        "An F-16 assigned to the 52nd Fighter Wing crashed at Spangdahlem in western Germany on September 22.",
+        "The pilot ejected and received medical care, according to the U.S. Air Force.",
+        "Authorities were still investigating the cause of the crash."
+      ],
+      "paragraphs": [
+        "A U.S. military aircraft crashed near Spangdahlem Air Base in western Germany on September 22, injuring the pilot, the Associated Press reported. The aircraft was an F-16 Fighting Falcon assigned to the 52nd Fighter Wing.",
+        "The air base said the pilot ejected and received medical care. Its statement did not detail the severity of the injuries, and information available at publication did not identify any other occupants.",
+        "The crash occurred at about 2:30 p.m. local time, according to the U.S. Air Force. The German district where the base is located said fire and emergency teams responded.",
+        "The cause remained under investigation. The AP and Deutsche Welle reported that authorities had not established what led to the crash; the available record does not support attributing it to a technical fault, outside action or training.",
+        "Spangdahlem hosts F-16 units that support U.S. Air Force and NATO missions. That context explains the installation’s significance but does not indicate that the incident affected broader military operations.",
+        "The U.S. Air Force has maintained a presence at the base since the 1950s. At the time of the reports, the case remained an aircraft accident involving an injured pilot and an ongoing investigation."
+      ]
+    }
+  },
+  "verification": {
+    "score": 9.1,
+    "checkedAt": "2026-09-24T14:23:42Z",
+    "checks": [
+      {
+        "provider": "Associated Press (primary report)",
+        "url": "https://apnews.com/article/germany-military-plane-crash-us-base-spangdahlem-abfd6a29c516766f5ee522cf5642edeb",
+        "finding": "supports",
+        "note": "Complete AP extraction supports the F-16/52nd Fighter Wing identification, pilot ejection and medical care, and ongoing investigation."
+      },
+      {
+        "provider": "Deutsche Welle",
+        "url": "https://amp.dw.com/en/spangdahlem-germany-us-fighter-jet-crash/a-79376025",
+        "finding": "supports",
+        "note": "Independent report corroborates the crash, pilot ejection and investigation; no cause is established."
+      },
+      {
+        "provider": "AFP Fact Check",
+        "url": "https://factcheck.afp.com/",
+        "finding": "no-match",
+        "note": "No direct fact-check of the Spangdahlem crash or pilot details found; neutral."
+      },
+      {
+        "provider": "Reuters Fact Check",
+        "url": "https://www.reuters.com/fact-check/",
+        "finding": "no-match",
+        "note": "No matching fact-check of this crash found; neutral, not evidence of truth."
+      }
+    ],
+    "caveat": "The AP report and independent DW coverage agree on the bounded facts. Both locales preserve the unresolved cause and do not infer a technical fault or broader military impact."
+  }
+}

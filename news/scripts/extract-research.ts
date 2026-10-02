@@ -1,6 +1,7 @@
 import { createHash } from 'node:crypto';
 import { mkdir, readFile, readdir, writeFile } from 'node:fs/promises';
 import { chromium, type Browser } from 'playwright';
+import { parseExtractionOptions } from '../src/modules/research/extraction-options';
 
 type Candidate = {
   url: string;
@@ -28,11 +29,8 @@ type Extraction = Candidate & {
 };
 
 const runDirectoryValue = process.argv[process.argv.indexOf('--run') + 1];
-const maxPerSection = Number(
-  process.argv[process.argv.indexOf('--max-per-section') + 1] || 24,
-);
-const concurrency = Number(
-  process.argv[process.argv.indexOf('--concurrency') + 1] || 8,
+const { maxPerSection, concurrency } = parseExtractionOptions(
+  process.argv.slice(2),
 );
 if (!runDirectoryValue) throw new Error('Usage: --run research/runs/RUN_ID');
 const runDirectory = runDirectoryValue;
@@ -269,6 +267,7 @@ async function extract(
   }
 }
 
+const startedAt = Date.now();
 const candidates = await readCandidates();
 const bySection = new Map<string, Candidate[]>();
 for (const candidate of candidates) {
@@ -314,6 +313,10 @@ for (const result of results) {
 }
 const summary = {
   runDirectory,
+  elapsedMs: Date.now() - startedAt,
+  maxPerSection,
+  concurrency,
+  selectedCandidates: selected.length,
   attempted: results.length,
   complete: results.filter((result) => result.complete).length,
   rejected: results.filter((result) => !result.complete).length,

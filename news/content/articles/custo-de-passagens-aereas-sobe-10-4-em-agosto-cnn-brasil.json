@@ -1,0 +1,67 @@
+{
+  "id": "custo-de-passagens-aereas-sobe-10-4-em-agosto-cnn-brasil",
+  "slug": "custo-de-passagens-aereas-sobe-10-4-em-agosto-cnn-brasil",
+  "section": "economia",
+  "secondarySections": [],
+  "publishedAt": "2026-09-22T12:48:55-03:00",
+  "updatedAt": "2026-09-25T12:10:18Z",
+  "sources": [
+    {
+      "name": "CNN Brasil",
+      "url": "https://www.cnnbrasil.com.br/infra/custo-de-passagens-aereas-sobe-104-em-agosto/"
+    },
+    {
+      "name": "Agência Nacional de Aviação Civil (Anac) — DataSAS",
+      "url": "https://sas.anac.gov.br/sas/downloads/view/frmDownload.aspx?tema=14"
+    },
+    {
+      "name": "Exame",
+      "url": "https://exame.com/economia/passagens-aereas-ficam-145-mais-caras-em-um-ano-veja-valores/"
+    },
+    {
+      "name": "Agência Nacional de Aviação Civil (ANAC) — painel de tarifas domésticas",
+      "url": "https://anac-geac.link/BI-tarifas"
+    },
+    {
+      "name": "Agência Nacional do Petróleo, Gás Natural e Biocombustíveis (ANP) — preços mensais de distribuição de combustíveis de aviação",
+      "url": "https://www.gov.br/anp/pt-br/assuntos/precos-e-defesa-da-concorrencia/precos/pdc/mensal/combustiveis-aviacao-brasil.xlsx"
+    }
+  ],
+  "rights": {
+    "mode": "original-report"
+  },
+  "translations": {
+    "pt-BR": {
+      "title": "Tarifa doméstica nominal sobe 10,4% em agosto, em recálculo da Anac",
+      "summary": "Ponderada por assentos, a tarifa nominal chegou a R$ 776,87 por trecho em agosto; a comparação anual usa a série corrigida pelo IPCA.",
+      "aiSummary": [
+        "Recomposição nominal do DataSAS ponderada por assentos: R$ 703,52 em julho e R$ 776,87 em agosto (+10,4%); CNN citou R$ 703,47 para julho.",
+        "Os valores do DataSAS são nominais; a comparação de +14,5% ante ago/2025 vem do painel da Anac, com valores corrigidos pelo IPCA e expressos em preços de ago/2025. Referência é a compra, por trecho doméstico.",
+        "Em agosto, 34,7% dos assentos ficaram abaixo de R$ 500; CNN informou 34,8%. ANP registra QAV de distribuição a R$ 5,95/l, ante R$ 4,98/l no painel Anac; escopos distintos, sem inferência causal."
+      ],
+      "paragraphs": [
+        "Uma recomposição dos arquivos oficiais DataSAS da Agência Nacional de Aviação Civil (Anac), ponderada pelo número de assentos, estima em R$ 776,87 a tarifa doméstica nominal média por trecho em agosto de 2026, ante R$ 703,52 em julho. A variação entre os valores não arredondados é de 10,4%; a CNN Brasil publicou R$ 703,47 para julho.",
+        "Os valores recalculados do DataSAS são nominais, sem correção pela inflação: usam a tarifa de cada registro ponderada pelo número de assentos associados. O mês de referência é o da compra do bilhete, não o da viagem; a série cobre tarifas domésticas por trecho e exclui taxas de embarque e serviços opcionais, como bagagem despachada e escolha de assento.",
+        "A comparação anual divulgada pela CNN usa outra base: o painel de tarifas da Anac apresenta os valores corrigidos pelo IPCA e expressos em preços de agosto de 2025. Nessa série, a média de agosto ficou 14,5% acima da de agosto de 2025. A CNN também informou que, em julho, a tarifa estava 5,2% abaixo da de julho do ano anterior.",
+        "Na distribuição por faixa de preço do arquivo DataSAS de agosto, 34,7% dos assentos correspondem a tarifas inferiores a R$ 500 e 9,2% a tarifas superiores a R$ 1,5 mil. A CNN Brasil publicou 34,8% abaixo de R$ 500, diferença de 0,1 ponto percentual; o arquivo de julho registra 45,4% abaixo desse limite.",
+        "As séries de querosene de aviação (QAV) também têm escopos distintos. A série mensal preliminar da ANP para o preço médio ponderado nacional de distribuição registra R$ 5,75 por litro em julho e R$ 5,95 em agosto, incluindo impostos e frete. A CNN publicou R$ 4,89 em julho e R$ 4,98 em agosto; o painel da Anac também exibe R$ 4,98 por litro para agosto. As definições não são reconciliadas aqui, e esses dados não demonstram que o QAV causou a alta das passagens."
+      ]
+    },
+    "en": {
+      "title": "Brazil's nominal average domestic airfare rises 10.4% in August",
+      "summary": "A seat-weighted recalculation puts the nominal August fare at R$776.87 per segment; the annual comparison uses ANAC's IPCA-adjusted series.",
+      "aiSummary": [
+        "A nominal, seat-weighted DataSAS recomputation gives R$703.52 in July and R$776.87 in August (+10.4%); CNN Brasil cited R$703.47 for July.",
+        "The DataSAS values are nominal; the 14.5% year-on-year comparison comes from ANAC's dashboard, with values adjusted by IPCA and expressed in August 2025 prices. Reference month is ticket purchase, per domestic segment.",
+        "In August, 34.7% of seats had fares below R$500; CNN reported 34.8%. ANP's distribution QAV price was R$5.95/L, versus R$4.98/L on ANAC's panel; scopes differ and do not establish causation."
+      ],
+      "paragraphs": [
+        "A seat-weighted recomputation of the National Civil Aviation Agency (ANAC) DataSAS files estimates the nominal average domestic fare at R$776.87 per segment in August 2026, from R$703.52 in July. The increase between the unrounded values is 10.4%; CNN Brasil cited R$703.47 for July.",
+        "The recomputed DataSAS values are nominal, not adjusted for inflation: each recorded fare is weighted by its associated seat count. The reference month is when a ticket is purchased, not when travel takes place; the series covers domestic fares per segment and excludes airport fees and optional services such as checked baggage and seat selection.",
+        "CNN's year-on-year comparison uses a different basis: ANAC's fare dashboard reports IPCA-adjusted values expressed in August 2025 prices. In that series, the August average was 14.5% above August 2025. CNN also reported that July's fare was 5.2% below July 2025.",
+        "In the August DataSAS file, 34.7% of seats were attached to fares below R$500 and 9.2% to fares above R$1,500. CNN Brasil reported 34.8% below R$500, a 0.1 percentage-point difference; the July file gives 45.4% below that threshold.",
+        "The aviation-kerosene (QAV) series also have distinct scopes. ANP's preliminary monthly series for Brazil's volume-weighted average distribution price lists R$5.75 per liter in July and R$5.95 in August, including taxes and freight. CNN published R$4.89 for July and R$4.98 for August; ANAC's panel also displays R$4.98 per liter for August. The definitions are not reconciled here, and these figures do not show that QAV caused the airfare increase."
+      ]
+    }
+  }
+}

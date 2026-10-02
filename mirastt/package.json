@@ -1,0 +1,21 @@
+{
+  "name": "mira-stt-website",
+  "version": "0.3.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "dev": "node tools/serve.mjs",
+    "verify": "node tools/verify.mjs",
+    "quality": "node tools/quality.mjs",
+    "sync-downloads": "node tools/sync-downloads.mjs",
+    "test": "node tests/acceptance.mjs"
+  },
+  "devDependencies": {
+    "axe-core": "4.10.3",
+    "playwright": "1.62.1",
+    "prettier": "3.6.2"
+  },
+  "engines": {
+    "node": ">=20"
+  }
+}

@@ -1,0 +1,111 @@
+{
+  "id": "unmasking-zombie-cells-in-aging-tissue-with-an-ai-powered-barcode",
+  "slug": "unmasking-zombie-cells-in-aging-tissue-with-an-ai-powered-barcode",
+  "section": "ciencia",
+  "secondarySections": [],
+  "publishedAt": "2026-09-21T09:00:00Z",
+  "publishedDate": "2026-09-21",
+  "updatedAt": "2026-09-24T17:45:13.603Z",
+  "sources": [
+    {
+      "name": "MIT News",
+      "url": "https://news.mit.edu/2026/unmasking-zombie-cells-aging-tissue-ai-powered-barcode-0921"
+    },
+    {
+      "name": "Nature Aging",
+      "url": "https://doi.org/10.1038/s43587-026-01219-7"
+    }
+  ],
+  "rights": {
+    "mode": "original-report"
+  },
+  "translations": {
+    "pt-BR": {
+      "title": "Método combina imagem Raman e expressão gênica para mapear células senescentes",
+      "summary": "Em camundongos, a técnica RamanOmics identificou padrões em pele e pulmão, mas o estudo exploratório incluiu apenas três animais por faixa etária; qualquer uso em pessoas ainda é prospectivo.",
+      "aiSummary": [
+        "O estudo combinou microscopia Raman e dados de expressão gênica para caracterizar células senescentes.",
+        "Os testes analisaram pele e pulmão de apenas três camundongos jovens e três idosos; os achados são exploratórios.",
+        "A análise de uma amostra de cerca de 1 mm² ainda leva aproximadamente 30 horas."
+      ],
+      "paragraphs": [
+        "Células senescentes deixam de se dividir, mas permanecem no tecido e podem alterar seu ambiente. Elas também têm funções normais, como participar do desenvolvimento e da regeneração; portanto, não são simplesmente células doentes. A equipe do MIT buscou caracterizá-las com mais de um tipo de sinal biológico.",
+        "O estudo publicado em Nature Aging combinou microscopia Raman, que registra sinais relacionados à composição química sem destruir a amostra, com dados de expressão gênica. A integração, chamada RamanOmics pelos pesquisadores, relaciona padrões espectrais a características moleculares e à localização das células no tecido. O objetivo é reconhecer assinaturas que uma técnica isolada poderia não revelar.",
+        "A equipe analisou pele e pulmão de camundongos de dois e 26 meses de idade, com apenas três animais em cada faixa etária; por isso, os achados são exploratórios e precisam ser validados em amostras maiores. Em tecidos mais velhos, encontrou aumento de sinais associados à síntese e ao acúmulo de lipídios; os autores disseram que ainda não sabem o que essa alteração significa para a fisiologia celular. As amostras também mostraram diferenças específicas de cada tecido.",
+        "Na pele, algumas assinaturas de células senescentes se relacionaram a vias de remodelação de colágeno e matriz extracelular. No pulmão envelhecido, os pesquisadores observaram maior atividade de genes ligados à resposta imune e à inflamação. Esses são resultados de perfil molecular em camundongos, não diagnósticos de uma doença nem demonstração de que essas mudanças causem um quadro clínico específico.",
+        "A combinação de picos Raman e assinaturas gênicas produziu um código de identificação que pode orientar análises futuras. Por enquanto, processar cerca de um milímetro quadrado de tecido leva aproximadamente 30 horas, e o grupo trabalha em um sistema mais rápido. A possibilidade de examinar tecido humano ou usar um endoscópio é prospectiva: o estudo não testou triagem clínica nem confirmou desempenho em pacientes."
+      ]
+    },
+    "en": {
+      "title": "Method combines Raman imaging and gene expression to map senescent cells",
+      "summary": "In mice, RamanOmics identified patterns in skin and lung, but the exploratory study included only three animals per age group; any use in people remains prospective.",
+      "aiSummary": [
+        "The study combined Raman microscopy and gene-expression data to characterize senescent cells.",
+        "Tests analyzed skin and lung from only three young and three old mice; the findings are exploratory.",
+        "Analyzing a sample of about 1 mm² still takes approximately 30 hours."
+      ],
+      "paragraphs": [
+        "Senescent cells stop dividing but remain in tissue and can alter their surroundings. They also have normal roles, including in development and regeneration, so they are not simply diseased cells. The MIT team set out to characterize them using more than one type of biological signal.",
+        "The study published in Nature Aging combined Raman microscopy, which records signals related to chemical composition without destroying a sample, with gene-expression data. The researchers call the integration RamanOmics; it links spectral patterns with molecular features and cells’ locations in tissue. The aim is to recognize signatures that a single technique might miss.",
+        "The team analyzed skin and lung tissue from mice aged two and 26 months, with only three animals in each age group; the findings are therefore exploratory and need validation in larger samples. In older tissue, it found increased signals associated with lipid synthesis and accumulation; the authors said they do not yet know what that change means for cell physiology. The samples also showed tissue-specific differences.",
+        "In skin, some senescent-cell signatures were associated with pathways that remodel collagen and the extracellular matrix. In aged lung, researchers observed greater activity in genes related to immune response and inflammation. These are molecular profiling results in mice, not diagnoses of disease or proof that the changes cause a particular clinical condition.",
+        "Combining Raman peaks with gene signatures produced an identification barcode that may guide future analyses. For now, processing about one square millimeter of tissue takes roughly 30 hours, and the group is working on a faster system. Examining human tissue or using an endoscope remains prospective: the study did not test clinical screening or establish performance in patients."
+      ]
+    }
+  },
+  "verification": {
+    "score": 8.3,
+    "checkedAt": "2026-09-24T16:02:39Z",
+    "checks": [
+      {
+        "provider": "Nature Aging",
+        "url": "https://doi.org/10.1038/s43587-026-01219-7",
+        "finding": "context",
+        "note": "The paper supports the RamanOmics Raman/gene-expression barcode and mouse skin/lung profiling (n=3 per age: 2 and 26 months); it has no human clinical validation. The abstract emphasizes lung ECM/TGF-β signaling and skin epidermal differentiation, while results also report ECM-remodeling genes in particular senescent skin IFE subtypes and collagen-linked Raman correlations. The article's skin collagen/ECM sentence follows MIT News but compresses distinct findings."
+      },
+      {
+        "provider": "MIT News",
+        "url": "https://news.mit.edu/2026/unmasking-zombie-cells-aging-tissue-ai-powered-barcode-0921",
+        "finding": "supports",
+        "note": "The complete saved institutional capture supports the combined Raman and gene-expression method, mouse-only experiments, roughly 30-hour processing per 1 mm² sample, and human tissue/endoscope use as future work rather than tested clinical performance. Its skin collagen/ECM wording is the source of the article's phrasing, not an independent replication."
+      },
+      {
+        "provider": "Aos Fatos",
+        "url": "https://www.aosfatos.org/",
+        "finding": "no-match",
+        "note": "Targeted Portuguese variants for RamanOmics, senescent cells and mouse-tissue findings found no relevant fact-check. Neutral; no-match is not evidence of truth."
+      },
+      {
+        "provider": "Agência Lupa",
+        "url": "https://www.agencialupa.org/",
+        "finding": "no-match",
+        "note": "Targeted Portuguese variants for RamanOmics, senescent cells and mouse-tissue findings found no relevant fact-check. Neutral; no-match is not evidence of truth."
+      },
+      {
+        "provider": "Projeto Comprova",
+        "url": "https://projetocomprova.com.br/",
+        "finding": "no-match",
+        "note": "Targeted Portuguese variants for RamanOmics, senescent cells and mouse-tissue findings found no relevant fact-check. Neutral; no-match is not evidence of truth."
+      },
+      {
+        "provider": "AFP Fact Check",
+        "url": "https://factcheck.afp.com/",
+        "finding": "no-match",
+        "note": "Targeted English variants for RamanOmics, senescent cells and mouse-tissue findings found no relevant fact-check. Neutral; no-match is not evidence of truth."
+      },
+      {
+        "provider": "Reuters Fact Check",
+        "url": "https://www.reuters.com/fact-check/",
+        "finding": "no-match",
+        "note": "Targeted English variants for RamanOmics, senescent cells and mouse-tissue findings found no relevant fact-check. Neutral; no-match is not evidence of truth."
+      },
+      {
+        "provider": "Full Fact",
+        "url": "https://fullfact.org/",
+        "finding": "no-match",
+        "note": "Targeted English variants for RamanOmics, senescent cells and mouse-tissue findings found no relevant fact-check. Neutral; no-match is not evidence of truth."
+      }
+    ],
+    "caveat": "The study is exploratory and limited to three mice per age group; no human tissue cohort, clinical screening or patient diagnostic performance was tested. The copy correctly presents human use as prospective. Its skin collagen/ECM phrasing follows MIT News and should be read with the paper's tissue-specific distinctions. Confidence is an editorial estimate based on checked evidence, not a calibrated probability or guarantee."
+  }
+}

@@ -2,6 +2,7 @@ import { readdir, readFile } from 'node:fs/promises';
 import path from 'node:path';
 import { articleSchema, approvalSchema, editionSchema } from './schema';
 import { isApproved, validateCatalog } from '../editions/integrity';
+import { sections } from './sections';
 import type { Article, Edition } from './types';
 
 async function readJson(file: string): Promise<unknown> {
@@ -29,11 +30,19 @@ export async function loadCatalog(
     .sort((a, b) => b.cutoff.localeCompare(a.cutoff));
   validateCatalog(articles, editions);
   if (preview) return { articles, editions };
+  const editorialManifests: Record<string, unknown> = Object.fromEntries(
+    await Promise.all(
+      sections.map(async ({ id }) => [
+        id,
+        await readJson(`research/editorial/${id}.json`),
+      ]),
+    ),
+  );
   const approval = approvalSchema
     .nullable()
     .parse(await readJson('content/approval.json'));
   if (!articles.length && !editions.length) return { articles, editions };
-  if (!isApproved(articles, editions, approval))
+  if (!isApproved(articles, editions, approval, editorialManifests))
     return { articles: [], editions: [] };
   return { articles, editions };
 }

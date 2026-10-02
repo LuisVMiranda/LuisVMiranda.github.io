@@ -1,0 +1,104 @@
+{
+  "id": "jean-drosny-pede-confianca-e-ve-jogo-em-limeira-como-final-para-o-paysandu",
+  "slug": "jean-drosny-pede-confianca-e-ve-jogo-em-limeira-como-final-para-o-paysandu",
+  "section": "esportes",
+  "secondarySections": [],
+  "publishedAt": "2026-09-22T19:02:00-03:00",
+  "updatedAt": "2026-09-24T17:45:13.603Z",
+  "sources": [
+    {
+      "name": "O Liberal",
+      "url": "https://www.oliberal.com/esportes/paysandu/jean-drosny-pede-confianca-e-ve-jogo-em-limeira-como-final-para-o-paysandu-1.1171964"
+    },
+    {
+      "name": "GE",
+      "url": "https://ge.globo.com/pa/futebol/times/paysandu/noticia/2026/09/22/drosny-pede-voto-de-confianca-a-torcida-do-paysandu-nao-desacreditem-da-gente.ghtml"
+    }
+  ],
+  "rights": {
+    "mode": "original-report"
+  },
+  "translations": {
+    "pt-BR": {
+      "title": "Drosny pede confiança antes de duelo decisivo do Paysandu em Limeira",
+      "summary": "Goleiro voltou ao time no empate por 2 a 2 com a Inter e classificou o próximo jogo como uma decisão para a briga pelo acesso.",
+      "aiSummary": [
+        "Jean Drosny voltou ao gol do Paysandu no empate por 2 a 2 com a Inter de Limeira, em 20 de setembro.",
+        "O Paysandu tinha um ponto após três jogos no Grupo C do quadrangular de acesso da Série C.",
+        "A próxima partida está marcada para 26 de setembro, às 19h30, em Limeira."
+      ],
+      "paragraphs": [
+        "Jean Drosny voltou a defender o gol do Paysandu em 20 de setembro, quase cinco meses depois de sua última partida, no empate por 2 a 2 com a Inter de Limeira, na Curuzu. O goleiro entrou no time após Gabriel Mesquita ser vetado por causa de uma lombalgia, segundo o GE.",
+        "O empate ocorreu pela terceira rodada do quadrangular de acesso da Série C. Ao fim dos três jogos, o Paysandu tinha um ponto e ocupava a última posição do Grupo C; a publicação do GE também registrou um jejum de quatro partidas sem vitória.",
+        "Drosny afirmou que a preparação nos treinos o ajudou a responder quando recebeu a oportunidade de jogar. Ele disse estar frustrado com o empate sofrido no fim da partida, mas descreveu o elenco como motivado para continuar na disputa.",
+        "O goleiro pediu apoio à torcida e tratou o confronto seguinte como uma final em sentido figurado. Sua avaliação era de que uma vitória manteria o Paysandu na disputa pelo acesso; não era uma decisão oficial do torneio nem garantia de classificação.",
+        "A equipe voltaria a enfrentar a Inter de Limeira no sábado, 26 de setembro, às 19h30, no Estádio Major José Levy Sobrinho, em Limeira, pela quarta rodada do grupo. O jogo estava no calendário futuro no corte desta edição."
+      ]
+    },
+    "en": {
+      "title": "Drosny calls for confidence before Paysandu's decisive Limeira match",
+      "summary": "The goalkeeper returned in a 2-2 draw with Inter and described the next game as pivotal to the promotion race.",
+      "aiSummary": [
+        "Jean Drosny returned in goal for Paysandu in a 2-2 draw with Inter de Limeira on September 20.",
+        "Paysandu had one point after three matches in Group C of Série C's promotion quadrangular.",
+        "The next match was scheduled for September 26 at 7:30 p.m. in Limeira."
+      ],
+      "paragraphs": [
+        "Jean Drosny returned in goal for Paysandu on September 20, nearly five months after his previous appearance, in a 2-2 draw with Inter de Limeira at Curuzu. The goalkeeper started after Gabriel Mesquita was ruled out with lower-back pain, GE reported.",
+        "The draw came in the third round of Série C's promotion quadrangular. After three matches, Paysandu had one point and sat last in Group C; GE also reported a four-match winless run.",
+        "Drosny said his training had helped him respond when he got the chance to play. He said he was frustrated by the late equalizer but described the squad as motivated to continue the campaign.",
+        "The goalkeeper asked supporters to stand by the team and called the next fixture a final in a figurative sense. He believed a win would keep Paysandu in the promotion race; it was not an official tournament final or a guarantee of qualification.",
+        "Paysandu was due to meet Inter de Limeira again on Saturday, September 26, at 7:30 p.m. at Major José Levy Sobrinho Stadium in Limeira, in the group's fourth round. The match was still in the future at this edition's cutoff."
+      ]
+    }
+  },
+  "verification": {
+    "score": 8.8,
+    "checkedAt": "2026-09-24T15:59:13Z",
+    "checks": [
+      {
+        "provider": "Aos Fatos",
+        "url": "https://www.aosfatos.org/",
+        "finding": "no-match",
+        "note": "Exact-name/fixture searches for Jean Drosny, Paysandu, and Inter de Limeira found no relevant fact-check. Neutral."
+      },
+      {
+        "provider": "Agência Lupa",
+        "url": "https://www.agencialupa.org/",
+        "finding": "no-match",
+        "note": "No claim-specific check found; unrelated results containing 'Jean' were excluded. Neutral."
+      },
+      {
+        "provider": "Projeto Comprova",
+        "url": "https://projetocomprova.com.br/",
+        "finding": "no-match",
+        "note": "No fact-check of the Drosny quote, match, or group position found. Neutral."
+      },
+      {
+        "provider": "AFP Fact Check",
+        "url": "https://factcheck.afp.com/",
+        "finding": "no-match",
+        "note": "No relevant international fact-check found for this Série C story. Neutral."
+      },
+      {
+        "provider": "Reuters Fact Check",
+        "url": "https://www.reuters.com/fact-check/",
+        "finding": "no-match",
+        "note": "No relevant check found for the player, result, or fixture. Neutral."
+      },
+      {
+        "provider": "Full Fact",
+        "url": "https://fullfact.org/",
+        "finding": "no-match",
+        "note": "No relevant check found for the named player or match. Neutral."
+      },
+      {
+        "provider": "GE",
+        "url": "https://ge.globo.com/pa/futebol/times/paysandu/noticia/2026/09/22/drosny-pede-voto-de-confianca-a-torcida-do-paysandu-nao-desacreditem-da-gente.ghtml",
+        "finding": "supports",
+        "note": "GE independently confirms the 2–2 draw, Drosny's return after Gabriel Mesquita was ruled out with lombalgia, Paysandu's one point after three group matches, and the September 26 fixture."
+      }
+    ],
+    "caveat": "O Liberal and GE agree on the match/group facts. The injury detail is attributed to GE, and 'final' is clearly a figurative player quote, not the tournament final or a guarantee of qualification; the next game was still future at cutoff."
+  }
+}

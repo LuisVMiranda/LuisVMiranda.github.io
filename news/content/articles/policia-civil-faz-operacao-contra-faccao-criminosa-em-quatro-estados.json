@@ -1,0 +1,61 @@
+{
+  "id": "policia-civil-faz-operacao-contra-faccao-criminosa-em-quatro-estados",
+  "slug": "policia-civil-faz-operacao-contra-faccao-criminosa-em-quatro-estados",
+  "section": "brasil",
+  "secondarySections": [],
+  "publishedAt": "2026-09-22T10:55:00-03:00",
+  "updatedAt": "2026-09-25T12:26:40Z",
+  "sources": [
+    {
+      "name": "Agência Brasil",
+      "url": "https://agenciabrasil.ebc.com.br/geral/noticia/2026-09/policia-civil-faz-operacao-contra-faccao-criminosa-em-quatro-estados"
+    },
+    {
+      "name": "CNN Brasil",
+      "url": "https://www.cnnbrasil.com.br/nacional/sudeste/rj/operacao-mira-canal-de-drogas-do-comando-vermelho-em-quatro-estados/"
+    }
+  ],
+  "rights": {
+    "mode": "original-report"
+  },
+  "translations": {
+    "pt-BR": {
+      "title": "Operação Ícarus investiga rota de drogas em quatro estados",
+      "summary": "A Polícia Civil do Rio coordenou mandados em quatro estados contra um suposto canal de fornecimento de drogas; os detalhes e prisões são atribuídos às autoridades.",
+      "aiSummary": [
+        "A Operação Ícarus cumpriu mandados no Rio de Janeiro, São Paulo, Minas Gerais e Alagoas contra um suposto esquema de fornecimento de drogas.",
+        "A Agência Brasil informou seis prisões até as 6h30 de 22 de setembro; esse número é um registro com horário, não um balanço final.",
+        "Segundo a Polícia Civil, empresas de transporte e logística teriam sido usadas no envio de drogas entre São Paulo e Rio; investigadores atribuíram ao grupo operações financeiras atípicas de cerca de R$ 70 milhões em curto período.",
+        "As pessoas citadas são investigadas ou acusadas; a operação não equivale a condenação."
+      ],
+      "paragraphs": [
+        "A Polícia Civil do Rio de Janeiro iniciou em 22 de setembro a Operação Ícarus, com mandados em quatro estados. Segundo as autoridades, a ação investigava um suposto canal de fornecimento de drogas para uma das principais facções criminosas do Rio.",
+        "As diligências envolviam Rio de Janeiro, São Paulo, Minas Gerais e Alagoas. A reportagem da Agência Brasil informou que as polícias civis dos quatro estados participavam do cumprimento dos mandados e que corregedorias da Polícia Militar e da Polícia Penal do Rio davam apoio à operação.",
+        "A Agência Brasil registrou seis prisões até as 6h30 daquele dia, entre elas a de um homem apontado pela investigação como articulador central. Em cobertura separada, a CNN Brasil também informou seis presos; o registro com horário citado aqui é o da Agência Brasil, e o número não é apresentado como balanço final.",
+        "De acordo com a Polícia Civil, o esquema investigado teria uma divisão de tarefas entre liderança, operadores logísticos, transportadores, responsáveis por cobranças e recolhimento de valores e pessoas interpostas. Essas descrições são atribuídas aos investigadores, não a uma decisão judicial definitiva.",
+        "A polícia relacionou à investigação duas apreensões feitas em 2024: cerca de 715 quilos de cocaína e maconha em Guarulhos, em São Paulo, e 73,8 quilos de cocaína em Seropédica, no Rio de Janeiro. A ligação entre as cargas e o grupo é uma hipótese apresentada pelas autoridades.",
+        "Os investigadores disseram ter identificado empresas de transporte e logística que teriam sido usadas para ocultar e viabilizar o envio de drogas entre São Paulo e o Rio. A Polícia Civil também apontou operações financeiras consideradas atípicas envolvendo investigados e empresas.",
+        "Segundo o relato policial divulgado pela Agência Brasil, essas movimentações possivelmente usadas para ocultação e dissimulação de valores chegaram a cerca de R$ 70 milhões em curto período. A operação cumpria medidas de investigação; as acusações não constituem prova de culpa nem condenação."
+      ]
+    },
+    "en": {
+      "title": "Operation Icarus investigates alleged drug route across four states",
+      "summary": "Rio de Janeiro Civil Police coordinated warrants in four states targeting an alleged drug-supply channel; operational details and arrests are attributed to authorities.",
+      "aiSummary": [
+        "Operation Icarus served warrants in Rio de Janeiro, São Paulo, Minas Gerais and Alagoas in an investigation of an alleged drug-supply scheme.",
+        "Agência Brasil reported six arrests by 6:30 a.m. on September 22; that is a time-specific count, not a final total.",
+        "Civil Police said transport and logistics companies were allegedly used to move drugs between São Paulo and Rio; investigators attributed about R$70 million in unusual financial transactions to the group over a short period.",
+        "The people named in the investigation are suspects or accused; an operation is not a conviction."
+      ],
+      "paragraphs": [
+        "Rio de Janeiro Civil Police launched Operation Icarus on September 22, serving warrants in four states. Authorities said the operation investigated an alleged supply channel for drugs to one of Rio's main criminal factions.",
+        "The actions involved Rio de Janeiro, São Paulo, Minas Gerais and Alagoas. Agência Brasil reported that civil police forces from all four states took part and that the Rio military and prison police inspectorates supported the operation.",
+        "Agência Brasil recorded six arrests by 6:30 a.m. that day, including a man investigators identified as a central coordinator. In separate coverage, CNN Brasil also reported six arrests; the timestamped account cited here is Agência Brasil's, and six is not presented as a final total.",
+        "According to Civil Police, the alleged scheme had separate roles for leaders, logistics operators, transporters, people responsible for collecting payments and intermediaries. These are investigators' descriptions, not findings in a final court ruling.",
+        "Police linked two 2024 seizures to the investigation: about 715 kilograms of cocaine and marijuana in Guarulhos, São Paulo state, and 73.8 kilograms of cocaine in Seropédica, Rio de Janeiro state. The connection between the loads and the group is an investigative claim.",
+        "Investigators said transport and logistics companies were allegedly used to conceal and enable drug shipments between São Paulo and Rio. Civil Police also pointed to financial transactions it considered unusual involving people under investigation and companies.",
+        "In the police account published by Agência Brasil, those transactions, possibly used to hide or disguise funds, totaled about R$70 million over a short period. The operation involved investigative measures; allegations are not proof of guilt or a conviction."
+      ]
+    }
+  }
+}

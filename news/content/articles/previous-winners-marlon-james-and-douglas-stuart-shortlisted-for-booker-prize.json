@@ -1,0 +1,90 @@
+{
+  "id": "previous-winners-marlon-james-and-douglas-stuart-shortlisted-for-booker-prize",
+  "slug": "previous-winners-marlon-james-and-douglas-stuart-shortlisted-for-booker-prize",
+  "section": "cultura",
+  "secondarySections": [],
+  "publishedAt": "2026-09-22T18:55:24.000Z",
+  "updatedAt": "2026-09-24T17:45:13.603Z",
+  "sources": [
+    {
+      "name": "The Guardian",
+      "url": "https://www.theguardian.com/books/2026/sep/22/booker-prize-shortlist-pulitzer-previous-winners?page=with%3Aprint"
+    },
+    {
+      "name": "The Irish Times",
+      "url": "https://www.irishtimes.com/culture/books/2026/09/22/booker-prize-shortlist-two-former-winners-in-running-for-50000-prize/"
+    },
+    {
+      "name": "The Bookseller",
+      "url": "https://www.thebookseller.com/news/booker-prize-shortlist-2026-features-marlon-james-douglas-stuart-and-elizabeth-strout"
+    }
+  ],
+  "rights": {
+    "mode": "original-report"
+  },
+  "translations": {
+    "pt-BR": {
+      "title": "Marlon James e Douglas Stuart voltam à lista do Booker",
+      "summary": "Seis romances disputam o Booker de 2026. Dois autores que já venceram o prêmio estão entre os selecionados, mas o resultado só será anunciado em novembro.",
+      "aiSummary": [
+        "A lista final do Booker de 2026 reúne seis romances, entre eles livros de Marlon James e Douglas Stuart.",
+        "James venceu o prêmio em 2015 e Stuart em 2020; ambos concorrem novamente com novos títulos.",
+        "O vencedor será anunciado em 9 de novembro; a divulgação da lista não representa o resultado do prêmio."
+      ],
+      "paragraphs": [
+        "A shortlist do Booker Prize de 2026 reúne seis romances, entre eles obras de Marlon James e Douglas Stuart, vencedores de edições anteriores. A seleção coloca os dois novamente na disputa, mas não define quem receberá o prêmio deste ano.",
+        "James concorre com The Disappearers, romance ambientado na Jamaica durante a epidemia de Aids. A trama acompanha as consequências de um ataque a homens queer que ensaiam uma peça sobre a vida numa prisão; James venceu o Booker em 2015 por A Brief History of Seven Killings.",
+        "Stuart aparece na lista com John of John, sobre o retorno de John-Calum Macleod às Hébridas Exteriores, na Escócia. O autor venceu em 2020 com Shuggie Bain, livro centrado em um menino que cresce em Glasgow durante a década de 1980.",
+        "Os outros quatro títulos selecionados são The End of Everything, de M John Harrison; Black Bag, de Luke Kennard; May We Feed the King, de Rebecca Perry; e The Things We Never Say, de Elizabeth Strout. A lista reúne ficção especulativa, sátira universitária, romance histórico e narrativas contemporâneas.",
+        "A escritora e classicista Mary Beard preside o júri, que também inclui Raymond Antrobus, Jarvis Cocker, Rebecca Liu e Patricia Lockwood. O prêmio de 50 mil libras será entregue em 9 de novembro, em Londres; até lá, os seis livros seguem apenas como finalistas da shortlist."
+      ]
+    },
+    "en": {
+      "title": "Marlon James and Douglas Stuart return to the Booker shortlist",
+      "summary": "Six novels are in contention for the 2026 Booker Prize. Two authors who have won before are among the selections, but the result will not be announced until November.",
+      "aiSummary": [
+        "The 2026 Booker shortlist contains six novels, including new books by Marlon James and Douglas Stuart.",
+        "James won in 2015 and Stuart in 2020; both are competing again with different titles.",
+        "The winner will be announced on November 9; the shortlist announcement is not the prize result."
+      ],
+      "paragraphs": [
+        "The 2026 Booker Prize shortlist contains six novels, including books by Marlon James and Douglas Stuart, winners of previous editions. Their return places them in contention again, but the selection does not decide this year’s prize.",
+        "James is shortlisted for The Disappearers, a novel set in Jamaica during the AIDS epidemic. It follows the aftermath of an attack on queer men rehearsing a prison-set play; James won the Booker in 2015 for A Brief History of Seven Killings.",
+        "Stuart is on the list with John of John, about John-Calum Macleod’s return to the Outer Hebrides in Scotland. Stuart won in 2020 with Shuggie Bain, a novel centred on a boy growing up in Glasgow during the 1980s.",
+        "The other four selections are The End of Everything by M John Harrison, Black Bag by Luke Kennard, May We Feed the King by Rebecca Perry, and The Things We Never Say by Elizabeth Strout. The shortlist spans speculative fiction, campus satire, historical fiction and contemporary narratives.",
+        "Writer and classicist Mary Beard chairs the judging panel, which also includes Raymond Antrobus, Jarvis Cocker, Rebecca Liu and Patricia Lockwood. The £50,000 prize will be awarded in London on November 9; until then, all six books remain shortlisted contenders."
+      ]
+    }
+  },
+  "verification": {
+    "score": 9.4,
+    "checkedAt": "2026-09-24T14:17:43Z",
+    "checks": [
+      {
+        "provider": "The Guardian",
+        "url": "https://www.theguardian.com/books/2026/sep/22/booker-prize-shortlist-pulitzer-previous-winners?page=with%3Aprint",
+        "finding": "supports",
+        "note": "Original report supports the six-book shortlist, James and Stuart's inclusion and prior wins; it distinguishes shortlisting from the prize result."
+      },
+      {
+        "provider": "The Irish Times",
+        "url": "https://www.irishtimes.com/culture/books/2026/09/22/booker-prize-shortlist-two-former-winners-in-running-for-50000-prize/",
+        "finding": "supports",
+        "note": "Independent report corroborates the shortlist, authors, panel and November 9 award date."
+      },
+      {
+        "provider": "Aos Fatos",
+        "url": "https://www.aosfatos.org/",
+        "finding": "no-match",
+        "note": "Targeted Portuguese/English claim search found no relevant fact-check in its archive; neutral, not evidence of truth."
+      },
+      {
+        "provider": "AFP Fact Check",
+        "url": "https://factcheck.afp.com/",
+        "finding": "no-match",
+        "note": "Targeted search for the shortlist and named authors found no relevant fact-check; neutral, not evidence of truth."
+      }
+    ],
+    "caveat": "Prize result remained future at the cutoff; descriptions of the novels are summaries, not independently adjudicated facts. Fact-check no-matches are neutral."
+  }
+}

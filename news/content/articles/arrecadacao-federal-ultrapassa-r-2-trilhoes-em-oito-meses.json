@@ -1,0 +1,136 @@
+{
+  "id": "arrecadacao-federal-ultrapassa-r-2-trilhoes-em-oito-meses",
+  "slug": "arrecadacao-federal-ultrapassa-r-2-trilhoes-em-oito-meses",
+  "section": "economia",
+  "secondarySections": [],
+  "publishedAt": "2026-09-22T11:41:00-03:00",
+  "updatedAt": "2026-09-24T19:39:01Z",
+  "sources": [
+    {
+      "name": "Agência Brasil",
+      "url": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-09/arrecadacao-federal-ultrapassa-r-2-trilhoes-em-oito-meses"
+    },
+    {
+      "name": "Receita Federal — Análise da Arrecadação das Receitas Federais, agosto de 2026",
+      "url": "https://www.gov.br/receitafederal/pt-br/centrais-de-conteudo/publicacoes/relatorios/arrecadacao-federal/2026/analise-mensal-ago-2026.pdf"
+    },
+    {
+      "name": "Correio Braziliense",
+      "url": "https://www.correiobraziliense.com.br/economia/2026/09/7505717-arrecadacao-federal-bate-recorde-e-chega-a-rs-2355-bi-em-agosto.html"
+    },
+    {
+      "name": "Ministério da Fazenda",
+      "url": "https://www.gov.br/fazenda/pt-br/assuntos/noticias/2026/setembro/arrecadacao-federal-em-agosto-totaliza-r-235-566-bilhoes-apontam-dados-divulgados-pela-receita-federal"
+    }
+  ],
+  "rights": {
+    "mode": "original-report"
+  },
+  "translations": {
+    "pt-BR": {
+      "title": "Arrecadação federal soma R$ 2,112 trilhões até agosto, informa Receita",
+      "summary": "A Receita informou R$ 235,566 bilhões em agosto e R$ 2,112 trilhões no acumulado do ano; os avanços reais foram calculados pelo IPCA.",
+      "aiSummary": [
+        "A arrecadação total das receitas federais chegou a R$ 235,566 bilhões em agosto de 2026, alta real anual de 8,25%.",
+        "O acumulado total de janeiro a agosto foi R$ 2,112 trilhões, 7,12% acima em termos reais.",
+        "Dentro do total, as receitas administradas pela Receita Federal somaram R$ 2,019 trilhões no acumulado; esse subtotal teve alta real de 7,10%."
+      ],
+      "paragraphs": [
+        "A arrecadação total das receitas federais chegou a R$ 235,566 bilhões em agosto de 2026, alta real de 8,25% ante agosto de 2025, segundo a análise mensal da Receita Federal. A variação real é calculada pelo IPCA e desconta a inflação.",
+        "De janeiro a agosto, o total arrecadado foi de R$ 2,112082 trilhões, avanço real de 7,12% sobre igual período de 2025. O valor se refere ao conjunto das receitas federais, não apenas às administradas diretamente pela Receita.",
+        "A Receita Federal separa desse total as receitas sob sua administração: elas somaram R$ 227,865 bilhões em agosto e R$ 2,019069 trilhões entre janeiro e agosto. Nessa categoria, as altas reais anuais foram de 8,24% no mês e 7,10% no acumulado.",
+        "Ao comentar a composição, a Receita associou aumentos nas contribuições previdenciárias e nas contribuições ao PIS e à Cofins, entre outros fatores, ao avanço das vendas. Essa é a explicação apresentada pelo órgão, e não uma estimativa independente de causalidade.",
+        "A análise também destacou o Imposto de Exportação sobre petróleo bruto: a arrecadação foi de R$ 1,9 bilhão em agosto e de R$ 9,9 bilhões no acumulado de janeiro a agosto. Todos os valores descrevem arrecadação passada; não são projeções de receita futura."
+      ]
+    },
+    "en": {
+      "title": "Brazil's federal revenue totals R$2.112 trillion through August, tax agency says",
+      "summary": "The Receita Federal reported R$235.566 billion in August and R$2.112 trillion year to date; real growth rates are adjusted by IPCA inflation.",
+      "aiSummary": [
+        "Total federal revenue reached R$235.566 billion in August 2026, up 8.25% in real year-on-year terms.",
+        "Total collections from January through August were R$2.112 trillion, a real increase of 7.12%.",
+        "Revenue administered by the Receita Federal was a subset totaling R$2.019 trillion year to date, up 7.10% in real terms."
+      ],
+      "paragraphs": [
+        "Total federal revenue reached R$235.566 billion in August 2026, an 8.25% real increase from August 2025, according to the Receita Federal's monthly analysis. The real rate is adjusted using Brazil's IPCA inflation index.",
+        "Collections from January through August totaled R$2.112082 trillion, up 7.12% in real terms from the same period in 2025. This figure covers all federal revenue, not only amounts administered directly by the Receita Federal.",
+        "The agency separately reports revenue under its own administration: R$227.865 billion in August and R$2.019069 trillion in the first eight months. Those figures were up 8.24% for the month and 7.10% year to date in real terms.",
+        "In discussing the composition, the Receita Federal linked increases in social-security contributions and PIS and Cofins contributions, among other factors, to higher sales. That is the agency's explanation, not an independent estimate of causation.",
+        "The report also highlighted the export tax on crude oil: collections were R$1.9 billion in August and R$9.9 billion from January through August. These are past collection figures, not forecasts of future revenue."
+      ]
+    }
+  },
+  "verification": {
+    "score": 9.2,
+    "checkedAt": "2026-09-24T19:39:01Z",
+    "checks": [
+      {
+        "provider": "Aos Fatos",
+        "url": "https://aosfatos.org/",
+        "finding": "no-match",
+        "note": "Direct Portuguese search for Receita Federal's August 2026 total and R$2.112 trillion year-to-date figure found no matching fact-check; neutral."
+      },
+      {
+        "provider": "Agência Lupa",
+        "url": "https://www.agencialupa.org/",
+        "finding": "no-match",
+        "note": "Direct site search found no fact-check of the August 2026 collections totals; unrelated tax-viral-claim checks were not treated as verdicts."
+      },
+      {
+        "provider": "Projeto Comprova",
+        "url": "https://projetocomprova.com.br/",
+        "finding": "no-match",
+        "note": "Direct Portuguese search found no matching fact-check of these Receita totals; other tax-policy explainers concern different claims."
+      },
+      {
+        "provider": "Reuters Fact Check",
+        "url": "https://www.reuters.com/fact-check/",
+        "finding": "no-match",
+        "note": "Direct Portuguese/English search found no check of the R$2.112tn total or August 2026 rates; unrelated budget/tax claims excluded."
+      },
+      {
+        "provider": "AFP Fact Check",
+        "url": "https://factcheck.afp.com/",
+        "finding": "no-match",
+        "note": "Direct search found no fact-check of these Brazilian federal revenue figures; unrelated Brazil coverage is not a verdict."
+      },
+      {
+        "provider": "Full Fact",
+        "url": "https://fullfact.org/",
+        "finding": "no-match",
+        "note": "Direct English search found no matching check of Brazil's August 2026 revenue totals; UK tax results are unrelated."
+      },
+      {
+        "provider": "Google Fact Check Tools",
+        "url": "https://toolbox.google.com/factcheck/explorer",
+        "finding": "no-match",
+        "note": "Portuguese Explorer query for the R$2.112tn August 2026 total returned no matching claim record. Neutral; not proof of accuracy."
+      },
+      {
+        "provider": "Agência Brasil",
+        "url": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-09/arrecadacao-federal-ultrapassa-r-2-trilhoes-em-oito-meses",
+        "finding": "context",
+        "note": "Its saved report's lead labels R$2.019tn as total while pairing it with 7.12%; that amount is the Receita-administered subtotal, not total federal revenue. The audited article corrects the scope using the primary report."
+      },
+      {
+        "provider": "Receita Federal",
+        "url": "https://www.gov.br/receitafederal/pt-br/centrais-de-conteudo/publicacoes/relatorios/arrecadacao-federal/2026/analise-mensal-ago-2026.pdf",
+        "finding": "inconclusive",
+        "note": "The linked PDF returned HTTP 403 during a later direct check and no full PDF capture is saved in the frozen run. Do not rely on this check alone; the complete Correio report and official Ministry HTML release below corroborate the separated totals."
+      },
+      {
+        "provider": "Correio Braziliense",
+        "url": "https://www.correiobraziliense.com.br/economia/2026/09/7505717-arrecadacao-federal-bate-recorde-e-chega-a-rs-2355-bi-em-agosto.html",
+        "finding": "supports",
+        "note": "The complete saved article was published at 2026-09-22T12:50:27Z before cutoff; its post-cutoff extraction confirms total Jan–Aug revenue of R$2.112tn (+7.12% real) separately from R$2.019tn in Receita-administered revenue (+7.10%)."
+      },
+      {
+        "provider": "Ministério da Fazenda",
+        "url": "https://www.gov.br/fazenda/pt-br/assuntos/noticias/2026/setembro/arrecadacao-federal-em-agosto-totaliza-r-235-566-bilhoes-apontam-dados-divulgados-pela-receita-federal",
+        "finding": "supports",
+        "note": "The official HTML release visibly dated 22/09/2026 18h00 reports R$2.112tn total Jan–Aug and R$2.019tn under Receita administration. Its complete local capture was retrieved after cutoff and is used for current fact-checking, not cutoff proof."
+      }
+    ],
+    "caveat": "The linked Receita PDF could not be reopened in a later direct check; the complete Correio report and official Ministry release support the separated totals. Agência Brasil's lead is scope-ambiguous, so this article distinguishes total federal revenue from the Receita-administered subtotal."
+  }
+}

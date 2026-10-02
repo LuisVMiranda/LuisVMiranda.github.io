@@ -1,0 +1,100 @@
+{
+  "id": "guia-do-enem-reune-orientacoes-e-metodos-de-estudo-para-provas",
+  "slug": "guia-do-enem-reune-orientacoes-e-metodos-de-estudo-para-provas",
+  "section": "brasil",
+  "secondarySections": [],
+  "publishedAt": "2026-09-22T16:37:00-03:00",
+  "updatedAt": "2026-09-24T17:45:13.603Z",
+  "sources": [
+    {
+      "name": "Agência Brasil",
+      "url": "https://agenciabrasil.ebc.com.br/educacao/noticia/2026-09/guia-do-enem-traz-orientacoes-e-metodos-de-estudo-para-provas"
+    }
+  ],
+  "rights": {
+    "mode": "original-report"
+  },
+  "verification": {
+    "score": 9,
+    "checkedAt": "2026-09-24T14:14:34Z",
+    "checks": [
+      {
+        "provider": "Aos Fatos",
+        "url": "https://www.aosfatos.org/",
+        "finding": "no-match",
+        "note": "Direct domain search for Guia do Enem, MEC apps, Gov.br access and the November 8 exam date found no relevant fact-check. No-match is neutral."
+      },
+      {
+        "provider": "Agência Lupa",
+        "url": "https://www.agencialupa.org/",
+        "finding": "no-match",
+        "note": "No relevant check of this guide, its services or the cited exam date was located in the direct site search; neutral."
+      },
+      {
+        "provider": "Projeto Comprova",
+        "url": "https://projetocomprova.com.br/",
+        "finding": "no-match",
+        "note": "Direct search found no fact-check of the guide launch or the listed MEC resources; neutral."
+      },
+      {
+        "provider": "AFP Fact Check",
+        "url": "https://factcheck.afp.com/",
+        "finding": "no-match",
+        "note": "No fact-check matching the guide, apps or exam schedule was found in the direct claim-variant search; neutral."
+      },
+      {
+        "provider": "Reuters Fact Check",
+        "url": "https://www.reuters.com/fact-check/",
+        "finding": "no-match",
+        "note": "No relevant check of these official service and schedule claims was found; neutral."
+      },
+      {
+        "provider": "Full Fact",
+        "url": "https://fullfact.org/",
+        "finding": "no-match",
+        "note": "Direct search found no check of the Enem guide or its factual details; neutral."
+      }
+    ],
+    "caveat": "The complete Agência Brasil extraction supports the September 21 guide launch, November 8 first test day and listed resources; the saved selection has no independent matching URL. These are low-risk service-information claims attributed to MEC, not independently audited outcomes. PT-BR and EN article bodies and AI summaries align. Fact-check no-match is not evidence of truth."
+  },
+  "translations": {
+    "pt-BR": {
+      "title": "MEC reúne orientações do Enem 2026 em guia digital",
+      "summary": "Lançada em 21 de setembro, a página reúne materiais pedagógicos, cronogramas, vídeos e informações sobre aplicativos para participantes do exame.",
+      "aiSummary": [
+        "O MEC lançou o Guia do Enem em 21 de setembro, antes da primeira prova de 2026, marcada para 8 de novembro.",
+        "A página reúne materiais de estudo, orientações sobre procedimentos, cronogramas e vídeos sobre o exame.",
+        "O acesso gratuito aos aplicativos do ministério exige cadastro no Gov.br.",
+        "Entre os recursos listados estão aplicativos de estudo, aulas de inglês e espanhol e uma biblioteca digital com mais de 25 mil obras."
+      ],
+      "paragraphs": [
+        "O Ministério da Educação lançou em 21 de setembro o Guia do Enem, uma página que concentra orientações oficiais, materiais de preparação e cronogramas do exame de 2026. A primeira prova está marcada para 8 de novembro.",
+        "O conteúdo pedagógico aparece em textos e vídeos e percorre diferentes etapas do exame, da solicitação de isenção da taxa à consulta dos resultados e ao acesso à educação superior. O ministério apresenta a página como um ponto de reunião para informações que antes ficavam distribuídas por temas.",
+        "A página inclui dicas de professores, métodos de estudo e explicações sobre procedimentos e aplicação das provas. A série Bastidores do Enem aborda a elaboração das 180 questões, a preparação de cadernos personalizados e a distribuição dos inscritos por local de prova.",
+        "O guia também reúne informações sobre aplicativos do ministério. O MEC Enem oferece simulados, correção automatizada de redações, materiais de reforço e um assistente virtual com inteligência artificial; o acesso gratuito aos aplicativos listados requer cadastro no Gov.br.",
+        "O MEC Idiomas oferece aprendizagem autoinstrucional de inglês e espanhol, com cerca de 800 aulas do nível básico ao avançado. Já o MEC Livros reúne mais de 25 mil obras literárias, entre títulos em domínio público e obras licenciadas em português, inglês e espanhol, organizadas em 26 temas.",
+        "Outras áreas apresentam relatos de participantes que compartilham suas rotinas de preparação e trajetórias de redações com nota máxima em edições anteriores. O guia também direciona os inscritos à página do participante do Inep e concentra notícias oficiais sobre o Enem.",
+        "O exame é usado por instituições públicas e privadas em processos seletivos e por programas federais como Sisu, Prouni e Fies. Em 2026, também será usado pela primeira vez como instrumento de avaliação da qualidade do ensino médio, segundo as informações reunidas na página."
+      ]
+    },
+    "en": {
+      "title": "MEC brings Enem 2026 guidance together in a digital guide",
+      "summary": "Launched on September 21, the page gathers study materials, schedules, videos and information about apps for exam participants.",
+      "aiSummary": [
+        "MEC launched its Enem Guide on September 21, ahead of the first 2026 test day scheduled for November 8.",
+        "The page brings together study materials, procedural guidance, schedules and videos about the exam.",
+        "Free access to the ministry's listed apps requires a Gov.br account.",
+        "The listed resources include study apps, English and Spanish lessons, and a digital library with more than 25,000 works."
+      ],
+      "paragraphs": [
+        "Brazil's Ministry of Education launched the Enem Guide on September 21, bringing official guidance, preparation materials and schedules for the 2026 exam onto one page. The first test day is scheduled for November 8.",
+        "The educational material is presented through text and video and covers stages from applying for a fee waiver to checking results and accessing higher education. The ministry describes the page as a central place for information that had been organized across different topics.",
+        "The page includes teachers' tips, study methods and explanations of exam procedures and administration. The Bastidores do Enem series covers how the 180 questions are prepared, how personalized test booklets are produced and how participants are assigned to test locations.",
+        "The guide also lists ministry apps. MEC Enem offers practice tests, automated essay scoring, review material and an artificial-intelligence virtual assistant; free access to the listed apps requires a Gov.br account.",
+        "MEC Idiomas provides self-guided English and Spanish learning, with about 800 lessons from basic to advanced levels. MEC Livros brings together more than 25,000 literary works, including public-domain and licensed titles in Portuguese, English and Spanish, arranged across 26 themes.",
+        "Other sections feature accounts from participants sharing their study routines and profiles of students who earned top essay scores in earlier editions. The guide also directs participants to Inep's candidate page and gathers official Enem news.",
+        "Public and private institutions use the exam in admissions, alongside federal programs such as Sisu, Prouni and Fies. In 2026, it will also be used for the first time as a tool to assess the quality of Brazilian secondary education, according to the page's information."
+      ]
+    }
+  }
+}

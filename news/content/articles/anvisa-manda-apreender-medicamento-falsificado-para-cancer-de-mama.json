@@ -1,0 +1,96 @@
+{
+  "id": "anvisa-manda-apreender-medicamento-falsificado-para-cancer-de-mama",
+  "slug": "anvisa-manda-apreender-medicamento-falsificado-para-cancer-de-mama",
+  "section": "brasil",
+  "secondarySections": [],
+  "publishedAt": "2026-09-21T18:27:00-03:00",
+  "updatedAt": "2026-09-24T17:45:13.603Z",
+  "sources": [
+    {
+      "name": "Agência Brasil",
+      "url": "https://agenciabrasil.ebc.com.br/saude/noticia/2026-09/anvisa-manda-apreender-medicamento-falsificado-para-cancer-de-mama"
+    }
+  ],
+  "rights": {
+    "mode": "original-report"
+  },
+  "verification": {
+    "score": 9.6,
+    "checkedAt": "2026-09-24T14:14:34Z",
+    "checks": [
+      {
+        "provider": "Aos Fatos",
+        "url": "https://www.aosfatos.org/",
+        "finding": "no-match",
+        "note": "Exact searches for Phesgo, Dysport and lots B5011B05/P08191/P08192/P22368 found no relevant fact-check; neutral."
+      },
+      {
+        "provider": "Agência Lupa",
+        "url": "https://www.agencialupa.org/",
+        "finding": "no-match",
+        "note": "No fact-check of the named lots or the September 21 Anvisa seizure order was found; neutral."
+      },
+      {
+        "provider": "Projeto Comprova",
+        "url": "https://projetocomprova.com.br/",
+        "finding": "no-match",
+        "note": "Direct searches found no check of the Anvisa order or the exact product lots; neutral."
+      },
+      {
+        "provider": "AFP Fact Check",
+        "url": "https://factcheck.afp.com/",
+        "finding": "no-match",
+        "note": "No fact-check matching these products, lot numbers or this Brazilian regulatory action was found; neutral."
+      },
+      {
+        "provider": "Reuters Fact Check",
+        "url": "https://www.reuters.com/fact-check/",
+        "finding": "no-match",
+        "note": "No relevant check of the products or lot-specific seizure order was found; neutral."
+      },
+      {
+        "provider": "Full Fact",
+        "url": "https://fullfact.org/",
+        "finding": "no-match",
+        "note": "No fact-check of the named medicines or lots was located; neutral."
+      }
+    ],
+    "caveat": "The saved complete Agência Brasil report and Anvisa's own official notice/resolution search agree on the counterfeit lots, dates and orders. The article reports regulatory action; it does not claim patient exposure, injury or clinical harm, none of which was established in the evidence reviewed. PT-BR and EN preserve the lot numbers and scope."
+  },
+  "translations": {
+    "pt-BR": {
+      "title": "Anvisa determina apreensão de lotes falsificados de Phesgo e Dysport",
+      "summary": "A agência apontou um lote de Phesgo e três de Dysport, além de suspender anúncios de outros produtos sem regularização sanitária.",
+      "aiSummary": [
+        "A Anvisa determinou a apreensão de um lote falsificado de Phesgo e de três lotes falsificados de Dysport.",
+        "O lote de Phesgo é o B5011B05; a empresa responsável pelo Dysport disse não reconhecer os lotes P08191, P08192 e P22368.",
+        "As medidas também alcançaram anúncios de medicamentos manipulados e produtos de cannabis sem autorização sanitária."
+      ],
+      "paragraphs": [
+        "A Agência Nacional de Vigilância Sanitária determinou a apreensão de um lote falsificado do medicamento Phesgo e de três lotes falsificados da toxina botulínica Dysport. A resolução publicada em 21 de setembro também suspendeu anúncios irregulares de medicamentos manipulados e proibiu a divulgação de produtos de cannabis sem autorização sanitária.",
+        "No caso do Phesgo, usado no tratamento do câncer de mama, a Roche informou à Anvisa ter identificado unidades com características diferentes das do produto original. A ordem abrange exclusivamente o lote B5011B05, fabricado em junho de 2025, e proíbe armazenamento, comércio, importação, exportação e uso dos produtos falsificados.",
+        "Para o Dysport, utilizado em tratamentos terapêuticos e estéticos, a agência determinou apreensão e proibiu venda, distribuição e uso dos lotes P08191, P08192 e P22368. A empresa responsável pelo registro informou que não reconhece essas numerações; as validades indicadas para os lotes vão de fevereiro a maio de 2029.",
+        "A resolução também suspendeu a divulgação na internet de medicamentos manipulados comercializados pela Queen Pharma Aesthetic. Entre os produtos citados estavam formulações anunciadas para emagrecimento, redução de gordura localizada, saúde capilar, melasma e outros procedimentos estéticos.",
+        "Outra determinação suspendeu anúncios de medicamentos manipulados vendidos pela Farmácia Malheiro em seu site. A Anvisa afirmou que esses produtos estão sujeitos a regras específicas e não podem ser anunciados ou comercializados em desacordo com a legislação sanitária.",
+        "Em uma medida separada, a agência proibiu a divulgação e a venda de produtos à base de cannabis promovidos em um site e em redes sociais por uma empresa não identificada. Segundo a Anvisa, os itens não tinham registro nem autorização para comercialização no país."
+      ]
+    },
+    "en": {
+      "title": "Anvisa orders seizure of counterfeit Phesgo and Dysport batches",
+      "summary": "The agency identified one Phesgo batch and three Dysport batches, and also suspended advertising for other products lacking sanitary authorization.",
+      "aiSummary": [
+        "Anvisa ordered the seizure of one counterfeit Phesgo batch and three counterfeit Dysport batches.",
+        "The Phesgo batch is B5011B05; the company responsible for Dysport said it did not recognize batches P08191, P08192 and P22368.",
+        "The measures also covered advertising for compounded medicines and cannabis products without sanitary authorization."
+      ],
+      "paragraphs": [
+        "Brazil's health regulator, Anvisa, ordered the seizure of one counterfeit batch of the medicine Phesgo and three counterfeit batches of the botulinum toxin Dysport. The resolution published on September 21 also suspended irregular advertising for compounded medicines and prohibited publicity for cannabis products without sanitary authorization.",
+        "For Phesgo, which is used to treat breast cancer, Roche told Anvisa it had identified units with characteristics that differed from the genuine product. The order applies only to batch B5011B05, manufactured in June 2025, and bars storage, sale, import, export and use of the counterfeit products.",
+        "For Dysport, used in therapeutic and aesthetic treatments, the agency ordered seizure and prohibited the sale, distribution and use of batches P08191, P08192 and P22368. The company responsible for the product's registration said it did not recognize those numbers; the listed expiry dates range from February to May 2029.",
+        "The resolution also suspended online advertising for compounded medicines sold by Queen Pharma Aesthetic. The products cited included formulations promoted for weight loss, localized fat reduction, hair health, melasma and other aesthetic procedures.",
+        "A separate order suspended advertising for compounded medicines sold on Farmácia Malheiro's website. Anvisa said these products are subject to specific rules and cannot be advertised or sold in violation of sanitary legislation.",
+        "In another measure, the agency prohibited publicity and sales of cannabis-based products promoted on a website and social media by an unidentified company. Anvisa said the items had neither registration nor authorization for sale in Brazil."
+      ]
+    }
+  }
+}

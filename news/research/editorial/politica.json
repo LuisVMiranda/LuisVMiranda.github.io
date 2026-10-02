@@ -1,6 +1,7 @@
 {
   "section": "politica",
-  "cutoff": "2026-09-22T11:21:20.336Z",
+  "edition": "2026-09-23",
+  "cutoff": "2026-09-23T11:31:23.014Z",
   "queries": [
     "Política notícias Brasil",
     "Politics latest news Brazil",
@@ -13,122 +14,298 @@
   ],
   "verified": [
     {
-      "articleId": "politica-2026-09-22-lula-onu-contraponto",
-      "url": "https://g1.globo.com/politica/noticia/2026/09/22/guerras-soberania-e-democracia-lula-quer-fazer-contraponto-a-trump-em-abertura-de-assembleia-da-onu.ghtml",
-      "publishedAt": "2026-09-22T00:00:00.897-03:00",
-      "evidence": "Complete extraction file 34a2df6ae1e0.json (HTTP 200, complete:true), published 2026-09-22. The G1 extraction reports Lula's planned opening speech at the 81st UN General Assembly, the expected contrast with Donald Trump on democracy, trade and peace, the multilateralism and sovereignty themes, the proposed Security Council reform and Brazil's continued preference for a Latin American woman to succeed António Guterres. The draft keeps expectations attributed to aides and diplomats as expectations rather than completed events.",
-      "selectionReason": "Most current high-impact Brazil public-institutions story in the run: it links the president's scheduled UN address to Brazil's foreign-policy positions and institutional reform agenda without repeating the separate tariff interview or the Mamdani meeting.",
-      "contentReview": {
-        "bodyComplete": true,
-        "aiSummaryReviewed": true
-      }
+      "articleId": "tse-gender-political-violence-2026",
+      "primarySection": "politica",
+      "secondarySections": ["brasil"],
+      "secondarySectionRationale": {
+        "brasil": "The TSE data release is also domestic general-interest coverage; reuse this single political-institutions report rather than creating a second story."
+      },
+      "reuseRationale": "One TSE data release serves both desks. Política is primary because the report centers on electoral institutions and political participation; Brasil reuses the same article ID.",
+      "url": "https://g1.globo.com/politica/eleicoes/2026/noticia/2026/09/22/eleicoes-2026-tse-registra-177-processos-de-violencia-politica-de-genero-este-ano.ghtml",
+      "publishedAt": "2026-09-22T19:09:41.233-03:00",
+      "sourceEvidencePath": "research/runs/2026-09-23T11-31-23-014Z-8d26ca21-0863-4450-82bc-1cdf26820144/extractions/politica/b86a0e9be15a.json",
+      "additionalEventEvidence": [
+        {
+          "evidencePath": "research/runs/2026-09-23T11-31-23-014Z-8d26ca21-0863-4450-82bc-1cdf26820144/extractions/brasil/b56e18e41eee.json",
+          "canonicalUrl": "https://agenciabrasil.ebc.com.br/radioagencia-nacional/politica/audio/2026-09/brasil-registra-177-processos-por-violencia-politica-de-genero-em-2016",
+          "publisher": "Agência Brasil",
+          "role": "independent same-event corroboration; reused as one story identity"
+        }
+      ],
+      "evidence": "Complete saved G1 extraction (HTTP 200, complete:true, 23 reported paragraphs, no warnings) was read. It reports 177 proceedings registered in 2026, explicitly distinguishing registration year from incident year, and gives regional counts, under-reporting caveats and prevention measures. The complete Agência Brasil body independently confirms the 177 count and adds historical totals. Its URL suffix says 2016, but its headline and body say 2026; the discrepancy is retained and the matching 2026 body text is used.",
+      "corroboratingSources": [
+        {
+          "url": "https://agenciabrasil.ebc.com.br/radioagencia-nacional/politica/audio/2026-09/brasil-registra-177-processos-por-violencia-politica-de-genero-em-2016",
+          "matchingFacts": "The complete Agência Brasil body independently reports 177 proceedings for 2026; it also reports 392 court actions since 2019 and 219 currently pending. The URL slug’s 2016 suffix conflicts with the headline/body year."
+        }
+      ],
+      "corroborationNote": "The two complete bodies match on the 177 count; registration year is not presented as incident year, and the URL-slug discrepancy is disclosed.",
+      "extractionGates": {
+        "httpStatus": 200,
+        "complete": true,
+        "paragraphCount": 23,
+        "warnings": [],
+        "passed": true
+      },
+      "selectionReason": "Recent electoral-institution data with a clear public-interest measure, an explicit registration-versus-incident qualification and concrete prevention steps; the same event is shared with Brasil under one identity.",
+      "contentReview": { "bodyComplete": true, "aiSummaryReviewed": true }
     },
     {
-      "articleId": "politica-2026-09-22-camara-jornada-hibrida",
-      "url": "https://www.cnnbrasil.com.br/politica/camara-reduz-jornada-presencial-dos-servidores-em-periodo-eleitoral/",
-      "publishedAt": "2026-09-22T04:00:48-03:00",
-      "evidence": "Complete extraction file 08b2f58e9430.json (HTTP 200, complete:true), published 2026-09-22. The CNN extraction reports the Chamber directorate-general's exceptional temporary hybrid-work authorization, the maximum of 20 remote hours within a 40-hour week, the stated administrative-cost rationale, the Senate's non-response and the reduced congressional calendar during the election period.",
-      "selectionReason": "Current direct institutional action by the Chamber of Deputies with concrete effects on public administration; selected as a distinct congressional-management story rather than a campaign claim or scandal.",
-      "contentReview": {
-        "bodyComplete": true,
-        "aiSummaryReviewed": true
-      }
+      "articleId": "quem-sao-os-maiores-doadores-das-campanhas-presidenciais-g1",
+      "primarySection": "politica",
+      "secondarySections": [],
+      "secondarySectionRationale": {},
+      "url": "https://g1.globo.com/politica/eleicoes/2026/noticia/2026/09/23/doadores-campanhas-presidenciais.ghtml",
+      "publishedAt": "2026-09-23T00:00:00.491-03:00",
+      "sourceEvidencePath": "research/runs/2026-09-23T11-31-23-014Z-8d26ca21-0863-4450-82bc-1cdf26820144/extractions/politica/5a3691087fe3.json",
+      "evidence": "Complete saved G1 extraction (HTTP 200, complete:true, 83 reported paragraphs, no warnings; 2,645 words) was read. The wider candidate-by-candidate TSE snapshot could not be independently reproduced, so its ranking, campaign totals and related comparisons were omitted from the public copy. The accessible Folha extraction independently confirms Erasmo Battistella’s R$500,000 contributions to both Lula and Flávio and carries his attributed statement; public copy is limited to these matching claims and the stated filing time boundary.",
+      "corroboratingSources": [
+        {
+          "url": "https://www1.folha.uol.com.br/poder/2026/09/rei-do-biodiesel-doa-r-1-milhao-as-campanhas-de-lula-e-flavio.shtml",
+          "matchingFacts": "Folha independently reports R$500,000 donations to both candidates and publishes Battistella’s response that they were made as an individual within election-law limits. Its accessible article text confirms these matching facts; it does not corroborate the full G1 candidate-by-candidate TSE snapshot, which was not independently reproduced and is omitted from public copy."
+        }
+      ],
+      "corroborationNote": "The cross-check supports only the matching Battistella donations and his attributed response. The broader G1 TSE snapshot was not independently reproduced; its rankings and totals are omitted from public copy. G1 describes the relevant filing information as time-bound and subject to later updates.",
+      "extractionGates": {
+        "httpStatus": 200,
+        "complete": true,
+        "paragraphCount": 83,
+        "warnings": [],
+        "passed": true
+      },
+      "selectionReason": "The two independently matching reports support a focused account of Battistella’s R$500,000 donations to Lula and Flávio and his attributed response. The unreplicated wider TSE snapshot is excluded from public copy, preserving a time-bounded claim without presenting unverified candidate rankings or totals.",
+      "contentReview": { "bodyComplete": true, "aiSummaryReviewed": true }
     },
     {
-      "articleId": "politica-2026-09-22-agu-janja-representacao",
-      "url": "https://www.cnnbrasil.com.br/politica/justica-determina-que-agu-explique-por-que-representa-janja-judicialmente/",
-      "publishedAt": "2026-09-21T22:40:08-03:00",
-      "evidence": "Complete extraction file df17287d8675.json (HTTP 200, complete:true), published 2026-09-21. The CNN extraction reports the Federal District court's 15-day order for AGU to provide the administrative request, legal opinion, authorization act and supporting documents for representing Janja; it identifies the public-interest lawsuit over international-trip spending, the plaintiffs and requested remedies, the AGU's stated basis for acting and the judge's clarification that the order does not yet find an irregularity.",
-      "selectionReason": "Current direct public-institutions story with a concrete federal-court order and a clear procedural boundary. It diversifies the desk with a domestic institutional report and avoids repeating the selected poll or Banco Master coverage.",
-      "contentReview": {
-        "bodyComplete": true,
-        "aiSummaryReviewed": true
-      }
+      "articleId": "lula-recorre-a-artistas-e-empresarios-na-tentativa-de-conquistar-votos-na-reta-final-do-1o",
+      "primarySection": "politica",
+      "secondarySections": [],
+      "secondarySectionRationale": {},
+      "url": "https://g1.globo.com/politica/eleicoes/2026/noticia/2026/09/23/lula-recorre-a-artistas-e-empresarios-na-tentativa-de-conquistar-votos-na-reta-final-do-1o-turno.ghtml",
+      "publishedAt": "2026-09-23T00:00:00.432-03:00",
+      "sourceEvidencePath": "research/runs/2026-09-23T11-31-23-014Z-8d26ca21-0863-4450-82bc-1cdf26820144/extractions/politica/563761cb817c.json",
+      "evidence": "Complete saved G1 extraction (HTTP 200, complete:true, 20 reported paragraphs, no warnings) was read. It describes the September 23 Rio cultural event and September 25 São Paulo business meeting as scheduled, attributes the expected voter impact to campaign members and identifies organizers and invitees. The complete Itatiaia body independently confirms the Rio event’s date, venue, 7 p.m. start, expected 80 cultural figures and purpose; both accounts were retrieved before the Rio event’s scheduled start.",
+      "corroboratingSources": [
+        {
+          "url": "https://www.itatiaia.com.br/politica/eleicoes/agenda-dos-candidatos/lula-apresenta-propostas-para-a-cultura-em-ato-com-artistas-no-rio-nesta-quarta-feira-23/",
+          "matchingFacts": "Itatiaia confirms the scheduled Rio event at Fundição Progresso, its 7 p.m. start, expected 80 cultural figures and discussion of campaign proposals. It does not corroborate the separate September 25 São Paulo meeting."
+        }
+      ],
+      "corroborationNote": "The cross-check supports the Rio event schedule only. Campaign expectations about reaching undecided voters remain attributed, not established effects.",
+      "extractionGates": {
+        "httpStatus": 200,
+        "complete": true,
+        "paragraphCount": 20,
+        "warnings": [],
+        "passed": true
+      },
+      "selectionReason": "Two near-term campaign events provide a distinct, current account of election activity; the draft separates scheduled events from the campaign’s unmeasured expectations about voter impact.",
+      "contentReview": { "bodyComplete": true, "aiSummaryReviewed": true }
     },
     {
-      "articleId": "politica-2026-09-22-quaest-empate",
-      "url": "https://valorinternational.globo.com/politics/news/2026/09/22/lula-flavio-statistically-tied-in-first-round-for-first-time.ghtml",
-      "publishedAt": "2026-09-22T08:06:13.868-03:00",
-      "evidence": "Complete extraction file c50646b3a840.json (HTTP 200, complete:true), published 2026-09-22. The Valor extraction reports the Quaest first-round figures of Lula 37% and Flávio Bolsonaro 33%, the 42%-41% possible runoff, sample size, field dates, margin of error, rejection rates and government approval/disapproval figures. It also records the segment findings used in the draft.",
-      "selectionReason": "The newest election poll in the run provides a distinct first-round and runoff snapshot. Only this one record from the Quaest round was selected; duplicate Quaest extractions and the separate Banco Master perception poll were excluded to avoid repeating one poll or scandal.",
-      "contentReview": {
-        "bodyComplete": true,
-        "aiSummaryReviewed": true
-      }
+      "articleId": "aliados-de-milton-leite-perdem-forca-em-sp-apos-prisao-de-ex-vereador-cnn-brasil",
+      "primarySection": "politica",
+      "secondarySections": [],
+      "secondarySectionRationale": {},
+      "url": "https://www.cnnbrasil.com.br/politica/aliados-de-milton-leite-perdem-forca-em-sp-apos-prisao-de-ex-vereador/",
+      "publishedAt": "2026-09-22T13:34:39-03:00",
+      "sourceEvidencePath": "research/runs/2026-09-23T11-31-23-014Z-8d26ca21-0863-4450-82bc-1cdf26820144/extractions/politica/73f413891b29.json",
+      "evidence": "Complete saved CNN extraction (HTTP 200, complete:true, 15 reported paragraphs, no warnings) was read, including attribution of expected party and appointment changes and the state government’s denial that cited posts were Leite’s appointments. The accessible Folha extraction independently reports pressure over his party roles and describes the police inquiry as an allegation involving transport companies and the PCC; neither body establishes guilt.",
+      "corroboratingSources": [
+        {
+          "url": "https://www1.folha.uol.com.br/colunas/painel/2026/09/prisao-deve-custar-a-milton-leite-cargos-de-comando-no-uniao-brasil.shtml",
+          "matchingFacts": "Folha separately reports expected loss of party posts and identifies the police operation as an investigation into an alleged transport-company/PCC scheme. Its accessible article text supports these points; it is not a court finding."
+        }
+      ],
+      "corroborationNote": "CNN and Folha match on expected party consequences. The report retains the government’s denial about appointments and labels the police allegations as unproven.",
+      "extractionGates": {
+        "httpStatus": 200,
+        "complete": true,
+        "paragraphCount": 15,
+        "warnings": [],
+        "passed": true
+      },
+      "selectionReason": "A distinct institutional and party-realignment story following a reported arrest, supported by two outlets; it adds local-government and party consequences while preserving the distinction between investigation, expectation and proven fact.",
+      "contentReview": { "bodyComplete": true, "aiSummaryReviewed": true }
     },
     {
-      "articleId": "politica-2026-09-22-guia-roupa-votacao",
-      "url": "https://g1.globo.com/politica/eleicoes/2026/videos/noticia/2026/09/22/video-eleitor-pode-votar-de-bermuda-e-chinelo.ghtml",
-      "publishedAt": "2026-09-22T00:00:00.674-03:00",
-      "evidence": "Complete extraction file 81d3f96ae398.json (HTTP 200, complete:true), published 2026-09-22. The G1 extraction explains that shorts and flip-flops are allowed, swimwear and entering shirtless are prohibited, political expression must be individual and silent under TSE guidance, and phones, cameras and camera-equipped smart glasses must remain with poll workers during voting.",
-      "selectionReason": "Current low-risk voter-service item with direct public value and explicit attribution to Tribunal Superior Eleitoral guidance; it is separate from the older phone-in-the-booth explainer and contains no disputed allegation.",
-      "contentReview": {
-        "bodyComplete": true,
-        "aiSummaryReviewed": true
-      }
+      "articleId": "brazil-supreme-court-feud-escalates-with-new-call-for-investigation",
+      "primarySection": "politica",
+      "secondarySections": [],
+      "secondarySectionRationale": {},
+      "url": "https://valorinternational.globo.com/politics/news/2026/09/23/brazil-supreme-court-feud-escalates-with-new-call-for-investigation.ghtml",
+      "publishedAt": "2026-09-23T07:34:50.671-03:00",
+      "sourceEvidencePath": "research/runs/2026-09-23T11-31-23-014Z-8d26ca21-0863-4450-82bc-1cdf26820144/extractions/politica/7b8ea95f0d1d.json",
+      "evidence": "Complete saved Valor International extraction (HTTP 200, complete:true, 23 reported paragraphs, no warnings) was read, including Mendonça’s requests, his allegations, Moraes’s counter-position and the unresolved procedural history. The complete CNN corroborating extraction independently confirms the filing and requests, the five-working-day response period, a partial 4–3 vote and the pending status; neither source reports a merits ruling on the allegations.",
+      "corroboratingSources": [
+        {
+          "url": "https://www.cnnbrasil.com.br/politica/mendonca-diz-que-moraes-usou-relatorios-da-pf-como-peca-de-intimidacao/",
+          "matchingFacts": "CNN independently reports Mendonça’s request to dismiss the proceeding and investigate the reports’ origin, Fachin’s procedural steps, the partial 4–3 vote on separating cases and the unresolved status."
+        }
+      ],
+      "corroborationNote": "Both reports identify the requests as filings and the procedure as unresolved. The article preserves both justices’ positions and does not treat allegations as findings.",
+      "extractionGates": {
+        "httpStatus": 200,
+        "complete": true,
+        "paragraphCount": 23,
+        "warnings": [],
+        "passed": true
+      },
+      "selectionReason": "A new filing has immediate institutional consequences and two-source support; it is selected with explicit safeguards around allegations, counterclaims, partial votes and the absence of a judicial finding.",
+      "contentReview": { "bodyComplete": true, "aiSummaryReviewed": true }
     },
     {
-      "articleId": "politica-2026-09-22-reforma-administrativa",
-      "url": "https://valorinternational.globo.com/politics/news/2026/09/21/candidates-offer-few-details-on-administrative-reform.ghtml",
-      "publishedAt": "2026-09-21T17:00:01.186-03:00",
-      "evidence": "Complete extraction file 1dbbc386b2d3.json (HTTP 200, complete:true), published 2026-09-21. The Valor extraction compares the administrative-reform platforms of Lula, Flávio Bolsonaro, Augusto Cury, Ronaldo Caiado, Renan Santos and Romeu Zema, covering ministries, civil-service pay, performance reviews, state-owned companies, privatization and the 2027 payroll proposal.",
-      "selectionReason": "Distinct policy-comparison story with named candidates, public-administration consequences and concrete institutional issues; it broadens the desk beyond polling and the Banco Master-related material.",
-      "contentReview": {
-        "bodyComplete": true,
-        "aiSummaryReviewed": true
-      }
+      "articleId": "vorcaro-tenta-adiar-oitivas-enquanto-caso-master-acirra-crise-no-supremo-cnn-brasil",
+      "primarySection": "politica",
+      "secondarySections": [],
+      "secondarySectionRationale": {},
+      "url": "https://www.cnnbrasil.com.br/politica/vorcaro-tenta-adiar-oitivas-enquanto-caso-master-acirra-crise-no-supremo/",
+      "publishedAt": "2026-09-23T03:15:54-03:00",
+      "sourceEvidencePath": "research/runs/2026-09-23T11-31-23-014Z-8d26ca21-0863-4450-82bc-1cdf26820144/extractions/politica/9f0cf66fc4b5.json",
+      "evidence": "Complete saved CNN extraction (HTTP 200, complete:true, 16 reported paragraphs, no warnings) was read, including the defense’s request, the scheduled September 24 and 30 interviews, the two separate investigations and Vorcaro’s earlier denial. The complete Metrópoles body independently confirms the request dates and defense rationale. CNN specifies at least ten business days; Metrópoles describes ten days after access without specifying that same unit, so the draft follows CNN’s more precise wording and records the difference.",
+      "corroboratingSources": [
+        {
+          "url": "https://www.metropoles.com/colunas/manoela-alcantara/vorcaro-pede-que-depoimentos-a-pf-sejam-adiados-por-nao-ter-acesso-a-provas",
+          "matchingFacts": "Metrópoles independently reports the two scheduled dates, the defense’s lack-of-access rationale and its request for ten days after access; it does not state whether those are working days."
+        }
+      ],
+      "corroborationNote": "The request is not reported as granted. The differing description of the requested period is disclosed; allegations attributed to the Federal Police remain unproven.",
+      "extractionGates": {
+        "httpStatus": 200,
+        "complete": true,
+        "paragraphCount": 16,
+        "warnings": [],
+        "passed": true
+      },
+      "selectionReason": "The defense request has near-term scheduled dates and can be reported as a procedural event without treating the underlying suspected fraud or police allegations as established.",
+      "contentReview": { "bodyComplete": true, "aiSummaryReviewed": true }
     },
     {
-      "articleId": "politica-2026-09-22-lula-trump-reciprocidade",
-      "url": "https://g1.globo.com/politica/eleicoes/2026/noticia/2026/09/21/nos-eua-lula-diz-que-trump-age-como-imperador-e-que-avalia-como-aplicar-reciprocidade-se-negociacao-do-tarifaco-nao-avancar.ghtml",
-      "publishedAt": "2026-09-21T16:36:10.875-03:00",
-      "evidence": "Complete extraction file 6272de6234fc.json (HTTP 200, complete:true), published 2026-09-21. The G1 extraction reports Lula's interview comments on Trump, the preference for negotiation, the possible use of Brazil's Reciprocity Law if tariff talks fail, the formal activation without practical retaliation, the cited 37.5% U.S. surcharge and Lula's position on Venezuela and suspected election interference.",
-      "selectionReason": "Current foreign-policy and trade-policy report based on a named presidential interview and a Congress-approved legal mechanism; selected as a distinct issue from Lula's UN speech and the separate Mamdani meeting.",
-      "contentReview": {
-        "bodyComplete": true,
-        "aiSummaryReviewed": true
-      }
+      "articleId": "sovereignty-takes-center-stage-in-foreign-policy-electoral-platforms",
+      "primarySection": "politica",
+      "secondarySections": [],
+      "secondarySectionRationale": {},
+      "url": "https://valorinternational.globo.com/politics/news/2026/09/22/sovereignty-takes-center-stage-in-foreign-policy-electoral-platforms.ghtml",
+      "publishedAt": "2026-09-22T16:00:00.469-03:00",
+      "sourceEvidencePath": "research/runs/2026-09-23T11-31-23-014Z-8d26ca21-0863-4450-82bc-1cdf26820144/extractions/politica/8fa138264b03.json",
+      "evidence": "Complete saved Valor International extraction (HTTP 200, complete:true, 32 reported paragraphs, no warnings; 1,455 words) and complete Deutsche Welle corroborator (2,059 words) were read. Valor explicitly reports that Renan Santos’s defense-spending proposals include construction of a nuclear bomb, and separately describes his platform’s aim of autonomy across the nuclear-fuel cycle, including reprocessing. Valor also states that the Constitution limits nuclear activity to peaceful purposes and requires congressional approval. DW independently supports the central Lula–Flávio contrast over multilateralism and international alignments, but does not corroborate the Renan Santos proposal or Valor’s full candidate count.",
+      "corroboratingSources": [
+        {
+          "url": "https://amp.dw.com/pt-br/brics-eua-mercosul-as-propostas-de-lula-e-fl%C3%A1vio-bolsonaro-para-pol%C3%ADtica-externa/a-79298989",
+          "matchingFacts": "DW independently compares Lula’s and Flávio Bolsonaro’s positions on sovereignty, the United States, Mercosur, BRICS and Israel; it does not verify Valor’s candidate count, the nuclear-bomb proposal attributed to Renan Santos or every platform detail."
+        }
+      ],
+      "corroborationNote": "DW supports the broad Lula–Flávio contrast but does not corroborate Valor’s specific reporting about Renan Santos. The nuclear-bomb proposal and the separate nuclear-fuel-cycle autonomy goal are explicitly attributed to Valor; the article retains Valor’s peaceful-use and congressional-approval qualification and distinguishes campaign proposals from current law and policy.",
+      "extractionGates": {
+        "httpStatus": 200,
+        "complete": true,
+        "paragraphCount": 32,
+        "warnings": [],
+        "passed": true
+      },
+      "selectionReason": "A comparative policy report broadens the desk beyond campaign schedules and polls; the draft attributes the candidate count and platform details to Valor, restores its specific account of Renan Santos’s nuclear-bomb proposal, and distinguishes that campaign proposal from current law and policy while retaining the constitutional peaceful-use qualification.",
+      "contentReview": { "bodyComplete": true, "aiSummaryReviewed": true }
     },
     {
-      "articleId": "politica-2026-09-22-lula-mamdani",
-      "url": "https://www.cnnbrasil.com.br/politica/analise-encontro-entre-lula-e-o-prefeito-de-nova-york-e-gesto-para-trump/",
-      "publishedAt": "2026-09-21T17:15:46-03:00",
-      "evidence": "Complete extraction file 1123e7a93875.json (HTTP 200, complete:true), published 2026-09-21. The CNN extraction reports Lula's September 21 meeting with New York Mayor Zohran Mamdani at Brazil's UN ambassadorial residence, the analyst Pedro Venceslau's interpretation of political reciprocity, the UN-speech context and the Corinthians-shirt exchange.",
-      "selectionReason": "Distinct diplomatic encounter involving Brazil's president and a named municipal institution, with analysis clearly attributed to CNN's Pedro Venceslau and separated from established meeting facts.",
-      "contentReview": {
-        "bodyComplete": true,
-        "aiSummaryReviewed": true
-      }
+      "articleId": "world-news-g4-countries-call-for-immediate-unsc-reform-cite-councils-inability-to-uphold-g",
+      "primarySection": "politica",
+      "secondarySections": [],
+      "secondarySectionRationale": {},
+      "url": "https://www.latestly.com/agency-news/world-news-g4-countries-call-for-immediate-unsc-reform-cite-councils-inability-to-uphold-global-peace-security-7616526.html",
+      "publishedAt": "2026-09-23T11:24:15+05:30",
+      "sourceEvidencePath": "research/runs/2026-09-23T11-31-23-014Z-8d26ca21-0863-4450-82bc-1cdf26820144/extractions/politica/986d019556f2.json",
+      "evidence": "Complete saved LatestLY/ANI extraction (HTTP 200, complete:true, 26 reported paragraphs, no warnings; 910 words) was read alongside the complete German Foreign Office statement (751 words). The statement independently confirms the four ministers, September 22 meeting, membership-expansion position and follow-up. Both texts present a joint diplomatic position, not an adopted UN reform.",
+      "corroboratingSources": [
+        {
+          "url": "https://www.auswaertiges-amt.de/en/newsroom/news/2803658-2803658",
+          "matchingFacts": "Germany’s Foreign Office statement confirms the G4 ministers, their September 22 New York meeting, support for expansion in both membership categories and planned follow-up."
+        }
+      ],
+      "corroborationNote": "The official German statement corroborates meeting and position details; the article attributes assessments about the Council’s performance to the G4 statement and does not imply reform was enacted.",
+      "extractionGates": {
+        "httpStatus": 200,
+        "complete": true,
+        "paragraphCount": 26,
+        "warnings": [],
+        "passed": true
+      },
+      "selectionReason": "A recent, Brazil-linked multilateral statement provides a concrete diplomatic position distinct from Lula’s speech and the platform comparison; it is paired with an official participating government’s statement.",
+      "contentReview": { "bodyComplete": true, "aiSummaryReviewed": true }
     },
     {
-      "articleId": "politica-2026-09-22-gonet-csmpf",
-      "url": "https://www.cnnbrasil.com.br/politica/mencoes-a-gonet-no-celular-de-vorcaro-incomodam-membros-do-conselho-do-mp/",
-      "publishedAt": "2026-09-21T12:58:36-03:00",
-      "evidence": "Complete extraction file 1270494ab4c8.json (HTTP 200, complete:true), published 2026-09-21. The CNN extraction reports the CSMPF session scheduled for September 25, its composition and rapporteur, the possible procedural outcomes and the uncertainty over whether removal, recusal or impartiality will be discussed. It attributes assessments about the messages to analyst Teo Cury and people close to Gonet and does not establish misconduct.",
-      "selectionReason": "Selected as the desk's single Banco Master/Vorcaro-related scandal entry because it centers on a scheduled public institutional procedure. Other complete records about the same scandal were excluded to avoid repeating one scandal and to preserve attribution around unproven allegations.",
-      "contentReview": {
-        "bodyComplete": true,
-        "aiSummaryReviewed": true
-      }
+      "articleId": "gilmar-propoe-que-stf-analise-caso-de-usinas-apos-mensagens-sobre-kassio-cnn-brasil",
+      "primarySection": "politica",
+      "secondarySections": [],
+      "secondarySectionRationale": {},
+      "url": "https://www.cnnbrasil.com.br/politica/gilmar-propoe-que-stf-analise-caso-de-usinas-apos-mensagens-sobre-kassio/",
+      "publishedAt": "2026-09-22T17:54:32-03:00",
+      "sourceEvidencePath": "research/runs/2026-09-23T11-31-23-014Z-8d26ca21-0863-4450-82bc-1cdf26820144/extractions/politica/f5e2c6ab07a3.json",
+      "evidence": "Complete saved CNN extraction (HTTP 200, complete:true, 12 reported paragraphs, no warnings) was read with the complete Correio Braziliense corroboration (527 words). Both describe Gilmar Mendes’s referral proposal and the pending Second Panel decision; Correio explicitly states that this procedural vote will not decide whether compensation is owed or its amount. CNN also records Nunes Marques’s denial and the reported messages/fee discussions as attributed material.",
+      "corroboratingSources": [
+        {
+          "url": "https://www.correiobraziliense.com.br/politica/2026/09/7506020-gilmar-quer-levar-ao-plenario-disputa-sobre-indenizacao-a-usinas.html",
+          "matchingFacts": "Correio Braziliense independently confirms the proposed referral, the September 25–October 2 Second Panel session and that the panel will decide only referral, not compensation or its value."
+        }
+      ],
+      "corroborationNote": "The article keeps the case’s procedural scope explicit, attributes the reported messages and contract details, and includes Nunes Marques’s denial; no misconduct finding is reported.",
+      "extractionGates": {
+        "httpStatus": 200,
+        "complete": true,
+        "paragraphCount": 12,
+        "warnings": [],
+        "passed": true
+      },
+      "selectionReason": "A scheduled institutional decision affects the handling of a significant public-law dispute; cross-reporting supports the procedural facts, while the article separates the referral question from compensation merits and attributed allegations.",
+      "contentReview": { "bodyComplete": true, "aiSummaryReviewed": true }
     },
     {
-      "articleId": "politica-2026-09-22-ipsos-ipec-governo",
-      "url": "https://www.cnnbrasil.com.br/politica/ipsos-ipec-governo-lula-tem-saldo-negativo-em-todas-as-areas/",
-      "publishedAt": "2026-09-21T14:31:11-03:00",
-      "evidence": "Complete extraction file 7577104124a1.json (HTTP 200, complete:true), published 2026-09-21. The CNN extraction reports Ipsos-Ipec's ratings of spending control, inflation, security, education and hunger/poverty, along with the sample of 2,000 voters in 130 municipalities, September 9-13 fieldwork, two-point margin and 95% confidence level.",
-      "selectionReason": "A distinct public-policy evaluation poll covering government performance by policy area rather than presidential vote intention. It adds accountability coverage without repeating the selected Quaest horse-race poll or the excluded Banco Master poll.",
-      "contentReview": {
-        "bodyComplete": true,
-        "aiSummaryReviewed": true
-      }
+      "articleId": "lula-un-general-assembly-speech-2026",
+      "primarySection": "mundo",
+      "secondarySections": ["brasil", "politica"],
+      "secondarySectionRationale": {
+        "brasil": "The speaker is Brazil’s president and the address concerns Brazil’s international role; retain one shared speech identity.",
+        "politica": "The address includes Lula’s attributed warning about electoral interference and sovereignty; Política reuses the same speech identity rather than creating a second article."
+      },
+      "reuseRationale": "This is the same September 22 UN address selected by Mundo, Brasil and Política. Mundo is primary because the story centers on the international speech; Política reuses its single stable ID for the domestic sovereignty and electoral-warning angle. Do not create a duplicate Política article.",
+      "url": "https://apnews.com/article/un-united-nations-general-assembly-lula-brazil-767e63e2ffd5a2898c84f290de816ff7",
+      "publishedAt": "2026-09-22T15:43:28",
+      "sourceEvidencePath": "research/runs/2026-09-23T11-31-23-014Z-8d26ca21-0863-4450-82bc-1cdf26820144/extractions/mundo/97c229b751d6.json",
+      "additionalEventEvidence": [
+        {
+          "evidencePath": "research/runs/2026-09-23T11-31-23-014Z-8d26ca21-0863-4450-82bc-1cdf26820144/extractions/politica/3ba1f615a379.json",
+          "canonicalUrl": "https://g1.globo.com/politica/noticia/2026/09/22/na-onu-lula-defende-cooperacao-contra-crime-organizado-em-meio-a-divergencia-com-eua-sobre-pcc-e-cv.ghtml",
+          "publisher": "G1",
+          "role": "same-event reporting, retained as supporting context rather than a separate article"
+        }
+      ],
+      "evidence": "Complete saved AP extraction (HTTP 200, complete:true, 21 reported paragraphs, no warnings) was read, including Lula’s September 22 speech, attributed warnings about interference, sovereignty and the UN Security Council. The complete G1 speech transcript and a separate same-event G1 report were also read; the transcript confirms the date and statements. AP’s saved publication timestamp is preserved literally because its metadata does not encode a timezone.",
+      "corroboratingSources": [
+        {
+          "url": "https://g1.globo.com/politica/noticia/2026/09/22/leia-a-integra-do-discurso-de-lula-na-assembleia-geral-da-onu.ghtml",
+          "matchingFacts": "G1’s full transcript confirms the September 22 address and the sovereignty and electoral-interference statements; it is a transcript of the same event, not independent reporting."
+        },
+        {
+          "url": "https://g1.globo.com/politica/noticia/2026/09/22/na-onu-lula-defende-cooperacao-contra-crime-organizado-em-meio-a-divergencia-com-eua-sobre-pcc-e-cv.ghtml",
+          "matchingFacts": "G1’s separate report covers the same speech and its organized-crime cooperation remarks; it is same-event reporting, not a second article identity."
+        }
+      ],
+      "corroborationNote": "The transcript supports what Lula said but is not independent verification of the claims in his speech. All warnings and assertions remain attributed to the president; AP’s timestamp is not assigned an invented offset.",
+      "extractionGates": {
+        "httpStatus": 200,
+        "complete": true,
+        "paragraphCount": 21,
+        "warnings": [],
+        "passed": true
+      },
+      "selectionReason": "A major presidential address has direct relevance to political sovereignty and electoral discourse. Reuse the Mundo-primary story in Política rather than duplicate the same speech; report the warning as Lula’s statement, not proof that interference occurred.",
+      "contentReview": { "bodyComplete": true, "aiSummaryReviewed": true },
+      "retainedEditionNote": "The retained 2026-09-22 Politics edition contains politica-2026-09-22-lula-onu-contraponto, a pre-event preview of the September 22 speech. This edition reports the delivered remarks after the event; the preview and post-event account are distinct developments, so both stable article identities are retained for the archive."
     }
   ],
-  "shortfall": {
-    "pt-BR": "",
-    "en": ""
-  },
+  "shortfall": { "pt-BR": "", "en": "" },
   "improvements": [],
-  "candidateRun": "research/runs/2026-09-22T11-21-20-336Z-6df281a2-9343-4cb7-a1b3-001b9e9a3dde",
-  "retrievedAt": "2026-09-22T11:21:27.718Z",
-  "reviewStatus": "draft-source-verified-no-publication-approval"
+  "candidateRun": "research/runs/2026-09-23T11-31-23-014Z-8d26ca21-0863-4450-82bc-1cdf26820144",
+  "retrievedAt": "2026-09-23T11:31:28.110Z",
+  "reviewStatus": "draft-source-verified-no-publication-approval",
+  "authoringStatus": "Nine Politics-primary article files are complete and reviewed. The shared World-primary Lula article is present and its bilingual body and AI summary have been reviewed. The retained September 22 pre-event preview and this post-event account describe distinct stages of the address; no publication approval is implied."
 }

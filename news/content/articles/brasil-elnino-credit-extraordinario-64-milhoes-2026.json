@@ -1,0 +1,99 @@
+{
+  "id": "brasil-elnino-credit-extraordinario-64-milhoes-2026",
+  "slug": "brasil-elnino-credit-extraordinario-64-milhoes-2026",
+  "section": "brasil",
+  "secondarySections": [],
+  "publishedAt": "2026-09-22T23:20:00-03:00",
+  "publishedDate": "2026-09-22",
+  "updatedAt": "2026-09-24T17:45:13.603Z",
+  "sources": [
+    {
+      "name": "Agência Brasil",
+      "url": "https://agenciabrasil.ebc.com.br/politica/noticia/2026-09/afetados-pelo-el-nino-terao-credito-extraordinario-de-r-64-milhoes"
+    },
+    {
+      "name": "Agência Câmara de Notícias",
+      "url": "https://www.camara.leg.br/noticias/1306021-medida-provisoria-destina-r-643-milhoes-para-seguranca-alimentar-e-direitos-dos-povos-indigenas"
+    }
+  ],
+  "rights": {
+    "mode": "original-report"
+  },
+  "translations": {
+    "pt-BR": {
+      "title": "MP abre R$ 64,3 milhões para ações ligadas ao El Niño",
+      "summary": "A MP 1.392/26 autoriza crédito para segurança alimentar e ações em comunidades indígenas. A autorização orçamentária não comprova que as compras ou entregas já ocorreram.",
+      "aiSummary": [
+        "A MP 1.392/26 abriu R$ 64,289 milhões em crédito extraordinário no Orçamento da União.",
+        "R$ 40,264 milhões foram destinados ao MDS para compras da agricultura familiar; R$ 24,025 milhões, à Funai.",
+        "A medida está em vigor, mas ainda depende de aprovação do Congresso; os valores autorizados não comprovam a execução das ações."
+      ],
+      "paragraphs": [
+        "A Agência Brasil informou em 22 de setembro que o presidente da República em exercício, Geraldo Alckmin, assinou uma medida provisória para abrir crédito extraordinário em resposta aos efeitos do El Niño. A Agência Câmara identificou o instrumento como MP 1.392/26: publicada no Diário Oficial em 22 de setembro, ela autoriza R$ 64,289 milhões no Orçamento da União.",
+        "Do total, R$ 40,264 milhões serão aplicados pelo Ministério do Desenvolvimento e Assistência Social, Família e Combate à Fome na compra e distribuição de alimentos da agricultura familiar. A Câmara informa que a ação deverá atender 4.026 famílias de agricultores; esse número descreve o público previsto, não entregas já concluídas.",
+        "Outros R$ 24,025 milhões vão para a Fundação Nacional dos Povos Indígenas, vinculada ao Ministério dos Povos Indígenas. A Câmara descreve ações de promoção de direitos e cidadania em 1.300 comunidades indígenas, enquanto a Agência Brasil informa que o plano inclui alimentos, água potável e outros insumos essenciais em terras indígenas.",
+        "A medida provisória já está em vigor, mas ainda precisa ser aprovada pelo Congresso para se tornar lei. Segundo a Câmara, a análise passa pela Comissão Mista de Orçamento e, depois, pelos plenários da Câmara dos Deputados e do Senado.",
+        "A Agência Brasil também informou que o governo lançou uma página para reunir orientações, monitoramento e ações de preparação e resposta ao El Niño. A reportagem descreve riscos regionais de chuva irregular — seca no Norte e Nordeste, atraso das chuvas no Centro-Oeste e Sudeste e enchentes no Sul —, mas não afirma que o novo crédito já tenha reduzido esses impactos."
+      ]
+    },
+    "en": {
+      "title": "Measure opens R$64.3 million for El Niño-related action",
+      "summary": "Provisional Measure 1,392/26 authorizes credit for food security and measures in Indigenous communities. The budget authorization does not show that purchases or deliveries have already taken place.",
+      "aiSummary": [
+        "Provisional Measure 1,392/26 opened R$64.289 million in extraordinary credit in Brazil's federal budget.",
+        "R$40.264 million is assigned to the social-development ministry for family-farm food purchases; R$24.025 million goes to Funai.",
+        "The measure is in force but still requires congressional approval; authorized amounts do not establish that the measures have been carried out."
+      ],
+      "paragraphs": [
+        "Agência Brasil reported on September 22 that acting President Geraldo Alckmin had signed a provisional measure to open extraordinary credit in response to El Niño impacts. Agência Câmara identified the instrument as Provisional Measure 1,392/26: published in the Official Gazette on September 22, it authorizes R$64.289 million in Brazil's federal budget.",
+        "Of the total, R$40.264 million is assigned to the Ministry of Development and Social Assistance, Family and the Fight Against Hunger to buy and distribute food from family farms. The Chamber of Deputies says the action is expected to serve 4,026 farming families; that is a planned reach, not a record of completed deliveries.",
+        "Another R$24.025 million goes to the National Indigenous Peoples Foundation, Funai, which is linked to the Ministry of Indigenous Peoples. Agência Câmara describes rights and citizenship measures in 1,300 Indigenous communities, while Agência Brasil says the plan includes food, drinking water and other essential supplies in Indigenous lands.",
+        "The provisional measure is already in force but must still be approved by Congress to become law. Agência Câmara says it will be reviewed by the Joint Budget Committee and then by the full chambers of the House of Representatives and Senate.",
+        "Agência Brasil also reported that the government launched a page gathering guidance, monitoring and preparation and response measures for El Niño. Its report describes regional risks from irregular rainfall — drought in the North and Northeast, delayed rains in the Center-West and Southeast, and flooding in the South — but does not claim that the new credit has already reduced those effects."
+      ]
+    }
+  },
+  "verification": {
+    "score": 9.2,
+    "checkedAt": "2026-09-24T14:14:34Z",
+    "checks": [
+      {
+        "provider": "Aos Fatos",
+        "url": "https://www.aosfatos.org/",
+        "finding": "no-match",
+        "note": "Exact searches for MP 1,392/26, R$64.289 million and the allocations found no relevant fact-check; neutral."
+      },
+      {
+        "provider": "Agência Lupa",
+        "url": "https://www.agencialupa.org/",
+        "finding": "no-match",
+        "note": "No check of the provisional measure, amounts or allocations was located; neutral."
+      },
+      {
+        "provider": "Projeto Comprova",
+        "url": "https://projetocomprova.com.br/publica%C3%A7%C3%B5es/super-el-nino-e-aquecimento-global-sao-eventos-climaticos-comprovados-ao-contrario-do-que-diz-meteorologista/",
+        "finding": "context",
+        "note": "Comprova's September 2026 check addresses claims about a 'Super El Niño' and climate risks, not MP 1,392/26, its allocations or the specific regional effects reported by Agência Brasil. Context only."
+      },
+      {
+        "provider": "AFP Fact Check",
+        "url": "https://factcheck.afp.com/",
+        "finding": "no-match",
+        "note": "No fact-check of this credit measure or its exact allocations was found; climate-related results do not assess this policy. Neutral."
+      },
+      {
+        "provider": "Reuters Fact Check",
+        "url": "https://www.reuters.com/fact-check/",
+        "finding": "no-match",
+        "note": "No relevant check of the MP or its budget figures was located; neutral."
+      },
+      {
+        "provider": "Full Fact",
+        "url": "https://fullfact.org/",
+        "finding": "no-match",
+        "note": "No fact-check of the Brazilian MP, allocations or El Niño rationale was found; neutral."
+      }
+    ],
+    "caveat": "Agência Brasil reports the El Niño rationale; the independent Agência Câmara extraction confirms MP 1,392/26, R$64.289 million, the R$40.264m/R$24.025m split, planned reach and pending congressional approval. The El Niño link and regional risk summary are not independently corroborated in the saved evidence. Article and summaries correctly distinguish budget authorization/targets from completed purchases or deliveries. PT-BR and EN amounts and qualifications match."
+  }
+}

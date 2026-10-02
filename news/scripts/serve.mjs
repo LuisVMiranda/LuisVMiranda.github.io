@@ -7,6 +7,9 @@ const manifest = JSON.parse(
   await readFile('artifacts/pages-build.json', 'utf8'),
 );
 const root = path.resolve(process.env.PAGES_DIRECTORY || manifest.directory);
+const port = Number(process.env.PORT || 4321);
+if (!Number.isInteger(port) || port < 1 || port > 65535)
+  throw new Error(`Invalid preview port: ${process.env.PORT}`);
 /** @type {Record<string, string>} */
 const mime = {
   '.html': 'text/html; charset=utf-8',
@@ -35,6 +38,6 @@ createServer(async (request, response) => {
     response.writeHead(404, { 'Content-Type': 'text/html; charset=utf-8' });
     response.end(body);
   }
-}).listen(4321, '127.0.0.1', () =>
-  console.log('Pages preview: http://127.0.0.1:4321/news/'),
+}).listen(port, '127.0.0.1', () =>
+  console.log(`Pages preview: http://127.0.0.1:${port}/news/`),
 );

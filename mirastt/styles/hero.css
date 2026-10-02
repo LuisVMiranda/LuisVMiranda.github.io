@@ -1,0 +1,348 @@
+.hero {
+  position: relative;
+  padding-top: 62px;
+  min-height: 740px;
+  display: grid;
+  grid-template-columns: 1.05fr 1fr;
+  align-items: start;
+  isolation: isolate;
+}
+.release-tag {
+  display: inline-flex;
+  gap: 11px;
+  align-items: center;
+  font-size: 10px;
+  font-weight: 500;
+  letter-spacing: 0.11em;
+  border: 1px solid var(--line);
+  border-radius: 24px;
+  padding: 9px 12px;
+  margin-bottom: 28px;
+}
+.release-tag > span:last-child {
+  margin-left: 8px;
+  font-size: 14px;
+}
+.hero h1 {
+  font-size: clamp(68px, 6.7vw, 94px);
+  line-height: 0.99;
+  letter-spacing: -0.075em;
+}
+.you {
+  color: #63836d;
+  position: relative;
+}
+.spark {
+  font-size: 0.53em;
+  position: absolute;
+  top: -0.12em;
+  right: -0.94em;
+  font-weight: 400;
+  color: var(--purple);
+  transform: rotate(12deg);
+}
+.hero-description {
+  color: var(--muted);
+  font-size: 16px;
+  max-width: 385px;
+  margin-top: 27px;
+}
+.hero-actions {
+  display: flex;
+  align-items: center;
+  gap: 24px;
+  margin-top: 28px;
+  position: relative;
+  z-index: 2;
+}
+.hero-meta {
+  font-size: 11px;
+  margin-top: 17px;
+}
+.hero-meta a {
+  text-decoration: underline;
+  text-underline-offset: 3px;
+}
+.hero-art {
+  position: relative;
+  width: calc(100% + 45px);
+  height: 555px;
+  margin-left: -10px;
+  margin-top: 12px;
+  min-width: 0;
+}
+.orbit-grid {
+  position: absolute;
+  inset: 4% -4% 0;
+  border-radius: 50%;
+  background: radial-gradient(ellipse at 50% 50%, #dcebd0b5 0, transparent 65%);
+  z-index: -1;
+  overflow: hidden;
+}
+.orbit-grid:before {
+  content: "";
+  position: absolute;
+  inset: 4%;
+  background-image:
+    linear-gradient(#77987112 1px, transparent 1px),
+    linear-gradient(90deg, #77987112 1px, transparent 1px);
+  background-size: 36px 36px;
+  mask-image: radial-gradient(ellipse, #000, transparent 68%);
+  transform: rotate(-18deg);
+}
+.art-caption {
+  position: absolute;
+  left: 10%;
+  top: 30px;
+  font-size: 9px;
+  letter-spacing: 0.15em;
+  display: flex;
+  align-items: center;
+  gap: 14px;
+  color: #758371;
+}
+.tiny-cross {
+  font-size: 22px;
+  font-weight: 300;
+}
+.scene-shadow {
+  position: absolute;
+  left: 15%;
+  right: 10%;
+  bottom: 13%;
+  height: 70px;
+  background: radial-gradient(ellipse, #29432c26, transparent 65%);
+  filter: blur(10px);
+  transform: rotate(-8deg);
+}
+#voice-scene {
+  position: relative;
+  width: 100%;
+  height: 100%;
+  display: block;
+  cursor: grab;
+  touch-action: pan-y;
+}
+#voice-scene:active {
+  cursor: grabbing;
+}
+.floating-note {
+  position: absolute;
+  display: flex;
+  align-items: center;
+  gap: 11px;
+  background: #ffffffdf;
+  border: 1px solid #fff;
+  box-shadow: 0 12px 32px #263c2610;
+  backdrop-filter: blur(14px);
+  border-radius: 10px;
+  font-size: 11px;
+  pointer-events: none;
+}
+.note-listening {
+  right: 1%;
+  top: 25%;
+  padding: 16px;
+  transform: rotate(5deg);
+}
+.note-time {
+  font-size: 10px;
+  color: var(--muted);
+  font-variant-numeric: tabular-nums;
+  border-left: 1px solid var(--line);
+  padding-left: 12px;
+}
+.note-keys {
+  left: 6%;
+  bottom: 19%;
+  padding: 10px 12px;
+  transform: rotate(-7deg);
+}
+.note-keys > span {
+  color: #87917c;
+  font-size: 10px;
+}
+.note-keys .key-arrow {
+  margin-left: 8px;
+  font-size: 21px;
+  color: var(--ink);
+}
+.scene-controls {
+  position: absolute;
+  bottom: 4px;
+  left: 8%;
+  right: 2%;
+  display: flex;
+  align-items: center;
+  justify-content: flex-end;
+  gap: 8px;
+}
+.scene-controls > span {
+  font-size: 8px;
+  letter-spacing: 0.12em;
+  margin-right: auto;
+  color: #607460;
+}
+.scene-controls button {
+  background: transparent;
+  border: 1px solid #d8e1d1;
+  border-radius: 20px;
+  font-size: 10px;
+  padding: 9px 12px;
+  min-height: 36px;
+}
+.scene-controls button:hover {
+  background: #e6eddf;
+}
+.scene-fallback {
+  position: absolute;
+  left: 12%;
+  right: 4%;
+  top: 38%;
+  height: 115px;
+  background: #1a302a;
+  box-shadow:
+    0 18px 0 #c3d4b6,
+    0 22px 0 #e6eddf,
+    0 30px 40px #2b433529;
+  border: 10px solid #edf4e6;
+  border-radius: 80px;
+  transform: rotate(-18deg);
+  display: none;
+  align-items: center;
+  justify-content: center;
+  gap: 10px;
+}
+.scene-fallback span {
+  height: 30%;
+  width: 8px;
+  border-radius: 5px;
+  background: #ab97ed;
+}
+.scene-fallback span:nth-child(3n) {
+  height: 60%;
+}
+.scene-fallback span:nth-child(2n) {
+  height: 45%;
+}
+.hero-art[data-renderer="fallback"] .scene-fallback {
+  display: flex;
+}
+.hero-art[data-renderer="fallback"] canvas {
+  visibility: hidden;
+}
+.hero-bottom {
+  grid-column: 1/-1;
+  margin-top: 38px;
+  display: flex;
+  justify-content: space-between;
+  padding-block: 26px;
+  font-size: 9px;
+  letter-spacing: 0.13em;
+  color: var(--muted);
+}
+.hero-bottom a {
+  display: flex;
+  gap: 14px;
+}
+.capability-strip {
+  border-block: 1px solid var(--line);
+  background: #eff2e9;
+}
+.capability-strip .wrap {
+  display: flex;
+  justify-content: space-between;
+  gap: 20px;
+  padding-block: 26px;
+}
+.capability-strip span {
+  display: flex;
+  align-items: center;
+  gap: 14px;
+  font-size: 12px;
+}
+.capability-strip b {
+  font-size: 22px;
+  font-weight: 400;
+  color: #617058;
+}
+.workflow {
+  display: grid;
+  grid-template-columns: 0.75fr 1.65fr;
+  gap: 64px;
+}
+.section-intro h2 {
+  font-size: 42px;
+}
+.section-intro > p:last-child {
+  font-size: 13px;
+  color: var(--muted);
+  margin-top: 25px;
+}
+.steps {
+  margin: 0;
+  padding: 0;
+  list-style: none;
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  gap: 28px;
+  align-items: start;
+}
+.step-number {
+  font-size: 10px;
+  color: #62705c;
+}
+.steps h3 {
+  font-size: 20px;
+  letter-spacing: -0.04em;
+  margin-block: 18px 12px;
+}
+.steps p {
+  font-size: 12px;
+  color: var(--muted);
+  line-height: 1.7;
+}
+.step-visual {
+  height: 82px;
+  display: flex;
+  align-items: center;
+  gap: 5px;
+  white-space: nowrap;
+}
+.step-visual kbd {
+  font-size: 10px;
+  padding: 7px;
+}
+.step-visual > span {
+  font-size: 10px;
+  color: #8d9688;
+}
+.mini-wave {
+  gap: 5px;
+  padding-left: 8px;
+}
+.mini-wave i {
+  width: 5px;
+  background: #8b77db;
+  border-radius: 8px;
+  height: 14px;
+}
+.mini-wave i:nth-child(2n) {
+  height: 34px;
+}
+.mini-wave i:nth-child(3n) {
+  height: 48px;
+}
+.mini-wave i:nth-child(5n) {
+  height: 24px;
+}
+.output-mark {
+  font-size: 16px;
+  letter-spacing: -0.035em;
+}
+.output-mark span {
+  width: 2px;
+  height: 24px;
+  background: var(--purple);
+  margin-left: 3px;
+}

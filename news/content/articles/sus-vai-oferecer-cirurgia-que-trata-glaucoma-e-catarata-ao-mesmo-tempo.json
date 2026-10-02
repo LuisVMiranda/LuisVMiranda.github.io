@@ -1,0 +1,96 @@
+{
+  "id": "sus-vai-oferecer-cirurgia-que-trata-glaucoma-e-catarata-ao-mesmo-tempo",
+  "slug": "sus-vai-oferecer-cirurgia-que-trata-glaucoma-e-catarata-ao-mesmo-tempo",
+  "section": "brasil",
+  "secondarySections": [],
+  "publishedAt": "2026-09-21T11:43:00-03:00",
+  "updatedAt": "2026-09-24T17:45:13.603Z",
+  "sources": [
+    {
+      "name": "Ministério da Saúde",
+      "url": "https://www.gov.br/saude/pt-br/assuntos/noticias-ms/2026/setembro/sus-vai-oferecer-cirurgia-que-trata-glaucoma-e-catarata-ao-mesmo-tempo"
+    }
+  ],
+  "rights": {
+    "mode": "original-report"
+  },
+  "translations": {
+    "pt-BR": {
+      "title": "SUS incorpora cirurgia combinada para catarata e glaucoma",
+      "summary": "A técnica foi incorporada para alguns casos leves ou moderados de glaucoma de ângulo aberto, mas a implantação pode levar até 180 dias.",
+      "aiSummary": [
+        "O Ministério da Saúde incorporou ao SUS uma cirurgia que trata catarata e glaucoma na mesma intervenção.",
+        "Indicada para casos leves a moderados de glaucoma primário de ângulo aberto, a técnica combina a remoção do cristalino com a abertura de um canal de drenagem ocular.",
+        "A implantação pode levar até 180 dias, portanto a incorporação não representa disponibilidade imediata."
+      ],
+      "paragraphs": [
+        "O Ministério da Saúde oficializou a incorporação ao SUS de uma técnica cirúrgica que trata catarata e glaucoma na mesma intervenção. A portaria foi publicada no Diário Oficial da União em 17 de setembro, após deliberação favorável da Comissão Nacional de Incorporação de Tecnologias no SUS em 21 de agosto.",
+        "O procedimento combina a remoção do cristalino com a desobstrução do canal natural de drenagem do olho. A indicação descrita pelo ministério abrange casos leves a moderados de glaucoma primário de ângulo aberto.",
+        "A técnica pode ser realizada por goniotomia excisional, com uma pequena incisão na córnea, ou por trabeculotomia transluminal, com um microcateter ou fio cirúrgico introduzido no canal de drenagem. Ambas aparecem como possibilidades no protocolo clínico a ser atualizado.",
+        "Segundo o ministério, a cirurgia é menos invasiva que algumas opções atuais e pode favorecer recuperação mais rápida, reduzir riscos de complicações e melhorar o controle da pressão intraocular. Esses benefícios são apresentados pela pasta como características da tecnologia incorporada.",
+        "O tratamento inicial do glaucoma na rede pública usa colírios para reduzir a pressão no olho. Quando a resposta não é suficiente ou há dificuldade de manter o uso regular, o protocolo prevê outras intervenções, como laser e cirurgia.",
+        "A incorporação não significa oferta imediata: a implantação pode levar até 180 dias. O glaucoma é uma doença crônica que afeta o nervo óptico e pode limitar gradualmente a visão periférica; a catarata reduz a transparência do cristalino e a capacidade visual."
+      ]
+    },
+    "en": {
+      "title": "SUS adds combined surgery for cataracts and glaucoma",
+      "summary": "The technique is included for some mild or moderate open-angle glaucoma cases, but implementation may take up to 180 days.",
+      "aiSummary": [
+        "Brazil's Health Ministry added to SUS a surgery that treats cataracts and glaucoma in one procedure.",
+        "For mild to moderate primary open-angle glaucoma, it combines lens removal with opening an eye's drainage channel.",
+        "Implementation may take up to 180 days, so the addition does not mean immediate availability."
+      ],
+      "paragraphs": [
+        "Brazil's Health Ministry formally added a surgical technique to SUS, the public health system, that treats cataracts and glaucoma in one procedure. The ordinance was published in the Official Gazette on September 17, following a favorable decision by the National Commission for the Incorporation of Health Technologies on August 21.",
+        "The procedure combines removal of the eye's lens with opening its natural drainage channel. The ministry's stated indication covers mild to moderate cases of primary open-angle glaucoma.",
+        "The technique can be performed as excisional goniotomy, through a small incision in the cornea, or as transluminal trabeculotomy, using a microcatheter or surgical wire inserted into the drainage channel. Both options are listed for inclusion in the clinical protocol.",
+        "The ministry says the surgery is less invasive than some current options and may support faster recovery, reduce the risk of complications and improve control of intraocular pressure. These benefits are presented by the ministry as characteristics of the added technology.",
+        "Initial glaucoma treatment in the public system uses eye drops to lower pressure in the eye. When the response is inadequate or regular use is difficult, the protocol includes other interventions such as laser treatment and surgery.",
+        "The addition does not mean immediate availability: implementation may take up to 180 days. Glaucoma is a chronic disease affecting the optic nerve and can gradually limit peripheral vision; cataracts cloud the lens and reduce visual capacity."
+      ]
+    }
+  },
+  "verification": {
+    "score": 8.5,
+    "checkedAt": "2026-09-24T14:14:34Z",
+    "checks": [
+      {
+        "provider": "Aos Fatos",
+        "url": "https://www.aosfatos.org/",
+        "finding": "no-match",
+        "note": "No direct check of the SUS combined cataract/glaucoma procedure or its eligibility criteria was found; neutral."
+      },
+      {
+        "provider": "Agência Lupa",
+        "url": "https://www.agencialupa.org/noticias/2025/10/24/medicamento-falso-promete-curar-doencas-nos-olhos-em-24-horas/",
+        "finding": "context",
+        "note": "Lupa's check concerns a false promise to cure eye diseases, not this Ministry policy or combined procedure. It provides only general misinformation context and does not validate clinical benefits."
+      },
+      {
+        "provider": "Projeto Comprova",
+        "url": "https://projetocomprova.com.br/",
+        "finding": "no-match",
+        "note": "No check of the Ministry's incorporation decision, 180-day implementation period or procedure was located; neutral."
+      },
+      {
+        "provider": "AFP Fact Check",
+        "url": "https://factcheck.afp.com/",
+        "finding": "no-match",
+        "note": "No relevant check of the Brazilian SUS procedure or its clinical claims was found; neutral."
+      },
+      {
+        "provider": "Reuters Fact Check",
+        "url": "https://www.reuters.com/fact-check/",
+        "finding": "no-match",
+        "note": "No fact-check of the combined procedure or its stated indication was located; neutral."
+      },
+      {
+        "provider": "Full Fact",
+        "url": "https://fullfact.org/",
+        "finding": "no-match",
+        "note": "No check of this Brazilian coverage decision or procedure was found; neutral."
+      }
+    ],
+    "caveat": "The complete Health Ministry release supports the incorporation, the mild-to-moderate primary open-angle glaucoma indication and the described techniques. The 180-day implementation limit is supported by official Conitec guidance on the statutory availability timetable, but was absent from the saved source extraction. Faster recovery, fewer complications and similar benefits remain attributed to the Ministry, not independently verified clinical outcomes. The article does not imply immediate availability or give treatment advice. PT-BR and EN align."
+  }
+}

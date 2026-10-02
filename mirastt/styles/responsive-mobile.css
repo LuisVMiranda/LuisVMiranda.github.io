@@ -1,0 +1,468 @@
+@media (max-width: 600px) {
+  .wrap {
+    width: calc(100% - 40px);
+  }
+  .site-header {
+    height: 78px;
+  }
+  .site-header nav {
+    display: none;
+  }
+  .wordmark {
+    font-size: 29px;
+  }
+  .button-small {
+    font-size: 12px;
+    padding: 10px 16px;
+    min-height: 40px;
+  }
+  .hero {
+    display: flex;
+    flex-direction: column;
+    padding-top: 37px;
+    min-height: 0;
+  }
+  .hero h1 {
+    font-size: clamp(61px, 14vw, 82px);
+    letter-spacing: -0.07em;
+  }
+  .release-tag {
+    font-size: 8px;
+    padding: 8px 10px;
+    margin-bottom: 23px;
+  }
+  .hero-copy {
+    width: 100%;
+  }
+  .hero-description {
+    font-size: 14px;
+    max-width: 340px;
+    margin-top: 23px;
+  }
+  .hero-actions {
+    gap: 21px;
+    margin-top: 24px;
+  }
+  .hero-actions .button {
+    font-size: 12px;
+    padding: 15px 17px;
+    min-height: 49px;
+  }
+  .hero-actions .text-link {
+    font-size: 11px;
+    gap: 7px;
+  }
+  .hero-meta {
+    font-size: 10px;
+    margin-top: 16px;
+  }
+  .hero-art {
+    width: calc(100% + 24px);
+    height: 360px;
+    margin: 10px -12px 0;
+  }
+  .art-caption {
+    font-size: 7px;
+    top: 20px;
+    left: 8%;
+  }
+  .note-listening {
+    font-size: 9px;
+    top: 23%;
+    right: 0;
+    padding: 11px;
+  }
+  .note-time {
+    display: block;
+    font-size: 8px;
+  }
+  .note-keys {
+    left: 4%;
+    bottom: 16%;
+    padding: 9px;
+    gap: 7px;
+  }
+  .note-keys kbd {
+    font-size: 9px;
+    padding: 6px;
+  }
+  .scene-controls {
+    bottom: 1px;
+    left: 10px;
+    right: 10px;
+    justify-content: flex-end;
+  }
+  .scene-controls > span {
+    display: block;
+    font-size: 7px;
+  }
+  .scene-controls button {
+    min-height: 36px;
+    padding: 8px 10px;
+  }
+  .hero-bottom {
+    width: 100%;
+    margin-top: 18px;
+    padding-block: 24px;
+    font-size: 7px;
+    letter-spacing: 0.09em;
+  }
+  .capability-strip .wrap {
+    gap: 20px 10px;
+  }
+  .capability-strip span {
+    font-size: 10px;
+    gap: 10px;
+  }
+  .capability-strip b {
+    font-size: 19px;
+  }
+  .section {
+    padding-block: 65px;
+  }
+  .workflow {
+    gap: 30px;
+  }
+  .section-intro h2 {
+    font-size: 41px;
+  }
+  .eyebrow {
+    font-size: 9px;
+    letter-spacing: 0.13em;
+    margin-bottom: 18px;
+  }
+  .steps {
+    grid-template-columns: 1fr;
+    gap: 0;
+  }
+  .steps li {
+    position: relative;
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    border-top: 1px solid var(--line);
+    padding: 24px 0 23px;
+    gap: 0 15px;
+  }
+  .step-number {
+    grid-column: 1;
+    font-size: 9px;
+  }
+  .step-visual {
+    grid-column: 2;
+    grid-row: 1/4;
+    align-self: center;
+    justify-content: center;
+  }
+  .steps h3 {
+    margin: 12px 0 10px;
+    font-size: 21px;
+  }
+  .steps p {
+    grid-column: 1;
+    font-size: 12px;
+  }
+  .step-visual kbd {
+    font-size: 9px;
+    padding: 5px;
+  }
+  .output-mark {
+    font-size: 14px;
+  }
+  .section-heading {
+    display: block;
+    margin-bottom: 29px;
+  }
+  .section-heading h2 {
+    font-size: 42px;
+  }
+  .section-heading > p {
+    font-size: 13px;
+    max-width: 100%;
+    margin-top: 22px;
+  }
+  .playground-section {
+    padding-block: 60px;
+  }
+  .playground {
+    display: flex;
+    flex-direction: column;
+    border-radius: 14px;
+  }
+  .demo-controls {
+    padding: 25px;
+  }
+  .demo-controls h3 {
+    font-size: 28px;
+  }
+  .demo-label {
+    font-size: 8px;
+    margin-bottom: 26px;
+  }
+  .demo-step {
+    font-size: 8px;
+  }
+  .demo-controls .quiet {
+    font-size: 12px;
+  }
+  .segmented {
+    margin-top: 18px;
+  }
+  .example-options {
+    gap: 6px;
+    margin-top: 14px;
+  }
+  .example-options button {
+    font-size: 10px;
+    padding: 8px;
+  }
+  .demo-controls blockquote {
+    font-size: 19px;
+    min-height: 90px;
+    margin: 20px 0;
+  }
+  .record-shortcut {
+    display: block;
+  }
+  .demo-bottom {
+    flex-wrap: nowrap;
+    margin-top: 12px;
+  }
+  .demo-help {
+    font-size: 9px;
+  }
+  .demo-desktop {
+    min-height: 396px;
+    padding: 35px 22px 69px;
+  }
+  .editor-context {
+    padding: 22px 22px 0;
+  }
+  .editor-context h4 {
+    font-size: 22px;
+  }
+  .editor-window textarea {
+    padding: 21px 22px;
+    min-height: 150px;
+    font-size: 15px;
+  }
+  .editor-toolbar {
+    font-size: 7px;
+    padding: 0 13px;
+  }
+  .editor-footer {
+    font-size: 8px;
+    padding: 12px;
+  }
+  .editor-footer button {
+    font-size: 9px;
+  }
+  .demo-disclaimer {
+    font-size: 10px;
+    text-align: left;
+    margin-top: 17px;
+  }
+  .demo-pill {
+    bottom: 52px;
+    width: 83%;
+    padding: 13px 17px;
+  }
+  .delivery-toast {
+    font-size: 9px;
+    bottom: 19px;
+    max-width: 95%;
+    white-space: normal;
+    text-align: center;
+  }
+  .feature-grid {
+    display: flex;
+    flex-direction: column;
+    gap: 14px;
+  }
+  .feature-card {
+    padding: 29px;
+  }
+  .card-top {
+    margin-bottom: 26px;
+  }
+  .feature-card h3 {
+    font-size: 36px;
+  }
+  .feature-card > p {
+    font-size: 13px;
+  }
+  .engine-switch {
+    margin-top: 22px;
+  }
+  .engine-diagram {
+    margin: 38px 0;
+    min-height: 100px;
+    flex: none;
+  }
+  .diagram-node {
+    width: 48px;
+    height: 48px;
+  }
+  .main-node {
+    width: 86px;
+    height: 86px;
+  }
+  .engine-caption {
+    min-height: 118px;
+  }
+  .focus-illustration {
+    margin-top: 25px;
+    height: 142px;
+  }
+  .language-picker button {
+    min-height: 37px;
+    min-width: 37px;
+    font-size: 11px;
+  }
+  .language-preview {
+    min-height: 130px;
+    font-size: 13px;
+  }
+  .preview-row,
+  .preview-save {
+    font-size: 10px;
+  }
+  .control-card h3 {
+    font-size: 33px;
+  }
+  .control-card > p {
+    max-width: 100%;
+  }
+  .limit-visual {
+    position: static;
+    margin-top: 25px;
+    justify-content: space-between;
+    flex-direction: row-reverse;
+    text-align: left;
+  }
+  .limit-visual div {
+    flex: 1;
+  }
+  .limit-visual strong {
+    font-size: 20px;
+  }
+  .feature-card .card-footnote {
+    max-width: 100%;
+    font-size: 11px;
+  }
+  .voice-note {
+    gap: 15px;
+    padding-block: 35px;
+    align-items: flex-start;
+  }
+  .voice-note-mark {
+    font-size: 80px;
+    margin-top: 10px;
+  }
+  .voice-note h2 {
+    font-size: 26px;
+  }
+  .voice-note h2 span {
+    display: block;
+  }
+  .voice-note p {
+    font-size: 12px;
+    margin-top: 17px;
+  }
+  .voice-note-end {
+    font-size: 35px;
+    align-self: center;
+    margin-left: auto;
+  }
+  .download-section {
+    padding-top: 65px;
+  }
+  .download-panel {
+    display: block;
+    padding: 30px 25px;
+    border-radius: 15px;
+  }
+  .download-copy h2 {
+    font-size: 40px;
+  }
+  .download-copy > p:not(.eyebrow) {
+    font-size: 13px;
+    margin-top: 20px;
+  }
+  .version-tag {
+    margin-top: 25px;
+    flex-wrap: nowrap;
+    font-size: 8px;
+  }
+  .version-tag > span:last-child {
+    font-size: 7px;
+    padding-left: 9px;
+    border-left: 1px solid #50664c;
+  }
+  .download-options {
+    margin-top: 30px;
+    gap: 11px;
+  }
+  .download-card {
+    padding: 21px 16px;
+    gap: 14px;
+  }
+  .download-card strong {
+    font-size: 15px;
+  }
+  .download-card small {
+    font-size: 9px;
+  }
+  .mac-note {
+    padding: 14px 6px;
+  }
+  .checksum-link {
+    margin-left: 6px;
+  }
+  .download-footnote {
+    font-size: 10px;
+    margin-top: 25px;
+  }
+  .faq-section {
+    display: block;
+  }
+  .faq-section > div > p:last-child {
+    font-size: 13px;
+    margin-top: 20px;
+  }
+  .faq-list {
+    margin-top: 30px;
+  }
+  .faq-section h2 {
+    font-size: 41px;
+  }
+  summary {
+    font-size: 13px;
+    padding: 22px 0;
+  }
+  details > p {
+    font-size: 12px;
+  }
+  .site-footer {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 20px 25px;
+    padding-block: 28px;
+  }
+  .site-footer p {
+    font-size: 11px;
+    text-align: right;
+  }
+  .site-footer > a:not(.wordmark) {
+    font-size: 11px;
+  }
+  .site-footer > a:last-of-type {
+    text-align: right;
+  }
+  .scene-fallback {
+    height: 95px;
+    left: 9%;
+    right: 7%;
+    top: 36%;
+    border-width: 8px;
+  }
+}

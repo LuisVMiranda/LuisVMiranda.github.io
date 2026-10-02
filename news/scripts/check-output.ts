@@ -28,9 +28,12 @@ export async function checkOutput(
   directory = 'dist',
   preview = process.env.NEWS_PREVIEW === '1',
 ): Promise<void> {
-  const { articles, editions, approval } = await readContent();
+  const { articles, editions, approval, editorialManifests } =
+    await readContent();
   const expected =
-    preview || isApproved(articles, editions, approval) ? articles.length : 0;
+    preview || isApproved(articles, editions, approval, editorialManifests)
+      ? articles.length
+      : 0;
   const routes = await entries(`${directory}/artigos`);
   if (routes.length !== expected)
     throw new Error(

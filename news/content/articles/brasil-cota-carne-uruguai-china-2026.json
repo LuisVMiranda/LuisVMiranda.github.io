@@ -1,0 +1,99 @@
+{
+  "id": "brasil-cota-carne-uruguai-china-2026",
+  "slug": "brasil-cota-carne-uruguai-china-2026",
+  "section": "brasil",
+  "secondarySections": [],
+  "publishedAt": "2026-09-23T04:48:40-03:00",
+  "publishedDate": "2026-09-23",
+  "updatedAt": "2026-09-24T17:45:13.603Z",
+  "sources": [
+    {
+      "name": "CNN Brasil",
+      "url": "https://www.cnnbrasil.com.br/agro/troca-de-cotas-entre-brasil-e-uruguai-pode-envolver-a-uniao-europeia/"
+    },
+    {
+      "name": "Agência Brasil",
+      "url": "https://agenciabrasil.ebc.com.br/internacional/noticia/2026-09/nos-eua-lula-se-reune-com-prefeito-de-nova-york-e-presidente-uruguaio"
+    }
+  ],
+  "rights": {
+    "mode": "original-report"
+  },
+  "verification": {
+    "score": 8.8,
+    "checkedAt": "2026-09-24T14:14:34Z",
+    "checks": [
+      {
+        "provider": "Aos Fatos",
+        "url": "https://www.aosfatos.org/",
+        "finding": "no-match",
+        "note": "No direct fact-check of Lula's September 21 announcement, the Uruguay-China quota arrangement or Chinese approval was found; neutral."
+      },
+      {
+        "provider": "Agência Lupa",
+        "url": "https://www.agencialupa.org/noticias/2026/07/23/china-nao-taxou-todas-as-exportacoes-brasileiras-em-55-sobretaxa-vale-para-carne-bovina-acima-da-cota/",
+        "finding": "context",
+        "note": "Lupa explains that China's safeguard is a country-specific import quota and that the 55% rate concerns beef above the quota. This is useful quota context, not a fact-check of the September Uruguay transfer announcement or its approval status."
+      },
+      {
+        "provider": "Projeto Comprova",
+        "url": "https://projetocomprova.com.br/",
+        "finding": "no-match",
+        "note": "No direct check of the current bilateral announcement or whether China approved a transfer was located; neutral."
+      },
+      {
+        "provider": "AFP Fact Check",
+        "url": "https://factcheck.afp.com/",
+        "finding": "no-match",
+        "note": "Site-restricted searches found no fact-check of this quota announcement; unrelated Brazil political checks do not resolve it. Neutral."
+      },
+      {
+        "provider": "Reuters Fact Check",
+        "url": "https://www.reuters.com/fact-check/",
+        "finding": "no-match",
+        "note": "No relevant fact-check of the quota announcement or Chinese authorization was found; neutral."
+      },
+      {
+        "provider": "Full Fact",
+        "url": "https://fullfact.org/",
+        "finding": "no-match",
+        "note": "No relevant check of this Brazil-Uruguay-China claim was located; neutral."
+      }
+    ],
+    "caveat": "The full CNN Brasil report, Agência Brasil's meeting report and Rádio Itatiaia independently corroborate that Lula announced Uruguay's authorization; both the CNN report and Itatiaia preserve the missing Chinese confirmation. No contradiction remains. 'Cota uruguaia/de exportação' follows source shorthand; technically this is China's country-specific import quota allocated to Uruguay. The body correctly says the importing country controls the quota and that Chinese approval is absent, avoiding a claim that shipments were cleared. PT-BR and EN are consistent."
+  },
+  "translations": {
+    "pt-BR": {
+      "title": "Lula anuncia uso de cota uruguaia, mas China não confirmou",
+      "summary": "Lula disse que o Uruguai autorizou o Brasil a usar saldo de sua cota de carne para a China. Pequim ainda não havia confirmado o arranjo, que depende de regras e etapas técnicas.",
+      "aiSummary": [
+        "Após encontro com Yamandú Orsi em 21 de setembro, Lula afirmou que o Uruguai autorizou o uso de saldo de sua cota de carne para a China.",
+        "A CNN Brasil informou que a China ainda não havia confirmado a viabilidade da transferência.",
+        "Especialista ouvido pela CNN diz que a decisão cabe ao país importador e que protocolos sanitários tornam a transferência não automática."
+      ],
+      "paragraphs": [
+        "Após reunião em Nova York com o presidente uruguaio, Yamandú Orsi, em 21 de setembro, Luiz Inácio Lula da Silva informou que o Uruguai autorizou o Brasil a usar o excedente de sua cota de exportação de carne bovina para a China. A Agência Brasil confirmou o encontro e atribuiu a informação sobre a cota a Lula; a CNN Brasil também noticiou o anúncio.",
+        "O anúncio bilateral não significava que Pequim tivesse aprovado o uso do saldo. Na publicação da CNN Brasil, não havia confirmação oficial chinesa sobre a viabilidade técnica ou diplomática da transferência. A nota uruguaia citada pela Agência Brasil descreveu temas gerais da conversa, sem confirmar especificamente a transferência da cota. Assim, a autorização mencionada por Lula deve ser apresentada como uma declaração atribuída ao presidente, não como liberação de embarques brasileiros pela China.",
+        "Felippe Serigati, pesquisador do FGV Agro ouvido pela CNN Brasil, explicou que a administração de cotas de importação cabe ao país comprador, e não aos exportadores. Na avaliação do economista, a posição chinesa é a etapa decisiva ainda pendente para que frigoríficos brasileiros pudessem usar o saldo uruguaio.",
+        "Serigati também disse que a mudança não seria uma simples realocação de produto. Protocolos sanitários diferentes e variações nos cortes vendidos a cada mercado criam etapas técnicas e regulatórias que precisam ser resolvidas antes de qualquer transferência.",
+        "A CNN Brasil relatou ainda que Serigati considerou possível uma lógica de troca envolvendo a União Europeia, mas ressaltou que esse arranjo não havia sido confirmado. O pesquisador também citou pedidos anteriores de flexibilização de cotas que, segundo ele, foram negados pela China. Nenhuma das fontes consultadas confirmou aprovação de Pequim para o caso atual."
+      ]
+    },
+    "en": {
+      "title": "Lula announces use of Uruguay quota, but China has not confirmed",
+      "summary": "Lula said Uruguay authorized Brazil to use part of its beef quota for China. Beijing had not confirmed the arrangement, which depends on rules and technical steps.",
+      "aiSummary": [
+        "After meeting Yamandú Orsi on September 21, Lula said Uruguay authorized use of part of its beef-export quota for China.",
+        "CNN Brasil reported that China had not confirmed whether the transfer was viable.",
+        "An expert interviewed by CNN says the importing country decides and sanitary protocols mean a transfer is not automatic."
+      ],
+      "paragraphs": [
+        "After meeting Uruguayan President Yamandú Orsi in New York on September 21, Luiz Inácio Lula da Silva said Uruguay had authorized Brazil to use the unused balance of its beef-export quota for China. Agência Brasil confirmed the meeting and attributed the quota information to Lula; CNN Brasil also reported the announcement.",
+        "The bilateral announcement did not mean Beijing had approved use of the balance. CNN Brasil reported no official Chinese confirmation of the transfer's technical or diplomatic viability. The Uruguayan note cited by Agência Brasil described general topics discussed but did not specifically confirm a quota transfer. Lula's statement should therefore be presented as an announcement attributed to the president, not as Chinese clearance for Brazilian shipments.",
+        "Felippe Serigati, an FGV Agro researcher interviewed by CNN Brasil, explained that import quotas are administered by the buying country, not by exporters. In the economist's view, China's position was the decisive step still pending before Brazilian meatpackers could use Uruguay's unused balance.",
+        "Serigati also said the change would not be a simple reallocation of products. Different sanitary protocols and variations in the cuts sold to each market create technical and regulatory steps that would have to be resolved before any transfer.",
+        "CNN Brasil also reported that Serigati considered a possible arrangement involving the European Union, while stressing that no such deal had been confirmed. He cited previous requests for quota flexibility that, according to him, China had rejected. None of the sources reviewed confirmed Beijing's approval in the current case."
+      ]
+    }
+  }
+}

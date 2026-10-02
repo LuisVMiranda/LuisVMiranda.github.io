@@ -1,0 +1,127 @@
+{
+  "id": "tampa-bay-migrant-potters-mississippian-study-2026",
+  "slug": "tampa-bay-migrant-potters-mississippian-study-2026",
+  "section": "ciencia",
+  "secondarySections": [],
+  "publishedAt": "2026-09-21T11:41:53-04:00",
+  "publishedDate": "2026-09-21",
+  "updatedAt": "2026-09-24T17:45:13.603Z",
+  "sources": [
+    {
+      "name": "Florida Museum of Natural History",
+      "url": "https://www.floridamuseum.ufl.edu/science/archaeologists-uncover-centuries-old-mystery-of-tampa-bays-secret-community-of-migrant-potters/"
+    },
+    {
+      "name": "American Antiquity",
+      "url": "https://doi.org/10.1017/aaq.2026.10227"
+    },
+    {
+      "name": "Nautilus",
+      "url": "https://nautil.us/the-mysterious-migrant-potters-of-ancient-tampa-bay-1285200"
+    }
+  ],
+  "rights": {
+    "mode": "original-report"
+  },
+  "translations": {
+    "pt-BR": {
+      "title": "Análise de fragmentos liga cerâmicas de Tampa Bay a técnicas mississipianas",
+      "summary": "Um estudo de 58 fragmentos encontrou argila local e práticas distintas em peças decoradas; a migração de artesãos é uma interpretação dos autores, não uma conclusão sobre toda a comunidade.",
+      "aiSummary": [
+        "A análise de 58 fragmentos indicou que as peças estudadas foram feitas com argila local de Tampa Bay.",
+        "Cacos triturados e técnicas de produção nas peças decoradas se parecem com práticas mississipianas do norte da Flórida.",
+        "A hipótese de migração se limita às evidências arqueológicas e não prova o deslocamento de toda uma população."
+      ],
+      "paragraphs": [
+        "Arqueólogos investigaram por que fragmentos de cerâmica decorada encontrados em Tampa Bay se pareciam com peças associadas à cultura mississipiana, centenas de quilômetros ao norte. O novo estudo examinou 58 fragmentos simples e decorados, em vez de inferir a origem apenas pelos desenhos na superfície. A questão era distinguir importação, imitação local e produção por artesãos com outras tradições.",
+        "A análise química indicou que a argila dos fragmentos estudados correspondia a fontes locais da região. Isso enfraquece a hipótese de que os vasos analisados tenham sido transportados prontos do centro mississipiano, mas não resolve por si só quem os produziu. A origem local do barro é compatível tanto com imitação quanto com a presença de ceramistas que conheciam outras técnicas.",
+        "Os pesquisadores encontraram um sinal adicional nas peças decoradas: muitas continham grog, partículas de cerâmica antiga triturada, e algumas incluíam mica, mineral comum no Panhandle da Flórida. Cerca de 80% das peças decoradas da amostra tinham grog; nenhuma das peças simples analisadas apresentava esse tempero. Os autores comparam o padrão com técnicas usadas nas colinas de Tallahassee.",
+        "As peças decoradas também mostravam construção por rolos de argila e receitas de pasta mais consistentes, enquanto os fragmentos simples eram moldados e usavam outros temperos. A combinação de barro local, grog, mica e método de produção levou os autores a propor que artesãos treinados em tradições mississipianas migraram do Panhandle e fabricaram vasos em Tampa Bay. A migração é uma inferência baseada no material, não um registro direto de viagem ou identidade individual.",
+        "O estudo sugere que uma comunidade especializada de ceramistas pode ter mantido práticas próprias por gerações, mas a amostra não demonstra que toda a população da região tenha migrado nem que cada vaso decorado tenha sido feito por recém-chegados. As conclusões dizem respeito aos fragmentos e técnicas examinados. A reportagem independente sobre o estudo também descreve a hipótese como interpretação arqueológica, não como replicação separada dos achados."
+      ]
+    },
+    "en": {
+      "title": "Analysis links Tampa Bay pottery sherds to Mississippian techniques",
+      "summary": "A study of 58 sherds found local clay and distinctive practices in decorated pieces; artisan migration is the authors’ interpretation, not a conclusion about the whole community.",
+      "aiSummary": [
+        "Analysis of 58 sherds indicated that the examined pieces were made with local Tampa Bay clay.",
+        "Crushed-pottery temper and production methods in decorated vessels resemble Mississippian practices from northern Florida.",
+        "The migration hypothesis is limited to archaeological evidence and does not prove that an entire population moved."
+      ],
+      "paragraphs": [
+        "Archaeologists investigated why decorated pottery fragments found in Tampa Bay resembled pieces associated with Mississippian culture hundreds of miles to the north. The new study examined 58 plain and decorated sherds instead of inferring origin from surface designs alone. The question was whether the vessels were imported, locally imitated or made by artisans with different traditions.",
+        "Chemical analysis indicated that the clay in the examined fragments matched local sources in the region. That weakens the idea that the studied vessels arrived fully made from the Mississippian heartland, but it does not by itself establish who produced them. Local clay is compatible with both imitation and the presence of potters who knew other techniques.",
+        "Researchers found another signal in decorated pieces: many contained grog, or particles of crushed old pottery, and some included mica, a mineral common in Florida’s Panhandle. About 80% of the decorated sherds in the sample had grog; none of the examined plain pieces did. The authors compare the pattern with techniques used in the Tallahassee Hills.",
+        "The decorated pieces also showed coil construction and more consistent paste recipes, while the plain fragments were molded and used other tempers. The combination of local clay, grog, mica and production methods led the authors to propose that artisans trained in Mississippian traditions migrated from the Panhandle and made vessels in Tampa Bay. Migration is an inference from the material, not a direct record of travel or individual identity.",
+        "The study suggests a specialized community of potters may have maintained distinct practices over generations, but the sample does not show that the region’s entire population migrated or that every decorated vessel was made by newcomers. The conclusions concern the fragments and techniques examined. Independent reporting on the study also presents the migration idea as an archaeological interpretation, not a separate replication of the findings."
+      ]
+    }
+  },
+  "verification": {
+    "score": 8.7,
+    "checkedAt": "2026-09-24T14:21:03Z",
+    "checks": [
+      {
+        "provider": "American Antiquity / Cambridge Core",
+        "url": "https://www.cambridge.org/core/journals/american-antiquity/article/abs/secret-recipes-potting-knowledge-and-migration-in-mississippian-ca-ad-10001600-tampa-bay-florida-usa/DC0A8A3531B6229380C012BD06609375",
+        "finding": "supports",
+        "note": "The peer-reviewed abstract reports compositional pottery analysis and radiocarbon modeling and argues for a migrant-founded community of practice based on material patterns. It presents migration as the authors' inference, not direct evidence of individual travel."
+      },
+      {
+        "provider": "Florida Museum of Natural History",
+        "url": "https://www.floridamuseum.ufl.edu/science/archaeologists-uncover-centuries-old-mystery-of-tampa-bays-secret-community-of-migrant-potters/",
+        "finding": "supports",
+        "note": "The complete research account supports the 58 sherds, local clay, temper/petrography results and the migration interpretation as a likelihood inferred from material evidence."
+      },
+      {
+        "provider": "Nautilus",
+        "url": "https://nautil.us/the-mysterious-migrant-potters-of-ancient-tampa-bay-1285200",
+        "finding": "supports",
+        "note": "Independent coverage matches the pottery-material evidence and attributes migration to the study authors; it reports the same study, not a separate replication."
+      },
+      {
+        "provider": "Aos Fatos",
+        "url": "https://www.aosfatos.org/",
+        "finding": "no-match",
+        "note": "Targeted Portuguese claim/title variants produced no relevant fact-check. Neutral result; no-match is not evidence of truth."
+      },
+      {
+        "provider": "Agência Lupa",
+        "url": "https://www.agencialupa.org/",
+        "finding": "no-match",
+        "note": "Targeted Portuguese claim/title variants produced no relevant fact-check. Neutral result; no-match is not evidence of truth."
+      },
+      {
+        "provider": "Projeto Comprova",
+        "url": "https://projetocomprova.com.br/",
+        "finding": "no-match",
+        "note": "Targeted Portuguese claim/title variants produced no relevant fact-check. Neutral result; no-match is not evidence of truth."
+      },
+      {
+        "provider": "AFP Fact Check",
+        "url": "https://factcheck.afp.com/",
+        "finding": "no-match",
+        "note": "Targeted English claim variants (Tampa Bay pottery, Mississippian, migrant potters) produced no relevant fact-check. Neutral result; no-match is not evidence of truth."
+      },
+      {
+        "provider": "Reuters Fact Check",
+        "url": "https://www.reuters.com/fact-check/",
+        "finding": "no-match",
+        "note": "Targeted English claim variants produced no relevant fact-check. Neutral result; no-match is not evidence of truth."
+      },
+      {
+        "provider": "Full Fact",
+        "url": "https://fullfact.org/",
+        "finding": "no-match",
+        "note": "Targeted English claim variants produced no relevant fact-check. Neutral result; no-match is not evidence of truth."
+      },
+      {
+        "provider": "Google Fact Check Tools",
+        "url": "https://toolbox.google.com/factcheck/explorer",
+        "finding": "no-match",
+        "note": "Targeted ClaimReview searches produced no relevant indexed fact-check. Neutral result; no-match is not evidence of truth."
+      }
+    ],
+    "caveat": "The 58-fragment sample and material/cultural indicators support a probable community-of-practice interpretation, not the movement of an entire population or individual identity. The copy correctly distinguishes observations from the authors' migration inference."
+  }
+}

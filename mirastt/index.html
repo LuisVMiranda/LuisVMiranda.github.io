@@ -1,0 +1,408 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <meta name="theme-color" content="#f6f7f2" />
+    <meta
+      name="description"
+      content="A little space for your voice. Mira STT turns spoken thoughts into text from a quiet desktop tray app. Try the interactive demo, then download for Windows or Linux."
+    />
+    <meta property="og:title" content="Mira STT — Your thoughts. At the speed of you." />
+    <meta property="og:description" content="Hold. Speak. Let go. Meet the quiet desktop dictation app that makes room for your ideas." />
+    <meta property="og:type" content="website" />
+    <title>Mira STT — A little space for your voice</title>
+    <link rel="icon" href="favicon.ico" />
+    <link rel="preload" href="assets/Roboto.ttf" as="font" type="font/ttf" crossorigin />
+    <link rel="stylesheet" href="styles/base.css" />
+    <link rel="stylesheet" href="styles/hero.css" />
+    <link rel="stylesheet" href="styles/demo-controls.css" />
+    <link rel="stylesheet" href="styles/demo-editor.css" />
+    <link rel="stylesheet" href="styles/features.css" />
+    <link rel="stylesheet" href="styles/download.css" />
+    <link rel="stylesheet" href="styles/responsive-desktop.css" />
+    <link rel="stylesheet" href="styles/responsive-tablet.css" />
+    <link rel="stylesheet" href="styles/responsive-mobile.css" />
+    <link rel="stylesheet" href="styles/responsive-small.css" />
+    <link rel="stylesheet" href="styles/languages.css" />
+    <link rel="stylesheet" href="styles/scroll-top.css" />
+    <script type="module" src="scripts/main.js"></script>
+  </head>
+  <body>
+    <a class="skip-link" href="#main">Skip to content</a>
+    <header class="site-header wrap" id="top" tabindex="-1">
+      <a class="wordmark" href="#" aria-label="Mira STT home">
+        <span class="brand-wave" aria-hidden="true"><i></i><i></i><i></i><i></i><i></i></span>mira<span class="brand-tag">STT</span>
+      </a>
+      <nav aria-label="Main navigation"><a href="#how-it-works">How it works</a><a href="#playground">Try it out</a><a href="#features">The details</a></nav>
+      <div class="header-actions">
+        <label class="site-language"
+          ><span class="sr-only">Website language</span>
+          <select id="site-language" aria-label="Website language" data-no-translate disabled>
+            <option value="en" lang="en">English</option>
+            <option value="pt" lang="pt-BR">Português (Brasil)</option>
+            <option value="es" lang="es">Español</option>
+            <option value="fr" lang="fr">Français</option>
+            <option value="it" lang="it">Italiano</option>
+            <option value="de" lang="de">Deutsch</option>
+          </select>
+        </label>
+        <a class="button button-small button-ink" href="#download">Get Mira <span aria-hidden="true">↗</span></a>
+      </div>
+    </header>
+
+    <main id="main">
+      <section class="hero wrap" aria-labelledby="hero-heading">
+        <div class="hero-copy">
+          <a class="release-tag" href="#download"><span class="status-dot"></span> MEET MIRA 0.3.0 <span aria-hidden="true">↗</span></a>
+          <h1 id="hero-heading">
+            Your thoughts.<br />At the speed<br />of <span class="you">you<span class="spark" aria-hidden="true">✳</span></span
+            >.
+          </h1>
+          <p class="hero-description">A little space for your voice. Turn spoken ideas into text with a shortcut, then get back to what you were doing.</p>
+          <div class="hero-actions">
+            <a class="button button-ink" href="downloads/Mira-Setup.exe" download
+              >Download for Windows <svg aria-hidden="true"><use href="#icon-download" /></svg
+            ></a>
+            <a class="text-link" href="#playground">Take it for a spin <span aria-hidden="true">↘</span></a>
+          </div>
+          <p class="quiet hero-meta">Windows 10+ · <a href="#download">Linux available</a> · No account in Mira</p>
+        </div>
+
+        <div class="hero-art" id="hero-art">
+          <div class="orbit-grid" aria-hidden="true"></div>
+          <div class="art-caption"><span class="tiny-cross" aria-hidden="true">+</span> LESS FRICTION. MORE FLOW.</div>
+          <div class="scene-shadow" aria-hidden="true"></div>
+          <canvas
+            id="voice-scene"
+            aria-label="Interactive 3D Mira dictation pill. Drag to rotate it, or use the Rotate and Reset controls."
+            role="img"
+          ></canvas>
+          <div class="scene-fallback" aria-hidden="true">
+            <span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span>
+          </div>
+          <div class="floating-note note-listening">
+            <span class="status-dot"></span><span id="scene-status">A thought taking shape</span><span class="note-time" id="scene-time">00:08</span>
+          </div>
+          <div class="floating-note note-keys">
+            <kbd>ctrl</kbd><span>+</span><kbd>alt</kbd><span>+</span><kbd>space</kbd><span class="key-arrow" aria-hidden="true">↗</span>
+          </div>
+          <div class="scene-controls">
+            <span id="scene-hint">DRAG TO EXPLORE</span>
+            <button id="rotate-scene" type="button" aria-label="Rotate the 3D pill">↻</button>
+            <button id="reset-scene" type="button">Reset</button>
+            <button id="motion-toggle" type="button" aria-pressed="false" aria-label="Pause ambient 3D motion">Pause motion</button>
+          </div>
+        </div>
+        <div class="hero-bottom">
+          <span>FOR THE WORDS THAT CAN’T WAIT.</span
+          ><a href="#how-it-works" aria-label="Explore how Mira works">SCROLL TO EXPLORE <span aria-hidden="true">↓</span></a>
+        </div>
+      </section>
+
+      <div class="capability-strip" aria-label="Mira at a glance">
+        <div class="wrap">
+          <span><b aria-hidden="true">✳</b> Lives in your tray</span><span><b aria-hidden="true">↗</b> Writes where you work</span
+          ><span><b aria-hidden="true">◎</b> Local or connected</span><span><b aria-hidden="true">Aa</b> Six interface languages</span>
+        </div>
+      </div>
+
+      <section class="section wrap workflow" id="how-it-works" aria-labelledby="workflow-heading">
+        <div class="section-intro">
+          <p class="eyebrow">01 / A SMALLER ROUTINE</p>
+          <h2 id="workflow-heading">Speak your mind.<br />Keep your place.</h2>
+          <p>No new document. No window to juggle.<br />Just your voice and the field you’re already in.</p>
+        </div>
+        <ol class="steps">
+          <li>
+            <span class="step-number">01</span>
+            <div class="step-visual"><kbd>ctrl</kbd><span>+</span><kbd>alt</kbd><span>+</span><kbd>space</kbd></div>
+            <h3>Hold a shortcut.</h3>
+            <p>Choose a key combination that feels natural. Mira is one press away.</p>
+          </li>
+          <li>
+            <span class="step-number">02</span>
+            <div class="step-visual mini-wave" aria-hidden="true"><i></i><i></i><i></i><i></i><i></i><i></i><i></i><i></i><i></i></div>
+            <h3>Let the words out.</h3>
+            <p>A quiet floating pill shows you’re recording, without taking focus from your work.</p>
+          </li>
+          <li>
+            <span class="step-number">03</span>
+            <div class="step-visual output-mark" aria-hidden="true">An idea, written.<span></span></div>
+            <h3>Release. It’s written.</h3>
+            <p>Mira finalizes your text and attempts to paste it into the original field. A clipboard copy and Latest text help you recover it.</p>
+          </li>
+        </ol>
+      </section>
+
+      <section class="playground-section" id="playground" aria-labelledby="playground-heading">
+        <div class="wrap">
+          <div class="section-heading">
+            <div>
+              <p class="eyebrow">02 / FEEL THE FLOW</p>
+              <h2 id="playground-heading">Less explaining.<br />More trying.</h2>
+            </div>
+            <p>Give the workflow a test drive.<br />This is a simulation — your microphone stays off.</p>
+          </div>
+          <div class="playground" id="dictation-demo">
+            <div class="demo-controls">
+              <div class="demo-label"><span class="status-dot"></span> INTERACTIVE DEMO <span class="demo-step" id="demo-step">01 / READY</span></div>
+              <h3>What’s on your mind?</h3>
+              <p class="quiet">Pick an example, then hold the button.<br />Or focus it and hold <kbd>space</kbd>.</p>
+              <div class="segmented" role="group" aria-label="Example language">
+                <button type="button" data-demo-language="en" aria-pressed="true">English</button
+                ><button type="button" data-demo-language="pt" aria-pressed="false">Português</button>
+              </div>
+              <div class="example-options" role="group" aria-label="Dictation example">
+                <button type="button" data-example="message" aria-pressed="true"><span aria-hidden="true">↗</span> A quick message</button>
+                <button type="button" data-example="idea" aria-pressed="false"><span aria-hidden="true">✳</span> A fresh idea</button>
+                <button type="button" data-example="note" aria-pressed="false"><span aria-hidden="true">≡</span> A note to self</button>
+              </div>
+              <blockquote id="spoken-example" data-no-translate>“Could we move our review to Thursday? I’ll send the notes beforehand.”</blockquote>
+              <button class="record-button" id="record-button" type="button" aria-describedby="demo-help">
+                <svg aria-hidden="true"><use href="#icon-mic" /></svg><span id="record-label">Hold to speak</span
+                ><span class="record-shortcut" aria-hidden="true">SPACE</span>
+              </button>
+              <div class="demo-bottom">
+                <label class="toggle"><input type="checkbox" id="toggle-recording" /><span aria-hidden="true"></span>Tap to start / stop</label
+                ><button class="text-button" type="button" id="reset-demo">Reset demo</button>
+              </div>
+              <p class="demo-help" id="demo-help">Simulated audio. No recording, uploads, or account required.</p>
+            </div>
+            <div class="demo-desktop">
+              <div class="editor-window">
+                <div class="editor-toolbar">
+                  <span class="window-dots" aria-hidden="true"><i></i><i></i><i></i></span><span>A LITTLE SPACE TO WRITE</span
+                  ><svg aria-hidden="true"><use href="#icon-edit" /></svg>
+                </div>
+                <div class="editor-context">
+                  <span id="editor-category">DRAFT MESSAGE</span>
+                  <h4 id="editor-title">A thought worth sharing.</h4>
+                  <span class="editor-recipient" id="editor-recipient">To: Your team</span>
+                </div>
+                <label class="sr-only" for="demo-output">Your simulated transcript, editable</label>
+                <textarea id="demo-output" placeholder="Your words land right here…" spellcheck="false"></textarea>
+                <div class="editor-footer">
+                  <span id="editor-status">Waiting for your words</span
+                  ><button type="button" id="copy-demo" disabled>
+                    <svg aria-hidden="true"><use href="#icon-copy" /></svg> Copy text
+                  </button>
+                </div>
+              </div>
+              <div class="demo-pill" id="demo-pill" aria-hidden="true">
+                <div class="demo-wave"><i></i><i></i><i></i><i></i><i></i><i></i><i></i></div>
+                <div><span id="pill-state">Listening</span><span id="live-preview"></span></div>
+                <time id="demo-timer">00:00</time>
+              </div>
+              <div class="delivery-toast" id="delivery-toast" role="status">
+                <span aria-hidden="true">✓</span><span>Example delivered. Ready to copy.</span>
+              </div>
+              <span class="desktop-caption">YOUR WORK, STILL IN FOCUS.</span>
+            </div>
+          </div>
+          <p class="demo-disclaimer" id="demo-announcement" role="status" aria-live="polite">
+            In Mira, paste depends on the app’s text-field support. If insertion fails, use the clipboard copy or recover your transcript from Latest text.
+          </p>
+        </div>
+      </section>
+
+      <section class="section wrap" id="features" aria-labelledby="features-heading">
+        <div class="section-heading">
+          <div>
+            <p class="eyebrow">03 / THOUGHTFULLY OUT OF THE WAY</p>
+            <h2 id="features-heading">Small by design.<br />Capable by nature.</h2>
+          </div>
+          <p>Useful where it matters.<br />Quiet everywhere else.</p>
+        </div>
+        <div class="feature-grid">
+          <article class="feature-card engine-card">
+            <div class="card-top"><span class="feature-index">01</span><span class="small-tag">YOUR CHOICE</span></div>
+            <h3>Your voice.<br />Your engine.</h3>
+            <p>Keep audio on your device with multilingual Whisper, or connect an API provider. Choose the balance that works for you.</p>
+            <div class="engine-switch" role="group" aria-label="Explore speech engines">
+              <button type="button" data-engine="local" aria-pressed="true">On your device</button
+              ><button type="button" data-engine="cloud" aria-pressed="false">Connected</button>
+            </div>
+            <div class="engine-diagram" id="engine-diagram">
+              <span class="diagram-node"
+                ><svg aria-hidden="true"><use href="#icon-mic" /></svg></span
+              ><span class="signal-line" aria-hidden="true"></span><span class="diagram-node main-node" id="engine-symbol">W</span
+              ><span class="signal-line" aria-hidden="true"></span><span class="diagram-node">Aa</span>
+            </div>
+            <div class="engine-caption" aria-live="polite">
+              <strong id="engine-title">Whisper, right here.</strong>
+              <p id="engine-detail">Download a model once. Later recordings are processed locally. Smaller models use less memory; accuracy varies.</p>
+            </div>
+          </article>
+          <article class="feature-card focus-card">
+            <div class="card-top">
+              <span class="feature-index">02</span><svg aria-hidden="true"><use href="#icon-focus" /></svg>
+            </div>
+            <h3>Stay in<br />your own world.</h3>
+            <p>The floating pill doesn’t grab focus. Stop recording and it disappears after one second while your text finishes processing.</p>
+            <div class="focus-illustration" aria-hidden="true">
+              <div class="focus-lines"><i></i><i></i><i></i></div>
+              <div class="tiny-pill"><span class="status-dot"></span>Listening <span>00:12</span></div>
+              <div class="focus-cursor">⌁</div>
+            </div>
+          </article>
+          <article class="feature-card language-card">
+            <div class="card-top"><span class="feature-index">03</span><span class="small-tag">SIX UI LANGUAGES</span></div>
+            <h3>A familiar<br />kind of space.</h3>
+            <p>Menus, notifications, and the installer speak your language. Your speech language is a separate setting.</p>
+            <div class="language-picker" role="group" aria-label="Preview an interface language">
+              <button type="button" data-ui-language="en" aria-pressed="true">EN</button
+              ><button type="button" data-ui-language="pt" aria-pressed="false">PT</button
+              ><button type="button" data-ui-language="es" aria-pressed="false">ES</button
+              ><button type="button" data-ui-language="fr" aria-pressed="false">FR</button
+              ><button type="button" data-ui-language="it" aria-pressed="false">IT</button
+              ><button type="button" data-ui-language="de" aria-pressed="false">DE</button>
+            </div>
+            <div class="language-preview" aria-live="polite" data-no-translate lang="en">
+              <span id="preview-preferences">Preferences</span
+              ><span class="preview-row"
+                ><span id="preview-appearance">Appearance</span><span id="preview-system">Follow system <b aria-hidden="true">⌄</b></span></span
+              ><span class="preview-save" id="preview-save">Save preferences</span>
+            </div>
+          </article>
+          <article class="feature-card control-card">
+            <div class="card-top"><span class="feature-index">04</span><span aria-hidden="true">↔</span></div>
+            <h3>A shortcut.<br />Not a straitjacket.</h3>
+            <p>Hold to speak, or tap once to start and again to stop. Set your own recording limit, or choose zero for no Mira cutoff.</p>
+            <div class="limit-visual">
+              <div><span>YOUR RECORDING LIMIT</span><strong>On your terms.</strong></div>
+              <span class="limit-badge">∞</span>
+            </div>
+            <p class="card-footnote">A countdown warns before your limit. Provider limits and available memory still apply.</p>
+          </article>
+        </div>
+      </section>
+
+      <section class="voice-note wrap" aria-label="Speech language support">
+        <span class="voice-note-mark" aria-hidden="true">“</span>
+        <div>
+          <h2 data-no-translate>“Olá, mundo.” <span>“Hello, world.”</span></h2>
+          <p>Built around Brazilian Portuguese and English dictation.<br />A familiar voice, with room for more than one language.</p>
+        </div>
+        <span class="voice-note-end" aria-hidden="true">✳</span>
+      </section>
+
+      <section class="download-section wrap" id="download" aria-labelledby="download-heading">
+        <div class="download-panel">
+          <div class="download-copy">
+            <p class="eyebrow">04 / MAKE YOURSELF HEARD</p>
+            <h2 id="download-heading">Your next idea<br />is a shortcut away.</h2>
+            <p>Install Mira. Pick your engine.<br />Give your keyboard a little breathing room.</p>
+            <span class="version-tag"><span class="status-dot"></span> VERSION 0.3.0 <span>DESKTOP RELEASE</span></span>
+          </div>
+          <div class="download-options">
+            <a class="download-card recommended" href="downloads/Mira-Setup.exe" download
+              ><span class="os-icon" aria-hidden="true">⊞</span><span><strong>Windows installer</strong><small>Windows 10+ · x64 · 90.3 MB</small></span
+              ><span class="download-arrow" aria-hidden="true">↓</span></a
+            >
+            <a class="download-card" href="downloads/Mira-linux.tar.gz" download
+              ><span class="os-icon linux-icon" aria-hidden="true">&gt;_</span
+              ><span><strong>Linux archive</strong><small>x64 · 189.2 MB · Desktop session required</small></span
+              ><span class="download-arrow" aria-hidden="true">↓</span></a
+            >
+            <div class="mac-note">
+              <span>macOS</span>
+              <p>Source support exists. A tested download is not available yet.</p>
+            </div>
+            <a class="checksum-link" href="downloads/checksums.txt" download>Verify your download <span aria-hidden="true">↗</span></a>
+          </div>
+          <p class="download-footnote">
+            Windows installer is unsigned. Local models download on first use; API services may require a paid key. No subscription is built into Mira.
+          </p>
+        </div>
+      </section>
+
+      <section class="section wrap faq-section" id="questions" aria-labelledby="faq-heading">
+        <div>
+          <p class="eyebrow">A FEW GOOD QUESTIONS</p>
+          <h2 id="faq-heading">Before you<br />press record.</h2>
+          <p>Simple software.<br />Clear expectations.</p>
+        </div>
+        <div class="faq-list">
+          <details>
+            <summary>Does this website record my microphone?<span aria-hidden="true">+</span></summary>
+            <p>
+              No. The interactive example uses scripted text. It never requests microphone access or sends audio anywhere. Copy text only writes to your
+              clipboard when you click it.
+            </p>
+          </details>
+          <details>
+            <summary>Will my audio leave my device?<span aria-hidden="true">+</span></summary>
+            <p>
+              With local Whisper, recordings are processed on your device after the model’s initial download. With an API, audio goes to your configured
+              provider or server. Gemini Live streams audio while recording; file-based APIs receive it after capture stops.
+            </p>
+          </details>
+          <details>
+            <summary>Will it paste into every app?<span aria-hidden="true">+</span></summary>
+            <p>
+              Automatic insertion depends on the target app, field, and operating-system permissions. Keep the intended field focused until delivery. If the
+              target cannot be verified or focus changes, use the clipboard copy for manual pasting. If the clipboard is unavailable or replaced, recover your
+              transcript from Preferences → Latest text. Password fields are excluded.
+            </p>
+          </details>
+          <details>
+            <summary>How do I get started after installing?<span aria-hidden="true">+</span></summary>
+            <p>
+              Open Preferences from the tray icon. Choose local Whisper or configure an API provider, save your preferences, then focus a text field. Hold Ctrl
+              + Alt + Space, speak, and release. You can capture another shortcut or enable tap-to-toggle mode in Experience.
+            </p>
+          </details>
+          <details>
+            <summary>What does Linux need?<span aria-hidden="true">+</span></summary>
+            <p>
+              Extract the entire archive and run Mira/Mira in a desktop session with a tray host. X11 has been tested. Wayland requires XWayland for the pill
+              and the desktop’s GlobalShortcuts portal for shortcuts; text insertion depends on accessibility support. Keep the bundled _internal directory
+              beside the executable.
+            </p>
+          </details>
+          <details>
+            <summary>Does closing the window stop Mira?<span aria-hidden="true">+</span></summary>
+            <p>
+              Closing Preferences returns Mira to the system tray. On your first return, a fading message explains that it is still active. Choose Quit Mira
+              from the tray menu to exit the app.
+            </p>
+          </details>
+        </div>
+      </section>
+    </main>
+
+    <footer class="site-footer wrap">
+      <a class="wordmark" href="#"
+        ><span class="brand-wave" aria-hidden="true"><i></i><i></i><i></i><i></i><i></i></span>mira<span class="brand-tag">STT</span></a
+      >
+      <p>A little space for your voice.</p>
+      <a href="#download">Get Mira <span aria-hidden="true">↗</span></a
+      ><a href="downloads/release.json">Release details</a><span class="footer-note">Made for thoughts, not typing.</span>
+    </footer>
+    <a class="scroll-top" href="#top" aria-label="Back to top" hidden>
+      <svg viewBox="0 0 24 24" aria-hidden="true"><path d="m6 10 6-6 6 6M12 4v16" /></svg>
+    </a>
+    <noscript
+      ><p class="noscript-note">Downloads and feature information work without JavaScript. Enable it to explore the 3D pill and interactive demo.</p></noscript
+    >
+    <svg class="svg-definitions" xmlns="http://www.w3.org/2000/svg" aria-hidden="true">
+      <defs>
+        <symbol id="icon-download" viewBox="0 0 24 24"><path d="M12 3v12m-5-5 5 5 5-5M5 16v5h14v-5" /></symbol>
+        <symbol id="icon-mic" viewBox="0 0 24 24">
+          <rect x="8" y="2" width="8" height="13" rx="4" />
+          <path d="M5 10v2a7 7 0 0 0 14 0v-2M12 19v3m-4 0h8" />
+        </symbol>
+        <symbol id="icon-copy" viewBox="0 0 24 24">
+          <rect x="8" y="8" width="13" height="13" rx="2" />
+          <path d="M16 8V3H3v13h5" />
+        </symbol>
+        <symbol id="icon-edit" viewBox="0 0 24 24"><path d="m4 16 12-12 4 4L8 20H4zm10-10 4 4" /></symbol>
+        <symbol id="icon-focus" viewBox="0 0 24 24">
+          <path d="M8 3H3v5m13-5h5v5M3 16v5h5m13-5v5h-5" />
+          <circle cx="12" cy="12" r="3" />
+        </symbol>
+      </defs>
+    </svg>
+  </body>
+</html>

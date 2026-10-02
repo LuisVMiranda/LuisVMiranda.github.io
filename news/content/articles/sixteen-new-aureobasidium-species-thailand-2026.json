@@ -1,0 +1,127 @@
+{
+  "id": "sixteen-new-aureobasidium-species-thailand-2026",
+  "slug": "sixteen-new-aureobasidium-species-thailand-2026",
+  "section": "ciencia",
+  "secondarySections": [],
+  "publishedAt": "2026-09-18T03:30:00-04:00",
+  "publishedDate": "2026-09-18",
+  "updatedAt": "2026-09-24T17:45:13.603Z",
+  "sources": [
+    {
+      "name": "Newswise (institution-submitted research release)",
+      "url": "https://www.newswise.com/articles/sixteen-new-fungus-species-found-hiding-in-thailands-flowers"
+    },
+    {
+      "name": "IMA Fungus",
+      "url": "https://imafungus.pensoft.net/article/188009"
+    },
+    {
+      "name": "Scientias",
+      "url": "https://scientias.nl/zestien-nieuwe-schimmelsoorten-ontdekt-in-thaise-bloemen/"
+    }
+  ],
+  "rights": {
+    "mode": "original-report"
+  },
+  "translations": {
+    "pt-BR": {
+      "title": "Levantamento em flores da Tailândia descreve 16 espécies de Aureobasidium",
+      "summary": "Amostras coletadas no norte do país em 2024 revelaram diversidade taxonômica; os resultados se limitam às cepas e flores analisadas, sem estimar riscos à saúde.",
+      "aiSummary": [
+        "Pesquisadores analisaram 54 cepas de fungos coletadas em 31 espécies de flores no norte da Tailândia.",
+        "A equipe descreveu 16 espécies novas e registrou outras quatro pela primeira vez no país.",
+        "O levantamento não mede a prevalência dos fungos em todas as flores tailandesas nem demonstra risco à saúde."
+      ],
+      "paragraphs": [
+        "Uma pesquisa de campo realizada em 2024 no norte da Tailândia reuniu 54 cepas do gênero Aureobasidium, coletadas em 31 espécies de flores. A equipe de universidades tailandesas descreveu 16 espécies que não haviam sido reconhecidas antes e também identificou cinco espécies já conhecidas, quatro delas sem registro anterior no país. O resultado amplia o inventário taxonômico daquele levantamento.",
+        "Para separar organismos parecidos, os pesquisadores combinaram sequências de cinco regiões genéticas com observação microscópica, características fisiológicas e testes de crescimento. Muitos isolados tinham aparência semelhante, e marcadores moleculares usados com frequência não bastavam para distinguir alguns deles. A classificação, portanto, dependeu da convergência de diferentes tipos de evidência.",
+        "As espécies receberam nomes ligados a flores e locais de coleta, além de homenagens a pesquisadoras da micologia tailandesa. O trabalho mostra que um gênero conhecido pode conter diversidade ainda não descrita em amostras específicas. Isso não significa que as espécies estejam distribuídas por todo o território ou presentes em todas as plantas citadas.",
+        "A unidade do estudo é a amostra: 54 cepas obtidas em flores selecionadas durante uma expedição, não um censo de toda a flora do país. Por isso, os números não permitem calcular prevalência nacional nem comparar a abundância de cada espécie em todos os ambientes. A identificação também não determina, por si só, a função ecológica de cada fungo.",
+        "Os autores apontam que uma taxonomia mais precisa pode servir de referência para pesquisas futuras sobre populações fúngicas. Embora algumas espécies do gênero sejam estudadas por usos industriais e outras possam ser oportunistas, este levantamento não avaliou infecções, exposição humana ou risco sanitário. A contribuição imediata é descrever diversidade em uma amostra botânica, não demonstrar impacto clínico."
+      ]
+    },
+    "en": {
+      "title": "Flower survey in Thailand describes 16 Aureobasidium species",
+      "summary": "Samples collected in the country’s north in 2024 revealed taxonomic diversity; the results are limited to the strains and flowers examined and do not estimate health risks.",
+      "aiSummary": [
+        "Researchers analyzed 54 fungal strains collected from 31 flower species in northern Thailand.",
+        "The team described 16 new species and recorded four others in the country for the first time.",
+        "The survey does not measure prevalence across all Thai flowers or demonstrate a health risk."
+      ],
+      "paragraphs": [
+        "A 2024 field survey in northern Thailand collected 54 strains from the fungal genus Aureobasidium across 31 flower species. The team from Thai universities described 16 species not previously recognized and also identified five known species, four of which had not been recorded in the country before. The result expands the taxonomic inventory from that survey.",
+        "To distinguish similar organisms, researchers combined sequences from five genetic regions with microscopy, physiological characteristics and growth trials. Many isolates looked alike, and commonly used molecular markers were not enough to separate some of them. Classification therefore relied on agreement among different forms of evidence.",
+        "The species received names linked to flowers and collection locations, as well as tributes to Thai mycologists. The work shows that a familiar genus can contain diversity not yet described in particular samples. It does not mean that these species are distributed throughout the country or present in every plant mentioned.",
+        "The study unit is the sample: 54 strains obtained from selected flowers during a survey, not a census of the country’s flora. The numbers therefore cannot estimate national prevalence or compare each species’ abundance across all environments. Identification alone also does not establish the ecological role of each fungus.",
+        "The authors say more precise taxonomy can provide a reference for future research on fungal populations. Although some species in the genus are studied for industrial uses and others may be opportunistic, this survey did not assess infections, human exposure or health risk. Its immediate contribution is describing diversity in a botanical sample, not demonstrating clinical impact."
+      ]
+    }
+  },
+  "verification": {
+    "score": 9.2,
+    "checkedAt": "2026-09-24T14:21:03Z",
+    "checks": [
+      {
+        "provider": "IMA Fungus",
+        "url": "https://web.archive.org/web/20260919020701/https://imafungus.pensoft.net/article/188009/",
+        "finding": "supports",
+        "note": "Archived journal article page (snapshot 2026-09-19) identifies IMA Fungus 17:e188009, DOI 10.3897/imafungus.17.188009, dated 2026-08-03. Its abstract confirms 54 strains from 31 flower species, 16 novel and five known species, and four first geographic records for Thailand."
+      },
+      {
+        "provider": "Newswise / submitting research institution",
+        "url": "https://www.newswise.com/articles/sixteen-new-fungus-species-found-hiding-in-thailands-flowers",
+        "finding": "supports",
+        "note": "Complete institutional-submitted release matches the survey counts and combined molecular, morphological, physiological and growth methods. The article copy limits findings to sampled flowers and strains."
+      },
+      {
+        "provider": "Scientias",
+        "url": "https://scientias.nl/zestien-nieuwe-schimmelsoorten-ontdekt-in-thaise-bloemen/",
+        "finding": "supports",
+        "note": "Independent coverage matches the survey, species counts and methods; it does not report testing clinical or industrial effects."
+      },
+      {
+        "provider": "Aos Fatos",
+        "url": "https://www.aosfatos.org/",
+        "finding": "no-match",
+        "note": "Targeted Portuguese claim/title variants (Aureobasidium, fungi, Thailand) produced no relevant fact-check. Neutral result; no-match is not evidence of truth."
+      },
+      {
+        "provider": "Agência Lupa",
+        "url": "https://www.agencialupa.org/",
+        "finding": "no-match",
+        "note": "Targeted Portuguese claim/title variants produced no relevant fact-check. Neutral result; no-match is not evidence of truth."
+      },
+      {
+        "provider": "Projeto Comprova",
+        "url": "https://projetocomprova.com.br/",
+        "finding": "no-match",
+        "note": "Targeted Portuguese claim/title variants produced no relevant fact-check. Neutral result; no-match is not evidence of truth."
+      },
+      {
+        "provider": "AFP Fact Check",
+        "url": "https://factcheck.afp.com/",
+        "finding": "no-match",
+        "note": "Targeted English claim variants (Aureobasidium, 16 new species, Thailand flowers) produced no relevant fact-check. Neutral result; no-match is not evidence of truth."
+      },
+      {
+        "provider": "Reuters Fact Check",
+        "url": "https://www.reuters.com/fact-check/",
+        "finding": "no-match",
+        "note": "Targeted English claim variants produced no relevant fact-check. Neutral result; no-match is not evidence of truth."
+      },
+      {
+        "provider": "Full Fact",
+        "url": "https://fullfact.org/",
+        "finding": "no-match",
+        "note": "Targeted English claim variants produced no relevant fact-check. Neutral result; no-match is not evidence of truth."
+      },
+      {
+        "provider": "Google Fact Check Tools",
+        "url": "https://toolbox.google.com/factcheck/explorer",
+        "finding": "no-match",
+        "note": "Targeted ClaimReview searches produced no relevant indexed fact-check. Neutral result; no-match is not evidence of truth."
+      }
+    ],
+    "caveat": "This is taxonomic description from a 2024 northern-Thailand survey, not a national prevalence census or assessment of human exposure, pathogenicity, industrial use or health risk. The copy preserves those limits."
+  }
+}

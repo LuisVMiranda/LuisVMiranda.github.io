@@ -1,0 +1,117 @@
+{
+  "id": "researchers-observe-first-real-time-quantum-jump-in-sound",
+  "slug": "researchers-observe-first-real-time-quantum-jump-in-sound",
+  "section": "ciencia",
+  "secondarySections": [],
+  "publishedAt": "2026-09-17T00:00:00-03:00",
+  "publishedDate": "2026-09-17",
+  "updatedAt": "2026-09-24T17:45:13.603Z",
+  "sources": [
+    {
+      "name": "Stanford School of Humanities and Sciences",
+      "url": "https://humsci.stanford.edu/feature/researchers-observe-first-real-time-quantum-jump-sound"
+    },
+    {
+      "name": "Science",
+      "url": "https://doi.org/10.1126/science.aeh7535"
+    }
+  ],
+  "rights": {
+    "mode": "original-report"
+  },
+  "translations": {
+    "pt-BR": {
+      "title": "Experimento registra em tempo real salto quântico de um fônon",
+      "summary": "Uma equipe de Stanford monitorou um ressonador mecânico por dois milissegundos; a demonstração é de laboratório e suas aplicações ainda são prospectivas.",
+      "aiSummary": [
+        "Um ressonador mecânico acoplado a um qubit permitiu acompanhar transições de energia de um fônon.",
+        "A equipe fez centenas de leituras durante um decaimento de dois milissegundos.",
+        "Aplicações em computação quântica e sensores são possibilidades, não tecnologias já implantadas."
+      ],
+      "paragraphs": [
+        "Pesquisadores de Stanford relataram a observação direta, em tempo real, de um salto quântico em um sistema mecânico que transporta som. Na escala quântica, a vibração do ressonador pode ocupar níveis discretos de energia, em vez de simplesmente diminuir de forma contínua. A equipe acompanhou a transição de um fônon, a unidade quântica associada à vibração coletiva dos átomos.",
+        "O dispositivo foi construído com técnicas de fabricação de chips e acoplado a um qubit supercondutor, que funcionou como detector. Essa integração permitiu extrair informação do ressonador sem destruir imediatamente seu estado frágil, um desafio recorrente na engenharia quântica. O resultado depende de um sistema experimental cuidadosamente controlado.",
+        "O ressonador podia continuar vibrando por cerca de dois milissegundos. Nesse intervalo, o qubit fez centenas de leituras para identificar quando a energia passou do nível um para o nível zero. O longo tempo de decaimento deu à equipe uma sequência suficientemente detalhada para localizar a transição, em vez de inferi-la apenas comparando medições antes e depois.",
+        "A observação amplia o conjunto de sistemas em que pesquisadores conseguem acompanhar saltos quânticos, fenômenos já estudados em íons e fótons. Ela não significa que um computador quântico baseado em som esteja pronto para uso. O experimento demonstra controle e medição de um ressonador específico, não uma plataforma computacional completa.",
+        "A equipe aponta que detectar transições pode, no futuro, ajudar a estudar correção de erros ou sensores de alta precisão; uma colaboração também investiga se a plataforma poderia detectar proteínas. Essas são linhas de pesquisa, não resultados clínicos ou produtos. A notícia de Stanford indica um primeiro passo laboratorial, sem comprovar benefícios em celulares ou outros aparelhos de consumo."
+      ]
+    },
+    "en": {
+      "title": "Experiment records a phonon’s quantum jump in real time",
+      "summary": "A Stanford team monitored a mechanical resonator for two milliseconds; the demonstration is a laboratory result, and applications remain prospective.",
+      "aiSummary": [
+        "A mechanical resonator coupled to a qubit let researchers track a phonon’s energy transitions.",
+        "The team took hundreds of readings during a two-millisecond ringdown.",
+        "Uses in quantum computing and sensing are possibilities, not deployed technologies."
+      ],
+      "paragraphs": [
+        "Stanford researchers reported the direct, real-time observation of a quantum jump in a mechanical system that carries sound. At the quantum scale, the resonator’s vibration can occupy discrete energy levels rather than simply fade continuously. The team tracked a transition of a phonon, the quantum unit associated with coordinated atomic vibration.",
+        "The device was built using chipmaking techniques and coupled to a superconducting qubit that served as a detector. This integration let the researchers gather information from the resonator without immediately destroying its fragile state, a recurring challenge in quantum engineering. The result depends on a carefully controlled experimental system.",
+        "The resonator could continue vibrating for about two milliseconds. During that interval, the qubit took hundreds of readings to identify when the energy changed from level one to level zero. The long ringdown gave the team a sufficiently detailed sequence to locate the transition rather than infer it only by comparing measurements before and after.",
+        "The observation expands the range of systems in which researchers can track quantum jumps, phenomena already studied in ions and photons. It does not mean a sound-based quantum computer is ready for use. The experiment demonstrates control and measurement of a particular resonator, not a complete computing platform.",
+        "The team says that detecting transitions could eventually help study error correction or highly precise sensors; a collaboration is also investigating whether the platform could detect proteins. These are research directions, not clinical results or products. Stanford’s report describes a foundational laboratory step, without demonstrating benefits in smartphones or other consumer devices."
+      ]
+    }
+  },
+  "verification": {
+    "score": 8.1,
+    "checkedAt": "2026-09-24T14:21:03Z",
+    "checks": [
+      {
+        "provider": "PubMed / Science",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42752125/",
+        "finding": "supports",
+        "note": "The primary abstract confirms repeated quantum-nondemolition phonon-number measurements using a superconducting qubit coupled to a nanomechanical resonator, and observed jumps between its first excited state and ground state. Stanford supplies the hundreds-of-readings/two-millisecond detail."
+      },
+      {
+        "provider": "Stanford School of Humanities and Sciences",
+        "url": "https://humsci.stanford.edu/feature/researchers-observe-first-real-time-quantum-jump-sound",
+        "finding": "supports",
+        "note": "The complete originating research report describes the mechanical resonator, qubit readout, hundreds of measurements during a roughly two-millisecond ringdown and prospective applications. It presents a laboratory demonstration, not a deployed technology."
+      },
+      {
+        "provider": "Aos Fatos",
+        "url": "https://www.aosfatos.org/",
+        "finding": "no-match",
+        "note": "Targeted Portuguese claim/title variants produced no relevant fact-check. Neutral result; no-match is not evidence of truth."
+      },
+      {
+        "provider": "Agência Lupa",
+        "url": "https://www.agencialupa.org/",
+        "finding": "no-match",
+        "note": "Targeted Portuguese claim/title variants produced no relevant fact-check. Neutral result; no-match is not evidence of truth."
+      },
+      {
+        "provider": "Projeto Comprova",
+        "url": "https://projetocomprova.com.br/",
+        "finding": "no-match",
+        "note": "Targeted Portuguese claim/title variants produced no relevant fact-check. Neutral result; no-match is not evidence of truth."
+      },
+      {
+        "provider": "AFP Fact Check",
+        "url": "https://factcheck.afp.com/",
+        "finding": "no-match",
+        "note": "Targeted English claim variants (phonon, quantum jump of sound, resonator) produced no relevant fact-check. Neutral result; no-match is not evidence of truth."
+      },
+      {
+        "provider": "Reuters Fact Check",
+        "url": "https://www.reuters.com/fact-check/",
+        "finding": "no-match",
+        "note": "Targeted English claim variants produced no relevant fact-check. Neutral result; no-match is not evidence of truth."
+      },
+      {
+        "provider": "Full Fact",
+        "url": "https://fullfact.org/",
+        "finding": "no-match",
+        "note": "Targeted English claim variants produced no relevant fact-check. Neutral result; no-match is not evidence of truth."
+      },
+      {
+        "provider": "Google Fact Check Tools",
+        "url": "https://toolbox.google.com/factcheck/explorer",
+        "finding": "no-match",
+        "note": "Targeted ClaimReview searches produced no relevant indexed fact-check. Neutral result; no-match is not evidence of truth."
+      }
+    ],
+    "caveat": "The Science abstract and originating lab report support a controlled laboratory measurement; no independent replication was located. Keep computing, sensing and consumer-device uses framed as prospective, not deployed or clinically validated."
+  }
+}

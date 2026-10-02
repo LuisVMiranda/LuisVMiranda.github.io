@@ -1,0 +1,137 @@
+{
+  "id": "sovereignty-takes-center-stage-in-foreign-policy-electoral-platforms",
+  "slug": "sovereignty-takes-center-stage-in-foreign-policy-electoral-platforms",
+  "section": "politica",
+  "secondarySections": [],
+  "publishedAt": "2026-09-22T16:00:00.469-03:00",
+  "publishedDate": "2026-09-22",
+  "updatedAt": "2026-09-24T17:45:13.603Z",
+  "sources": [
+    {
+      "name": "Valor International",
+      "url": "https://valorinternational.globo.com/politics/news/2026/09/22/sovereignty-takes-center-stage-in-foreign-policy-electoral-platforms.ghtml"
+    },
+    {
+      "name": "Deutsche Welle",
+      "url": "https://amp.dw.com/pt-br/brics-eua-mercosul-as-propostas-de-lula-e-fl%C3%A1vio-bolsonaro-para-pol%C3%ADtica-externa/a-79298989"
+    }
+  ],
+  "rights": {
+    "mode": "original-report"
+  },
+  "translations": {
+    "pt-BR": {
+      "title": "Soberania ganha espaço nos programas de política externa dos presidenciáveis",
+      "summary": "Comparação do Valor aponta abordagens diferentes entre seis candidatos; a DW também identifica contraste entre Lula e Flávio sobre alinhamentos internacionais.",
+      "aiSummary": [
+        "O Valor afirma que cinco dos seis candidatos mais bem posicionados abordam soberania em seus programas.",
+        "O Valor relata que Renan Santos propõe a construção de uma bomba nuclear e também descreve sua meta de autonomia no ciclo do combustível nuclear.",
+        "A Constituição restringe atividades nucleares a fins pacíficos, com aprovação do Congresso; as plataformas não são políticas implementadas."
+      ],
+      "paragraphs": [
+        "A defesa da soberania aparece em cinco dos seis programas dos candidatos que o Valor identificou como mais bem posicionados nas pesquisas. A comparação mostra que o termo reúne propostas distintas, em um debate que ganhou força após as tensões comerciais com os Estados Unidos e mudanças no cenário internacional.",
+        "O programa de Luiz Inácio Lula da Silva combina soberania com multilateralismo, integração regional e ampliação de relações com Ásia, África e Oriente Médio. O texto também menciona fortalecimento da defesa e do desenvolvimento tecnológico, além de compromissos internacionais de direitos humanos e igualdade.",
+        "Flávio Bolsonaro usa o tema em sentido diferente: seu programa critica a condução da política externa do governo Lula e defende relações mais próximas com Estados Unidos, Argentina e Israel, além de retomada do processo de entrada na OCDE. A Deutsche Welle também descreveu divergências entre os dois sobre Estados Unidos, Mercosul, Brics e Israel.",
+        "Entre os demais candidatos, o Valor atribui a Ronaldo Caiado uma proposta de diplomacia voltada à defesa e à competitividade econômica. Romeu Zema trata a política externa sobretudo como instrumento de livre-comércio, enquanto Augusto Cury propõe embaixadas com foco em negócios e promoção comercial.",
+        "O Valor afirma que Renan Santos prioriza o aumento dos gastos de defesa, incluindo a construção de uma bomba nuclear. Em outra parte da comparação, a reportagem diz que seu programa busca autonomia completa no ciclo do combustível nuclear, inclusive capacidade de reprocessamento. O Valor também observa que a Constituição brasileira restringe atividades nucleares a fins pacíficos, com aprovação do Congresso; a proposta eleitoral relatada não é lei nem política estatal em vigor.",
+        "Cientistas políticos ouvidos pelo Valor avaliam que as tarifas americanas ampliaram a percepção de que o país precisa se proteger e tornaram soberania um elemento de diferenciação eleitoral. Trata-se de uma interpretação dos especialistas citados; os programas descrevem intenções e não comprovam como uma política futura seria executada."
+      ]
+    },
+    "en": {
+      "title": "Sovereignty gains prominence in presidential foreign-policy platforms",
+      "summary": "Valor’s comparison finds different approaches among six candidates; DW also identifies a contrast between Lula and Flávio on international alignment.",
+      "aiSummary": [
+        "Valor says five of the six candidates it identifies as leading address sovereignty in their platforms.",
+        "Valor reports that Renan Santos proposes building a nuclear bomb and separately describes his goal of autonomy across the nuclear-fuel cycle.",
+        "Brazil’s Constitution restricts nuclear activities to peaceful purposes, with congressional approval; campaign platforms are not implemented policy."
+      ],
+      "paragraphs": [
+        "Five of the six candidates Valor identifies as best positioned in polls address sovereignty in their platforms. The comparison finds that the term covers different proposals, in a debate that has gained prominence after trade tensions with the United States and shifts in the international environment.",
+        "Luiz Inácio Lula da Silva’s platform links sovereignty with multilateralism, regional integration and stronger ties with Asia, Africa and the Middle East. It also calls for stronger defense and technological development, alongside international commitments on human rights and equality.",
+        "Flávio Bolsonaro uses the theme differently: his platform criticizes the Lula government’s foreign policy and favors closer relations with the United States, Argentina and Israel, as well as reviving Brazil’s bid to join the OECD. Deutsche Welle also described differences between the two candidates over the United States, Mercosur, BRICS and Israel.",
+        "For the other candidates, Valor attributes to Ronaldo Caiado a foreign policy centered on defense and economic competitiveness. Romeu Zema treats international policy mainly as a tool for free trade, while Augusto Cury proposes embassies focused on business and commercial promotion.",
+        "Valor says Renan Santos prioritizes higher defense spending, including construction of a nuclear bomb. In a separate passage, the report says his platform seeks full autonomy across the nuclear-fuel cycle, including reprocessing capabilities. Valor also notes that Brazil’s Constitution restricts nuclear activities to peaceful purposes and requires congressional approval; the reported campaign proposal is not current law or state policy.",
+        "Political scientists interviewed by Valor say U.S. tariffs heightened the view that Brazil needs protection and made sovereignty an electoral dividing line. That is the experts’ interpretation; the platforms describe intentions and do not establish how any future policy would be carried out."
+      ]
+    }
+  },
+  "verification": {
+    "score": 8.5,
+    "checkedAt": "2026-09-24T16:19:43Z",
+    "checks": [
+      {
+        "provider": "Valor International",
+        "url": "https://valorinternational.globo.com/politics/news/2026/09/22/sovereignty-takes-center-stage-in-foreign-policy-electoral-platforms.ghtml",
+        "finding": "supports",
+        "note": "Complete saved extraction says Renan Santos's defense-spending proposals include construction of a nuclear bomb; separately it reports his platform's nuclear-fuel-cycle autonomy goal and states the constitutional peaceful-use and congressional-approval qualification. The revised copy attributes the bomb claim to Valor."
+      },
+      {
+        "provider": "CNN Brasil",
+        "url": "https://www.cnnbrasil.com.br/eleicoes/renan-defende-arma-nuclear-por-soberania-e-contra-cobica-sobre-o-brasil/",
+        "finding": "supports",
+        "note": "CNN's report on the August 26 TV Globo interview independently records Renan Santos publicly advocating that Brazil develop nuclear weapons. It corroborates his public proposal, not the precise wording of a filed platform document."
+      },
+      {
+        "provider": "Folha de S.Paulo",
+        "url": "https://www1.folha.uol.com.br/poder/2026/08/renan-santos-defende-que-brasil-tenha-bomba-atomica-e-minimiza-violacoes-sob-bukele.shtml",
+        "finding": "supports",
+        "note": "The accessible report independently describes Renan Santos's public advocacy for a Brazilian atomic bomb. It supports attribution to him, but does not establish that those words appear in the filed platform."
+      },
+      {
+        "provider": "Partido Missão — official campaign-plan summary",
+        "url": "https://www.renanpresidente.com.br/plano-de-governo-missao-2026.pdf",
+        "finding": "context",
+        "note": "The campaign's 51-page executive summary describes full nuclear-fuel-cycle autonomy, including reprocessing, as a deterrence objective; a search found no explicit 'bomba' wording in this summary. The document identifies itself as a condensed version of a longer plan, so this absence does not disprove his separate, independently reported public advocacy."
+      },
+      {
+        "provider": "Agência Lupa",
+        "url": "https://www.agencialupa.org/checagem/2026/08/26/ao-vivo-checagem-da-entrevista-de-renan-santos-ao-jornal-nacional/",
+        "finding": "context",
+        "note": "The opened fact-check records Renan's advocacy for creating a nuclear bomb, but its verdict examines a separate claim about the nuclear arsenals of powerful countries, not whether the bomb proposal appears in his platform. It also gives peaceful-use constitutional context."
+      },
+      {
+        "provider": "Constituição Federal — Presidência da República",
+        "url": "https://www.planalto.gov.br/ccivil_03/constituicao/douconstituicao88.pdf",
+        "finding": "supports",
+        "note": "Article 21, XXIII(a), limits nuclear activity in Brazil to peaceful purposes and requires approval by Congress. This matches the qualification in the revised PT/EN copy."
+      },
+      {
+        "provider": "Deutsche Welle",
+        "url": "https://amp.dw.com/pt-br/brics-eua-mercosul-as-propostas-de-lula-e-fl%C3%A1vio-bolsonaro-para-pol%C3%ADtica-externa/a-79298989",
+        "finding": "supports",
+        "note": "The report supports the broad Lula–Flávio contrast on multilateralism and international alignments. It does not corroborate the nuclear-bomb proposal, Valor's five-of-six count, or all other candidates' platform details."
+      },
+      {
+        "provider": "Aos Fatos",
+        "url": "https://www.aosfatos.org/",
+        "finding": "no-match",
+        "note": "Targeted Portuguese searches found no fact-check of Renan Santos's bomb proposal or the platform comparison. No-match is neutral."
+      },
+      {
+        "provider": "Projeto Comprova",
+        "url": "https://projetocomprova.com.br/",
+        "finding": "no-match",
+        "note": "The targeted search found no matching check of Renan Santos's proposal. No-match is neutral."
+      },
+      {
+        "provider": "TSE Fato ou Boato",
+        "url": "https://www.tse.jus.br/comunicacao/noticias/fato-ou-boato",
+        "finding": "no-match",
+        "note": "Targeted search found candidate-registration and platform material, but no matching fact-check of this proposal. No-match is neutral."
+      },
+      {
+        "provider": "AFP Fact Check",
+        "url": "https://factcheck.afp.com/",
+        "finding": "no-match",
+        "note": "Targeted searches found no fact-check of the Brazilian candidate's proposal. No-match is neutral."
+      },
+      {
+        "provider": "Reuters Fact Check",
+        "url": "https://www.reuters.com/fact-check/",
+        "finding": "no-match",
+        "note": "Targeted searches found no matching fact-check. No-match is neutral."
+      }
+    ],
+    "caveat": "The article attributes the bomb proposal to Valor/Renan Santos, notes constitutional peaceful-use and congressional-approval limits, and says it is not current law or state policy. CNN and Folha corroborate Renan's public advocacy. The campaign's 51-page executive summary supports the fuel-cycle/reprocessing plank but does not mention a bomb; because it summarizes a longer plan, omission does not disprove the full plan. Keep the proposal attributed to Valor, not as a verbatim plank. Valor supports the five-of-six count and most platform details; DW only the Lula–Flávio contrast."
+  }
+}

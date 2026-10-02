@@ -1,0 +1,290 @@
+@media (max-width: 800px) {
+  .site-header {
+    height: 84px;
+  }
+  .site-header nav {
+    gap: 20px;
+    font-size: 11px;
+  }
+  .hero {
+    padding-top: 42px;
+    min-height: 640px;
+  }
+  .hero h1 {
+    font-size: 61px;
+  }
+  .hero-art {
+    height: 440px;
+    margin-top: 28px;
+    margin-left: -17px;
+  }
+  .hero-description {
+    font-size: 13px;
+  }
+  .hero-actions {
+    gap: 9px;
+  }
+  .hero-actions .button {
+    gap: 12px;
+  }
+  .hero-meta {
+    font-size: 9px;
+  }
+  .release-tag {
+    font-size: 8px;
+    margin-bottom: 24px;
+  }
+  .hero-bottom {
+    font-size: 8px;
+    gap: 15px;
+  }
+  .note-listening {
+    top: 22%;
+    font-size: 8px;
+    padding: 10px;
+  }
+  .note-time {
+    display: none;
+  }
+  .art-caption {
+    font-size: 7px;
+    left: 12%;
+    top: 32px;
+  }
+  .note-keys {
+    left: 4%;
+    padding: 8px;
+    gap: 6px;
+  }
+  .note-keys kbd {
+    font-size: 8px;
+  }
+  .scene-controls > span {
+    display: none;
+  }
+  .scene-controls {
+    justify-content: center;
+    bottom: 15px;
+  }
+  .capability-strip .wrap {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    row-gap: 22px;
+    padding-block: 25px;
+  }
+  .capability-strip span {
+    font-size: 12px;
+  }
+  .section {
+    padding-block: 80px;
+  }
+  .workflow {
+    grid-template-columns: 1fr;
+    gap: 37px;
+  }
+  .section-intro h2 {
+    font-size: 42px;
+  }
+  .section-intro > p:last-child {
+    margin-top: 18px;
+  }
+  .steps {
+    gap: 30px;
+  }
+  .step-visual {
+    height: 75px;
+  }
+  .steps h3 {
+    font-size: 20px;
+  }
+  .steps p {
+    font-size: 12px;
+  }
+  .step-visual kbd {
+    font-size: 11px;
+    padding: 7px;
+  }
+  .section-heading {
+    align-items: flex-start;
+    gap: 24px;
+  }
+  .section-heading > p {
+    font-size: 12px;
+    max-width: 200px;
+    margin-top: 36px;
+  }
+  .playground-section {
+    padding-block: 74px;
+  }
+  .playground {
+    grid-template-columns: 1fr 1.05fr;
+  }
+  .demo-controls {
+    padding: 23px;
+  }
+  .demo-controls h3 {
+    font-size: 24px;
+  }
+  .demo-label {
+    font-size: 8px;
+    letter-spacing: 0.03em;
+    gap: 7px;
+  }
+  .demo-step {
+    font-size: 7px;
+  }
+  .demo-controls .quiet {
+    font-size: 11px;
+  }
+  .example-options {
+    gap: 5px;
+  }
+  .example-options button {
+    font-size: 9px;
+    padding: 7px;
+  }
+  .demo-desktop {
+    padding: 20px 16px 75px;
+  }
+  .editor-toolbar {
+    padding: 0 10px;
+    font-size: 6px;
+  }
+  .editor-context {
+    padding: 23px 16px 0;
+  }
+  .editor-context h4 {
+    font-size: 20px;
+  }
+  .editor-window textarea {
+    padding: 20px 16px;
+    min-height: 205px;
+    font-size: 14px;
+  }
+  .editor-footer {
+    padding: 9px;
+    font-size: 8px;
+  }
+  .editor-footer button {
+    font-size: 8px;
+  }
+  .demo-controls blockquote {
+    font-size: 17px;
+    min-height: 107px;
+  }
+  .record-shortcut {
+    display: none;
+  }
+  .record-button {
+    min-height: 54px;
+    font-size: 13px;
+  }
+  .demo-pill {
+    padding: 12px;
+    gap: 9px;
+  }
+  .demo-wave {
+    gap: 2px;
+  }
+  .demo-pill time {
+    font-size: 8px;
+  }
+  .delivery-toast {
+    font-size: 8px;
+    padding: 9px;
+  }
+  .feature-grid {
+    grid-template-columns: 1fr 1fr;
+  }
+  .engine-card {
+    grid-row: span 2;
+  }
+  .feature-card {
+    padding: 26px;
+  }
+  .language-card {
+    grid-column: 2;
+  }
+  .control-card {
+    grid-column: 1/-1;
+  }
+  .control-card > p {
+    max-width: 65%;
+  }
+  .control-card h3 {
+    font-size: 33px;
+  }
+  .limit-visual {
+    right: 40px;
+    top: 55px;
+  }
+  .limit-visual div {
+    display: flex;
+    flex-direction: column;
+    gap: 14px;
+  }
+  .limit-visual div > span {
+    font-size: 8px;
+    letter-spacing: 0.1em;
+  }
+  .limit-visual strong {
+    font-size: 18px;
+    font-weight: 400;
+  }
+  .voice-note h2 {
+    font-size: 27px;
+  }
+  .voice-note-end {
+    margin-right: 0;
+  }
+  .download-section {
+    padding-top: 80px;
+  }
+  .download-panel {
+    padding: 35px;
+    gap: 25px;
+  }
+  .download-copy h2 {
+    font-size: 35px;
+  }
+  .download-copy > p:not(.eyebrow) {
+    font-size: 12px;
+  }
+  .version-tag {
+    flex-wrap: wrap;
+    font-size: 8px;
+  }
+  .version-tag > span:last-child {
+    border: 0;
+    padding-left: 0;
+  }
+  .download-card strong {
+    font-size: 12px;
+  }
+  .download-card small {
+    line-height: 1.6;
+  }
+  .os-icon {
+    font-size: 28px;
+  }
+  .mac-note {
+    padding-inline: 8px;
+    gap: 14px;
+  }
+  .faq-section {
+    grid-template-columns: 0.8fr 1.2fr;
+    gap: 35px;
+  }
+  .faq-section h2 {
+    font-size: 39px;
+  }
+  .site-footer {
+    gap: 23px;
+  }
+  .site-footer p {
+    font-size: 11px;
+  }
+  .site-footer > a:not(.wordmark) {
+    font-size: 10px;
+  }
+}

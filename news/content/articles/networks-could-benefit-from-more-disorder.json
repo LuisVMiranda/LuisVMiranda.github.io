@@ -1,0 +1,117 @@
+{
+  "id": "networks-could-benefit-from-more-disorder",
+  "slug": "networks-could-benefit-from-more-disorder",
+  "section": "ciencia",
+  "secondarySections": [],
+  "publishedAt": "2026-09-17T00:00:00-03:00",
+  "publishedDate": "2026-09-17",
+  "updatedAt": "2026-09-24T17:45:13.603Z",
+  "sources": [
+    {
+      "name": "Northwestern University",
+      "url": "https://news.northwestern.edu/stories/2026/09/networks-could-benefit-from-more-disorder"
+    },
+    {
+      "name": "Science",
+      "url": "https://doi.org/10.1126/science.aeg3946"
+    }
+  ],
+  "rights": {
+    "mode": "original-report"
+  },
+  "translations": {
+    "pt-BR": {
+      "title": "Variação pode estabilizar redes complexas, mas o excesso também desestabiliza",
+      "summary": "Uma estrutura matemática testada em modelos encontrou situações em que diferenças entre componentes favorecem estabilidade, sem demonstrar efeitos em redes reais.",
+      "aiSummary": [
+        "O estudo propôs condições matemáticas em que a heterogeneidade pode estabilizar sistemas complexos.",
+        "Os testes foram feitos em modelos de redes elétricas, neurônios, bandos, materiais e ecossistemas.",
+        "A quantidade e a localização da variação importam; o excesso pode reduzir a estabilidade."
+      ],
+      "paragraphs": [
+        "Redes de componentes idênticos são convenientes para modelos, mas sistemas naturais e construídos raramente são uniformes. Pesquisadores da Universidade Northwestern formularam uma estrutura matemática para investigar quando diferenças entre componentes, chamadas heterogeneidade ou desordem, podem influenciar a estabilidade coletiva. A conclusão não é que mais variação seja sempre melhor.",
+        "O método avalia o comportamento de um sistema perto de um estado estável: pequenas perturbações desaparecem ou crescem? Em seguida, compara modelos com componentes e conexões semelhantes a modelos que incluem diferenças entre nós ou entre os vínculos. Essa abordagem procura condições gerais, em vez de medir diretamente uma rede elétrica ou um ecossistema em operação.",
+        "A equipe aplicou a estrutura a modelos de redes de energia, atividade neuronal, bandos, materiais arquitetados e redes ecológicas. Em diferentes casos, variações entre componentes ou conexões puderam aumentar a estabilidade prevista. Os autores relacionam os resultados a exemplos anteriores, mas os testes descritos nesta pesquisa são matemáticos e computacionais.",
+        "O efeito depende de onde a variação ocorre e de sua intensidade. Uma quantidade moderada pode ajudar determinado modelo, enquanto uma diferença excessiva pode desestabilizar o mesmo sistema. Em alguns modelos, variações aleatórias também melhoraram a estabilidade em comparação com a configuração uniforme, mas o resultado não vale automaticamente para toda rede.",
+        "O trabalho oferece uma ferramenta para formular hipóteses sobre redes complexas e projetar novos materiais, não uma demonstração de que mudanças em uma rede elétrica real reduziriam apagões. A aplicação em engenharia exigiria modelos específicos, medições e testes em sistemas concretos. A equipe também aponta que explicações ecológicas sugeridas pelo estudo precisam ser avaliadas com evidência própria."
+      ]
+    },
+    "en": {
+      "title": "Variation may stabilize complex networks, but too much can destabilize them",
+      "summary": "A mathematical framework tested on models found cases in which differences among components improve stability, without demonstrating effects in real networks.",
+      "aiSummary": [
+        "The study set out mathematical conditions under which heterogeneity can stabilize complex systems.",
+        "Tests used models of power grids, neurons, flocks, materials and ecosystems.",
+        "The amount and location of variation matter; too much can reduce stability."
+      ],
+      "paragraphs": [
+        "Networks of identical components are convenient to model, but natural and engineered systems are rarely uniform. Researchers at Northwestern University developed a mathematical framework to examine when differences among components, called heterogeneity or disorder, can affect collective stability. The conclusion is not that more variation is always better.",
+        "The method assesses a system near a stable state: do small disturbances fade or grow? It then compares models with similar components and connections with models that include differences among nodes or links. This approach seeks general conditions rather than directly measuring an operating power grid or ecosystem.",
+        "The team applied the framework to models of power grids, neural activity, flocks, architected materials and ecological networks. In different cases, variation among components or connections could increase predicted stability. The authors relate the results to earlier examples, but the tests described in this study are mathematical and computational.",
+        "The effect depends on where variation occurs and how strong it is. A moderate amount may help a given model, while too much can destabilize the same system. In some models, random variation also improved stability compared with a uniform configuration, but that result does not automatically apply to every network.",
+        "The work provides a tool for forming hypotheses about complex networks and designing new materials; it does not demonstrate that changing a real power grid would prevent outages. Engineering use would require system-specific models, measurements and tests. The team also says ecological explanations suggested by the study need to be assessed with evidence of their own."
+      ]
+    }
+  },
+  "verification": {
+    "score": 8.9,
+    "checkedAt": "2026-09-24T14:21:03Z",
+    "checks": [
+      {
+        "provider": "PubMed / Science",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42752122/",
+        "finding": "supports",
+        "note": "The Science abstract attributes prior conclusions to model reductions and reports that heterogeneity can stabilize higher-dimensional neural, power-grid and material models, with nonreciprocal ecological models as another case. It is theoretical, not a field intervention or proof of fewer outages."
+      },
+      {
+        "provider": "Northwestern University",
+        "url": "https://news.northwestern.edu/stories/2026/09/networks-could-benefit-from-more-disorder",
+        "finding": "supports",
+        "note": "Complete release describes model tests spanning power-grid, neural, flock, material and ecological networks and explicitly says excessive disorder can destabilize a system. The Ciência copy narrows this to model predictions."
+      },
+      {
+        "provider": "Aos Fatos",
+        "url": "https://www.aosfatos.org/",
+        "finding": "no-match",
+        "note": "Targeted Portuguese claim/title variants produced no relevant fact-check. Neutral result; no-match is not evidence of truth."
+      },
+      {
+        "provider": "Agência Lupa",
+        "url": "https://www.agencialupa.org/",
+        "finding": "no-match",
+        "note": "Targeted Portuguese claim/title variants produced no relevant fact-check. Neutral result; no-match is not evidence of truth."
+      },
+      {
+        "provider": "Projeto Comprova",
+        "url": "https://projetocomprova.com.br/",
+        "finding": "no-match",
+        "note": "Targeted Portuguese claim/title variants produced no relevant fact-check. Neutral result; no-match is not evidence of truth."
+      },
+      {
+        "provider": "AFP Fact Check",
+        "url": "https://factcheck.afp.com/",
+        "finding": "no-match",
+        "note": "Targeted English claim variants (network disorder, stability models) produced no relevant fact-check. Neutral result; no-match is not evidence of truth."
+      },
+      {
+        "provider": "Reuters Fact Check",
+        "url": "https://www.reuters.com/fact-check/",
+        "finding": "no-match",
+        "note": "Targeted English claim variants produced no relevant fact-check. Neutral result; no-match is not evidence of truth."
+      },
+      {
+        "provider": "Full Fact",
+        "url": "https://fullfact.org/",
+        "finding": "no-match",
+        "note": "Targeted English claim variants produced no relevant fact-check. Neutral result; no-match is not evidence of truth."
+      },
+      {
+        "provider": "Google Fact Check Tools",
+        "url": "https://toolbox.google.com/factcheck/explorer",
+        "finding": "no-match",
+        "note": "Targeted ClaimReview searches produced no relevant indexed fact-check. Neutral result; no-match is not evidence of truth."
+      }
+    ],
+    "caveat": "This is a mathematical/computational result. The proposed engineering and ecological relevance needs system-specific measurements and tests; the article does not present model output as a real-world demonstration."
+  }
+}

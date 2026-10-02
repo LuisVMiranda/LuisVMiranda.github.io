@@ -1,83 +1,84 @@
-# github-news daily automation
+# github-news daily automation (120-minute fail-closed target)
 
-Run from `C:\Users\Admin\Documents\GitHub\LuisVMiranda.github.io\news` every day at 05:00 GMT-3 (`America/Sao_Paulo`). The scheduled job is named `github-news` and publishes verified editions directly to `main`, leaving a three-hour buffer before the 08:00 editorial target.
+Run from the news application path injected as this job's `workdir`. The recurring schedule remains 05:00 America/Sao_Paulo (GMT-3), with the 08:00 editorial target. Publish directly to `main` only after every strict gate and the exact-revision independent PASS below.
 
-Goal: prepare one verified edition with exactly ten verified, fully developed stories in each fixed desk: `brasil`, `mundo`, `politica`, `economia`, `tecnologia`, `ciencia`, `cultura`, and `esportes`, then commit and push it to `main` so GitHub Pages can deploy it automatically. No human editorial step is required: an independent read-only subagent must review the exact content revision before the automation records approval and publishes.
+Goal: produce exactly ten verified stories for each of `brasil`, `mundo`, `politica`, `economia`, `tecnologia`, `ciencia`, `cultura`, and `esportes`; retain exactly 80 ordered section references, deduplicating shared events into stable article IDs; then publish the verified edition. Preserve the existing bilingual site design, article schema, source rights, cutoff discipline, and fail-closed behavior.
 
-Read `news-report.md`, `README.md`, `research/TEMPLATE.md`, `automation/fact-checking-prompt.md`, `src/modules/content/schema.ts`, the existing section manifests, and the current Git status before making any edit. Preserve the existing site design and article template. Populate the existing optional AI-summary field and the reviewed verification score; do not redesign the pages or edit generated HTML.
+## Subagent model and reasoning
 
-## Safety gates
+The `github-news` job is pinned to `gpt-6-luna` via `openai-codex`; the profile's `delegation.model` and `delegation.provider` are also `gpt-6-luna` and `openai-codex`. The job reasoning pin must be `xhigh`. Use that inherited model and effort for every drafting, fact-check, and independent-review child. Do not override them, fall back to another model, or invent unsupported per-task model fields. If scheduler/profile readback differs, fail closed before delegating. Do not change global delegation settings from this prompt.
 
-1. Read the current date/time with `date` and inspect `git status --short --branch`. Fetch `origin` before deciding whether the branch is safe. If the branch has diverged, or if tracked changes exist outside the automation-owned paths below, abort without content edits and report the exact paths. If the only dirty paths are recoverable automation output (`content/articles/`, `content/editions.json`, `content/approval.json`, `research/editorial/`, `research/runs/`, `artifacts/`, or generated preview/package directories), validate those files against the current manifests and either resume from them or reset only the invalid automation-owned paths; never discard unknown files. A clean worktree is still required before commit, push, or approval.
-2. Run `npm run research` once to freeze one shared cutoff and retain the candidate run. Treat its local SearXNG results as a candidate inventory only. Before selecting stories, run `npx tsx scripts/extract-research.ts --run RUN_DIR --max-per-section 40 --concurrency 8`, then run `npm run research:corroborate -- --run RUN_DIR`. Read both generated indexes: `extractions/index.json` and `corroboration/index.json`. The latter contains lexical leads only; confirm the matching facts and discrepancies in both complete source bodies before using a pair as corroboration. You must use the web search and web extraction tools directly to locate and read complete original publisher pages for selected stories. If `web_extract` has no backend, use the browser tool to open the public article; if the browser tool cannot start, use the batch Playwright evidence under `research/runs/RUN_DIR/extractions/`. If a page is blocked, follow the approved recovery ladder and pivot to an accessible original or reputable alternative. Continue with direct web retrieval rather than failing solely because one retrieval path is unavailable. Search snippets, RSS excerpts, aggregators, and AI-generated text are not evidence.
-3. For every selected story, use a complete extracted source body, including meaningful qualifications, updates, corrections, lists, tables, and captions. Preserve the source's factual coverage, chronology, attribution, caveats and relevant context in the published reading version. Accept a batch record only when HTTP succeeded, `complete: true`, there are at least three extracted paragraphs, and warnings are empty; retain its JSON evidence in the ignored run directory. If the batch inventory leaves a desk below ten complete sources, perform focused web searches and run `scripts/extract-article.ts` for the additional candidates before declaring a shortfall. Reject paywalled or incomplete pages, undated or future stories, duplicates, rumors, inaccessible sources, and stories outside the desk. Do not bypass access controls. Keep raw retrieval evidence only in ignored `research/runs/`.
-4. Validate each story before selection. For consequential, disputed, unusually consequential, or manipulation-prone claims, require at least one independent reputable corroborating source and use two when the claim warrants it. For routine low-risk service, culture, schedule or result reports, a complete reputable publisher source may be sufficient when the facts are directly stated, internally coherent, and no conflicting evidence appears; record why independent corroboration was not materially necessary. Prefer an official primary record plus an independent newsroom or wire service. Record the corroborating URLs, matching facts, discrepancies, and why the evidence supports publication. If credible sources conflict or the story cannot be verified at the appropriate level, mark it unverified and omit it rather than presenting it as fact.
-5. Select the top ten distinct qualified stories per desk, prioritizing the preceding 24 hours and expanding to seven days only when necessary. Deduplicate canonical URLs and shared events across desks; use one article identity with justified secondary sections when appropriate.
-6. Never pad a desk. Use the complete-source inventory and corroboration leads to select real stories; do not report zero merely because every story lacks a second source when the story is routine and low-risk under step 4. If any desk still has fewer than ten qualified stories after focused retrieval and the appropriate verification gate, leave the current content, edition, approval record, and deployment untouched; write a dated failure report under `artifacts/`; report the per-desk shortfall and the exact rejected-source reasons; and stop without committing or pushing.
+## Runtime budget — 120-minute fail-closed target
 
-## Fact-check cross-check and confidence score
+At start, use `date -u +%s` to record the epoch and write the run start/cutoff to the run record. Check elapsed time at every phase boundary. T+120 minutes is a prompt-enforced stop target, not an OS-level kill switch for an LLM-driven cron run. Stop at the first phase boundary at or after T+120, fail closed, and do not claim a hard termination or sub-two-hour completion unless measured. Bound each subprocess with its own timeout. Phase budgets:
 
-Before drafting each selected article, assign a fact-checking subagent to inspect the relevant claim against the configured Brazilian and international fact-checking sources in `src/modules/research/fact-check-sources.ts`. Use the article's central claim, named people, institutions, numbers, images or quotations as search variants. A source with no matching entry is neutral; it is not evidence that the claim is true. A matching verdict that contradicts the claim is a blocking signal until the discrepancy is resolved.
+- T+00–05: preflight and source-tool check.
+- T+05–15: one frozen research run and candidate ranking.
+- T+15–35: source-body extraction and bounded shortfall searches.
+- T+35–65: desk-parallel selection, original bilingual articles, summaries, and manifests.
+- T+65–80: one desk-batched fact-check pass and apply.
+- T+80–95: strict gate, formatting/tests, preview/package, and review digest.
+- T+95–105: independent read-only review of the exact digest and approval.
+- T+105–120: commit/push, GitHub Actions/Pages, and live-route readback.
 
-The Brazilian source set is: Aos Fatos, Agência Lupa, Projeto Comprova, and TSE Fato ou Boato. The international set is: AFP Fact Check, Reuters Fact Check, Full Fact, and Google Fact Check Tools. Subagents must access the source pages directly when possible. Google Fact Check Tools API access is optional and requires a separately configured API key; never place that key in the repository or article content. The source registry is the authoritative list and includes the current homepages, search guidance, and optional API endpoints.
+Do not extend a phase by repeating a failed command or browsing the same source again. Allow at most one retry for an infrastructure/tool failure, then change retrieval path once or fail closed. For a content or test defect, allow one scoped repair and one full relevant rerun. If a phase deadline is missed, or exact gates cannot finish by T+105, write a concise failure artifact and do not approve, commit, or push. Never claim the two-hour target if elapsed time exceeds it. Include measured total and per-stage durations in the final report.
 
-For every selected article, record a `verification` object with a one-decimal score from 0.0 to 10.0, the UTC check timestamp, every consulted fact-check source, its finding (`supports`, `contradicts`, `context`, `no-match`, or `inconclusive`), a concise note, and a caveat. Calculate the score as an evidence-confidence estimate, not a mathematically calibrated probability. Do not inflate a score because a fact-check site has no matching entry. Contradictory fact-check findings require resolution or exclusion. The public article may phrase `8.7/10` as an estimated `87% likelihood of being accurate`, but must also disclose that the score is an editorial estimate and not a guarantee.
+## 1. Preflight and frozen research
 
-The score must be reviewed in both locales and displayed inside the existing AI-summary box. Keep the underlying fact-check notes in the article record/editorial manifest; do not publish a source's full text. Do not assign a score from a search snippet alone.
+Read current UTC time, `git status --short --branch`, repository instructions, `README.md`, `news-report.md`, `research/TEMPLATE.md`, the schema, and existing editorial/edition state. Before researching, inspect this date's run records. Reuse one same-date run no older than six hours only when its frozen cutoff and research, extraction, and corroboration indexes parse and agree; resume from its earliest incomplete stage and never repeat a completed stage. Otherwise create one new frozen run. Fetch `origin` and confirm the branch is synchronized. Abort without editing if an unrelated worktree change exists, if another github-news owner process is still alive, or if the target cannot be identified. Preserve all existing user/draft files; do not reset or clean them.
 
-## Article and template contract
+When no valid resumable same-date run exists, run `npm run research` exactly once to establish one immutable UTC cutoff for all eight desks. Treat search results as candidate leads only. Rank for the preceding 24 hours, expanding to seven days only when needed; reject future, undated, duplicate, inaccessible, unsupported, or rights-unclear items.
 
-7. Produce a complete, faithful, rights-safe reading version. Read the full source article and carry over all material verified facts, chronology, attribution, qualifications, corrections and relevant context. Do not publish a near-verbatim or paragraph-by-paragraph substitute for an unlicensed source: use `original-report` prose unless the source is public domain or a real reproduction license/permission is recorded. Each selected article must include paired PT-BR and EN title, synopsis, source links, publication/update dates, an original reading body with at least five substantive paragraphs per language, and the reviewed `verification` score/object. Add at least two meaningful paragraphs beyond the initial event summary: use them for overlooked facts, chronology, named actors, practical implications, caveats, consequences or next steps already supported by the evidence. Do not pad a short source or invent detail, and use more than five paragraphs when the verified material requires it.
+## 2. Bounded source collection
 
-```json
-"rights": { "mode": "original-report" }
-```
+Run once:
 
-Use `licensed-reproduction` only with a real permission reference and license. Preserve the existing article template. Every new article must provide paired `translations[locale].aiSummary` arrays. Use one to five short factual bullet sentences, selected according to relevance and the amount of verified body material; never exceed five. Cover the event, the most important consequence or number, and a meaningful qualification or next step when supported. The existing renderer must show this field as a compact bulleted block labeled `Resumo por IA` / `AI summary` immediately below the article metadata and before the full reading body. The summary is a guide, never a replacement for the body.
+`npx tsx scripts/extract-research.ts --run RUN_DIR --max-per-section 16 --concurrency 12`
 
-The published body is intentionally minimalist: remove all inline hyperlinks, Markdown links, HTML links, images, image galleries, embeds, tracking pixels, advertisements, related-story modules and decorative media from the article text. Keep source names and URLs only in the article's dedicated Sources area. If an image caption contains a material fact, preserve that fact as clean prose only after verifying it independently; never carry the image or its embed into the portal. Reject the article if the generated body still contains URLs, link markup, image markup or embedded media.
+This caps the first pass at 128 candidate pages instead of crawling up to 320. Accept a source only with successful HTTP status, `complete: true`, at least three substantive paragraphs, and no warnings. Read the saved complete body; snippets and the lexical `research:corroborate` output are never evidence. Run `npm run research:corroborate -- --run RUN_DIR` once as a deduplication/corroboration lead list, not as a truth verdict.
 
-8. Update `research/editorial/<section>.json` with the shared cutoff, the exact ordered ten IDs, complete source and corroboration evidence, fact-check verification status, selection reasons, translation/review status, and for every selected entry:
+If a desk has fewer than ten qualified sources, do at most one focused search batch and extract no more than 16 supplemental candidates for each short desk. Keep the total ceiling at 32 attempted source bodies per desk. Do not re-fetch a complete accepted source. For a failed URL, make one alternate retrieval attempt using the approved recovery ladder; never bypass access controls or loop on the same route. If any desk remains short, record exact eligible/rejected counts and fail closed without changing the published edition.
 
-```json
-"contentReview": {
-  "bodyComplete": true,
-  "aiSummaryReviewed": true
-}
-```
+For selected stories, use the saved complete extraction as the source of truth. Directly retrieve only independent corroboration needed for consequential, disputed, medical, safety, market-moving, or allegation claims; use two independent sources when the dispute warrants it. Routine, low-risk service/culture/scheduled/result facts may use one complete reputable source with a concrete bounded-risk rationale. Attribute official, company, police, court, and coalition claims. Preserve conflicting figures and source time-stages; do not infer a reconciled fact.
 
-9. Stage the current edition through `npx tsx scripts/edition.ts YYYY-MM-DD --lead ARTICLE_ID --refresh`, selecting the strongest current Brasil story explicitly. The `--refresh` mode replaces the same-date edition in place so the homepage and all section pages immediately use the latest verified rankings; older dated editions remain preserved. Do not edit page-review scores or shared implementation hashes during a content run.
+## 3. Parallel drafting and summaries
 
-## Verification and submission
+Select the strongest ten distinct stories per desk, deduplicate event identities before delegation, and record the exact 80-reference order. Dispatch one bounded drafting task per desk in parallel; each task owns only its desk manifest and article IDs whose `primarySection` it owns. Shared IDs have one deterministic owner and one article file. Do not ask agents to edit the edition, approval, scripts, page-review hashes, or another desk's files. Each worker writes within its assigned scope and returns only a compact JSON handoff with desk, ordered IDs, changed paths, hashes, source counts, validation results, and blockers. Do not paste full article prose or source bodies into the parent transcript; the parent reads back the exact files and verifies the hashes.
 
-Run all of these before committing:
+Each selected article must include paired PT-BR/EN title, synopsis, five or more substantive original-report paragraphs when evidence supports that length, clean body text, HTTPS sources, publication time at source-displayed precision, rights metadata, and one-to-five factual AI-summary bullets per locale. Draft the summaries with the article from the retained full source and verified facts—do not run a separate summary rewrite pass. Do not copy source prose, invent context, embed URLs/media, or pad short reporting. Preserve selected order/cutoff and record complete extraction metadata, selection reasons, source/corroboration facts, translation parity, and review flags in the desk manifest. Never fabricate cutoff provenance from a later capture.
 
-```text
-npm run fact-check:apply -- --edition YYYY-MM-DD --input FACT_CHECK_AUDIT.json
-npm run news:verify -- --require-verification
-npm run check
-npm test -- --run
-npm run build:preview
-npm run package:pages
-npm run review
-```
+## 4. Single fact-check pass
 
-Inspect the preview in both languages: homepage lead, all eight ranked lists, article pages, AI-summary block placement and labels, full body paragraphs, sources, dates, language switch, dark mode, and reading controls. The strict `news:verify` command must pass; never use `--legacy-ok`. If any check fails, do not commit or push.
+After drafting, dispatch one read-only fact-check batch per primary desk (eight batches total, not one worker per article). Each batch checks all unique articles in that desk against claim-relevant entries in `src/modules/research/fact-check-sources.ts` and the retained primary/corroborating sources. Open relevant fact-check pages; snippets alone are not findings. Record exactly one score (0.0–10.0, one decimal), UTC timestamp, consulted provider/HTTPS URL, finding (`supports`, `contradicts`, `context`, `no-match`, `inconclusive`), concise note, and caveat per article. A no-match is neutral. Scores are editorial evidence confidence, not calibrated probability. Resolve contradictions or exclude the story; score below 7.0 blocks publication. Do not run a second article-by-article fact-check round after the batch.
 
-After the local checks pass, calculate the exact `npm run review` revision and deploy an independent read-only reviewer with `delegate_task`. Give it the repository path, target commit, and required checks; it must not edit files, commit, push, approve, or merge. Stop if it returns anything other than `PASS` or if it reports a content or infrastructure blocker.
+Write each desk audit to a file and return only its path, SHA-256, exact audited IDs, and blockers. Merge audit output programmatically: exact unique selected-ID coverage, no duplicates/unexpected IDs, valid schema/URLs/findings/scores, and no unresolved blocker. Apply once with `npm run fact-check:apply -- --edition YYYY-MM-DD --input AUDIT.json`; then compile/refresh the same-date edition with the explicit lead. Article summary and score render in the existing bilingual block with a non-guarantee caveat; do not change shared presentation or page review scores during a content run.
 
-Only after the independent reviewer returns `PASS`, record machine approval with `npm run review -- --approve --revision DIGEST --by "github-news independent reviewer" --confirm-reviewed`. Verify the approval revision, the exact content digest, and all selected counts again. Then remain on `main`, commit only intended source/content/manifests/edition/approval changes, and push `main` to `origin`. Never use `automation/daily-news` as the publication branch, force-push, alter page-review scores, or claim deployment before reading back the remote SHA and GitHub Actions result.
+## 5. Strict verification and bounded quality checks
 
-A successful search is never permission to submit unverified articles. If no qualified full-text selection exists, fail closed and leave the previously approved edition deployed. A successful push is not proof of publication; verify the Pages workflow and report its run and deployment state.
+Run `npm run news:verify -- --require-verification`; it must pass with zero blocking issues. Never use `--legacy-ok`. Then run independent, read-only local checks and inspect results:
 
-## Telegram completion summary
+- `npm run lint`
+- `npm run format:check`
+- `npm run check`
+- `npm run test`
+- `npm run build:preview`
+- `npm run package:pages`
+- `npm run test:e2e`
+- `npm run test:performance`
+- `npx tsx scripts/check-reviews.ts`
 
-The scheduler delivers the job's final response to Telegram. Send nothing until
-the GitHub Pages deployment and live route checks have completed. After a
-successful publication, send one concise summary containing the edition date,
-the eight-desk/80-reference result, unique article count, verification-score
-range, lead story, commit SHA, deployment status, and the fact that live routes
-returned successfully. Do not include raw source excerpts, credentials, tokens,
-or a long process log. If publication fails closed, send one concise Telegram
-notice stating that the previous approved edition remains live and naming the
-blocking gate; do not imply that new news was published.
+Run independent lint/type/unit/format commands concurrently where safe; build and package in order; run browser/performance checks against the fresh packaged preview, not an unrelated existing server. Do not reuse stale E2E servers. Inspect homepage/lead, all eight ordered lists, representative PT-BR and English articles, score/caveat, dates, sources, and language switching. Do not update page-review hashes without real visual review. If a check fails, make one narrowly scoped evidence-backed repair and rerun all affected gates; otherwise fail closed.
+
+## 6. Independent review, approval, and release
+
+Run `npm run review` and capture the exact digest after all publication-bound content, manifests, and edition data are final. Dispatch one independent read-only reviewer—not additional review fan-out—to inspect the exact digest, 80 references, unique IDs, all article translations/summaries/scores, evidence/provenance, strict test output, and built routes. The reviewer may not edit, apply scores, approve, stage, commit, push, or deploy. It must return PASS for this exact revision by T+105; otherwise leave the prior approved edition live and save the blocker report.
+
+Only after PASS, record machine approval with the exact digest and traceable reviewer identity using the repository's documented approval command. Recheck strict verification and digest. Commit only intended, verified news content/manifests/edition/approval and authorized automation files; never include unrelated drafts or OCI files. Push `main` without force-push. Read back the exact remote SHA, matching GitHub Actions validation and Pages publish conclusions, and PT-BR/EN live routes with expected localized content. If the 120-minute limit is reached before remote deployment/live-route verification, report publication as incomplete rather than claiming success.
+
+## Test-only invocation
+
+When invoked with an explicit test-only override, run in a dedicated isolated worktree. Verify that any pre-existing dirty paths exactly match the allowlist and hashes supplied with the test override; treat only those paths as the test fixture and do not edit, stage, reset, or commit them. Stop if any other initial change exists. Keep all selected-story edits, manifests, audit artifacts, and outputs inside the isolated worktree. Exercise research, drafting, fact-check, strict/local quality, build/package, and independent review, but do not write machine approval, commit, push, or deploy. Report elapsed time and blockers. The launcher is responsible for restoring any temporary cron workdir after the test; do not edit scheduler state.
+
+## Completion message
+
+Report the exact edition date, cutoff, eight-desk/reference/unique-story counts, confidence-score range, explicit lead, total and stage timings, commit/remote SHA and CI/Pages/live-route results when published, or precise fail-closed blockers. Distinguish local test completion from external publication. The Telegram delivery is the final response; send exactly one concise message after all applicable checks complete. Never include credentials or long process logs.

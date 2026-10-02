@@ -1,0 +1,62 @@
+@media (max-width: 370px) {
+  .wrap {
+    width: calc(100% - 32px);
+  }
+  .hero-actions {
+    gap: 12px;
+  }
+  .hero-actions .button {
+    font-size: 11px;
+    padding: 14px 12px;
+  }
+  .hero-actions .text-link {
+    font-size: 10px;
+  }
+  .hero-art {
+    height: 325px;
+  }
+  .demo-controls {
+    padding: 20px;
+  }
+  .demo-desktop {
+    padding-inline: 16px;
+  }
+  .steps {
+    gap: 10px;
+  }
+  .step-visual kbd {
+    font-size: 8px;
+    padding: 4px;
+  }
+  .step-visual {
+    gap: 3px;
+  }
+  .download-panel {
+    padding: 27px 20px;
+  }
+  .version-tag {
+    gap: 7px;
+  }
+  .download-copy h2 {
+    font-size: 35px;
+  }
+  .scene-controls button {
+    font-size: 8px;
+    padding: 8px;
+  }
+}
+@media (prefers-reduced-motion: reduce) {
+  :root {
+    scroll-behavior: auto;
+  }
+  *,
+  *:before,
+  *:after {
+    animation: none !important;
+    transition: none !important;
+  }
+  .button:hover,
+  .download-card:hover {
+    transform: none;
+  }
+}

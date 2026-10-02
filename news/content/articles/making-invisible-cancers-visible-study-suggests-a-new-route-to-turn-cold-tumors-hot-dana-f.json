@@ -1,0 +1,117 @@
+{
+  "id": "making-invisible-cancers-visible-study-suggests-a-new-route-to-turn-cold-tumors-hot-dana-f",
+  "slug": "making-invisible-cancers-visible-study-suggests-a-new-route-to-turn-cold-tumors-hot-dana-f",
+  "section": "ciencia",
+  "secondarySections": [],
+  "publishedAt": "2026-09-17T12:00:00Z",
+  "publishedDate": "2026-09-17",
+  "updatedAt": "2026-09-24T17:45:13.603Z",
+  "sources": [
+    {
+      "name": "Dana-Farber Cancer Institute",
+      "url": "https://www.dana-farber.org/newsroom/news-releases/2026/making-invisible-cancers-visible-study-suggests-a-new-route-to-turn-cold-tumors-hot"
+    },
+    {
+      "name": "Immunity — PubMed record",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42753739/"
+    }
+  ],
+  "rights": {
+    "mode": "original-report"
+  },
+  "translations": {
+    "pt-BR": {
+      "title": "Estudo identifica mecanismos que ocultam alvos tumorais de células T",
+      "summary": "Experimentos com fragmentos de p53 apontam falhas na apresentação de antígenos; a estratégia de alterar essa exibição ainda não foi testada como tratamento em pacientes.",
+      "aiSummary": [
+        "A pesquisa mediu peptídeos apresentados por células tumorais, em vez de inferi-los apenas pelo DNA.",
+        "A inibição de ERAP1 restaurou o reconhecimento de células em experimentos de laboratório.",
+        "Nenhum tumor humano foi convertido em tumor “quente” em pacientes neste estudo."
+      ],
+      "paragraphs": [
+        "Células T reconhecem pequenos fragmentos de proteínas expostos na superfície celular por moléculas HLA; elas não leem diretamente o DNA do tumor. Um estudo de pesquisadores do Dana-Farber Cancer Institute investigou por que algumas mutações de p53, embora presentes no genoma, podem não aparecer como alvos visíveis para o sistema imune. A distinção entre mutação e fragmento realmente apresentado é central para interpretar a pesquisa.",
+        "Usando uma plataforma de espectrometria de massa sensível, a equipe mediu peptídeos exibidos por células tumorais. Entre 175 candidatos previstos de p53 normal avaliados em moléculas HLA relevantes, apenas cinco foram detectados de forma robusta. Assim, uma previsão baseada apenas na sequência genética não garante que um fragmento seja processado e permaneça na superfície celular.",
+        "Os pesquisadores também encontraram possíveis rotas de escape: alguns tumores não tinham a molécula HLA necessária para exibir determinado peptídeo. Em experimentos com a mutação I195F, a atividade da enzima ERAP1 removeu um fragmento que poderia ser reconhecido por células T. A exclusão de ERAP1 ou o uso de um inibidor restaurou esse reconhecimento em ensaios de laboratório.",
+        "Outro caso estudado, a mutação R175H, produziu um complexo peptídeo-HLA pouco estável. Mesmo receptores de células T capazes de reconhecer o alvo tiveram resposta mais fraca quando o fragmento permanecia pouco tempo exposto. Isso mostra que aumentar a capacidade das células imunes pode não bastar se o tumor não apresentar um alvo adequado.",
+        "Os autores propõem investigar mudanças deliberadas no conjunto de peptídeos exibidos pelo tumor, incluindo a inibição de ERAP1. O estudo oferece uma explicação mecanística e possibilidades para experimentos futuros, mas não mostrou que um medicamento tenha transformado tumores humanos frios em quentes em pacientes. Não há resultado clínico de eficácia ou benefício terapêutico a relatar."
+      ]
+    },
+    "en": {
+      "title": "Study identifies mechanisms that hide tumor targets from T cells",
+      "summary": "Experiments with p53 fragments point to failures in antigen display; the strategy of changing that display has not yet been tested as treatment in patients.",
+      "aiSummary": [
+        "The research measured peptides displayed by tumor cells instead of inferring them from DNA alone.",
+        "Blocking ERAP1 restored cell recognition in laboratory experiments.",
+        "This study did not convert a human tumor into a “hot” tumor in patients."
+      ],
+      "paragraphs": [
+        "T cells recognize small protein fragments displayed on cell surfaces by HLA molecules; they do not read a tumor’s DNA directly. A study by Dana-Farber Cancer Institute researchers examined why some p53 mutations, although present in the genome, may not appear as visible targets for the immune system. The distinction between a mutation and a fragment actually displayed is central to interpreting the research.",
+        "Using a sensitive mass-spectrometry platform, the team measured peptides shown by tumor cells. Of 175 predicted wild-type p53 candidates assessed across relevant HLA molecules, only five were robustly detected. A prediction based only on genetic sequence therefore does not guarantee that a fragment will be processed and remain on a cell’s surface.",
+        "Researchers also found possible escape routes: some tumors lacked the HLA molecule needed to display a particular peptide. In experiments involving the I195F mutation, ERAP1 activity removed a fragment that could have been recognized by T cells. Removing ERAP1 or using an inhibitor restored that recognition in laboratory assays.",
+        "Another case, the R175H mutation, produced a peptide-HLA complex that was not very stable. Even T-cell receptors capable of recognizing the target responded more weakly when the fragment remained exposed for only a short time. This shows why increasing immune-cell capability may not be enough if a tumor does not present a suitable target.",
+        "The authors propose investigating deliberate changes to the set of peptides displayed by tumors, including ERAP1 inhibition. The study offers a mechanistic explanation and options for future experiments, but it did not show that a drug converted cold human tumors into hot tumors in patients. There are no clinical efficacy or therapeutic-benefit results to report."
+      ]
+    }
+  },
+  "verification": {
+    "score": 9,
+    "checkedAt": "2026-09-24T14:21:03Z",
+    "checks": [
+      {
+        "provider": "Immunity / PubMed",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42753739/",
+        "finding": "supports",
+        "note": "The primary abstract supports processing/display escape mechanisms, HLA loss, ERAP1-dependent loss of an I195F-derived peptide, and weak R175H target presentation. It describes mechanistic findings and therapeutic hypotheses, not demonstrated patient benefit."
+      },
+      {
+        "provider": "Dana-Farber Cancer Institute",
+        "url": "https://www.dana-farber.org/newsroom/news-releases/2026/making-invisible-cancers-visible-study-suggests-a-new-route-to-turn-cold-tumors-hot",
+        "finding": "supports",
+        "note": "Complete report supports the 175-candidate/five robustly detected measurement and laboratory ERAP1 inhibition/deletion findings; it explicitly says no drug has converted cold human tumors in patients."
+      },
+      {
+        "provider": "Aos Fatos",
+        "url": "https://www.aosfatos.org/",
+        "finding": "no-match",
+        "note": "Targeted Portuguese claim/title variants (p53, ERAP1, tumor targets) produced no relevant fact-check. Neutral result; no-match is not evidence of truth."
+      },
+      {
+        "provider": "Agência Lupa",
+        "url": "https://www.agencialupa.org/",
+        "finding": "no-match",
+        "note": "Targeted Portuguese claim/title variants produced no relevant fact-check. Neutral result; no-match is not evidence of truth."
+      },
+      {
+        "provider": "Projeto Comprova",
+        "url": "https://projetocomprova.com.br/",
+        "finding": "no-match",
+        "note": "Targeted Portuguese claim/title variants produced no relevant fact-check. Neutral result; no-match is not evidence of truth."
+      },
+      {
+        "provider": "AFP Fact Check",
+        "url": "https://factcheck.afp.com/",
+        "finding": "no-match",
+        "note": "Targeted English claim variants (p53 peptides, ERAP1, cold tumors) produced no relevant fact-check. Neutral result; no-match is not evidence of truth."
+      },
+      {
+        "provider": "Reuters Fact Check",
+        "url": "https://www.reuters.com/fact-check/",
+        "finding": "no-match",
+        "note": "Targeted English claim variants produced no relevant fact-check. Neutral result; no-match is not evidence of truth."
+      },
+      {
+        "provider": "Full Fact",
+        "url": "https://fullfact.org/",
+        "finding": "no-match",
+        "note": "Targeted English claim variants produced no relevant fact-check. Neutral result; no-match is not evidence of truth."
+      },
+      {
+        "provider": "Google Fact Check Tools",
+        "url": "https://toolbox.google.com/factcheck/explorer",
+        "finding": "no-match",
+        "note": "Targeted ClaimReview searches produced no relevant indexed fact-check. Neutral result; no-match is not evidence of truth."
+      }
+    ],
+    "caveat": "Mechanistic tumor-cell/immunopeptidomics experiments do not establish a treatment, conversion of cold tumors in patients or clinical efficacy. The article and both language summaries state this limitation prominently."
+  }
+}

@@ -1,0 +1,107 @@
+{
+  "id": "aliados-de-milton-leite-perdem-forca-em-sp-apos-prisao-de-ex-vereador-cnn-brasil",
+  "slug": "aliados-de-milton-leite-perdem-forca-em-sp-apos-prisao-de-ex-vereador-cnn-brasil",
+  "section": "politica",
+  "secondarySections": [],
+  "publishedAt": "2026-09-22T13:34:39-03:00",
+  "publishedDate": "2026-09-22",
+  "updatedAt": "2026-09-24T17:45:13.603Z",
+  "sources": [
+    {
+      "name": "CNN Brasil",
+      "url": "https://www.cnnbrasil.com.br/politica/aliados-de-milton-leite-perdem-forca-em-sp-apos-prisao-de-ex-vereador/"
+    },
+    {
+      "name": "Folha de S.Paulo",
+      "url": "https://www1.folha.uol.com.br/colunas/painel/2026/09/prisao-deve-custar-a-milton-leite-cargos-de-comando-no-uniao-brasil.shtml"
+    }
+  ],
+  "rights": {
+    "mode": "original-report"
+  },
+  "translations": {
+    "pt-BR": {
+      "title": "Prisão de Milton Leite abala articulações políticas em São Paulo",
+      "summary": "Reportagens apontam possível perda de cargos partidários e influência municipal; governo estadual nega que postos citados sejam indicações do ex-vereador.",
+      "aiSummary": [
+        "CNN e Folha relataram mudanças esperadas após a prisão do ex-vereador Milton Leite.",
+        "O governo de São Paulo não reconhece como indicações de Leite os postos mencionados na reportagem.",
+        "A investigação policial e as articulações partidárias seguem sem equivaler a uma condenação."
+      ],
+      "paragraphs": [
+        "A prisão do ex-vereador paulistano Milton Leite, do União Brasil, começou a repercutir nas articulações do partido e na distribuição de posições políticas em São Paulo. CNN Brasil e Folha relataram que aliados esperavam mudanças; as reportagens não tratam a investigação policial como uma condenação.",
+        "Segundo a Folha, Leite foi preso após uma operação que investiga uma suposta ligação entre empresas de transporte e o Primeiro Comando da Capital. A CNN concentrou-se nos efeitos políticos do caso. Os relatos consultados não apresentam uma decisão judicial que estabeleça culpa.",
+        "Leite era copresidente estadual da Federação União Progressista, formada por União Brasil e PP. O registro oficial aponta Maurício Neves, do PP, como presidente em São Paulo, mas a condução política era compartilhada; a Folha informou que o estatuto exige concordância dos dois copresidentes e que a prisão paralisou decisões do arranjo.",
+        "A substituição de Leite na federação era esperada após as eleições, segundo a CNN, enquanto a Folha relatou pressão para que ele deixasse também a presidência do diretório municipal do União Brasil e uma cadeira na executiva nacional. A situação do diretório paulista, presidido por seu filho Alexandre, ainda seria discutida pelo partido.",
+        "Aliados do governador Tarcísio de Freitas disseram à CNN que nomes ligados a Leite em áreas de habitação e na CDHU poderiam ser trocados. O governo estadual, porém, afirmou oficialmente que não reconhece esses cargos como indicações do ex-vereador, uma ressalva que impede apresentar a relação política como fato confirmado pela administração.",
+        "Na Câmara Municipal, a prisão enfraqueceu um acordo de alternância na presidência da Casa, segundo a reportagem, e o vereador João Jorge passou a ser citado nas articulações para o comando em 2027. A CNN também apontou preocupação no União Brasil com candidaturas de familiares de Leite, mas esses desdobramentos permaneciam políticos e ainda sujeitos a mudanças."
+      ]
+    },
+    "en": {
+      "title": "Milton Leite’s arrest shakes political alliances in São Paulo",
+      "summary": "Reports describe possible losses of party posts and municipal influence; the state government says the positions cited were not Leite’s appointments.",
+      "aiSummary": [
+        "CNN Brasil and Folha reported expected political changes after former councilman Milton Leite’s arrest.",
+        "São Paulo’s state government does not recognize the posts cited as Leite’s appointments.",
+        "The police investigation and party maneuvering do not amount to a conviction."
+      ],
+      "paragraphs": [
+        "The arrest of former São Paulo City Council member Milton Leite of União Brasil began affecting party maneuvering and the distribution of political positions in the state. CNN Brasil and Folha reported that allies expected changes; neither report treats the police investigation as a conviction.",
+        "Folha said Leite was arrested after an operation investigating an alleged link between transport companies and the First Capital Command, or PCC. CNN focused on the political consequences. The reports reviewed do not describe a court ruling establishing guilt.",
+        "Leite was a co-chair of the União Progressista Federation in São Paulo, formed by União Brasil and the Progressistas party. The official registry lists Progressistas politician Maurício Neves as the state president, but political leadership was shared; Folha reported that the statute requires both co-chairs’ agreement and that the arrest stalled decisions within the arrangement.",
+        "Leite’s replacement in the federation was expected after the elections, CNN reported, while Folha described pressure for him to leave the municipal presidency of União Brasil and a seat on the party’s national executive. The party was still expected to discuss the São Paulo branch, which is chaired by his son Alexandre.",
+        "Allies of Governor Tarcísio de Freitas told CNN that figures linked to Leite in housing and at the state housing agency CDHU could be replaced. The state government, however, said it did not recognize those posts as Leite’s political appointments, a qualification that prevents presenting the claimed connection as an official government position.",
+        "At the city council, the arrest weakened an agreement to rotate the chamber presidency, CNN reported, and council member João Jorge was being mentioned in discussions about the 2027 leadership. CNN also said União Brasil was concerned about Leite family candidacies, but those developments remained political expectations and could still change."
+      ]
+    }
+  },
+  "verification": {
+    "score": 8.1,
+    "checkedAt": "2026-09-24T14:42:39Z",
+    "checks": [
+      {
+        "provider": "CNN Brasil",
+        "url": "https://www.cnnbrasil.com.br/politica/aliados-de-milton-leite-perdem-forca-em-sp-apos-prisao-de-ex-vereador/",
+        "finding": "supports",
+        "note": "Complete saved report supports the arrest and describes political consequences as accounts from sources/alliances; it explicitly says the state government does not recognize the cited posts as Leite's political appointments."
+      },
+      {
+        "provider": "Folha de S.Paulo",
+        "url": "https://www1.folha.uol.com.br/colunas/painel/2026/09/prisao-deve-custar-a-milton-leite-cargos-de-comando-no-uniao-brasil.shtml",
+        "finding": "supports",
+        "note": "Opened page headline and lede confirm arrest, alleged transport-company/PCC connection, and pressure to leave party leadership. Full details are behind a subscriber wall; the underlying criminal allegation is not a finding of guilt."
+      },
+      {
+        "provider": "Aos Fatos",
+        "url": "https://www.aosfatos.org/",
+        "finding": "no-match",
+        "note": "No direct fact-check of Leite's arrest or the article's political forecasts found; neutral."
+      },
+      {
+        "provider": "Agência Lupa",
+        "url": "https://www.agencialupa.org/",
+        "finding": "no-match",
+        "note": "Search results concerned other election/PCC narratives, not the alleged Leite transport-company connection or party changes; no direct match."
+      },
+      {
+        "provider": "Projeto Comprova",
+        "url": "https://projetocomprova.com.br/",
+        "finding": "no-match",
+        "note": "Found checks about unrelated claims linking political parties/figures to the PCC, not this investigation; no direct verdict on the story."
+      },
+      {
+        "provider": "AFP Fact Check",
+        "url": "https://factcheck.afp.com/",
+        "finding": "no-match",
+        "note": "No matching fact-check found; neutral."
+      },
+      {
+        "provider": "Reuters Fact Check",
+        "url": "https://www.reuters.com/fact-check/",
+        "finding": "no-match",
+        "note": "No matching fact-check found; neutral."
+      }
+    ],
+    "caveat": "The arrest and existence of the investigation are supported by reporting; alleged PCC links and predicted party/government changes remain attributed claims. The article preserves the state's denial about political appointments and does not imply conviction."
+  }
+}

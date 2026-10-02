@@ -1,0 +1,117 @@
+{
+  "id": "us-proposes-ai-incident-alert-system-in-talks-with-china-bessent-says",
+  "slug": "us-proposes-ai-incident-alert-system-in-talks-with-china-bessent-says",
+  "section": "tecnologia",
+  "secondarySections": [],
+  "publishedAt": "2026-09-21T00:00:00-03:00",
+  "publishedDate": "2026-09-21",
+  "updatedAt": "2026-09-24T17:45:13.603Z",
+  "sources": [
+    {
+      "name": "Associated Press",
+      "url": "https://apnews.com/article/bessent-ai-xi-trump-china-trade-2c7f54f07e755f506d9db9b91df282bd"
+    },
+    {
+      "name": "EL PAÍS",
+      "url": "https://elpais.com/tecnologia/2026-09-21/estados-unidos-propone-a-china-un-sistema-de-alertas-mutuo-por-incidentes-de-ia.html"
+    }
+  ],
+  "rights": {
+    "mode": "original-report"
+  },
+  "translations": {
+    "pt-BR": {
+      "title": "EUA propõem à China um mecanismo de alerta sobre incidentes de IA",
+      "summary": "O secretário do Tesouro Scott Bessent disse que os Estados Unidos propuseram à China um canal de notificação para incidentes de IA com possíveis efeitos sobre a segurança nacional. A proposta não foi apresentada como sistema implementado ou acordo bilateral concluído.",
+      "aiSummary": [
+        "Scott Bessent disse que Washington propôs à China um mecanismo de notificação de incidentes de IA ligados à segurança nacional.",
+        "As conversas ocorreram em Nova York, antes de uma reunião prevista entre Donald Trump e Xi Jinping.",
+        "A cobertura da AP e do EL PAÍS não descreveu um sistema já implantado nem um acordo bilateral finalizado."
+      ],
+      "paragraphs": [
+        "O secretário do Tesouro dos Estados Unidos, Scott Bessent, afirmou em 20 de setembro que Washington havia proposto à China um mecanismo de notificação sobre incidentes de inteligência artificial que pudessem afetar a segurança nacional. Ele fez a declaração após conversas com o vice-premiê chinês He Lifeng em Nova York.",
+        "Segundo a Associated Press, Bessent defendeu maior transparência entre as duas potências em torno de objetivos e ameaças compartilhados. O mecanismo proposto teria como foco ocorrências de IA que atingissem um patamar de relevância para a segurança nacional, não todos os incidentes técnicos.",
+        "A reportagem do EL PAÍS também descreveu a iniciativa como uma proposta discutida entre as delegações. Nenhuma das duas fontes informou que os países já tivessem colocado um sistema em operação ou concluído um acordo bilateral com regras e procedimentos definidos.",
+        "A mídia estatal chinesa informou que as conversas trataram de inteligência artificial, mas não publicou detalhes sobre o mecanismo. Essa diferença entre a descrição de Bessent e o relato chinês limita o que se pode afirmar sobre o grau de entendimento alcançado.",
+        "As discussões ocorreram antes de uma reunião prevista para 24 de setembro entre Donald Trump e Xi Jinping na Casa Branca. No momento das reportagens, o canal de alerta permanecia uma proposta apresentada por autoridades norte-americanas, não um resultado implementado nem uma decisão conjunta anunciada pelos dois governos."
+      ]
+    },
+    "en": {
+      "title": "US proposes an AI incident alert mechanism to China",
+      "summary": "Treasury Secretary Scott Bessent said the United States had proposed a channel for notifying China about AI incidents with possible national-security implications. The proposal was not described as an implemented system or completed bilateral agreement.",
+      "aiSummary": [
+        "Scott Bessent said Washington proposed a mechanism for notifying China about AI incidents tied to national security.",
+        "The discussions took place in New York ahead of a planned meeting between Donald Trump and Xi Jinping.",
+        "AP and EL PAÍS did not describe an operating system or a finalized bilateral agreement."
+      ],
+      "paragraphs": [
+        "U.S. Treasury Secretary Scott Bessent said on September 20 that Washington had proposed a notification mechanism with China for artificial-intelligence incidents that could affect national security. He spoke after discussions with Chinese Vice Premier He Lifeng in New York.",
+        "According to the Associated Press, Bessent argued for greater transparency between the two powers about shared goals and threats. The proposed mechanism would focus on AI incidents reaching a national-security threshold, not every technical issue.",
+        "EL PAÍS also described the initiative as a proposal discussed by the delegations. Neither source reported that the countries had put a system into operation or completed a bilateral agreement with defined rules and procedures.",
+        "Chinese state media said the talks covered artificial intelligence but did not publish details about the mechanism. That difference between Bessent’s account and the Chinese report limits what can be said about the level of understanding reached.",
+        "The discussions preceded a meeting planned for September 24 between Donald Trump and Xi Jinping at the White House. At the time of the reports, the alert channel remained a proposal put forward by U.S. officials—not an implemented outcome or a joint decision announced by both governments."
+      ]
+    }
+  },
+  "verification": {
+    "score": 8.6,
+    "checkedAt": "2026-09-24T14:35:43Z",
+    "checks": [
+      {
+        "provider": "Aos Fatos",
+        "url": "https://www.aosfatos.org/",
+        "finding": "no-match",
+        "note": "Portuguese site-scoped searches for Bessent, China and the AI incident notification proposal found no applicable fact-check; no-match is neutral."
+      },
+      {
+        "provider": "Agência Lupa",
+        "url": "https://www.agencialupa.org/",
+        "finding": "no-match",
+        "note": "Portuguese site-scoped searches for Bessent, China and the AI incident notification proposal found no applicable fact-check; no-match is neutral."
+      },
+      {
+        "provider": "Projeto Comprova",
+        "url": "https://projetocomprova.com.br/",
+        "finding": "no-match",
+        "note": "Portuguese site-scoped searches for Bessent, China and the AI incident notification proposal found no applicable fact-check; no-match is neutral."
+      },
+      {
+        "provider": "AFP Fact Check",
+        "url": "https://factcheck.afp.com/",
+        "finding": "no-match",
+        "note": "Search found no directly applicable AFP fact-check on the proposal. Neutral."
+      },
+      {
+        "provider": "Reuters Fact Check",
+        "url": "https://www.reuters.com/fact-check/",
+        "finding": "no-match",
+        "note": "Search found no directly applicable Reuters fact-check. Neutral."
+      },
+      {
+        "provider": "Full Fact",
+        "url": "https://fullfact.org/",
+        "finding": "no-match",
+        "note": "Search found no directly applicable Full Fact article. Neutral."
+      },
+      {
+        "provider": "Associated Press",
+        "url": "https://apnews.com/article/bessent-ai-xi-trump-china-trade-2c7f54f07e755f506d9db9b91df282bd",
+        "finding": "supports",
+        "note": "Complete saved 10-paragraph report attributes the notification-mechanism proposal to Bessent and says Xinhua did not provide details; it does not report an operating system or finalized AI agreement."
+      },
+      {
+        "provider": "EL PAÍS",
+        "url": "https://elpais.com/tecnologia/2026-09-21/estados-unidos-propone-a-china-un-sistema-de-alertas-mutuo-por-incidentes-de-ia.html",
+        "finding": "supports",
+        "note": "Full independent 460-word report reviewed in saved evidence; supports that the mechanism was proposed and preserves its non-final status."
+      },
+      {
+        "provider": "Xinhua",
+        "url": "https://english.news.cn/20260921/5900f26821d7442ab969d6fa0d545481/c.html",
+        "finding": "context",
+        "note": "Xinhua reports that the teams held AI-related dialogue but gives no mechanism details, consistent with the article's qualification and not evidence of a jointly agreed or operational system."
+      }
+    ],
+    "caveat": "The key fact is a U.S. proposal reported by Bessent; Xinhua confirms only AI-related dialogue and gives no mechanism details. Both international reports and the article keep the proposal distinct from an implemented system, a finalized bilateral agreement or a joint decision."
+  }
+}

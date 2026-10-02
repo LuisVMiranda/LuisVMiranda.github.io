@@ -17,6 +17,7 @@ function canonical(value: unknown): string {
 export function contentRevision(
   articles: Article[],
   editions: Edition[],
+  editorialManifests: Record<string, unknown>,
 ): string {
   const byId = <T extends { id: string }>(a: T, b: T) =>
     a.id.localeCompare(b.id);
@@ -25,6 +26,7 @@ export function contentRevision(
       canonical({
         articles: [...articles].sort(byId),
         editions: [...editions].sort(byId),
+        editorialManifests,
       }),
     )
     .digest('hex');
@@ -34,8 +36,12 @@ export function isApproved(
   articles: Article[],
   editions: Edition[],
   approval: Approval | null,
+  editorialManifests: Record<string, unknown>,
 ): boolean {
-  return approval?.revision === contentRevision(articles, editions);
+  return (
+    approval?.revision ===
+    contentRevision(articles, editions, editorialManifests)
+  );
 }
 
 function assertUnique(values: string[], description: string): void {

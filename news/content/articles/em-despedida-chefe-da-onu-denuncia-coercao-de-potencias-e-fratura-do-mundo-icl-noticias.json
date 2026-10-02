@@ -1,0 +1,99 @@
+{
+  "id": "em-despedida-chefe-da-onu-denuncia-coercao-de-potencias-e-fratura-do-mundo-icl-noticias",
+  "slug": "em-despedida-chefe-da-onu-denuncia-coercao-de-potencias-e-fratura-do-mundo-icl-noticias",
+  "section": "mundo",
+  "secondarySections": [],
+  "publishedAt": "2026-09-22T10:24:20-03:00",
+  "publishedDate": "2026-09-22",
+  "updatedAt": "2026-09-24T17:45:13.603Z",
+  "sources": [
+    {
+      "name": "ICL Notícias",
+      "url": "https://iclnoticias.com.br/em-despedida-chefe-da-onu-denuncia-coercao-de-potencias-e-fratura-do-mundo/"
+    },
+    {
+      "name": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/sep/22/un-chief-antonio-guterres-final-general-assembly-address"
+    },
+    {
+      "name": "United Nations Security Council",
+      "url": "https://main.un.org/securitycouncil/en/content/current-members"
+    }
+  ],
+  "rights": {
+    "mode": "original-report"
+  },
+  "translations": {
+    "pt-BR": {
+      "title": "Guterres pede que poder global seja submetido ao direito",
+      "summary": "Em discurso de despedida à Assembleia Geral, o secretário-geral da ONU criticou a erosão de regras internacionais e defendeu reforma institucional.",
+      "aiSummary": [
+        "Antonio Guterres discursou em 22 de setembro na Assembleia Geral da ONU.",
+        "Ele defendeu regras internacionais, reforma do Conselho de Segurança e a presença de um representante africano entre os membros permanentes.",
+        "O secretário-geral também pediu coordenação e controle humanos no desenvolvimento da inteligência artificial."
+      ],
+      "paragraphs": [
+        "Antonio Guterres abriu seu discurso de despedida na Assembleia Geral das Nações Unidas, em 22 de setembro, alertando que as divisões globais estavam se ampliando. O secretário-geral criticou a erosão do direito internacional e das instituições por potências, sem nomear líderes específicos, segundo a cobertura do ICL Notícias.",
+        "Guterres argumentou que poder militar, tecnológico ou econômico, isoladamente, não garante a paz. Ele defendeu que o poder seja limitado por regras e princípios e que os governos evitem tratar a força como árbitro sobre vidas e futuros.",
+        "O chefe da ONU voltou a pedir reforma do Conselho de Segurança e apontou como incoerência a falta de um assento permanente africano. Países africanos ocupam assentos eletivos no Conselho; o apelo de Guterres tratava da representação permanente. Foi um apelo político, não o anúncio de uma reforma institucional aprovada.",
+        "Outro eixo foi a governança da inteligência artificial. Guterres alertou para a concentração de capacidades tecnológicas em poucas empresas e pessoas e pediu coordenação entre governos para que o desenvolvimento da tecnologia permaneça sob controle humano.",
+        "O secretário-geral também afirmou que armas autônomas não deveriam decidir quem vive ou morre. Ele associou sua defesa de contenção a uma noção de paz que exige mais do que a ausência de conflito.",
+        "Em temas sociais, o secretário-geral também disse que mulheres e meninas continuam enfrentando discriminação e violência e pediu atenção à situação em Gaza e nos territórios palestinos ocupados. Esses pontos foram apresentados como declarações de Guterres no discurso."
+      ]
+    },
+    "en": {
+      "title": "Guterres urges global power to be governed by law",
+      "summary": "In a farewell address to the UN General Assembly, the secretary-general criticized the erosion of international rules and called for institutional reform.",
+      "aiSummary": [
+        "António Guterres addressed the UN General Assembly on September 22.",
+        "He called for international rules, Security Council reform and an African representative among the permanent members.",
+        "The secretary-general also called for coordination and human control in artificial-intelligence development."
+      ],
+      "paragraphs": [
+        "António Guterres opened his farewell address to the United Nations General Assembly on September 22 by warning that global divisions were widening. The secretary-general criticized powerful states for weakening international law and institutions without naming specific leaders, according to ICL Notícias.",
+        "Guterres argued that military, technological or economic power alone could not guarantee peace. He said power should be constrained by rules and principles and that governments should not treat force as the final arbiter over lives and futures.",
+        "The UN chief renewed his call for Security Council reform and called the lack of a permanent African seat an inconsistency in its current composition. African countries do hold elected seats on the Council; Guterres's appeal concerned permanent representation. It was a political appeal, not an announcement of an approved institutional reform.",
+        "Artificial-intelligence governance was another theme. Guterres warned about technological capability being concentrated among a small number of companies and people and called for coordination among governments so that development remains under human control.",
+        "The secretary-general also said autonomous weapons should not decide who lives or dies. He connected his call for restraint to an understanding of peace that requires more than the absence of conflict.",
+        "On social issues, the secretary-general also said women and girls continued to face discrimination and violence and called attention to Gaza and the occupied Palestinian territories. These points are reported as statements by Guterres in the address."
+      ]
+    }
+  },
+  "verification": {
+    "score": 9.3,
+    "checkedAt": "2026-09-24T15:56:24Z",
+    "checks": [
+      {
+        "provider": "ICL Notícias (complete selected-source extraction)",
+        "url": "https://iclnoticias.com.br/em-despedida-chefe-da-onu-denuncia-coercao-de-potencias-e-fratura-do-mundo/",
+        "finding": "supports",
+        "note": "The complete 18-paragraph extraction supports the September 22 address and reported themes. Its original phrase that the Council has no African country is ambiguous; the repaired article does not repeat that unqualified wording."
+      },
+      {
+        "provider": "United Nations Sustainable Development Group (official Guterres address transcript)",
+        "url": "https://unsdg.un.org/latest/announcements/faultlines-our-world-are-widening-%E2%80%93-un-secretary-general-general-assembly",
+        "finding": "supports",
+        "note": "The official September 22 transcript says Africa has no permanent representation, calls for Security Council reform, and says this must change. This supports the article's permanent-seat qualification and shows Guterres making an appeal, not announcing an adopted reform."
+      },
+      {
+        "provider": "United Nations Security Council (official current-members roster)",
+        "url": "https://main.un.org/securitycouncil/en/content/current-members",
+        "finding": "supports",
+        "note": "The roster distinguishes five permanent members from ten elected members; it lists African elected members including the Democratic Republic of the Congo, Liberia and Somalia, while the permanent-member list remains China, France, Russia, the United Kingdom and the United States. This confirms the distinction and that the appeal had not resulted in an African permanent seat."
+      },
+      {
+        "provider": "The Guardian (independent reporting)",
+        "url": "https://www.theguardian.com/world/2026/sep/22/un-chief-antonio-guterres-final-general-assembly-address",
+        "finding": "supports",
+        "note": "The full report describes Guterres's point as Africa's omission from a permanent place on the Security Council and says a Council without permanent African representation was unjust and indefensible. It independently corroborates the repaired framing."
+      },
+      {
+        "provider": "AFP Fact Check",
+        "url": "https://factcheck.afp.com/",
+        "finding": "no-match",
+        "note": "Targeted searches found no direct fact-check of the September 22 address or this Security Council representation claim. Neutral; not evidence for the claim."
+      }
+    ],
+    "caveat": "The repaired PT-BR and English wording is supported: it distinguishes the absence of a permanent African seat from African elected membership and correctly presents Guterres's remarks as advocacy, not an adopted reform. The original ICL phrasing was ambiguous, but the article now resolves that ambiguity. No unresolved contradiction remains."
+  }
+}

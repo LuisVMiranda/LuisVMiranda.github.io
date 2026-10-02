@@ -1,0 +1,89 @@
+{
+  "id": "south-africa-kwamakhutha-house-party-shooting-2026",
+  "slug": "south-africa-kwamakhutha-house-party-shooting-2026",
+  "section": "mundo",
+  "secondarySections": [],
+  "publishedAt": "2026-09-23T00:00:00.000Z",
+  "publishedDate": "2026-09-23",
+  "updatedAt": "2026-09-24T17:45:13.603Z",
+  "sources": [
+    {
+      "name": "Associated Press",
+      "url": "https://apnews.com/article/south-africa-house-party-shooting-91416626e0cf789bf2f801061bb8b46a"
+    },
+    {
+      "name": "CNN Brasil",
+      "url": "https://www.cnnbrasil.com.br/internacional/ataque-a-tiros-em-festa-na-africa-do-sul-deixa-mortos/"
+    }
+  ],
+  "rights": {
+    "mode": "original-report"
+  },
+  "translations": {
+    "pt-BR": {
+      "title": "Ataque a festa na África do Sul deixa ao menos 11 mortos",
+      "summary": "Onze pessoas morreram e outras três ficaram feridas em KwaMakhutha; a polícia procurava três suspeitos e não havia confirmado a motivação.",
+      "aiSummary": [
+        "A polícia informou que ao menos 11 pessoas morreram e três ficaram feridas em KwaMakhutha.",
+        "O ataque ocorreu em uma festa numa casa perto de Durban; três homens eram procurados.",
+        "A motivação não havia sido determinada, e a polícia disse que não descartava uma disputa entre grupos rivais."
+      ],
+      "paragraphs": [
+        "Ao menos 11 pessoas morreram e três ficaram feridas em um ataque a tiros durante uma festa em uma casa de KwaMakhutha, na província sul-africana de KwaZulu-Natal. A localidade fica a cerca de 30 quilômetros ao sul de Durban, segundo a Associated Press.",
+        "A polícia disse que dez vítimas morreram no local e uma décima primeira morreu no hospital. Entre as vítimas estava uma mulher que, segundo as autoridades, acreditava-se estar grávida; a informação foi apresentada como relato policial, não como confirmação médica independente.",
+        "A AP e a CNN Brasil informaram que três homens armados participaram do ataque. Na publicação das reportagens, a polícia procurava os suspeitos e não havia anunciado prisões relacionadas ao caso.",
+        "A motivação continuava desconhecida. A polícia afirmou que não podia descartar uma disputa entre grupos rivais, mas não apresentou uma conclusão sobre o motivo nem identificou publicamente os responsáveis.",
+        "Autoridades também disseram que algumas vítimas eram conhecidas em investigações policiais sobre atividades criminosas, sem fornecer detalhes. Essa informação não demonstra envolvimento das vítimas no ataque nem esclarece por que elas foram escolhidas.",
+        "O caso foi tratado como investigação em andamento, com buscas pelos suspeitos e apuração policial. As reportagens não relataram uma conclusão sobre o motivo ou sobre a possível ligação com outros crimes."
+      ]
+    },
+    "en": {
+      "title": "South Africa house-party shooting leaves at least 11 dead",
+      "summary": "Eleven people were killed and three wounded in KwaMakhutha; police were seeking three suspects and had not established a motive.",
+      "aiSummary": [
+        "Police said at least 11 people were killed and three were wounded in KwaMakhutha.",
+        "The attack took place at a house party near Durban; three men were being sought.",
+        "The motive was undetermined, and police said they could not rule out a feud between rival groups."
+      ],
+      "paragraphs": [
+        "At least 11 people were killed and three wounded in a shooting at a house party in KwaMakhutha, in South Africa’s KwaZulu-Natal province. The township is about 30 kilometres south of Durban, according to the Associated Press.",
+        "Police said ten victims died at the scene and an eleventh died in hospital. Among those killed was a woman believed by authorities to be pregnant; that detail was reported as a police account, not as an independent medical confirmation.",
+        "The AP and CNN Brasil reported that three armed men took part in the attack. At the time their reports were published, police were searching for the suspects and had announced no arrests in the case.",
+        "The motive remained unknown. Police said a feud between rival groups could not be ruled out, but offered no conclusion about the reason for the shooting and did not publicly identify those responsible.",
+        "Authorities also said some victims were known to police through investigations into criminal activity, without providing details. That statement does not establish that the victims were involved in the shooting or explain why they were targeted.",
+        "The incident remained an active investigation, with police searching for the suspects. The reports did not state a final motive or establish a link to other crimes."
+      ]
+    }
+  },
+  "verification": {
+    "score": 9.2,
+    "checkedAt": "2026-09-24T14:23:42Z",
+    "checks": [
+      {
+        "provider": "Associated Press (primary report)",
+        "url": "https://apnews.com/article/south-africa-house-party-shooting-91416626e0cf789bf2f801061bb8b46a",
+        "finding": "supports",
+        "note": "Complete AP extraction attributes at least 11 deaths and three wounded to police; the motive was unknown and three men were being sought."
+      },
+      {
+        "provider": "CNN Brasil",
+        "url": "https://www.cnnbrasil.com.br/internacional/ataque-a-tiros-em-festa-na-africa-do-sul-deixa-mortos/",
+        "finding": "supports",
+        "note": "Independent report gives the same final toll and unresolved motive; it says four were taken to hospital, one later died, consistent with three injured survivors."
+      },
+      {
+        "provider": "AFP Fact Check",
+        "url": "https://factcheck.afp.com/",
+        "finding": "no-match",
+        "note": "Targeted searches for the KwaMakhutha house-party shooting and casualty figures found no direct fact-check; neutral."
+      },
+      {
+        "provider": "Reuters Fact Check",
+        "url": "https://www.reuters.com/fact-check/",
+        "finding": "no-match",
+        "note": "No fact-check of this specific shooting or its reported toll found; neutral, not corroboration."
+      }
+    ],
+    "caveat": "The casualty count is police-reported and independently consistent across AP and CNN Brasil. Pregnancy remains an attributed police account, and a possible feud is not presented as established motive."
+  }
+}

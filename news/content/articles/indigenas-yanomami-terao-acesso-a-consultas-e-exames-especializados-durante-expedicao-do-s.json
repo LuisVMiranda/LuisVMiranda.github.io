@@ -1,0 +1,100 @@
+{
+  "id": "indigenas-yanomami-terao-acesso-a-consultas-e-exames-especializados-durante-expedicao-do-s",
+  "slug": "indigenas-yanomami-terao-acesso-a-consultas-e-exames-especializados-durante-expedicao-do-s",
+  "section": "brasil",
+  "secondarySections": [],
+  "publishedAt": "2026-09-22T19:41:52-03:00",
+  "updatedAt": "2026-09-24T17:45:13.603Z",
+  "sources": [
+    {
+      "name": "Ministério da Saúde",
+      "url": "https://www.gov.br/saude/pt-br/assuntos/noticias-ms/2026/setembro/indigenas-yanomami-terao-acesso-a-consultas-e-exames-especializados-durante-expedicao-do-sus-em-roraima"
+    }
+  ],
+  "rights": {
+    "mode": "original-report"
+  },
+  "translations": {
+    "pt-BR": {
+      "title": "Expedição do SUS prevê 750 procedimentos no território Yanomami",
+      "summary": "A ação programada para 23 a 30 de setembro prevê consultas e exames no Polo Base Surucucu e em comunidades de Alto Alegre, em Roraima.",
+      "aiSummary": [
+        "O Ministério da Saúde programou uma expedição de 23 a 30 de setembro no território Yanomami, em Roraima.",
+        "A meta é realizar 750 procedimentos no Polo Base Surucucu e em comunidades da região.",
+        "A área reúne cerca de 2.544 indígenas em 33 comunidades, predominantemente Yanomami.",
+        "A programação inclui pediatria, clínica médica, saúde da mulher, exames laboratoriais e ultrassonografias."
+      ],
+      "paragraphs": [
+        "O Ministério da Saúde programou para 23 a 30 de setembro uma expedição de atenção especializada no território Yanomami, em Roraima. A ação será concentrada no Polo Base Surucucu e prevê 750 procedimentos, entre consultas e exames.",
+        "A programação inclui atendimentos de pediatria, clínica médica e saúde da mulher, além de exames laboratoriais e ultrassonografias. Os serviços devem ocorrer no Centro de Referência em Saúde Indígena Xapori Yanomami e em comunidades atendidas pelo polo.",
+        "Entre os públicos prioritários estão crianças com histórico de doenças respiratórias, infecções recorrentes ou desnutrição; gestantes e mulheres em idade reprodutiva; pessoas com doenças crônicas; e pacientes com agravos respiratórios ou malária que precisem de avaliação complementar.",
+        "A equipe também pretende atender pacientes que aguardam acompanhamento especializado, encaminhamento ou remoção, além de casos que possam ser avaliados ou tratados no próprio território. O plano prevê articulação com as Equipes Multidisciplinares de Saúde Indígena para dar continuidade ao cuidado.",
+        "O Polo Base Surucucu fica em Alto Alegre e integra o Distrito Sanitário Especial Indígena Yanomami e Ye’kwana. A área tem aproximadamente 2.544 indígenas distribuídos em 33 comunidades, em sua maioria do povo Yanomami.",
+        "O relevo serrano, a dispersão das comunidades e o isolamento geográfico tornam o deslocamento um desafio. A dependência de transporte aéreo, especialmente de helicópteros, interfere na mobilidade das equipes, no envio de insumos e em remoções sanitárias.",
+        "A expedição integra a estratégia de fortalecimento do Subsistema de Atenção à Saúde Indígena e reúne o DSEI Yanomami e Ye’kwana, a Secretaria de Saúde Indígena e a AgSUS. O Ministério afirma que a iniciativa também busca apoiar a investigação de casos complexos e melhorar a comunicação entre os níveis de atendimento."
+      ]
+    },
+    "en": {
+      "title": "SUS expedition plans 750 procedures in Yanomami territory",
+      "summary": "The operation scheduled for September 23–30 plans consultations and tests at the Surucucu base and nearby communities in Roraima.",
+      "aiSummary": [
+        "Brazil's Health Ministry scheduled a September 23–30 expedition in Yanomami territory in Roraima.",
+        "The plan calls for 750 procedures at the Surucucu base and in communities in the area.",
+        "The area has about 2,544 Indigenous residents across 33 communities, predominantly Yanomami.",
+        "Planned services include pediatrics, general medicine, women's health, laboratory tests and ultrasounds."
+      ],
+      "paragraphs": [
+        "Brazil's Health Ministry scheduled a specialized-care expedition in Yanomami territory in Roraima for September 23–30. The operation will be centered at the Surucucu Base and is expected to provide 750 procedures, including consultations and tests.",
+        "The plan includes pediatrics, general medicine and women's health, as well as laboratory tests and ultrasounds. Services are to be offered at the Xapori Yanomami Indigenous Health Reference Center and in communities served by the base.",
+        "Priority groups include children with a history of respiratory disease, recurring infections or malnutrition; pregnant women and women of reproductive age; people with chronic conditions; and patients with respiratory illness or malaria who need further assessment.",
+        "The team also plans to see patients awaiting specialist follow-up, referral or removal, as well as people whose conditions can be assessed or treated in their own territory. The plan calls for coordination with the Multidisciplinary Indigenous Health Teams to support continuity of care.",
+        "The Surucucu Base is in Alto Alegre and is part of the Yanomami and Ye’kwana Special Indigenous Health District. The area has about 2,544 Indigenous residents across 33 communities, predominantly Yanomami.",
+        "Mountainous terrain, scattered communities and geographic isolation make travel difficult. Reliance on air transport, especially helicopters, affects team mobility, supply delivery and medical transfers.",
+        "The expedition is part of a strategy to strengthen Brazil's Indigenous Health Subsystem and involves the Yanomami and Ye’kwana district, the Indigenous Health Secretariat and AgSUS. The ministry says the operation is also intended to support assessments of complex cases and improve communication across levels of care."
+      ]
+    }
+  },
+  "verification": {
+    "score": 8.4,
+    "checkedAt": "2026-09-24T14:14:34Z",
+    "checks": [
+      {
+        "provider": "Aos Fatos",
+        "url": "https://www.aosfatos.org/",
+        "finding": "no-match",
+        "note": "Searches for the Surucucu expedition, 750 procedures and 2,544 residents found no check of this current Ministry plan; older unrelated Yanomami rumor checks do not resolve it. Neutral."
+      },
+      {
+        "provider": "Agência Lupa",
+        "url": "https://www.agencialupa.org/",
+        "finding": "no-match",
+        "note": "No fact-check of this scheduled expedition or its procedure target was found; neutral."
+      },
+      {
+        "provider": "Projeto Comprova",
+        "url": "https://projetocomprova.com.br/",
+        "finding": "no-match",
+        "note": "No direct check of the Ministry's September 23–30 plan was located; neutral."
+      },
+      {
+        "provider": "AFP Fact Check",
+        "url": "https://factcheck.afp.com/",
+        "finding": "no-match",
+        "note": "No relevant fact-check of the Surucucu plan, population count or planned services was found; neutral."
+      },
+      {
+        "provider": "Reuters Fact Check",
+        "url": "https://www.reuters.com/fact-check/",
+        "finding": "no-match",
+        "note": "No fact-check of this specific scheduled health expedition was located; neutral."
+      },
+      {
+        "provider": "Full Fact",
+        "url": "https://fullfact.org/",
+        "finding": "no-match",
+        "note": "No relevant check of the Ministry plan was found; neutral."
+      }
+    ],
+    "caveat": "The Ministry of Health source supports the September 23–30 schedule, approximate population, 33 communities and 750-procedure target. This low-risk, single-primary-source exception describes planned, not completed, services. The later September 23 Agência Brasil follow-up is post-cutoff and excluded. The truncated manifest URL is corrected to the full /expedicao-do-sus-em-roraima source; PT-BR and EN agree."
+  }
+}

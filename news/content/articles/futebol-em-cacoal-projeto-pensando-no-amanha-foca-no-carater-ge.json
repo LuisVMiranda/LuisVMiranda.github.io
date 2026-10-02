@@ -1,0 +1,98 @@
+{
+  "id": "futebol-em-cacoal-projeto-pensando-no-amanha-foca-no-carater-ge",
+  "slug": "futebol-em-cacoal-projeto-pensando-no-amanha-foca-no-carater-ge",
+  "section": "esportes",
+  "secondarySections": [],
+  "publishedAt": "2026-09-22T10:54:46.205-03:00",
+  "updatedAt": "2026-09-24T17:45:13.603Z",
+  "sources": [
+    {
+      "name": "GE",
+      "url": "https://ge.globo.com/ro/noticia/2026/09/22/festival-em-cacoal-reforca-futebol-como-formacao-de-carater.ghtml"
+    }
+  ],
+  "rights": {
+    "mode": "original-report"
+  },
+  "translations": {
+    "pt-BR": {
+      "title": "Festival em Cacoal usa o futebol para aproximar crianças e famílias",
+      "summary": "Encontro do projeto Pensando no Amanhã reuniu jovens atletas em Rondônia com foco em convivência e aprendizado.",
+      "aiSummary": [
+        "O projeto Pensando no Amanhã realizou um festival de futebol com crianças e adolescentes em Cacoal.",
+        "Participantes e familiares descreveram a experiência como oportunidade de convivência e aprendizado."
+      ],
+      "paragraphs": [
+        "O projeto Pensando no Amanhã reuniu crianças e adolescentes em um festival de futebol em Cacoal, Rondônia. A reportagem do GE descreve o encontro como uma atividade voltada à integração, à amizade e ao aprendizado coletivo entre turmas diferentes.",
+        "Os jovens viveram a competição de formas distintas, mas o relato destaca que o resultado não foi tratado como a medida principal do evento. Diego Emmanuel Kippert, um dos participantes, comemorou jogar e receber uma medalha depois de uma vitória.",
+        "Matias Garcia, atleta de uma equipe derrotada, reconheceu o toque de bola dos adversários e disse que pretende continuar aprendendo tanto futebol quanto jiu-jítsu. O episódio ilustra a ênfase da matéria no comportamento esportivo, além do placar.",
+        "Alex Oliveira, pai de um aluno que começava seu primeiro ano na escolinha, contou que acompanhou a entrega da primeira medalha esportiva do filho. Para ele, a ocasião teve significado para a criança e para a família que esteve presente.",
+        "Elias Garcia da Silva relatou que seu filho pratica futebol e jiu-jítsu e associou o esporte à interação entre colegas. Essas avaliações são depoimentos de familiares ouvidos pelo GE, não uma medição independente dos efeitos do projeto."
+      ]
+    },
+    "en": {
+      "title": "Cacoal festival uses football to bring children and families together",
+      "summary": "The Pensando no Amanhã project brought young players together in Rondônia, with an emphasis on social interaction and learning.",
+      "aiSummary": [
+        "The Pensando no Amanhã project held a football festival for children and teenagers in Cacoal.",
+        "Participants and parents described the event as an opportunity for interaction and learning."
+      ],
+      "paragraphs": [
+        "The Pensando no Amanhã project brought children and teenagers together for a football festival in Cacoal, in Brazil's Rondônia state. GE described the event as focused on integration, friendship and learning across different groups.",
+        "Young players experienced the competition in different ways, but the report did not treat the score as the event's main measure. Diego Emmanuel Kippert, one of the participants, celebrated playing and receiving a medal after a win.",
+        "Matias Garcia, a player on a losing team, recognized the opponents' passing and said he hoped to keep learning both football and jiu-jitsu. His experience reflects the story's emphasis on sportsmanship as well as the score.",
+        "Alex Oliveira, the father of a student in his first year at the football school, said he watched his son receive his first sports medal. He described the moment as meaningful for the child and for the family watching together.",
+        "Elias Garcia da Silva said his son practices football and jiu-jitsu and linked sport with interaction among peers. These are observations from parents interviewed by GE, not an independent measurement of the project's effects."
+      ]
+    }
+  },
+  "verification": {
+    "score": 8.2,
+    "checkedAt": "2026-09-24T15:59:13Z",
+    "checks": [
+      {
+        "provider": "Aos Fatos",
+        "url": "https://www.aosfatos.org/",
+        "finding": "no-match",
+        "note": "Exact-name searches for the Pensando no Amanhã project and Cacoal festival found no relevant fact-check. Neutral."
+      },
+      {
+        "provider": "Agência Lupa",
+        "url": "https://www.agencialupa.org/",
+        "finding": "no-match",
+        "note": "No claim-specific Cacoal/Pensando no Amanhã check found; unrelated results excluded. Neutral."
+      },
+      {
+        "provider": "Projeto Comprova",
+        "url": "https://projetocomprova.com.br/",
+        "finding": "no-match",
+        "note": "No relevant fact-check of this community event or project found. Neutral."
+      },
+      {
+        "provider": "AFP Fact Check",
+        "url": "https://factcheck.afp.com/",
+        "finding": "no-match",
+        "note": "No relevant international fact-check found for the named project/event. Neutral."
+      },
+      {
+        "provider": "Reuters Fact Check",
+        "url": "https://www.reuters.com/fact-check/",
+        "finding": "no-match",
+        "note": "No relevant fact-check found for this local community feature. Neutral."
+      },
+      {
+        "provider": "Full Fact",
+        "url": "https://fullfact.org/",
+        "finding": "no-match",
+        "note": "No relevant fact-check found for this named project or event. Neutral."
+      },
+      {
+        "provider": "GE",
+        "url": "https://ge.globo.com/ro/noticia/2026/09/22/festival-em-cacoal-reforca-futebol-como-formacao-de-carater.ghtml",
+        "finding": "supports",
+        "note": "Complete original report contains the event description and participant/parent accounts used in the copy."
+      }
+    ],
+    "caveat": "Bounded one-source exception: this is a low-risk, interview-led community feature, the participants' impressions are attributed, and no independent URL was retained. The copy does not present character-development claims as measured outcomes and omits the isolated 8–0 anecdote."
+  }
+}

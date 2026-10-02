@@ -1,0 +1,86 @@
+{
+  "id": "pesquisa-mostra-desafio-de-cineastas-indigenas-para-financiar-filmes",
+  "slug": "pesquisa-mostra-desafio-de-cineastas-indigenas-para-financiar-filmes",
+  "section": "cultura",
+  "secondarySections": [],
+  "publishedAt": "2026-09-17T15:32:00-03:00",
+  "updatedAt": "2026-09-24T17:45:13.603Z",
+  "sources": [
+    {
+      "name": "Agência Brasil",
+      "url": "https://agenciabrasil.ebc.com.br/cultura/noticia/2026-09/pesquisa-mostra-desafio-de-cineastas-indigenas-para-financiar-filmes"
+    },
+    {
+      "name": "Indigenalise-se",
+      "url": "https://indigenalise-se.com.br/rede-katahirine-mapeamento-cinema-mulheres-indigenas/"
+    }
+  ],
+  "rights": {
+    "mode": "original-report"
+  },
+  "translations": {
+    "pt-BR": {
+      "title": "Pesquisa expõe barreiras de financiamento para cineastas indígenas",
+      "summary": "Levantamento da Rede Katahirine ouviu 60 realizadoras de 40 povos; 71,7% disseram já ter desistido de concorrer a um edital de fomento.",
+      "aiSummary": [
+        "A pesquisa ouviu 60 cineastas de 40 povos indígenas e registrou dificuldades para disputar editais.",
+        "81,7% já haviam exibido filmes em mostras ou festivais; 71,7% disseram já ter desistido de concorrer a um edital de fomento.",
+        "Burocracia, critérios de elegibilidade e linguagem técnica aparecem entre as barreiras citadas."
+      ],
+      "paragraphs": [
+        "A Rede Katahirine ouviu 60 cineastas de 40 povos indígenas para mapear a produção audiovisual de mulheres no Brasil. Entre as entrevistadas, 71,7% disseram já ter desistido de concorrer a um edital de fomento; o dado descreve as participantes da pesquisa, não todas as realizadoras indígenas do país.",
+        "O levantamento também registrou que 81,7% das entrevistadas já apresentaram filmes em mostras ou festivais. As duas medidas mostram, dentro do grupo pesquisado, presença em espaços de exibição e obstáculos no acesso a recursos para produzir.",
+        "A reportagem da Agência Brasil aponta a burocracia como barreira para 70% das respondentes, seguida por requisitos de participação não atendidos por 43% e pela linguagem técnica dos concursos, citada por 41%. Os percentuais se referem às respostas da pesquisa, não a uma contagem de toda a produção indígena.",
+        "Mari Corrêa, fundadora da rede, relata que alguns editais exigem documentos difíceis de obter para quem vive nos territórios e podem pedir que a proponente tenha uma empresa, em vez de aceitar inscrição como pessoa física.",
+        "A cineasta Larissa Tukano descreve a linguagem e a comprovação de experiência como obstáculos para sua própria inscrição. Ela também explica que filmar a própria comunidade envolve usar idiomas locais e decidir com os moradores o que pode ser registrado; Corrêa acrescenta que roteiros e decisões podem ser construídos coletivamente, em processos menos hierárquicos."
+      ]
+    },
+    "en": {
+      "title": "Survey highlights funding barriers for Indigenous women filmmakers",
+      "summary": "A Katahirine Network survey heard from 60 filmmakers from 40 Indigenous peoples; 71.7% said they had already abandoned an application to a public funding call.",
+      "aiSummary": [
+        "The survey interviewed 60 filmmakers from 40 Indigenous peoples and recorded difficulties entering grant calls.",
+        "81.7% of respondents had screened films at showcases or festivals; 71.7% said they had already abandoned a public funding application.",
+        "Bureaucracy, eligibility rules and technical language were among the reported barriers."
+      ],
+      "paragraphs": [
+        "A Katahirine Network surveyed 60 filmmakers from 40 Indigenous peoples. Among those interviewed, 71.7% said they had already abandoned an application to a public funding call; the figure describes survey participants, not every Indigenous woman filmmaker in Brazil.",
+        "The survey also found that 81.7% of respondents had screened films at showcases or festivals. Within the group studied, the two measures point to both a presence in exhibition spaces and difficulty accessing production funding.",
+        "Agência Brasil reported bureaucracy as a barrier for 70% of respondents, followed by eligibility requirements that 43% said they could not meet and technical language cited by 41%. The percentages refer to survey responses, not a count of all Indigenous film production.",
+        "Mari Corrêa, the network’s founder, said some calls require documents that can be hard to obtain for people living in Indigenous territories and may require applicants to have a company rather than accept individuals.",
+        "Filmmaker Larissa Tukano described technical language and experience requirements as obstacles to applying herself. She also said filming one’s own community involves working in local languages and deciding with community members what may be recorded; Corrêa added that scripts and decisions can be developed collectively through less hierarchical processes."
+      ]
+    }
+  },
+  "verification": {
+    "score": 8.5,
+    "checkedAt": "2026-09-24T14:17:43Z",
+    "checks": [
+      {
+        "provider": "Agência Brasil",
+        "url": "https://agenciabrasil.ebc.com.br/cultura/noticia/2026-09/pesquisa-mostra-desafio-de-cineastas-indigenas-para-financiar-filmes",
+        "finding": "supports",
+        "note": "Original report gives the 60-person/40-peoples survey scope and 71.7% figure; the article correctly confines percentages to respondents."
+      },
+      {
+        "provider": "Indigenalise-se / Rede Katahirine coverage",
+        "url": "https://indigenalise-se.com.br/rede-katahirine-mapeamento-cinema-mulheres-indigenas/",
+        "finding": "context",
+        "note": "Corroborates the survey scope and broad funding barriers, but reports 61% for difficulty entering calls, a different measure from 71.7% who abandoned applying; it is not an independent study replication."
+      },
+      {
+        "provider": "Projeto Comprova",
+        "url": "https://projetocomprova.com.br/",
+        "finding": "no-match",
+        "note": "Targeted Portuguese search for the survey and reported percentages found no relevant fact-check; neutral, not evidence of truth."
+      },
+      {
+        "provider": "Reuters Fact Check",
+        "url": "https://www.reuters.com/fact-check/",
+        "finding": "no-match",
+        "note": "Targeted English search for the survey and funding statistic found no relevant fact-check; neutral, not evidence of truth."
+      }
+    ],
+    "caveat": "Strongest follow-up lead: preserve the distinction between 71.7% who abandoned an application and 61% reporting difficulty entering calls, and seek the questionnaire/results table. The article uses the former accurately and bounds it to respondents; no unresolved contradiction."
+  }
+}

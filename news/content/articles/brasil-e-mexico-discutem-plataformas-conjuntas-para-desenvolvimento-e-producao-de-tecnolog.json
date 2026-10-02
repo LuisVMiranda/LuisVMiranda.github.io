@@ -1,0 +1,111 @@
+{
+  "id": "brasil-e-mexico-discutem-plataformas-conjuntas-para-desenvolvimento-e-producao-de-tecnolog",
+  "slug": "brasil-e-mexico-discutem-plataformas-conjuntas-para-desenvolvimento-e-producao-de-tecnolog",
+  "section": "tecnologia",
+  "secondarySections": [],
+  "publishedAt": "2026-09-22T00:00:00-03:00",
+  "publishedDate": "2026-09-22",
+  "updatedAt": "2026-09-24T17:45:13.603Z",
+  "sources": [
+    {
+      "name": "Ministério da Saúde do Brasil",
+      "url": "https://www.gov.br/saude/pt-br/assuntos/noticias-ms/2026/setembro/brasil-e-mexico-discutem-plataformas-conjuntas-para-desenvolvimento-e-producao-de-tecnologias-em-saude"
+    },
+    {
+      "name": "La Jornada",
+      "url": "https://www.jornada.com.mx/noticia/2026/09/22/sociedad/mexico-y-brasil-avanzan-en-acuerdos-sobre-soberania-sanitaria"
+    }
+  ],
+  "rights": {
+    "mode": "original-report"
+  },
+  "translations": {
+    "pt-BR": {
+      "title": "Brasil e México discutem cooperação em tecnologia de saúde",
+      "summary": "O Ministério da Saúde do Brasil informou que Alexandre Padilha visitou a BIRMEX em 22 de setembro para discutir plataformas de pesquisa, produção e transferência de tecnologia, com foco em mRNA. A agenda dá continuidade a entendimentos anteriores; não significa que novas vacinas já estejam sendo produzidas.",
+      "aiSummary": [
+        "O Ministério da Saúde do Brasil informou que Alexandre Padilha visitou a BIRMEX em 22 de setembro para discutir cooperação em pesquisa e tecnologia de saúde.",
+        "Segundo o Ministério brasileiro, a agenda incluiu plataformas de mRNA, transferência de tecnologia e possíveis projetos conjuntos, em continuidade a entendimentos anteriores.",
+        "O Ministério da Saúde informou que projetos brasileiros de mRNA seguem em desenvolvimento; isso não equivale a produção concluída."
+      ],
+      "paragraphs": [
+        "O Ministério da Saúde do Brasil informou que o ministro Alexandre Padilha visitou a BIRMEX, empresa mexicana de medicamentos e produtos biológicos, na Cidade do México em 22 de setembro. Segundo o ministério, a reunião tratou de cooperação para pesquisa, produção e transferência de tecnologia em saúde.",
+        "De acordo com o Ministério brasileiro, a pauta incluiu vacinas de RNA mensageiro, ou mRNA, e plataformas para compartilhar conhecimento e desenvolver projetos. A reportagem do órgão descreveu a conversa como continuidade de uma parceria estabelecida em agosto de 2025, não como um novo acordo de fabricação concluído durante a visita.",
+        "La Jornada não descreveu a visita à BIRMEX: sua reportagem cobre uma reunião separada de Padilha com o secretário mexicano de Saúde, David Kershenobich, no centro de saúde Kalan. O jornal situou aquela conversa em entendimentos bilaterais anteriores, incluindo um memorando de abril de 2026, e relatou planos para um plano de trabalho e um grupo de acompanhamento; são próximos passos, não resultados de produção alcançados.",
+        "O mRNA orienta células a produzir uma proteína que pode estimular uma resposta imune. A tecnologia pode ser adaptada a diferentes alvos, mas desenvolver uma vacina envolve pesquisa, estudos clínicos, fabricação e transferência de conhecimento, etapas que não se completam com a assinatura de um memorando.",
+        "O Ministério da Saúde do Brasil também informou que Fiocruz, Instituto Butantan e UFMG mantêm projetos de mRNA com R$ 210 milhões em recursos ministeriais. Entre eles há candidatos e estudos em andamento para diferentes doenças. Esses dados do ministério descrevem iniciativas em desenvolvimento no Brasil, não vacinas já produzidas em conjunto por Brasil e México."
+      ]
+    },
+    "en": {
+      "title": "Brazil and Mexico discuss health-technology cooperation",
+      "summary": "Brazil’s Health Ministry reported that Alexandre Padilha visited BIRMEX on September 22 to discuss research, production and technology-transfer platforms, with a focus on mRNA. The agenda continues earlier arrangements; it does not mean new vaccines are already being produced.",
+      "aiSummary": [
+        "Brazil’s Health Ministry reported that Alexandre Padilha visited BIRMEX on September 22 to discuss cooperation in health research and technology.",
+        "The ministry said the agenda included mRNA platforms, technology transfer and possible joint projects, building on earlier arrangements.",
+        "Brazil’s Health Ministry said domestic mRNA projects remain under development; that is not completed production."
+      ],
+      "paragraphs": [
+        "Brazil’s Health Ministry reported that Health Minister Alexandre Padilha visited BIRMEX, a Mexican medicines and biological-products company, in Mexico City on September 22. The ministry said the meeting addressed cooperation on health research, production and technology transfer.",
+        "According to Brazil’s Health Ministry, the agenda included messenger RNA, or mRNA, vaccines and platforms for sharing expertise and developing projects. The ministry’s report described the discussion as continuing a partnership established in August 2025, not as a new manufacturing agreement completed during the visit.",
+        "La Jornada did not report the BIRMEX visit; its article covers a separate meeting between Padilha and Mexican Health Secretary David Kershenobich at the Kalan health center. The newspaper placed that discussion within earlier bilateral arrangements, including an April 2026 memorandum, and reported plans for a work plan and follow-up group; these are next steps, not completed production results.",
+        "mRNA instructs cells to produce a protein that can stimulate an immune response. The technology can be adapted to different targets, but developing a vaccine involves research, clinical studies, manufacturing and technology transfer—steps that are not completed by signing a memorandum.",
+        "Brazil’s Health Ministry separately reported that Fiocruz, the Butantan Institute and the Federal University of Minas Gerais have mRNA projects backed by 210 million reais in ministry funding. These include vaccine candidates and studies for several diseases. The ministry’s figures describe projects under development in Brazil, not vaccines already produced jointly by Brazil and Mexico."
+      ]
+    }
+  },
+  "verification": {
+    "score": 7.8,
+    "checkedAt": "2026-09-24T14:35:43Z",
+    "checks": [
+      {
+        "provider": "Aos Fatos",
+        "url": "https://www.aosfatos.org/",
+        "finding": "no-match",
+        "note": "Portuguese site-scoped searches for Padilha, BIRMEX, mRNA cooperation and the funding figure found no applicable fact-check; no-match is neutral, not evidence of truth."
+      },
+      {
+        "provider": "Agência Lupa",
+        "url": "https://www.agencialupa.org/",
+        "finding": "no-match",
+        "note": "Portuguese site-scoped searches for Padilha, BIRMEX, mRNA cooperation and the funding figure found no applicable fact-check; no-match is neutral, not evidence of truth."
+      },
+      {
+        "provider": "Projeto Comprova",
+        "url": "https://projetocomprova.com.br/",
+        "finding": "no-match",
+        "note": "Portuguese site-scoped searches for Padilha, BIRMEX, mRNA cooperation and the funding figure found no applicable fact-check; no-match is neutral, not evidence of truth."
+      },
+      {
+        "provider": "AFP Fact Check",
+        "url": "https://factcheck.afp.com/",
+        "finding": "no-match",
+        "note": "Search found no directly applicable AFP fact-check about the BIRMEX meeting or Brazilian mRNA funding. Neutral."
+      },
+      {
+        "provider": "Reuters Fact Check",
+        "url": "https://www.reuters.com/fact-check/",
+        "finding": "no-match",
+        "note": "Search found no directly applicable Reuters fact-check. Neutral."
+      },
+      {
+        "provider": "Full Fact",
+        "url": "https://fullfact.org/",
+        "finding": "no-match",
+        "note": "Search found no directly applicable Full Fact article. Neutral."
+      },
+      {
+        "provider": "Ministério da Saúde do Brasil",
+        "url": "https://www.gov.br/saude/pt-br/assuntos/noticias-ms/2026/setembro/brasil-e-mexico-discutem-plataformas-conjuntas-para-desenvolvimento-e-producao-de-tecnologias-em-saude",
+        "finding": "supports",
+        "note": "Complete saved official extraction supports the reported BIRMEX meeting, mRNA cooperation discussion and R$210 million domestic project funding. These visit and funding details remain attributable to the Brazilian ministry, not independently verified by this source."
+      },
+      {
+        "provider": "La Jornada",
+        "url": "https://www.jornada.com.mx/noticia/2026/09/22/sociedad/mexico-y-brasil-avanzan-en-acuerdos-sobre-soberania-sanitaria",
+        "finding": "context",
+        "note": "Full article covers a separate same-day meeting at Kalan, the earlier memorandum and follow-up planning; it corroborates broader bilateral health cooperation only, not the BIRMEX visit or R$210 million."
+      }
+    ],
+    "caveat": "The BIRMEX visit and R$210 million allocation rely on the Brazilian Health Ministry's account alone; the Mexican government page could not be verified because it returned a challenge page. The article and bilingual summaries preserve this attribution and distinguish La Jornada's separate Kalan meeting. Planned collaboration, domestic research and vaccine candidates are not described as joint production already completed. No contradiction found, but the sole-source limitation is material."
+  }
+}

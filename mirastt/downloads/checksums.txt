@@ -1,0 +1,4 @@
+SHA-256 · Mira STT 0.3.0
+
+3442434edcc34c22a4bfc6776ce49edda3aaecb4adeddb29628582ac8fe84d66  Mira-Setup.exe
+6b8351ac058351fe3497e9efce724179ad66bd9fcb4625a0881b8962c2829462  Mira-linux.tar.gz

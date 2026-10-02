@@ -1,0 +1,101 @@
+{
+  "id": "the-king-and-ai-uk-monarch-charles-meets-artificial-intelligence-leaders-as-safety-concern",
+  "slug": "the-king-and-ai-uk-monarch-charles-meets-artificial-intelligence-leaders-as-safety-concern",
+  "section": "tecnologia",
+  "secondarySections": [],
+  "publishedAt": "2026-09-17T00:00:00-03:00",
+  "publishedDate": "2026-09-17",
+  "updatedAt": "2026-09-24T17:45:13.603Z",
+  "sources": [
+    {
+      "name": "Associated Press",
+      "url": "https://apnews.com/article/britain-king-charles-ai-summit-0765bee1e338cf65846a046fb5825a4a"
+    }
+  ],
+  "rights": {
+    "mode": "original-report"
+  },
+  "translations": {
+    "pt-BR": {
+      "title": "Charles III pede que líderes de IA mantenham humanos no controle",
+      "summary": "Em um encontro na Escócia com representantes de empresas de tecnologia, o rei britânico defendeu que a inteligência artificial permaneça sob controle humano e sirva às pessoas e ao planeta. A reunião foi uma discussão, não um novo acordo ou regra.",
+      "aiSummary": [
+        "Charles III reuniu-se em 17 de setembro com líderes de OpenAI, Google DeepMind e Nvidia; um representante da Anthropic era esperado, segundo a AP.",
+        "O rei pediu que a IA permaneça sob controle humano e que segurança acompanhe o desenvolvimento da tecnologia.",
+        "O encontro discutiu princípios e riscos; a AP não relatou a adoção de novas regras ou um acordo."
+      ],
+      "paragraphs": [
+        "O rei Charles III recebeu líderes do setor de inteligência artificial em Dumfries House, na Escócia, em 17 de setembro. O encontro foi convocado para discutir como desenvolver e aplicar a tecnologia de modo que beneficie a sociedade.",
+        "Em sua fala inicial, o monarca pediu que sistemas de IA permaneçam sob controle humano e a serviço das pessoas e do planeta. A Associated Press relatou que ele descreveu o ritmo de desenvolvimento como motivo tanto de interesse quanto de preocupação.",
+        "Entre os participantes citados pela AP estavam Jensen Huang, da Nvidia, Demis Hassabis, do Google DeepMind, e Sarah Friar, diretora financeira da OpenAI. A Anthropic também deveria enviar um representante, segundo uma declaração do Palácio de Buckingham citada pela agência.",
+        "A reunião ocorreu em meio a divergências sobre a velocidade de desenvolvimento da IA. A AP contextualizou o debate com a saída do pesquisador Jacob Coxon da Anthropic e com um ensaio do presidente da empresa, Dario Amodei, que discutiu a possibilidade de uma desaceleração coordenada.",
+        "Huang defendeu que cada empresa desenvolva e teste seus produtos com segurança e retenha aqueles que ainda não estejam prontos para o público. O encontro, porém, foi uma conversa entre executivos, autoridades e outros participantes; a reportagem não registra novas normas, compromissos formais ou decisões governamentais."
+      ]
+    },
+    "en": {
+      "title": "King Charles urges AI leaders to keep humans in control",
+      "summary": "At a meeting in Scotland with technology-company representatives, the British monarch argued that artificial intelligence should remain under human control and serve people and the planet. The gathering was a discussion, not a new agreement or rule.",
+      "aiSummary": [
+        "Charles III met leaders from OpenAI, Google DeepMind and Nvidia in Scotland on September 17; an Anthropic representative was expected, AP reported.",
+        "The king urged that AI remain under human control and that safety accompany the technology’s development.",
+        "The gathering discussed principles and risks; AP reported no new rules or agreement."
+      ],
+      "paragraphs": [
+        "King Charles III met artificial-intelligence leaders at Dumfries House in Scotland on September 17. The gathering was convened to discuss how the technology could be developed and deployed in ways that benefit society.",
+        "In opening remarks, the monarch urged that AI remain under human control and serve people and the planet. The Associated Press reported that he described the pace of development as a source of both interest and concern.",
+        "Participants identified by AP included Nvidia chief Jensen Huang, Google DeepMind chair Demis Hassabis and OpenAI chief financial officer Sarah Friar. An Anthropic representative was also expected, according to a Buckingham Palace statement cited by the news agency.",
+        "The meeting took place amid disagreement over the speed of AI development. AP placed the discussion in the context of researcher Jacob Coxon’s departure from Anthropic and an essay by company chief Dario Amodei that considered a coordinated slowdown.",
+        "Huang argued that companies should develop and test products safely and hold back those not ready for public use. The gathering was nevertheless a discussion among executives, officials and other participants; AP reported no new rules, formal commitments or government decisions."
+      ]
+    }
+  },
+  "verification": {
+    "score": 8,
+    "checkedAt": "2026-09-24T14:35:43Z",
+    "checks": [
+      {
+        "provider": "Aos Fatos",
+        "url": "https://www.aosfatos.org/",
+        "finding": "no-match",
+        "note": "Portuguese site-scoped searches for the Charles III AI meeting and attributed remarks found no applicable fact-check; no-match is neutral."
+      },
+      {
+        "provider": "Agência Lupa",
+        "url": "https://www.agencialupa.org/",
+        "finding": "no-match",
+        "note": "Portuguese site-scoped searches for the Charles III AI meeting and attributed remarks found no applicable fact-check; no-match is neutral."
+      },
+      {
+        "provider": "Projeto Comprova",
+        "url": "https://projetocomprova.com.br/",
+        "finding": "no-match",
+        "note": "Portuguese site-scoped searches for the Charles III AI meeting and attributed remarks found no applicable fact-check; no-match is neutral."
+      },
+      {
+        "provider": "AFP Fact Check",
+        "url": "https://factcheck.afp.com/",
+        "finding": "no-match",
+        "note": "Search found no directly applicable AFP fact-check about this meeting. Neutral."
+      },
+      {
+        "provider": "Reuters Fact Check",
+        "url": "https://www.reuters.com/fact-check/",
+        "finding": "no-match",
+        "note": "Search found no directly applicable Reuters fact-check. Neutral."
+      },
+      {
+        "provider": "Full Fact",
+        "url": "https://fullfact.org/",
+        "finding": "no-match",
+        "note": "Search found no directly applicable Full Fact article. Neutral."
+      },
+      {
+        "provider": "Associated Press",
+        "url": "https://apnews.com/article/britain-king-charles-ai-summit-0765bee1e338cf65846a046fb5825a4a",
+        "finding": "supports",
+        "note": "The complete 23-paragraph AP report supports the meeting date, named attendees, King's attributed remarks and Huang's comments. It reports a discussion, not a policy or agreement."
+      }
+    ],
+    "caveat": "Low-risk single-source exception: the saved selection has one complete AP account and no independent corroborating URL. The article consistently attributes attendance and remarks to AP/Buckingham Palace, distinguishes an expected Anthropic representative from confirmed attendees, and does not infer new rules or commitments."
+  }
+}

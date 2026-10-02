@@ -1,0 +1,96 @@
+{
+  "id": "ans-aprova-atualizacao-de-cinco-tecnologias-no-rol",
+  "slug": "ans-aprova-atualizacao-de-cinco-tecnologias-no-rol",
+  "section": "brasil",
+  "secondarySections": [],
+  "publishedAt": "2026-09-22T18:41:25-03:00",
+  "updatedAt": "2026-09-24T17:45:13.603Z",
+  "sources": [
+    {
+      "name": "Agência Nacional de Saúde Suplementar (ANS)",
+      "url": "https://www.gov.br/ans/pt-br/assuntos/noticias-1/periodo-eleitoral/ans-aprova-atualizacao-de-cinco-tecnologias-no-rol"
+    }
+  ],
+  "rights": {
+    "mode": "original-report"
+  },
+  "translations": {
+    "pt-BR": {
+      "title": "ANS atualiza cobertura obrigatória de cinco tecnologias",
+      "summary": "A decisão inclui medicamentos, dispositivo hormonal e exame para condições específicas; as mudanças passam a valer em 1º de outubro.",
+      "aiSummary": [
+        "A ANS aprovou cinco mudanças no Rol de cobertura obrigatória dos planos de saúde, com vigência a partir de 1º de outubro de 2026 — ainda não valiam no anúncio.",
+        "A lista inclui anfotericina B lipossomal para leishmaniose visceral, rituximabe de manutenção para vasculite associada a ANCA e adalimumabe para uveíte ativa não infecciosa em crianças de 2 anos ou mais e adolescentes.",
+        "Também inclui DIU ou sistema intrauterino hormonal em casos especificados de endometriose e elastografia hepática ultrassônica para colangite biliar primária com suspeita ou diagnóstico de fibrose ou cirrose."
+      ],
+      "paragraphs": [
+        "A diretoria colegiada da Agência Nacional de Saúde Suplementar aprovou em 18 de setembro uma atualização do Rol de Procedimentos e Eventos em Saúde, com mudanças em cinco tecnologias. A nova cobertura obrigatória passa a valer em 1º de outubro de 2026.",
+        "Uma das mudanças inclui anfotericina B lipossomal no rol para o tratamento de leishmaniose visceral, também conhecida como calazar, dentro da terapia medicamentosa injetável ambulatorial. Outra amplia o uso de rituximabe como tratamento de manutenção para pacientes com vasculite associada a anticorpos anticitoplasma de neutrófilos.",
+        "A atualização também inclui adalimumabe para crianças a partir de dois anos e adolescentes com diagnóstico confirmado de uveíte não infecciosa ativa. A medida especifica o tratamento dentro da terapia imunobiológica prevista na resolução da agência.",
+        "No caso da endometriose, o rol passa a incluir o dispositivo intrauterino ou sistema intrauterino hormonal, inclusive o próprio dispositivo, quando contraceptivos orais combinados forem contraindicados ou não houver adesão a eles.",
+        "A quinta tecnologia é a elastografia hepática ultrassônica para pessoas com colangite biliar primária e suspeita ou diagnóstico de fibrose ou cirrose hepática. Cada inclusão ou ampliação está associada a uma diretriz de utilização indicada pela ANS.",
+        "O Rol reúne consultas, terapias, exames, procedimentos e cirurgias cuja cobertura é obrigatória para beneficiários de planos de saúde. A agência informou que avaliou as propostas conforme a Lei 14.307/2022, que trata da inclusão de tecnologias recomendadas pela Conitec para o SUS."
+      ]
+    },
+    "en": {
+      "title": "Brazil's ANS updates mandatory coverage for five technologies",
+      "summary": "The decision covers medicines, a hormonal device and a test for specific conditions; the changes take effect on October 1.",
+      "aiSummary": [
+        "Brazil's ANS approved five changes to the mandatory health-plan coverage list, effective October 1, 2026—not yet in force when announced.",
+        "The update adds liposomal amphotericin B for visceral leishmaniasis, expands rituximab for ANCA-associated vasculitis, and adds adalimumab for active non-infectious uveitis in children aged two and older and adolescents.",
+        "It also includes a hormonal IUD or system for specified endometriosis cases and ultrasound liver elastography for primary biliary cholangitis with suspected or diagnosed fibrosis or cirrhosis."
+      ],
+      "paragraphs": [
+        "The board of Brazil's National Supplementary Health Agency, known as ANS, approved an update to its List of Health Procedures and Events on September 18, changing coverage for five technologies. The new mandatory coverage takes effect on October 1, 2026.",
+        "One change adds liposomal amphotericin B to the list for treatment of visceral leishmaniasis, also known as kala-azar, under outpatient injectable drug therapy. Another expands rituximab use for maintenance treatment of patients with vasculitis associated with antineutrophil cytoplasmic antibodies.",
+        "The update also adds adalimumab for children aged two and older and adolescents with a confirmed diagnosis of active non-infectious uveitis. The measure specifies its use within the immunobiological therapy covered by the agency's rules.",
+        "For endometriosis, the list will include a hormonal intrauterine device or system, including the device itself, when combined oral contraceptives are contraindicated or are not followed by the patient.",
+        "The fifth technology is ultrasound liver elastography for people with primary biliary cholangitis and suspected or diagnosed hepatic fibrosis or cirrhosis. Each addition or expanded use is tied to a utilization guideline set by the ANS.",
+        "The list covers consultations, therapies, tests, procedures and surgeries that health plans must provide to beneficiaries. The agency said it assessed the proposals under Law 14,307/2022, which addresses adding technologies recommended by Conitec for Brazil's public health system."
+      ]
+    }
+  },
+  "verification": {
+    "score": 9.4,
+    "checkedAt": "2026-09-24T14:14:34Z",
+    "checks": [
+      {
+        "provider": "Aos Fatos",
+        "url": "https://www.aosfatos.org/",
+        "finding": "no-match",
+        "note": "Searches for the five ANS technologies, conditions and October 1 effective date found no relevant fact-check; neutral."
+      },
+      {
+        "provider": "Agência Lupa",
+        "url": "https://www.agencialupa.org/",
+        "finding": "no-match",
+        "note": "No check of the ANS coverage update or its effective date was located; neutral."
+      },
+      {
+        "provider": "Projeto Comprova",
+        "url": "https://projetocomprova.com.br/",
+        "finding": "no-match",
+        "note": "No direct fact-check of the five-technology update or its coverage criteria was found; neutral."
+      },
+      {
+        "provider": "AFP Fact Check",
+        "url": "https://factcheck.afp.com/",
+        "finding": "no-match",
+        "note": "No relevant check of the Brazilian ANS update, listed treatments or October 1 date was found; neutral."
+      },
+      {
+        "provider": "Reuters Fact Check",
+        "url": "https://www.reuters.com/fact-check/",
+        "finding": "no-match",
+        "note": "No fact-check of this ANS coverage decision was located; neutral."
+      },
+      {
+        "provider": "Full Fact",
+        "url": "https://fullfact.org/",
+        "finding": "no-match",
+        "note": "No relevant check of the technologies or effective date was found; neutral."
+      }
+    ],
+    "caveat": "The complete ANS announcement confirms the five technologies, their condition-specific coverage criteria and October 1, 2026 effective date. This remains an official-source-only announcement in the saved corroboration record, a bounded primary-source exception for an agency decision. The body and summaries correctly state that the update was not yet in force at the edition cutoff. PT-BR and EN details align; no contradiction found."
+  }
+}

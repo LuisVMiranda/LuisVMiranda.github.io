@@ -1,122 +1,547 @@
 {
   "section": "cultura",
-  "cutoff": "2026-09-22T11:21:20.336Z",
-  "queries": [
-    "Cultura notícias Brasil",
-    "Culture latest news Brazil",
-    "cultura cinema música livros patrimônio notícias recentes",
-    "cinema música literatura artes patrimônio latest news",
-    "cultura brasileira cinema música livros patrimônio notícias",
-    "site:agenciabrasil.ebc.com.br cultura",
-    "site:theguardian.com culture latest news",
-    "site:variety.com culture film music latest news"
-  ],
+  "edition": "2026-09-23",
+  "cutoff": "2026-09-23T11:31:23.014Z",
+  "cutoffWindow": {
+    "windowStart": "2026-09-16T11:31:23.014Z",
+    "windowDefinition": "inclusive lower bound through immutable cutoff; UTC"
+  },
+  "runId": "2026-09-23T11-31-23-014Z-8d26ca21-0863-4450-82bc-1cdf26820144",
+  "candidateRun": "research/runs/2026-09-23T11-31-23-014Z-8d26ca21-0863-4450-82bc-1cdf26820144",
+  "selectionSource": "research/runs/2026-09-23T11-31-23-014Z-8d26ca21-0863-4450-82bc-1cdf26820144/selection.json",
+  "runStatus": "pending-review",
+  "retrievedAt": "2026-09-23T20:17:54Z",
   "verified": [
     {
-      "articleId": "cultura-2026-09-22-burberry-london-fashion-week",
-      "url": "https://www.bbc.com/news/articles/cmzxz2pe5vd0o",
-      "publishedAt": "2026-09-22T09:46:15.766Z",
-      "evidence": "Complete extraction at research/runs/2026-09-22T11-21-20-336Z-6df281a2-9343-4cb7-a1b3-001b9e9a3dde/extractions/mundo/66438282a1fb.json; HTTP 200, complete:true, 34 body paragraphs, 926 words and no warnings. The full source reports Burberry’s London Fashion Week closing show, Celia Birtwell’s runway work, Alexander McQueen and Mulberry returns, the British Fashion Council’s stated mission, and the 2027 trend signals covered in the article.",
-      "selectionReason": "Most recent complete arts-industry report in the run, published on September 22, with a distinct fashion-institution angle and substantial accessible source body.",
+      "articleId": "previous-winners-marlon-james-and-douglas-stuart-shortlisted-for-booker-prize",
+      "primarySection": "cultura",
+      "secondarySections": [],
+      "secondarySectionRationale": {},
+      "url": "https://www.theguardian.com/books/2026/sep/22/booker-prize-shortlist-pulitzer-previous-winners?page=with%3Aprint",
+      "publisher": "The Guardian",
+      "headline": "Previous winners Marlon James and Douglas Stuart shortlisted for Booker prize",
+      "publishedAt": "2026-09-22T18:55:24.000Z",
+      "publication": {
+        "value": "2026-09-22T18:55:24.000Z",
+        "precision": "millisecond",
+        "evidence": "Saved extraction `publishedAt` field from the original publisher page.",
+        "timezone": "explicit-offset",
+        "cutoffAssessment": {
+          "status": "within-window",
+          "normalizedUtc": "2026-09-22T18:55:24.000000Z"
+        }
+      },
+      "sourceEvidencePath": "research/runs/2026-09-23T11-31-23-014Z-8d26ca21-0863-4450-82bc-1cdf26820144/focused/cultura-1.json",
+      "additionalEventEvidence": [],
+      "boundedKeyFactsQualifications": {
+        "facts": [
+          "The six-book 2026 Booker shortlist includes former winners Marlon James and Douglas Stuart."
+        ],
+        "qualifications": ["Shortlist announcement is not a prize result."]
+      },
+      "evidence": "The complete saved Guardian extraction was read (HTTP 200, complete:true, 25 reported paragraphs, 859 words, no warnings). The complete Irish Times corroborating article was also read (HTTP 200, complete:true, 1,838 words); it confirms the shortlist, former wins, book titles, judges and November 9 award date. The Bookseller page's local extraction returned no body, but the full article text was retrieved and read through web search; it independently confirms the six authors, titles, judging panel and award date.",
+      "corroboratingSources": [
+        {
+          "url": "https://www.irishtimes.com/culture/books/2026/09/22/booker-prize-shortlist-two-former-winners-in-running-for-50000-prize/",
+          "matchingFacts": "Irish Times confirms the shortlist and former winners.",
+          "readStatus": "Complete body read; used for cross-check."
+        },
+        {
+          "url": "https://www.thebookseller.com/news/booker-prize-shortlist-2026-features-marlon-james-douglas-stuart-and-elizabeth-strout",
+          "matchingFacts": "The Bookseller independently lists the same six authors.",
+          "readStatus": "Full article body read through web retrieval; agrees on the six-title shortlist and panel."
+        }
+      ],
+      "corroborationNote": "The Guardian, complete Irish Times and full Bookseller reports agree on the shortlist and former winners.",
+      "extractionGates": {
+        "httpStatus": 200,
+        "complete": true,
+        "paragraphCount": 25,
+        "warnings": [],
+        "passed": true,
+        "bodyContaminationNote": "Manual section-qualification report reviewed the source body; captions, sidebar/recommendation and page-chrome material were excluded where present."
+      },
+      "selectionReason": "Selected for cultura as a distinct, recent story with a complete original-source extraction and a clear desk fit; shared events are represented by one stable identity.",
       "contentReview": {
         "bodyComplete": true,
         "aiSummaryReviewed": true
       }
     },
     {
-      "articleId": "cultura-2026-09-22-indian-craftsmanship-fashion",
-      "url": "https://www.theguardian.com/world/2026/sep/21/the-indian-craftsmanship-behind-luxury-fashion",
-      "publishedAt": "2026-09-22T06:30:37.000Z",
-      "evidence": "Complete extraction at research/runs/2026-09-22T11-21-20-336Z-6df281a2-9343-4cb7-a1b3-001b9e9a3dde/extractions/cultura/1e2954a69640.json; HTTP 200, complete:true, 37 body paragraphs, 1,694 words and no warnings. The full source covers Chanakya International’s 40th anniversary, its 1,400-artisan network, revived craft techniques, institutional partnerships, credit disputes and the Chanakya School of Craft.",
-      "selectionReason": "Current September 22 heritage and cultural-institution feature with original reporting on living craft traditions, preservation and recognition in global fashion.",
+      "articleId": "museu-do-folclore-recebe-bordados-do-vale-do-jequitinhonha",
+      "primarySection": "cultura",
+      "secondarySections": [],
+      "secondarySectionRationale": {},
+      "url": "https://agenciabrasil.ebc.com.br/cultura/noticia/2026-09/museu-do-folclore-recebe-bordados-do-vale-do-jequitinhonha",
+      "publisher": "Agência Brasil",
+      "headline": "Museu do Folclore recebe bordados do Vale do Jequitinhonha",
+      "publishedAt": "2026-09-20T18:47:00-03:00",
+      "publication": {
+        "value": "2026-09-20T18:47:00-03:00",
+        "precision": "second",
+        "evidence": "Saved extraction `publishedAt` field from the original publisher page.",
+        "timezone": "explicit-offset",
+        "cutoffAssessment": {
+          "status": "within-window",
+          "normalizedUtc": "2026-09-20T21:47:00.000000Z"
+        }
+      },
+      "sourceEvidencePath": "research/runs/2026-09-23T11-31-23-014Z-8d26ca21-0863-4450-82bc-1cdf26820144/focused/cultura-2.json",
+      "additionalEventEvidence": [],
+      "boundedKeyFactsQualifications": {
+        "facts": [
+          "Museu do Folclore received embroidery from the Vale do Jequitinhonha, including work by artisans from Turmalina and Veredinha."
+        ],
+        "qualifications": [
+          "Exhibition details are cultural-event reporting; no ownership or heritage-status claim beyond the cited record."
+        ]
+      },
+      "evidence": "The complete Agência Brasil source was read (HTTP 200, complete:true, 19 reported paragraphs, 641 words, no warnings). The full CNFCP/IPHAN exhibition announcement was read (HTTP 200, complete:true, 1,063 words, no warnings); it confirms the exhibition title, opening, venue, closing date and textile focus. The article uses the exhibition schedule as an event listing and attributes research and social-impact claims to the named researcher and artisans.",
+      "corroboratingSources": [
+        {
+          "url": "https://www.gov.br/iphan/pt-br/unidades-especiais/centro-nacional-de-folclore-e-cultura-popular/noticias-1/nova-exposicao-na-sala-do-artista-popular-em-setembro-arte-textil-em-turmalina-e-veredinha-jequitinhonha-mg",
+          "matchingFacts": "CNFCP/IPHAN record confirms the exhibition details; exact event article URL was not captured in the qualification summary.",
+          "readStatus": "Complete official source read; HTTP 200, complete:true, 1,063 words."
+        }
+      ],
+      "corroborationNote": "Complete official CNFCP/IPHAN material corroborates the exhibit details. The report avoids claims about ownership or heritage designation beyond those sources.",
+      "extractionGates": {
+        "httpStatus": 200,
+        "complete": true,
+        "paragraphCount": 19,
+        "warnings": [],
+        "passed": true,
+        "bodyContaminationNote": "Manual section-qualification report reviewed the source body; captions, sidebar/recommendation and page-chrome material were excluded where present."
+      },
+      "selectionReason": "Selected for cultura as a distinct, recent story with a complete original-source extraction and a clear desk fit; shared events are represented by one stable identity.",
       "contentReview": {
         "bodyComplete": true,
         "aiSummaryReviewed": true
       }
     },
     {
-      "articleId": "cultura-2026-09-22-daisy-edgar-jones-sense-sensibility",
-      "url": "https://www.bbc.com/news/articles/c6j9xpg19x43o",
-      "publishedAt": "2026-09-22T06:20:52.319Z",
-      "evidence": "Complete extraction at research/runs/2026-09-22T11-21-20-336Z-6df281a2-9343-4cb7-a1b3-001b9e9a3dde/extractions/mundo/957e5f98e0d7.json; HTTP 200, complete:true, 20 body paragraphs, 458 words and no warnings. The full source reports Daisy Edgar-Jones’s preparation for Sense and Sensibility, the novel’s adaptation history, the Irish cast and the film’s September 25 cinema release.",
-      "selectionReason": "Fresh, dated film report inside the 24-hour priority window, centered on a literary adaptation, acting and Irish cultural production rather than celebrity opinion.",
+      "articleId": "longa-de-andre-novais-vence-o-festival-de-brasilia-de-cinema",
+      "primarySection": "cultura",
+      "secondarySections": [],
+      "secondarySectionRationale": {},
+      "url": "https://agenciabrasil.ebc.com.br/cultura/noticia/2026-09/longa-de-andre-novais-vence-o-festival-de-brasilia-de-cinema",
+      "publisher": "Agência Brasil",
+      "headline": "Longa de André Novais vence o Festival de Brasília de Cinema",
+      "publishedAt": "2026-09-20T19:40:00-03:00",
+      "publication": {
+        "value": "2026-09-20T19:40:00-03:00",
+        "precision": "second",
+        "evidence": "Saved extraction `publishedAt` field from the original publisher page.",
+        "timezone": "explicit-offset",
+        "cutoffAssessment": {
+          "status": "within-window",
+          "normalizedUtc": "2026-09-20T22:40:00.000000Z"
+        }
+      },
+      "sourceEvidencePath": "research/runs/2026-09-23T11-31-23-014Z-8d26ca21-0863-4450-82bc-1cdf26820144/focused/cultura-3.json",
+      "additionalEventEvidence": [],
+      "boundedKeyFactsQualifications": {
+        "facts": [
+          "André Novais Oliveira's Se eu fosse vivo...vivia won the top Candango prize at the 59th Brasília Film Festival."
+        ],
+        "qualifications": [
+          "Awards are the jury result; do not infer wider box-office or audience impact."
+        ]
+      },
+      "evidence": "The complete Agência Brasil source was read (HTTP 200, complete:true, 7 reported paragraphs, 194 words, no warnings). The complete Estado de Minas/Correio Braziliense report was also read (HTTP 200, complete:true, 453 words); it independently confirms the best-film Candango and screenplay/costume awards. Its page extraction included unrelated recommendation material, excluded from the article. The added fifth body paragraph reports only Agência Brasil's time-bounded free repeat-screening notice and explicitly says the scheduled date had passed by the edition cutoff.",
+      "corroboratingSources": [],
+      "supplementalSourcesReviewed": [
+        {
+          "name": "Estado de Minas / Correio Braziliense",
+          "url": "https://www.em.com.br/cultura/2026/09/7504539-festival-de-cinema-de-brasilia-consagra-o-mineiro-se-eu-fosse-vivo-vivia.html",
+          "matchingFacts": "The full report independently names the film as best-film winner and confirms the screenplay and costume-design awards.",
+          "readStatus": "Complete extraction read; HTTP 200, 453 words, warnings: none."
+        }
+      ],
+      "corroborationNote": "The supplied qualification record did not retain a corroborating URL. A complete second report was independently read during authoring and is listed as supplemental evidence above; no audience or box-office effect is inferred.",
+      "extractionGates": {
+        "httpStatus": 200,
+        "complete": true,
+        "paragraphCount": 7,
+        "warnings": [],
+        "passed": true,
+        "bodyContaminationNote": "Manual section-qualification report reviewed the source body; captions, sidebar/recommendation and page-chrome material were excluded where present."
+      },
+      "selectionReason": "Selected for cultura as a distinct, recent story with a complete original-source extraction and a clear desk fit; shared events are represented by one stable identity.",
       "contentReview": {
         "bodyComplete": true,
         "aiSummaryReviewed": true
       }
     },
     {
-      "articleId": "cultura-2026-09-22-agatha-christie-exhibition",
-      "url": "https://www.bbc.com/news/articles/c620l2zqpl2do",
-      "publishedAt": "2026-09-22T05:08:35.030Z",
-      "evidence": "Complete extraction at research/runs/2026-09-22T11-21-20-336Z-6df281a2-9343-4cb7-a1b3-001b9e9a3dde/extractions/mundo/76b593137241.json; HTTP 200, complete:true, 12 body paragraphs, 287 words and no warnings. The full source describes the Royal Berkshire Archives exhibition, the surviving 1926 police poster, collection objects, Christie’s biography and her record as a bestselling crime novelist.",
-      "selectionReason": "Dated September 22 heritage and archival-institution report with a free public exhibition and a distinct literary-history subject.",
+      "articleId": "pesquisa-mostra-desafio-de-cineastas-indigenas-para-financiar-filmes",
+      "primarySection": "cultura",
+      "secondarySections": [],
+      "secondarySectionRationale": {},
+      "url": "https://agenciabrasil.ebc.com.br/cultura/noticia/2026-09/pesquisa-mostra-desafio-de-cineastas-indigenas-para-financiar-filmes",
+      "publisher": "Agência Brasil",
+      "headline": "Pesquisa mostra desafio de cineastas indígenas para financiar filmes",
+      "publishedAt": "2026-09-17T15:32:00-03:00",
+      "publication": {
+        "value": "2026-09-17T15:32:00-03:00",
+        "precision": "second",
+        "evidence": "Saved extraction `publishedAt` field from the original publisher page.",
+        "timezone": "explicit-offset",
+        "cutoffAssessment": {
+          "status": "within-window",
+          "normalizedUtc": "2026-09-17T18:32:00.000000Z"
+        }
+      },
+      "sourceEvidencePath": "research/runs/2026-09-23T11-31-23-014Z-8d26ca21-0863-4450-82bc-1cdf26820144/focused/cultura-4.json",
+      "additionalEventEvidence": [],
+      "boundedKeyFactsQualifications": {
+        "facts": [
+          "A survey of 60 filmmakers from 40 Indigenous peoples found 71.7% had abandoned an application for funding."
+        ],
+        "qualifications": [
+          "Survey findings describe respondents, not all Indigenous filmmakers; barriers included bureaucracy and eligibility requirements."
+        ]
+      },
+      "evidence": "The complete Agência Brasil report was read (HTTP 200, complete:true, 11 reported paragraphs, 369 words, no warnings). Indigenalise-se's full 695-word account was also read; it confirms the 60-woman/40-peoples scope and describes funding barriers, but reports a different measure for difficulty entering calls (61%) from Agência Brasil's 71.7% who had abandoned applying. The article retains only the exact Agência Brasil measure and does not portray the secondary account as confirming that percentage. All survey percentages are bounded to respondents.",
+      "corroboratingSources": [
+        {
+          "url": "https://indigenalise-se.com.br/rede-katahirine-mapeamento-cinema-mulheres-indigenas/",
+          "matchingFacts": "Separate publication of the survey account matches the study figures; confirm source independence before attributing beyond the report.",
+          "readStatus": "Full article read; supports survey scope and broad barriers, but its 61% measure is not treated as the same statistic as Agência Brasil's 71.7%."
+        }
+      ],
+      "corroborationNote": "The secondary report is a separate publication of the study, not an independent study replication; its application-barrier measure differs. Article percentages remain attributed to the Agência Brasil account and the interviewed sample.",
+      "extractionGates": {
+        "httpStatus": 200,
+        "complete": true,
+        "paragraphCount": 11,
+        "warnings": [],
+        "passed": true,
+        "bodyContaminationNote": "Manual section-qualification report reviewed the source body; captions, sidebar/recommendation and page-chrome material were excluded where present."
+      },
+      "selectionReason": "Selected for cultura as a distinct, recent story with a complete original-source extraction and a clear desk fit; shared events are represented by one stable identity.",
       "contentReview": {
         "bodyComplete": true,
         "aiSummaryReviewed": true
       }
     },
     {
-      "articleId": "cultura-2026-09-22-sao-paulo-grafite-lei",
-      "url": "https://agenciabrasil.ebc.com.br/radioagencia-nacional/cultura/audio/2026-09/sao-paulo-tem-nova-lei-de-fomento-ao-grafite-e-arte-de-rua",
-      "publishedAt": "2026-09-21T23:34:00-03:00",
-      "evidence": "Complete extraction at research/runs/2026-09-22T11-21-20-336Z-6df281a2-9343-4cb7-a1b3-001b9e9a3dde/extractions/cultura/5052dd1c28cd.json; HTTP 200, complete:true, 12 body paragraphs, 485 words and no warnings. The full source reports the Alex Vallauri Law, the Museu de Arte de Rua program, the unanimous municipal approval, eligible urban-art forms and public funding routes.",
-      "selectionReason": "The newest complete cultural-policy story from September 21, with an enacted municipal measure directly affecting graffiti and street-art production and access.",
+      "articleId": "filme-cearense-feito-pipa-representa-brasil-na-disputa-pelo-oscar",
+      "primarySection": "cultura",
+      "secondarySections": [],
+      "secondarySectionRationale": {},
+      "url": "https://agenciabrasil.ebc.com.br/cultura/noticia/2026-09/filme-cearense-feito-pipa-representa-brasil-na-disputa-pelo-oscar",
+      "publisher": "Agência Brasil",
+      "headline": "Filme cearense Feito Pipa representa Brasil na disputa pelo Oscar",
+      "publishedAt": "2026-09-20T13:30:00-03:00",
+      "publication": {
+        "value": "2026-09-20T13:30:00-03:00",
+        "precision": "second",
+        "evidence": "Saved extraction `publishedAt` field from the original publisher page.",
+        "timezone": "explicit-offset",
+        "cutoffAssessment": {
+          "status": "within-window",
+          "normalizedUtc": "2026-09-20T16:30:00.000000Z"
+        }
+      },
+      "sourceEvidencePath": "research/runs/2026-09-23T11-31-23-014Z-8d26ca21-0863-4450-82bc-1cdf26820144/focused/cultura-5.json",
+      "additionalEventEvidence": [],
+      "boundedKeyFactsQualifications": {
+        "facts": [
+          "Feito Pipa was selected as Brazil's entry for the 2027 international-feature Oscar race."
+        ],
+        "qualifications": [
+          "Selection as a national entry is not an Academy nomination."
+        ]
+      },
+      "evidence": "The complete Agência Brasil report was read (HTTP 200, complete:true, 12 reported paragraphs, 459 words, no warnings). The full Ministry of Culture notice was read (HTTP 200, complete:true, 382 words, no warnings); it confirms the national entry, release date, Oscar-calendar dates and explicitly says national selection does not guarantee an Academy nomination. The article distinguishes the entry from a nomination and reports prior festival awards as past results.",
+      "corroboratingSources": [],
+      "supplementalSourcesReviewed": [
+        {
+          "name": "Ministério da Cultura",
+          "url": "https://www.gov.br/cultura/pt-br/assuntos/noticias-defeso-eleitoral/feito-pipa-e-escolhido-representante-do-brasil-no-oscar-2027",
+          "matchingFacts": "Official notice confirms the national entry, November 5 Brazilian release, January 21 nominee announcement and March 14 ceremony; it states entry does not guarantee nomination.",
+          "readStatus": "Complete official body read; HTTP 200, 382 words, warnings: none."
+        }
+      ],
+      "corroborationNote": "The official notice is primary confirmation of the national submission and process; it does not establish an Academy nomination or win.",
+      "extractionGates": {
+        "httpStatus": 200,
+        "complete": true,
+        "paragraphCount": 12,
+        "warnings": [],
+        "passed": true,
+        "bodyContaminationNote": "Manual section-qualification report reviewed the source body; captions, sidebar/recommendation and page-chrome material were excluded where present."
+      },
+      "selectionReason": "Selected for cultura as a distinct, recent story with a complete original-source extraction and a clear desk fit; shared events are represented by one stable identity.",
       "contentReview": {
         "bodyComplete": true,
         "aiSummaryReviewed": true
       }
     },
     {
-      "articleId": "cultura-2026-09-22-cnpc-eleicao-cultura",
-      "url": "https://agenciabrasil.ebc.com.br/cultura/noticia/2026-09/inscricao-para-eleicao-do-conselho-de-politica-cultural-vai-ate-dia-30",
-      "publishedAt": "2026-09-21T19:34:00-03:00",
-      "evidence": "Complete extraction at research/runs/2026-09-22T11-21-20-336Z-6df281a2-9343-4cb7-a1b3-001b9e9a3dde/extractions/cultura/534aba08288f.json; HTTP 200, complete:true, 23 body paragraphs, 510 words and no warnings. The full source reports the extended September 30 deadline, revised document-review calendar, Vota Cultura process, 21 collegia and plenary, quota validation and eligibility rules.",
-      "selectionReason": "Current official cultural-governance report with a concrete deadline and direct relevance to national cultural participation and policy institutions.",
+      "articleId": "cloudburst-in-florence-rain-pours-into-the-uffizi-and-historic-palazzo-pitti",
+      "primarySection": "cultura",
+      "secondarySections": [],
+      "secondarySectionRationale": {},
+      "url": "https://www.euronews.com/2026/09/17/cloudburst-in-florence-rain-pours-into-the-uffizi-and-historic-palazzo-pitti",
+      "publisher": "Euronews",
+      "headline": "Cloudburst in Florence: rain pours into the Uffizi and historic Palazzo Pitti",
+      "publishedAt": "2026-09-17T19:10:54+02:00",
+      "publication": {
+        "value": "2026-09-17T19:10:54+02:00",
+        "precision": "second",
+        "evidence": "Saved publisher-page publishedAt timestamp, including its explicit UTC offset.",
+        "timezone": "explicit-offset",
+        "cutoffAssessment": {
+          "status": "within-window",
+          "normalizedUtc": "2026-09-17T17:10:54.000000Z"
+        }
+      },
+      "sourceEvidencePath": "research/runs/2026-09-23T11-31-23-014Z-8d26ca21-0863-4450-82bc-1cdf26820144/focused/cultura-6.json",
+      "additionalEventEvidence": [],
+      "boundedKeyFactsQualifications": {
+        "facts": [
+          "Rain entered the Uffizi and Palazzo Pitti in Florence; reporting and the museum statement said artworks were not damaged."
+        ],
+        "qualifications": [
+          "Do not turn rain intrusion into a claim that collections were damaged."
+        ]
+      },
+      "evidence": "The complete Euronews report was read (HTTP 200, complete:true, 8 reported paragraphs, 226 words, no warnings). The official Uffizi notice was read in full; it contains two substantive paragraphs and the extractor marked complete:false solely because its general gate expects at least three paragraphs. That notice supports only the Uffizi leak, inspection finding of no artwork damage there, and room reopening on September 18. Palazzo Pitti impact and temporary closures remain attributed to the union representative quoted by Euronews; the cause was unresolved.",
+      "corroboratingSources": [
+        {
+          "url": "https://www.uffizi.it/en/notices/rain-bomb-in-florence-no-damage-to-the-uffizi-the-museum-is-regularly-open",
+          "matchingFacts": "Uffizi statement is the primary museum confirmation.",
+          "readStatus": "Entire two-paragraph notice read; extraction warning is only the fewer-than-three-paragraph threshold."
+        }
+      ],
+      "corroborationNote": "The Uffizi confirms no damage to works inspected at that gallery, not Palazzo Pitti. The Pitti details remain attributed to a union representative; no artwork damage at the palace is claimed.",
+      "extractionGates": {
+        "httpStatus": 200,
+        "complete": true,
+        "paragraphCount": 8,
+        "warnings": [],
+        "passed": true,
+        "bodyContaminationNote": "Manual section-qualification report reviewed the source body; captions, sidebar/recommendation and page-chrome material were excluded where present."
+      },
+      "selectionReason": "Selected for cultura as a distinct, recent story with a complete original-source extraction and a clear desk fit; shared events are represented by one stable identity.",
       "contentReview": {
         "bodyComplete": true,
         "aiSummaryReviewed": true
       }
     },
     {
-      "articleId": "cultura-2026-09-22-historia-de-taipei-livro",
-      "url": "https://www.cnnbrasil.com.br/pop/historia-de-taipei-conheca-novo-livro-da-autora-de-a-guerra-da-papoula/",
-      "publishedAt": "2026-09-21T19:32:37-03:00",
-      "evidence": "Complete extraction at research/runs/2026-09-22T11-21-20-336Z-6df281a2-9343-4cb7-a1b3-001b9e9a3dde/extractions/brasil/8cb30ddafe9a.json; HTTP 200, complete:true, 13 body paragraphs, 372 words and no warnings. The full source reports R.F. Kuang’s Brazilian release of História de Taipei, Lily’s three-month language course in Taipei, the identity and belonging themes, Brazilian publication details and Kuang’s literary background.",
-      "selectionReason": "Distinct current literary release inside the September 21 window, selected for its direct arts and cultural-identity focus and complete source body.",
+      "articleId": "france-selects-russian-language-film-minotaur-for-oscar-glory",
+      "primarySection": "cultura",
+      "secondarySections": [],
+      "secondarySectionRationale": {},
+      "url": "https://www.euronews.com/2026/09/17/minotaur-by-andrey-zvyagintsev-to-represent-france-at-oscars",
+      "publisher": "Euronews",
+      "headline": "France selects Russian-language film 'Minotaur' for Oscar glory",
+      "publishedAt": "2026-09-17T11:53:20+02:00",
+      "publication": {
+        "value": "2026-09-17T11:53:20+02:00",
+        "precision": "second",
+        "evidence": "Saved publisher-page publishedAt timestamp, including its explicit UTC offset.",
+        "timezone": "explicit-offset",
+        "cutoffAssessment": {
+          "status": "within-window",
+          "normalizedUtc": "2026-09-17T09:53:20.000000Z"
+        }
+      },
+      "sourceEvidencePath": "research/runs/2026-09-23T11-31-23-014Z-8d26ca21-0863-4450-82bc-1cdf26820144/focused/cultura-7.json",
+      "additionalEventEvidence": [],
+      "boundedKeyFactsQualifications": {
+        "facts": [
+          "France selected Andrey Zvyagintsev's Russian-language film Minotaur as its Oscar entry."
+        ],
+        "qualifications": ["Selection is not an Oscar nomination or win."]
+      },
+      "evidence": "The complete Euronews report was read (HTTP 200, complete:true, 19 reported paragraphs, 613 words, no warnings). The CNC's complete official release was read (HTTP 200, complete:true, 338 words, no warnings); it confirms the French selection, commission, Cannes result, French release date and distribution. The report states that this is France's entry, not an Academy nomination or award.",
+      "corroboratingSources": [],
+      "supplementalSourcesReviewed": [
+        {
+          "name": "Centre national du cinéma et de l’image animée (CNC)",
+          "url": "https://www.cnc.fr/professionnels/communiques-de-presse/minotaure--dandrei-zviaguintsev-representera-la-france-a-loscar-du-meilleur-film-international_2658516",
+          "matchingFacts": "Official CNC notice names the French selection and commission and gives the film's French release and distribution details.",
+          "readStatus": "Complete official source read; HTTP 200, 338 words, warnings: none."
+        }
+      ],
+      "corroborationNote": "The CNC is the official French cinema body and confirms the country's submission. A submission is not an Academy nomination or win.",
+      "extractionGates": {
+        "httpStatus": 200,
+        "complete": true,
+        "paragraphCount": 19,
+        "warnings": [],
+        "passed": true,
+        "bodyContaminationNote": "Manual section-qualification report reviewed the source body; captions, sidebar/recommendation and page-chrome material were excluded where present."
+      },
+      "selectionReason": "Selected for cultura as a distinct, recent story with a complete original-source extraction and a clear desk fit; shared events are represented by one stable identity.",
       "contentReview": {
         "bodyComplete": true,
         "aiSummaryReviewed": true
       }
     },
     {
-      "articleId": "cultura-2026-09-22-chico-science-megamural",
-      "url": "https://agenciabrasil.ebc.com.br/radioagencia-nacional/cultura/audio/2026-09/no-ano-em-que-faria-60-chico-science-ganha-megamural-no-recife",
-      "publishedAt": "2026-09-21T18:23:00-03:00",
-      "evidence": "Complete extraction at research/runs/2026-09-22T11-21-20-336Z-6df281a2-9343-4cb7-a1b3-001b9e9a3dde/extractions/cultura/f850c8b79770.json; HTTP 200, complete:true, 12 body paragraphs, 489 words and no warnings. The full source reports the September 22 tour, its free route and locations, the planned mural by Arem, the Fred Jordão photograph and the Recife Cidade da Música project.",
-      "selectionReason": "Current public-art and heritage story linking a major Brazilian musician’s legacy to Recife’s cultural memory, tourism and urban programming.",
+      "articleId": "iris-and-weeping-willow-unseen-monet-paintings-set-for-paris-sale",
+      "primarySection": "cultura",
+      "secondarySections": [],
+      "secondarySectionRationale": {},
+      "url": "https://www.euronews.com/2026/09/18/iris-and-weeping-willow-unseen-monet-paintings-go-on-sale-in-paris",
+      "publisher": "Euronews",
+      "headline": "'Iris' and 'Weeping Willow': Unseen Monet paintings set for Paris sale",
+      "publishedAt": "2026-09-18T12:21:41+02:00",
+      "publication": {
+        "value": "2026-09-18T12:21:41+02:00",
+        "precision": "second",
+        "evidence": "Saved publisher-page publishedAt timestamp, including its explicit UTC offset.",
+        "timezone": "explicit-offset",
+        "cutoffAssessment": {
+          "status": "within-window",
+          "normalizedUtc": "2026-09-18T10:21:41.000000Z"
+        }
+      },
+      "sourceEvidencePath": "research/runs/2026-09-23T11-31-23-014Z-8d26ca21-0863-4450-82bc-1cdf26820144/focused/cultura-8.json",
+      "additionalEventEvidence": [],
+      "boundedKeyFactsQualifications": {
+        "facts": [
+          "Two previously unseen Monet works, Iris and Weeping Willow, were scheduled for a Paris sale."
+        ],
+        "qualifications": [
+          "This is a planned auction, not a completed sale or confirmed price."
+        ]
+      },
+      "evidence": "The complete Euronews report was read (HTTP 200, complete:true, 15 reported paragraphs, 500 words, no warnings). Sotheby's full digital catalogue was read (HTTP 200, complete:true, 5 paragraphs, 342 words, no warnings); it confirms the 28-work collection, Iris estimate and sale context. Le Monde's full report text and its publication/update timestamps were retrieved and read; it independently covers the planned Paris auction and published estimates. The article consistently presents estimates as estimates and the October 22 auction as upcoming at the September 23 cutoff.",
+      "corroboratingSources": [
+        {
+          "url": "https://www.lemonde.fr/argent/article/2026/09/18/dans-les-ventes-aux-encheres-les-impressionnistes-en-vedette-a-paris_6776766_1657007.html",
+          "matchingFacts": "Le Monde independently reports the planned auction; exact URL slug not preserved in the summary.",
+          "readStatus": "Full article body read through web retrieval; published September 18 at 11:48 and modified that day at 19:48."
+        }
+      ],
+      "supplementalSourcesReviewed": [
+        {
+          "name": "Sotheby’s",
+          "url": "https://www.sothebys.com/en/digital-catalogues/le-temps-retrouve-the-schlumberger-collection",
+          "matchingFacts": "Official catalogue confirms works, collection estimate and Iris estimate; it does not report realized sale prices.",
+          "readStatus": "Complete catalogue body read; HTTP 200, complete:true, 342 words."
+        }
+      ],
+      "corroborationNote": "Euronews, Sotheby's catalogue and Le Monde support the planned auction. All quoted prices are estimates; no sale result or final price is implied.",
+      "extractionGates": {
+        "httpStatus": 200,
+        "complete": true,
+        "paragraphCount": 15,
+        "warnings": [],
+        "passed": true,
+        "bodyContaminationNote": "Manual section-qualification report reviewed the source body; captions, sidebar/recommendation and page-chrome material were excluded where present."
+      },
+      "selectionReason": "Selected for cultura as a distinct, recent story with a complete original-source extraction and a clear desk fit; shared events are represented by one stable identity.",
       "contentReview": {
         "bodyComplete": true,
         "aiSummaryReviewed": true
       }
     },
     {
-      "articleId": "cultura-2026-09-22-cate-blanchett-theatre",
-      "url": "https://www.bbc.com/news/articles/cmvgyzpy6g43o",
-      "publishedAt": "2026-09-21T14:03:20.131Z",
-      "evidence": "Complete extraction at research/runs/2026-09-22T11-21-20-336Z-6df281a2-9343-4cb7-a1b3-001b9e9a3dde/extractions/mundo/b19825bc4dd2.json; HTTP 200, complete:true, 14 body paragraphs, 483 words and no warnings. The full source reports Cate Blanchett’s request about filming, the interval context, the structure and dates of Electra/Persona and comparable theatre incidents involving other performers.",
-      "selectionReason": "Dated theatre report about audience practice and the protection of live performance, with the cultural angle primary and no political or sports focus.",
+      "articleId": "eurovision-2027-ireland-follows-netherlands-in-boycott-of-song-contest-for-second-year-in",
+      "primarySection": "cultura",
+      "secondarySections": [],
+      "secondarySectionRationale": {},
+      "url": "https://www.euronews.com/2026/09/18/eurovision-2027-ireland-follows-netherlands-in-boycott-of-song-contest-for-second-year-in-",
+      "publisher": "Euronews",
+      "headline": "Eurovision 2027: Ireland follows Netherlands in boycott of song contest for second year in a row",
+      "publishedAt": "2026-09-18T09:16:40+02:00",
+      "publication": {
+        "value": "2026-09-18T09:16:40+02:00",
+        "precision": "second",
+        "evidence": "Saved publisher-page publishedAt timestamp, including its explicit UTC offset.",
+        "timezone": "explicit-offset",
+        "cutoffAssessment": {
+          "status": "within-window",
+          "normalizedUtc": "2026-09-18T07:16:40.000000Z"
+        }
+      },
+      "sourceEvidencePath": "research/runs/2026-09-23T11-31-23-014Z-8d26ca21-0863-4450-82bc-1cdf26820144/focused/cultura-9.json",
+      "additionalEventEvidence": [],
+      "boundedKeyFactsQualifications": {
+        "facts": [
+          "RTÉ said Ireland would neither participate in nor broadcast Eurovision 2027."
+        ],
+        "qualifications": [
+          "This records the broadcaster's participation/broadcast decision, not a general national ban."
+        ]
+      },
+      "evidence": "The complete Euronews report was read (HTTP 200, complete:true, 14 reported paragraphs, 451 words, no warnings). RTÉ's full official statement was read (HTTP 200, complete:true, 92 words); it confirms that the broadcaster will neither participate in nor broadcast the 2027 contest and states its reasons. The article attributes the Gaza-related position to RTÉ and does not describe a government ban; the statement's official position is distinguished from independently adjudicated findings.",
+      "corroboratingSources": [
+        {
+          "url": "https://about.rte.ie/2026/09/17/rte-statement-2027-eurovision-song-contest/",
+          "matchingFacts": "RTÉ's own notice confirms the decision.",
+          "readStatus": "Complete official statement read; HTTP 200, complete:true, 92 words."
+        }
+      ],
+      "corroborationNote": "RTÉ's statement confirms the broadcaster's decision and its stated reasons; this is not a government prohibition or a finding about the broader conflict.",
+      "extractionGates": {
+        "httpStatus": 200,
+        "complete": true,
+        "paragraphCount": 14,
+        "warnings": [],
+        "passed": true,
+        "bodyContaminationNote": "Manual section-qualification report reviewed the source body; captions, sidebar/recommendation and page-chrome material were excluded where present."
+      },
+      "selectionReason": "Selected for cultura as a distinct, recent story with a complete original-source extraction and a clear desk fit; shared events are represented by one stable identity.",
       "contentReview": {
         "bodyComplete": true,
         "aiSummaryReviewed": true
       }
     },
     {
-      "articleId": "cultura-2026-09-22-salman-toor-courtauld",
-      "url": "https://www.theguardian.com/artanddesign/2026/sep/21/salman-toor-artist-interview-clubbing-queerness-new-york-muslim-moment",
-      "publishedAt": "2026-09-21T04:00:34.000Z",
-      "evidence": "Complete extraction at research/runs/2026-09-22T11-21-20-336Z-6df281a2-9343-4cb7-a1b3-001b9e9a3dde/extractions/cultura/b8123221cf12.json; HTTP 200, complete:true, 22 body paragraphs, 1,513 words and no warnings. The full source profiles Salman Toor’s paintings, biography and influences, prior museum exposure, the Courtauld Gallery exhibition Someone Like You and its October 2 to January 10 schedule.",
-      "selectionReason": "Substantive September 21 visual-arts profile with a clearly dated institutional exhibition and distinct representation, immigration and art-history themes.",
+      "articleId": "macbeth-desafia-a-maldicao-na-reabertura-do-d-maria-ii-em-lisboa",
+      "primarySection": "cultura",
+      "secondarySections": [],
+      "secondarySectionRationale": {},
+      "url": "https://pt.euronews.com/2026/09/18/macbeth-desafia-a-maldicao-na-reabertura-do-teatro-d-maria-ii-em-lisboa",
+      "publisher": "Euronews",
+      "headline": "“Macbeth” desafia a maldição na reabertura do D. Maria II em Lisboa",
+      "publishedAt": "2026-09-18T08:02:46+02:00",
+      "publication": {
+        "value": "2026-09-18T08:02:46+02:00",
+        "precision": "second",
+        "evidence": "Saved publisher-page publishedAt timestamp, including its explicit UTC offset.",
+        "timezone": "explicit-offset",
+        "cutoffAssessment": {
+          "status": "within-window",
+          "normalizedUtc": "2026-09-18T06:02:46.000000Z"
+        }
+      },
+      "sourceEvidencePath": "research/runs/2026-09-23T11-31-23-014Z-8d26ca21-0863-4450-82bc-1cdf26820144/focused/cultura-10.json",
+      "additionalEventEvidence": [],
+      "boundedKeyFactsQualifications": {
+        "facts": [
+          "Teatro D. Maria II in Lisbon reopened with Shakespeare's Macbeth."
+        ],
+        "qualifications": [
+          "Reopening/performance is a cultural event; do not infer attendance or critical reception."
+        ]
+      },
+      "evidence": "The complete Euronews report was read (HTTP 200, complete:true, 19 reported paragraphs, 925 words, no warnings). It supports the September 18 opening, the 1964 fire history, the director's stated use of stage fire, casting, translation context, renovation details and the announced run through October 31. The official Teatro Nacional D. Maria II Macbeth page confirms the first session on September 18 and lists the Sala Garrett schedule through October 31.",
+      "corroboratingSources": [
+        {
+          "url": "https://tndm.pt/macbeth",
+          "matchingFacts": "The theatre's official Macbeth page identifies it as the reopening production, confirms the first session on September 18, and lists the Sala Garrett run through October 31.",
+          "readStatus": "Official production page reviewed; it lists the September 18 opening session and the subsequent public schedule through October 31, corroborating venue, production and run dates."
+        }
+      ],
+      "corroborationNote": "The official Teatro Nacional D. Maria II production page confirms Macbeth as the reopening production, its September 18 first session, and the Sala Garrett schedule through October 31. Euronews supports the remaining production details; no attendance or critical reception is inferred.",
+      "extractionGates": {
+        "httpStatus": 200,
+        "complete": true,
+        "paragraphCount": 19,
+        "warnings": [],
+        "passed": true,
+        "bodyContaminationNote": "Manual section-qualification report reviewed the source body; captions, sidebar/recommendation and page-chrome material were excluded where present."
+      },
+      "selectionReason": "Selected for cultura as a distinct, recent story with a complete original-source extraction and a clear desk fit; shared events are represented by one stable identity.",
       "contentReview": {
         "bodyComplete": true,
         "aiSummaryReviewed": true
@@ -128,7 +553,5 @@
     "en": ""
   },
   "improvements": [],
-  "candidateRun": "research/runs/2026-09-22T11-21-20-336Z-6df281a2-9343-4cb7-a1b3-001b9e9a3dde",
-  "retrievedAt": "2026-09-22T11:21:43.133Z",
   "reviewStatus": "draft-source-verified-no-publication-approval"
 }

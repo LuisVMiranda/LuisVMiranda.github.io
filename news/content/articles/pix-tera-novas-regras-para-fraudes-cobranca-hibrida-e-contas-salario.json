@@ -1,0 +1,116 @@
+{
+  "id": "pix-tera-novas-regras-para-fraudes-cobranca-hibrida-e-contas-salario",
+  "slug": "pix-tera-novas-regras-para-fraudes-cobranca-hibrida-e-contas-salario",
+  "section": "economia",
+  "secondarySections": [],
+  "publishedAt": "2026-09-18T14:47:00-03:00",
+  "updatedAt": "2026-09-24T17:45:13.603Z",
+  "sources": [
+    {
+      "name": "Agência Brasil",
+      "url": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-09/pix-tera-novas-regras-para-fraudes-cobranca-hibrida-e-contas-salario"
+    },
+    {
+      "name": "Banco Central do Brasil",
+      "url": "https://www.bcb.gov.br/detalhenoticia/21262/nota"
+    }
+  ],
+  "rights": {
+    "mode": "original-report"
+  },
+  "translations": {
+    "pt-BR": {
+      "title": "Banco Central atualiza regras do Pix para cobrança híbrida e participantes",
+      "summary": "A regulamentação trata de boleto com QR Code Pix, elegibilidade de instituições, suspensões e procedimentos de revisão de marcações.",
+      "aiSummary": [
+        "A cobrança híbrida combina o código de barras do boleto e o QR Code do Pix Cobrança, conforme regras do Banco Central.",
+        "A funcionalidade é facultativa e não vale para todos os tipos de boleto.",
+        "As normas atualizam procedimentos de suspensão, saída ordenada e revisão de marcações de usuários."
+      ],
+      "paragraphs": [
+        "O Banco Central atualizou o regulamento do Pix com regras para cobrança híbrida e procedimentos aplicáveis às instituições participantes. O texto oficial reúne condições para pagamentos por boleto e Pix, além de ajustes nas regras de entrada, suspensão e saída do sistema.",
+        "A cobrança híbrida permite apresentar, no mesmo documento, o código de barras do boleto e o QR Code do Pix Cobrança. O Banco Central limita a modalidade a cobranças Pix com vencimento e a boletos comuns ou dinâmicos sem vinculação a ativos financeiros.",
+        "Boletos de proposta, depósito e aporte não podem usar a funcionalidade. A oferta é facultativa aos participantes; quando o boleto for pago, a cobrança Pix correspondente deve ser cancelada, e as instituições devem rejeitar transações incompatíveis com essas condições.",
+        "Para instituições em liquidação extrajudicial, o regulamento prevê suspensão imediata. O liquidante pode solicitar ao Banco Central, em até 30 dias, um processo de saída ordenada; o órgão diz que os procedimentos buscam facilitar a retirada de recursos pelos clientes.",
+        "As regras sobre marcações também preveem aviso ao usuário, canais para esclarecimentos e pedido de revisão, resposta em até sete dias e cancelamento da marcação se a análise não encontrar elementos que a justifiquem. Os prazos e as condições são os descritos pelo Banco Central em sua atualização regulatória."
+      ]
+    },
+    "en": {
+      "title": "Brazil's central bank updates Pix rules for hybrid bills and participants",
+      "summary": "The regulation covers bills with Pix QR codes, institution eligibility, suspensions and procedures for reviewing user flags.",
+      "aiSummary": [
+        "Hybrid billing combines a boleto barcode with a Pix Cobrança QR code under rules set by the central bank.",
+        "The feature is optional for participants and does not apply to every type of boleto.",
+        "The rules update procedures for suspension, orderly exit and review of user flags."
+      ],
+      "paragraphs": [
+        "Brazil's central bank updated Pix regulations with rules for hybrid billing and procedures for participating institutions. The official text sets conditions for boleto and Pix payments and adjusts rules for institutions entering, being suspended from or leaving the system.",
+        "Hybrid billing allows a document to show both a boleto barcode and a Pix Cobrança QR code. The central bank limits the feature to Pix Cobrança with a due date and to ordinary or dynamic boletos that are not linked to financial assets.",
+        "Proposal, deposit and contribution boletos are ineligible. Offering the feature is optional for participants; once a boleto is paid, the associated Pix charge must be canceled, and institutions must reject transactions that do not meet the stated conditions.",
+        "Institutions under extrajudicial liquidation are subject to immediate suspension. A liquidator may ask the central bank, within 30 days, to begin an orderly-exit process; the regulator says the procedures are intended to make it easier for customers to withdraw funds.",
+        "Rules on user flags also require notice, channels for clarification and review requests, a response within seven days, and cancellation of a flag if review finds no grounds to maintain it. The deadlines and conditions here are those described by the central bank in its regulatory update."
+      ]
+    }
+  },
+  "verification": {
+    "score": 9,
+    "checkedAt": "2026-09-24T14:21:39Z",
+    "checks": [
+      {
+        "provider": "Aos Fatos",
+        "url": "https://aosfatos.org/",
+        "finding": "no-match",
+        "note": "Direct Portuguese search found no fact-check of the specific 2026 hybrid-billing, institution-exit and user-flag review rules; neutral."
+      },
+      {
+        "provider": "Agência Lupa",
+        "url": "https://www.agencialupa.org/",
+        "finding": "no-match",
+        "note": "Direct search found no check of the September 2026 BCB regulatory changes; unrelated economic coverage excluded."
+      },
+      {
+        "provider": "Projeto Comprova",
+        "url": "https://projetocomprova.com.br/publica%C3%A7%C3%B5es/novo-mecanismo-do-pix-reforca-combate-a-golpes-e-nao-afeta-sigilo-ou-rotina-dos-usuarios/",
+        "finding": "context",
+        "note": "The opened Comprova item addresses a separate Pix fraud-recovery/MED mechanism and privacy rumor, not the 2026 boleto, liquidation or seven-day review provisions."
+      },
+      {
+        "provider": "Reuters Fact Check",
+        "url": "https://www.reuters.com/fact-check/portugues/S5HKZHOOSBICVINJ6OZGI22E5Q-2025-10-23",
+        "finding": "inconclusive",
+        "note": "Site search surfaced an older Pix-tax rumor check, not this 2026 regulation; its page was not retrievable here, so it is not treated as a verdict on the audited rules."
+      },
+      {
+        "provider": "AFP Fact Check",
+        "url": "https://factcheck.afp.com/",
+        "finding": "no-match",
+        "note": "Direct Portuguese/English searches found no fact-check of these specific regulatory provisions."
+      },
+      {
+        "provider": "Full Fact",
+        "url": "https://fullfact.org/",
+        "finding": "no-match",
+        "note": "Direct search found no matching check of the Brazilian Central Bank's 2026 Pix rules."
+      },
+      {
+        "provider": "Google Fact Check Tools",
+        "url": "https://toolbox.google.com/factcheck/explorer",
+        "finding": "no-match",
+        "note": "Portuguese Explorer query for hybrid Pix billing, liquidation and seven-day review returned no matching claim record; neutral."
+      },
+      {
+        "provider": "Agência Brasil",
+        "url": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-09/pix-tera-novas-regras-para-fraudes-cobranca-hibrida-e-contas-salario",
+        "finding": "supports",
+        "note": "Saved complete report describes the regulator's hybrid billing and participant-rule update; the audited copy narrows the account to provisions corroborated by the BCB source."
+      },
+      {
+        "provider": "Banco Central do Brasil",
+        "url": "https://www.bcb.gov.br/detalhenoticia/21262/nota",
+        "finding": "supports",
+        "note": "Official BCB update confirms eligibility/optional hybrid billing, immediate suspension for institutions in extrajudicial liquidation, orderly-exit process and the seven-day user-marking review response."
+      }
+    ],
+    "caveat": "The 2025 Pix-tax and MED fact-checks are separate issues, not a verdict on this rule update. The article reports regulations rather than outcomes and does not imply every provision took effect immediately."
+  }
+}

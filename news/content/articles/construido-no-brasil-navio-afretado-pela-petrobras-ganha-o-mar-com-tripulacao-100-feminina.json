@@ -1,0 +1,117 @@
+{
+  "id": "construido-no-brasil-navio-afretado-pela-petrobras-ganha-o-mar-com-tripulacao-100-feminina",
+  "slug": "construido-no-brasil-navio-afretado-pela-petrobras-ganha-o-mar-com-tripulacao-100-feminina",
+  "section": "economia",
+  "secondarySections": [],
+  "publishedAt": "2026-09-18T00:00:00Z",
+  "publishedDate": "2026-09-18",
+  "updatedAt": "2026-09-24T17:45:13.603Z",
+  "sources": [
+    {
+      "name": "Agência Gov, via Petrobras",
+      "url": "https://agenciagov.ebc.com.br/noticias/202609/primeiro-navio-afretado-pela-petrobras-entregue-no-programa-mar-aberto-e-batizado-no-rio-de-janeiro"
+    },
+    {
+      "name": "Agência iNFRA",
+      "url": "https://agenciainfra.com/blog/petrobras-recebe-primeiro-navio-afretado-pelo-programa-mar-aberto/"
+    }
+  ],
+  "rights": {
+    "mode": "original-report"
+  },
+  "translations": {
+    "pt-BR": {
+      "title": "Navio Starnav Elektra, construído no Brasil, estreia com tripulação feminina",
+      "summary": "A embarcação de apoio marítimo é a primeira entrega do programa Mar Aberto e foi batizada no Rio em 17 de setembro.",
+      "aiSummary": [
+        "Construído em Itajaí, o PSV Starnav Elektra recebeu investimento de cerca de R$ 450 milhões.",
+        "A tripulação de 16 mulheres navegou de Santa Catarina ao Rio de Janeiro sob comando de Isabela Teixeira Ponce de Leon.",
+        "A Petrobras informou que o barco é a primeira entrega do programa Mar Aberto."
+      ],
+      "paragraphs": [
+        "O Starnav Elektra, navio de apoio a plataformas do tipo PSV, foi batizado no Rio de Janeiro em 17 de setembro. Construído pelo Estaleiro Detroit, em Itajaí, Santa Catarina, recebeu investimento aproximado de R$ 450 milhões e foi apresentado como a primeira entrega do programa Mar Aberto, da Petrobras.",
+        "A cerimônia ocorreu no Píer Mauá. Depois do deslocamento entre Santa Catarina e o Rio, a embarcação seguiria para apoiar operações em plataformas das bacias petrolíferas brasileiras; a notícia de 18 de setembro descreveu a entrega e o batismo, não o início de um contrato de operação já concluído.",
+        "A tripulação que fez a viagem era formada por 16 mulheres, sob comando de Isabela Teixeira Ponce de Leon. A Petrobras afirmou que a embarcação integra seu plano de renovação e ampliação da frota de apoio marítimo.",
+        "A presidente da estatal disse que 48 barcos estavam contratados até o fim de 2026 e que a companhia pretendia chegar a 96 embarcações no ano seguinte, incluindo barcaças e empurradores. Esses números são metas e informações corporativas atribuídas à executiva, não entregas já realizadas.",
+        "A companhia informou que os novos PSV incorporam bancos de baterias e monitoramento de consumo por telemetria, além de preverem futura operação parcial com combustível renovável. A Petrobras também atribuiu às tecnologias de pintura e aos sistemas antincrustantes a possibilidade de reduzir consumo de combustível e emissões."
+      ]
+    },
+    "en": {
+      "title": "Brazil-built Starnav Elektra sails with an all-women crew",
+      "summary": "The offshore support vessel is the first delivery under Petrobras's Mar Aberto program and was christened in Rio on September 17.",
+      "aiSummary": [
+        "Built in Itajaí, the Starnav Elektra PSV received an investment of about R$450 million.",
+        "Its 16-woman crew sailed from Santa Catarina to Rio under commander Isabela Teixeira Ponce de Leon.",
+        "Petrobras said the vessel is the first delivery under its Mar Aberto program."
+      ],
+      "paragraphs": [
+        "The Starnav Elektra, a platform supply vessel, was christened in Rio de Janeiro on September 17. Built by Estaleiro Detroit in Itajaí, Santa Catarina, it received an investment of about R$450 million and was presented as the first delivery under Petrobras's Mar Aberto program.",
+        "The ceremony took place at Píer Mauá. After sailing from Santa Catarina to Rio, the vessel was due to support operations at platforms in Brazilian oil basins; the September 18 report described its delivery and christening, not the start of a completed operating contract.",
+        "The crew on that voyage consisted of 16 women, led by commander Isabela Teixeira Ponce de Leon. Petrobras said the vessel is part of its plan to renew and expand its offshore support fleet.",
+        "The company's president said 48 boats had been contracted by the end of 2026 and that Petrobras aimed to reach 96 vessels the following year, including barges and pushboats. Those are company targets and statements attributed to the executive, not deliveries already completed.",
+        "Petrobras said the new PSVs include battery banks and telemetry-based consumption monitoring, with the possibility of partial operation on renewable fuel in the future. The company also said newer coating technology and anti-fouling systems could reduce fuel use and emissions."
+      ]
+    }
+  },
+  "verification": {
+    "score": 8.9,
+    "checkedAt": "2026-09-24T14:21:39Z",
+    "checks": [
+      {
+        "provider": "Aos Fatos",
+        "url": "https://aosfatos.org/",
+        "finding": "no-match",
+        "note": "Direct Portuguese search found no fact-check of the Starnav Elektra delivery or all-women crew."
+      },
+      {
+        "provider": "Agência Lupa",
+        "url": "https://www.agencialupa.org/",
+        "finding": "no-match",
+        "note": "Direct search found no check of the vessel, crew count or Mar Aberto delivery; unrelated Petrobras environmental/risk stories excluded."
+      },
+      {
+        "provider": "Projeto Comprova",
+        "url": "https://projetocomprova.com.br/",
+        "finding": "no-match",
+        "note": "Direct Portuguese search found no fact-check of the Starnav Elektra event; unrelated Petrobras explainers are not verdicts."
+      },
+      {
+        "provider": "Reuters Fact Check",
+        "url": "https://www.reuters.com/fact-check/",
+        "finding": "no-match",
+        "note": "Direct search found no fact-check of the vessel delivery or crew composition."
+      },
+      {
+        "provider": "AFP Fact Check",
+        "url": "https://factcheck.afp.com/",
+        "finding": "no-match",
+        "note": "Direct search found no check of the Starnav Elektra or reported crew."
+      },
+      {
+        "provider": "Full Fact",
+        "url": "https://fullfact.org/",
+        "finding": "no-match",
+        "note": "Direct English search found no fact-check of this Brazil-specific vessel delivery."
+      },
+      {
+        "provider": "Google Fact Check Tools",
+        "url": "https://toolbox.google.com/factcheck/explorer",
+        "finding": "no-match",
+        "note": "Portuguese Explorer query for Starnav Elektra and the 16-woman crew returned no matching claim record; neutral."
+      },
+      {
+        "provider": "Agência Gov / Petrobras",
+        "url": "https://agenciagov.ebc.com.br/noticias/202609/primeiro-navio-afretado-pela-petrobras-entregue-no-programa-mar-aberto-e-batizado-no-rio-de-janeiro",
+        "finding": "supports",
+        "note": "Official release confirms September 17 christening, first Mar Aberto delivery, approximate R$450m cost and 16-woman crew; corporate fleet/environment claims remain attributed."
+      },
+      {
+        "provider": "Agência iNFRA",
+        "url": "https://agenciainfra.com/blog/petrobras-recebe-primeiro-navio-afretado-pelo-programa-mar-aberto/",
+        "finding": "supports",
+        "note": "Independent trade-press report matches the first delivery, vessel, approximate cost and 16-woman crew; it does not independently measure Petrobras's fleet or environmental-performance claims."
+      }
+    ],
+    "caveat": "The event occurred September 17 and the source was published September 18; the article distinguishes those dates. Petrobras fleet targets and efficiency/emissions claims remain attributed company statements."
+  }
+}

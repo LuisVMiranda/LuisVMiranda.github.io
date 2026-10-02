@@ -1,0 +1,107 @@
+{
+  "id": "lula-recorre-a-artistas-e-empresarios-na-tentativa-de-conquistar-votos-na-reta-final-do-1o",
+  "slug": "lula-recorre-a-artistas-e-empresarios-na-tentativa-de-conquistar-votos-na-reta-final-do-1o",
+  "section": "politica",
+  "secondarySections": [],
+  "publishedAt": "2026-09-23T00:00:00.432-03:00",
+  "publishedDate": "2026-09-23",
+  "updatedAt": "2026-09-24T17:45:13.603Z",
+  "sources": [
+    {
+      "name": "G1",
+      "url": "https://g1.globo.com/politica/eleicoes/2026/noticia/2026/09/23/lula-recorre-a-artistas-e-empresarios-na-tentativa-de-conquistar-votos-na-reta-final-do-1o-turno.ghtml"
+    },
+    {
+      "name": "Rádio Itatiaia",
+      "url": "https://www.itatiaia.com.br/politica/eleicoes/agenda-dos-candidatos/lula-apresenta-propostas-para-a-cultura-em-ato-com-artistas-no-rio-nesta-quarta-feira-23/"
+    }
+  ],
+  "rights": {
+    "mode": "original-report"
+  },
+  "translations": {
+    "pt-BR": {
+      "title": "Lula agenda atos com artistas e empresários antes do primeiro turno",
+      "summary": "O presidente tinha um evento cultural previsto no Rio em 23 de setembro e uma reunião com empresários em São Paulo dois dias depois.",
+      "aiSummary": [
+        "Um ato de campanha com artistas estava previsto para 23 de setembro, na Lapa, no Rio.",
+        "A campanha esperava mais de 200 empresários e banqueiros em reunião marcada para 25 de setembro.",
+        "A expectativa de atrair indecisos foi atribuída à campanha, sem resultado medido."
+      ],
+      "paragraphs": [
+        "O presidente Luiz Inácio Lula da Silva tinha duas agendas de campanha previstas para a semana de 23 de setembro, a poucos dias do primeiro turno, marcado para 4 de outubro. A primeira estava programada para esta quarta-feira, na Fundição Progresso, na Lapa, região central do Rio de Janeiro.",
+        "A coordenação da campanha esperava a presença de ao menos 80 personalidades da cultura e de lideranças políticas no ato. A Rádio Itatiaia informou que os portões seriam abertos às 16h e a atividade começaria às 19h, com apresentação e conversa sobre as propostas da candidatura para o setor cultural.",
+        "Na sexta-feira, 25 de setembro, Lula deveria participar em São Paulo de uma reunião com mais de 200 empresários e banqueiros. O vice-presidente Geraldo Alckmin e outras autoridades do governo também eram esperados, segundo o G1.",
+        "A organização do encontro paulista foi atribuída ao ministro do Desenvolvimento, Indústria, Comércio e Serviços, Marcio Elias Rosa, ao advogado Marco Aurélio Carvalho e à entidade empresarial Esfera Brasil. Parte dos convidados, de acordo com a reportagem, já havia participado de um jantar com o presidente no início do mês.",
+        "A equipe de Lula avaliava que os dois compromissos poderiam ampliar a presença da campanha junto à sociedade civil e alcançar eleitores ainda indecisos. Essa era uma expectativa atribuída aos integrantes da campanha, não um efeito eleitoral comprovado.",
+        "A agenda ocorreu após a viagem do presidente a Nova York para a Assembleia Geral da ONU. No discurso de 22 de setembro, Lula também prometeu defender remuneração justa para artistas e criadores audiovisuais; a campanha pretendia retomar o tema no encontro cultural do Rio."
+      ]
+    },
+    "en": {
+      "title": "Lula schedules events with artists and business leaders before first-round vote",
+      "summary": "The president had a cultural event planned in Rio on September 23 and a meeting with business leaders in São Paulo two days later.",
+      "aiSummary": [
+        "A campaign event with artists was scheduled for September 23 in Rio’s Lapa district.",
+        "The campaign expected more than 200 business owners and bankers at a September 25 meeting.",
+        "The campaign’s hope of reaching undecided voters was an attributed expectation, not a measured result."
+      ],
+      "paragraphs": [
+        "President Luiz Inácio Lula da Silva had two campaign events scheduled for the week of September 23, days before the first round set for October 4. The first was planned for Wednesday at Fundição Progresso in Lapa, a central district of Rio de Janeiro.",
+        "The campaign team expected at least 80 cultural figures and political leaders at the event. Rádio Itatiaia reported that doors were due to open at 4 p.m. and the program to begin at 7 p.m., with Lula presenting and discussing his campaign’s proposals for the cultural sector.",
+        "On Friday, September 25, Lula was expected to attend a meeting in São Paulo with more than 200 business owners and bankers. Vice President Geraldo Alckmin and other government officials were also expected, G1 reported.",
+        "The São Paulo meeting was organized by Development, Industry, Trade and Services Minister Marcio Elias Rosa, lawyer Marco Aurélio Carvalho and business group Esfera Brasil, according to the report. Some invitees had attended a dinner with the president earlier in the month.",
+        "Lula’s team viewed the two commitments as possible ways to broaden the campaign’s engagement with civil society and reach undecided voters. That was an expectation attributed to campaign members, not a demonstrated electoral effect.",
+        "The schedule followed the president’s trip to New York for the UN General Assembly. In his September 22 speech, Lula also pledged to support fair remuneration for artists and audiovisual creators; the campaign planned to return to the subject at the Rio cultural event."
+      ]
+    }
+  },
+  "verification": {
+    "score": 8.6,
+    "checkedAt": "2026-09-24T14:42:39Z",
+    "checks": [
+      {
+        "provider": "G1",
+        "url": "https://g1.globo.com/politica/eleicoes/2026/noticia/2026/09/23/lula-recorre-a-artistas-e-empresarios-na-tentativa-de-conquistar-votos-na-reta-final-do-1o-turno.ghtml",
+        "finding": "supports",
+        "note": "Saved full report supports the expected Rio event and September 25 São Paulo meeting; campaign's hoped-for effect on undecided voters is properly attributed, not stated as a measured result."
+      },
+      {
+        "provider": "Rádio Itatiaia",
+        "url": "https://www.itatiaia.com.br/politica/eleicoes/agenda-dos-candidatos/lula-apresenta-propostas-para-a-cultura-em-ato-com-artistas-no-rio-nesta-quarta-feira-23/",
+        "finding": "supports",
+        "note": "Opened independent agenda report confirms 23 September at Fundição Progresso, 80 cultural figures expected, doors at 16:00 and program at 19:00; it does not corroborate the separate São Paulo meeting."
+      },
+      {
+        "provider": "Aos Fatos",
+        "url": "https://www.aosfatos.org/",
+        "finding": "no-match",
+        "note": "Search surfaced a separate false claim about artists supporting Lula's son, not this scheduled campaign event; no direct fact-check match."
+      },
+      {
+        "provider": "Agência Lupa",
+        "url": "https://www.agencialupa.org/",
+        "finding": "no-match",
+        "note": "No fact-check of this event or schedule found; neutral."
+      },
+      {
+        "provider": "Projeto Comprova",
+        "url": "https://projetocomprova.com.br/",
+        "finding": "no-match",
+        "note": "No matching fact-check of the scheduled agenda found; neutral."
+      },
+      {
+        "provider": "AFP Fact Check",
+        "url": "https://factcheck.afp.com/",
+        "finding": "no-match",
+        "note": "No matching international fact-check found; neutral."
+      },
+      {
+        "provider": "Reuters Fact Check",
+        "url": "https://www.reuters.com/fact-check/",
+        "finding": "no-match",
+        "note": "No matching fact-check found; neutral."
+      }
+    ],
+    "caveat": "At the frozen cutoff (2026-09-23 11:31:23Z), the Rio event and São Paulo meeting were future plans. The copy consistently says scheduled/expected; Itatiaia corroborates the Rio agenda, while the later São Paulo meeting rests on G1's attributed reporting."
+  }
+}

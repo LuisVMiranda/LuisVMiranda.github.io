@@ -1,6 +1,12 @@
 {
   "section": "economia",
-  "cutoff": "2026-09-22T11:21:20.336Z",
+  "edition": "2026-09-23",
+  "cutoff": "2026-09-23T11:31:23.014Z",
+  "windowStart": "2026-09-16T11:31:23.014Z",
+  "windowDefinition": "inclusive lower bound through immutable cutoff; UTC",
+  "candidateRun": "research/runs/2026-09-23T11-31-23-014Z-8d26ca21-0863-4450-82bc-1cdf26820144",
+  "selectionSourcePath": "research/runs/2026-09-23T11-31-23-014Z-8d26ca21-0863-4450-82bc-1cdf26820144/selection.json",
+  "retrievedAt": "2026-09-23T11:31:29.821Z",
   "queries": [
     "Economia notícias Brasil",
     "Economy latest news Brazil",
@@ -11,114 +17,560 @@
   ],
   "verified": [
     {
-      "articleId": "economia-2026-09-22-bolsas-asia-petroleo",
-      "url": "https://www.cnnbrasil.com.br/economia/money/mercado/bolsas-da-asia-fecham-perto-da-estabilidade-com-recuperacao-do-petroleo/",
-      "publishedAt": "2026-09-22T07:32:43-03:00",
-      "evidence": "Complete extraction research/runs/2026-09-22T11-21-20-336Z-6df281a2-9343-4cb7-a1b3-001b9e9a3dde/extractions/economia/1bb40c9e6108.json, HTTP 200, complete=true, warnings=[], 11 extracted paragraphs. It records the Kospi, Hang Seng, Taiex, Shanghai, Shenzhen and Australian index moves, Japan's holiday closure, the Brent recovery and the Tencent and Alibaba sessions.",
-      "selectionReason": "Current September 22 regional-markets result report with distinct Asian index data and a clearly time-bounded oil-market context; it is reported development rather than forecast or opinion.",
+      "articleId": "ibovespa-fecha-em-alta-e-dolar-fica-estavel-com-ata-do-copom-e-cenario-eleitoral",
+      "sourceEvidencePath": "research/runs/2026-09-23T11-31-23-014Z-8d26ca21-0863-4450-82bc-1cdf26820144/extractions/economia/5840ee9d1dd1.json",
+      "publisher": "Forbes Brasil",
+      "url": "https://forbes.com.br/geral/2026/09/ibovespa-fecha-em-alta-e-dolar-fica-estavel-com-ata-do-copom-e-cenario-eleitoral/",
+      "headline": "Ibovespa Fecha em Alta e Dólar Fica Estável com Ata do Copom e Cenário Eleitoral",
+      "publishedAt": "2026-09-22T17:42:56-03:00",
+      "publication": {
+        "value": "2026-09-22T17:42:56-03:00",
+        "precision": "second",
+        "evidence": "Saved extraction publishedAt field from the original publisher page.",
+        "timezone": "explicit-offset",
+        "cutoffAssessment": {
+          "status": "within-window",
+          "normalizedUtc": "2026-09-22T20:42:56.000000Z"
+        }
+      },
+      "retrievalEvidence": {
+        "retrievedAt": "2026-09-23T11:33:03.379Z",
+        "httpStatus": 200,
+        "complete": true,
+        "paragraphCount": 34,
+        "wordCount": 1373,
+        "warnings": []
+      },
+      "evidence": "Full article read. Forbes reported the Ibovespa close at +0.44%, 187,422.92 points, a 184,976.81–187,671.74 session range and R$30.23bn in turnover; spot dollar closed at R$5.1040, down 0.08%. Petrobras shares rose as Brent fell 1.09% to US$99.25. BTG Pactual's Jerson Zanlorenzi described trading as nearly sideways; Nomad's Rebecca Nossig attributed dollar easing to lower external risk aversion. Those are attributed explanations, not established causal effects. Exame independently matches the index close/range but reports a slightly different dollar move and quote.",
+      "boundedKeyFactsQualifications": {
+        "facts": [
+          "Ibovespa closed up 0.44% at 187,422.92; Forbes reported the dollar near R$5.10 and little changed."
+        ],
+        "qualifications": [
+          "Exame matches the close and range but its dollar quote differs slightly; treat market explanations as attributed framing, not proven causation."
+        ]
+      },
+      "selectionReason": "Selected for the desk's time-stamped domestic market coverage: the report gives the index close, intraday range, spot-dollar quote and related asset moves, with an independent close check. The small USD-quote discrepancy is kept explicit and all market explanations remain attributed.",
+      "corroboratingSources": [
+        {
+          "url": "https://exame.com/invest/mercados/ibovespa-ibov-fechamento-22-09-2026/",
+          "matchingFacts": "Exame matches the +0.44% close at 187,422.92 and session range; its USD quote is slightly different."
+        }
+      ],
+      "corroborationNote": "Independent matching evidence supports the index close/range only; the two dollar quotes are not identical.",
+      "extractionGates": {
+        "passed": true,
+        "bodyContaminationNote": "Selection qualification reviewed the full source body and excluded captions, sidebars, recommendations and page chrome."
+      },
       "contentReview": {
         "bodyComplete": true,
         "aiSummaryReviewed": true
-      }
+      },
+      "reviewFlags": [
+        "Market close and exchange-rate figures are anchored to September 22, 2026; the small dollar-source discrepancy and attributed explanations remain explicit; no investment advice."
+      ]
     },
     {
-      "articleId": "economia-2026-09-22-simples-nacional-prazo",
-      "url": "https://www.correiobraziliense.com.br/economia/2026/09/7505468-simples-nacional-empresas-tem-8-dias-para-escolher-regime-tributario.html",
-      "publishedAt": "2026-09-22T00:37:00+00:00",
-      "evidence": "Complete extraction research/runs/2026-09-22T11-21-20-336Z-6df281a2-9343-4cb7-a1b3-001b9e9a3dde/extractions/economia/3904306348ff.json, HTTP 200, complete=true, warnings=[], 19 extracted paragraphs. It states the September 30, 2026 deadline for Simples Nacional companies, the unified-DAS and hybrid options for IBS and CBS, the March 2027 change window, the current MEI exclusion and the planning factors described by the source.",
-      "selectionReason": "Current deadline-driven business development with direct relevance to micro and small companies; selected as reported service journalism and not as a tax prediction or opinion column.",
+      "articleId": "custo-de-passagens-aereas-sobe-10-4-em-agosto-cnn-brasil",
+      "publisher": "CNN Brasil",
+      "publishedAt": "2026-09-22T12:48:55-03:00",
+      "sourceEvidencePath": "research/runs/2026-09-23T11-31-23-014Z-8d26ca21-0863-4450-82bc-1cdf26820144/focused/economia-13.json",
+      "evidence": "The official 202607.CSV and 202608.CSV rows contain nr_tarifa and nr_assentos. Across 2,649,922 July seats and 2,637,211 August seats, the nominal, unadjusted seat-weighted means are R$703.5249415 and R$776.8684279 per segment, a 10.4251% increase. These raw DataSAS amounts are not the separate ANAC dashboard's IPCA-adjusted series. The files yield 45.3981% and 34.6970% of seats below R$500, and 9.1511% above R$1,500 in August. CNN's July mean differs by about R$0.05 and its August under-R$500 share by 0.1 percentage point. The ANP preliminary national volume-weighted distribution-price workbook gives QAV at R$5.7484/l in July and R$5.9501/l in August, including taxes and freight; CNN published R$4.89/l in July and R$4.98/l in August, and the ANAC dashboard also shows R$4.98/l for August. QAV scopes are not reconciled.",
+      "selectionReason": "The official July/August DataSAS records are recalculated by associated seat count as nominal amounts, while the 14.5% annual comparison uses ANAC's IPCA-adjusted dashboard series; CNN's fare differences and the distinct ANP/ANAC QAV indicators remain explicit.",
+      "corroboratingSources": [
+        {
+          "url": "https://sas.anac.gov.br/sas/downloads/view/frmDownload.aspx?tema=14",
+          "matchingFacts": "Official DataSAS July/August CSVs expose fare and associated seat count for a nominal seat-weighted recomputation; the dashboard's IPCA-adjusted series is separate."
+        },
+        {
+          "url": "https://exame.com/economia/passagens-aereas-ficam-145-mais-caras-em-um-ano-veja-valores/",
+          "matchingFacts": "Independent secondary report matches the August year-on-year fare comparison; it is not used to resolve the raw-file rounding differences."
+        },
+        {
+          "url": "https://anac-geac.link/BI-tarifas",
+          "matchingFacts": "Official ANAC dashboard presents average-fare values adjusted by IPCA and expressed in August 2025 prices; its QAV indicator is a separate series."
+        },
+        {
+          "url": "https://www.gov.br/anp/pt-br/assuntos/precos-e-defesa-da-concorrencia/precos/pdc/mensal/combustiveis-aviacao-brasil.xlsx",
+          "matchingFacts": "Official preliminary national monthly QAV distribution series, volume-weighted and including taxes/freight; July R$5.7484/l, August R$5.9501/l."
+        }
+      ],
+      "extractionGates": {
+        "passed": true,
+        "bodyContaminationNote": "Manual section-qualification report reviewed the source body; captions, sidebar/recommendation and page-chrome material were excluded where present."
+      },
       "contentReview": {
         "bodyComplete": true,
         "aiSummaryReviewed": true
-      }
+      },
+      "reviewFlags": [
+        "The seat-weighted DataSAS means are nominal (R$703.52 in July and R$776.87 in August); the 14.5% annual comparison is from ANAC's IPCA-adjusted dashboard series. CNN's July mean (R$703.47) differs by about R$0.05, and its August under-R$500 share by 0.1 percentage point (CNN 34.8%, file 34.7%). The retained CSV calculation was retrieved after cutoff; ANAC's DataSAS page lists 202607.CSV at 20/08/2026 10:11:07 and 202608.CSV at 22/09/2026 10:15:49 (displayed times; timezone not identified), but no immutable cutoff-time file hash was preserved. The archive batch timed out, so no exact pre-cutoff article-body snapshot was established.",
+        "ANP's July QAV distribution measure is verified at R$5.75/l, but it does not match the R$4.89 figure reported by CNN for a distinct ANAC-panel indicator. ANAC's August dashboard indicator is R$4.98/l while ANP's distribution series is R$5.95/l; definitions are not harmonized, so no single QAV price is asserted.",
+        "ANP's workbook labels the monthly values preliminary and subject to reprocessing."
+      ],
+      "url": "https://www.cnnbrasil.com.br/infra/custo-de-passagens-aereas-sobe-104-em-agosto/",
+      "headline": "Passagem aérea média sobe 10,4% em agosto, aponta Anac",
+      "publication": {
+        "value": "2026-09-22T12:48:55-03:00",
+        "precision": "second",
+        "evidence": "Saved extraction `publishedAt` field from the original publisher page.",
+        "timezone": "explicit-offset",
+        "cutoffAssessment": {
+          "status": "within-window",
+          "normalizedUtc": "2026-09-22T15:48:55.000000Z"
+        }
+      },
+      "retrievalEvidence": {
+        "evidencePath": "research/runs/2026-09-23T11-31-23-014Z-8d26ca21-0863-4450-82bc-1cdf26820144/focused/economia-13.json",
+        "retrievedAt": "2026-09-23T14:17:30.936Z",
+        "httpStatus": 200,
+        "complete": true,
+        "paragraphCount": 6,
+        "warnings": [],
+        "retrievedAfterImmutableCutoff": true,
+        "cutoffBodyVersionLimitation": "This post-cutoff capture verifies the saved body only; it does not prove the exact body wording/version existed at the cutoff."
+      },
+      "boundedKeyFactsQualifications": {
+        "facts": [
+          "The DataSAS seat-weighted averages are nominal; ANAC's separate IPCA-adjusted dashboard series supports the 14.5% annual comparison, while CNN differences and distinct QAV measures remain explicit."
+        ],
+        "qualifications": [
+          "The seat-weighted DataSAS means are nominal (R$703.52 in July and R$776.87 in August); the 14.5% annual comparison is from ANAC's IPCA-adjusted dashboard series. CNN's July mean (R$703.47) differs by about R$0.05, and its August under-R$500 share by 0.1 percentage point (CNN 34.8%, file 34.7%). The retained CSV calculation was retrieved after cutoff; ANAC's DataSAS page lists 202607.CSV at 20/08/2026 10:11:07 and 202608.CSV at 22/09/2026 10:15:49 (displayed times; timezone not identified), but no immutable cutoff-time file hash was preserved. The archive batch timed out, so no exact pre-cutoff article-body snapshot was established.",
+          "ANP's July QAV distribution measure is verified at R$5.75/l, but it does not match the R$4.89 figure reported by CNN for a distinct ANAC-panel indicator. ANAC's August dashboard indicator is R$4.98/l while ANP's distribution series is R$5.95/l; definitions are not harmonized, so no single QAV price is asserted.",
+          "ANP's workbook labels the monthly values preliminary and subject to reprocessing."
+        ]
+      },
+      "corroborationNote": "DataSAS fares and seat shares are recalculated nominally using nr_assentos as the weight. The separate ANAC dashboard's annual fare comparison is IPCA-adjusted. CNN's July mean and August below-R$500 share differ slightly from the recalculation/file. ANP distribution QAV prices and the CNN/ANAC-panel indicators have unreconciled scopes and are not combined or used to claim causation."
     },
     {
-      "articleId": "economia-2026-09-22-stf-publicidade-bets",
-      "url": "https://www.correiobraziliense.com.br/economia/2026/09/7505393-dino-citou-vicio-e-endividamento-ao-restringir-publicidade-de-bets.html",
-      "publishedAt": "2026-09-22T05:00:00+00:00",
-      "evidence": "Complete extraction research/runs/2026-09-22T11-21-20-336Z-6df281a2-9343-4cb7-a1b3-001b9e9a3dde/extractions/economia/5e459c422e7b.json, HTTP 200, complete=true, warnings=[], 15 extracted paragraphs. It reports the STF injunction decision, the Minas Gerais decree's limits on betting advertising in public assets and events, Dino's stated consumer and public-interest reasoning, the ANJL arguments and the remaining merits dispute.",
-      "selectionReason": "Current named-court regulatory development affecting a large commercial sector; selected because the source distinguishes the provisional injunction ruling from the unresolved constitutional merits and attributes contextual concerns to the decision.",
+      "articleId": "brazil-trims-gdp-outlook-sees-slower-recovery-amid-cautious-monetary-easing-cycle",
+      "sourceEvidencePath": "research/runs/2026-09-23T11-31-23-014Z-8d26ca21-0863-4450-82bc-1cdf26820144/focused/economia-20.json",
+      "publisher": "WTAQ / Reuters",
+      "url": "https://wtaq.com/2026/09/22/brazil-government-cuts-2026-growth-forecast-to-2-0/",
+      "headline": "Brazil trims GDP outlook, sees slower recovery amid cautious monetary easing cycle",
+      "publishedAt": "2026-09-22T12:34:00-05:00",
+      "publication": {
+        "value": "2026-09-22T12:34:00-05:00",
+        "precision": "minute",
+        "evidence": "WTAQ displayed September 22 at 12:34 p.m.; editorial qualification treated the local display as CDT (UTC−05:00), yielding 17:34Z.",
+        "cutoffAssessment": {
+          "status": "within-window",
+          "normalizedUtc": "2026-09-22T17:34:00.000000Z"
+        }
+      },
+      "retrievalEvidence": {
+        "retrievedAt": "2026-09-23T14:45:40.900Z",
+        "httpStatus": 200,
+        "complete": true,
+        "paragraphCount": 11,
+        "wordCount": 279,
+        "warnings": []
+      },
+      "evidence": "Full Reuters report read. It gives the Finance Ministry's revisions to 2026 GDP growth (2.3% to 2.0%) and 2027 (2.5% to 2.3%), a 2.6% average growth projection for 2028–2030, and inflation forecasts of 4.9% for 2026 (from 5.1%) and 3.8% for 2027 (from 3.6%). The ministry attributed weaker services/industry and a gradual easing path in its baseline; all are projections. Reuters separately reports market consensus below the official growth forecasts.",
+      "boundedKeyFactsQualifications": {
+        "facts": [
+          "Reuters reports 2026 GDP growth forecast cut from 2.3% to 2.0%, 2027 from 2.5% to 2.3%, and inflation from 5.1% to 4.9%."
+        ],
+        "qualifications": [
+          "The WTAQ display was treated as CDT for UTC conversion; macro figures are government projections, not outcomes."
+        ]
+      },
+      "selectionReason": "Selected for a timely and independently reported revision to the government's macroeconomic baseline, with official Ministry confirmation. The story separates official projections from surveyed market expectations and attributes explanations rather than treating forecast changes as outcomes.",
+      "corroboratingSources": [
+        {
+          "url": "https://www.gov.br/fazenda/pt-br/assuntos/noticias/2026/setembro/secretaria-de-politica-economica-projeta-crescimento-de-2-para-o-pib-em-2026-e-2-3-em-2027",
+          "matchingFacts": "The Ministry of Finance's September projection page confirms the revisions and forecast figures."
+        }
+      ],
+      "corroborationNote": "Official Ministry figures corroborate the projections; the reported market-survey values remain attributed to Reuters.",
+      "extractionGates": {
+        "passed": true,
+        "bodyContaminationNote": "Full source body reviewed; selection qualification found no caption, recommendation or sidebar contamination."
+      },
       "contentReview": {
         "bodyComplete": true,
         "aiSummaryReviewed": true
-      }
+      },
+      "reviewFlags": [
+        "All macroeconomic figures are identified as official forecasts for stated years, not outcomes; market estimates are attributed to Reuters."
+      ]
     },
     {
-      "articleId": "economia-2026-09-22-wall-street-ia",
-      "url": "https://www.cnnbrasil.com.br/economia/money/mercado/wall-street-fecha-em-alta-com-otimismo-sobre-ia/",
-      "publishedAt": "2026-09-21T19:36:33-03:00",
-      "evidence": "Complete extraction research/runs/2026-09-22T11-21-20-336Z-6df281a2-9343-4cb7-a1b3-001b9e9a3dde/extractions/economia/05450956caf3.json, HTTP 200, complete=true, warnings=[], 14 extracted paragraphs. It records the Dow, S&P 500 and Nasdaq closes, semiconductor and company moves, oil and Treasury changes, the AMD market-value milestone and the attributed window-dressing explanation.",
-      "selectionReason": "Distinct September 21 global market result report with concrete index, commodity, yield and company data; selected as observed trading coverage and not as investment advice.",
+      "articleId": "petroleo-de-morpho-pode-ser-o-melhor-do-brasil-diz-diretora-da-petrobras",
+      "sourceEvidencePath": "research/runs/2026-09-23T11-31-23-014Z-8d26ca21-0863-4450-82bc-1cdf26820144/focused/economia-21.json",
+      "publisher": "Forbes Brasil",
+      "url": "https://forbes.com.br/forbes-money/2026/09/petroleo-de-morpho-pode-ser-o-melhor-do-brasil-diz-diretora-da-petrobras/",
+      "headline": "Petróleo de Morpho Pode Ser o Melhor do Brasil, Diz Diretora da Petrobras",
+      "publishedAt": "2026-09-22T12:01:56-03:00",
+      "publication": {
+        "value": "2026-09-22T12:01:56-03:00",
+        "precision": "second",
+        "evidence": "Saved extraction publishedAt field from the original publisher page.",
+        "timezone": "explicit-offset",
+        "cutoffAssessment": {
+          "status": "within-window",
+          "normalizedUtc": "2026-09-22T15:01:56.000000Z"
+        }
+      },
+      "retrievalEvidence": {
+        "retrievedAt": "2026-09-23T14:45:49.946Z",
+        "httpStatus": 200,
+        "complete": true,
+        "paragraphCount": 8,
+        "wordCount": 271,
+        "warnings": []
+      },
+      "evidence": "Full Forbes interview report read. Petrobras engineering director Renata Baruzzi called the Morpho sample very high quality and said it might be better than pre-salt on that measure; CEO Magda Chambriard said the sample was too small to characterize associated gas. Exploration was ongoing, with 200 m left to a target section and adjacent wells planned for the following year. The Petrobras announcement confirms hydrocarbons at the exploratory well, not the quality comparison or commercial reserves.",
+      "boundedKeyFactsQualifications": {
+        "facts": [
+          "Petrobras's engineering director described the Morpho sample as potentially its highest-quality oil; CEO cautioned the sample was too small for further characterization."
+        ],
+        "qualifications": [
+          "Attributed interview, not proof of commercial reserves or a validated quality ranking; Petrobras confirms hydrocarbons only."
+        ]
+      },
+      "selectionReason": "Selected for an attributed first-party interview about an exploratory oil sample, paired with Petrobras confirmation of hydrocarbons and a clear CEO caveat. The report does not turn an executive's quality assessment into a reserve, commerciality or validated ranking claim.",
+      "corroboratingSources": [
+        {
+          "url": "https://agencia.petrobras.com.br/en/w/negocio/petrobras-descobre-hidrocarbonetos-em-%C3%A1guas-ultra-profundas-na-costa-do-amap%C3%A1",
+          "matchingFacts": "Petrobras confirms hydrocarbons at the exploratory well; it does not verify the interview's comparative oil-quality assessment."
+        }
+      ],
+      "corroborationNote": "Official company release supports the existence of hydrocarbons only; the quality statement remains attributed to the interviewees.",
+      "extractionGates": {
+        "passed": true,
+        "bodyContaminationNote": "Full source body reviewed; qualification excluded captions, sidebars, recommendations and page chrome."
+      },
       "contentReview": {
         "bodyComplete": true,
         "aiSummaryReviewed": true
-      }
+      },
+      "reviewFlags": [
+        "Oil-quality characterization is attributed to Petrobras executives and is not presented as proven reserves, commerciality or an independently validated ranking."
+      ]
     },
     {
-      "articleId": "economia-2026-09-22-bitcoin-86-mil",
-      "url": "https://www.cnnbrasil.com.br/economia/money/mercado/bitcoin-opera-em-alta-e-chega-a-us-86-mil-maior-valor-em-7-meses/",
-      "publishedAt": "2026-09-21T19:38:12-03:00",
-      "evidence": "Complete extraction research/runs/2026-09-22T11-21-20-336Z-6df281a2-9343-4cb7-a1b3-001b9e9a3dde/extractions/economia/0789db736f98.json, HTTP 200, complete=true, warnings=[], 13 extracted paragraphs. It records bitcoin above US$86,000 at a seven-month high, the 6.45% move and US$86,300 quote, ether's rise, ETF and futures-flow explanations, and the attributed downside risks.",
-      "selectionReason": "Distinct September 21 cryptocurrency-market report with a timestamped price move and attributed explanations; selected as market reporting rather than a forecast or investment recommendation.",
+      "articleId": "abren-entra-em-disputa-judicial-sobre-usinas-de-recuperacao-energetica-em-sp-megawhat",
+      "publisher": "MegaWhat",
+      "publishedAt": "2026-09-22T17:28:25+00:00",
+      "sourceEvidencePath": "research/runs/2026-09-23T11-31-23-014Z-8d26ca21-0863-4450-82bc-1cdf26820144/focused/economia-22.json",
+      "evidence": "The São Paulo Public Defender confirms the civil action concerning four planned UREs. The TJSP e-SAJ docket for case 1116511-94.2026.8.26.0053, checked on 2026-09-25, lists an intermediate petition dated 2026-09-21 but does not expose its author or contents. Thus the docket confirms a petition entry, not that ABREN filed it. MegaWhat's reported R$7.48 billion case value and injunction status are not established by the public docket and remain attributed to that outlet. The post-cutoff docket view is not treated as cutoff-time evidence.",
+      "selectionReason": "The underlying action is confirmed by the Public Defender and the docket; the alleged ABREN petition remains attributed to MegaWhat because the public docket does not identify its filer or contents.",
+      "corroboratingSources": [
+        {
+          "url": "https://www.defensoria.sp.def.br/noticias/-/noticia/7451676/ncdh-da-defensoria-ajuiza-acao-para-impedir-a-inclusao-de-incineradores-em-contratos-de-limpeza-urbana-de-sp-sem-licitacao-publica-nem-participacao-popular",
+          "matchingFacts": "Official notice confirms it filed the underlying civil action over four planned UREs; it does not mention ABREN's later reported request."
+        },
+        {
+          "url": "https://esaj.tjsp.jus.br/cpopg/show.do?processo.codigo=1H00110FJ0000&processo.foro=53&processo.numero=1116511-94.2026.8.26.0053",
+          "matchingFacts": "Public docket identifies the case and records a September 21 intermediate petition but does not identify filer or text."
+        }
+      ],
+      "extractionGates": {
+        "passed": true,
+        "bodyContaminationNote": "Manual section-qualification report reviewed the source body; captions, sidebar/recommendation and page-chrome material were excluded where present."
+      },
       "contentReview": {
         "bodyComplete": true,
         "aiSummaryReviewed": true
-      }
+      },
+      "reviewFlags": [
+        "Official docket does not identify the 2026-09-21 petition's filer or contents; ABREN's request to join remains MegaWhat-attributed, not court-verified.",
+        "The R$7.48 billion case value and injunction status remain MegaWhat-attributed; they are not independently confirmed in the public docket.",
+        "The docket was checked after the immutable cutoff; no post-cutoff movement is used as a pre-cutoff article fact."
+      ],
+      "url": "https://megawhat.uol.com.br/economia-e-politica/empresas/abren-entra-em-disputa-judicial-sobre-usinas-de-recuperacao-energetica-em-sp/",
+      "headline": "MegaWhat: Abren pede para entrar em ação sobre quatro usinas de recuperação energética em SP",
+      "publication": {
+        "value": "2026-09-22T17:28:25+00:00",
+        "precision": "second",
+        "evidence": "Saved extraction `publishedAt` field from the original publisher page.",
+        "timezone": "explicit-offset",
+        "cutoffAssessment": {
+          "status": "within-window",
+          "normalizedUtc": "2026-09-22T17:28:25.000000Z"
+        }
+      },
+      "retrievalEvidence": {
+        "evidencePath": "research/runs/2026-09-23T11-31-23-014Z-8d26ca21-0863-4450-82bc-1cdf26820144/focused/economia-22.json",
+        "retrievedAt": "2026-09-23T14:46:05.842Z",
+        "httpStatus": 200,
+        "complete": true,
+        "paragraphCount": 15,
+        "warnings": [],
+        "retrievedAfterImmutableCutoff": true,
+        "cutoffBodyVersionLimitation": "This post-cutoff capture verifies the saved body only; it does not prove the exact body wording/version existed at the cutoff."
+      },
+      "boundedKeyFactsQualifications": {
+        "facts": [
+          "The underlying action is confirmed by the Public Defender and the docket; the alleged ABREN petition remains attributed to MegaWhat because the public docket does not identify its filer or contents."
+        ],
+        "qualifications": [
+          "Official docket does not identify the 2026-09-21 petition's filer or contents; ABREN's request to join remains MegaWhat-attributed, not court-verified.",
+          "The R$7.48 billion case value and injunction status remain MegaWhat-attributed; they are not independently confirmed in the public docket.",
+          "The docket was checked after the immutable cutoff; no post-cutoff movement is used as a pre-cutoff article fact."
+        ]
+      },
+      "corroborationNote": "The public docket does not verify MegaWhat's attribution of the petition to ABREN."
     },
     {
-      "articleId": "economia-2026-09-22-industria-agosto-cni",
-      "url": "https://www.cnnbrasil.com.br/economia/money/macroeconomia/producao-da-industria-brasileira-tem-pior-agosto-desde-2015-mostra-cni/",
-      "publishedAt": "2026-09-21T15:56:09-03:00",
-      "evidence": "Complete extraction research/runs/2026-09-22T11-21-20-336Z-6df281a2-9343-4cb7-a1b3-001b9e9a3dde/extractions/economia/596411cfd77f.json, HTTP 200, complete=true, warnings=[], 24 extracted paragraphs. It reports CNI's 46.3 production index, the 51.3 investment-intention reading, four falling expectation indicators, capacity utilization, employment, inventories and the 1,403-company sample.",
-      "selectionReason": "High-value September 21 industrial activity release with a concrete survey methodology and several current indicators; selected as reported economic data rather than commentary.",
+      "articleId": "apexbrasil-e-cni-firmam-convenio-de-r-7-1-milhoes-para-ampliar-presenca-da-industria-brasi",
+      "sourceEvidencePath": "research/runs/2026-09-23T11-31-23-014Z-8d26ca21-0863-4450-82bc-1cdf26820144/focused/economia-r2-1.json",
+      "publisher": "ApexBrasil",
+      "url": "https://apexbrasil.com.br/content/apexbrasil/br/pt/conteudo/noticias/apexbrasil-e-cni-firmam-convenio-de-r--7-1-milhoes-para-ampliar-.html",
+      "headline": "ApexBrasil e CNI firmam convênio de R$ 7,1 milhões para ampliar presença da indústria brasileira no exterior",
+      "publishedAt": "2026-09-17",
+      "publication": {
+        "value": "2026-09-17",
+        "precision": "date-only",
+        "evidence": "ApexBrasil page visibly dates the source 17/09/2026; no publication hour is shown. The body says the signing ceremony occurred Wednesday, September 16.",
+        "cutoffAssessment": {
+          "status": "within-window-date-only",
+          "note": "The source date is strictly inside the inclusive UTC window."
+        }
+      },
+      "retrievalEvidence": {
+        "retrievedAt": "2026-09-23T16:25:20.749Z",
+        "httpStatus": 200,
+        "complete": true,
+        "paragraphCount": 13,
+        "wordCount": 643,
+        "warnings": []
+      },
+      "evidence": "Full ApexBrasil source read; section headings were excluded from the body. ApexBrasil reports an exact total of R$7.103m and lists R$3.551m for each signatory; those listed shares sum to R$7.102m, leaving an unresolved R$1,000 source-precision difference. CNI's official note reports a rounded R$7.1m total and equal participation but gives no more precise correction. Public copy therefore uses the rounded total and equal-participation description and omits exact per-signatory amounts. The agreement runs for 12 months, targets 400 firms in eight actions across Latin America/Caribbean, Europe, Asia and Africa, and specifies four workstreams. Historical business outcomes are expectations, not realized revenue.",
+      "boundedKeyFactsQualifications": {
+        "facts": [
+          "ApexBrasil and CNI announced a 12-month agreement, with CNI describing a rounded R$7.1m total investment and equal participation, to serve 400 firms in eight actions across four regions."
+        ],
+        "qualifications": [
+          "ApexBrasil's more precise reported total and listed shares differ by R$1,000; CNI provides no exact correction. Public copy uses only the rounded total and equal-participation description, without exact shares. The agreement is a plan; projected business outcomes are expectations. Source page visibly dated September 17, 2026."
+        ]
+      },
+      "selectionReason": "Selected as a dated export-promotion and industry-support agreement with explicit value, duration, company target, geography and workstreams. The program is a plan, not evidence of signed export contracts or realized sales.",
+      "corroboratingSources": [
+        {
+          "url": "https://noticias.portaldaindustria.com.br/noticias/internacional/cni-e-apexbrasil-anunciam-nova-parceria-para-impulsionar-internacionalizacao-da-industria/",
+          "matchingFacts": "The other signatory, CNI, independently announces the September 16 renewal, 400-company target, eight actions and term through September 2027."
+        },
+        {
+          "url": "https://static.portaldaindustria.com.br/media/filer_public/a3/c8/a3c8b688-11c8-4ad5-9ccb-6efd389eac8d/industria_no_mundo_-_nota_executiva_no_022026_convenio_cni-apexbrasil_1.pdf",
+          "matchingFacts": "CNI's September 2026 convention note identifies a 12-month CNI/ApexBrasil cycle, a rounded R$7.1m total investment and an equal 50/50 split. ApexBrasil reports a more precise total and per-signatory amounts that differ by R$1,000 when summed; CNI gives no precise correction."
+        }
+      ],
+      "corroborationNote": "Both signatories' official publications support the agreement and CNI's rounded R$7.1m total/equal-participation description. ApexBrasil's exact reported total and listed shares leave an unresolved R$1,000 difference; CNI publishes no precise correction. The public copy therefore uses the rounded total and equal-participation description and omits exact per-signatory amounts.",
+      "extractionGates": {
+        "passed": true,
+        "bodyContaminationNote": "Full article body read; heading rows were separated from narrative and no recommendation/ad/sidebar contamination was found in the source review."
+      },
       "contentReview": {
         "bodyComplete": true,
         "aiSummaryReviewed": true
-      }
+      },
+      "reviewFlags": [
+        "Both signatories support the agreement terms; ApexBrasil's exact total and listed shares differ by R$1,000, unresolved by CNI's rounded figures. Public copy omits exact shares and uses CNI's rounded total/equal-participation description. Planned activity is not realized exports or investment advice."
+      ]
     },
     {
-      "articleId": "economia-2026-09-22-eneva-termeletricas",
-      "url": "https://www.infomoney.com.br/business/eneva-ve-economia-de-ate-r32-bi-a-consumidor-com-flexibilizacao-de-termeletricas/",
-      "publishedAt": "2026-09-21T16:43:42+00:00",
-      "evidence": "Complete extraction research/runs/2026-09-22T11-21-20-336Z-6df281a2-9343-4cb7-a1b3-001b9e9a3dde/extractions/economia/6e4c9c71d092.json, HTTP 200, complete=true, warnings=[], 26 extracted paragraphs. It identifies the TCU-mediated proposal, CCEE and PSR savings estimates, the three projects totaling 1.2 GW, the ONS dispatch model, potential curtailment reduction and the possible July 2027 start.",
-      "selectionReason": "Distinct September 21 energy-business development with named public institutions, a defined proposal and explicit estimates; selected because the report preserves that the savings are conditional and not realized results.",
+      "articleId": "finep-disponibiliza-r-220-milhoes-para-inovacao-em-cooperativas-de-agricultura-familiar",
+      "sourceEvidencePath": "research/runs/2026-09-23T11-31-23-014Z-8d26ca21-0863-4450-82bc-1cdf26820144/focused/economia-r2-2.json",
+      "publisher": "Finep",
+      "url": "https://faleconosco.finep.gov.br/web/guest/w/finep-disponibiliza-r-220-milh%C3%B5es-para-inova%C3%A7%C3%A3o-em-cooperativas-de-agricultura-familiar",
+      "headline": "Finep disponibiliza R$ 220 milhões para inovação em cooperativas de agricultura familiar",
+      "publishedAt": "2026-09-22T08:02:00-03:00",
+      "publication": {
+        "value": "2026-09-22T08:02:00-03:00",
+        "precision": "minute",
+        "evidence": "Finep page displays 22/09/26 08:02 in Brasília local time.",
+        "cutoffAssessment": {
+          "status": "within-window",
+          "normalizedUtc": "2026-09-22T11:02:00.000000Z"
+        }
+      },
+      "retrievalEvidence": {
+        "retrievedAt": "2026-09-23T16:38:29.438Z",
+        "httpStatus": 200,
+        "complete": true,
+        "paragraphCount": 7,
+        "wordCount": 405,
+        "warnings": []
+      },
+      "evidence": "Full Finep announcement read. The two calls total R$220m: R$120m for companies and R$100m for eligible ICTs, both requiring active partnerships with family-farming cooperatives. Company proposals run through April 30, 2027, with requests from R$5m to R$20m; the ICT call lists December 8 without a year and R$3m–R$15m projects. These are funds offered under calls, not awards already made.",
+      "boundedKeyFactsQualifications": {
+        "facts": [
+          "Finep announced two grants totaling R$220m: R$120m for companies and R$100m for eligible ICTs, both partnered with family-farming cooperatives."
+        ],
+        "qualifications": [
+          "Finep's announcement specifies April 30, 2027 for company submissions but gives the ICT deadline only as December 8 without a year; the latter is omitted from the article pending an official call-notice check."
+        ]
+      },
+      "selectionReason": "Selected for a public R$220m funding program with separate allocations, eligible applicants and project ranges; the company deadline is dated, and the unverified ICT December deadline is omitted. Funds are available under calls, not grants already awarded.",
+      "corroborationNote": "The Finep primary announcement supports the allocations and ranges. The ICT deadline is omitted because the announcement gives December 8 without a year and no official call notice was verified; the dated company deadline remains.",
+      "extractionGates": {
+        "passed": true,
+        "bodyContaminationNote": "The leading extracted standfirst/description was distinguished from the substantive body; the body had no sidebar or recommendation block."
+      },
       "contentReview": {
         "bodyComplete": true,
         "aiSummaryReviewed": true
-      }
+      },
+      "reviewFlags": [
+        "ICT December 8 deadline omitted because the source notice states no year and no official call notice was verified; dated company deadline retained."
+      ]
     },
     {
-      "articleId": "economia-2026-09-22-bc-demonstracoes-financeiras",
-      "url": "https://www.cnnbrasil.com.br/economia/money/macroeconomia/bc-abre-consulta-sobre-criterios-de-demonstracoes-financeiras/",
-      "publishedAt": "2026-09-21T14:54:41-03:00",
-      "evidence": "Complete extraction research/runs/2026-09-22T11-21-20-336Z-6df281a2-9343-4cb7-a1b3-001b9e9a3dde/extractions/economia/fa4bd37fe850.json, HTTP 200, complete=true, warnings=[], 12 extracted paragraphs. It describes the CMN and BC public consultation, the November 9 submission deadline, Cosif classification and disclosure changes, five result categories, performance measures and the proposed 2027/2028 effect dates.",
-      "selectionReason": "Current regulatory consultation with a clear official process and operational accounting details; selected as a reported institutional development rather than a prediction.",
+      "articleId": "pim-mantem-trajetoria-de-crescimento-e-atinge-r-142-9-bilhoes-em-faturamento-ate-julho",
+      "sourceEvidencePath": "research/runs/2026-09-23T11-31-23-014Z-8d26ca21-0863-4450-82bc-1cdf26820144/focused/economia-r2-3.json",
+      "publisher": "Superintendência da Zona Franca de Manaus (Suframa)",
+      "url": "https://www.gov.br/suframa/pt-br/assuntos/noticias/pim-mantem-trajetoria-de-crescimento-e-atinge-r-142-9-bilhoes-em-faturamento-ate-julho",
+      "headline": "PIM mantém trajetória de crescimento e atinge R$ 142,9 bilhões em faturamento até julho",
+      "publishedAt": "2026-09-21T16:47:00-03:00",
+      "updatedAt": "2026-09-21T17:00:00-03:00",
+      "publication": {
+        "value": "2026-09-21T16:47:00-03:00",
+        "precision": "minute",
+        "evidence": "Suframa page displays publication at 16:47 and an update at 17:00 Brasília time.",
+        "cutoffAssessment": {
+          "status": "within-window",
+          "normalizedUtc": "2026-09-21T19:47:00.000000Z"
+        }
+      },
+      "retrievalEvidence": {
+        "retrievedAt": "2026-09-23T16:09:42.726Z",
+        "httpStatus": 200,
+        "complete": true,
+        "paragraphCount": 9,
+        "wordCount": 370,
+        "warnings": []
+      },
+      "evidence": "Full Suframa announcement read; the first extracted block is an image caption and was excluded. The body reports PIM revenue of R$142.98bn through July (US$27.71bn equivalent), average monthly direct employment of 131,197 for January–July and 132,596 workers in July, product-subsector shares and production totals. These are agency-reported statistics, not independently audited results; no corroborating URL was preserved in the selection.",
+      "boundedKeyFactsQualifications": {
+        "facts": [
+          "Suframa reported PIM revenue of R$142.98bn through July 2026 and average monthly direct employment of 131,197 for January–July."
+        ],
+        "qualifications": [
+          "All figures are explicitly attributed to Suframa's official release; no independent corroborating dataset or audit is claimed. The opening image caption was excluded."
+        ]
+      },
+      "selectionReason": "Selected for a dated official snapshot of the Manaus Industrial Pole; the report is narrowed to Suframa-attributed revenue, employment, sector shares and output, without implying independent verification.",
+      "corroborationNote": "No independent corroborating dataset was located in the retained run. The article confines all figures to clearly attributed Suframa statistics and does not describe them as independently audited.",
+      "extractionGates": {
+        "passed": true,
+        "bodyContaminationNote": "An opening image caption was excluded; eight remaining narrative/body blocks were read."
+      },
       "contentReview": {
         "bodyComplete": true,
         "aiSummaryReviewed": true
-      }
+      },
+      "reviewFlags": [
+        "Official-statistics-only: every PIM figure is attributed to Suframa, limited to the stated through-July period; no independent audit is implied."
+      ]
     },
     {
-      "articleId": "economia-2026-09-22-senacon-postos-combustiveis",
-      "url": "https://www.correiobraziliense.com.br/economia/2026/09/7505411-senacon-abre-processos-contra-70-postos-por-aumento-abusivo.html",
-      "publishedAt": "2026-09-21T23:46:30+00:00",
-      "evidence": "Complete extraction research/runs/2026-09-22T11-21-20-336Z-6df281a2-9343-4cb7-a1b3-001b9e9a3dde/extractions/economia/cd64cfb9c14c.json, HTTP 200, complete=true, warnings=[], 15 extracted paragraphs. It reports 70 Senacon administrative cases, at least 330 ANP complaints, the cited margin and fine figures, the 15-state complaint coverage and the 15-day defense period.",
-      "selectionReason": "Current consumer and fuel-market enforcement development with concrete case counts and procedural safeguards; selected over the duplicate CNN extraction because this complete record contains more contextual detail.",
+      "articleId": "biopark-celebra-10-anos-com-anuncio-de-r-1-bilhao-da-prati-donaduzzi-e-r-74-milhoes-para-o",
+      "sourceEvidencePath": "research/runs/2026-09-23T11-31-23-014Z-8d26ca21-0863-4450-82bc-1cdf26820144/focused/economia-r2-4.json",
+      "publisher": "Viver Toledo",
+      "url": "https://vivertoledo.com.br/noticia/biopark-celebra-10-anos-com-anuncio-de-r-1-bilhao-da-prati-donaduzzi-e-r-74-milhoes-para-o-boulevard-peter-drucker",
+      "headline": "Prati-Donaduzzi planeja fábrica de R$ 1 bilhão no Biopark, em Toledo",
+      "publishedAt": "2026-09-22T20:08:14.855+00:00",
+      "publication": {
+        "value": "2026-09-22T20:08:14.855+00:00",
+        "precision": "millisecond",
+        "evidence": "Saved extraction publishedAt field from the original publisher page.",
+        "timezone": "explicit-offset",
+        "cutoffAssessment": {
+          "status": "within-window",
+          "normalizedUtc": "2026-09-22T20:08:14.855000Z"
+        }
+      },
+      "retrievalEvidence": {
+        "retrievedAt": "2026-09-23T16:12:58.900Z",
+        "httpStatus": 200,
+        "complete": true,
+        "paragraphCount": 24,
+        "wordCount": 669,
+        "warnings": []
+      },
+      "evidence": "Full Viver Toledo event report read; it reports the planned factory's R$1bn initial investment, 26,000 m² area, three-year construction schedule, 500-job company estimate and 5bn-dose projected capacity. Exame independently reports the factory investment, job estimate and capacity. The separate R$74m Boulevard allocation is excluded from the article because it lacked independent primary confirmation in the reviewed sources.",
+      "boundedKeyFactsQualifications": {
+        "facts": [
+          "Prati-Donaduzzi announced a planned R$1bn factory at Biopark, with 26,000 m², an estimated 500 direct jobs and projected capacity of 5bn doses per year."
+        ],
+        "qualifications": [
+          "The investment, build schedule, jobs and capacity are plans or company estimates, not completed construction, jobs or output. The separate Boulevard allocation is omitted."
+        ]
+      },
+      "selectionReason": "Retained as a locally reported, independently corroborated pharmaceutical-factory plan. The R$1bn investment, projected job count and capacity are distinguished from realized results; the unsupported Boulevard add-on is removed.",
+      "corroboratingSources": [
+        {
+          "url": "https://exame.com/negocios/gigante-farmaceutica-do-parana-anuncia-r-1-bilhao-em-nova-fabrica-para-5-bilhoes-de-doses/",
+          "matchingFacts": "Exame reports the planned R$1bn factory investment cycle, 500-job estimate and projected 5bn annual doses; it does not address the Boulevard allocation or 2,200-job projection."
+        }
+      ],
+      "corroborationNote": "Exame independently supports the factory plan, 500-job estimate and 5bn annual-dose capacity; the R$74m Boulevard claim is not carried into the article.",
+      "extractionGates": {
+        "passed": true,
+        "bodyContaminationNote": "Headings were interleaved with narrative. Full body was read; no unrelated story, promotional sidebar or ad contamination was found."
+      },
       "contentReview": {
         "bodyComplete": true,
         "aiSummaryReviewed": true
-      }
+      },
+      "reviewFlags": [
+        "Unsupported R$74m Boulevard add-on removed; the factory plan remains supported by Viver Toledo and Exame. Investment, schedule, jobs and capacity are plans or estimates, not realized results."
+      ]
     },
     {
-      "articleId": "economia-2026-09-22-amazon-agente-ia",
-      "url": "https://investnews.com.br/negocios/amazon-bloqueia-agente-de-ia-da-meta-em-seu-site-de-varejo/",
-      "publishedAt": "2026-09-21T14:02:48-03:00",
-      "evidence": "Complete extraction research/runs/2026-09-22T11-21-20-336Z-6df281a2-9343-4cb7-a1b3-001b9e9a3dde/extractions/economia/8fc5ae5ab941.json, HTTP 200, complete=true, warnings=[], 16 extracted paragraphs. It reports Amazon's blocking of Meta's Muse shopping agent, the retailer's automated-shopping policy, the company's stated transparency and opt-in position, Meta's lack of an immediate response, the earlier Perplexity dispute and the possible competitive effects.",
-      "selectionReason": "Distinct September 21 business-platform dispute involving an AI shopping agent and a major retailer; selected as reported corporate news rather than promotional or speculative material.",
+      "articleId": "construido-no-brasil-navio-afretado-pela-petrobras-ganha-o-mar-com-tripulacao-100-feminina",
+      "sourceEvidencePath": "research/runs/2026-09-23T11-31-23-014Z-8d26ca21-0863-4450-82bc-1cdf26820144/focused/economia-r2-5.json",
+      "publisher": "Agência Gov (via Petrobras)",
+      "url": "https://agenciagov.ebc.com.br/noticias/202609/primeiro-navio-afretado-pela-petrobras-entregue-no-programa-mar-aberto-e-batizado-no-rio-de-janeiro",
+      "headline": "Construído no Brasil, navio afretado pela Petrobras ganha o mar com tripulação 100% feminina",
+      "publishedAt": "2026-09-18",
+      "publication": {
+        "value": "2026-09-18",
+        "precision": "date-only",
+        "evidence": "The Petrobras/Agência Gov source page displays 18/09/2026; no publication hour is shown. The vessel's christening was September 17.",
+        "cutoffAssessment": {
+          "status": "within-window-date-only",
+          "note": "The source date is strictly inside the inclusive UTC window."
+        }
+      },
+      "retrievalEvidence": {
+        "retrievedAt": "2026-09-23T16:13:05.471Z",
+        "httpStatus": 200,
+        "complete": true,
+        "paragraphCount": 8,
+        "wordCount": 342,
+        "warnings": []
+      },
+      "evidence": "Full Agência Gov/Petrobras source read. It reports the September 17 christening of the Brazil-built Starnav Elektra PSV, investment of about R$450m, first delivery under Mar Aberto, and a 16-woman crew led by Isabela Teixeira Ponce de Leon. Petrobras's fleet counts and efficiency/emissions statements remain company claims or targets. Agência iNFRA separately reports the same first delivery and crew/cost details.",
+      "boundedKeyFactsQualifications": {
+        "facts": [
+          "Starnav Elektra, a roughly R$450m PSV, was the first delivery under Petrobras's Mar Aberto program; its crew consisted of 16 women."
+        ],
+        "qualifications": [
+          "Agência Gov story is via Petrobras; distinguish the September 17 baptism from the September 18 publication."
+        ]
+      },
+      "selectionReason": "Selected for a discrete Brazilian shipbuilding/offshore-support milestone and the well-defined all-women crew fact. Company fleet targets and environmental-performance claims are attributed, and the September 17 baptism is separated from the September 18 publication date.",
+      "corroboratingSources": [
+        {
+          "url": "https://agenciainfra.com/blog/petrobras-recebe-primeiro-navio-afretado-pelo-programa-mar-aberto/",
+          "matchingFacts": "Agência iNFRA reports the first Mar Aberto delivery, Starnav Elektra, approximate R$450m cost and 16-woman crew; underlying fleet/efficiency claims remain attributed to Petrobras."
+        }
+      ],
+      "corroborationNote": "Independent trade-press coverage matches the vessel, cost and crew details; corporate fleet plans and environmental claims are not independent measurements.",
+      "extractionGates": {
+        "passed": true,
+        "bodyContaminationNote": "Standfirst was distinguished from eight substantive paragraphs; full article body was reviewed without sidebar/recommendation contamination."
+      },
       "contentReview": {
         "bodyComplete": true,
         "aiSummaryReviewed": true
-      }
+      },
+      "reviewFlags": [
+        "The September 17 christening is distinguished from September 18 publication; fleet targets and performance claims remain attributed to Petrobras."
+      ]
     }
   ],
   "shortfall": {
@@ -126,7 +578,6 @@
     "en": ""
   },
   "improvements": [],
-  "candidateRun": "research/runs/2026-09-22T11-21-20-336Z-6df281a2-9343-4cb7-a1b3-001b9e9a3dde",
-  "retrievedAt": "2026-09-22T11:21:30.734Z",
-  "reviewStatus": "draft-source-verified-no-publication-approval"
+  "reviewStatus": "draft-source-verified-no-publication-approval",
+  "authoringStatus": "The ten ordered records match the frozen Economia selection. Airfare's seat-weighted DataSAS figures are nominal, while the 14.5% annual comparison uses ANAC's IPCA-adjusted dashboard series; CNN/DataSAS fare differences remain explicit and the ANP/ANAC QAV indicators are kept separate without causal inference. The TJSP docket does not identify the filer or contents of the ABREN petition reported by MegaWhat, so that account remains attributed. No publication approval is implied."
 }

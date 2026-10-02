@@ -1,0 +1,117 @@
+{
+  "id": "unveiling-the-unevenness-of-global-warming-regional-accelerations-key-temperature-shifts-a",
+  "slug": "unveiling-the-unevenness-of-global-warming-regional-accelerations-key-temperature-shifts-a",
+  "section": "ciencia",
+  "secondarySections": [],
+  "publishedAt": "2026-09-22T18:53:27+00:00",
+  "publishedDate": "2026-09-22",
+  "updatedAt": "2026-09-24T17:45:13.603Z",
+  "sources": [
+    {
+      "name": "UC Santa Cruz",
+      "url": "https://news.ucsc.edu/2026/09/regional-warming-accelerations/"
+    },
+    {
+      "name": "Nature Communications",
+      "url": "https://doi.org/10.1038/s41467-026-77514-z"
+    }
+  ],
+  "rights": {
+    "mode": "original-report"
+  },
+  "translations": {
+    "pt-BR": {
+      "title": "Estudo mapeia acelerações regionais do aquecimento, sem apontar uma causa única",
+      "summary": "Dados de temperatura de 1970 a 2024 mostram mudanças em ondas regionais; os mecanismos físicos ainda precisam ser investigados em cada área.",
+      "aiSummary": [
+        "A análise de vários conjuntos de dados encontrou mudanças regionais nas taxas de aquecimento entre os anos 1980 e 2010.",
+        "Os sinais mais recentes se destacam em partes das latitudes médias do Hemisfério Norte.",
+        "A pesquisa mapeia padrões estatísticos; não atribui todas as mudanças a uma única causa."
+      ],
+      "paragraphs": [
+        "Uma análise de diferentes conjuntos observacionais de temperatura da superfície, cobrindo 1970 a 2024, encontrou mudanças regionais no ritmo do aquecimento. A equipe da Universidade da Califórnia em Santa Cruz e colaboradores usaram métodos estatísticos para identificar padrões espaciais e temporais. O resultado é um mapa de mudanças locais, não uma taxa uniforme para todo o planeta.",
+        "Segundo o estudo publicado em Nature Communications, as acelerações apareceram em ondas com início em períodos diferentes, desde os anos 1980 até os anos 2010. Os sinais mais recentes se destacaram em partes das latitudes médias do Hemisfério Norte, incluindo o sudeste da China e o Golfo do México. A pesquisa também apontou regiões como Mediterrâneo oriental, Bolívia, Pacífico Norte e Nova Zelândia.",
+        "A análise descreve quando e onde as tendências estatísticas mudaram, mas não afirma que todas as áreas tenham aquecido na mesma proporção ou no mesmo momento. Os autores dizem que os padrões regionais acrescentam detalhe à discussão sobre a aceleração da temperatura média global, sem substituir a medição dessa média. Essa distinção é importante para não transformar resultados locais em uma conclusão única sobre cada região.",
+        "A redução de emissões de dióxido de enxofre na China coincide no tempo com algumas das mudanças identificadas e pode ajudar a explicar parte do sinal. Os pesquisadores, porém, dizem que os mecanismos físicos de várias regiões ainda precisam ser estudados e que fatores locais não explicam todos os casos. A coincidência temporal não demonstra, por si só, causalidade.",
+        "Mudanças no ritmo médio de aquecimento podem deslocar a referência usada para avaliar extremos, como ondas de calor, e por isso são relevantes para análises de risco e adaptação regional. O estudo não mede danos específicos a comunidades nem prevê um evento extremo individual. Seu painel e seus mapas servem como instrumentos para acompanhar padrões; impactos locais exigem avaliações adicionais."
+      ]
+    },
+    "en": {
+      "title": "Study maps regional warming accelerations without identifying a single cause",
+      "summary": "Temperature data from 1970 to 2024 show changes in regional waves; the physical mechanisms still need investigation in each area.",
+      "aiSummary": [
+        "Analysis of several datasets found regional changes in warming rates from the 1980s through the 2010s.",
+        "The most recent signals stand out in parts of the Northern Hemisphere’s mid-latitudes.",
+        "The research maps statistical patterns; it does not attribute every change to one cause."
+      ],
+      "paragraphs": [
+        "An analysis of several observational surface-temperature datasets covering 1970 to 2024 found regional changes in the pace of warming. Researchers at the University of California, Santa Cruz, and collaborators used statistical methods to identify spatial and temporal patterns. The result is a map of local changes, not one uniform rate for the planet.",
+        "According to the study published in Nature Communications, accelerations emerged in waves at different times, from the 1980s through the 2010s. The most recent signals stood out in parts of the Northern Hemisphere’s mid-latitudes, including southeast China and the Gulf of Mexico. The research also identified areas such as the eastern Mediterranean, Bolivia, the North Pacific and New Zealand.",
+        "The analysis describes when and where statistical trends shifted, but it does not say that every area warmed by the same amount or at the same time. The authors say regional patterns add detail to debate about changes in global-mean temperature without replacing its measurement. That distinction matters: local findings should not be turned into one conclusion about every region.",
+        "Declining sulfur-dioxide emissions in China coincide in time with some identified changes and may help explain part of the signal. The researchers, however, say physical mechanisms in several regions still need study and local factors do not explain every case. Timing alone does not establish causation.",
+        "Changes in average warming rates can shift the baseline used to assess extremes such as heatwaves, making the patterns relevant to regional risk analysis and adaptation. The study does not measure specific harm to communities or predict an individual extreme event. Its dashboard and maps are tools for tracking patterns; local impacts require further assessment."
+      ]
+    }
+  },
+  "verification": {
+    "score": 9.2,
+    "checkedAt": "2026-09-24T14:21:03Z",
+    "checks": [
+      {
+        "provider": "Nature Communications",
+        "url": "https://doi.org/10.1038/s41467-026-77514-z",
+        "finding": "supports",
+        "note": "The 1970–2024 analysis of multiple observational temperature datasets maps staggered regional changes in warming rates; the paper does not establish one regional cause or a uniform global-mean acceleration."
+      },
+      {
+        "provider": "UC Santa Cruz",
+        "url": "https://news.ucsc.edu/2026/09/regional-warming-accelerations/",
+        "finding": "supports",
+        "note": "The complete research report supports the regions and onset range in the article and says physical mechanisms in many areas need further study. The article treats sulfur-dioxide timing as a possible partial explanation, not proven causation."
+      },
+      {
+        "provider": "Aos Fatos",
+        "url": "https://www.aosfatos.org/",
+        "finding": "no-match",
+        "note": "Targeted Portuguese claim/title variants produced no relevant fact-check. Neutral result; no-match is not evidence of truth."
+      },
+      {
+        "provider": "Agência Lupa",
+        "url": "https://www.agencialupa.org/",
+        "finding": "no-match",
+        "note": "Targeted Portuguese claim/title variants produced no relevant fact-check. Neutral result; no-match is not evidence of truth."
+      },
+      {
+        "provider": "Projeto Comprova",
+        "url": "https://projetocomprova.com.br/",
+        "finding": "no-match",
+        "note": "Targeted Portuguese claim/title variants produced no relevant fact-check. Neutral result; no-match is not evidence of truth."
+      },
+      {
+        "provider": "AFP Fact Check",
+        "url": "https://factcheck.afp.com/",
+        "finding": "no-match",
+        "note": "Targeted English claim variants (regional warming, acceleration, sulfur dioxide) produced no relevant fact-check. Neutral result; no-match is not evidence of truth."
+      },
+      {
+        "provider": "Reuters Fact Check",
+        "url": "https://www.reuters.com/fact-check/",
+        "finding": "no-match",
+        "note": "Targeted English claim variants produced no relevant fact-check. Neutral result; no-match is not evidence of truth."
+      },
+      {
+        "provider": "Full Fact",
+        "url": "https://fullfact.org/",
+        "finding": "no-match",
+        "note": "Targeted English claim variants produced no relevant fact-check. Neutral result; no-match is not evidence of truth."
+      },
+      {
+        "provider": "Google Fact Check Tools",
+        "url": "https://toolbox.google.com/factcheck/explorer",
+        "finding": "no-match",
+        "note": "Targeted ClaimReview searches produced no relevant indexed fact-check. Neutral result; no-match is not evidence of truth."
+      }
+    ],
+    "caveat": "The findings concern regional statistical patterns, not uniform warming or measured local harm; observed coincidence with emissions changes does not resolve causality. The English and Portuguese copies preserve those limits."
+  }
+}

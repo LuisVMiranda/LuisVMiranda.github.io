@@ -21,6 +21,23 @@ describe('publication invariants', () => {
         .success,
     ).toBe(false);
   });
+  it('accepts date-only publication precision but keeps updates timestamp-only', () => {
+    expect(
+      articleSchema.safeParse({
+        ...article,
+        publishedAt: '2026-09-19',
+        publishedDate: '2026-09-19',
+        updatedAt: '2026-09-19T11:00:00Z',
+      }).success,
+    ).toBe(true);
+    expect(
+      articleSchema.safeParse({
+        ...article,
+        publishedAt: '2026-09-18T10:00:00Z',
+        updatedAt: '2026-09-19',
+      }).success,
+    ).toBe(false);
+  });
   it('rejects a one-sided AI summary', () => {
     const result = articleSchema.safeParse({
       ...article,
@@ -78,18 +95,52 @@ describe('publication invariants', () => {
     );
   });
   it('invalidates approval after edits and is independent of object key ordering', () => {
-    const revision = contentRevision([article], [edition]);
+    const editorialManifests = {
+      brasil: { section: 'brasil', edition: '2026-09-19' },
+    };
+    const revision = contentRevision([article], [edition], editorialManifests);
     const approval = {
       revision,
       approvedBy: 'Reviewer',
       approvedAt: '2026-09-20T00:00:00Z',
     };
-    expect(isApproved([article], [edition], approval)).toBe(true);
+    expect(isApproved([article], [edition], approval, editorialManifests)).toBe(
+      true,
+    );
     expect(
-      isApproved([{ ...article, slug: 'changed' }], [edition], approval),
+      isApproved(
+        [{ ...article, slug: 'changed' }],
+        [edition],
+        approval,
+        editorialManifests,
+      ),
     ).toBe(false);
-    expect(contentRevision([{ ...article }], [edition])).toBe(revision);
-    expect(isApproved([article], [edition], null)).toBe(false);
+    expect(
+      contentRevision([{ ...article }], [edition], editorialManifests),
+    ).toBe(revision);
+    expect(isApproved([article], [edition], null, editorialManifests)).toBe(
+      false,
+    );
+  });
+  it('binds editorial manifests to the approval revision', () => {
+    const manifests = {
+      brasil: {
+        section: 'brasil',
+        edition: '2026-09-23',
+        verified: [{ articleId: article.id }],
+      },
+    };
+    const changed = {
+      brasil: { ...manifests.brasil, verified: [] },
+    };
+    const revision = contentRevision([article], [edition], manifests);
+    const approval = {
+      revision,
+      approvedBy: 'Reviewer',
+      approvedAt: '2026-09-20T00:00:00Z',
+    };
+    expect(isApproved([article], [edition], approval, manifests)).toBe(true);
+    expect(isApproved([article], [edition], approval, changed)).toBe(false);
   });
   it('keeps translated identity in deterministic routes', () => {
     expect(articleUrl(article, 'pt-BR')).toBe('/news/artigos/teste/');

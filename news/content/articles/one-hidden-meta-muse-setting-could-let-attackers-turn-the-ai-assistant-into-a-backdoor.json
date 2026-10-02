@@ -1,0 +1,111 @@
+{
+  "id": "one-hidden-meta-muse-setting-could-let-attackers-turn-the-ai-assistant-into-a-backdoor",
+  "slug": "one-hidden-meta-muse-setting-could-let-attackers-turn-the-ai-assistant-into-a-backdoor",
+  "section": "tecnologia",
+  "secondarySections": [],
+  "publishedAt": "2026-09-22T00:00:00-03:00",
+  "publishedDate": "2026-09-22",
+  "updatedAt": "2026-09-24T17:45:13.603Z",
+  "sources": [
+    {
+      "name": "The Hacker News",
+      "url": "https://thehackernews.com/2026/09/one-hidden-meta-muse-setting-could-let.html"
+    },
+    {
+      "name": "The Register",
+      "url": "https://www.theregister.com/ai-and-ml/2026/09/21/meta-muse-ai-app-flaw-lets-local-malware-redirect-dictation-traffic/5297980"
+    }
+  ],
+  "rights": {
+    "mode": "original-report"
+  },
+  "translations": {
+    "pt-BR": {
+      "title": "Falha no Muse podia redirecionar ditados no Mac, diz pesquisador",
+      "summary": "Patrick Wardle demonstrou que código já executado na conta de um usuário podia alterar uma configuração do Muse para Mac e redirecionar ditados. A falha não permitia, por si só, invadir remotamente um computador; a Meta afirmou ter lançado uma correção.",
+      "aiSummary": [
+        "Um pesquisador mostrou que um processo local podia alterar a configuração de destino dos ditados no Muse para macOS.",
+        "O cenário exigia código já em execução na conta do usuário e não demonstrava invasão remota independente nem violação da nuvem da Meta.",
+        "A Meta disse ao The Register que atualizou o aplicativo para corrigir o problema; a empresa classificou o risco prático como baixo."
+      ],
+      "paragraphs": [
+        "O pesquisador de segurança Patrick Wardle demonstrou uma falha no aplicativo Muse para macOS, assistente de IA da Meta. Uma configuração não documentada podia ser alterada por um processo local para encaminhar ditados de voz a um destino controlado por um invasor.",
+        "O problema dependia de código já em execução com a conta do usuário, por exemplo, após a instalação de malware ou a execução de um comando induzido por fraude. O The Register destacou que a vulnerabilidade não permitia que um atacante remoto sem acesso prévio invadisse o Mac por conta própria.",
+        "Ao redirecionar a entrada de voz, o invasor poderia obter o áudio e o texto ditado e tentar induzir o assistente a usar acessos que o usuário já havia concedido. Wardle demonstrou também riscos envolvendo instruções inseridas no fluxo e o token de autenticação do aplicativo.",
+        "As reportagens não indicaram que os controles de isolamento em nuvem da Meta tivessem sido violados. O The Hacker News observou que não havia um comunicado de segurança da empresa quando publicou sua matéria; o The Register acrescentou depois uma declaração de David Singleton, da Meta, dizendo que o aplicativo havia sido revisado e recebera uma correção rápida.",
+        "Singleton classificou o caso como uma escalada de privilégio local e disse que o risco prático era baixo porque exigia código malicioso já presente no computador. A correção é uma afirmação da Meta reportada pelo The Register; o alcance demonstrado continua limitado ao aplicativo para Mac e às permissões que o usuário concedeu."
+      ]
+    },
+    "en": {
+      "title": "Researcher says Muse flaw could redirect dictation on Macs",
+      "summary": "Patrick Wardle demonstrated that code already running under a user’s account could change a Muse for Mac setting and redirect dictation. The flaw did not by itself enable a remote computer takeover; Meta said it had issued a fix.",
+      "aiSummary": [
+        "A researcher showed that a local process could change the destination setting for dictation in the macOS Muse app.",
+        "The scenario required code already running under the user’s account and did not demonstrate a standalone remote break-in or a Meta cloud breach.",
+        "Meta told The Register it had revised the app to address the issue and described the practical risk as low."
+      ],
+      "paragraphs": [
+        "Security researcher Patrick Wardle demonstrated a flaw in Meta’s Muse app for macOS. An undocumented setting could be changed by a local process to send voice dictation to an endpoint controlled by an attacker.",
+        "The issue required code already running under the user’s account, such as after malware was installed or a victim was tricked into running a command. The Register emphasized that the vulnerability did not let a remote attacker with no prior access break into a Mac on its own.",
+        "By redirecting voice input, an attacker could obtain dictated audio and text and try to make the assistant use access the user had already granted. Wardle also demonstrated risks involving inserted instructions and the app’s authentication token.",
+        "The reports did not indicate that Meta’s cloud-isolation controls had been breached. The Hacker News said the company had not issued a security advisory when it published its story; The Register later added a statement from Meta’s David Singleton saying the app had been revised and a hotfix issued.",
+        "Singleton characterized the case as a local privilege escalation and said practical risk was low because malicious code had to be present on the computer first. The fix is Meta’s claim as reported by The Register; the demonstrated scope remains limited to the Mac app and permissions granted by its user."
+      ]
+    }
+  },
+  "verification": {
+    "score": 8.3,
+    "checkedAt": "2026-09-24T14:35:43Z",
+    "checks": [
+      {
+        "provider": "Aos Fatos",
+        "url": "https://www.aosfatos.org/",
+        "finding": "no-match",
+        "note": "Portuguese site-scoped searches for the Meta Muse macOS issue, Wardle demonstration and fix status found no applicable fact-check; no-match is neutral."
+      },
+      {
+        "provider": "Agência Lupa",
+        "url": "https://www.agencialupa.org/",
+        "finding": "no-match",
+        "note": "Portuguese site-scoped searches for the Meta Muse macOS issue, Wardle demonstration and fix status found no applicable fact-check; no-match is neutral."
+      },
+      {
+        "provider": "Projeto Comprova",
+        "url": "https://projetocomprova.com.br/",
+        "finding": "no-match",
+        "note": "Portuguese site-scoped searches for the Meta Muse macOS issue, Wardle demonstration and fix status found no applicable fact-check; no-match is neutral."
+      },
+      {
+        "provider": "AFP Fact Check",
+        "url": "https://factcheck.afp.com/",
+        "finding": "no-match",
+        "note": "Search found no directly applicable AFP fact-check of the Muse vulnerability. Neutral."
+      },
+      {
+        "provider": "Reuters Fact Check",
+        "url": "https://www.reuters.com/fact-check/",
+        "finding": "no-match",
+        "note": "Search found no directly applicable Reuters fact-check. Neutral."
+      },
+      {
+        "provider": "Full Fact",
+        "url": "https://fullfact.org/",
+        "finding": "no-match",
+        "note": "Search found no directly applicable Full Fact article. Neutral."
+      },
+      {
+        "provider": "The Hacker News",
+        "url": "https://thehackernews.com/2026/09/one-hidden-meta-muse-setting-could-let.html",
+        "finding": "supports",
+        "note": "The complete saved report attributes the macOS proof-of-concept to researcher Patrick Wardle and states that code already running as the user was required; it does not establish an independent remote/cloud compromise."
+      },
+      {
+        "provider": "The Register",
+        "url": "https://www.theregister.com/ai-and-ml/2026/09/21/meta-muse-ai-app-flaw-lets-local-malware-redirect-dictation-traffic/5297980",
+        "finding": "context",
+        "note": "Full independent 751-word report corroborates local-process scope and adds Meta spokesperson David Singleton's 22 September statement that an update/hotfix was issued and practical risk was low. Fix status and risk remain attributed to Meta, not independently tested."
+      }
+    ],
+    "caveat": "Security framing is carefully limited: local code under the logged-in user's account was required; no standalone remote takeover or Meta cloud breach is claimed. The reported hotfix and low-risk assessment are Meta's statements, not independently verified technical test results."
+  }
+}

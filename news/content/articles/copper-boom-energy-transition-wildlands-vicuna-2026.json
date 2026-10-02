@@ -1,0 +1,141 @@
+{
+  "id": "copper-boom-energy-transition-wildlands-vicuna-2026",
+  "slug": "copper-boom-energy-transition-wildlands-vicuna-2026",
+  "section": "ciencia",
+  "secondarySections": [],
+  "publishedAt": "2026-09-22T14:19:12+00:00",
+  "publishedDate": "2026-09-22",
+  "updatedAt": "2026-09-24T17:45:13.603Z",
+  "sources": [
+    {
+      "name": "Mongabay",
+      "url": "https://news.mongabay.com/2026/09/copper-boom-fueling-energy-transition-puts-earths-wildlands-at-risk/"
+    },
+    {
+      "name": "Nature Sustainability",
+      "url": "https://doi.org/10.1038/s41893-022-00994-6"
+    },
+    {
+      "name": "Argentina.gob.ar / ENRE",
+      "url": "https://www.argentina.gob.ar/enre/audiencia-publica-por-proyecto-de-obra-en-complejo-minero-de-san-juan"
+    },
+    {
+      "name": "Argentina.gob.ar / ENReGE Resolution 330/2026",
+      "url": "https://www.argentina.gob.ar/noticias/resolucion-enrege-ndeg-3302026-autorizacion-de-acceso-y-ampliacion-de-la-capacidad-de"
+    },
+    {
+      "name": "BHP, 2026 half-year report",
+      "url": "https://www.bhp.com/-/media/documents/media/reports-and-presentations/2026/260217_bhpresultsforthehalfyearended31dec2025_exchangerelease.pdf"
+    }
+  ],
+  "rights": {
+    "mode": "original-report"
+  },
+  "translations": {
+    "pt-BR": {
+      "title": "Projeto de cobre nos Andes expõe tensão entre transição energética e territórios",
+      "summary": "Reportagem sobre o distrito Vicuña, entre Argentina e Chile, discute a expansão do cobre. Um estudo global encontrou sobreposição entre projetos de minerais da transição energética e terras indígenas, mas não mediu impactos locais em Vicuña.",
+      "aiSummary": [
+        "Reportagem da Mongabay publicada em 22 de setembro examina o projeto Vicuña, na fronteira entre Argentina e Chile, no contexto da demanda por cobre.",
+        "Uma análise de 5.097 projetos de minerais da transição energética encontrou 54% sobre ou perto de terras de povos indígenas; o estudo não é específico de Vicuña.",
+        "Uma decisão regulatória autorizou infraestrutura elétrica para Josemaría, mas não comprova efeitos ambientais locais."
+      ],
+      "paragraphs": [
+        "Uma reportagem publicada pela Mongabay em 22 de setembro examinou como a expansão de projetos de cobre, entre eles o distrito Vicuña nos Andes, é apresentada como resposta à demanda por minerais usados em tecnologias de baixo carbono. O texto discute a tensão entre obter matérias-primas para redes elétricas, veículos e outras tecnologias e ampliar a extração em paisagens sensíveis. Trata-se de uma reportagem ambiental, não de um novo estudo de campo sobre a mina.",
+        "Registros do regulador federal argentino ENRE mostram que uma audiência pública em 3 de junho de 2026 tratou de um pedido de 260 megawatts de acesso à transmissão para o complexo a céu aberto Josemaría, fase 1, em San Juan, e de obras de expansão solicitadas pela Vicuña Argentina. Em 31 de julho, o governo informou que a Resolução 330/2026 autorizou o acesso e a ampliação da rede elétrica. A decisão trata de infraestrutura; não comprova produção mineral nem efeitos ambientais locais.",
+        "Uma análise revisada por pares publicada em 2022 na Nature Sustainability mapeou 5.097 projetos ligados a minerais da transição energética e encontrou 54% localizados sobre ou perto de terras de povos indígenas. O conjunto abrange diferentes minerais e metais, não apenas cobre. Os autores mediram proximidade geográfica entre projetos e territórios; não avaliaram todos os efeitos sociais ou ecológicos de cada mina.",
+        "A análise global não determina se Vicuña se sobrepõe a um território indígena nem demonstra danos causados por esse empreendimento. A reportagem da Mongabay reúne preocupações de organizações ambientais e especialistas sobre água, geleiras e habitats andinos caso a extração se expanda. Esses pontos são apresentados como riscos e projeções atribuídos, não como impactos já medidos no local.",
+        "Há uma diferença importante entre o alerta geral e a evidência sobre o projeto. A página da reportagem atribui o número de 54% a um estudo de 2025 na revista Nature; o número corresponde à análise de Owen e colegas publicada em 2022 na Nature Sustainability, citada aqui diretamente. O estudo sustenta um contexto global de sobreposição territorial, enquanto os registros do ENRE e do BHP descrevem planejamento e avaliações do empreendimento. Nenhuma dessas fontes estabelece, por si só, um efeito ambiental específico em Vicuña."
+      ]
+    },
+    "en": {
+      "title": "Andean copper project highlights tension between energy transition and land",
+      "summary": "A report on the Vicuña district between Argentina and Chile examines copper expansion. A global study found overlap between energy-transition mineral projects and Indigenous lands, but did not measure local impacts at Vicuña.",
+      "aiSummary": [
+        "A Mongabay report published September 22 examines the Vicuña project on the Argentina–Chile border in the context of copper demand.",
+        "An analysis of 5,097 energy-transition mineral projects found 54% on or near Indigenous peoples’ lands; the study is not specific to Vicuña.",
+        "An Argentine regulatory decision authorized electricity infrastructure for Josemaría but does not establish local environmental effects."
+      ],
+      "paragraphs": [
+        "A Mongabay report published September 22 examined how expansion of copper projects, including the Vicuña district in the Andes, is framed as a response to demand for minerals used in low-carbon technologies. The story discusses the tension between obtaining materials for power grids, vehicles and other technologies and expanding extraction in sensitive landscapes. It is environmental reporting, not a new field study of the mine.",
+        "Records from Argentina’s federal electricity regulator, ENRE, show that a public hearing on June 3, 2026, addressed a request for 260 megawatts of transmission access for the Josemaría Phase 1 open-pit complex in San Juan and expansion works requested by Vicuña Argentina. On July 31, the Argentine government said Resolution 330/2026 authorized the access and electric-grid expansion. That is an infrastructure decision; it does not establish mineral production or local environmental effects.",
+        "A peer-reviewed analysis published in Nature Sustainability in 2022 mapped 5,097 projects linked to energy-transition minerals and found that 54% were located on or near Indigenous peoples’ lands. The sample covers different minerals and metals, not copper alone. The authors measured geographic proximity between projects and territories; they did not assess every mine’s social or ecological effects.",
+        "The global analysis does not determine whether Vicuña overlaps Indigenous territory or demonstrate damage caused by this project. Mongabay’s report gathers concerns from environmental organizations and experts about water, glaciers and Andean habitats if extraction expands. Those points are presented as attributed risks and projections, not as impacts already measured at the site.",
+        "There is an important distinction between the broad warning and evidence about this project. Mongabay’s page attributes the 54% figure to a 2025 study in Nature; the number corresponds to the analysis by Owen and colleagues published in Nature Sustainability in 2022, cited here directly. That study supports a global context of territorial overlap, while ENRE and BHP records describe planning and project assessments. None of these sources alone establishes a specific environmental effect at Vicuña."
+      ]
+    }
+  },
+  "verification": {
+    "score": 9.2,
+    "checkedAt": "2026-09-24T14:21:03Z",
+    "checks": [
+      {
+        "provider": "Nature Sustainability",
+        "url": "https://doi.org/10.1038/s41893-022-00994-6",
+        "finding": "supports",
+        "note": "Owen et al.'s 2022 analysis maps 5,097 energy-transition-mineral projects; the 54% on-or-near Indigenous territories statistic is global and is not a Vicuña site-impact assessment."
+      },
+      {
+        "provider": "Mongabay",
+        "url": "https://news.mongabay.com/2026/09/copper-boom-fueling-energy-transition-puts-earths-wildlands-at-risk/",
+        "finding": "context",
+        "note": "The source story attributes the 54% figure to a 2025 Nature study; it matches the 2022 Nature Sustainability paper above. This Ciência copy flags and corrects that attribution and does not convert global overlap into a Vicuña-specific finding."
+      },
+      {
+        "provider": "Argentina.gob.ar / ENRE",
+        "url": "https://www.argentina.gob.ar/noticias/resolucion-enrege-ndeg-3302026-autorizacion-de-acceso-y-ampliacion-de-la-capacidad-de",
+        "finding": "supports",
+        "note": "The official July 2026 notice supports authorization of 260 MW transmission access and grid expansion for Josemaría Phase 1/Vicuña Argentina; it establishes infrastructure planning, not production or environmental harm."
+      },
+      {
+        "provider": "BHP",
+        "url": "https://www.bhp.com/-/media/documents/media/reports-and-presentations/2026/260217_bhpresultsforthehalfyearended31dec2025_exchangerelease.pdf",
+        "finding": "context",
+        "note": "Project-owner disclosure describes Vicuña as a potential future development subject to studies, environmental assessment, permits and engagement; it is not independent evidence of site impacts."
+      },
+      {
+        "provider": "Aos Fatos",
+        "url": "https://www.aosfatos.org/",
+        "finding": "no-match",
+        "note": "Targeted Portuguese claim/title variants produced no relevant fact-check. Neutral result; no-match is not evidence of truth."
+      },
+      {
+        "provider": "Agência Lupa",
+        "url": "https://www.agencialupa.org/",
+        "finding": "no-match",
+        "note": "Targeted Portuguese claim/title variants produced no relevant fact-check. Neutral result; no-match is not evidence of truth."
+      },
+      {
+        "provider": "Projeto Comprova",
+        "url": "https://projetocomprova.com.br/",
+        "finding": "no-match",
+        "note": "Targeted Portuguese claim/title variants produced no relevant fact-check. Neutral result; no-match is not evidence of truth."
+      },
+      {
+        "provider": "AFP Fact Check",
+        "url": "https://factcheck.afp.com/",
+        "finding": "no-match",
+        "note": "Targeted English/Spanish claim variants produced no relevant fact-check. Neutral result; no-match is not evidence of truth."
+      },
+      {
+        "provider": "Reuters Fact Check",
+        "url": "https://www.reuters.com/fact-check/",
+        "finding": "no-match",
+        "note": "Targeted English/Spanish claim variants produced no relevant fact-check. Neutral result; no-match is not evidence of truth."
+      },
+      {
+        "provider": "Full Fact",
+        "url": "https://fullfact.org/",
+        "finding": "no-match",
+        "note": "Targeted English claim variants produced no relevant fact-check. Neutral result; no-match is not evidence of truth."
+      },
+      {
+        "provider": "Google Fact Check Tools",
+        "url": "https://toolbox.google.com/factcheck/explorer",
+        "finding": "no-match",
+        "note": "Targeted ClaimReview searches produced no relevant indexed fact-check. Neutral result; no-match is not evidence of truth."
+      }
+    ],
+    "caveat": "The 54% statistic applies to a global, multi-mineral project set, not this district. Water, glacier, habitat and social effects in the article are attributed risks/projections rather than impacts measured at Vicuña; the source-study year mismatch is corrected in this copy."
+  }
+}

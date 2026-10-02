@@ -1,0 +1,86 @@
+{
+  "id": "museu-do-folclore-recebe-bordados-do-vale-do-jequitinhonha",
+  "slug": "museu-do-folclore-recebe-bordados-do-vale-do-jequitinhonha",
+  "section": "cultura",
+  "secondarySections": [],
+  "publishedAt": "2026-09-20T18:47:00-03:00",
+  "updatedAt": "2026-09-24T17:45:13.603Z",
+  "sources": [
+    {
+      "name": "Agência Brasil",
+      "url": "https://agenciabrasil.ebc.com.br/cultura/noticia/2026-09/museu-do-folclore-recebe-bordados-do-vale-do-jequitinhonha"
+    },
+    {
+      "name": "Centro Nacional de Folclore e Cultura Popular / Iphan",
+      "url": "https://www.gov.br/iphan/pt-br/unidades-especiais/centro-nacional-de-folclore-e-cultura-popular/noticias-1/nova-exposicao-na-sala-do-artista-popular-em-setembro-arte-textil-em-turmalina-e-veredinha-jequitinhonha-mg"
+    }
+  ],
+  "rights": {
+    "mode": "original-report"
+  },
+  "translations": {
+    "pt-BR": {
+      "title": "Museu do Folclore leva bordados de Turmalina e Veredinha ao Rio",
+      "summary": "Mostra gratuita no Catete apresenta a arte têxtil do Alto Jequitinhonha, com peças de algodão e bordados ligados ao trabalho de associações locais.",
+      "aiSummary": [
+        "A exposição reúne tecidos e bordados produzidos por artesãs de Turmalina e Veredinha, em Minas Gerais.",
+        "A mostra gratuita fica no Centro Nacional de Folclore e Cultura Popular, no Rio, até 29 de novembro.",
+        "A pesquisa associada à exposição ouviu 40 mulheres e apresenta o trabalho coletivo das artesãs."
+      ],
+      "paragraphs": [
+        "A exposição Arte têxtil de Turmalina e Veredinha – Jequitinhonha, MG está em cartaz até 29 de novembro na Sala do Artista Popular do Centro Nacional de Folclore e Cultura Popular, no Museu de Folclore Edison Carneiro, no Catete, Rio de Janeiro. A entrada é gratuita.",
+        "A mostra apresenta tecidos de algodão feitos à mão, com bordados e acabamentos ponto a ponto associados às duas cidades mineiras. As peças incluem trabalhos para decoração, cama, mesa e vestuário, além de detalhes em crochê que variam entre as artesãs.",
+        "A historiadora Ana Lima Kallás conduziu a pesquisa de campo e entrevistou 40 mulheres para compor a exposição. O recorte reúne práticas de Turmalina e Veredinha, na região do Alto Jequitinhonha, e documenta uma tradição têxtil que combina tecelagem, bordado e outros ofícios manuais.",
+        "Kallás afirma que a exposição também propõe discutir mudanças no cultivo familiar de algodão, que ela relaciona à expansão de plantações de eucalipto. A pesquisadora destaca ainda que o bordado foi historicamente tratado como atividade doméstica feminina, embora associações de artesãs o apresentem hoje como trabalho profissional e fonte de renda.",
+        "Entidades locais como Astur e Soarte articulam a compra de insumos, a participação em feiras, a criação de coleções e a capacitação. Na avaliação das lideranças ouvidas, a organização coletiva ajuda a divulgar a produção e a sustentar famílias, sem separar o artesanato de seus vínculos comunitários."
+      ]
+    },
+    "en": {
+      "title": "Folklore museum brings Turmalina and Veredinha embroidery to Rio",
+      "summary": "A free exhibition in Catete presents textile art from the Upper Jequitinhonha, including cotton pieces and embroidery connected to local artisans’ associations.",
+      "aiSummary": [
+        "The exhibition features textiles and embroidery made by artisans from Turmalina and Veredinha in Minas Gerais.",
+        "The free show is at the National Centre for Folklore and Popular Culture in Rio through November 29.",
+        "Research for the exhibition interviewed 40 women and documents the artisans’ collective work."
+      ],
+      "paragraphs": [
+        "The exhibition Arte têxtil de Turmalina e Veredinha – Jequitinhonha, MG runs through November 29 at the Sala do Artista Popular of the National Centre for Folklore and Popular Culture, inside the Edison Carneiro Folklore Museum in Rio de Janeiro’s Catete district. Admission is free.",
+        "The show presents handmade cotton textiles with embroidery and detailed finishing associated with the two towns in Minas Gerais. The pieces include work for decoration, bedding, tableware and clothing, with crochet details that vary among the artisans.",
+        "Historian Ana Lima Kallás conducted the field research and interviewed 40 women for the exhibition. Its focus is on Turmalina and Veredinha in the Upper Jequitinhonha and documents a textile tradition combining weaving, embroidery and other handcrafts.",
+        "Kallás says the exhibition also invites discussion of changes to family cotton cultivation, which she links to the expansion of eucalyptus plantations. She notes that embroidery was historically framed as women’s domestic work, while artisans’ associations now present it as professional activity and a source of income.",
+        "Local groups such as Astur and Soarte coordinate the purchase of supplies, participation in fairs, new collections and training. Leaders interviewed for the report say collective organization helps bring the work to wider audiences and support families while keeping the craft connected to community life."
+      ]
+    }
+  },
+  "verification": {
+    "score": 9,
+    "checkedAt": "2026-09-24T14:17:43Z",
+    "checks": [
+      {
+        "provider": "Agência Brasil",
+        "url": "https://agenciabrasil.ebc.com.br/cultura/noticia/2026-09/museu-do-folclore-recebe-bordados-do-vale-do-jequitinhonha",
+        "finding": "supports",
+        "note": "Original report supports the exhibition, artisan groups, 40 interviewees and attributed social/economic observations."
+      },
+      {
+        "provider": "CNFCP/IPHAN",
+        "url": "https://www.gov.br/iphan/pt-br/unidades-especiais/centro-nacional-de-folclore-e-cultura-popular/noticias-1/nova-exposicao-na-sala-do-artista-popular-em-setembro-arte-textil-em-turmalina-e-veredinha-jequitinhonha-mg",
+        "finding": "supports",
+        "note": "Official announcement confirms show title, venue, textile focus, free admission and exhibition dates."
+      },
+      {
+        "provider": "Agência Lupa",
+        "url": "https://www.agencialupa.org/",
+        "finding": "no-match",
+        "note": "Targeted search for the exhibition and named towns/artists found no relevant fact-check; neutral, not evidence of truth."
+      },
+      {
+        "provider": "AFP Fact Check",
+        "url": "https://factcheck.afp.com/",
+        "finding": "no-match",
+        "note": "Targeted search for the exhibition and artist found no relevant fact-check; neutral, not evidence of truth."
+      }
+    ],
+    "caveat": "Research and livelihood claims are attributed to the researcher and artisans; the official notice independently confirms event particulars, not every interview claim. No material contradiction found."
+  }
+}

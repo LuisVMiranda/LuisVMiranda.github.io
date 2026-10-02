@@ -1,0 +1,127 @@
+{
+  "id": "apexbrasil-e-cni-firmam-convenio-de-r-7-1-milhoes-para-ampliar-presenca-da-industria-brasi",
+  "slug": "apexbrasil-e-cni-firmam-convenio-de-r-7-1-milhoes-para-ampliar-presenca-da-industria-brasi",
+  "section": "economia",
+  "secondarySections": [],
+  "publishedAt": "2026-09-17T00:00:00Z",
+  "publishedDate": "2026-09-17",
+  "updatedAt": "2026-09-24T17:45:13.603Z",
+  "sources": [
+    {
+      "name": "ApexBrasil",
+      "url": "https://apexbrasil.com.br/content/apexbrasil/br/pt/conteudo/noticias/apexbrasil-e-cni-firmam-convenio-de-r--7-1-milhoes-para-ampliar-.html"
+    },
+    {
+      "name": "Confederação Nacional da Indústria (CNI)",
+      "url": "https://noticias.portaldaindustria.com.br/noticias/internacional/cni-e-apexbrasil-anunciam-nova-parceria-para-impulsionar-internacionalizacao-da-industria/"
+    },
+    {
+      "name": "CNI — Nota Executiva 02/2026, Convênio CNI/ApexBrasil",
+      "url": "https://static.portaldaindustria.com.br/media/filer_public/a3/c8/a3c8b688-11c8-4ad5-9ccb-6efd389eac8d/industria_no_mundo_-_nota_executiva_no_022026_convenio_cni-apexbrasil_1.pdf"
+    }
+  ],
+  "rights": {
+    "mode": "original-report"
+  },
+  "translations": {
+    "pt-BR": {
+      "title": "ApexBrasil e CNI firmam acordo de R$ 7,1 milhões para apoiar exportadores",
+      "summary": "O convênio de R$ 7,1 milhões, com duração de 12 meses, prevê oito ações e atendimento a 400 empresas em quatro regiões.",
+      "aiSummary": [
+        "A CNI descreve o investimento arredondado de R$ 7,1 milhões como dividido igualmente entre as signatárias.",
+        "O plano prevê atender 400 empresas em oito ações ao longo de 12 meses.",
+        "As frentes incluem diversificação de mercados, bioeconomia, digitalização industrial e mulheres na indústria."
+      ],
+      "paragraphs": [
+        "A ApexBrasil e a Confederação Nacional da Indústria assinaram um convênio de R$ 7,1 milhões para ampliar a presença de empresas brasileiras no exterior. O acordo foi assinado em 16 de setembro e publicado pela ApexBrasil em 17 de setembro; terá duração de 12 meses e prevê atender 400 companhias em oito ações.",
+        "Em nota oficial sobre o convênio, a CNI apresenta o investimento total arredondado para R$ 7,1 milhões e descreve a participação das duas signatárias como igual.",
+        "As ações estão previstas para América Latina e Caribe, Europa, Ásia e África. O desenho do programa busca aproximar empresas nacionais de compradores e ampliar destinos de exportação; a assinatura formaliza uma agenda de trabalho, mas não garante contratos ou vendas futuras.",
+        "O convênio organiza o apoio em quatro frentes: uso de acordos comerciais e diversificação de parceiros; bioeconomia e indústria sustentável; indústria do futuro e transformação digital; e participação de mulheres na indústria. A ApexBrasil afirmou que a diversificação ganhou relevância diante das tarifas adicionais impostas pelos Estados Unidos a produtos brasileiros.",
+        "A ApexBrasil situou o acordo numa cooperação iniciada em 2008. Segundo os dados divulgados pela agência, trabalhos anteriores somaram 200 ações e 7.039 empresas atendidas, com expectativa acumulada de US$ 2,686 bilhões em negócios; no ciclo de 2024 a 2026, foram 847 empresas e expectativa de US$ 208 milhões, projeções que não equivalem a receitas realizadas."
+      ]
+    },
+    "en": {
+      "title": "ApexBrasil and CNI sign R$7.1 million export-support agreement",
+      "summary": "The R$7.1 million, 12-month agreement plans eight actions and support for 400 companies across four regions.",
+      "aiSummary": [
+        "CNI describes the rounded R$7.1 million investment as split equally between the signatories.",
+        "The plan targets 400 companies through eight actions over 12 months.",
+        "Its workstreams include market diversification, bioeconomy, industrial digitalization and women in industry."
+      ],
+      "paragraphs": [
+        "ApexBrasil and the National Confederation of Industry signed a R$7.1 million agreement to help Brazilian companies expand abroad. Signed on September 16 and published by ApexBrasil on September 17, the agreement will run for 12 months and plans to serve 400 companies through eight actions.",
+        "In its official note on the agreement, CNI reports the total rounded to R$7.1 million and describes the two signatories' participation as equal.",
+        "Activities are planned for Latin America and the Caribbean, Europe, Asia and Africa. The program is intended to connect Brazilian companies with buyers and diversify export destinations; the agreement establishes a work plan but does not guarantee future contracts or sales.",
+        "The agreement has four workstreams: using trade agreements and diversifying partners; bioeconomy and sustainable industry; future industry and digital transformation; and women in industry. ApexBrasil said diversification had become more relevant amid additional U.S. tariffs on Brazilian products.",
+        "ApexBrasil placed the agreement within cooperation that began in 2008. Figures published by the agency say earlier work included 200 actions and 7,039 companies served, with an accumulated business expectation of US$2.686 billion; the 2024–2026 cycle served 847 companies and carried a US$208 million business expectation, projections that are not realized revenue."
+      ]
+    }
+  },
+  "verification": {
+    "score": 8.6,
+    "checkedAt": "2026-09-24T15:58:55Z",
+    "checks": [
+      {
+        "provider": "Aos Fatos",
+        "url": "https://www.aosfatos.org/",
+        "finding": "no-match",
+        "note": "Exact-claim site-restricted search for ApexBrasil, CNI and R$7.1 million surfaced no relevant fact-check; neutral, not support."
+      },
+      {
+        "provider": "Agência Lupa",
+        "url": "https://www.agencialupa.org/",
+        "finding": "no-match",
+        "note": "Exact-claim site-restricted search surfaced no relevant check of this agreement or amount; unrelated CNI and funding items were not treated as findings. Neutral."
+      },
+      {
+        "provider": "Projeto Comprova",
+        "url": "https://projetocomprova.com.br/",
+        "finding": "no-match",
+        "note": "Site-restricted search surfaced no relevant fact-check of the agreement or rounded total; neutral."
+      },
+      {
+        "provider": "Reuters Fact Check",
+        "url": "https://www.reuters.com/fact-check/",
+        "finding": "no-match",
+        "note": "Searches for the named parties and agreement amount surfaced no relevant Reuters fact-check; unrelated checks were excluded. Neutral."
+      },
+      {
+        "provider": "AFP Fact Check",
+        "url": "https://factcheck.afp.com/",
+        "finding": "no-match",
+        "note": "Searches for the named parties and agreement surfaced no relevant AFP fact-check; unrelated Brazil checks were excluded. Neutral."
+      },
+      {
+        "provider": "Full Fact",
+        "url": "https://fullfact.org/",
+        "finding": "no-match",
+        "note": "Searches for the named parties and agreement surfaced no relevant Full Fact check; unrelated Brazil/trade claims were excluded. Neutral."
+      },
+      {
+        "provider": "Google Fact Check Explorer",
+        "url": "https://toolbox.google.com/factcheck/explorer",
+        "finding": "no-match",
+        "note": "The live Explorer query ‘ApexBrasil CNI 7,1 milhões’ returned no matching claim record in English; this no-match is neutral."
+      },
+      {
+        "provider": "ApexBrasil",
+        "url": "https://apexbrasil.com.br/content/apexbrasil/br/pt/conteudo/noticias/apexbrasil-e-cni-firmam-convenio-de-r--7-1-milhoes-para-ampliar-.html",
+        "finding": "context",
+        "note": "Opened full release confirms the agreement and says R$7.103 million total with R$3.551 million from each signatory. Those stated shares total R$7.102 million, leaving R$1,000 unexplained; it supports the rounded total and equal-participation wording, not exact allocation."
+      },
+      {
+        "provider": "CNI — Nota Executiva 02/2026",
+        "url": "https://static.portaldaindustria.com.br/media/filer_public/a3/c8/a3c8b688-11c8-4ad5-9ccb-6efd389eac8d/industria_no_mundo_-_nota_executiva_no_022026_convenio_cni-apexbrasil_1.pdf",
+        "finding": "supports",
+        "note": "Opened one-page CNI note states an investment total of R$7.1 million and specifies 50% CNI / 50% ApexBrasil. It corroborates the revised rounded total and equal-participation description but gives no exact per-signatory amounts."
+      },
+      {
+        "provider": "Confederação Nacional da Indústria (CNI)",
+        "url": "https://noticias.portaldaindustria.com.br/noticias/internacional/cni-e-apexbrasil-anunciam-nova-parceria-para-impulsionar-internacionalizacao-da-industria/",
+        "finding": "supports",
+        "note": "Opened CNI release corroborates the September 16 renewal, 12-month term, 400-company target and eight actions; it does not state an exact investment amount or per-signatory share."
+      }
+    ],
+    "caveat": "The PT-BR and EN copy state only the rounded R$7.1 million total and equal participation; neither gives R$7.103 million nor R$3.551 million per signatory. ApexBrasil's exact figures remain arithmetically inconsistent by R$1,000 (R$3.551m × 2 = R$7.102m), and the CNI note does not resolve that precision. The discrepancy is disclosed here and is non-blocking for the revised, bounded wording. Score is editorial evidence confidence, not a guarantee."
+  }
+}

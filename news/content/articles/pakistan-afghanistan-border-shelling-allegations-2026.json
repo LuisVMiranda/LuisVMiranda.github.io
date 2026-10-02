@@ -1,0 +1,85 @@
+{
+  "id": "pakistan-afghanistan-border-shelling-allegations-2026",
+  "slug": "pakistan-afghanistan-border-shelling-allegations-2026",
+  "section": "mundo",
+  "secondarySections": [],
+  "publishedAt": "2026-09-23T00:00:00.000Z",
+  "publishedDate": "2026-09-23",
+  "updatedAt": "2026-09-24T17:45:13.603Z",
+  "sources": [
+    {
+      "name": "Associated Press",
+      "url": "https://apnews.com/article/pakistan-afghanistan-border-fighting-66402ffe6fc48608ea4c32a099774c4c"
+    }
+  ],
+  "rights": {
+    "mode": "original-report"
+  },
+  "translations": {
+    "pt-BR": {
+      "title": "Paquistão e Talibã afegão divergem sobre disparos na fronteira",
+      "summary": "Autoridades paquistanesas acusaram forças afegãs de bombardear postos; o governo talibã negou e a AP disse não ter verificado os relatos de forma independente.",
+      "aiSummary": [
+        "Autoridades locais paquistanesas alegaram que forças talibãs afegãs dispararam contra postos na fronteira.",
+        "O porta-voz do governo talibã negou o ataque.",
+        "A AP afirmou que não conseguiu verificar de forma independente os relatos; o episódio não é tratado aqui como fato confirmado."
+      ],
+      "paragraphs": [
+        "Autoridades locais paquistanesas disseram à Associated Press que forças do Talibã afegão dispararam contra postos fronteiriços durante a noite. A acusação foi associada pelos funcionários a uma tentativa de infiltração de militantes que, segundo eles, teria sido frustrada por tropas paquistanesas.",
+        "Zabiullah Mujahid, porta-voz do governo talibã do Afeganistão, negou que forças afegãs tenham realizado ataques. A reportagem não apresentou uma confirmação independente do suposto bombardeio nem resolveu a divergência entre as versões oficiais.",
+        "A AP atribuiu as informações a quatro funcionários locais paquistaneses, que falaram sob anonimato. Segundo o texto, eles afirmaram que os disparos teriam envolvido morteiros e outras armas pesadas, seguidos por uma resposta de artilharia do Paquistão; esses detalhes também não foram verificados de forma independente.",
+        "O relato situa as acusações em uma sequência recente de tensões entre Cabul e Islamabad, mas não prova a autoria nem os acontecimentos descritos pelos funcionários. A própria AP advertiu que não conseguiu confirmar os relatos sobre o confronto.",
+        "A reportagem disse que a escalada poderia complicar esforços de mediação conduzidos por países da região. Essa consequência foi apresentada como risco diplomático, não como o fracasso de negociações ou o início confirmado de um novo conflito.",
+        "Assim, o fato documentado nesta matéria é a existência de versões públicas incompatíveis: autoridades locais do Paquistão fizeram a acusação e o porta-voz talibã a negou. A ocorrência e os detalhes do bombardeio permaneciam sem verificação independente no momento da publicação."
+      ]
+    },
+    "en": {
+      "title": "Pakistan and Afghan Taliban dispute reports of border shelling",
+      "summary": "Pakistani officials accused Afghan forces of shelling border posts; the Taliban government denied it, and the AP said it could not independently verify the accounts.",
+      "aiSummary": [
+        "Local Pakistani officials alleged that Afghan Taliban forces fired on border posts.",
+        "The Taliban government’s spokesman denied an attack.",
+        "The AP said it could not independently verify the accounts; the incident is not presented here as confirmed fact."
+      ],
+      "paragraphs": [
+        "Local Pakistani officials told the Associated Press that Afghan Taliban forces had shelled border posts overnight. The officials linked the allegation to an attempted militant infiltration that, they said, Pakistani troops had thwarted.",
+        "Zabiullah Mujahid, spokesman for Afghanistan’s Taliban government, denied that Afghan forces had carried out attacks. The report provided no independent confirmation of the alleged shelling and did not resolve the conflict between the official accounts.",
+        "The AP attributed the details to four local Pakistani officials who spoke anonymously. They said the exchange involved mortars and other heavy weapons, followed by Pakistani artillery fire; those details also could not be independently verified.",
+        "The account placed the allegations amid a recent sequence of tensions between Kabul and Islamabad, but did not prove who was responsible or whether the events described by the officials occurred. The AP explicitly said it could not verify the accounts independently.",
+        "The report said the escalation could complicate mediation efforts by regional countries. That was presented as a diplomatic risk, not as the failure of negotiations or confirmation that a new conflict had begun.",
+        "The documented fact in this report is that incompatible public accounts were issued: local Pakistani officials made the allegation and the Taliban spokesman denied it. Whether the shelling occurred, and the details claimed, remained independently unverified at publication."
+      ]
+    }
+  },
+  "verification": {
+    "score": 8.1,
+    "checkedAt": "2026-09-24T14:23:42Z",
+    "checks": [
+      {
+        "provider": "Associated Press (primary report)",
+        "url": "https://apnews.com/article/pakistan-afghanistan-border-fighting-66402ffe6fc48608ea4c32a099774c4c",
+        "finding": "supports",
+        "note": "The complete AP report supports that four anonymous local Pakistani officials made the allegation and Taliban spokesman Zabiullah Mujahid denied an attack; AP explicitly says it could not independently verify the accounts."
+      },
+      {
+        "provider": "AFP Fact Check",
+        "url": "https://factcheck.afp.com/",
+        "finding": "no-match",
+        "note": "Targeted searches found no relevant direct fact-check of the September 23 shelling allegation; search-result leads were not treated as findings. Neutral."
+      },
+      {
+        "provider": "Reuters Fact Check",
+        "url": "https://www.reuters.com/fact-check/",
+        "finding": "no-match",
+        "note": "No direct fact-check of this alleged border exchange found; neutral."
+      },
+      {
+        "provider": "Full Fact",
+        "url": "https://fullfact.org/",
+        "finding": "no-match",
+        "note": "No matching fact-check of the specific alleged September 23 exchange found; neutral, not evidence that shelling occurred or did not occur."
+      }
+    ],
+    "caveat": "Only AP independently captured the competing accounts; the alleged shelling, weapons used, casualties and sequence remain unverified. The draft correctly reports the dispute rather than asserting the exchange occurred. Independent confirmation remains the strongest follow-up lead."
+  }
+}

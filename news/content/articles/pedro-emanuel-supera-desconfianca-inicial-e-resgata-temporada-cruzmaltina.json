@@ -1,0 +1,125 @@
+{
+  "id": "pedro-emanuel-supera-desconfianca-inicial-e-resgata-temporada-cruzmaltina",
+  "slug": "pedro-emanuel-supera-desconfianca-inicial-e-resgata-temporada-cruzmaltina",
+  "section": "esportes",
+  "secondarySections": [],
+  "publishedAt": "2026-09-22",
+  "publishedDate": "2026-09-22",
+  "updatedAt": "2026-09-24T17:45:13.603Z",
+  "sources": [
+    {
+      "name": "Terra / Esporte News Mundo",
+      "url": "https://www.terra.com.br/esportes/vasco/pedro-emanuel-supera-desconfianca-inicial-e-resgata-temporada-cruzmaltina,a19dbec8c8b36eb99f2a323ffe6aa1a1c80cwn78.html"
+    },
+    {
+      "name": "Confederação Brasileira de Futebol",
+      "url": "https://www.cbf.com.br/futebol-brasileiro/noticias/campeonato-brasileiro-serie-a/a/vasco-goleia-coritiba-por-5-a-0-e-sai-do-z-4-do-brasileirao"
+    },
+    {
+      "name": "CONMEBOL Sudamericana",
+      "url": "https://gol.conmebol.com/sudamericana/es/news/independiente-santa-fe-y-vasco-da-gama-igualaron-sin-goles-en-bogota"
+    },
+    {
+      "name": "CONMEBOL Sudamericana",
+      "url": "https://gol.conmebol.com/sudamericana/es/news/vasco-da-gama-hizo-pesar-la-localia-y-avanzo-las-semifinales"
+    }
+  ],
+  "rights": {
+    "mode": "original-report"
+  },
+  "translations": {
+    "pt-BR": {
+      "title": "Vasco combina goleada no Brasileirão e vaga na semifinal da Sul-Americana",
+      "summary": "Sob Pedro Emanuel, o time venceu o Coritiba por 5 a 0 e eliminou o Santa Fe nas quartas da competição continental.",
+      "aiSummary": [
+        "O Vasco venceu o Coritiba por 5 a 0 em 19 de setembro e saiu do Z-4 naquele momento.",
+        "Na Sul-Americana, empatou por 0 a 0 com o Santa Fe em Bogotá e venceu a volta por 2 a 0 em São Januário.",
+        "A classificação levou o clube à semifinal; o próximo compromisso informado era contra o Botafogo em 7 de outubro."
+      ],
+      "paragraphs": [
+        "O Vasco encerrou a sequência antes da Data Fifa com resultados importantes nas duas frentes detalhadas pelas fontes oficiais. A equipe, comandada por Pedro Emanuel, goleou o Coritiba no Brasileirão e avançou às semifinais da Copa Sul-Americana.",
+        "Em 19 de setembro, o Vasco venceu o Coritiba por 5 a 0 em São Januário, pela 28ª rodada do campeonato. A CBF informou que marcaram Colidio, Bruno Duarte, Lescano, Andrés Gómez e Ramon Rique; naquele momento, o resultado tirou o clube da zona de rebaixamento.",
+        "Nas quartas de final da Sul-Americana, o primeiro jogo contra o Independiente Santa Fe terminou sem gols em Bogotá. A CONMEBOL destacou as defesas de Léo Jardim e registrou o empate por 0 a 0.",
+        "Na volta, em São Januário, o Vasco venceu por 2 a 0 e garantiu a vaga na semifinal. Bruno Duarte marcou no primeiro tempo e David fez o segundo gol após entrar durante a etapa final, de acordo com a CONMEBOL.",
+        "A reportagem do Terra, licenciada de Esporte News Mundo, disse que o elenco teria uma pausa e voltaria aos treinos em 24 de setembro; o próximo jogo previsto era a visita ao Botafogo em 7 de outubro. Pedro Emanuel afirmou que o Vasco daria importância às três competições, com foco maior no Brasileirão."
+      ]
+    },
+    "en": {
+      "title": "Vasco pairs a league rout with a Sudamericana semifinal place",
+      "summary": "Under Pedro Emanuel, the team beat Coritiba 5-0 and eliminated Santa Fe in the continental quarterfinals.",
+      "aiSummary": [
+        "Vasco beat Coritiba 5-0 on September 19 and left the relegation zone at that point.",
+        "In the Sudamericana, it drew 0-0 with Santa Fe in Bogotá and won the return leg 2-0 at São Januário.",
+        "The result sent the club to the semifinals; the next fixture listed was against Botafogo on October 7."
+      ],
+      "paragraphs": [
+        "Vasco ended its run before the international break with important results in the two competitions detailed by official sources. The team, coached by Pedro Emanuel, routed Coritiba in the Brazilian league and advanced to the Copa Sudamericana semifinals.",
+        "On September 19, Vasco beat Coritiba 5-0 at São Januário in the league's 28th round. The CBF listed Colidio, Bruno Duarte, Lescano, Andrés Gómez and Ramon Rique as scorers; at that point, the result moved the club out of the relegation zone.",
+        "In the Sudamericana quarterfinals, the first match against Independiente Santa Fe ended scoreless in Bogotá. CONMEBOL highlighted Léo Jardim's saves and recorded a 0-0 draw.",
+        "Vasco won the return leg 2-0 at São Januário to secure a semifinal place. Bruno Duarte scored in the first half and David added the second after coming on during the second half, according to CONMEBOL.",
+        "Terra's report, licensed from Esporte News Mundo, said the squad was due to rest and return to training on September 24; the next listed match was an away fixture against Botafogo on October 7. Pedro Emanuel said Vasco would value all three competitions, with greater focus on the Brazilian league."
+      ]
+    }
+  },
+  "verification": {
+    "score": 9,
+    "checkedAt": "2026-09-24T15:59:13Z",
+    "checks": [
+      {
+        "provider": "Aos Fatos",
+        "url": "https://www.aosfatos.org/",
+        "finding": "no-match",
+        "note": "Exact-name/team/result searches found no relevant fact-check of Pedro Emanuel or the Vasco results. Neutral."
+      },
+      {
+        "provider": "Agência Lupa",
+        "url": "https://www.agencialupa.org/",
+        "finding": "no-match",
+        "note": "No claim-specific check of this Vasco results story found. Neutral."
+      },
+      {
+        "provider": "Projeto Comprova",
+        "url": "https://projetocomprova.com.br/",
+        "finding": "no-match",
+        "note": "No relevant fact-check found for the match results or manager framing. Neutral."
+      },
+      {
+        "provider": "AFP Fact Check",
+        "url": "https://factcheck.afp.com/",
+        "finding": "no-match",
+        "note": "No relevant international fact-check found for these competition results. Neutral."
+      },
+      {
+        "provider": "Reuters Fact Check",
+        "url": "https://www.reuters.com/fact-check/",
+        "finding": "no-match",
+        "note": "No relevant check found for the named manager or results. Neutral."
+      },
+      {
+        "provider": "Full Fact",
+        "url": "https://fullfact.org/",
+        "finding": "no-match",
+        "note": "No relevant fact-check found for this Brazilian football item. Neutral."
+      },
+      {
+        "provider": "Confederação Brasileira de Futebol",
+        "url": "https://www.cbf.com.br/futebol-brasileiro/noticias/campeonato-brasileiro-serie-a/a/vasco-goleia-coritiba-por-5-a-0-e-sai-do-z-4-do-brasileirao",
+        "finding": "supports",
+        "note": "CBF confirms Vasco's 5–0 win over Coritiba on September 19 and that it moved out of the relegation zone at that point."
+      },
+      {
+        "provider": "CONMEBOL",
+        "url": "https://gol.conmebol.com/sudamericana/es/news/independiente-santa-fe-y-vasco-da-gama-igualaron-sin-goles-en-bogota",
+        "finding": "supports",
+        "note": "Official competition report confirms the 0–0 first leg against Independiente Santa Fe."
+      },
+      {
+        "provider": "CONMEBOL",
+        "url": "https://gol.conmebol.com/sudamericana/es/news/vasco-da-gama-hizo-pesar-la-localia-y-avanzo-las-semifinales",
+        "finding": "supports",
+        "note": "Official competition report confirms the 2–0 return-leg win and semifinal qualification."
+      }
+    ],
+    "caveat": "CBF and CONMEBOL confirm the core scores and advancement. The source's vague 'five classifications' count and fan-sentiment characterization are omitted. The October 7 Botafogo fixture is reported as planned by the complete Terra/Esporte News Mundo extraction but was not independently matched to an official schedule in this audit; it is low-risk service information, not a completed result."
+  }
+}

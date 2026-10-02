@@ -1,0 +1,89 @@
+{
+  "id": "pornhub-age-checks-investigated-by-ofcom",
+  "slug": "pornhub-age-checks-investigated-by-ofcom",
+  "section": "mundo",
+  "secondarySections": [],
+  "publishedAt": "2026-09-23T09:12:21.149Z",
+  "publishedDate": "2026-09-23",
+  "updatedAt": "2026-09-24T17:45:13.603Z",
+  "sources": [
+    {
+      "name": "BBC News",
+      "url": "https://www.bbc.com/news/articles/c6eq8dw3dlyqo"
+    },
+    {
+      "name": "Reuters via MarketScreener",
+      "url": "https://ca.marketscreener.com/news/uk-media-regulator-investigates-pornhub-over-age-checks-ce785ad9da8cf125"
+    }
+  ],
+  "rights": {
+    "mode": "original-report"
+  },
+  "translations": {
+    "pt-BR": {
+      "title": "Ofcom investiga processo de verificação etária do Pornhub",
+      "summary": "O regulador britânico examina se a Aylo avaliou suficientemente uma checagem que usa tecnologia da Apple; não anunciou conclusão de violação.",
+      "aiSummary": [
+        "A investigação da Ofcom é sobre a diligência da Aylo e a eficácia de suas verificações de idade.",
+        "A checagem baseada em tecnologia da Apple é usada por alguns usuários do Pornhub no Reino Unido.",
+        "A Apple não é investigada neste caso e ainda não há decisão de infração."
+      ],
+      "paragraphs": [
+        "A Ofcom abriu uma investigação para avaliar se o processo de verificação de idade adotado pela Aylo, proprietária do Pornhub, consegue impedir que crianças acessem conteúdo adulto. O anúncio foi feito pelo regulador britânico e relatado pela BBC.",
+        "A investigação se concentra na diligência e nos testes realizados pela Aylo antes de implementar uma nova checagem para alguns usuários. A ferramenta usa um sistema de terceiros, neste caso uma verificação associada à Apple, segundo a reportagem.",
+        "A Ofcom disse que examinará como a empresa aplica a verificação e se realizou avaliações suficientes antes da adoção. O órgão não está investigando a maneira como a Apple opera sua própria checagem de idade.",
+        "A legislação britânica de segurança on-line exige que sites com conteúdo pornográfico usem mecanismos altamente eficazes para verificar se o usuário tem mais de 18 anos. A investigação ainda não concluiu se a Aylo descumpriu essa obrigação.",
+        "O regulador afirmou que empresas devem assegurar a eficácia das verificações antes de lançá-las. A Aylo havia sido procurada pela BBC para comentar; a abertura do inquérito não equivale a uma decisão final contra a empresa.",
+        "Se houver descumprimento, a lei permite que a Ofcom aplique multas de até £18 milhões ou 10% do faturamento global anual, prevalecendo o maior valor. Esse limite legal é uma possibilidade, não uma penalidade já imposta."
+      ]
+    },
+    "en": {
+      "title": "Ofcom investigates Pornhub age-check process",
+      "summary": "The UK regulator is examining whether Aylo adequately tested a check using Apple technology; it has not announced a breach finding.",
+      "aiSummary": [
+        "Ofcom’s investigation concerns Aylo’s diligence and the effectiveness of its age checks.",
+        "The Apple-based check is used by some Pornhub users in the UK.",
+        "Apple is not under investigation in this case, and no breach decision has been issued."
+      ],
+      "paragraphs": [
+        "Ofcom opened an investigation into whether an age-verification process used by Pornhub owner Aylo can prevent children from accessing adult content. The British regulator’s action was reported by the BBC.",
+        "The investigation focuses on the diligence and testing Aylo carried out before implementing a new check for some users. The process relies on a third-party system, in this case an age check associated with Apple, the report said.",
+        "Ofcom said it would consider how the company applies the verification and whether it completed sufficient due diligence before adoption. The regulator is not investigating how Apple operates its own age check.",
+        "The UK Online Safety Act requires sites carrying pornographic material to use highly effective age assurance to determine whether a user is over 18. The investigation has not yet concluded that Aylo breached that requirement.",
+        "The regulator said companies should ensure checks are effective before introducing them. The BBC had approached Aylo for comment; opening the probe is not itself a final finding against the company.",
+        "If a breach is established, the law allows Ofcom to impose a fine of up to £18 million or 10% of annual global turnover, whichever is greater. That statutory maximum is a possible penalty, not a fine already imposed."
+      ]
+    }
+  },
+  "verification": {
+    "score": 8.7,
+    "checkedAt": "2026-09-24T14:23:42Z",
+    "checks": [
+      {
+        "provider": "BBC News (primary report)",
+        "url": "https://www.bbc.com/news/articles/c6eq8dw3dlyqo",
+        "finding": "supports",
+        "note": "The complete BBC extraction supports an Ofcom investigation into Aylo’s age-check diligence, says Apple is not the investigation’s target, and reports no breach finding."
+      },
+      {
+        "provider": "Reuters via MarketScreener",
+        "url": "https://ca.marketscreener.com/news/uk-media-regulator-investigates-pornhub-over-age-checks-ce785ad9da8cf125",
+        "finding": "supports",
+        "note": "Reuters independently confirms the Ofcom probe and its scope. The live page shows a later modification; later-added material is not used to assess this cutoff-frozen selection."
+      },
+      {
+        "provider": "AFP Fact Check",
+        "url": "https://factcheck.afp.com/",
+        "finding": "no-match",
+        "note": "No direct fact-check of Ofcom’s Aylo investigation or the Apple-scope claim found; neutral."
+      },
+      {
+        "provider": "Full Fact",
+        "url": "https://fullfact.org/",
+        "finding": "no-match",
+        "note": "No fact-check of this investigation or age-check process found; neutral, not proof of compliance or breach."
+      }
+    ],
+    "caveat": "The article correctly distinguishes an open investigation from a finding against Aylo and says Apple is not the target. The later-modified Reuters page is used only for confirmation that the probe was reported, not for any post-cutoff additions."
+  }
+}

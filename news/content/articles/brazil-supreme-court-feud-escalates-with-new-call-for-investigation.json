@@ -1,0 +1,107 @@
+{
+  "id": "brazil-supreme-court-feud-escalates-with-new-call-for-investigation",
+  "slug": "brazil-supreme-court-feud-escalates-with-new-call-for-investigation",
+  "section": "politica",
+  "secondarySections": [],
+  "publishedAt": "2026-09-23T07:34:50.671-03:00",
+  "publishedDate": "2026-09-23",
+  "updatedAt": "2026-09-24T17:45:13.603Z",
+  "sources": [
+    {
+      "name": "Valor International",
+      "url": "https://valorinternational.globo.com/politics/news/2026/09/23/brazil-supreme-court-feud-escalates-with-new-call-for-investigation.ghtml"
+    },
+    {
+      "name": "CNN Brasil",
+      "url": "https://www.cnnbrasil.com.br/politica/mendonca-diz-que-moraes-usou-relatorios-da-pf-como-peca-de-intimidacao/"
+    }
+  ],
+  "rights": {
+    "mode": "original-report"
+  },
+  "translations": {
+    "pt-BR": {
+      "title": "Mendonça pede arquivamento de apuração e investigação de Moraes no STF",
+      "summary": "O ministro apresentou pedidos a Edson Fachin em meio a uma disputa sobre relatórios da Polícia Federal; as acusações ainda não foram julgadas.",
+      "aiSummary": [
+        "André Mendonça pediu que o STF arquive uma apuração sobre sua atuação e investigue Alexandre de Moraes.",
+        "Mendonça contesta relatórios da PF; Moraes sustenta que houve interferência nas investigações.",
+        "O STF ainda não decidiu o mérito das acusações nem a forma final de tramitação."
+      ],
+      "paragraphs": [
+        "O ministro do Supremo Tribunal Federal André Mendonça pediu ao presidente da Corte, Edson Fachin, que arquive o procedimento aberto sobre sua atuação e determine uma investigação sobre Alexandre de Moraes. Os pedidos constam de uma manifestação da defesa e incluem alegações de abuso de autoridade e falsa acusação, não conclusões judiciais.",
+        "A controvérsia envolve relatórios de inteligência da Polícia Federal relacionados às investigações do Banco Master e de fraudes no sistema previdenciário. Mendonça diz que os documentos eram anônimos, tinham falhas técnicas e foram usados fora de sua finalidade; Moraes sustenta que Mendonça teria dirigido e interferido indevidamente nas apurações.",
+        "Além de pedir o encerramento da apuração contra si, Mendonça solicitou que os relatórios sejam considerados ilícitos, que documentos semelhantes não sejam produzidos e que ele tenha acesso integral ao chamado inquérito das fake news. Essas são medidas requeridas pela defesa, ainda sujeitas à análise das autoridades competentes.",
+        "A CNN informou que Fachin pediu manifestação da Procuradoria-Geral da República e, depois, concedeu cinco dias úteis para Mendonça responder sobre a forma, o conteúdo e a regularidade do procedimento. Com a manifestação entregue, os autos voltariam à presidência do Supremo para definição dos próximos passos.",
+        "O plenário do STF também não concluiu se os procedimentos ligados a Moraes e Mendonça devem tramitar juntos. Em 15 de setembro, uma votação parcial estava em 4 a 3 pela separação, mas o julgamento foi interrompido por pedido de vista do ministro Flávio Dino; Fachin retirou de pauta a análise prevista para 23 de setembro.",
+        "O impasse começou após a divulgação de registros de supostas mensagens entre Moraes e o ex-banqueiro Daniel Vorcaro, extraídas de um celular em investigação conduzida por Mendonça. As reportagens dizem que o conteúdo central dessas mensagens ainda não foi julgado pelo Supremo; nenhuma das alegações contra os ministros deve ser tratada como fato comprovado."
+      ]
+    },
+    "en": {
+      "title": "Mendonça asks Brazil’s top court to dismiss inquiry and investigate Moraes",
+      "summary": "The justice submitted requests to Chief Justice Edson Fachin amid a dispute over Federal Police reports; the accusations have not been adjudicated.",
+      "aiSummary": [
+        "André Mendonça asked the STF to dismiss a proceeding about his conduct and investigate Alexandre de Moraes.",
+        "Mendonça disputes Federal Police reports; Moraes says Mendonça interfered with investigations.",
+        "The court has not ruled on the merits or settled the procedures’ final handling."
+      ],
+      "paragraphs": [
+        "Supreme Federal Court justice André Mendonça asked Chief Justice Edson Fachin to dismiss the proceeding into his conduct and order an investigation of Alexandre de Moraes. The requests were made in a defense filing and include allegations of abuse of authority and false accusation, not judicial findings.",
+        "The dispute concerns Federal Police intelligence reports related to investigations into Banco Master and social-security fraud. Mendonça says the documents were anonymous, technically flawed and used for an improper purpose; Moraes argues that Mendonça improperly directed and interfered with the investigations.",
+        "Along with seeking dismissal of the proceeding against him, Mendonça asked that the reports be deemed unlawful, that similar reports not be produced, and that he receive full access to the so-called fake-news inquiry. These are requests by the defense and remain subject to review by the competent authorities.",
+        "CNN Brasil reported that Fachin first sought a response from the Prosecutor General’s Office and then gave Mendonça five working days to address the procedure’s form, content and legality. After receiving the filing, the case was to return to the chief justice for a decision on next steps.",
+        "The STF’s full bench has also not resolved whether the proceedings involving Moraes and Mendonça should be handled together. A partial vote on September 15 stood 4–3 in favor of keeping them separate, but Justice Flávio Dino requested more time and the hearing was suspended; Fachin removed the September 23 consideration from the docket.",
+        "The dispute followed the disclosure of records of alleged messages between Moraes and former banker Daniel Vorcaro, extracted from a phone in an investigation overseen by Mendonça. The reports say the messages’ central substance has not been adjudicated by the court; none of the allegations against the justices should be treated as established fact."
+      ]
+    }
+  },
+  "verification": {
+    "score": 8.7,
+    "checkedAt": "2026-09-24T14:42:39Z",
+    "checks": [
+      {
+        "provider": "Valor International",
+        "url": "https://valorinternational.globo.com/politics/news/2026/09/23/brazil-supreme-court-feud-escalates-with-new-call-for-investigation.ghtml",
+        "finding": "supports",
+        "note": "Complete saved report supports Mendonça's defense requests and attributes allegations/denials to the respective justices and filing; it says the merits and message contents remain unresolved."
+      },
+      {
+        "provider": "CNN Brasil",
+        "url": "https://www.cnnbrasil.com.br/politica/mendonca-diz-que-moraes-usou-relatorios-da-pf-como-peca-de-intimidacao/",
+        "finding": "supports",
+        "note": "Opened independent report confirms the filing, request to investigate the reports' origin, Fachin's five-working-day response period, the partial 4–3 vote and suspended procedural question."
+      },
+      {
+        "provider": "Aos Fatos",
+        "url": "https://www.aosfatos.org/noticias/mendonca-prisao-preventiva-moraes/",
+        "finding": "context",
+        "note": "Opened check debunks a separate viral claim that Mendonça requested Moraes's preventive arrest. This story reports a request to investigate Moraes, not an arrest request; the fact-check does not contradict it."
+      },
+      {
+        "provider": "Agência Lupa",
+        "url": "https://www.agencialupa.org/verificacao/2026/09/23/dino-nao-revelou-que-moraes-ordenou-monitoramento-clandestino-de-andre-mendonca/",
+        "finding": "context",
+        "note": "Opened Lupa check concerns a separate, misleading interpretation of Dino's PF-director reinstatement decision, not this article's account of the filing. It was published after the frozen cutoff and is not evidence about what was known at cutoff."
+      },
+      {
+        "provider": "Projeto Comprova",
+        "url": "https://projetocomprova.com.br/",
+        "finding": "no-match",
+        "note": "No fact-check of Mendonça's filed requests found; unrelated STF rumors are not treated as findings on this report."
+      },
+      {
+        "provider": "AFP Fact Check",
+        "url": "https://factcheck.afp.com/",
+        "finding": "no-match",
+        "note": "No matching fact-check of this filing found; neutral."
+      },
+      {
+        "provider": "Reuters Fact Check",
+        "url": "https://www.reuters.com/fact-check/",
+        "finding": "no-match",
+        "note": "Search surfaced unrelated claims about STF/Vorcaro material, not the filing or its procedural status; neutral."
+      }
+    ],
+    "caveat": "This is a contested judicial/political dispute. The article and its English translation consistently distinguish defense allegations from court findings and do not state that Mendonça asked for Moraes's arrest."
+  }
+}

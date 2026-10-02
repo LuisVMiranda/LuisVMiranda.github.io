@@ -1,0 +1,110 @@
+{
+  "id": "continuing-our-reset",
+  "slug": "continuing-our-reset",
+  "section": "tecnologia",
+  "secondarySections": [],
+  "publishedAt": "2026-09-22T14:00:00+00:00",
+  "updatedAt": "2026-09-24T17:45:13.603Z",
+  "sources": [
+    {
+      "name": "Xbox Wire",
+      "url": "https://news.xbox.com/en-us/2026/09/22/continuing-our-reset/"
+    },
+    {
+      "name": "GeekWire",
+      "url": "https://www.geekwire.com/2026/microsoft-cuts-hundreds-more-jobs-shifts-next-halo-game-to-activision-in-xbox-overhaul/"
+    }
+  ],
+  "rights": {
+    "mode": "original-report"
+  },
+  "translations": {
+    "pt-BR": {
+      "title": "Xbox anuncia corte de 268 vagas e reorganização dos estúdios",
+      "summary": "A Microsoft anunciou 268 eliminações de cargos e mudanças entre equipes de Xbox, incluindo a atribuição do próximo Halo à Activision. O comunicado separa ações já concluídas de cortes e reorganizações anunciados ou ainda em consulta.",
+      "aiSummary": [
+        "A Microsoft anunciou a eliminação de 268 cargos em estúdios e áreas centrais do Xbox.",
+        "A Activision deve desenvolver o próximo jogo Halo sob uma nova equipe, enquanto outras unidades também serão reorganizadas.",
+        "O comunicado distingue mudanças já concluídas de uma proposta de fechamento da Ninja Theory, ainda sujeita a consulta."
+      ],
+      "paragraphs": [
+        "A Microsoft anunciou em 22 de setembro a eliminação de 268 cargos em Halo Studios, outros estúdios próprios e funções de gestão e suporte do Xbox Game Studios. O número foi divulgado em uma mensagem interna publicada posteriormente no Xbox Wire. O GeekWire informou que esses cortes fazem parte da redução de cerca de 3.200 cargos do Xbox anunciada em julho; a empresa disse que essa reestruturação estava aproximadamente 75% concluída. A reportagem também disse, citando a Microsoft, que a rodada totalizava menos de 600 cortes no mundo, cerca de 300 deles no estado de Washington.",
+        "O comunicado também descreveu uma reorganização com menos unidades de negócio e grupos reunidos conforme suas franquias. A empresa afirmou que as mudanças buscam concentrar equipes e experiência editorial, mas não apresentou uma avaliação independente dos efeitos sobre produção ou prazos de jogos.",
+        "A Activision deverá ampliar seu escopo para incluir World’s Edge e Rare e desenvolver o próximo título de Halo por meio de uma equipe própria, separada dos planos para Call of Duty. Uma equipe menor na Halo Studios continuaria apoiando os jogos já disponíveis e a comunidade.",
+        "Outras mudanças anunciadas incluem a ampliação do escopo da Bethesda para abranger a Obsidian, a reunião da King com a área de jogos casuais da Microsoft e a junção de Playground e Turn 10 em uma equipe voltada a Forza e Fable. São alterações organizacionais comunicadas pela empresa; não significam que projetos futuros já tenham sido lançados.",
+        "A Microsoft disse que Compulsion e Double Fine haviam retornado à gestão independente em agosto e que a transição da Undead Labs já fora concluída. Em contraste, a empresa iniciaria consulta sobre um possível fechamento da Ninja Theory, enquanto a consulta na Arkane continuava. Uma proposta de fechamento não equivale a uma decisão final."
+      ]
+    },
+    "en": {
+      "title": "Xbox announces 268 job cuts and studio restructuring",
+      "summary": "Microsoft announced 268 role eliminations and changes across Xbox teams, including assigning the next Halo to Activision. Its statement distinguishes completed actions from announced cuts and reorganizations still under consultation.",
+      "aiSummary": [
+        "Microsoft announced the elimination of 268 roles across Xbox studios and central functions.",
+        "Activision is set to develop the next Halo game with a new team as other units are reorganized.",
+        "The announcement distinguishes completed changes from a proposed Ninja Theory closure that remains under consultation."
+      ],
+      "paragraphs": [
+        "Microsoft announced on September 22 that it would eliminate 268 roles across Halo Studios, other first-party studios, and Xbox Game Studios management and central functions. The figure appeared in an internal message later published by Xbox Wire. GeekWire reported that these cuts were part of the roughly 3,200-role Xbox reduction announced in July; Microsoft said that restructuring was about 75% complete. GeekWire also reported, citing the company, that the worldwide total was fewer than 600 cuts, about 300 of them in Washington state.",
+        "The statement also described a reorganization with fewer business units and groups aligned around franchises. Microsoft said the changes are intended to focus teams and publishing expertise, but offered no independent assessment of their effects on game production or schedules.",
+        "Activision is set to expand its remit to World’s Edge and Rare and develop the next Halo title through a dedicated team separate from Call of Duty plans. A smaller group at Halo Studios would continue supporting existing games and the community.",
+        "Other announced changes include Bethesda taking on Obsidian, King being combined with Microsoft Casual Games, and Playground and Turn 10 joining as a team focused on Forza and Fable. These are organizational changes described by the company; they do not mean future projects have already launched.",
+        "Microsoft said Compulsion and Double Fine had returned to independent management in August and that Undead Labs had completed a similar transition. By contrast, the company would begin consulting employees on a proposed Ninja Theory closure, while consultation at Arkane remained underway. A proposed closure is not a final decision."
+      ]
+    }
+  },
+  "verification": {
+    "score": 8.8,
+    "checkedAt": "2026-09-24T14:35:43Z",
+    "checks": [
+      {
+        "provider": "Aos Fatos",
+        "url": "https://www.aosfatos.org/",
+        "finding": "no-match",
+        "note": "Portuguese site-scoped searches for the September Xbox cuts, Halo reassignment and proposed studio closure found no applicable fact-check; no-match is neutral."
+      },
+      {
+        "provider": "Agência Lupa",
+        "url": "https://www.agencialupa.org/",
+        "finding": "no-match",
+        "note": "Portuguese site-scoped searches for the September Xbox cuts, Halo reassignment and proposed studio closure found no applicable fact-check; no-match is neutral."
+      },
+      {
+        "provider": "Projeto Comprova",
+        "url": "https://projetocomprova.com.br/",
+        "finding": "no-match",
+        "note": "Portuguese site-scoped searches for the September Xbox cuts, Halo reassignment and proposed studio closure found no applicable fact-check; no-match is neutral."
+      },
+      {
+        "provider": "AFP Fact Check",
+        "url": "https://factcheck.afp.com/",
+        "finding": "no-match",
+        "note": "Search found no directly applicable AFP fact-check of the Xbox restructuring. Neutral."
+      },
+      {
+        "provider": "Reuters Fact Check",
+        "url": "https://www.reuters.com/fact-check/",
+        "finding": "no-match",
+        "note": "Search found no directly applicable Reuters fact-check. Neutral."
+      },
+      {
+        "provider": "Full Fact",
+        "url": "https://fullfact.org/",
+        "finding": "no-match",
+        "note": "Search found no directly applicable Full Fact article. Neutral."
+      },
+      {
+        "provider": "Xbox Wire",
+        "url": "https://news.xbox.com/en-us/2026/09/22/continuing-our-reset/",
+        "finding": "supports",
+        "note": "Complete official 10-paragraph statement says 268 roles were being eliminated, assigns next Halo development to a new Activision-led team, and distinguishes completed transitions from ongoing consultations and a proposed Ninja Theory closure."
+      },
+      {
+        "provider": "GeekWire",
+        "url": "https://www.geekwire.com/2026/microsoft-cuts-hundreds-more-jobs-shifts-next-halo-game-to-activision-in-xbox-overhaul/",
+        "finding": "supports",
+        "note": "Full article body reviewed in saved corroboration evidence; independently reports the companywide and Washington figures and contextualizes the 268 Xbox roles within the July restructuring."
+      }
+    ],
+    "caveat": "Layoff counts and studio changes originate in Microsoft's internal communication and remain company-reported; the article identifies that source and uses GeekWire for wider figures. It distinguishes announced elimination of roles from completed actions and keeps Ninja Theory's proposed closure separate from a final decision."
+  }
+}

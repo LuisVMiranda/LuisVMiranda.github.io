@@ -1,0 +1,86 @@
+{
+  "id": "eurovision-2027-ireland-follows-netherlands-in-boycott-of-song-contest-for-second-year-in",
+  "slug": "eurovision-2027-ireland-follows-netherlands-in-boycott-of-song-contest-for-second-year-in",
+  "section": "cultura",
+  "secondarySections": [],
+  "publishedAt": "2026-09-18T09:16:40+02:00",
+  "updatedAt": "2026-09-24T17:45:13.603Z",
+  "sources": [
+    {
+      "name": "Euronews",
+      "url": "https://www.euronews.com/2026/09/18/eurovision-2027-ireland-follows-netherlands-in-boycott-of-song-contest-for-second-year-in-"
+    },
+    {
+      "name": "RTÉ",
+      "url": "https://about.rte.ie/2026/09/17/rte-statement-2027-eurovision-song-contest/"
+    }
+  ],
+  "rights": {
+    "mode": "original-report"
+  },
+  "translations": {
+    "pt-BR": {
+      "title": "RTÉ confirma que Irlanda não participará do Eurovision 2027",
+      "summary": "A emissora pública irlandesa decidiu não enviar uma candidatura nem transmitir o concurso, citando sua posição sobre a participação de Israel e a situação humanitária em Gaza.",
+      "aiSummary": [
+        "A RTÉ afirmou que não participará nem transmitirá o Eurovision em 2027.",
+        "A emissora justificou a decisão com a crise em Gaza e a falta de acesso independente de jornalistas ao território.",
+        "A decisão é da radiodifusora RTÉ; as fontes não descrevem uma proibição do governo irlandês."
+      ],
+      "paragraphs": [
+        "A RTÉ, emissora pública da Irlanda, confirmou que não participará do Eurovision em 2027 e também não transmitirá o concurso. A decisão mantém a posição anunciada pela empresa no ano anterior e trata da participação da radiodifusora, não de uma proibição nacional imposta pelo governo.",
+        "Em comunicado, a RTÉ disse considerar injustificável a participação irlandesa diante das mortes e da crise humanitária em Gaza. A emissora também declarou preocupação com a continuidade das restrições ao acesso independente de jornalistas internacionais ao território; essas são as razões apresentadas pela própria RTÉ.",
+        "A Irlanda já havia se retirado da edição de 2026 depois que a União Europeia de Radiodifusão confirmou a participação da emissora pública israelense KAN. A decisão de 2027, portanto, prolonga a ausência da RTÉ por mais um ano.",
+        "A emissora neerlandesa AVROTROS também havia anunciado que não participaria em 2027, citando dúvidas sobre a confiança e a independência do concurso enquanto Israel permanecesse no evento. Euronews informou que Espanha, Islândia e Eslovênia, que também ficaram fora em 2026, ainda não haviam definido sua posição para a edição seguinte.",
+        "Martin Green, diretor do Eurovision, disse lamentar a decisão da RTÉ, mas afirmou respeitá-la. O concurso de 2027 está previsto para ocorrer na Bulgária; as decisões de participação continuam sendo anunciadas por emissoras nacionais."
+      ]
+    },
+    "en": {
+      "title": "RTÉ confirms Ireland will not take part in Eurovision 2027",
+      "summary": "The Irish public broadcaster will neither enter a contestant nor air the competition, citing its position on Israel’s participation and the humanitarian situation in Gaza.",
+      "aiSummary": [
+        "RTÉ said it will not participate in or broadcast Eurovision in 2027.",
+        "The broadcaster cited the Gaza crisis and the lack of independent journalist access to the territory.",
+        "The decision belongs to broadcaster RTÉ; the sources do not describe an Irish government ban."
+      ],
+      "paragraphs": [
+        "Ireland’s public broadcaster RTÉ confirmed that it will not participate in Eurovision in 2027 and will not broadcast the contest. The decision maintains the position the company announced the previous year and concerns the broadcaster’s participation, not a national ban imposed by the Irish government.",
+        "In its statement, RTÉ said it could not justify Irish participation amid deaths and the humanitarian crisis in Gaza. The broadcaster also cited continuing restrictions on independent access for international journalists to the territory; these are the reasons RTÉ gave for its decision.",
+        "Ireland had already withdrawn from the 2026 edition after the European Broadcasting Union confirmed that Israel’s public broadcaster KAN could take part. The 2027 decision therefore extends RTÉ’s absence for another year.",
+        "Dutch broadcaster AVROTROS had also announced that it would not take part in 2027, citing concerns about the contest’s trustworthiness and independence while Israel remained in the event. Euronews reported that Spain, Iceland and Slovenia, which also stayed out in 2026, had not yet announced their position for the following edition.",
+        "Eurovision director Martin Green said he regretted RTÉ’s decision but respected it. The 2027 contest is scheduled to take place in Bulgaria; national broadcasters continue to announce their own participation choices."
+      ]
+    }
+  },
+  "verification": {
+    "score": 9.1,
+    "checkedAt": "2026-09-24T14:17:43Z",
+    "checks": [
+      {
+        "provider": "Euronews",
+        "url": "https://www.euronews.com/2026/09/18/eurovision-2027-ireland-follows-netherlands-in-boycott-of-song-contest-for-second-year-in-",
+        "finding": "supports",
+        "note": "Original report supports the reported broadcaster decisions and quoted rationale; the article attributes Gaza-related judgments to RTÉ rather than stating them as independently adjudicated verdicts."
+      },
+      {
+        "provider": "RTÉ",
+        "url": "https://about.rte.ie/2026/09/17/rte-statement-2027-eurovision-song-contest/",
+        "finding": "supports",
+        "note": "RTÉ's official statement confirms it will neither participate in nor broadcast the 2027 contest and gives the broadcaster's stated reasons."
+      },
+      {
+        "provider": "Projeto Comprova",
+        "url": "https://projetocomprova.com.br/",
+        "finding": "no-match",
+        "note": "Targeted Portuguese search for the Eurovision boycott and broadcaster decision found no relevant fact-check; neutral, not evidence of truth."
+      },
+      {
+        "provider": "Reuters Fact Check",
+        "url": "https://www.reuters.com/fact-check/",
+        "finding": "no-match",
+        "note": "Targeted English search for the 2027 Eurovision broadcaster decisions found no relevant fact-check; neutral, not evidence of truth."
+      }
+    ],
+    "caveat": "The story accurately attributes the Irish decision to RTÉ, not to a government ban. RTÉ's reasons are its stated position; no independent fact-check verdict on the underlying Gaza characterizations was found."
+  }
+}

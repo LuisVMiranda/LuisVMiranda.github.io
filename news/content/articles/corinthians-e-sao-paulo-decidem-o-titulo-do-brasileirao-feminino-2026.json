@@ -1,0 +1,104 @@
+{
+  "id": "corinthians-e-sao-paulo-decidem-o-titulo-do-brasileirao-feminino-2026",
+  "slug": "corinthians-e-sao-paulo-decidem-o-titulo-do-brasileirao-feminino-2026",
+  "section": "esportes",
+  "secondarySections": [],
+  "publishedAt": "2026-09-22T21:31:59+00:00",
+  "updatedAt": "2026-09-24T17:45:13.603Z",
+  "sources": [
+    {
+      "name": "Imprensa 24h",
+      "url": "https://imprensa24h.com.br/corinthians-sao-paulo-final-brasileirao-feminino/"
+    },
+    {
+      "name": "Confederação Brasileira de Futebol",
+      "url": "https://www.cbf.com.br/futebol-brasileiro/noticias/campeonato-brasileiro-feminino-a1/a/sao-paulo-e-corinthians-decidem-brasileirao-feminino-na-neo-quimica-arena-e-no-morum-bis"
+    }
+  ],
+  "rights": {
+    "mode": "original-report"
+  },
+  "translations": {
+    "pt-BR": {
+      "title": "São Paulo e Corinthians definem o Brasileirão Feminino em dois jogos",
+      "summary": "CBF marcou a ida para 26 de setembro e a volta para 3 de outubro, ambas às 16h30, no horário de Brasília, na Neo Química Arena e no MorumBIS.",
+      "aiSummary": [
+        "São Paulo e Corinthians farão a final do Brasileirão Feminino A1 de 2026 em dois jogos.",
+        "A ida será em 26 de setembro, na Neo Química Arena; a volta ocorre em 3 de outubro, no MorumBIS, ambas às 16h30, horário de Brasília.",
+        "São Paulo eliminou o Flamengo por 4 a 1 no agregado; Corinthians superou o Bahia por 2 a 0."
+      ],
+      "paragraphs": [
+        "A Confederação Brasileira de Futebol confirmou São Paulo e Corinthians como finalistas do Brasileirão Feminino A1 de 2026 e divulgou as datas da decisão. Os dois jogos estão marcados para 16h30, no horário de Brasília: a ida será em 26 de setembro, na Neo Química Arena, e a volta em 3 de outubro, no MorumBIS.",
+        "O São Paulo garantiu sua vaga ao vencer o Flamengo por 1 a 0 em 19 de setembro, no Estádio Brinco de Ouro, em Campinas. A equipe fechou a semifinal com vantagem agregada de 4 a 1.",
+        "O Corinthians avançou depois de derrotar o Bahia por 1 a 0 no jogo de volta, em 21 de setembro. A vitória completou um agregado de 2 a 0 para o time paulista.",
+        "A CBF informa que esta é a segunda final do São Paulo no torneio; em 2024, o clube terminou como vice-campeão. Para o Corinthians, será a décima decisão consecutiva, na busca por seu oitavo título da competição.",
+        "Em 2025, a final entre Corinthians e Cruzeiro reuniu mais de 60 mil pessoas nas duas partidas, segundo a CBF: 19 mil na ida, em Belo Horizonte, e 41 mil na volta, em São Paulo. O dado oferece uma referência recente de público, mas não antecipa a presença nos jogos deste ano."
+      ]
+    },
+    "en": {
+      "title": "São Paulo and Corinthians will decide the women's league over two legs",
+      "summary": "The CBF scheduled the first leg for September 26 and the return for October 3, both at 4:30 p.m. Brasília time, at Neo Química Arena and MorumBIS.",
+      "aiSummary": [
+        "São Paulo and Corinthians will play the 2026 Brazilian Women's Série A1 final over two legs.",
+        "The first leg is set for September 26 at Neo Química Arena; the return is on October 3 at MorumBIS, both at 4:30 p.m. Brasília time.",
+        "São Paulo eliminated Flamengo 4-1 on aggregate; Corinthians beat Bahia 2-0 on aggregate."
+      ],
+      "paragraphs": [
+        "The Brazilian Football Confederation confirmed São Paulo and Corinthians as finalists in the 2026 Women's Série A1 and announced the dates. Both legs are scheduled for 4:30 p.m. Brasília time: the first on September 26 at Neo Química Arena and the return on October 3 at MorumBIS.",
+        "São Paulo secured its place by beating Flamengo 1-0 on September 19 at Brinco de Ouro Stadium in Campinas. The team finished the semifinal with a 4-1 aggregate advantage.",
+        "Corinthians advanced after a 1-0 win over Bahia in the second leg on September 21. That result completed a 2-0 aggregate victory for the São Paulo club.",
+        "The CBF says this is São Paulo's second final in the competition; the club finished as runner-up in 2024. Corinthians will appear in its 10th consecutive final as it seeks an eighth title.",
+        "In 2025, the final between Corinthians and Cruzeiro drew more than 60,000 people across its two matches, the CBF reported: 19,000 at the first leg in Belo Horizonte and 41,000 at the return in São Paulo. It is a recent attendance reference, not a prediction for this year's games."
+      ]
+    }
+  },
+  "verification": {
+    "score": 9,
+    "checkedAt": "2026-09-24T15:59:13Z",
+    "checks": [
+      {
+        "provider": "Aos Fatos",
+        "url": "https://www.aosfatos.org/",
+        "finding": "no-match",
+        "note": "Exact team/tournament/year searches found no relevant fact-check of the final schedule or semifinal claims. Neutral."
+      },
+      {
+        "provider": "Agência Lupa",
+        "url": "https://www.agencialupa.org/",
+        "finding": "no-match",
+        "note": "No claim-specific check of the 2026 women's final found; unrelated football checks excluded. Neutral."
+      },
+      {
+        "provider": "Projeto Comprova",
+        "url": "https://projetocomprova.com.br/",
+        "finding": "no-match",
+        "note": "No relevant fact-check found for the finalists, aggregate scores, or schedule. Neutral."
+      },
+      {
+        "provider": "AFP Fact Check",
+        "url": "https://factcheck.afp.com/",
+        "finding": "no-match",
+        "note": "No relevant fact-check found for this Brazilian club fixture. Neutral."
+      },
+      {
+        "provider": "Reuters Fact Check",
+        "url": "https://www.reuters.com/fact-check/",
+        "finding": "no-match",
+        "note": "No claim-specific fact-check found for the final or dates. Neutral."
+      },
+      {
+        "provider": "Full Fact",
+        "url": "https://fullfact.org/",
+        "finding": "no-match",
+        "note": "No relevant fact-check found for this event. Neutral."
+      },
+      {
+        "provider": "Confederação Brasileira de Futebol",
+        "url": "https://www.cbf.com.br/futebol-brasileiro/noticias/campeonato-brasileiro-feminino-a1/a/sao-paulo-e-corinthians-decidem-brasileirao-feminino-na-neo-quimica-arena-e-no-morum-bis",
+        "finding": "supports",
+        "note": "CBF's official announcement confirms both finalists, the September 26 and October 3 dates, 16:30 kickoffs, venues, and semifinal paths/aggregates."
+      }
+    ],
+    "caveat": "The final was still scheduled, not played, at cutoff; the copy preserves that distinction. Unsupported audience-growth, attendance-projection, and broadcast claims from the original Imprensa24h page were not carried over. Minor English localization review: identify 4:30 p.m. as Brasília time."
+  }
+}

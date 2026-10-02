@@ -1,0 +1,106 @@
+{
+  "id": "finep-disponibiliza-r-220-milhoes-para-inovacao-em-cooperativas-de-agricultura-familiar",
+  "slug": "finep-disponibiliza-r-220-milhoes-para-inovacao-em-cooperativas-de-agricultura-familiar",
+  "section": "economia",
+  "secondarySections": [],
+  "publishedAt": "2026-09-22T08:02:00-03:00",
+  "updatedAt": "2026-09-24T17:45:13.603Z",
+  "sources": [
+    {
+      "name": "Finep",
+      "url": "https://faleconosco.finep.gov.br/web/guest/w/finep-disponibiliza-r-220-milh%C3%B5es-para-inova%C3%A7%C3%A3o-em-cooperativas-de-agricultura-familiar"
+    }
+  ],
+  "rights": {
+    "mode": "original-report"
+  },
+  "translations": {
+    "pt-BR": {
+      "title": "Finep abre R$ 220 milhões para inovação ligada à agricultura familiar",
+      "summary": "Dois editais de subvenção somam R$ 220 milhões: R$ 120 milhões para empresas e R$ 100 milhões para instituições científicas parceiras de cooperativas.",
+      "aiSummary": [
+        "Os editais somam R$ 220 milhões e exigem parceria ativa com cooperativas de agricultura familiar.",
+        "Empresas podem solicitar de R$ 5 milhões a R$ 20 milhões, com envio contínuo de propostas até 30 de abril de 2027.",
+        "Instituições científicas podem apresentar projetos de R$ 3 milhões a R$ 15 milhões em parceria com cooperativas."
+      ],
+      "paragraphs": [
+        "A Finep e o Ministério do Desenvolvimento Agrário e Agricultura Familiar anunciaram o início da execução de dois editais de subvenção econômica do programa Coopera Mais Brasil Tecnologias. O conjunto disponibiliza R$ 220 milhões para projetos de máquinas, equipamentos e processos voltados à produção da agricultura familiar.",
+        "Uma linha reserva R$ 120 milhões para empresas de qualquer porte que desenvolvam soluções junto a cooperativas. Entre os exemplos listados estão tratores de pequeno porte, máquinas de processamento e beneficiamento e equipamentos para a pesca artesanal, inclusive refrigeração de baixo consumo e caixas isotérmicas.",
+        "A segunda linha, de R$ 100 milhões, atende instituições científicas, tecnológicas e de inovação públicas ou privadas sem fins lucrativos, também em parceria com cooperativas. O edital busca propostas para ampliar capacidade de inovação e mecanização, agregar valor aos produtos, aproveitar resíduos ou melhorar eficiência energética.",
+        "Os calendários e limites diferem. Empresas podem enviar propostas em fluxo contínuo até 30 de abril de 2027, com pedido mínimo de R$ 5 milhões e máximo de R$ 20 milhões; a contrapartida varia conforme o porte. Para instituições científicas, o edital prevê projetos de R$ 3 milhões a R$ 15 milhões.",
+        "A Finep afirmou que as cooperativas devem participar ativamente do desenvolvimento das soluções, em vez de figurar apenas como destinatárias. O programa está vinculado ao Programa 10 do Fundo Nacional de Desenvolvimento Científico e Tecnológico; o anúncio descreve recursos disponíveis e critérios de seleção, não financiamentos já concedidos a projetos específicos."
+      ]
+    },
+    "en": {
+      "title": "Finep makes R$220 million available for family-farming innovation",
+      "summary": "Two grants total R$220 million: R$120 million for companies and R$100 million for scientific institutions partnering with cooperatives.",
+      "aiSummary": [
+        "The calls total R$220 million and require active partnerships with family-farming cooperatives.",
+        "Companies may seek R$5 million to R$20 million, with rolling submissions through April 30, 2027.",
+        "Scientific institutions may submit projects from R$3 million to R$15 million in partnership with cooperatives."
+      ],
+      "paragraphs": [
+        "Finep and Brazil's Ministry of Agrarian Development and Family Farming announced the start of two economic-subsidy calls under the Coopera Mais Brasil Technologies program. Together, they make R$220 million available for machinery, equipment and process projects aimed at family farming.",
+        "One line sets aside R$120 million for companies of any size developing solutions with cooperatives. Examples include small tractors, processing and value-added equipment, and tools for artisanal fishing, including low-consumption refrigeration systems and insulated boxes.",
+        "The second line, worth R$100 million, is for public scientific and technological institutions or private nonprofit institutions, also in partnership with cooperatives. The call seeks proposals to build innovation and mechanization capacity, add value to farm products, use residues or improve energy efficiency.",
+        "The rules differ by applicant. Companies may submit rolling proposals through April 30, 2027, requesting R$5 million to R$20 million; matching requirements vary by company size. The scientific-institution call offers projects from R$3 million to R$15 million.",
+        "Finep said cooperatives must take an active role in developing the solutions rather than serving only as recipients. The program is linked to Program 10 of the National Fund for Scientific and Technological Development; the announcement describes available funds and selection rules, not grants already awarded to specific projects."
+      ]
+    }
+  },
+  "verification": {
+    "score": 8.4,
+    "checkedAt": "2026-09-24T14:21:39Z",
+    "checks": [
+      {
+        "provider": "Aos Fatos",
+        "url": "https://aosfatos.org/",
+        "finding": "no-match",
+        "note": "Direct Portuguese search found no fact-check of the R$220m Coopera Mais call allocations or eligibility rules; neutral."
+      },
+      {
+        "provider": "Agência Lupa",
+        "url": "https://www.agencialupa.org/",
+        "finding": "no-match",
+        "note": "Direct search found no fact-check of this specific Finep program; an unrelated ICT call page is not a verdict or corroboration."
+      },
+      {
+        "provider": "Projeto Comprova",
+        "url": "https://projetocomprova.com.br/",
+        "finding": "no-match",
+        "note": "Direct Portuguese search found no matching fact-check of the Finep calls or allocations."
+      },
+      {
+        "provider": "Reuters Fact Check",
+        "url": "https://www.reuters.com/fact-check/",
+        "finding": "no-match",
+        "note": "Direct search found no fact-check of the Coopera Mais Brasil Technologies calls."
+      },
+      {
+        "provider": "AFP Fact Check",
+        "url": "https://factcheck.afp.com/",
+        "finding": "no-match",
+        "note": "Direct Portuguese/English search found no claim-level check of these Finep allocations."
+      },
+      {
+        "provider": "Full Fact",
+        "url": "https://fullfact.org/",
+        "finding": "no-match",
+        "note": "Direct search found no check of this Brazil-specific funding announcement; unrelated agriculture claims excluded."
+      },
+      {
+        "provider": "Google Fact Check Tools",
+        "url": "https://toolbox.google.com/factcheck/explorer",
+        "finding": "no-match",
+        "note": "Portuguese Explorer query for the R$220m Finep family-farming program returned no matching claim record; neutral."
+      },
+      {
+        "provider": "Finep",
+        "url": "https://faleconosco.finep.gov.br/web/guest/w/finep-disponibiliza-r-220-milh%C3%B5es-para-inova%C3%A7%C3%A3o-em-cooperativas-de-agricultura-familiar",
+        "finding": "supports",
+        "note": "Complete official announcement confirms R$120m for companies and R$100m for eligible ICTs, cooperative partnership requirements and project ranges; the dated company deadline is April 30, 2027."
+      }
+    ],
+    "caveat": "The article is supported by the issuing agency's announcement only. It omits the ICT deadline because the announcement's body gives December 8 without a year; it does not imply funds have already been awarded."
+  }
+}

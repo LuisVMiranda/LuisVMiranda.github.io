@@ -1,6 +1,9 @@
 {
   "section": "mundo",
-  "cutoff": "2026-09-22T11:21:20.336Z",
+  "edition": "2026-09-23",
+  "cutoff": "2026-09-23T11:31:23.014Z",
+  "windowStart": "2026-09-16T11:31:23.014Z",
+  "windowDefinition": "inclusive lower bound through immutable cutoff; UTC",
   "queries": [
     "Mundo notícias internacionais",
     "World latest news world",
@@ -11,122 +14,591 @@
   ],
   "verified": [
     {
-      "articleId": "mundo-2026-09-22-un-mundo-em-turbulencia",
-      "url": "https://apnews.com/article/united-nations-general-assembly-unga-trump-war-83dfe88eaf541fdcef3a4758010bef6e",
-      "publishedAt": "2026-09-22T04:08:38",
-      "evidence": "Complete extraction fb59885cc43e.json (HTTP 200), canonical URL matches the source URL, publishedAt 2026-09-22T04:08:38, retrieved 2026-09-22T11:23:48.709Z, contains 15 paragraphs and 697 words with no warnings. It reports diplomats' descriptions of wars in Europe and the Middle East, economic and institutional uncertainty, the U.N. agenda, and issues expected in sideline meetings.",
-      "selectionReason": "Most consequential 2026-09-22 world-affairs overview in the run, directly tied to the opening of the U.N. General Assembly; selected as the desk's international frame rather than duplicating any single conflict report.",
+      "articleId": "a-us-military-plane-crashes-near-a-us-air-base-in-germany-injuring-the-pilot",
+      "primarySection": "mundo",
+      "secondarySections": [],
+      "secondarySectionRationale": {},
+      "url": "https://apnews.com/article/germany-military-plane-crash-us-base-spangdahlem-abfd6a29c516766f5ee522cf5642edeb",
+      "publishedAt": "2026-09-22T14:30:45",
+      "publication": {
+        "value": "2026-09-22T14:30:45",
+        "precision": "second",
+        "evidence": "Saved AP extraction publishedAt field.",
+        "timezone": "not encoded in extracted metadata",
+        "cutoffAssessment": {
+          "status": "within-window-offset-not-encoded",
+          "note": "The source date is September 22, strictly within the frozen bounds; the missing offset is preserved rather than inferred."
+        }
+      },
+      "publisher": "Associated Press",
+      "sourceEvidencePath": "research/runs/2026-09-23T11-31-23-014Z-8d26ca21-0863-4450-82bc-1cdf26820144/extractions/mundo/8585274cd50f.json",
+      "additionalEventEvidence": [],
+      "evidence": "The complete AP extraction (HTTP 200, 9 reported paragraphs, no warnings) was reviewed with the saved Deutsche Welle corroboration link. The F-16 assignment, pilot ejection and medical care, and ongoing investigation are preserved; no cause is asserted.",
+      "corroboratingSources": [
+        {
+          "url": "https://amp.dw.com/en/spangdahlem-germany-us-fighter-jet-crash/a-79376025",
+          "matchingFacts": "Deutsche Welle independently confirms the aircraft, pilot ejection and investigation; no cause is established."
+        }
+      ],
+      "corroborationNote": "Independent reporting supports the aircraft and pilot details. The cause remained under investigation.",
+      "extractionGates": {
+        "httpStatus": 200,
+        "complete": true,
+        "paragraphCount": 9,
+        "warnings": [],
+        "passed": true,
+        "bodyContaminationNote": "The full extraction was reviewed; video material, the archival airbase photo caption and photo credits were excluded from the report."
+      },
+      "selectionReason": "A distinct aviation and military-safety incident with a reported injured pilot and a clear unresolved cause; AP and Deutsche Welle support the bounded facts.",
       "contentReview": {
         "bodyComplete": true,
         "aiSummaryReviewed": true
       }
     },
     {
-      "articleId": "mundo-2026-09-22-g7-exige-fim-apoio-houthis",
-      "url": "https://www.bbc.com/news/articles/cwm2qpmepmlzo",
-      "publishedAt": "2026-09-22T07:14:12.616Z",
-      "evidence": "Complete extraction 1cfe2326e002.json (HTTP 200), canonical URL matches the source URL, publishedAt 2026-09-22T07:14:12.616Z, retrieved 2026-09-22T11:23:52.972Z, contains 30 paragraphs and 822 words with no warnings. It reports the G7 statement, the Bab al-Mandab escalation, displacement estimates, the attributed Mokha casualty report, and the defensive support announced by Britain and France.",
-      "selectionReason": "Fresh, high-impact regional-security report from BBC News with direct implications for shipping and energy; selected as a distinct G7 statement, not as duplicate coverage of the separate British support announcement.",
+      "articleId": "em-despedida-chefe-da-onu-denuncia-coercao-de-potencias-e-fratura-do-mundo-icl-noticias",
+      "primarySection": "mundo",
+      "secondarySections": [],
+      "secondarySectionRationale": {},
+      "url": "https://iclnoticias.com.br/em-despedida-chefe-da-onu-denuncia-coercao-de-potencias-e-fratura-do-mundo/",
+      "publishedAt": "2026-09-22T10:24:20-03:00",
+      "publication": {
+        "value": "2026-09-22T10:24:20-03:00",
+        "precision": "second",
+        "evidence": "Saved ICL Notícias extraction publishedAt field.",
+        "timezone": "explicit-offset",
+        "cutoffAssessment": {
+          "status": "within-window",
+          "normalizedUtc": "2026-09-22T13:24:20.000000Z"
+        }
+      },
+      "publisher": "ICL Notícias",
+      "sourceEvidencePath": "research/runs/2026-09-23T11-31-23-014Z-8d26ca21-0863-4450-82bc-1cdf26820144/extractions/mundo/911a3ffe3ed5.json",
+      "additionalEventEvidence": [],
+      "evidence": "The complete ICL extraction (HTTP 200, 18 reported paragraphs, no warnings) uses ambiguous wording that the Council lacks an African country. The Guardian's coverage clarifies that Guterres's point was the lack of an African permanent seat, while the UN Security Council's current-members roster lists African elected members. The article therefore distinguishes the missing permanent seat from African elected membership and presents Guterres's remark as a political appeal for reform, not an adopted change. Author biography and the separate UN arrears/staff-cut claims in the ICL page are excluded.",
+      "corroboratingSources": [
+        {
+          "url": "https://www.theguardian.com/world/2026/sep/22/un-chief-antonio-guterres-final-general-assembly-address",
+          "matchingFacts": "The Guardian independently covered the September 22 address and specifies the representation issue as the lack of a permanent African seat; the appeal was not an adopted reform."
+        },
+        {
+          "url": "https://main.un.org/securitycouncil/en/content/current-members",
+          "matchingFacts": "The UN Security Council's current-members roster lists African elected members, confirming that African countries are not absent from the Council; the disputed distinction is permanent representation."
+        }
+      ],
+      "corroborationNote": "ICL's wording is ambiguous if read as saying no African country sits on the Council. The Guardian specifies the lack of an African permanent seat, and the UN's current-members roster shows African elected members. The corrected text attributes Guterres's political appeal for permanent representation and does not imply that a reform was adopted. Claims about UN financial arrears or staff cuts are not included in the public article.",
+      "extractionGates": {
+        "httpStatus": 200,
+        "complete": true,
+        "paragraphCount": 18,
+        "warnings": [],
+        "passed": true,
+        "bodyContaminationNote": "Promotional biography, captions and section headings were excluded from the story; financial-arrears and staffing assertions outside the bounded selection are omitted."
+      },
+      "selectionReason": "A major UN address on international institutions, power and AI governance; the article is confined to speech content corroborated at the level of its central themes and avoids unsupported side claims.",
       "contentReview": {
         "bodyComplete": true,
         "aiSummaryReviewed": true
       }
     },
     {
-      "articleId": "mundo-2026-09-22-bomba-segunda-guerra-falmouth",
-      "url": "https://www.bbc.com/news/articles/c9rk3vm3plego",
-      "publishedAt": "2026-09-22T09:56:01.429Z",
-      "evidence": "Complete extraction 2cfc367e3b69.json (HTTP 200), canonical URL matches the source URL, publishedAt 2026-09-22T09:56:01.429Z, retrieved 2026-09-22T11:23:53.148Z, contains 37 paragraphs and 824 words with no warnings. It reports the suspected 250kg World War Two missile, the reduced cordon, precautionary evacuation, specialist assessment, and the unresolved disposal method.",
-      "selectionReason": "Fresh, fully extracted public-safety report with a clearly bounded local impact and a distinct historical-infrastructure angle; selected to replace the preliminary trade item whose source timestamp could fall beyond the immutable cutoff under local-time parsing.",
+      "articleId": "lula-un-general-assembly-speech-2026",
+      "primarySection": "mundo",
+      "secondarySections": ["brasil", "politica"],
+      "secondarySectionRationale": {
+        "brasil": "The speaker is Brazil's president and the address is directly relevant to Brazil's international role; retain one shared speech identity.",
+        "politica": "The electoral-interference warning is a political statement; attribute it to Lula and reuse the same article ID rather than create a second article."
+      },
+      "reuseRationale": "Mundo is primary because the report covers the international address. Brasil and Política reference this single shared speech report; neither desk should create a duplicate article.",
+      "url": "https://apnews.com/article/un-united-nations-general-assembly-lula-brazil-767e63e2ffd5a2898c84f290de816ff7",
+      "publishedAt": "2026-09-22T15:43:28",
+      "publication": {
+        "value": "2026-09-22T15:43:28",
+        "precision": "second",
+        "evidence": "Saved AP extraction publishedAt field.",
+        "timezone": "not encoded in extracted metadata",
+        "cutoffAssessment": {
+          "status": "within-window-offset-not-encoded",
+          "note": "The source date is September 22, strictly within the frozen bounds; the missing offset is preserved rather than inferred."
+        }
+      },
+      "publisher": "Associated Press",
+      "sourceEvidencePath": "research/runs/2026-09-23T11-31-23-014Z-8d26ca21-0863-4450-82bc-1cdf26820144/extractions/mundo/97c229b751d6.json",
+      "additionalEventEvidence": [
+        {
+          "evidencePath": "research/runs/2026-09-23T11-31-23-014Z-8d26ca21-0863-4450-82bc-1cdf26820144/extractions/politica/b1722b2f9fe2.json",
+          "canonicalUrl": "https://g1.globo.com/politica/noticia/2026/09/22/leia-a-integra-do-discurso-de-lula-na-assembleia-geral-da-onu.ghtml",
+          "publisher": "G1",
+          "role": "same-speech transcript; confirms the date and what Lula said, not the truth of claims in the speech"
+        },
+        {
+          "evidencePath": "research/runs/2026-09-23T11-31-23-014Z-8d26ca21-0863-4450-82bc-1cdf26820144/extractions/politica/3ba1f615a379.json",
+          "canonicalUrl": "https://g1.globo.com/politica/noticia/2026/09/22/na-onu-lula-defende-cooperacao-contra-crime-organizado-em-meio-a-divergencia-com-eua-sobre-pcc-e-cv.ghtml",
+          "publisher": "G1",
+          "role": "separate same-event report; supporting context, not an independent article identity"
+        }
+      ],
+      "evidence": "The complete AP extraction (HTTP 200, 21 reported paragraphs, no warnings), G1's complete speech transcript and its separate same-event G1 report were reviewed. The article covers the delivered September 22 address, the attributed sovereignty and election-interference warning, and Lula's call for UN action and reform. The warning remains his statement, not proof that interference occurred.",
+      "corroboratingSources": [
+        {
+          "url": "https://g1.globo.com/politica/noticia/2026/09/22/leia-a-integra-do-discurso-de-lula-na-assembleia-geral-da-onu.ghtml",
+          "matchingFacts": "G1's transcript confirms the September 22 address and Lula's stated sovereignty and electoral-interference positions; a transcript is not independent verification of those claims."
+        },
+        {
+          "url": "https://g1.globo.com/politica/noticia/2026/09/22/na-onu-lula-defende-cooperacao-contra-crime-organizado-em-meio-a-divergencia-com-eua-sobre-pcc-e-cv.ghtml",
+          "matchingFacts": "A separate G1 report covers the same speech and its organized-crime remarks; it is same-event reporting and not a second article identity."
+        }
+      ],
+      "corroborationNote": "The transcript supports what Lula said, not the truth of the speech's claims. All warnings remain attributed. A retained 2026-09-22 Politics article is a pre-event preview; this is a post-event report of delivered remarks, and the parent should decide whether to treat it as an allowed cross-edition update before compilation.",
+      "extractionGates": {
+        "httpStatus": 200,
+        "complete": true,
+        "paragraphCount": 21,
+        "warnings": [],
+        "passed": true,
+        "bodyContaminationNote": "The AP extraction was reviewed; headlines, image/video captions and media credits are not used in the story."
+      },
+      "selectionReason": "A significant delivered presidential address on international affairs and sovereignty. Brasil and Política reuse the Mundo-primary article; the post-event report attributes Lula's warning and does not infer that interference occurred.",
       "contentReview": {
         "bodyComplete": true,
         "aiSummaryReviewed": true
       }
     },
     {
-      "articleId": "mundo-2026-09-22-norte-coreia-sistema-hipersonico",
-      "url": "https://apnews.com/article/north-korea-missile-kim-hypersonic-27b540de28525e4bf23c89b90991393d",
-      "publishedAt": "2026-09-22T02:58:04",
-      "evidence": "Complete extraction dda7e1410bd1.json (HTTP 200), canonical URL matches the source URL, publishedAt 2026-09-22T02:58:04, retrieved 2026-09-22T11:23:48.698Z, contains 17 paragraphs and 882 words with no warnings. It reports the test claims, South Korean detection figures, the stated performance data, and the official caveat that North Korean claims cannot be independently accepted as fully reliable.",
-      "selectionReason": "Fresh, consequential military development with explicit source-side uncertainty; selected as the missile-test event, distinct from the separate South Korean policy interview about phased denuclearization.",
+      "articleId": "uk-and-us-warned-to-take-action-on-spiralling-debt-costs-by-imf",
+      "primarySection": "mundo",
+      "secondarySections": [],
+      "secondarySectionRationale": {},
+      "url": "https://www.bbc.com/news/articles/cx305ymq4ldqo",
+      "publishedAt": "2026-09-23T08:31:16.333Z",
+      "publication": {
+        "value": "2026-09-23T08:31:16.333Z",
+        "precision": "millisecond",
+        "evidence": "Saved BBC extraction publishedAt field.",
+        "timezone": "explicit UTC offset",
+        "cutoffAssessment": {
+          "status": "within-window",
+          "normalizedUtc": "2026-09-23T08:31:16.333000Z"
+        }
+      },
+      "publisher": "BBC News",
+      "sourceEvidencePath": "research/runs/2026-09-23T11-31-23-014Z-8d26ca21-0863-4450-82bc-1cdf26820144/extractions/mundo/cb309ef991b3.json",
+      "additionalEventEvidence": [],
+      "evidence": "The complete BBC extraction (HTTP 200, 22 reported paragraphs, no warnings) and the official ONS August public-finance bulletin were reviewed. Georgieva's policy recommendations and AI comments are attributed to her BBC interview; the ONS cross-check supports UK August borrowing data, not the interview quotations.",
+      "corroboratingSources": [
+        {
+          "url": "https://www.ons.gov.uk/economy/governmentpublicsectorandtaxes/publicsectorfinance/bulletins/publicsectorfinances/august2026",
+          "matchingFacts": "The Office for National Statistics confirms UK August borrowing of £18.3 billion, 19% above August 2025 and above forecast; it does not verify Georgieva's interview statements."
+        }
+      ],
+      "corroborationNote": "The public-finance figure is independently supported by ONS. Georgieva's policy recommendations and quoted risk assessments remain attributed to the BBC interview.",
+      "extractionGates": {
+        "httpStatus": 200,
+        "complete": true,
+        "paragraphCount": 22,
+        "warnings": [],
+        "passed": true,
+        "bodyContaminationNote": "The full extraction was reviewed; section heading and newsletter promotion were not treated as claims."
+      },
+      "selectionReason": "A high-impact cross-economy policy warning with current official UK borrowing data; recommendations and forecasts are attributed rather than presented as adopted policy or certain outcomes.",
       "contentReview": {
         "bodyComplete": true,
         "aiSummaryReviewed": true
       }
     },
     {
-      "articleId": "mundo-2026-09-22-coreia-denuclearizacao-gradual",
-      "url": "https://apnews.com/article/koreas-lee-trump-kim-un-nuclear-2c12c8b88ca37e9dab861af584efa574",
-      "publishedAt": "2026-09-22T00:30:25",
-      "evidence": "Complete extraction aba62d65dad0.json (HTTP 200), canonical URL matches the source URL, publishedAt 2026-09-22T00:30:25, retrieved 2026-09-22T11:23:46.016Z, contains 32 paragraphs and 1,048 words with no warnings. It reports Lee's interview, the phased proposal, attributed nuclear estimates, diplomatic obstacles, and the South Korea-U.S. relationship.",
-      "selectionReason": "High-impact diplomatic policy proposal from a complete AP interview; selected as a distinct political initiative, not duplicate coverage of the separate North Korean missile-test report.",
+      "articleId": "seguro-e-merkel-discutem-relacoes-bilaterais-e-contexto-internacional",
+      "primarySection": "mundo",
+      "secondarySections": [],
+      "secondarySectionRationale": {},
+      "url": "https://www.noticiasaominuto.com/mundo/3055717/seguro-recebe-merkel-em-belem-para-discutir-relacoes-bilaterais-e-contexto-internacional",
+      "publishedAt": "2026-09-22T20:01:03+01:00",
+      "publication": {
+        "value": "2026-09-22T20:01:03+01:00",
+        "precision": "second",
+        "evidence": "Saved Notícias ao Minuto extraction publishedAt field.",
+        "timezone": "explicit +01:00 offset",
+        "cutoffAssessment": {
+          "status": "within-window",
+          "normalizedUtc": "2026-09-22T19:01:03.000000Z"
+        }
+      },
+      "publisher": "Notícias ao Minuto",
+      "sourceEvidencePath": "research/runs/2026-09-23T11-31-23-014Z-8d26ca21-0863-4450-82bc-1cdf26820144/extractions/mundo/da2f10043b52.json",
+      "additionalEventEvidence": [],
+      "evidence": "The complete saved extraction (HTTP 200, 9 reported paragraphs, no warnings) and Portuguese Presidency agenda link were reviewed. Only the three narrative paragraphs support the article: a courtesy audience, Merkel's reason for visiting Lisbon and the broad subjects discussed. Promotional and related-story tail material is excluded.",
+      "corroboratingSources": [
+        {
+          "url": "https://www.presidencia.pt/atualidade/agenda/",
+          "matchingFacts": "The Portuguese Presidency agenda lists the audience; it reports no policy outcome or agreement."
+        }
+      ],
+      "corroborationNote": "The article reports a courtesy audience and its announced discussion topics, not a negotiated agreement or new government policy.",
+      "extractionGates": {
+        "httpStatus": 200,
+        "complete": true,
+        "paragraphCount": 9,
+        "warnings": [],
+        "passed": true,
+        "bodyContaminationNote": "Manual review retains only the first three narrative paragraphs; app promotions, related-story links and newsletter/advertising copy are excluded."
+      },
+      "selectionReason": "A distinct international diplomatic meeting with an official agenda check; the report is limited to the audience and its disclosed subjects, with no unreported policy result inferred.",
       "contentReview": {
         "bodyComplete": true,
         "aiSummaryReviewed": true
       }
     },
     {
-      "articleId": "mundo-2026-09-22-mercados-globais-alta",
-      "url": "https://apnews.com/article/markets-ai-oil-wall-street-de8c5f9659e44556e40e661f794b48ad",
-      "publishedAt": "2026-09-22T03:31:07",
-      "evidence": "Complete extraction 19cba3368267.json (HTTP 200), canonical URL matches the source URL, publishedAt 2026-09-22T03:31:07, retrieved 2026-09-22T11:23:41.454Z, contains 15 paragraphs and 416 words with no warnings. It supplies regional index moves, oil prices, the Strait of Hormuz context, AI-market context, and currency levels.",
-      "selectionReason": "Current AP market snapshot that adds global economic coverage to a desk otherwise dominated by diplomacy and conflict; selected for distinct cross-market impact and precise, time-stamped figures.",
+      "articleId": "pornhub-age-checks-investigated-by-ofcom",
+      "primarySection": "mundo",
+      "secondarySections": [],
+      "secondarySectionRationale": {},
+      "url": "https://www.bbc.com/news/articles/c6eq8dw3dlyqo",
+      "publishedAt": "2026-09-23T09:12:21.149Z",
+      "publication": {
+        "value": "2026-09-23T09:12:21.149Z",
+        "precision": "millisecond",
+        "evidence": "Saved BBC extraction publishedAt field.",
+        "timezone": "explicit UTC offset",
+        "cutoffAssessment": {
+          "status": "within-window",
+          "normalizedUtc": "2026-09-23T09:12:21.149000Z"
+        }
+      },
+      "publisher": "BBC News",
+      "sourceEvidencePath": "research/runs/2026-09-23T11-31-23-014Z-8d26ca21-0863-4450-82bc-1cdf26820144/extractions/mundo/72884a1e201a.json",
+      "additionalEventEvidence": [],
+      "evidence": "The complete BBC extraction (HTTP 200, 17 reported paragraphs, no warnings) and Reuters reporting carried by MarketScreener were reviewed. The report describes an Ofcom investigation into Aylo's process and preserves that no breach finding had been made and Apple was not the investigation's target.",
+      "corroboratingSources": [
+        {
+          "url": "https://ca.marketscreener.com/news/uk-media-regulator-investigates-pornhub-over-age-checks-ce785ad9da8cf125",
+          "matchingFacts": "Reuters separately reports the Ofcom probe into Pornhub/Aylo age checks; the investigation is not a finding of breach."
+        }
+      ],
+      "corroborationNote": "The BBC and Reuters reports support the opening of an investigation; no enforcement decision or finding against Aylo is reported.",
+      "extractionGates": {
+        "httpStatus": 200,
+        "complete": true,
+        "paragraphCount": 17,
+        "warnings": [],
+        "passed": true,
+        "bodyContaminationNote": "The complete extraction was reviewed; the newsletter sign-up tail was excluded."
+      },
+      "selectionReason": "A current UK regulatory investigation with implications for online safety and age assurance; the draft distinguishes the regulator's inquiry from a finding and from any investigation of Apple.",
       "contentReview": {
         "bodyComplete": true,
         "aiSummaryReviewed": true
       }
     },
     {
-      "articleId": "mundo-2026-09-22-gloriavale-perde-status-caridade",
-      "url": "https://apnews.com/article/new-zealand-gloriavale-commune-charity-status-trust-6c6c4ce0dfa9ae9b29ed2aa7d322c72e",
-      "publishedAt": "2026-09-22T06:49:17",
-      "evidence": "Complete extraction 0046a26cd1dc.json (HTTP 200), canonical URL matches the source URL, publishedAt 2026-09-22T06:49:17, retrieved 2026-09-22T11:23:47.356Z, contains 24 paragraphs and 750 words with no warnings. It reports the board's three-year decision, cited court and school findings, appeal possibility, financial context, and Temple's governance ban.",
-      "selectionReason": "Fresh AP accountability report with a formal state decision, documented legal findings, and clear public-interest consequences; selected as a distinct institutional story rather than a general crime brief.",
+      "articleId": "philippines-banga-high-school-shooting-2026",
+      "primarySection": "mundo",
+      "secondarySections": [],
+      "url": "https://apnews.com/article/philippines-school-shooting-south-cotabato-0fb2a2443f64829985e0aab1368d2ee8",
+      "publisher": "Associated Press",
+      "publishedAt": "2026-09-18T08:57:58Z",
+      "sourceEvidencePath": "research/runs/2026-09-23T11-31-23-014Z-8d26ca21-0863-4450-82bc-1cdf26820144/focused/mundo-r3-1.json",
+      "evidence": "The revised article prose uses only claims in the complete pre-cutoff ABC News Australia and GMA News Online archived bodies, saved at research/runs/2026-09-23T11-31-23-014Z-8d26ca21-0863-4450-82bc-1cdf26820144/focused/recovery/mundo/banga_abc-20260919122333.txt and research/runs/2026-09-23T11-31-23-014Z-8d26ca21-0863-4450-82bc-1cdf26820144/focused/recovery/mundo/banga_gma_initial-20260918203136.txt. The archive capture times were 2026-09-19T12:23:33Z and 2026-09-18T20:31:36Z. The post-cutoff AP body is not used as cutoff proof; age and casualty-count differences remain attributed, and no motive is inferred.",
+      "selectionReason": "The selected AP report is paired with an independent Philippine report; official-source details remain attributed and no motive is inferred.",
+      "corroboratingSources": [
+        {
+          "url": "https://www.abc.net.au/news/2026-09-18/deadly-philippines-school-shooting/107170736",
+          "matchingFacts": "Independently reports the deaths and injured students, with details attributed to local officials."
+        }
+      ],
+      "extractionGates": {
+        "httpStatus": 200,
+        "complete": true,
+        "paragraphCount": 11,
+        "warnings": [],
+        "passed": true,
+        "bodyContaminationNote": "The full extracted text was reviewed; the handout photo caption was excluded from story facts, and the remaining narrative is substantive."
+      },
       "contentReview": {
         "bodyComplete": true,
         "aiSummaryReviewed": true
+      },
+      "reviewFlags": [
+        "Do not state a motive or causal link to an online community; those remain unconfirmed."
+      ],
+      "secondarySectionRationale": {},
+      "publication": {
+        "value": "2026-09-18T08:57:58Z",
+        "precision": "second",
+        "evidence": "Saved AP publishedAt is 2026-09-18T08:57:58; AP’s indexed article date line labels the same timestamp UTC.",
+        "timezone": "UTC (AP article date line)",
+        "cutoffAssessment": {
+          "status": "within-window",
+          "normalizedUtc": "2026-09-18T08:57:58.000000Z"
+        }
+      },
+      "retrievalEvidence": {
+        "retrievedAt": "2026-09-23T17:45:08.395Z",
+        "httpStatus": 200,
+        "complete": true,
+        "paragraphCount": 11,
+        "warnings": [],
+        "retrievedAfterImmutableCutoff": true,
+        "cutoffBodyVersionLimitation": "This post-cutoff capture verifies the saved body only; it does not prove the exact body wording/version existed at the cutoff."
+      },
+      "additionalEventEvidence": [],
+      "corroborationNote": "The complete ABC and GMA archive bodies captured before cutoff support the narrowed report. Their age and injury details differ or reflect revised counts and are explicitly attributed; the later AP body is not used as cutoff proof.",
+      "recoveryEvidence": {
+        "preCutoffArchiveSnapshots": [
+          {
+            "publisher": "ABC News Australia",
+            "originalUrl": "https://www.abc.net.au/news/2026-09-18/deadly-philippines-school-shooting/107170736",
+            "archiveUrl": "https://web.archive.org/web/20260919122333id_/https://www.abc.net.au/news/2026-09-18/deadly-philippines-school-shooting/107170736",
+            "capturedAt": "2026-09-19T12:23:33Z",
+            "cdxDigest": "RFYC3XHZG4PJ3PGAFV26JIPLIG2IZ5IL",
+            "supports": "Attributes shooter age 16 to Banga mayor and reports eight injured; this snapshot does not state a 10-student count."
+          },
+          {
+            "publisher": "GMA News Online",
+            "originalUrl": "https://www.gmanetwork.com/news/topstories/regions/1002852/students-reported-dead-in-banga-national-high-school-shooting/story/",
+            "archiveUrl": "https://web.archive.org/web/20260918203136id_/https://www.gmanetwork.com/news/topstories/regions/1002852/students-reported-dead-in-banga-national-high-school-shooting/story/",
+            "capturedAt": "2026-09-18T20:31:36Z",
+            "cdxDigest": "7EY2DMDZVY4NGT24KHKLJKIEA3TOMLI7",
+            "supports": "Cites police saying all three people who died were 14, the shooter shot nine other students, and six were wounded; the same page records an official revision to three deaths and eight injuries."
+          }
+        ],
+        "limitation": "These captures establish only the page wording at the listed archive times, not that wording remained identical at the immutable cutoff. The 10-hit figure remains attributed to the mayor via AP, whose selected page had no successful pre-cutoff archive result in this batch; no exact AP body version at cutoff is claimed."
       }
     },
     {
-      "articleId": "cultura-2026-09-22-burberry-london-fashion-week",
-      "url": "https://www.bbc.com/news/articles/cmzxz2pe5vd0o",
-      "publishedAt": "2026-09-22T09:46:15.766Z",
-      "evidence": "Complete extraction 66438282a1fb.json (HTTP 200), canonical URL matches the source URL, publishedAt 2026-09-22T09:46:15.766Z, retrieved 2026-09-22T11:23:51.201Z, contains 34 paragraphs and 926 words with no warnings. It reports Burberry's show, the McQueen and Mulberry returns, British Fashion Council aims, and attributed trend analysis.",
-      "selectionReason": "Most current established-source culture item in the run, with international industry relevance and enough complete material for a substantive bilingual report; selected to keep the desk from becoming a duplicate conflict digest.",
+      "articleId": "dmz-explosion-injures-three-south-korean-officers-2026",
+      "primarySection": "mundo",
+      "secondarySections": [],
+      "url": "https://apnews.com/article/north-korea-dmz-explosion-border-85889eaed6308b7c05a2bf402076c772",
+      "publisher": "Associated Press",
+      "publishedAt": "2026-09-21T05:42:05Z",
+      "sourceEvidencePath": "research/runs/2026-09-23T11-31-23-014Z-8d26ca21-0863-4450-82bc-1cdf26820144/focused/mundo-r3-2.json",
+      "evidence": "AP's saved report first described an explosion and three injured military personnel. Yonhap's follow-up, published 2026-09-23T09:49Z before the frozen cutoff, reported two consecutive blasts, the route-clearance mission, injury details and forensic analysis of mine fragments. The JCS did not determine the mine's origin or attribute responsibility to North Korea.",
+      "selectionReason": "The report distinguishes the AP's initial account from the JCS follow-up: two consecutive explosions were later reported, while the mine's origin remains unresolved.",
+      "corroboratingSources": [
+        {
+          "url": "https://en.yna.co.kr/view/AEN20260921006151315",
+          "matchingFacts": "JCS-based follow-up reports two blasts, route clearing, injuries and pending forensic analysis; origin remains undetermined."
+        },
+        {
+          "url": "https://en.yna.co.kr/view/AEN20260923011100315",
+          "matchingFacts": "JCS-based follow-up reports two blasts, route clearing, injuries and pending forensic analysis; origin remains undetermined."
+        }
+      ],
+      "extractionGates": {
+        "httpStatus": 200,
+        "complete": true,
+        "paragraphCount": 13,
+        "warnings": [],
+        "passed": true,
+        "bodyContaminationNote": "The full extraction was reviewed; the archival patrol photo caption and the “Tensions have increased” section heading were excluded from substantive facts."
+      },
       "contentReview": {
         "bodyComplete": true,
         "aiSummaryReviewed": true
+      },
+      "reviewFlags": [
+        "Mine origin and responsibility remain undetermined; no North Korean role is asserted.",
+        "The AP source-body capture occurred after cutoff; the Yonhap follow-up's publication timestamp is pre-cutoff, but its body was checked during this reconstruction."
+      ],
+      "secondarySectionRationale": {},
+      "publication": {
+        "value": "2026-09-21T05:42:05Z",
+        "precision": "second",
+        "evidence": "Saved AP publishedAt is 2026-09-21T05:42:05; AP’s indexed article date line labels 05:42:04 UTC, a one-second display discrepancy. The saved timestamp is retained.",
+        "timezone": "UTC (AP article date line; one-second display discrepancy)",
+        "cutoffAssessment": {
+          "status": "within-window",
+          "normalizedUtc": "2026-09-21T05:42:05.000000Z"
+        }
+      },
+      "retrievalEvidence": {
+        "retrievedAt": "2026-09-23T17:47:43.417Z",
+        "httpStatus": 200,
+        "complete": true,
+        "paragraphCount": 13,
+        "warnings": [],
+        "retrievedAfterImmutableCutoff": true,
+        "cutoffBodyVersionLimitation": "This post-cutoff capture verifies the saved body only; it does not prove the exact body wording/version existed at the cutoff."
+      },
+      "additionalEventEvidence": [],
+      "corroborationNote": "The later Yonhap update is kept distinct from AP's earlier one-blast description; neither establishes attribution."
+    },
+    {
+      "articleId": "russia-united-russia-dominates-parliamentary-vote-2026",
+      "primarySection": "mundo",
+      "secondarySections": [],
+      "url": "https://apnews.com/article/russia-election-parliament-duma-putin-ukraine-6f3df3716cbcf8c96711b688762b450b",
+      "publisher": "Associated Press",
+      "publishedAt": "2026-09-20T13:47:24Z",
+      "sourceEvidencePath": "research/runs/2026-09-23T11-31-23-014Z-8d26ca21-0863-4450-82bc-1cdf26820144/focused/mundo-r3-3.json",
+      "evidence": "The revised article prose uses only claims in the complete Xinhua archive body saved at research/runs/2026-09-23T11-31-23-014Z-8d26ca21-0863-4450-82bc-1cdf26820144/focused/recovery/mundo/russia_xinhua-20260921134926.txt, captured at 2026-09-21T13:49:26Z. It supports the attributed preliminary vote figures, turnout, voting dates, Duma composition and expected results date. The post-cutoff AP body and unsupported observer-access and Yabloko claims are not used.",
+      "selectionReason": "The early AP partial count is separated from the later Xinhua tally; observer allegations remain attributed, with no causal effect on results asserted.",
+      "corroboratingSources": [
+        {
+          "url": "https://english.news.cn/20260921/49b14108ccaa4baaaf08056db962d244/c.html",
+          "matchingFacts": "Independent published count-stage report used only for its attributed tally/context."
+        },
+        {
+          "url": "https://ae.marketscreener.com/news/russia-s-ruling-pro-putin-party-wins-wartime-election-with-over-57-of-vote-near-complete-results-s-ce785adbda89f724",
+          "matchingFacts": "The report gives 57.83% and 355 seats after more than 95% was counted; this page had no successful pre-cutoff archive result in the batch, and the 355-seat claim is omitted from the article."
+        },
+        {
+          "url": "https://www.lemonde.fr/en/international/article/2026/09/21/kremlin-orchestrates-russian-elections-by-manipulating-votes-and-barring-observers_6757755_4.html",
+          "matchingFacts": "Reports restrictions on observer access and the Yabloko party-list exclusion; it does not establish the effect on results."
+        }
+      ],
+      "extractionGates": {
+        "httpStatus": 200,
+        "complete": true,
+        "paragraphCount": 43,
+        "warnings": [],
+        "passed": true,
+        "bodyContaminationNote": "The complete extraction was reviewed; the AP headline, image captions and section headings were excluded from substantive paragraph facts."
+      },
+      "contentReview": {
+        "bodyComplete": true,
+        "aiSummaryReviewed": true
+      },
+      "reviewFlags": [
+        "The AP and Reuters tallies are different count stages and must not be presented as simultaneous or contradictory final totals.",
+        "Claims of observer exclusion and irregularities remain attributed; their effect on results is not established."
+      ],
+      "secondarySectionRationale": {},
+      "publication": {
+        "value": "2026-09-20T13:47:24Z",
+        "precision": "second",
+        "evidence": "Saved AP publishedAt is 2026-09-20T13:47:24; AP’s indexed article date line labels 13:47:23 UTC, a one-second display discrepancy. The saved timestamp is retained.",
+        "timezone": "UTC (AP article date line; one-second display discrepancy)",
+        "cutoffAssessment": {
+          "status": "within-window",
+          "normalizedUtc": "2026-09-20T13:47:24.000000Z"
+        }
+      },
+      "retrievalEvidence": {
+        "retrievedAt": "2026-09-23T17:53:23.409Z",
+        "httpStatus": 200,
+        "complete": true,
+        "paragraphCount": 43,
+        "warnings": [],
+        "retrievedAfterImmutableCutoff": true,
+        "cutoffBodyVersionLimitation": "This post-cutoff capture verifies the saved body only; it does not prove the exact body wording/version existed at the cutoff."
+      },
+      "additionalEventEvidence": [],
+      "corroborationNote": "The pre-cutoff Xinhua archive body supports the bounded preliminary results and election-structure details. No later AP body, observer-access claim or effect on the result is used in the revised article.",
+      "recoveryEvidence": {
+        "preCutoffArchiveSnapshots": [
+          {
+            "publisher": "Xinhua News Agency",
+            "originalUrl": "https://english.news.cn/20260921/49b14108ccaa4baaaf08056db962d244/c.html",
+            "archiveUrl": "https://web.archive.org/web/20260921134926id_/https://english.news.cn/20260921/49b14108ccaa4baaaf08056db962d244/c.html",
+            "capturedAt": "2026-09-21T13:49:26Z",
+            "cdxDigest": "6LARQ43F6ICDQR2HECDWJHAG4HHYMDY6",
+            "supports": "Reports CEC data showing United Russia at 57.83% after 95.18% of ballots were counted; does not substantiate a 355-seat count."
+          }
+        ],
+        "limitation": "The selected AP page had no successful pre-cutoff archive result in this batch, so its about-58%-of-precincts partial tally remains attributed and is not claimed as an archived cutoff body. The archived Xinhua later tally is a distinct count stage; observer-access reports are not said to have caused the result."
       }
     },
     {
-      "articleId": "mundo-2026-09-22-trump-mamdani-encontro",
-      "url": "https://apnews.com/article/donald-trump-zohran-mamdani-new-york-40a2a3e36c47e5ddec61cba145292344",
-      "publishedAt": "2026-09-21T23:23:00",
-      "evidence": "Complete extraction 67d50d000fe2.json (HTTP 200), canonical URL matches the source URL, publishedAt 2026-09-21T23:23:00, retrieved 2026-09-22T11:23:43.729Z, contains 18 paragraphs and 576 words with no warnings. It reports the hourlong meeting, the housing discussion, prior encounters, and stated political differences.",
-      "selectionReason": "Fresh 2026-09-21 AP report linked to U.N. week and a consequential U.S. city-policy relationship; selected as a distinct meeting rather than duplicating the broader U.N. outlook story.",
+      "articleId": "saudi-coalition-says-houthi-missile-targeted-riyadh-2026",
+      "primarySection": "mundo",
+      "secondarySections": [],
+      "url": "https://apnews.com/article/yemen-saudi-arabia-b1286cad816dd3e553f50f6dd5205972",
+      "publisher": "Associated Press",
+      "publishedAt": "2026-09-19T20:10:52Z",
+      "sourceEvidencePath": "research/runs/2026-09-23T11-31-23-014Z-8d26ca21-0863-4450-82bc-1cdf26820144/focused/mundo-r3-4.json",
+      "evidence": "The revised copy is grounded in the complete KSL.com archive extraction of Reuters reporting captured at 2026-09-20T02:19:06Z (CDX digest 3VEIW3RQ5IKEJARDC7WP3ZRHC7NUVNA6), before the frozen 2026-09-23T11:31:23.014Z cutoff. The body supports, with attribution, the coalition's statement that it destroyed a missile fired toward Riyadh and its claim to have foiled attacks in Bish, Farasan, Taif and Yanbu; it also supports the Houthis' claims about Riyadh sites and an Aramco facility in Yanbu, plus the reported overnight civil-defense alerts and all-clear. Neither side's claims are presented as independently verified. The copy makes no casualty or damage-outcome assertion and does not link airport smoke or flames to the missile. The extraction was retrieved on September 25; that retrieval time is not cutoff evidence. The original AP selection metadata is retained separately and its post-cutoff body is fact-check context only.",
+      "selectionReason": "The Riyadh event remains in its original selection position. The revised report keeps coalition and Houthi claims attributed and uses details supported by the timestamped pre-cutoff Reuters/KSL body; it asserts no casualty or damage outcome and does not link airport smoke to the missile.",
+      "corroboratingSources": [
+        {
+          "url": "https://apnews.com/article/yemen-saudi-arabia-b1286cad816dd3e553f50f6dd5205972",
+          "matchingFacts": "Post-cutoff fact-check context only: AP's complete body retrieved at 2026-09-23T17:45:34.380Z also reports the coalition's interception statement and attributed Houthi claims. It is not evidence of pre-cutoff availability or wording and is not used to ground the revised copy."
+        }
+      ],
+      "extractionGates": {
+        "httpStatus": 200,
+        "complete": true,
+        "paragraphCount": 32,
+        "warnings": [],
+        "passed": true,
+        "bodyContaminationNote": "The complete 790-word archived extraction was reviewed; lead/deck material, credits, visual descriptions and unrelated recommendation material are not used as article claims."
+      },
       "contentReview": {
         "bodyComplete": true,
         "aiSummaryReviewed": true
-      }
-    },
-    {
-      "articleId": "mundo-2026-09-22-falha-controle-trafego-britanico",
-      "url": "https://www.bbc.com/news/articles/cqp80p78mxx5o",
-      "publishedAt": "2026-09-21T20:21:18.689Z",
-      "evidence": "Complete extraction 150ef8722727.json (HTTP 200), canonical URL matches the source URL, publishedAt 2026-09-21T20:21:18.689Z, retrieved 2026-09-22T11:23:52.738Z, contains 39 paragraphs and 978 words with no warnings. It reports the Prestwick connectivity failure, cancellation figures, passenger-rights caveat, the two control centers, and the independent review.",
-      "selectionReason": "Established BBC service report with concrete cross-region passenger impact and a defined regulatory follow-up; selected as a distinct infrastructure failure rather than duplicate conflict or diplomacy coverage.",
-      "contentReview": {
-        "bodyComplete": true,
-        "aiSummaryReviewed": true
-      }
+      },
+      "reviewFlags": [
+        "The coalition's interception statement and the Houthi attack claim remain attributed; the archived body does not independently verify the launch, interception or target path.",
+        "Do not connect airport smoke or flames to the missile and do not assert casualties or damage; the revised copy omits those claims."
+      ],
+      "secondarySectionRationale": {},
+      "publication": {
+        "value": "2026-09-19T20:10:52Z",
+        "precision": "second",
+        "evidence": "Saved AP publishedAt is 2026-09-19T20:10:52; AP’s indexed article date line labels the same timestamp UTC.",
+        "timezone": "UTC (AP article date line)",
+        "cutoffAssessment": {
+          "status": "within-window",
+          "normalizedUtc": "2026-09-19T20:10:52.000000Z"
+        }
+      },
+      "retrievalEvidence": {
+        "retrievedAt": "2026-09-23T17:45:34.380Z",
+        "httpStatus": 200,
+        "complete": true,
+        "paragraphCount": 16,
+        "warnings": [],
+        "retrievedAfterImmutableCutoff": true,
+        "role": "Post-cutoff fact-check context only; not used as cutoff evidence or to support the revised article copy.",
+        "cutoffBodyVersionLimitation": "This post-cutoff capture verifies the saved body only; it does not prove the exact body wording/version existed at the cutoff."
+      },
+      "recoveryEvidence": {
+        "preCutoffArchiveSnapshots": [
+          {
+            "publisher": "KSL.com republishing Reuters",
+            "originalUrl": "https://www.ksl.com/article/51626095/flames-smoke-seen-near-riyadh-airport-houthis-claim-attacks-on-saudi-capital",
+            "archiveUrl": "https://web.archive.org/web/20260920021906/https://www.ksl.com/article/51626095/flames-smoke-seen-near-riyadh-airport-houthis-claim-attacks-on-saudi-capital",
+            "capturedAt": "2026-09-20T02:19:06Z",
+            "cdxDigest": "3VEIW3RQ5IKEJARDC7WP3ZRHC7NUVNA6",
+            "supports": "The body reports the coalition's attributed missile-interception statement and its claim to have foiled attacks in Bish, Farasan, Taif and Yanbu; it also reports the Houthis' attributed claims about Riyadh sites and an Aramco facility in Yanbu, along with overnight civil-defense alerts and an all-clear. It does not establish a casualty or damage outcome or link airport smoke to the missile.",
+            "role": "Pre-cutoff body evidence for the narrowed copy; Reuters reporting republished by KSL.com."
+          }
+        ],
+        "savedExtraction": {
+          "path": "research/runs/2026-09-23T11-31-23-014Z-8d26ca21-0863-4450-82bc-1cdf26820144/focused/recovery/saudi-ksl-wayback-20260920021906.json",
+          "sha256": "7605f80e6a6b05749c4aaddefa63b9df12ece09709b8f98a62553c3c3b95a213",
+          "httpStatus": 200,
+          "complete": true,
+          "paragraphCount": 32,
+          "wordCount": 790,
+          "warnings": [],
+          "retrievedAt": "2026-09-25T15:55:43.032Z",
+          "retrievedAfterImmutableCutoff": true,
+          "retrievalIsCutoffEvidence": false
+        },
+        "limitation": "The September 25 extraction retrieves the timestamped September 20 archive snapshot; cutoff status is established by the archive capture timestamp and CDX record, not by the later retrieval time."
+      },
+      "additionalEventEvidence": [],
+      "corroborationNote": "The revised copy relies on one pre-cutoff Reuters report republished by KSL; coalition and Houthi statements and the reported civil-defense actions remain attributed to that source. The saved AP body is later fact-check context only, not cutoff evidence. No airport-smoke connection, casualty count or damage outcome is asserted."
     }
   ],
+  "timestampNormalizationNote": "For AP-primary article JSONs stored with date-only precision, the frozen selection retains the saved publication timestamp and date-line/timezone evidence; one-second display differences remain explicit there. No timestamp is inferred from a later body capture.",
+  "sourceUpdateMetadataNote": "The ordered IDs remain those in the immutable selection. Later source checks are recorded per article with their publication/retrieval limits; a post-cutoff body capture is not treated as proof of exact wording at cutoff.",
   "shortfall": {
     "pt-BR": "",
     "en": ""
   },
   "improvements": [],
-  "candidateRun": "research/runs/2026-09-22T11-21-20-336Z-6df281a2-9343-4cb7-a1b3-001b9e9a3dde",
-  "retrievedAt": "2026-09-22T11:21:25.354Z",
-  "reviewStatus": "draft-source-verified-no-publication-approval"
+  "candidateRun": "research/runs/2026-09-23T11-31-23-014Z-8d26ca21-0863-4450-82bc-1cdf26820144",
+  "retrievedAt": "2026-09-23T11:31:26.564Z",
+  "editorialUpdatedAt": "2026-09-25T16:47:02Z",
+  "reviewStatus": "draft-source-verified-no-publication-approval",
+  "authoringStatus": "Ten ordered IDs remain unchanged. Philippines and Russia copy were narrowed to claims supported by complete pre-cutoff archived alternative-source bodies (ABC/GMA and Xinhua), with source discrepancies attributed. The Saudi article now includes only details supported by the timestamped pre-cutoff KSL/Reuters body, keeping coalition and Houthi statements attributed and making no casualty, damage-outcome or airport-smoke-link claim. DMZ remains BLOCKED because no qualifying complete pre-cutoff source body is recorded. No publication approval is implied.",
+  "recoveryBatch": {
+    "checkedAt": "2026-09-25T16:47:02Z",
+    "cutoff": "2026-09-23T11:31:23.014Z",
+    "evidenceDirectory": "research/runs/2026-09-23T11-31-23-014Z-8d26ca21-0863-4450-82bc-1cdf26820144/focused/recovery/mundo/",
+    "result": "Philippines: complete pre-cutoff ABC/GMA archive bodies support a narrowed report. Russia: the complete pre-cutoff Xinhua archive body supports a bounded preliminary-results report. DMZ: no qualifying complete pre-cutoff AP or Yonhap body is present in saved recovery evidence. Saudi: the complete Reuters report republished by KSL has a saved archive capture at 2026-09-20T02:19:06Z, before cutoff; the September 25 extraction is retrieval metadata, not cutoff proof. The copy uses only supported, attributed coalition and Houthi claims plus reported civil-defense alerts; it asserts no casualty or damage outcome and does not link smoke to the missile. The post-cutoff AP capture is fact-check context only. DMZ remains BLOCKED."
+  }
 }

@@ -1,0 +1,86 @@
+{
+  "id": "france-selects-russian-language-film-minotaur-for-oscar-glory",
+  "slug": "france-selects-russian-language-film-minotaur-for-oscar-glory",
+  "section": "cultura",
+  "secondarySections": [],
+  "publishedAt": "2026-09-17T11:53:20+02:00",
+  "updatedAt": "2026-09-24T17:45:13.603Z",
+  "sources": [
+    {
+      "name": "Euronews",
+      "url": "https://www.euronews.com/2026/09/17/minotaur-by-andrey-zvyagintsev-to-represent-france-at-oscars"
+    },
+    {
+      "name": "Centre national du cinéma et de l’image animée (CNC)",
+      "url": "https://www.cnc.fr/professionnels/communiques-de-presse/minotaure--dandrei-zviaguintsev-representera-la-france-a-loscar-du-meilleur-film-international_2658516"
+    }
+  ],
+  "rights": {
+    "mode": "original-report"
+  },
+  "translations": {
+    "pt-BR": {
+      "title": "França escolhe filme em russo “Minotauro” para representar o país no Oscar",
+      "summary": "O drama de Andrey Zvyagintsev foi escolhido como representante francês na categoria internacional; a seleção nacional ainda não é uma indicação ao Oscar.",
+      "aiSummary": [
+        "Um júri francês escolheu Minotauro como representante do país na categoria de Melhor Filme Internacional.",
+        "O filme venceu o Grande Prêmio do Festival de Cannes de 2026 e é falado em russo.",
+        "A seleção para representar a França não equivale a uma indicação ou vitória no Oscar."
+      ],
+      "paragraphs": [
+        "A França escolheu Minotauro, drama falado em russo de Andrey Zvyagintsev, para representá-la na corrida pela categoria de Melhor Filme Internacional do Oscar de 2027. A decisão foi tomada por uma comissão profissional presidida pelo historiador de cinema Charles Tesson; a escolha é uma candidatura nacional, não uma indicação da Academia.",
+        "O longa venceu o Grande Prêmio do Festival de Cannes de 2026. A produção reúne empresas francesas, com participação também de parceiros alemães e letões, segundo a reportagem; o CNC informa que o projeto recebeu apoio do fundo francês para coproduções internacionais.",
+        "Na trama, Gleb, chefe de uma empresa, enfrenta o colapso do casamento enquanto a mobilização militar na Rússia altera a vida de seus funcionários. O roteiro apresenta a decisão do personagem de enviar trabalhadores ao Exército para cumprir cotas e proteger a si próprio de consequências políticas.",
+        "O filme tem lançamento previsto nos cinemas franceses em 14 de outubro, distribuído por Les Films du Losange. As vendas internacionais são conduzidas pela MK2 Films, e a Mubi fará a distribuição nos Estados Unidos, conforme as informações divulgadas pelo CNC.",
+        "A 99ª cerimônia do Oscar está marcada para 14 de março de 2027, em Los Angeles. O anúncio da escolha francesa inicia a etapa de candidatura do país; a lista de indicados internacionais ainda será definida pela Academia."
+      ]
+    },
+    "en": {
+      "title": "France selects Russian-language film Minotaur as its Oscar entry",
+      "summary": "Andrey Zvyagintsev’s drama was chosen as France’s international-category entry; the national selection is not yet an Oscar nomination.",
+      "aiSummary": [
+        "A French jury selected Minotaur to represent the country in the international feature category.",
+        "The Russian-language film won the 2026 Cannes Film Festival Grand Prix.",
+        "Selection as France’s entry does not make the film an Oscar nominee or winner."
+      ],
+      "paragraphs": [
+        "France selected Minotaur, a Russian-language drama by Andrey Zvyagintsev, to represent the country in the race for the 2027 Oscar international feature category. A professional committee chaired by film historian Charles Tesson made the choice; it is France’s national entry, not an Academy nomination.",
+        "The feature won the Grand Prix at the 2026 Cannes Film Festival. Its production involves French companies as well as German and Latvian partners, Euronews reported; France’s CNC says the project received support from the country’s fund for international co-productions.",
+        "In the plot, company head Gleb faces the breakdown of his marriage as military mobilisation in Russia reshapes the lives of his employees. The story has him send workers to the army to meet quotas and shield himself from political consequences.",
+        "The film is scheduled to open in French cinemas on October 14, distributed by Les Films du Losange. MK2 Films handles international sales, while Mubi is set to distribute it in the United States, according to the CNC announcement.",
+        "The 99th Academy Awards ceremony is scheduled for March 14, 2027, in Los Angeles. France’s choice begins the country’s submission stage; the Academy has not yet determined the international-feature nominees."
+      ]
+    }
+  },
+  "verification": {
+    "score": 9.4,
+    "checkedAt": "2026-09-24T14:17:43Z",
+    "checks": [
+      {
+        "provider": "Euronews",
+        "url": "https://www.euronews.com/2026/09/17/minotaur-by-andrey-zvyagintsev-to-represent-france-at-oscars",
+        "finding": "supports",
+        "note": "Original report supports the French selection, Russian-language claim, Cannes Grand Prix and film/release details."
+      },
+      {
+        "provider": "Centre national du cinéma et de l’image animée (CNC)",
+        "url": "https://www.cnc.fr/professionnels/communiques-de-presse/minotaure--dandrei-zviaguintsev-representera-la-france-a-loscar-du-meilleur-film-international_2658516",
+        "finding": "supports",
+        "note": "Official CNC release confirms the selection, committee, Cannes result, French release date and distribution details."
+      },
+      {
+        "provider": "Projeto Comprova",
+        "url": "https://projetocomprova.com.br/",
+        "finding": "no-match",
+        "note": "Targeted Portuguese search for France's film selection and Oscar claim found no relevant fact-check; neutral, not evidence of truth."
+      },
+      {
+        "provider": "Reuters Fact Check",
+        "url": "https://www.reuters.com/fact-check/",
+        "finding": "no-match",
+        "note": "Targeted English search for Minotaur and France's Oscar entry found no relevant fact-check; neutral, not evidence of truth."
+      }
+    ],
+    "caveat": "The selection is a national entry, not an Academy nomination or win; the article makes that distinction. French release date was still upcoming at the cutoff. Fact-check no-matches are neutral."
+  }
+}

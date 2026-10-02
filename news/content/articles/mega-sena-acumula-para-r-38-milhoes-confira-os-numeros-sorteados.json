@@ -1,0 +1,59 @@
+{
+  "id": "mega-sena-acumula-para-r-38-milhoes-confira-os-numeros-sorteados",
+  "slug": "mega-sena-acumula-para-r-38-milhoes-confira-os-numeros-sorteados",
+  "section": "brasil",
+  "secondarySections": [],
+  "publishedAt": "2026-09-23T00:30:00-03:00",
+  "updatedAt": "2026-09-25T09:56:17Z",
+  "sources": [
+    {
+      "name": "Agência Brasil",
+      "url": "https://agenciabrasil.ebc.com.br/geral/noticia/2026-09/mega-sena-acumula-para-r-38-milhoes-confira-os-numeros-sorteados"
+    },
+    {
+      "name": "Caixa Econômica Federal — resultado oficial do concurso 3061",
+      "url": "https://servicebus2.caixa.gov.br/portaldeloterias/api/megasena/3061"
+    },
+    {
+      "name": "G1",
+      "url": "https://g1.globo.com/loterias/mega-sena/noticia/2026/09/22/mega-sena-concurso-3061-confira-os-numeros-sorteados.ghtml"
+    }
+  ],
+  "rights": {
+    "mode": "original-report"
+  },
+  "translations": {
+    "pt-BR": {
+      "title": "Mega-Sena: concurso 3.061 de 22 de setembro acumulou; estimativa para 24 de setembro era de R$ 38 milhões",
+      "summary": "Sem ganhador na faixa principal do concurso 3.061, realizado em 22 de setembro, o prêmio acumulou; a estimativa então divulgada para 24 de setembro era de R$ 38 milhões.",
+      "aiSummary": [
+        "O concurso 3.061 da Mega-Sena, realizado em 22 de setembro, não teve aposta vencedora na faixa de seis dezenas; os números sorteados foram 24, 25, 28, 37, 47 e 55.",
+        "A Caixa registrou 39 apostas com cinco acertos e 2.148 com quatro acertos.",
+        "A estimativa para o concurso seguinte era de R$ 38 milhões; apostas podiam ser feitas até as 20h de 24 de setembro, no horário de Brasília."
+      ],
+      "paragraphs": [
+        "O concurso 3.061 da Mega-Sena foi realizado em 22 de setembro, em São Paulo, e não teve ganhador na faixa de seis acertos. Com isso, o prêmio acumulou e a estimativa divulgada para o sorteio seguinte foi de R$ 38 milhões.",
+        "As seis dezenas sorteadas foram 24, 25, 28, 37, 47 e 55. O resultado aparece tanto no registro oficial da Caixa quanto na cobertura publicada pelo G1.",
+        "Na faixa de cinco acertos, 39 apostas foram premiadas. Cada uma recebeu R$ 42.199,06, conforme o rateio informado pela Caixa.",
+        "Outras 2.148 apostas acertaram quatro dezenas e receberam R$ 1.262,94 cada. Esses valores correspondem às faixas secundárias do concurso, não ao prêmio principal acumulado.",
+        "Para o concurso seguinte, as apostas podiam ser registradas até as 20h de quinta-feira, 24 de setembro, no horário de Brasília. A aposta simples, com seis dezenas, custava R$ 6."
+      ]
+    },
+    "en": {
+      "title": "Mega-Sena draw 3,061 on September 22 rolled over; September 24 estimate was R$38 million",
+      "summary": "No ticket matched all six numbers in draw 3,061, held on September 22, so the jackpot rolled over; the estimate announced at the time for September 24 was R$38 million.",
+      "aiSummary": [
+        "Mega-Sena draw 3,061, held on September 22, had no winner in the six-number top tier; the numbers drawn were 24, 25, 28, 37, 47 and 55.",
+        "Caixa recorded 39 tickets with five matches and 2,148 with four matches.",
+        "The next draw's estimated prize was R$38 million; bets could be placed until 8 p.m. Brasília time on September 24."
+      ],
+      "paragraphs": [
+        "Mega-Sena draw 3,061 was held in São Paulo on September 22, and no ticket matched all six numbers. The jackpot therefore rolled over, with the next draw's estimated prize announced at R$38 million.",
+        "The six numbers drawn were 24, 25, 28, 37, 47 and 55. The result appears in Caixa's official record and in G1's coverage.",
+        "Thirty-nine tickets won in the five-number tier. Each received R$42,199.06, according to the payout breakdown reported by Caixa.",
+        "Another 2,148 tickets matched four numbers and received R$1,262.94 each. Those amounts were for the lower prize tiers, separate from the accumulated top prize.",
+        "For the next draw, bets could be placed until 8 p.m. on Thursday, September 24, Brasília time. A simple ticket with six numbers cost R$6."
+      ]
+    }
+  }
+}

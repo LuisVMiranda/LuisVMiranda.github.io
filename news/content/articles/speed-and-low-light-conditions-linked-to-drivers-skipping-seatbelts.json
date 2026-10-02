@@ -1,0 +1,117 @@
+{
+  "id": "speed-and-low-light-conditions-linked-to-drivers-skipping-seatbelts",
+  "slug": "speed-and-low-light-conditions-linked-to-drivers-skipping-seatbelts",
+  "section": "ciencia",
+  "secondarySections": [],
+  "publishedAt": "2026-09-18T00:00:00-03:00",
+  "publishedDate": "2026-09-18",
+  "updatedAt": "2026-09-24T17:45:13.603Z",
+  "sources": [
+    {
+      "name": "Penn Medicine",
+      "url": "https://www.pennmedicine.org/news/high-speed-low-light-conditions-tied-to-unbuckled-driving"
+    },
+    {
+      "name": "Traffic Injury Prevention — PubMed record",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42599247/"
+    }
+  ],
+  "rights": {
+    "mode": "original-report"
+  },
+  "translations": {
+    "pt-BR": {
+      "title": "Estudo associa menor uso do cinto a viagens curtas, velocidade e pouca luz",
+      "summary": "Em uma amostra que sub-representou pessoas de 18 a 24 anos e participantes não brancos, sensores em quase 130 mil trajetos apontaram associações; campanhas ainda precisam ser testadas.",
+      "aiSummary": [
+        "A análise reuniu quase 130 mil trajetos de mil participantes; pessoas de 18 a 24 anos e não brancas foram sub-representadas.",
+        "O uso do cinto apareceu associado a horário, velocidade e duração da viagem.",
+        "Os autores propõem testar intervenções em situações de maior risco, sem demonstrar ainda sua eficácia."
+      ],
+      "paragraphs": [
+        "Pesquisadores da Penn Medicine analisaram dados de sensores de veículos, incluindo travas dos cintos, para observar quando motoristas usavam o equipamento. A amostra reuniu mil participantes que consentiram com o estudo e quase 130 mil trajetos; 84% das viagens registradas incluíram o cinto. Os autores também apontaram que pessoas de 18 a 24 anos e participantes não brancos estavam sub-representados, o que limita a extrapolação para além da amostra e reforça a necessidade de estudos com grupos mais representativos. A análise examinou comportamento em trajetos reais, não respostas a um questionário isolado.",
+        "O uso apareceu associado às circunstâncias da viagem. Os motoristas tinham menor probabilidade de afivelar o cinto à noite, em velocidades mais altas e em trajetos curtos; viagens mais longas apresentaram maior uso. Essas relações descrevem padrões no conjunto observado e não indicam que o horário ou a velocidade, isoladamente, causem a decisão de cada pessoa.",
+        "Na decomposição apresentada pelos autores, fatores situacionais explicaram cerca de 30% da variação do comportamento, enquanto características demográficas responderam por menos de 1%. Uma parcela considerável permaneceu sem explicação pelas variáveis medidas. Nesta amostra, o resultado sugere que idade, sexo ou local de residência não resumem bem quando um indivíduo deixa de usar o cinto.",
+        "A equipe propõe que campanhas de segurança sejam avaliadas em momentos em que a adesão tende a cair, em vez de se dirigirem apenas a grupos demográficos amplos. O estudo, porém, foi observacional: não comparou uma campanha aleatória com outra abordagem e não demonstra que uma mensagem em determinado horário mudaria o comportamento.",
+        "Trabalhos anteriores do grupo testaram incentivos para manter sequências de uso do cinto, mas esse resultado é distinto da análise atual. A nova pesquisa identifica associações que podem orientar experimentos futuros, não calcula vidas que seriam salvas por uma campanha específica. A eficácia de intervenções direcionadas e seus efeitos em acidentes ainda precisariam ser medidos."
+      ]
+    },
+    "en": {
+      "title": "Study links lower seatbelt use to short trips, speed and low light",
+      "summary": "In a sample that underrepresented people ages 18–24 and non-white participants, sensors from nearly 130,000 trips showed associations; campaigns still need testing.",
+      "aiSummary": [
+        "The analysis covered nearly 130,000 trips by 1,000 people; drivers ages 18–24 and non-white participants were underrepresented.",
+        "Seatbelt use was associated with time of day, speed and trip length.",
+        "The authors propose testing interventions in higher-risk situations but have not yet shown their effectiveness."
+      ],
+      "paragraphs": [
+        "Penn Medicine researchers analyzed vehicle-sensor data, including seatbelt latches, to observe when drivers used the restraint. The sample included 1,000 participants who consented to the study and nearly 130,000 trips; seatbelts were used on 84% of recorded trips. The authors also noted that drivers ages 18–24 and non-white participants were underrepresented, limiting generalization beyond the sample and underscoring the need for studies with more representative groups. The analysis examined behavior during real journeys rather than relying only on a questionnaire.",
+        "Use was associated with trip circumstances. Drivers were less likely to buckle up at night, at higher speeds and on short trips, while longer journeys showed greater use. These relationships describe patterns in the observed data; they do not mean that time or speed alone caused an individual’s decision.",
+        "In the authors’ decomposition, situational factors explained about 30% of behavioral variation, while demographic characteristics accounted for less than 1%. A considerable share remained unexplained by the measured variables. In this sample, the result suggests that age, sex or residence alone do not summarize well when a particular person skips a seatbelt.",
+        "The team proposes evaluating safety campaigns during moments when compliance tends to fall instead of targeting only broad demographic groups. The study was observational, however: it did not randomly compare one campaign with another approach and does not demonstrate that a message at a particular time would change behavior.",
+        "Earlier work by the group tested incentives to maintain seatbelt-use streaks, but that result is distinct from the current analysis. The new research identifies associations that may guide future experiments; it does not estimate how many lives a particular campaign would save. The effectiveness of targeted interventions and their effects on crashes would still need to be measured."
+      ]
+    }
+  },
+  "verification": {
+    "score": 8.7,
+    "checkedAt": "2026-09-24T16:02:39Z",
+    "checks": [
+      {
+        "provider": "The PAIR Center / Traffic Injury Prevention study record",
+        "url": "https://pair.upenn.edu/publication/quantifying-situational-demographic-and-regional-factors-associated-with-seat-belt-use-in-a-national-sample-of-connected-vehicle-customers/",
+        "finding": "supports",
+        "note": "The accessible research-team record for the primary study reports 1,000 participants, 129,494 trips and mean trip-level belt use of 83.6% (rounded to 84% in the Penn release). It says ages 18–24 and non-white groups were underrepresented and estimates were sample-dependent; the associations are observational, not population-wide causal effects."
+      },
+      {
+        "provider": "Penn Medicine",
+        "url": "https://www.pennmedicine.org/news/high-speed-low-light-conditions-tied-to-unbuckled-driving",
+        "finding": "supports",
+        "note": "The complete saved institutional capture supports the short-trip, nighttime and higher-speed associations and describes targeted campaigns as a proposal for future evaluation, not a tested outcome."
+      },
+      {
+        "provider": "PubMed / Traffic Injury Prevention",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42599247/",
+        "finding": "inconclusive",
+        "note": "Direct retrieval returned an access challenge, so this record is not used as supporting evidence. The accessible PAIR Center research record above supplies the primary-study abstract and limitation details."
+      },
+      {
+        "provider": "Aos Fatos",
+        "url": "https://www.aosfatos.org/",
+        "finding": "no-match",
+        "note": "Targeted Portuguese variants for seatbelt use, speed, nighttime and short trips found no relevant fact-check. Neutral; no-match is not evidence of truth."
+      },
+      {
+        "provider": "Agência Lupa",
+        "url": "https://www.agencialupa.org/",
+        "finding": "no-match",
+        "note": "Targeted Portuguese variants for seatbelt use, speed, nighttime and short trips found no relevant fact-check. Neutral; no-match is not evidence of truth."
+      },
+      {
+        "provider": "Projeto Comprova",
+        "url": "https://projetocomprova.com.br/",
+        "finding": "no-match",
+        "note": "Targeted Portuguese variants for seatbelt use, speed, nighttime and short trips found no relevant fact-check. Neutral; no-match is not evidence of truth."
+      },
+      {
+        "provider": "AFP Fact Check",
+        "url": "https://factcheck.afp.com/",
+        "finding": "no-match",
+        "note": "Targeted English variants for seatbelt use, trip sensors and situational factors found no relevant fact-check. Neutral; no-match is not evidence of truth."
+      },
+      {
+        "provider": "Reuters Fact Check",
+        "url": "https://www.reuters.com/fact-check/",
+        "finding": "no-match",
+        "note": "Targeted English variants for seatbelt use, trip sensors and situational factors found no relevant fact-check. Neutral; no-match is not evidence of truth."
+      },
+      {
+        "provider": "Full Fact",
+        "url": "https://fullfact.org/",
+        "finding": "no-match",
+        "note": "Targeted English variants for seatbelt use, trip sensors and situational factors found no relevant fact-check. Neutral; no-match is not evidence of truth."
+      }
+    ],
+    "caveat": "These are observational associations within the connected-vehicle study sample. Drivers ages 18–24 and non-white participants were underrepresented, so the results should not be generalized to the population; the study did not show that targeted campaigns change behavior. Confidence is an editorial estimate based on checked evidence, not a calibrated probability or guarantee."
+  }
+}

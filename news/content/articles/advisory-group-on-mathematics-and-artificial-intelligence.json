@@ -1,0 +1,142 @@
+{
+  "id": "advisory-group-on-mathematics-and-artificial-intelligence",
+  "slug": "advisory-group-on-mathematics-and-artificial-intelligence",
+  "section": "tecnologia",
+  "secondarySections": [],
+  "publishedAt": "2026-09-21T07:00:00.000Z",
+  "updatedAt": "2026-09-24T17:45:13.603Z",
+  "sources": [
+    {
+      "name": "OpenAI",
+      "url": "https://openai.com/index/advisory-group-on-mathematics-and-ai/"
+    },
+    {
+      "name": "TechCrunch",
+      "url": "https://techcrunch.com/2026/09/21/openai-forms-math-advisory-group-as-its-ai-resolves-more-than-100-open-problems/"
+    },
+    {
+      "name": "Terence Tao's blog (Advisory Group guest post)",
+      "url": "https://terrytao.wordpress.com/2026/09/21/advisory-group-on-mathematics-and-artificial-intelligence/"
+    },
+    {
+      "name": "Terence Tao's blog (Martin Hairer guest post)",
+      "url": "https://terrytao.wordpress.com/2026/09/22/why-i-agreed-to-join-agmai/comment-page-1/"
+    }
+  ],
+  "rights": {
+    "mode": "original-report"
+  },
+  "translations": {
+    "pt-BR": {
+      "title": "OpenAI cria grupo consultivo sobre matemática e inteligência artificial",
+      "summary": "A empresa anunciou um grupo hospedado no Institute for Advanced Study para aconselhar sobre a avaliação e comunicação de resultados matemáticos de IA. A OpenAI também atribuiu a um modelo interno a solução de mais de cem problemas, afirmação que não foi verificada de forma independente nas fontes consultadas.",
+      "aiSummary": [
+        "A OpenAI anunciou um grupo de matemáticos para aconselhar sobre resultados de IA, padrões de pesquisa e usos de ferramentas matemáticas.",
+        "A empresa afirmou que um modelo interno resolveu mais de cem problemas em aberto; a alegação é da OpenAI, não uma validação independente.",
+        "O post do grupo de 21 de setembro listou nove integrantes; Martin Hairer escreveu no dia 22 que a OpenAI não havia contatado inicialmente todos eles."
+      ],
+      "paragraphs": [
+        "A OpenAI anunciou em 21 de setembro um grupo consultivo sobre matemática e inteligência artificial, hospedado no Institute for Advanced Study, em Princeton. A iniciativa foi apresentada como uma forma de aproximar a empresa de pesquisadores e do debate público sobre o uso de modelos em matemática.",
+        "Segundo a empresa, o grupo poderá ajudar a avaliar a relevância de resultados, orientar sua comunicação e discutir padrões acadêmicos e profissionais. Também poderá aconselhar sobre como ferramentas de IA podem apoiar pesquisa e aprendizagem matemática.",
+        "A OpenAI afirmou que um modelo interno, cujo treinamento começou em 28 de agosto, resolveu o problema de Navier–Stokes e mais de cem problemas abertos de longa data. A empresa não publicou, na mesma divulgação, uma verificação independente de cada resultado; por isso, a quantidade e a caracterização permanecem alegações da companhia.",
+        "Uma publicação do grupo, datada de 21 de setembro, listou nove integrantes e afirmou que, depois de a OpenAI procurar alguns deles, o grupo e a empresa concordaram em convidar outras pessoas. Em 22 de setembro, Martin Hairer escreveu que a OpenAI não havia contatado inicialmente todos os nove. Esses relatos descrevem etapas distintas, mas não estabelecem a relação exata entre a lista do grupo e o conteúdo do anúncio da OpenAI.",
+        "A OpenAI disse que o grupo atuará de forma independente, poderá fazer recomendações não solicitadas e divulgar seus pareceres. A empresa também esclareceu que o grupo não decidirá o ritmo de seu progresso interno em matemática; a criação do conselho, portanto, não equivale a uma auditoria externa dos resultados do modelo nem a uma mudança de política já adotada."
+      ]
+    },
+    "en": {
+      "title": "OpenAI forms an advisory group on mathematics and AI",
+      "summary": "The company announced a group hosted at the Institute for Advanced Study to advise on assessing and communicating AI-related mathematical results. OpenAI also credited an internal model with solving more than 100 problems, a claim not independently verified in the sources reviewed.",
+      "aiSummary": [
+        "OpenAI announced a group of mathematicians to advise on AI results, research standards and mathematical uses of its tools.",
+        "The company said an internal model solved more than 100 open problems; that is an OpenAI claim, not independent validation.",
+        "The group’s September 21 post listed nine members and said it agreed with OpenAI to invite others after the company approached some; Martin Hairer wrote on September 22 that OpenAI had not initially contacted all nine."
+      ],
+      "paragraphs": [
+        "OpenAI announced an advisory group on mathematics and artificial intelligence on September 21, hosted at the Institute for Advanced Study in Princeton. The company presented it as a way to engage researchers and the wider public on the use of models in mathematics.",
+        "OpenAI said the group could help assess the significance of results, advise on how they are communicated, and discuss academic and professional research standards. It could also advise on ways AI tools might support mathematical research and learning.",
+        "The company said an internal model, whose training began on August 28, solved the Navier–Stokes problem and more than 100 long-standing open problems. OpenAI’s announcement did not provide independent validation of each result, so the number and characterization remain company claims.",
+        "A post by the group, dated September 21, listed nine members and said that, after OpenAI approached some of them, the group and company agreed to invite others. On September 22, Martin Hairer wrote that OpenAI had not initially contacted all nine. These accounts describe different parts of the process but do not establish how the group’s list relates to OpenAI’s announcement.",
+        "OpenAI said the group would operate independently, could offer unsolicited advice and could make its views public. The company also said the group would not determine the pace of its internal mathematical work; forming the panel therefore does not amount to an external audit of the model’s results or an adopted change in policy."
+      ]
+    }
+  },
+  "verification": {
+    "score": 8.4,
+    "checkedAt": "2026-09-24T17:15:11Z",
+    "checks": [
+      {
+        "provider": "OpenAI",
+        "url": "https://openai.com/index/advisory-group-on-mathematics-and-ai/",
+        "finding": "supports",
+        "note": "OpenAI supports the attributed training date, Navier–Stokes, >100-problems and advisory-remit claims, but does not independently validate the mathematics. Its live page viewed September 24 lists nine names; that current state is not used to reconstruct the September 23 cutoff. The only complete saved OpenAI capture showing seven names was retrieved at 14:00:02.717Z after cutoff and is excluded from cutoff-eligible copy."
+      },
+      {
+        "provider": "TechCrunch",
+        "url": "https://techcrunch.com/2026/09/21/openai-forms-math-advisory-group-as-its-ai-resolves-more-than-100-open-problems/",
+        "finding": "supports",
+        "note": "The September 21 report independently corroborates the group's formation and reports nine initial members. It treats the mathematical achievements as OpenAI claims, not independently verified results. The audited copy attributes its nine-name list only to the group's post and makes no claim about OpenAI's initial roster."
+      },
+      {
+        "provider": "Advisory Group on Mathematics and Artificial Intelligence (guest post via Terence Tao), September 21",
+        "url": "https://terrytao.wordpress.com/2026/09/21/advisory-group-on-mathematics-and-artificial-intelligence/",
+        "finding": "supports",
+        "note": "The group's dated post lists nine members and says that, after OpenAI approached some members, the group and company agreed to invite others. The article accurately attributes this account to the group and does not infer an OpenAI roster or exact change chronology from it."
+      },
+      {
+        "provider": "Martin Hairer (guest post via Terence Tao), September 22",
+        "url": "https://terrytao.wordpress.com/2026/09/22/why-i-agreed-to-join-agmai/",
+        "finding": "supports",
+        "note": "Hairer says OpenAI had not initially contacted all nine group members. The article confines this statement to Hairer and does not present it as proof of OpenAI's initial roster or of when any roster change occurred."
+      },
+      {
+        "provider": "Aos Fatos",
+        "url": "https://www.aosfatos.org/",
+        "finding": "no-match",
+        "note": "Site-restricted searches for OpenAI's mathematics advisory group, Navier–Stokes, and more than 100 open problems surfaced no directly applicable fact-check; unrelated OpenAI/AI checks were not treated as evidence. No-match is neutral."
+      },
+      {
+        "provider": "Agência Lupa",
+        "url": "https://www.agencialupa.org/",
+        "finding": "no-match",
+        "note": "Site-restricted searches for the advisory group, its membership accounts, and OpenAI's mathematical claims found no directly applicable fact-check. Unrelated AI/deepfake coverage is not evidence about this article. No-match is neutral."
+      },
+      {
+        "provider": "Projeto Comprova",
+        "url": "https://projetocomprova.com.br/",
+        "finding": "no-match",
+        "note": "Site-restricted searches for the advisory group, membership accounts, and mathematical claims surfaced no directly applicable Comprova fact-check. No-match is neutral."
+      },
+      {
+        "provider": "TSE Fato ou Boato",
+        "url": "https://www.tse.jus.br/comunicacao/noticias/fato-ou-boato",
+        "finding": "no-match",
+        "note": "Searches found no fact-check relevant to the group or mathematical claims; returned TSE material concerned unrelated election or education topics. No-match is neutral."
+      },
+      {
+        "provider": "AFP Fact Check",
+        "url": "https://factcheck.afp.com/",
+        "finding": "no-match",
+        "note": "Site-restricted searches found no directly applicable AFP fact-check about the advisory group, roster accounts, or attributed mathematical results. No-match is neutral."
+      },
+      {
+        "provider": "Reuters Fact Check",
+        "url": "https://www.reuters.com/fact-check/",
+        "finding": "no-match",
+        "note": "Site-restricted searches for the advisory group and the attributed Navier–Stokes/more-than-100 claims found no directly applicable Reuters fact-check. No-match is neutral."
+      },
+      {
+        "provider": "Full Fact",
+        "url": "https://fullfact.org/",
+        "finding": "no-match",
+        "note": "Site-restricted searches found no directly applicable Full Fact check; unrelated AI-generated-content coverage was not treated as evidence. No-match is neutral."
+      },
+      {
+        "provider": "Google Fact Check Explorer",
+        "url": "https://toolbox.google.com/factcheck/explorer",
+        "finding": "inconclusive",
+        "note": "The public Explorer opened, but the attempted topic search returned general recent checks rather than query-filtered results; no relevant ClaimReview record could be confirmed. This is inconclusive, not a no-match or support."
+      }
+    ],
+    "caveat": "Score is editorial evidence confidence, not probability. The nine-name list is attributed only to the group's September 21 post, Hairer's September 22 statement remains attributed to Hairer, and the copy asserts neither OpenAI's initial roster nor roster-change timing. The post-cutoff seven-name capture is excluded. OpenAI's Navier–Stokes and more-than-100-problems claims remain attributed and are not independently verified; the Google Explorer lookup was inconclusive. No unresolved contradiction or score blocker applies to the audited wording."
+  }
+}

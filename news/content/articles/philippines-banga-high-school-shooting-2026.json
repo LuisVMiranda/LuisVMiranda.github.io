@@ -1,0 +1,56 @@
+{
+  "id": "philippines-banga-high-school-shooting-2026",
+  "slug": "philippines-banga-high-school-shooting-2026",
+  "section": "mundo",
+  "secondarySections": [],
+  "publishedAt": "2026-09-18",
+  "publishedDate": "2026-09-18",
+  "updatedAt": "2026-09-25T15:26:51Z",
+  "sources": [
+    {
+      "name": "ABC News Australia",
+      "url": "https://www.abc.net.au/news/2026-09-18/deadly-philippines-school-shooting/107170736"
+    },
+    {
+      "name": "GMA News Online",
+      "url": "https://www.gmanetwork.com/news/topstories/regions/1002852/students-reported-dead-in-banga-national-high-school-shooting/story/"
+    }
+  ],
+  "rights": {
+    "mode": "original-report"
+  },
+  "translations": {
+    "pt-BR": {
+      "title": "Tiroteio em escola nas Filipinas deixa três mortos; relatos divergem",
+      "summary": "ABC relatou oito feridos; a GMA também registrou diferentes contagens e uma revisão oficial. As fontes divergem sobre a idade do atirador.",
+      "aiSummary": [
+        "A ABC informou três mortos, incluindo o atirador, e oito feridos; a GMA também relatou três mortes.",
+        "A GMA citou a polícia sobre nove estudantes baleados, mas registrou seis feridos e revisão oficial para oito; a ABC informou oito feridos.",
+        "A ABC atribuiu ao prefeito idade de 16 anos; a GMA, citando a polícia, disse que os três mortos tinham 14."
+      ],
+      "paragraphs": [
+        "Um tiroteio ocorreu na sexta-feira, 18 de setembro, na Banga National High School, no município de Banga, em South Cotabato. A ABC News Australia informou que três pessoas morreram, incluindo o atirador, e oito ficaram feridas. A GMA News Online também relatou três mortes, incluindo o atirador.",
+        "As reportagens divergem sobre a idade do atirador. A ABC atribuiu ao prefeito Albert Palencia a informação de que ele tinha 16 anos; a GMA, citando a polícia, disse que as três pessoas mortas tinham 14. Os relatos preservados não resolvem a divergência.",
+        "Os números de feridos também variam. A ABC informou oito feridos. A GMA citou um relatório policial segundo o qual o atirador baleou outros nove estudantes e relatou seis feridos; no mesmo texto, disse que o Departamento de Assistência Social e Desenvolvimento das Filipinas revisou a contagem para três mortes e oito feridos, em linha com um total divulgado pelo prefeito. Os relatos não explicam a diferença entre as contagens.",
+        "A ABC citou Palencia dizendo que o adolescente avisou amigos, depois do almoço, que faria algo que poderia envolvê-los. A GMA atribuiu ao prefeito um aviso semelhante. Esses relatos não estabelecem o motivo do ataque.",
+        "A ABC informou que as aulas foram suspensas em toda a municipalidade de Banga. A GMA relatou que o governador de South Cotabato, Reynaldo Tamayo, pediu calma aos moradores e disse que a investigação estava em andamento."
+      ]
+    },
+    "en": {
+      "title": "Three dead in Philippine school shooting; reports differ",
+      "summary": "ABC reported eight injured, while GMA documented differing counts and an official revision. The accounts conflict on the shooter’s age.",
+      "aiSummary": [
+        "ABC reported three dead, including the shooter, and eight injured; GMA also reported three deaths.",
+        "GMA cited police on nine students shot, but reported six wounded and an official revision to eight; ABC reported eight injured.",
+        "ABC attributed age 16 to the mayor; GMA, citing police, said all three people who died were 14."
+      ],
+      "paragraphs": [
+        "A shooting occurred Friday, September 18, at Banga National High School in Banga, South Cotabato. ABC News Australia reported three people dead, including the shooter, and eight injured. GMA News Online also reported three deaths, including the shooter.",
+        "The reports differ on the shooter’s age. ABC attributed an age of 16 to Banga Mayor Albert Palencia; GMA, citing police, said all three people who died were 14. The preserved accounts do not resolve the discrepancy.",
+        "The injury figures also differ. ABC reported eight injured. GMA cited a police report saying the shooter shot nine other students and reported six wounded; the same article said the Department of Social Welfare and Development later revised its count to three deaths and eight injuries, matching a figure disclosed by the mayor. The reports do not explain the difference between those counts.",
+        "ABC quoted Palencia as saying the teenager told friends after lunch that he planned to do something that might involve them. GMA attributed a similar warning to the mayor. Those accounts do not establish a motive for the shooting.",
+        "ABC reported that classes were suspended across Banga municipality. GMA said South Cotabato Gov. Reynaldo Tamayo urged residents to remain calm and said the investigation was ongoing."
+      ]
+    }
+  }
+}

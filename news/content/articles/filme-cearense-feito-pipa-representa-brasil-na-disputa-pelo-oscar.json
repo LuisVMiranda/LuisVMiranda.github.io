@@ -1,0 +1,86 @@
+{
+  "id": "filme-cearense-feito-pipa-representa-brasil-na-disputa-pelo-oscar",
+  "slug": "filme-cearense-feito-pipa-representa-brasil-na-disputa-pelo-oscar",
+  "section": "cultura",
+  "secondarySections": [],
+  "publishedAt": "2026-09-20T13:30:00-03:00",
+  "updatedAt": "2026-09-24T17:45:13.603Z",
+  "sources": [
+    {
+      "name": "Agência Brasil",
+      "url": "https://agenciabrasil.ebc.com.br/cultura/noticia/2026-09/filme-cearense-feito-pipa-representa-brasil-na-disputa-pelo-oscar"
+    },
+    {
+      "name": "Ministério da Cultura",
+      "url": "https://www.gov.br/cultura/pt-br/assuntos/noticias-defeso-eleitoral/feito-pipa-e-escolhido-representante-do-brasil-no-oscar-2027"
+    }
+  ],
+  "rights": {
+    "mode": "original-report"
+  },
+  "translations": {
+    "pt-BR": {
+      "title": "“Feito Pipa” é escolhido como representante do Brasil no Oscar 2027",
+      "summary": "A escolha nacional coloca o longa de Allan Deberton na disputa por uma vaga na categoria internacional, mas ainda não representa uma indicação da Academia.",
+      "aiSummary": [
+        "A Academia Brasileira de Cinema escolheu Feito Pipa como representante nacional para a corrida do Oscar 2027.",
+        "O filme acompanha Gugu, menino que teme ser separado da avó quando a saúde dela piora.",
+        "A lista de indicados será divulgada em 21 de janeiro de 2027; o filme estreia no Brasil em 5 de novembro."
+      ],
+      "paragraphs": [
+        "A Academia Brasileira de Cinema escolheu Feito Pipa, de Allan Deberton, para representar o Brasil na disputa por uma vaga no Oscar de 2027 na categoria de Melhor Filme Internacional. A escolha nacional é uma etapa de seleção e não significa que o longa já tenha sido indicado pela Academia norte-americana.",
+        "A trama acompanha Gugu, um menino de 11 anos que vive com a avó no interior do Ceará. Quando ela começa a apresentar sinais de esquecimento, ele teme ser separado dela e tenta esconder a situação do pai.",
+        "Yuri Gomes interpreta Gugu, Teca Pereira faz a avó Dilma e Lázaro Ramos interpreta o pai. O filme foi rodado em Quixadá e, segundo o Ministério da Cultura, parte de memórias de infância dos roteiristas Allan Deberton e André Araújo no interior cearense.",
+        "Antes da escolha brasileira, Feito Pipa recebeu o Urso de Cristal do júri jovem e o Grande Prêmio do júri da mostra Generation Kplus no Festival de Berlim. No Festival de Gramado, ganhou quatro Kikitos, incluindo melhor filme pelo júri popular, direção, atriz e ator coadjuvante.",
+        "A estreia nos cinemas brasileiros está prevista para 5 de novembro. A Academia divulgará os indicados ao Oscar em 21 de janeiro de 2027, e a cerimônia será realizada em 14 de março; até a definição da lista, o longa permanece como o representante brasileiro, não como indicado."
+      ]
+    },
+    "en": {
+      "title": "Feito Pipa selected as Brazil’s Oscar 2027 entry",
+      "summary": "The national selection puts Allan Deberton’s film in the race for a place in the international feature category, but it is not yet an Academy nomination.",
+      "aiSummary": [
+        "The Brazilian Academy of Cinema selected Feito Pipa as the country’s entry for the 2027 Oscar race.",
+        "The film follows Gugu, a boy who fears being separated from his grandmother as her health declines.",
+        "Oscar nominees will be announced on January 21, 2027; the film opens in Brazil on November 5."
+      ],
+      "paragraphs": [
+        "The Brazilian Academy of Cinema selected Feito Pipa, directed by Allan Deberton, to represent Brazil in the race for a place in the 2027 Oscar international feature category. The national choice is one step in the process and does not mean the film has been nominated by the Academy of Motion Picture Arts and Sciences.",
+        "The story follows Gugu, an 11-year-old boy living with his grandmother in the interior of Ceará. When she begins to show signs of memory loss, he fears being separated from her and tries to hide the situation from his father.",
+        "Yuri Gomes plays Gugu, Teca Pereira portrays his grandmother Dilma, and Lázaro Ramos plays his father. The film was shot in Quixadá and, according to Brazil’s Ministry of Culture, draws on childhood memories of screenwriters Allan Deberton and André Araújo in the state’s interior.",
+        "Before the Brazilian selection, Feito Pipa received the Crystal Bear from the youth jury and the Generation Kplus international jury’s Grand Prix at the Berlin Film Festival. At the Gramado Film Festival it won four Kikitos, including best film by the popular jury, director, actress and supporting actor.",
+        "The film is scheduled to open in Brazilian cinemas on November 5. The Academy will announce Oscar nominees on January 21, 2027, ahead of the ceremony on March 14; until that list is set, the film remains Brazil’s entry rather than a nominee."
+      ]
+    }
+  },
+  "verification": {
+    "score": 9.7,
+    "checkedAt": "2026-09-24T14:17:43Z",
+    "checks": [
+      {
+        "provider": "Agência Brasil",
+        "url": "https://agenciabrasil.ebc.com.br/cultura/noticia/2026-09/filme-cearense-feito-pipa-representa-brasil-na-disputa-pelo-oscar",
+        "finding": "supports",
+        "note": "Original report supports the Brazilian selection and film details; text consistently distinguishes an entry from an Academy nomination."
+      },
+      {
+        "provider": "Ministério da Cultura",
+        "url": "https://www.gov.br/cultura/pt-br/assuntos/noticias-defeso-eleitoral/feito-pipa-e-escolhido-representante-do-brasil-no-oscar-2027",
+        "finding": "supports",
+        "note": "Official notice confirms the national entry, planned November 5 release, January 21 nominee announcement and March 14 ceremony; it explicitly says selection is not nomination."
+      },
+      {
+        "provider": "Agência Lupa",
+        "url": "https://www.agencialupa.org/",
+        "finding": "no-match",
+        "note": "Targeted Portuguese search for the selection and Oscar-stage claim found no relevant fact-check; neutral, not evidence of truth."
+      },
+      {
+        "provider": "AFP Fact Check",
+        "url": "https://factcheck.afp.com/",
+        "finding": "no-match",
+        "note": "Targeted English search for Feito Pipa and the Oscar entry found no relevant fact-check; neutral, not evidence of truth."
+      }
+    ],
+    "caveat": "Release and Academy dates are future plans as of the frozen cutoff, not completed events; no nomination or win is claimed. Fact-check no-matches are neutral."
+  }
+}

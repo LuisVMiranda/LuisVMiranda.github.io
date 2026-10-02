@@ -1,0 +1,110 @@
+{
+  "id": "lider-da-serie-b-vila-nova-acerta-defesa-e-faz-contas-pelo-acesso",
+  "slug": "lider-da-serie-b-vila-nova-acerta-defesa-e-faz-contas-pelo-acesso",
+  "section": "esportes",
+  "secondarySections": [],
+  "publishedAt": "2026-09-22T12:31:43-03:00",
+  "updatedAt": "2026-09-24T17:45:13.603Z",
+  "sources": [
+    {
+      "name": "Futebol Interior",
+      "url": "https://www.futebolinterior.com.br/vila-nova-faz-contas-pelo-acesso/"
+    },
+    {
+      "name": "GE",
+      "url": "https://ge.globo.com/google/amp/go/futebol/times/vila-nova/noticia/2026/09/22/guto-ferreira-explica-evolucao-do-vila-nova-agora-lider-da-serie-b-melhoria-da-nossa-defesa.ghtml"
+    }
+  ],
+  "rights": {
+    "mode": "original-report"
+  },
+  "translations": {
+    "pt-BR": {
+      "title": "Guto atribui liderança do Vila Nova à evolução defensiva",
+      "summary": "Com 51 pontos e nove rodadas restantes, o time liderava a Série B após uma sequência de jogos com a defesa sem sofrer gols.",
+      "aiSummary": [
+        "Vila Nova tinha 51 pontos e liderava a Série B, com nove rodadas ainda por disputar.",
+        "Guto Ferreira apontou a melhora defensiva e o ajuste de pressão como fatores importantes.",
+        "O próximo jogo estava marcado contra o Londrina, em 25 de setembro, no Onésio Brasileiro Alvarenga."
+      ],
+      "paragraphs": [
+        "O Vila Nova chegou a 51 pontos e assumiu a liderança da Série B, com nove rodadas restantes, segundo reportagens publicadas em 22 de setembro. O técnico Guto Ferreira atribuiu parte da campanha à melhora do sistema defensivo.",
+        "Entre os resultados sem sofrer gols citados pelas duas reportagens estão as vitórias por 1 a 0 sobre o América-MG, 2 a 0 sobre o Goiás, 2 a 0 sobre o Ceará, 6 a 0 contra a Ponte Preta e 2 a 0 diante do Atlético-GO, além do empate por 0 a 0 com o Operário-PR. O time também teve tropeços, como derrota por 5 a 0 para o Athletic e empate por 1 a 1 com o Avaí.",
+        "Guto disse que a defesa passou a encaixar mais jogos sem ser vazada; ele comparou essa sequência ao primeiro turno, quando, segundo seu relato, o time tinha poucas partidas sem sofrer gols.",
+        "O treinador também atribuiu a melhora à escolha do momento de pressionar e de baixar as linhas. Para a reta final, disse que a prioridade era vencer, não exibir um estilo específico.",
+        "A liderança não significava acesso garantido: ainda restavam nove partidas na competição. O próximo compromisso informado pelas reportagens era contra o Londrina, na sexta-feira, 25 de setembro, às 20h30, no estádio Onésio Brasileiro Alvarenga, em Goiânia."
+      ]
+    },
+    "en": {
+      "title": "Guto credits Vila Nova's defensive improvement for its Série B lead",
+      "summary": "The team had 51 points with nine rounds left and was top of Série B after a run of matches without conceding.",
+      "aiSummary": [
+        "Vila Nova had 51 points and led Série B with nine rounds remaining.",
+        "Guto Ferreira cited defensive improvement and better pressing decisions as key factors.",
+        "The next match was scheduled against Londrina on September 25 at Onésio Brasileiro Alvarenga."
+      ],
+      "paragraphs": [
+        "Vila Nova reached 51 points and moved into first place in Série B with nine rounds remaining, according to reports published on September 22. Coach Guto Ferreira credited part of the campaign to the team's defensive improvement.",
+        "The reports listed clean-sheet results including wins of 1-0 over América-MG, 2-0 over Goiás, 2-0 over Ceará, 6-0 over Ponte Preta and 2-0 over Atlético-GO, as well as a 0-0 draw with Operário-PR. The team also had setbacks, including a 5-0 loss to Athletic and a 1-1 draw with Avaí.",
+        "Guto said the defense had begun to string together more clean sheets; he compared that run with the first half of the season, when, according to his account, the team had few shutouts.",
+        "The coach also credited the improvement to choosing when to press and when to drop deeper. He said the priority in the final stretch was to win, rather than to display a particular style.",
+        "The lead did not guarantee promotion, with nine matches still to play. The reports listed Vila Nova's next fixture as a home game against Londrina on Friday, September 25, at 8:30 p.m. at Onésio Brasileiro Alvarenga Stadium in Goiânia."
+      ]
+    }
+  },
+  "verification": {
+    "score": 8.9,
+    "checkedAt": "2026-09-24T15:59:13Z",
+    "checks": [
+      {
+        "provider": "Aos Fatos",
+        "url": "https://www.aosfatos.org/",
+        "finding": "no-match",
+        "note": "Exact-name/points/table searches found no relevant fact-check of Vila Nova's September 2026 position. Neutral."
+      },
+      {
+        "provider": "Agência Lupa",
+        "url": "https://www.agencialupa.org/",
+        "finding": "no-match",
+        "note": "No claim-specific fact-check found; unrelated political checks excluded. Neutral."
+      },
+      {
+        "provider": "Projeto Comprova",
+        "url": "https://projetocomprova.com.br/",
+        "finding": "no-match",
+        "note": "No relevant fact-check found for the table position or defensive run. Neutral."
+      },
+      {
+        "provider": "AFP Fact Check",
+        "url": "https://factcheck.afp.com/",
+        "finding": "no-match",
+        "note": "No relevant international fact-check found for the Série B standings claim. Neutral."
+      },
+      {
+        "provider": "Reuters Fact Check",
+        "url": "https://www.reuters.com/fact-check/",
+        "finding": "no-match",
+        "note": "No relevant fact-check found for this football result/table item. Neutral."
+      },
+      {
+        "provider": "Full Fact",
+        "url": "https://fullfact.org/",
+        "finding": "no-match",
+        "note": "No relevant fact-check found for the named club or points claim. Neutral."
+      },
+      {
+        "provider": "Google Fact Check Tools",
+        "url": "https://toolbox.google.com/factcheck/explorer",
+        "finding": "no-match",
+        "note": "A direct entity/claim query returned no relevant ClaimReview; unrelated indexed claims are not a verdict. Neutral."
+      },
+      {
+        "provider": "GE",
+        "url": "https://ge.globo.com/google/amp/go/futebol/times/vila-nova/noticia/2026/09/22/guto-ferreira-explica-evolucao-do-vila-nova-agora-lider-da-serie-b-melhoria-da-nossa-defesa.ghtml",
+        "finding": "supports",
+        "note": "GE's separate September 22 report confirms 51 points, first place after round 29, nine rounds remaining, cited results, and Guto's defensive assessment."
+      }
+    ],
+    "caveat": "The independent GE report corroborates the table position and defensive context. Futebol Interior's unsupported claim that five wins guaranteed promotion was excluded; the copy expressly says the lead did not guarantee access. September 25 fixture remains a low-risk schedule item reported by both outlets."
+  }
+}

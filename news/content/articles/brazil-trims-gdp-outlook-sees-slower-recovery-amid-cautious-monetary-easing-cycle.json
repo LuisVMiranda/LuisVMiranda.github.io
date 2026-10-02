@@ -1,0 +1,116 @@
+{
+  "id": "brazil-trims-gdp-outlook-sees-slower-recovery-amid-cautious-monetary-easing-cycle",
+  "slug": "brazil-trims-gdp-outlook-sees-slower-recovery-amid-cautious-monetary-easing-cycle",
+  "section": "economia",
+  "secondarySections": [],
+  "publishedAt": "2026-09-22T12:34:00-05:00",
+  "updatedAt": "2026-09-24T17:45:13.603Z",
+  "sources": [
+    {
+      "name": "Reuters via WTAQ",
+      "url": "https://wtaq.com/2026/09/22/brazil-government-cuts-2026-growth-forecast-to-2-0/"
+    },
+    {
+      "name": "Ministry of Finance of Brazil",
+      "url": "https://www.gov.br/fazenda/pt-br/assuntos/noticias/2026/setembro/secretaria-de-politica-economica-projeta-crescimento-de-2-para-o-pib-em-2026-e-2-3-em-2027"
+    }
+  ],
+  "rights": {
+    "mode": "original-report"
+  },
+  "translations": {
+    "pt-BR": {
+      "title": "Fazenda reduz projeção de crescimento do PIB para 2% em 2026",
+      "summary": "A estimativa oficial caiu de 2,3% para 2,0%; para 2027, a projeção passou de 2,5% para 2,3%.",
+      "aiSummary": [
+        "A Fazenda revisou o crescimento do PIB de 2026 de 2,3% para 2,0%.",
+        "A projeção para 2027 passou de 2,5% para 2,3%, enquanto a de inflação para 2026 caiu de 5,1% para 4,9%.",
+        "As estimativas são projeções oficiais, não resultados já observados."
+      ],
+      "paragraphs": [
+        "A Secretaria de Política Econômica do Ministério da Fazenda reduziu, em 22 de setembro, sua projeção para o crescimento do Produto Interno Bruto brasileiro em 2026: de 2,3%, estimados em julho, para 2,0%. O número é uma previsão oficial, não uma medição do resultado final do ano.",
+        "A estimativa para 2027 também foi revista para baixo, de 2,5% para 2,3%. Para o período de 2028 a 2030, a pasta projeta crescimento médio anual de 2,6%, mantendo esse horizonte separado das previsões para os dois próximos anos.",
+        "A secretaria afirmou que a perspectiva mais favorável para a agricultura não compensaria a expectativa de produção mais fraca nos serviços e na indústria. Para 2027, a equipe econômica relacionou a revisão a um ritmo mais gradual de flexibilização monetária em seu cenário-base, que deslocaria parte da recuperação para anos posteriores.",
+        "No cenário de preços, a projeção oficial de inflação para 2026 caiu de 5,1% para 4,9%; a de 2027 subiu de 3,6% para 3,8%. A Fazenda citou o efeito esperado de um El Niño mais forte sobre a próxima safra. Separadamente, a Reuters informou que o Banco Central havia reduzido a Selic em 125 pontos-base acumulados desde março, para 13,75% ao ano, enquanto a inflação corrente estava em torno de 4,2%.",
+        "As estimativas atualizadas serviriam de base para os cálculos anuais de receitas e despesas do governo em um relatório previsto para aquela semana. A pesquisa semanal do Banco Central com mais de 100 economistas apontava crescimento abaixo de 1,9% em 2026 e pouco acima de 1,4% em 2027, números de mercado distintos da projeção oficial."
+      ]
+    },
+    "en": {
+      "title": "Brazil's Finance Ministry cuts 2026 GDP growth forecast to 2%",
+      "summary": "The official estimate fell from 2.3% to 2.0%; the projection for 2027 moved from 2.5% to 2.3%.",
+      "aiSummary": [
+        "The Finance Ministry cut its 2026 GDP growth estimate from 2.3% to 2.0%.",
+        "The 2027 projection fell from 2.5% to 2.3%, while the 2026 inflation forecast declined from 5.1% to 4.9%.",
+        "These are official projections, not already-observed outcomes."
+      ],
+      "paragraphs": [
+        "Brazil's Finance Ministry Economic Policy Secretariat lowered its 2026 gross domestic product growth forecast on September 22, from the 2.3% projected in July to 2.0%. The figure is an official forecast, not a measurement of the year's final result.",
+        "The estimate for 2027 was also revised down, from 2.5% to 2.3%. For 2028 through 2030, the ministry projects average annual growth of 2.6%, a separate horizon from its forecasts for the next two years.",
+        "The secretariat said a stronger outlook for agriculture would not offset expected weaker output in services and industry. For 2027, the economic team linked its revision to a more gradual monetary-easing path in its baseline scenario, which it said would shift part of the recovery into later years.",
+        "On prices, the official inflation forecast for 2026 fell from 5.1% to 4.9%, while the 2027 projection rose from 3.6% to 3.8%. The Finance Ministry cited the expected effect of a stronger El Niño on the next harvest. Separately, Reuters reported that the Central Bank had cut the Selic rate by a cumulative 125 basis points since March, to 13.75% a year, while current inflation was running at about 4.2%.",
+        "The updated estimates were to serve as the basis for the government's annual revenue and spending calculations in a report expected later that week. The Central Bank's weekly survey of more than 100 economists pointed to growth below 1.9% in 2026 and slightly above 1.4% in 2027, market estimates that differ from the official forecast."
+      ]
+    }
+  },
+  "verification": {
+    "score": 9.1,
+    "checkedAt": "2026-09-24T14:21:39Z",
+    "checks": [
+      {
+        "provider": "Aos Fatos",
+        "url": "https://www.aosfatos.org/",
+        "finding": "context",
+        "note": "Aos Fatos' general explainer on GDP forecasting discusses uncertainty and forecast error; it is not a check of the Finance Ministry's September 2026 revisions."
+      },
+      {
+        "provider": "Agência Lupa",
+        "url": "https://www.agencialupa.org/",
+        "finding": "no-match",
+        "note": "Direct Portuguese search found no fact-check of the ministry's September 2026 forecast revisions; unrelated GDP-ranking/statement checks were excluded."
+      },
+      {
+        "provider": "Projeto Comprova",
+        "url": "https://projetocomprova.com.br/",
+        "finding": "no-match",
+        "note": "Direct Portuguese search found no claim-level check of these official projections; no-match is neutral."
+      },
+      {
+        "provider": "Reuters Fact Check",
+        "url": "https://www.reuters.com/fact-check/",
+        "finding": "no-match",
+        "note": "Direct search found no fact-check of these September 2026 projections; older Brazil GDP checks address different periods/claims."
+      },
+      {
+        "provider": "AFP Fact Check",
+        "url": "https://factcheck.afp.com/",
+        "finding": "no-match",
+        "note": "Direct English/Portuguese searches found no matching check of the stated official forecasts; unrelated GDP/debt pages excluded."
+      },
+      {
+        "provider": "Full Fact",
+        "url": "https://fullfact.org/",
+        "finding": "no-match",
+        "note": "Direct English search found no matching check of Brazil's 2026–27 official forecast revisions; global-growth explainers do not verify these figures."
+      },
+      {
+        "provider": "Google Fact Check Tools",
+        "url": "https://toolbox.google.com/factcheck/explorer",
+        "finding": "no-match",
+        "note": "Portuguese Explorer query for the 2.0%/2.3% forecast revisions returned no matching claim record; neutral."
+      },
+      {
+        "provider": "WTAQ / Reuters",
+        "url": "https://wtaq.com/2026/09/22/brazil-government-cuts-2026-growth-forecast-to-2-0/",
+        "finding": "supports",
+        "note": "Complete saved Reuters report gives GDP forecasts of 2.0% for 2026 (from 2.3%), 2.3% for 2027 (from 2.5%), 2.6% average for 2028–30, and inflation forecast revisions of 4.9%/3.8%."
+      },
+      {
+        "provider": "Brazil Ministry of Finance",
+        "url": "https://www.gov.br/fazenda/pt-br/assuntos/noticias/2026/setembro/secretaria-de-politica-economica-projeta-crescimento-de-2-para-o-pib-em-2026-e-2-3-em-2027",
+        "finding": "supports",
+        "note": "Official ministry release confirms the GDP projection revisions; the article correctly labels all macro figures as forecasts and keeps market-survey expectations attributed to Reuters."
+      }
+    ],
+    "caveat": "Official projections are not outcomes. The 2027 inflation forecast rose from 3.6% to 3.8% even though the AI summaries focus on the 2026 reduction; both article bodies state the correct two-year direction."
+  }
+}

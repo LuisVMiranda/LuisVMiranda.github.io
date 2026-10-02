@@ -1,0 +1,107 @@
+{
+  "id": "vorcaro-tenta-adiar-oitivas-enquanto-caso-master-acirra-crise-no-supremo-cnn-brasil",
+  "slug": "vorcaro-tenta-adiar-oitivas-enquanto-caso-master-acirra-crise-no-supremo-cnn-brasil",
+  "section": "politica",
+  "secondarySections": [],
+  "publishedAt": "2026-09-23T03:15:54-03:00",
+  "publishedDate": "2026-09-23",
+  "updatedAt": "2026-09-24T17:45:13.603Z",
+  "sources": [
+    {
+      "name": "CNN Brasil",
+      "url": "https://www.cnnbrasil.com.br/politica/vorcaro-tenta-adiar-oitivas-enquanto-caso-master-acirra-crise-no-supremo/"
+    },
+    {
+      "name": "Metrópoles",
+      "url": "https://www.metropoles.com/colunas/manoela-alcantara/vorcaro-pede-que-depoimentos-a-pf-sejam-adiados-por-nao-ter-acesso-a-provas"
+    }
+  ],
+  "rights": {
+    "mode": "original-report"
+  },
+  "translations": {
+    "pt-BR": {
+      "title": "Defesa de Vorcaro pede adiamento de dois depoimentos à Polícia Federal",
+      "summary": "Os advogados alegam falta de acesso integral às provas e pediram mais tempo antes de oitivas previstas para 24 e 30 de setembro; não havia decisão sobre o pedido.",
+      "aiSummary": [
+        "A defesa pediu o adiamento de depoimentos previstos para 24 e 30 de setembro.",
+        "Os advogados alegam que ainda não tiveram acesso integral ao material investigativo.",
+        "O pedido não equivale a uma autorização de adiamento nem a uma conclusão sobre as suspeitas."
+      ],
+      "paragraphs": [
+        "A defesa do ex-banqueiro Daniel Vorcaro pediu ao Supremo Tribunal Federal que adie dois depoimentos à Polícia Federal previstos para 24 e 30 de setembro. O requerimento foi encaminhado ao presidente do STF, Edson Fachin, em 21 de setembro; até a publicação da reportagem, não havia informação de que o adiamento tivesse sido concedido.",
+        "Os advogados afirmaram que não tiveram acesso à íntegra das provas documentadas e pediram pelo menos dez dias úteis para examiná-las antes das oitivas. A CNN Brasil registrou esse prazo como dias úteis; uma reportagem do Metrópoles descreveu o pedido como dez dias após o acesso ao material, sem especificar a mesma unidade de contagem.",
+        "A primeira oitiva, marcada para 24 de setembro, integra uma investigação sobre suspeitas de fraude em operações entre o Banco Master e o Banco de Brasília, incluindo carteiras de crédito consideradas fraudulentas pela apuração. A existência de uma investigação não estabelece que Vorcaro ou outros envolvidos tenham cometido crime.",
+        "O depoimento previsto para 30 de setembro trata do grupo chamado pela Polícia Federal de A Turma. Segundo a investigação, o grupo teria sido financiado por Vorcaro para monitorar pessoas, obter informações sigilosas e pressionar adversários; essas descrições continuam sendo alegações da polícia, não uma decisão judicial definitiva.",
+        "A defesa fundamentou o pedido na Súmula Vinculante 14 do STF, que assegura acesso a elementos de prova já documentados e relacionados ao direito de defesa. Os advogados disseram que Vorcaro tem interesse em prestar esclarecimentos, mas precisa analisar os documentos e discuti-los com a equipe jurídica.",
+        "Vorcaro já havia prestado depoimento em 28 de agosto, por videoconferência, em outro inquérito sobre dois ex-servidores do Banco Central. Na ocasião, segundo a CNN, ele negou ter recebido informações privilegiadas e voltou a sinalizar interesse em negociar uma colaboração premiada."
+      ]
+    },
+    "en": {
+      "title": "Vorcaro’s defense asks to postpone two Federal Police interviews",
+      "summary": "Lawyers cite incomplete access to evidence and sought more time before interviews scheduled for September 24 and 30; no ruling on the request had been reported.",
+      "aiSummary": [
+        "The defense asked to postpone interviews scheduled for September 24 and 30.",
+        "Lawyers say they have not received full access to the investigative materials.",
+        "The request is not an approval to postpone or a finding on the allegations."
+      ],
+      "paragraphs": [
+        "Former banker Daniel Vorcaro’s defense asked Brazil’s Supreme Federal Court to postpone two Federal Police interviews scheduled for September 24 and 30. The request was sent to STF Chief Justice Edson Fachin on September 21; the report did not say the postponement had been granted.",
+        "The lawyers said they had not received full access to the documented evidence and asked for at least ten working days to review it before the interviews. CNN Brasil described the requested period as working days; a Metrópoles report characterized it as ten days after access to the materials, without specifying the same counting unit.",
+        "The first interview, scheduled for September 24, is part of an investigation into suspected fraud in transactions between Banco Master and the Bank of Brasília, including credit portfolios investigators describe as fraudulent. The existence of an investigation does not establish that Vorcaro or anyone else committed a crime.",
+        "The September 30 interview concerns a group the Federal Police call A Turma. Investigators allege that Vorcaro financed the group to monitor people, obtain confidential information and pressure opponents; those claims remain police allegations, not a final court finding.",
+        "The defense cited STF Binding Precedent 14, which guarantees access to documented evidence related to the right to defend oneself. The lawyers said Vorcaro is willing to provide explanations but needs to review the records and discuss them with his legal team.",
+        "Vorcaro had already testified by videoconference on August 28 in a separate inquiry involving two former central-bank employees. CNN reported that he denied receiving privileged information and again indicated interest in negotiating a plea agreement."
+      ]
+    }
+  },
+  "verification": {
+    "score": 8.8,
+    "checkedAt": "2026-09-24T14:42:39Z",
+    "checks": [
+      {
+        "provider": "CNN Brasil",
+        "url": "https://www.cnnbrasil.com.br/politica/vorcaro-tenta-adiar-oitivas-enquanto-caso-master-acirra-crise-no-supremo/",
+        "finding": "supports",
+        "note": "Complete saved report supports the two requests, scheduled dates (24 and 30 September), lack-of-access rationale and police allegations, with no claim the requests were granted."
+      },
+      {
+        "provider": "Metrópoles",
+        "url": "https://www.metropoles.com/colunas/manoela-alcantara/vorcaro-pede-que-depoimentos-a-pf-sejam-adiados-por-nao-ter-acesso-a-provas",
+        "finding": "supports",
+        "note": "Opened independent report confirms two interviews on 24/30 September, lack of access, and a request for 10 days after access. It does not specify working days, unlike CNN; selected copy explicitly discloses this difference."
+      },
+      {
+        "provider": "Aos Fatos",
+        "url": "https://www.aosfatos.org/",
+        "finding": "no-match",
+        "note": "Search surfaced saved police/court documents and unrelated explanatory coverage, but no direct fact-check of this postponement request; neutral."
+      },
+      {
+        "provider": "Agência Lupa",
+        "url": "https://www.agencialupa.org/",
+        "finding": "no-match",
+        "note": "Found an unrelated fact-check of a claim about PF conclusions in another Vorcaro inquiry, not these scheduled interviews; no direct match."
+      },
+      {
+        "provider": "Projeto Comprova",
+        "url": "https://projetocomprova.com.br/",
+        "finding": "no-match",
+        "note": "No fact-check of the postponement request found; neutral."
+      },
+      {
+        "provider": "AFP Fact Check",
+        "url": "https://factcheck.afp.com/",
+        "finding": "no-match",
+        "note": "No matching fact-check found; neutral."
+      },
+      {
+        "provider": "Reuters Fact Check",
+        "url": "https://www.reuters.com/fact-check/",
+        "finding": "context",
+        "note": "Reuters search result concerns a separate rumor that released material showed a payment from Vorcaro to Lula; it does not address the interview dates or defense request and does not contradict this story."
+      }
+    ],
+    "caveat": "The 10-day wording differs in precision across CNN and Metrópoles (working days versus unspecified days after access); the article transparently records that distinction. Allegations about fraud and A Turma are attributed to investigators, not presented as adjudicated facts."
+  }
+}

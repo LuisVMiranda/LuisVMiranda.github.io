@@ -2,8 +2,9 @@ import { writeFile } from 'node:fs/promises';
 import { readContent } from './content-files';
 import { contentRevision, isApproved } from '../src/modules/editions/integrity';
 
-const { articles, editions, approval } = await readContent();
-const revision = contentRevision(articles, editions);
+const { articles, editions, approval, editorialManifests } =
+  await readContent();
+const revision = contentRevision(articles, editions, editorialManifests);
 const args = process.argv.slice(2);
 function argument(name: string): string | undefined {
   const index = args.indexOf(name);
@@ -33,7 +34,7 @@ if (args.includes('--approve')) {
     JSON.stringify(
       {
         revision,
-        approved: isApproved(articles, editions, approval),
+        approved: isApproved(articles, editions, approval, editorialManifests),
         articles: articles.length,
         editions: editions.length,
       },

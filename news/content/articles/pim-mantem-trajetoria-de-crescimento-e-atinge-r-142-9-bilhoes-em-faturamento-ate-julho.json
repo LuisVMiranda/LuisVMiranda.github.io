@@ -1,0 +1,106 @@
+{
+  "id": "pim-mantem-trajetoria-de-crescimento-e-atinge-r-142-9-bilhoes-em-faturamento-ate-julho",
+  "slug": "pim-mantem-trajetoria-de-crescimento-e-atinge-r-142-9-bilhoes-em-faturamento-ate-julho",
+  "section": "economia",
+  "secondarySections": [],
+  "publishedAt": "2026-09-21T16:47:00-03:00",
+  "updatedAt": "2026-09-24T17:45:13.603Z",
+  "sources": [
+    {
+      "name": "Superintendência da Zona Franca de Manaus (Suframa)",
+      "url": "https://www.gov.br/suframa/pt-br/assuntos/noticias/pim-mantem-trajetoria-de-crescimento-e-atinge-r-142-9-bilhoes-em-faturamento-ate-julho"
+    }
+  ],
+  "rights": {
+    "mode": "original-report"
+  },
+  "translations": {
+    "pt-BR": {
+      "title": "Suframa informa faturamento de R$ 142,98 bilhões no Polo Industrial de Manaus até julho",
+      "summary": "A autarquia também reportou emprego médio mensal de 131.197 no período; os números são estatísticas institucionais atribuídas à Suframa.",
+      "aiSummary": [
+        "A Suframa informou faturamento de R$ 142,98 bilhões no PIM até julho de 2026.",
+        "A média mensal de empregos diretos entre janeiro e julho foi de 131.197, segundo a autarquia.",
+        "O órgão reportou 1.359.120 motocicletas, motonetas e ciclomotores fabricados no acumulado de sete meses."
+      ],
+      "paragraphs": [
+        "O Polo Industrial de Manaus acumulou R$ 142,98 bilhões em faturamento até julho de 2026, informou a Superintendência da Zona Franca de Manaus (Suframa) em divulgação publicada em 21 de setembro. A autarquia apresentou o valor como resultado do polo, sem uma auditoria independente na publicação.",
+        "A média mensal de empregos diretos de janeiro a julho foi de 131.197, segundo a Suframa. A entidade também informou 132.596 trabalhadores efetivos, temporários e terceirizados no polo em julho; as duas medidas têm recortes diferentes.",
+        "Na composição de faturamento divulgada pela autarquia, bens de informática responderam por 21,86%, duas rodas por 19,77% e eletroeletrônicos por 15,43% do acumulado até julho. São participações atribuídas à estatística da Suframa.",
+        "A Suframa também apontou altas percentuais no acumulado de janeiro a julho: 46,97% para brinquedos, 37,07% para bebidas e 32,19% para termoplásticos. A divulgação não apresenta esses dados como estimativas independentes.",
+        "Entre os volumes produzidos que a autarquia reportou estão 1.359.120 motocicletas, motonetas e ciclomotores e 7.154.014 celulares nos primeiros sete meses de 2026. Os totais são apresentados como estatísticas oficiais da Suframa e se referem ao período indicado, não a uma auditoria externa."
+      ]
+    },
+    "en": {
+      "title": "Suframa reports R$142.98 billion in revenue at Manaus Industrial Pole through July",
+      "summary": "The agency also reported average monthly employment of 131,197 during the period; the figures are explicitly attributed to Suframa.",
+      "aiSummary": [
+        "Suframa reported R$142.98 billion in Manaus Industrial Pole revenue through July 2026.",
+        "The agency said average monthly direct employment from January through July was 131,197.",
+        "It reported production of 1,359,120 motorcycles, scooters and mopeds in the seven-month period."
+      ],
+      "paragraphs": [
+        "The Manaus Industrial Pole recorded R$142.98 billion in revenue through July 2026, the Superintendency of the Manaus Free Trade Zone (Suframa) said in a release published on September 21. The agency presented the figure as the pole's result; its release was not an independent audit.",
+        "Average monthly direct employment from January through July was 131,197, according to Suframa. The agency also reported 132,596 permanent, temporary and outsourced workers at the pole in July; the two measures cover different periods and categories.",
+        "In Suframa's reported revenue mix through July, computer goods accounted for 21.86%, two-wheel vehicles for 19.77% and electronics for 15.43%. These shares are attributed to the agency's statistics.",
+        "Suframa also reported year-to-date percentage increases of 46.97% for toys, 37.07% for beverages and 32.19% for thermoplastics. The release does not describe the figures as independent estimates.",
+        "Among reported production totals were 1,359,120 motorcycles, scooters and mopeds and 7,154,014 mobile phones in the first seven months of 2026. These are official Suframa statistics for the stated period, not an external audit."
+      ]
+    }
+  },
+  "verification": {
+    "score": 8,
+    "checkedAt": "2026-09-24T14:21:39Z",
+    "checks": [
+      {
+        "provider": "Aos Fatos",
+        "url": "https://aosfatos.org/",
+        "finding": "no-match",
+        "note": "Direct Portuguese search found no fact-check of Suframa's July 2026 PIM revenue, employment or production figures; unrelated Amazon-policy claims excluded."
+      },
+      {
+        "provider": "Agência Lupa",
+        "url": "https://www.agencialupa.org/",
+        "finding": "no-match",
+        "note": "Direct search found no fact-check of the stated PIM statistics; unrelated political/economic coverage excluded."
+      },
+      {
+        "provider": "Projeto Comprova",
+        "url": "https://projetocomprova.com.br/",
+        "finding": "no-match",
+        "note": "Direct Portuguese search found no matching check of the R$142.98bn revenue or employment series."
+      },
+      {
+        "provider": "Reuters Fact Check",
+        "url": "https://www.reuters.com/fact-check/",
+        "finding": "no-match",
+        "note": "Direct search found no fact-check of the PIM figures; unrelated Brazil GDP checks concern different data."
+      },
+      {
+        "provider": "AFP Fact Check",
+        "url": "https://factcheck.afp.com/",
+        "finding": "no-match",
+        "note": "Direct search found no claim-level check of Suframa's reported figures."
+      },
+      {
+        "provider": "Full Fact",
+        "url": "https://fullfact.org/",
+        "finding": "no-match",
+        "note": "Direct search found no matching check of the PIM statistics; unrelated Brazil production claims were not treated as evidence."
+      },
+      {
+        "provider": "Google Fact Check Tools",
+        "url": "https://toolbox.google.com/factcheck/explorer",
+        "finding": "no-match",
+        "note": "Portuguese Explorer query for the R$142.98bn PIM revenue and July 2026 series returned no matching claim record; neutral."
+      },
+      {
+        "provider": "Suframa",
+        "url": "https://www.gov.br/suframa/pt-br/assuntos/noticias/pim-mantem-trajetoria-de-crescimento-e-atinge-r-142-9-bilhoes-em-faturamento-ate-julho",
+        "finding": "supports",
+        "note": "The complete official release gives R$142.98bn through July, Jan–July average direct employment of 131,197, and 132,596 workers in July across permanent, temporary and outsourced categories; saved article preserves those distinct scopes and attribution."
+      }
+    ],
+    "caveat": "All figures are Suframa's own reported statistics; no independent statistical series or audit was available in the retained evidence. The article and both AI summaries attribute the figures and distinguish the employment periods/categories."
+  }
+}

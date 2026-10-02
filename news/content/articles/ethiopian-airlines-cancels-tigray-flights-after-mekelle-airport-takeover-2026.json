@@ -1,0 +1,89 @@
+{
+  "id": "ethiopian-airlines-cancels-tigray-flights-after-mekelle-airport-takeover-2026",
+  "slug": "ethiopian-airlines-cancels-tigray-flights-after-mekelle-airport-takeover-2026",
+  "section": "mundo",
+  "secondarySections": [],
+  "publishedAt": "2026-09-23T00:00:00.000Z",
+  "publishedDate": "2026-09-23",
+  "updatedAt": "2026-09-24T17:45:13.603Z",
+  "sources": [
+    {
+      "name": "Associated Press",
+      "url": "https://apnews.com/article/ethiopia-airlines-tigray-mekelle-tpfl-100de0f5170aa1071cbb4cf60ac1448a"
+    },
+    {
+      "name": "Reuters via TimesLIVE",
+      "url": "https://www.timeslive.co.za/news/africa/2026-09-23-ethiopian-air-halts-flights-to-tigray-region-as-mekelle-airport-seized/"
+    }
+  ],
+  "rights": {
+    "mode": "original-report"
+  },
+  "translations": {
+    "pt-BR": {
+      "title": "Ethiopian Airlines suspende voos para Tigray após relatos de tomada do aeroporto",
+      "summary": "A companhia interrompeu rotas para três cidades da região depois que fontes locais relataram que forças tigrínias assumiram o aeroporto de Mekelle.",
+      "aiSummary": [
+        "A Ethiopian Airlines suspendeu voos para Mekelle, Axum e Shire em 23 de setembro.",
+        "Fontes locais disseram à AP e à Reuters que forças tigrínias tomaram o aeroporto de Mekelle.",
+        "A companhia não detalhou a situação; a AP não relatou tiros durante a tomada descrita como aparentemente pacífica."
+      ],
+      "paragraphs": [
+        "A Ethiopian Airlines suspendeu os voos para Mekelle, Axum e Shire, no norte da Etiópia, na quarta-feira, 23 de setembro. A empresa estatal atribuiu a decisão à “situação atual” na região de Tigray, sem informar quando as rotas seriam retomadas.",
+        "A interrupção ocorreu depois que fontes locais disseram que forças tigrínias assumiram o controle do aeroporto de Mekelle durante a noite. A AP ouviu um motorista de táxi que relatou ter sido mandado a deixar o terminal; duas fontes locais ouvidas pela Reuters descreveram a tomada do aeroporto.",
+        "Os relatos identificaram as forças como ligadas à Frente de Libertação do Povo Tigrínio, ou TPLF. A agência aérea não explicou a situação de segurança, e a organização não havia divulgado uma resposta ao relato da AP no momento da publicação.",
+        "A AP afirmou que a ocupação parecia ter ocorrido sem confronto e que não foram ouvidos disparos dentro ou nos arredores do aeroporto. Essa descrição é atribuída às informações reunidas pela agência e não equivale a uma avaliação independente do controle do local.",
+        "As fontes situaram o episódio em meio a relações deterioradas entre o governo federal e a TPLF. A AP também registrou que a organização e outros seis grupos oposicionistas haviam anunciado uma aliança política dias antes, mas não estabeleceu que o acordo tenha causado a suspensão dos voos.",
+        "O conflito entre forças federais e a TPLF terminou com um acordo de paz em novembro de 2022. A notícia de setembro de 2026 descreve a interrupção aérea e os relatos sobre o aeroporto; não confirma o início de uma nova guerra."
+      ]
+    },
+    "en": {
+      "title": "Ethiopian Airlines suspends Tigray flights after airport takeover reports",
+      "summary": "The carrier halted routes to three regional cities after local sources said Tigrayan forces had taken control of Mekelle airport.",
+      "aiSummary": [
+        "Ethiopian Airlines suspended flights to Mekelle, Axum and Shire on September 23.",
+        "Local sources told the AP and Reuters that Tigrayan forces took Mekelle airport.",
+        "The carrier gave no details; the AP said no gunfire was heard during what it described as an apparently peaceful takeover."
+      ],
+      "paragraphs": [
+        "Ethiopian Airlines suspended flights to Mekelle, Axum and Shire in northern Ethiopia on Wednesday, September 23. The state-owned carrier attributed the decision to the “current situation” in the Tigray region and did not say when the routes might resume.",
+        "The suspension followed reports from local sources that Tigrayan forces had taken control of Mekelle airport overnight. The AP spoke with a taxi driver who said he was ordered to leave the terminal; two local sources told Reuters that the airport had been seized.",
+        "The accounts identified the forces as linked to the Tigray People’s Liberation Front, or TPLF. The airline did not explain the security situation, and the organization had not responded to the AP’s account at publication time.",
+        "The AP said the occupation appeared to have taken place without fighting and that no gunfire was heard in or around the airport. That description is attributed to information gathered by the news agency and is not an independent assessment of who controlled the site.",
+        "The sources placed the episode amid deteriorating relations between the federal government and the TPLF. The AP also reported that the group and six other opposition organizations had announced an alliance days earlier, but did not establish that the pact caused the flight suspension.",
+        "The conflict between federal forces and the TPLF ended with a peace agreement in November 2022. The September 2026 report describes the air-service disruption and accounts of the airport takeover; it does not confirm that a new war had begun."
+      ]
+    }
+  },
+  "verification": {
+    "score": 8.7,
+    "checkedAt": "2026-09-24T14:23:42Z",
+    "checks": [
+      {
+        "provider": "Associated Press (primary report)",
+        "url": "https://apnews.com/article/ethiopia-airlines-tigray-mekelle-tpfl-100de0f5170aa1071cbb4cf60ac1448a",
+        "finding": "supports",
+        "note": "Complete AP extraction supports flight suspensions to Mekelle, Axum and Shire; airport control is attributed to a taxi driver, and AP reports no gunfire heard."
+      },
+      {
+        "provider": "Reuters via TimesLIVE",
+        "url": "https://www.timeslive.co.za/news/africa/2026-09-23-ethiopian-air-halts-flights-to-tigray-region-as-mekelle-airport-seized/",
+        "finding": "supports",
+        "note": "Complete independent report also confirms the flight halt and attributes the airport takeover to two local sources; it does not establish independent on-site control."
+      },
+      {
+        "provider": "AFP Fact Check",
+        "url": "https://factcheck.afp.com/",
+        "finding": "no-match",
+        "note": "Targeted search for this September 23 flight suspension and Mekelle airport report found no direct fact-check; neutral, not evidence of truth."
+      },
+      {
+        "provider": "Reuters Fact Check",
+        "url": "https://www.reuters.com/fact-check/",
+        "finding": "no-match",
+        "note": "No fact-check of this specific event or its reported airport takeover found; neutral."
+      }
+    ],
+    "caveat": "Flight cancellations are corroborated by AP and Reuters; airport control remains attributed to local accounts, not independently verified by either outlet. The draft preserves that limitation and does not claim a new war began."
+  }
+}

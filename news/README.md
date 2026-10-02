@@ -37,9 +37,11 @@ The local SearXNG endpoint
 defaults to `http://localhost:8080`; `SEARXNG_URL` may select another local port.
 `npm run research` writes separate candidate runs; it never approves stories. The
 `github-news` automation runs daily at 05:00 GMT-3 using
-`automation/daily-news-prompt.md`; it prepares exactly ten verified stories per
-section, deploys an independent read-only reviewer, records machine approval,
-and pushes verified editions directly to `main` for GitHub Pages deployment.
+`automation/daily-news-prompt.md`. Its first extraction pass is capped at 16
+candidates per desk with concurrency 12; drafting and one fact-check batch are
+parallelized by desk. A 120-minute runtime budget limits retries and stops
+fail-closed without weakening source, strict-verification, independent-review,
+or approval gates. Verified editions publish directly to `main` for GitHub Pages.
 
 ```powershell
 npm run research
@@ -164,9 +166,11 @@ content and code to a known-good revision through Git, revalidate page reviews
 and editorial approval, and publish through the same workflow. This keeps the
 portfolio and search index in the same complete deployment.
 
-The server in scripts/serve.mjs is only a local test utility. Nothing executes
-on a server when a reader visits the published site. The site remains readable
-when the local research machine and SearXNG are offline.
+The server in scripts/serve.mjs is only a local test utility; `PORT` selects its
+listen port (default 4321). Playwright uses a separate port (default 4322),
+never reuses an existing server, and allows `NEWS_E2E_PORT` to select another
+free port. Nothing executes on a server when a reader visits the published site.
+The site remains readable when the local research machine and SearXNG are offline.
 
 When a source provides only a calendar date, `publishedDate` preserves that
 date in both languages and structured metadata. Its normalized `publishedAt`

@@ -1,0 +1,111 @@
+{
+  "id": "quem-sao-os-maiores-doadores-das-campanhas-presidenciais-g1",
+  "slug": "quem-sao-os-maiores-doadores-das-campanhas-presidenciais-g1",
+  "section": "politica",
+  "secondarySections": [],
+  "publishedAt": "2026-09-23T00:00:00.491-03:00",
+  "publishedDate": "2026-09-23",
+  "updatedAt": "2026-09-24T17:45:13.603Z",
+  "sources": [
+    {
+      "name": "G1",
+      "url": "https://g1.globo.com/politica/eleicoes/2026/noticia/2026/09/23/doadores-campanhas-presidenciais.ghtml"
+    },
+    {
+      "name": "Folha de S.Paulo",
+      "url": "https://www1.folha.uol.com.br/poder/2026/09/rei-do-biodiesel-doa-r-1-milhao-as-campanhas-de-lula-e-flavio.shtml"
+    }
+  ],
+  "rights": {
+    "mode": "original-report"
+  },
+  "translations": {
+    "pt-BR": {
+      "title": "Reportagens apontam doações de R$ 500 mil do mesmo empresário a Lula e Flávio",
+      "summary": "G1 e Folha relatam contribuições de Erasmo Carlos Battistella de R$ 500 mil para cada campanha; os registros descritos pelo G1 eram parciais e sujeitos a atualização.",
+      "aiSummary": [
+        "G1 e Folha relatam que Erasmo Carlos Battistella doou R$ 500 mil a Lula e outros R$ 500 mil a Flávio Bolsonaro.",
+        "O relato do G1 situa os dados nos lançamentos informados ao TSE até 22 de setembro e diz que poderiam ser atualizados.",
+        "Battistella afirmou, por meio de nota, que doou como pessoa física e respeitou os limites eleitorais; essa é a posição declarada pelo doador."
+      ],
+      "paragraphs": [
+        "G1 e Folha relataram que o empresário Erasmo Carlos Battistella destinou R$ 500 mil à campanha de Luiz Inácio Lula da Silva e o mesmo valor à de Flávio Bolsonaro. As duas reportagens coincidem nesse ponto.",
+        "O G1 situa a informação nos lançamentos de receitas que as campanhas haviam informado ao Tribunal Superior Eleitoral (TSE) até terça-feira, 22 de setembro. A reportagem diz que os registros poderiam ser atualizados com novas declarações.",
+        "Este texto se limita aos repasses coincidentes descritos pelas duas reportagens e não reproduz o recorte mais amplo de totais e ranking publicado pelo G1 nem apresenta um quadro completo do financiamento das campanhas.",
+        "Questionado sobre os repasses, Battistella afirmou, em nota divulgada por sua assessoria, que as contribuições foram feitas como pessoa física e dentro dos limites da legislação eleitoral. A Folha também publicou essa manifestação; trata-se da posição apresentada pelo doador.",
+        "As reportagens informam sobre contribuições declaradas, mas esses registros, por si só, não estabelecem a motivação do doador, comprovam o cumprimento da lei ou demonstram troca de favores e influência sobre decisões públicas."
+      ]
+    },
+    "en": {
+      "title": "Reports say one business owner gave R$500,000 to both Lula and Flávio",
+      "summary": "G1 and Folha report R$500,000 contributions from Erasmo Carlos Battistella to each campaign; the filings described by G1 were partial and subject to updates.",
+      "aiSummary": [
+        "G1 and Folha report that Erasmo Carlos Battistella gave R$500,000 to Lula and another R$500,000 to Flávio Bolsonaro.",
+        "G1 places the figures in campaign receipts reported to the TSE as of September 22 and says they could be updated.",
+        "Battistella said in a statement that he donated as an individual and complied with electoral limits; this is the donor’s stated position."
+      ],
+      "paragraphs": [
+        "G1 and Folha reported that business owner Erasmo Carlos Battistella gave R$500,000 to Luiz Inácio Lula da Silva’s campaign and the same amount to Flávio Bolsonaro’s. The two reports match on this point.",
+        "G1 places the information in campaign receipts reported to Brazil’s Superior Electoral Court (TSE) as of Tuesday, September 22. The report says those filings could be updated as new declarations were submitted.",
+        "This article is limited to the matching contributions reported by both outlets. It does not reproduce G1’s broader snapshot of campaign totals and candidate rankings or present a complete account of campaign financing.",
+        "Asked about the transfers, Battistella said in a statement released by his press office that the contributions were made as an individual and within electoral-law limits. Folha also published the statement; it is the donor’s stated position.",
+        "The reports describe declared contributions, but those records alone do not establish the donor’s motives, prove legal compliance or demonstrate an exchange of favors or influence over public decisions."
+      ]
+    }
+  },
+  "verification": {
+    "score": 8.7,
+    "checkedAt": "2026-09-24T16:19:43Z",
+    "checks": [
+      {
+        "provider": "G1",
+        "url": "https://g1.globo.com/politica/eleicoes/2026/noticia/2026/09/23/doadores-campanhas-presidenciais.ghtml",
+        "finding": "supports",
+        "note": "Complete saved G1 extraction reports Erasmo Carlos Battistella's R$500,000 contributions to both campaigns, identifies the TSE-reported figures as current through Tuesday, September 22, and warns filings may change. The revised copy uses this boundary and omits the broader totals and rankings."
+      },
+      {
+        "provider": "Folha de S.Paulo",
+        "url": "https://www1.folha.uol.com.br/poder/2026/09/rei-do-biodiesel-doa-r-1-milhao-as-campanhas-de-lula-e-flavio.shtml",
+        "finding": "supports",
+        "note": "The accessible report confirms R$500,000 to each candidate and publishes Battistella's attributed response. Its September 9 publication independently supports the matching amounts and statement, but does not verify G1's later September 22 filing snapshot."
+      },
+      {
+        "provider": "TSE DivulgaCandContas",
+        "url": "https://divulgacandcontas.tse.jus.br/",
+        "finding": "inconclusive",
+        "note": "The public interface did not yield a candidate-level transaction that independently reproduces these amounts as of September 22. This leaves the raw filing check incomplete; it does not contradict the matching reports."
+      },
+      {
+        "provider": "Aos Fatos",
+        "url": "https://www.aosfatos.org/",
+        "finding": "no-match",
+        "note": "Targeted Portuguese searches surfaced other election claims, not a fact-check of Battistella's 2026 donations. No-match is neutral."
+      },
+      {
+        "provider": "Agência Lupa",
+        "url": "https://www.agencialupa.org/",
+        "finding": "no-match",
+        "note": "Targeted searches surfaced unrelated election material, not a check of the matching R$500,000 donations. No-match is neutral."
+      },
+      {
+        "provider": "Projeto Comprova",
+        "url": "https://projetocomprova.com.br/",
+        "finding": "no-match",
+        "note": "No matching fact-check of the donor, amounts, or filing snapshot was found in the targeted search. No-match is neutral."
+      },
+      {
+        "provider": "AFP Fact Check",
+        "url": "https://factcheck.afp.com/",
+        "finding": "no-match",
+        "note": "Targeted English-language search found no relevant check of these donations. No-match is neutral."
+      },
+      {
+        "provider": "Reuters Fact Check",
+        "url": "https://www.reuters.com/fact-check/",
+        "finding": "no-match",
+        "note": "Targeted searches found no check of the matching campaign donations. No-match is neutral."
+      }
+    ],
+    "caveat": "The revised PT/EN copy is limited to the two matching R$500,000 donations, G1's explicitly time-bounded September 22 filing snapshot, Battistella's attributed statement, and what the declarations do not establish. Folha's earlier report corroborates the amounts and statement, not the later snapshot; direct TSE transaction-level reproduction was inconclusive. The copy makes no unsupported campaign ranking or aggregate-total claim and does not treat the donor's compliance statement as proof of compliance."
+  }
+}

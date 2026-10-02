@@ -1,0 +1,116 @@
+{
+  "id": "biopark-celebra-10-anos-com-anuncio-de-r-1-bilhao-da-prati-donaduzzi-e-r-74-milhoes-para-o",
+  "slug": "prati-donaduzzi-planeja-fabrica-de-r-1-bilhao-no-biopark-toledo",
+  "section": "economia",
+  "secondarySections": [],
+  "publishedAt": "2026-09-22T20:08:14.855+00:00",
+  "updatedAt": "2026-09-24T17:45:13.603Z",
+  "sources": [
+    {
+      "name": "Viver Toledo",
+      "url": "https://vivertoledo.com.br/noticia/biopark-celebra-10-anos-com-anuncio-de-r-1-bilhao-da-prati-donaduzzi-e-r-74-milhoes-para-o-boulevard-peter-drucker"
+    },
+    {
+      "name": "Exame",
+      "url": "https://exame.com/negocios/gigante-farmaceutica-do-parana-anuncia-r-1-bilhao-em-nova-fabrica-para-5-bilhoes-de-doses/"
+    }
+  ],
+  "rights": {
+    "mode": "original-report"
+  },
+  "translations": {
+    "pt-BR": {
+      "title": "Prati-Donaduzzi planeja fábrica de R$ 1 bilhão no Biopark, em Toledo",
+      "summary": "A unidade anunciada teria 26 mil metros quadrados, capacidade projetada de 5 bilhões de doses terapêuticas por ano e estimativa empresarial de 500 empregos diretos.",
+      "aiSummary": [
+        "A Prati-Donaduzzi anunciou uma fábrica planejada com investimento inicial de R$ 1 bilhão no Biopark.",
+        "A unidade foi projetada com 26 mil metros quadrados e prazo de construção de três anos.",
+        "A empresa estimou 500 empregos diretos e capacidade de 5 bilhões de doses terapêuticas por ano; são projeções, não resultados realizados."
+      ],
+      "paragraphs": [
+        "A farmacêutica Prati-Donaduzzi anunciou, em 22 de setembro, um plano para construir uma nova fábrica dentro do Biopark, em Toledo, no oeste do Paraná. O investimento inicial previsto é de R$ 1 bilhão, segundo a cobertura local do anúncio.",
+        "A unidade projetada terá 26 mil metros quadrados e prazo de construção estimado em três anos. Esses dados descrevem o projeto anunciado, não uma instalação já concluída.",
+        "O presidente da empresa estimou que a fábrica terá capacidade para produzir 5 bilhões de doses terapêuticas por ano. Trata-se da capacidade planejada para a unidade futura, não de produção atual.",
+        "A empresa também projetou a criação de 500 empregos diretos. Esse número é uma estimativa atribuída à companhia e não representa postos já preenchidos.",
+        "O anúncio foi feito durante as comemorações dos dez anos do Biopark, em Toledo. A Exame também reportou o investimento inicial de R$ 1 bilhão, a estimativa de 500 empregos diretos e a capacidade projetada de 5 bilhões de doses anuais."
+      ]
+    },
+    "en": {
+      "title": "Prati-Donaduzzi plans R$1 billion factory at Toledo's Biopark",
+      "summary": "The planned facility is set at 26,000 square meters, with projected capacity of 5 billion therapeutic doses a year and a company estimate of 500 direct jobs.",
+      "aiSummary": [
+        "Prati-Donaduzzi announced a planned factory at Biopark with an initial investment of R$1 billion.",
+        "The planned unit covers 26,000 square meters and has a three-year construction estimate.",
+        "The company projected 500 direct jobs and capacity for 5 billion therapeutic doses a year; these are forecasts, not realized results."
+      ],
+      "paragraphs": [
+        "Pharmaceutical company Prati-Donaduzzi announced on September 22 a plan to build a new factory at Biopark in Toledo, western Paraná. The initial investment is projected at R$1 billion, according to local coverage of the announcement.",
+        "The planned facility covers 26,000 square meters and has an estimated three-year construction schedule. Those details describe the announced project, not a completed plant.",
+        "The company's president estimated that the factory would have capacity to produce 5 billion therapeutic doses a year. That is projected capacity for a future facility, not current output.",
+        "The company also estimated 500 direct jobs. This is a projection attributed to the company, not a count of positions already filled.",
+        "The announcement came during Biopark's 10th-anniversary event in Toledo. Exame also reported the initial R$1 billion investment, the 500-direct-job estimate and projected annual capacity of 5 billion doses."
+      ]
+    }
+  },
+  "verification": {
+    "score": 8.7,
+    "checkedAt": "2026-09-24T14:21:39Z",
+    "checks": [
+      {
+        "provider": "Aos Fatos",
+        "url": "https://aosfatos.org/",
+        "finding": "no-match",
+        "note": "Direct Portuguese search found no fact-check of the Prati-Donaduzzi/Biopark project; no-match is neutral."
+      },
+      {
+        "provider": "Agência Lupa",
+        "url": "https://www.agencialupa.org/",
+        "finding": "no-match",
+        "note": "Direct search found no check of this factory plan; unrelated campaign claims were excluded."
+      },
+      {
+        "provider": "Projeto Comprova",
+        "url": "https://projetocomprova.com.br/",
+        "finding": "no-match",
+        "note": "Search surfaced past fact-checks about unrelated Tesla/other factory rumors, not the Prati-Donaduzzi plan; no verdict applies to this project."
+      },
+      {
+        "provider": "Reuters Fact Check",
+        "url": "https://www.reuters.com/fact-check/",
+        "finding": "no-match",
+        "note": "Direct search found no fact-check of this planned factory or its company estimates; unrelated BYD rumors are not this claim."
+      },
+      {
+        "provider": "AFP Fact Check",
+        "url": "https://factcheck.afp.com/",
+        "finding": "no-match",
+        "note": "Direct search found no check of the Biopark project or the stated investment/capacity."
+      },
+      {
+        "provider": "Full Fact",
+        "url": "https://fullfact.org/",
+        "finding": "no-match",
+        "note": "Direct search found no matching fact-check; unrelated company-profile results were not used."
+      },
+      {
+        "provider": "Google Fact Check Tools",
+        "url": "https://toolbox.google.com/factcheck/explorer",
+        "finding": "no-match",
+        "note": "Portuguese Explorer query for the Prati-Donaduzzi R$1bn Biopark factory returned no matching claim record; neutral."
+      },
+      {
+        "provider": "Viver Toledo",
+        "url": "https://vivertoledo.com.br/noticia/biopark-celebra-10-anos-com-anuncio-de-r-1-bilhao-da-prati-donaduzzi-e-r-74-milhoes-para-o-boulevard-peter-drucker",
+        "finding": "supports",
+        "note": "Complete local event report states the R$1bn planned factory, 26,000m², three-year schedule, 500 direct jobs and 5bn annual therapeutic-dose capacity as company estimates/plans."
+      },
+      {
+        "provider": "Exame",
+        "url": "https://exame.com/negocios/gigante-farmaceutica-do-parana-anuncia-r-1-bilhao-em-nova-fabrica-para-5-bilhoes-de-doses/",
+        "finding": "supports",
+        "note": "Independent business coverage matches the R$1bn factory plan, 500-job estimate and projected 5bn annual-dose capacity; it does not corroborate the separate Boulevard allocation, which the audited article omits."
+      }
+    ],
+    "caveat": "The project, schedule, jobs and capacity are plans/company estimates, not completed investment, staffing or production. The unsupported R$74m Boulevard add-on and 2,200-job claim are not in the audited article body."
+  }
+}

@@ -1,0 +1,51 @@
+{
+  "id": "cinco-pessoas-morrem-em-acidente-com-onibus-no-interior-de-sp",
+  "slug": "cinco-pessoas-morrem-em-acidente-com-onibus-no-interior-de-sp",
+  "section": "brasil",
+  "secondarySections": [],
+  "publishedAt": "2026-09-20T14:07:00-03:00",
+  "updatedAt": "2026-09-25T16:43:04Z",
+  "sources": [
+    {
+      "name": "Agência Brasil",
+      "url": "https://agenciabrasil.ebc.com.br/geral/noticia/2026-09/cinco-pessoas-morrem-em-acidente-com-onibus-no-interior-de-sp"
+    }
+  ],
+  "rights": {
+    "mode": "original-report"
+  },
+  "translations": {
+    "pt-BR": {
+      "title": "Relato inicial registrou ao menos cinco mortes em acidente com ônibus em Cruzeiro",
+      "summary": "A Agência Brasil informou inicialmente ao menos cinco mortes e 48 pessoas a bordo; a causa e o estado de saúde dos demais feridos ainda não haviam sido divulgados.",
+      "aiSummary": [
+        "O relato inicial da Agência Brasil em 20 de setembro informou ao menos cinco mortes em acidente com ônibus em Cruzeiro.",
+        "Informações preliminares do Corpo de Bombeiros citadas pela agência disseram que 48 pessoas estavam no ônibus, que caiu em uma ribanceira na SP-052.",
+        "A prefeitura informou que equipes atuavam no resgate e que os feridos eram levados à Santa Casa; a reportagem não divulgou a causa nem o estado de saúde dos demais feridos."
+      ],
+      "paragraphs": [
+        "Em relato publicado em 20 de setembro, a Agência Brasil informou que pelo menos cinco pessoas morreram em um acidente com ônibus em Cruzeiro, no interior de São Paulo.",
+        "O veículo caiu em uma ribanceira na Rodovia Doutor Avelino Júnior (SP-052).",
+        "Segundo informações preliminares do Corpo de Bombeiros citadas pela agência, o ônibus transportava 48 pessoas.",
+        "A prefeitura de Cruzeiro disse que equipes da Guarda Civil Municipal, do Samu, da Defesa Civil e profissionais das redes municipais de saúde e segurança atuavam no resgate, junto a outros órgãos. A administração informou que os feridos estavam sendo levados para o Hospital Santa Casa.",
+        "Naquele momento, a reportagem não havia divulgado o estado de saúde dos demais feridos nem as causas do acidente."
+      ]
+    },
+    "en": {
+      "title": "Initial report recorded at least five deaths in Cruzeiro bus crash",
+      "summary": "Agência Brasil initially reported at least five deaths and 48 people aboard; the cause and the other injured passengers' conditions had not yet been disclosed.",
+      "aiSummary": [
+        "Agência Brasil's initial report on September 20 said at least five people had died in a bus crash in Cruzeiro, in São Paulo state.",
+        "Preliminary information from the Fire Department cited by the outlet said 48 people were aboard; the bus fell down an embankment on SP-052.",
+        "Cruzeiro's city government said rescue teams were responding and injured passengers were being taken to Santa Casa; the report had not disclosed the cause or the other injured passengers' conditions."
+      ],
+      "paragraphs": [
+        "In a report published on September 20, Agência Brasil said at least five people had died in a bus crash in Cruzeiro, in the interior of São Paulo state.",
+        "The bus fell down an embankment on the Doutor Avelino Júnior Highway (SP-052).",
+        "Preliminary Fire Department information cited by the outlet said the bus was carrying 48 people.",
+        "Cruzeiro's city government said municipal civil guards, emergency medical services, Civil Defense and local health and safety professionals were taking part in the rescue alongside other agencies. The city said injured passengers were being taken to Santa Casa hospital.",
+        "At that time, the report had not disclosed the other injured passengers' health conditions or the cause of the crash."
+      ]
+    }
+  }
+}

@@ -1,6 +1,6 @@
 {
   "section": "esportes",
-  "cutoff": "2026-09-22T11:21:20.336Z",
+  "cutoff": "2026-09-23T11:31:23.014Z",
   "queries": [
     "Esportes notícias Brasil",
     "Sports latest news Brazil",
@@ -11,110 +11,172 @@
   ],
   "verified": [
     {
-      "articleId": "esportes-2026-09-22-ponte-preta-vinicius-ferrari-jejum",
-      "url": "https://ge.globo.com/sp/campinas-e-regiao/futebol/times/ponte-preta/noticia/2026/09/22/familia-celebra-atuacao-de-goleiro-da-ponte-em-vitoria-que-encerrou-jejum-de-22-jogos-muito-orgulho.ghtml",
-      "publishedAt": "2026-09-22T07:00:00.388-03:00",
-      "evidence": "Complete extraction research/runs/2026-09-22T11-21-20-336Z-6df281a2-9343-4cb7-a1b3-001b9e9a3dde/extractions/esportes/b8823033f7e1.json was retrieved with status 200, complete=true, 23 paragraphs and no warnings. Published at 2026-09-22T07:00:00.388-03:00, it records Ponte Preta’s 1-0 win over CRB, Vinicius Ferrari’s seven saves including four inside the area, the 22-match Série B winless run, Brandão’s goal, the family reaction and the goalkeeper’s path from the youth system during the club’s financial crisis.",
-      "selectionReason": "Most recent complete sports report in the run, with a decisive match result, a record-length Série B winless run and a clearly reported goalkeeper performance; selected for freshness and competitive significance.",
+      "articleId": "apos-vitoria-na-estreia-novo-esporte-visita-o-nova-lavras-pela-segunda-divisao-do-mineiro",
+      "url": "https://ge.globo.com/mg/grande-minas-vales/noticia/2026/09/22/apos-vitoria-na-estreia-novo-esporte-visita-o-nova-lavras-pela-segunda-divisao-do-mineiro.ghtml",
+      "publishedAt": "2026-09-22T19:12:24.376-03:00",
+      "evidence": "Original source: research/runs/2026-09-23T11-31-23-014Z-8d26ca21-0863-4450-82bc-1cdf26820144/extractions/esportes/054519e1cccb.json (HTTP 200, complete=true, 12 paragraphs, no warnings). Independent report: https://mantenaonline.com.br/com-gols-de-erick-e-joao-vitor-novo-esporte-vence-inter-minas-por-2-a-1-em-estreia-no-campeonato-mineiro/ (HTTP 200, complete=true, no warnings). Both confirm the 2-1 result; GE spells the scorer Eriky while Mantena writes Erick, and the reports differ by one minute on João Vitor's goal. The copy preserves GE's spelling and omits the disputed minute. GE’s source body repeats score/fixture details and includes a promotional module; the five bilingual paragraphs retain the unique match chronology, account for the source discrepancy, and state the upcoming fixture without asserting the disputed minute. Structured official FMF table capture: research/runs/2026-09-23T11-31-23-014Z-8d26ca21-0863-4450-82bc-1cdf26820144/focused/sports-corrob-02-structured.json (HTTP 200; retrieved 2026-09-24T15:45:52.313Z) records the result and lists the September 26 fixture. This capture postdates the immutable cutoff and corroborates the table as seen at retrieval only; GE’s complete September 22 report is the pre-cutoff evidence for the fixture.",
+      "selectionReason": "Fresh lower-division match report with a complete opening-round result and an upcoming away fixture; the independent report confirms the score, while the one-minute discrepancy is excluded.",
       "contentReview": {
         "bodyComplete": true,
         "aiSummaryReviewed": true
       }
     },
     {
-      "articleId": "esportes-2026-09-22-cicinho-iac-auxiliar",
-      "url": "https://ge.globo.com/sp/mogi-das-cruzes-suzano/futebol/times/iac/noticia/2026/09/22/lembra-dele-ex-lateral-do-palmeiras-e-anunciado-como-auxiliar-tecnico-na-5a-divisao-de-sp.ghtml",
-      "publishedAt": "2026-09-22T05:00:01.070-03:00",
-      "evidence": "Complete extraction research/runs/2026-09-22T11-21-20-336Z-6df281a2-9343-4cb7-a1b3-001b9e9a3dde/extractions/esportes/ed98c6e77eaa.json was retrieved with status 200, complete=true, 17 paragraphs and no warnings. Published at 2026-09-22T05:00:01.070-03:00, it reports Cicinho’s appointment as IAC assistant coach, his age, playing history including Palmeiras and the 2012 Brazilian Cup, his CBF Licence B, the club’s Bezinha context and the planned return and promotion project.",
-      "selectionReason": "Fresh, distinct personnel and lower-division development report with a complete career context; selected without duplicating a match or another player-centered story.",
+      "articleId": "futebol-em-cacoal-projeto-pensando-no-amanha-foca-no-carater-ge",
+      "url": "https://ge.globo.com/ro/noticia/2026/09/22/festival-em-cacoal-reforca-futebol-como-formacao-de-carater.ghtml",
+      "publishedAt": "2026-09-22T10:54:46.205-03:00",
+      "evidence": "Original source: research/runs/2026-09-23T11-31-23-014Z-8d26ca21-0863-4450-82bc-1cdf26820144/extractions/esportes/5dbf5dead1dd.json (HTTP 200, complete=true, 20 paragraphs, no warnings). No independent matching URL was retained. This is a low-risk, interview-led community feature; the report uses attributed participant and parent accounts and omits the isolated 8-0 anecdote.",
+      "selectionReason": "A distinct youth-sports feature adds local participation and family context beyond competition results; claims about character and development remain attributed to the people interviewed.",
       "contentReview": {
         "bodyComplete": true,
         "aiSummaryReviewed": true
       }
     },
     {
-      "articleId": "esportes-2026-09-22-vini-jr-criticas-atletico-real",
-      "url": "https://ge.globo.com/futebol/futebol-internacional/futebol-espanhol/times/real-madrid/noticia/2026/09/22/vini-jr-vira-alvo-de-critica-apos-classico-sombra-do-que-ja-foi.ghtml",
-      "publishedAt": "2026-09-22T04:43:31.059-03:00",
-      "evidence": "Complete extraction research/runs/2026-09-22T11-21-20-336Z-6df281a2-9343-4cb7-a1b3-001b9e9a3dde/extractions/esportes/32613fcb50a2.json was retrieved with status 200, complete=true, 12 paragraphs and no warnings. Published at 2026-09-22T04:43:31.059-03:00, it reports the Marca analysis after Atlético Madrid’s 2-1 win over Real Madrid, the newspaper’s assessment that Vini Jr. and Mbappé were neutralized, Vini’s subdued display and his substitution nine minutes into the second half after Huijsen’s dismissal. The article keeps the criticism attributed to Marca rather than presenting it as an independently established judgment.",
-      "selectionReason": "Fresh international football report about a single derby and a distinct player-performance assessment; selected instead of the separate Nacho defense report to avoid duplicating the same Vini-Atlético match.",
+      "articleId": "corinthians-e-sao-paulo-decidem-o-titulo-do-brasileirao-feminino-2026",
+      "url": "https://imprensa24h.com.br/corinthians-sao-paulo-final-brasileirao-feminino/",
+      "publishedAt": "2026-09-22T21:31:59+00:00",
+      "evidence": "Original source: research/runs/2026-09-23T11-31-23-014Z-8d26ca21-0863-4450-82bc-1cdf26820144/extractions/esportes/6244ff55df3b.json (HTTP 200, complete=true, 21 paragraphs, no warnings). Official CBF corroboration: https://www.cbf.com.br/futebol-brasileiro/noticias/campeonato-brasileiro-feminino-a1/a/sao-paulo-e-corinthians-decidem-brasileirao-feminino-na-neo-quimica-arena-e-no-morum-bis (HTTP 200, complete=true, 8 paragraphs, no warnings; local extraction: research/runs/2026-09-23T11-31-23-014Z-8d26ca21-0863-4450-82bc-1cdf26820144/focused/sports-corrob-12.json) confirms finalists, venues, dates, 16:30 kickoffs and semifinal aggregates, and supplies the 2025 attendance context. Both locales clarify that 16:30 is Brasília time. The article keeps the 2026 title undecided at cutoff.",
+      "selectionReason": "The upcoming national final has confirmed dates, venues and verified semifinal paths; it is a high-relevance women's football event, reported as a fixture rather than a completed result.",
       "contentReview": {
         "bodyComplete": true,
         "aiSummaryReviewed": true
       }
     },
     {
-      "articleId": "esportes-2026-09-22-nautico-crise-classico-sport",
-      "url": "https://ge.globo.com/pe/futebol/times/nautico/noticia/2026/09/22/crise-volta-a-rondar-o-nautico-antes-de-classico-e-em-plena-reta-final-da-serie-b.ghtml",
-      "publishedAt": "2026-09-22T04:00:00.886-03:00",
-      "evidence": "Complete extraction research/runs/2026-09-22T11-21-20-336Z-6df281a2-9343-4cb7-a1b3-001b9e9a3dde/extractions/esportes/c08f7a1041c5.json was retrieved with status 200, complete=true, 17 paragraphs and no warnings. Published at 2026-09-22T04:00:00.886-03:00, it reports Náutico’s 3-0 defeat by Cuiabá, the Saturday Sport derby, 38 points, the eight-point distance from the relegation zone, nine rounds remaining, the upcoming matches against Fortaleza, Novorizontino and Vila Nova, and the coaches’ pressure.",
-      "selectionReason": "Fresh competition-context report with a scheduled derby, table position and relegation implications; selected as a distinct Náutico story rather than another account of a previously selected match.",
+      "articleId": "campeonato-capixaba-serie-b-2026-conheca-a-selecao-dos-melhores-ge",
+      "url": "https://ge.globo.com/es/futebol/capixaba-serie-b/noticia/2026/09/23/campeonato-capixaba-serie-b-2026-conheca-a-selecao-dos-melhores.ghtml",
+      "publishedAt": "2026-09-23T01:39:34.401-03:00",
+      "evidence": "Original source: research/runs/2026-09-23T11-31-23-014Z-8d26ca21-0863-4450-82bc-1cdf26820144/extractions/esportes/7316937eef65.json (HTTP 200, complete=true, 28 paragraphs, no warnings). Official federation report: https://futebolcapixaba.com/2026/09/estrela-comemora-o-titulo-do-capixabao-serie-b-diante-de-mais-de-4-300-pessoas-no-sumare/ (HTTP 200, complete=true, no warnings) confirms the 1-1 final, Estrela's 4-3 penalty win and both clubs' promotion. The all-star selections remain attributed to the journalists identified by GE.",
+      "selectionReason": "A post-final awards story brings coverage of a regional competition and its promoted clubs; the match result is independently confirmed, while the media-voted lineup is explicitly attributed.",
       "contentReview": {
         "bodyComplete": true,
         "aiSummaryReviewed": true
       }
     },
     {
-      "articleId": "esportes-2026-09-22-paratletas-ceara-parascesc",
-      "url": "https://ge.globo.com/ce/noticia/2026/09/21/paratletas-cearenses-rompem-limites-e-inspiram-por-meio-do-esporte-conheca-historias.ghtml",
-      "publishedAt": "2026-09-21T17:31:28.474-03:00",
-      "evidence": "Complete extraction research/runs/2026-09-22T11-21-20-336Z-6df281a2-9343-4cb7-a1b3-001b9e9a3dde/extractions/esportes/2b7b34260148.json was retrieved with status 200, complete=true, 43 paragraphs and no warnings. Published at 2026-09-21T17:31:28.474-03:00, it covers Andreza Lima, Carlinhos Rocha and Ivanilda Santos, the ParaSesc partnership and 27 modalities, blind-football and wheelchair-fencing details, Andreza’s national-team and championship record, Ivanilda’s Class A context and the stated goal of more than 3,000 participants.",
-      "selectionReason": "Substantive inclusive-sports feature published within the preceding day, with multiple athletes, named modalities, event scale and attributed participation goals; selected for breadth and public relevance.",
+      "articleId": "jean-drosny-pede-confianca-e-ve-jogo-em-limeira-como-final-para-o-paysandu",
+      "url": "https://www.oliberal.com/esportes/paysandu/jean-drosny-pede-confianca-e-ve-jogo-em-limeira-como-final-para-o-paysandu-1.1171964",
+      "publishedAt": "2026-09-22T19:02:00-03:00",
+      "evidence": "Original source: research/runs/2026-09-23T11-31-23-014Z-8d26ca21-0863-4450-82bc-1cdf26820144/extractions/esportes/886e98ed4d00.json (HTTP 200, complete=true, 15 paragraphs, no warnings). Independent same-event report: https://ge.globo.com/pa/futebol/times/paysandu/noticia/2026/09/22/drosny-pede-voto-de-confianca-a-torcida-do-paysandu-nao-desacreditem-da-gente.ghtml (HTTP 200, complete=true, no warnings) confirms the 2-2 draw, Drosny's return, one point after three group matches and the September 26 fixture. The figurative 'final' wording is attributed to Drosny.",
+      "selectionReason": "Current Série C access-group coverage combines a confirmed score, table pressure and a player statement ahead of the next match; the player's metaphor is not presented as an official final.",
       "contentReview": {
         "bodyComplete": true,
         "aiSummaryReviewed": true
       }
     },
     {
-      "articleId": "esportes-2026-09-22-santos-atraso-pagamentos",
-      "url": "https://ge.globo.com/sp/santos-e-regiao/futebol/times/santos/noticia/2026/09/21/pode-ser-que-haja-atraso-diz-marcelo-teixeira-sobre-o-pagamento-a-jogadores-do-santos.ghtml",
-      "publishedAt": "2026-09-21T14:48:34.701-03:00",
-      "evidence": "Complete extraction research/runs/2026-09-22T11-21-20-336Z-6df281a2-9343-4cb7-a1b3-001b9e9a3dde/extractions/esportes/14355b149149.json was retrieved with status 200, complete=true and no warnings. Published at 2026-09-21T14:48:34.701-03:00, it records Marcelo Teixeira’s admission that Santos could delay image-rights payments, the financial effect of the Copa Sul-Americana elimination, his denial that new signings significantly damaged the budget, the planned review of the Brazilian league run-in, contract talks and his comments on the club manifesto about regulated betting.",
-      "selectionReason": "Current club-finance report with direct presidential remarks, a concrete payment deadline and broader squad-management implications; selected as a distinct institutional story and replacement for a curiosity-focused item.",
+      "articleId": "lider-da-serie-b-vila-nova-acerta-defesa-e-faz-contas-pelo-acesso",
+      "url": "https://www.futebolinterior.com.br/vila-nova-faz-contas-pelo-acesso/",
+      "publishedAt": "2026-09-22T12:31:43-03:00",
+      "evidence": "Original source: research/runs/2026-09-23T11-31-23-014Z-8d26ca21-0863-4450-82bc-1cdf26820144/extractions/esportes/988a8b12bb34.json (HTTP 200, complete=true, 16 paragraphs, no warnings). GE corroboration: https://ge.globo.com/google/amp/go/futebol/times/vila-nova/noticia/2026/09/22/guto-ferreira-explica-evolucao-do-vila-nova-agora-lider-da-serie-b-melhoria-da-nossa-defesa.ghtml (HTTP 200, complete=true, no warnings) confirms 51 points, nine rounds remaining, cited results and Guto's defensive assessment. The unsupported five-win promotion projection is excluded.",
+      "selectionReason": "The Série B leader's defensive form is supported by two sports reports and adds a competitive-race angle; the copy avoids converting a source projection into a promotion guarantee.",
       "contentReview": {
         "bodyComplete": true,
         "aiSummaryReviewed": true
       }
     },
     {
-      "articleId": "esportes-2026-09-22-copa-brasil-pagamentos-2027",
-      "url": "https://oglobo.globo.com/esportes/futebol/noticia/2026/09/21/apos-faturamento-recorde-copa-do-brasil-tera-mudancas-na-forma-de-pagamento-aos-clubes-saiba-quais.ghtml",
-      "publishedAt": "2026-09-21T17:00:40.393-03:00",
-      "evidence": "Complete extraction research/runs/2026-09-22T11-21-20-336Z-6df281a2-9343-4cb7-a1b3-001b9e9a3dde/extractions/esportes/f29b685e952f.json was retrieved with status 200, complete=true, 11 paragraphs and no warnings. Published at 2026-09-21T17:00:40.393-03:00, it reports the CBF’s planned 2027 fixed payment for Serie A and B clubs, the unchanged performance-based prize, the near-R$4 billion 2027-2030 TV-rights cycle, permitted uses for debt reduction or infrastructure, accountability requirements, and the absence of disclosed individual amounts.",
-      "selectionReason": "Current national competition administration report with material financial changes and explicit limits on what was announced; selected for broad club impact and distinct subject matter.",
+      "articleId": "para-assistir-na-data-fifa-os-melhores-filmes-e-series-sobre-futebol",
+      "url": "https://placar.com.br/placar/para-assistir-na-data-fifa-os-melhores-filmes-e-series-sobre-futebol/",
+      "publishedAt": "2026-09-22T18:36:18.000Z",
+      "evidence": "Original source: research/runs/2026-09-23T11-31-23-014Z-8d26ca21-0863-4450-82bc-1cdf26820144/extractions/esportes/c8bdf8c425fb.json (HTTP 200, complete=true, 46 paragraphs, no warnings). No independent corroborating URL was captured; this is a curated service guide. The copy paraphrases broad themes, omits streaming availability claims and does not turn the guide into a match report.",
+      "selectionReason": "The current international break makes this football-culture guide timely; the article is framed as a thematic selection, not as hard news or a claim about current platform catalogs.",
       "contentReview": {
         "bodyComplete": true,
         "aiSummaryReviewed": true
       }
     },
     {
-      "articleId": "esportes-2026-09-22-fortaleza-g2-serie-b",
-      "url": "https://www.opovo.com.br/esportes/futebol/times/fortaleza/2026/09/21/fortaleza-tera-sequencia-decisiva-em-casa-para-se-firmar-no-g-2-da-serie-b.html",
-      "publishedAt": "2026-09-21T16:31:40-0300",
-      "evidence": "Complete extraction research/runs/2026-09-22T11-21-20-336Z-6df281a2-9343-4cb7-a1b3-001b9e9a3dde/extractions/esportes/b23a8cc3be50.json was retrieved with status 200, complete=true, 15 paragraphs and no warnings. Published at 2026-09-21T16:31:40-0300, it records Fortaleza’s ten-match unbeaten run, three away wins, home results, second place with 51 points, the six-point gap over CRB, UFMG’s stated projections and the upcoming Athletic, Náutico and América-MG matches.",
-      "selectionReason": "Current table and promotion-race report with complete results, projections and a defined upcoming sequence; selected for competitive significance and distinct coverage from Náutico’s separate crisis story.",
+      "articleId": "india-at-asian-games-highlights-from-day-4-action-as-mirabai-chanu-won-silver-men-s-team-b",
+      "primarySection": "esportes",
+      "secondarySections": [],
+      "secondarySectionRationale": {},
+      "url": "https://www.espn.com/espn/story/_/id/50006525/india-asian-games-live-updates-scores-news-results-commentary-schedule-timings-september-23-2026-aichi-nagoya",
+      "publisher": "ESPN",
+      "headline": "India at Asian Games: Highlights from Day 4 action as Mirabai Chanu won silver, men's team badminton among four bronzes won",
+      "publishedAt": "2026-09-23T06:44:00-04:00",
+      "publishedDate": "2026-09-23",
+      "publicationPrecision": "minute",
+      "publicationEvidence": "Immutable selection.json identifies ESPN as the selected publisher and preserves the exact publishedAt string 2026-09-23T06:44:00-04:00 at minute precision (normalized in the selection to 2026-09-23T10:44:00Z). The frozen timestamp establishes selected-item identity/publication metadata only; it does not establish that the post-cutoff-captured live-blog body was available at cutoff. No separate updatedAt value is asserted.",
+      "sourceEvidencePath": "research/runs/2026-09-23T11-31-23-014Z-8d26ca21-0863-4450-82bc-1cdf26820144/focused/recovery/expanded/esportes/onmanorama-20260923073110.cleaned-extraction.json",
+      "evidence": "The revised article is narrowed to Mirabai Chanu's women's 49 kg silver and directly reported event/profile details; the broad ESPN Day 4 roundup claims are not retained. A complete Onmanorama article body was fetched from its Wayback capture at 2026-09-23T07:31:10Z, before the immutable cutoff 2026-09-23T11:31:23.014Z. The CDX row records original status 200, MIME text/html, length 58,820 and digest W2WD3ZXQ6AXTZ4ZGWCVDLVVCDKWZP75P; the 57,109-byte replay payload's SHA-1/Base32 matches that digest and its SHA-256 is 382a6f910b8cd30608ec8ac2aeb3ba570a7f6b1b956638da2438481d6642b474. The page body was completeness-checked as six article paragraphs/189 words and supports Chanu's 198 kg total (87+111), India's prior 1998 bronze by Karnam Malleswari, Ri Song Gum's 215 kg gold/third consecutive title, Chanu's snatch progression and medal profile. The ignored extraction retains the complete claim paraphrase and provenance, not the full copyrighted prose; the timestamped archive remains re-fetchable. The selected ESPN extraction was retrieved at 2026-09-23T11:33:19.372Z, after cutoff, and is not used as cutoff-body evidence. Other Day 4 sports results and the Indonesian bronze are omitted, not treated as disproved. The earlier claim that Malleswari finished second in 1998 was corrected to bronze.",
+      "extractionGates": {
+        "httpStatus": 200,
+        "complete": true,
+        "paragraphCount": 6,
+        "warnings": [],
+        "passed": true,
+        "bodyContaminationNote": "The complete Onmanorama archive page was re-fetched, its replay payload matched the pre-cutoff Wayback CDX digest, and the visible article body passed six-paragraph/189-word completeness checks with no warnings; raw copyrighted prose is not retained in the ignored claim-extraction artifact. The selected ESPN live-blog capture was retrieved after cutoff and is not used as cutoff evidence or to support the narrowed report."
+      },
+      "corroboratingSources": [
+        {
+          "url": "https://oca.asia/news/7991-dprk-weightlifter-ri-completes-asian-games-three-peat.html",
+          "matchingFacts": "Post-cutoff fact-check context only: confirms Chanu's 49 kg silver/198 kg total and Ri's third consecutive title; it is not cutoff-body evidence."
+        },
+        {
+          "url": "https://manipurpolice.gov.in/?p=44347",
+          "matchingFacts": "Post-cutoff fact-check context only: the live Government of Manipur/Manipur Police page confirms Chanu's 49 kg silver and 198 kg total (87+111). Its displayed update label is metadata, not immutable pre-cutoff body evidence."
+        }
+      ],
+      "corroborationNote": "The narrowed copy relies on the complete, timestamped pre-cutoff Onmanorama archive body. OCA and Manipur Police pages are later fact-check context only; their publication/update metadata does not replace the archived body as cutoff proof. The selected ESPN body was retrieved after cutoff and is not used to support the copy. Absence of other sports results from the single-event Onmanorama report is not a contradiction.",
+      "recoveryEvidence": {
+        "preCutoffArchiveSnapshots": [
+          {
+            "publisher": "Onmanorama",
+            "originalUrl": "https://www.onmanorama.com/sports/other-sports/2026/09/23/mirabai-chanu-ends-asian-games-medal-wait-lifts-silver-in-weightlifting.html",
+            "archiveUrl": "https://web.archive.org/web/20260923073110id_/https://www.onmanorama.com/sports/other-sports/2026/09/23/mirabai-chanu-ends-asian-games-medal-wait-lifts-silver-in-weightlifting.html",
+            "capturedAt": "2026-09-23T07:31:10Z",
+            "cutoff": "2026-09-23T11:31:23.014Z",
+            "capturePrecedesCutoffSeconds": 14413,
+            "cdxStatus": 200,
+            "cdxMimeType": "text/html",
+            "cdxLengthBytes": 58820,
+            "cdxDigest": "W2WD3ZXQ6AXTZ4ZGWCVDLVVCDKWZP75P",
+            "replayPayloadBytes": 57109,
+            "sha256ReplayPayload": "382a6f910b8cd30608ec8ac2aeb3ba570a7f6b1b956638da2438481d6642b474",
+            "articleParagraphCount": 6,
+            "articleWordCount": 189,
+            "supports": "Chanu's 49 kg silver, 198 kg total (87+111), India's first Asian Games weightlifting medal since Malleswari's 1998 bronze, Ri Song Gum's 215 kg gold/third consecutive title, Chanu's snatch progression and career medal profile.",
+            "role": "Pre-cutoff body evidence for the narrowed selected event; archive capture timestamp and CDX digest, not later retrieval time, establish cutoff provenance."
+          }
+        ],
+        "selectedSourceBodyCapture": {
+          "path": "research/runs/2026-09-23T11-31-23-014Z-8d26ca21-0863-4450-82bc-1cdf26820144/extractions/esportes/3c1125034a4.json",
+          "retrievedAt": "2026-09-23T11:33:19.372Z",
+          "retrievedAfterCutoff": true,
+          "role": "Selected ESPN identity/publication metadata only; its post-cutoff body is not used as cutoff evidence or to expand the narrowed article."
+        },
+        "retentionNote": "The complete replay payload was re-fetched and matched to the Wayback CDX digest. The ignored evidence file stores a complete claim paraphrase and provenance, not full copyrighted source prose; the timestamped archive remains available for independent re-fetch."
+      },
+      "reviewFlags": [
+        "The selected ESPN body was retrieved 1m56.358s after cutoff and is not used to substantiate this copy.",
+        "The Onmanorama capture is a single-event weightlifting report; unrelated Day 4 results and the Indonesian bronze are omitted, not disproved.",
+        "The pre-cutoff Onmanorama body identifies Malleswari's 1998 Asian Games medal as bronze; the former second-place claim has been removed."
+      ],
+      "selectionReason": "The immutable ESPN selected identity, publication timestamp and esportes order are retained, but the public copy is narrowed to the same central Mirabai Chanu 49 kg silver event. The timestamped pre-cutoff Onmanorama body supports the revised claims; unsupported Day 4 roundup results are omitted rather than inferred.",
       "contentReview": {
         "bodyComplete": true,
         "aiSummaryReviewed": true
       }
     },
     {
-      "articleId": "esportes-2026-09-22-santa-teresa-fc-base-feminino",
-      "url": "https://ge.globo.com/es/futebol/noticia/2026/09/21/santa-teresa-fc-novo-time-do-espirito-santo-vai-iniciar-atividades-na-base-e-no-feminino.ghtml",
-      "publishedAt": "2026-09-21T10:35:56.613-03:00",
-      "evidence": "Complete extraction research/runs/2026-09-22T11-21-20-336Z-6df281a2-9343-4cb7-a1b3-001b9e9a3dde/extractions/esportes/cdca9ce6df9d.json was retrieved with status 200, complete=true, 19 paragraphs and no warnings. Published at 2026-09-21T10:35:56.613-03:00, it reports Santa Teresa FC’s April 29, 2026 formalization, the 2027 youth and women’s plans, the 2029-2030 professional target, the club’s culture and tourism project, the planned registrations and the pending stadium and municipal-field authorization.",
-      "selectionReason": "Current club-development report with a complete 2027 plan, women’s and youth participation and a professional target; selected to broaden the desk beyond match results and top divisions.",
+      "articleId": "ex-arbitro-sidrack-marinho-e-o-convidado-do-zyb-podcast-desta-quarta-ge",
+      "url": "https://ge.globo.com/se/noticia/2026/09/22/ex-arbitro-sidrack-marinho-e-o-convidado-do-zyb-podcast-desta-quarta.ghtml",
+      "publishedAt": "2026-09-22T18:04:52.749-03:00",
+      "evidence": "Original source: research/runs/2026-09-23T11-31-23-014Z-8d26ca21-0863-4450-82bc-1cdf26820144/extractions/esportes/fffcc5e1a936.json (HTTP 200, complete=true, 10 extracted paragraphs, 216 words, no warnings). GE’s full September 22 preview identifies episode 85, guest Sidrack Marinho, planned September 23 15:00 live time, hosts and biographical claims; the episode was still pending at the immutable cutoff. Schedule context: GE’s September 8 report, https://ge.globo.com/google/amp/se/noticia/2026/09/08/novo-gerente-do-sergipe-jorge-junior-e-o-convidado-do-zyb-podcast.ghtml, states that the weekly edition airs Wednesdays at 15:00 on FM Sergipe’s YouTube channel. The original preview links the ZYB episodes playlist at https://www.youtube.com/watch?list=PLFxU_RWstUcbQFF7FNoQ9c_kwxTipf5P5&v=R2I0DS1uagc and identifies it as the FM Sergipe channel; direct YouTube retrieval was throttled, so no playlist contents or post-cutoff episode status are asserted. An official Federação Sergipana de Futebol notice, https://fsf-se.com.br/milton-dantas-e-primeiro-convidado-de-2025-do-zyb-podcast-esporte-clube/, gives the same schedule but explicitly credits GE; it is an institutional schedule mirror, not independent corroboration. These supplemental schedule references were reviewed at 2026-09-24T00:17:49Z UTC, after the candidate cutoff, and used only to check the standing schedule, not to change story eligibility. Biography and career details remain attributed to GE; the five-paragraph body uses only details from the complete extraction and cited schedule references.",
+      "selectionReason": "Retained as a timely, low-risk local sports-media preview: the complete September 22 source announces episode 85 and the pre-cutoff September 8 GE schedule report confirms the recurring Wednesday 15:00 slot; the linked FM Sergipe playlist identifies the outlet. The FSF notice repeats the schedule but credits GE, so it is not treated as independent corroboration. Copy remains a scheduled preview at cutoff, with biography attributed.",
       "contentReview": {
         "bodyComplete": true,
         "aiSummaryReviewed": true
       }
     },
     {
-      "articleId": "esportes-2026-09-22-nfl-rio-operacao-maracana",
-      "url": "https://oglobo.globo.com/rio/noticia/2026/09/21/nfl-no-rio-veja-esquema-de-transito-metro-seguranca-e-regras-para-o-jogo-no-maracana.ghtml",
-      "publishedAt": "2026-09-21T09:55:52.963-03:00",
-      "evidence": "Complete extraction research/runs/2026-09-22T11-21-20-336Z-6df281a2-9343-4cb7-a1b3-001b9e9a3dde/extractions/esportes/78cbc47357af.json was retrieved with status 200, complete=true, 29 paragraphs and no warnings. Published at 2026-09-21T09:55:52.963-03:00, it reports the September 27 Ravens-Cowboys game, gate opening, metro hours and gate-specific stations, parking restrictions and detours, 360 military police officers, 35 vehicles, 215 civil police agents and transparent-bag rules.",
-      "selectionReason": "Current service-oriented report for a major international sports event in Brazil, with exact transport, access and security instructions; selected for practical public impact and a distinct upcoming game.",
+      "articleId": "pedro-emanuel-supera-desconfianca-inicial-e-resgata-temporada-cruzmaltina",
+      "url": "https://www.terra.com.br/esportes/vasco/pedro-emanuel-supera-desconfianca-inicial-e-resgata-temporada-cruzmaltina,a19dbec8c8b36eb99f2a323ffe6aa1a1c80cwn78.html",
+      "publishedAt": "2026-09-22",
+      "evidence": "Original source: research/runs/2026-09-23T11-31-23-014Z-8d26ca21-0863-4450-82bc-1cdf26820144/extractions/esportes/e580c70880b2.json (HTTP 200, complete=true, 7 paragraphs, no warnings; source supplied a calendar date only). Official corroboration: CBF, https://www.cbf.com.br/futebol-brasileiro/noticias/campeonato-brasileiro-serie-a/a/vasco-goleia-coritiba-por-5-a-0-e-sai-do-z-4-do-brasileirao; CONMEBOL first leg, https://gol.conmebol.com/sudamericana/es/news/independiente-santa-fe-y-vasco-da-gama-igualaron-sin-goles-en-bogota; return leg, https://gol.conmebol.com/sudamericana/es/news/vasco-da-gama-hizo-pesar-la-localia-y-avanzo-las-semifinales. All three official pages were retrieved successfully and confirm the reported 5-0, 0-0 and 2-0 results. Unsupported classification counts and fan-sentiment claims are omitted.",
+      "selectionReason": "A current Vasco report is grounded in official league and CONMEBOL results, with the sequence and scores stated separately; the date-only publication evidence is preserved without inventing a time.",
       "contentReview": {
         "bodyComplete": true,
         "aiSummaryReviewed": true
@@ -126,7 +188,7 @@
     "en": ""
   },
   "improvements": [],
-  "candidateRun": "research/runs/2026-09-22T11-21-20-336Z-6df281a2-9343-4cb7-a1b3-001b9e9a3dde",
-  "retrievedAt": "2026-09-22T11:21:44.997Z",
-  "reviewStatus": "draft-source-verified-no-publication-approval"
+  "candidateRun": "research/runs/2026-09-23T11-31-23-014Z-8d26ca21-0863-4450-82bc-1cdf26820144",
+  "retrievedAt": "2026-09-23T11:31:37.337Z",
+  "reviewStatus": "draft-content-and-ai-summaries-reviewed-no-publication-approval"
 }

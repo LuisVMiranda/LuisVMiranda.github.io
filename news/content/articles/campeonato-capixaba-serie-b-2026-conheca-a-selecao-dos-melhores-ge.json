@@ -1,0 +1,104 @@
+{
+  "id": "campeonato-capixaba-serie-b-2026-conheca-a-selecao-dos-melhores-ge",
+  "slug": "campeonato-capixaba-serie-b-2026-conheca-a-selecao-dos-melhores-ge",
+  "section": "esportes",
+  "secondarySections": [],
+  "publishedAt": "2026-09-23T01:39:34.401-03:00",
+  "updatedAt": "2026-09-24T17:45:13.603Z",
+  "sources": [
+    {
+      "name": "GE",
+      "url": "https://ge.globo.com/es/futebol/capixaba-serie-b/noticia/2026/09/23/campeonato-capixaba-serie-b-2026-conheca-a-selecao-dos-melhores.ghtml"
+    },
+    {
+      "name": "Federação de Futebol do Estado do Espírito Santo",
+      "url": "https://futebolcapixaba.com/2026/09/estrela-comemora-o-titulo-do-capixabao-serie-b-diante-de-mais-de-4-300-pessoas-no-sumare/"
+    }
+  ],
+  "rights": {
+    "mode": "original-report"
+  },
+  "translations": {
+    "pt-BR": {
+      "title": "Estrela domina seleção do Capixaba Série B após título nos pênaltis",
+      "summary": "Campeão teve sete jogadores no time ideal; Linhares também recebeu três indicações e levou prêmios individuais.",
+      "aiSummary": [
+        "Estrela do Norte venceu Linhares por 4 a 3 nos pênaltis após empate por 1 a 1 e conquistou o título.",
+        "Jornalistas de ge, A Gazeta Esportes e Globo Esporte escolheram a seleção da Série B capixaba.",
+        "Canário foi eleito craque; Wendy terminou como artilheiro, com nove gols, e Yupi Silva foi o melhor técnico."
+      ],
+      "paragraphs": [
+        "O Estrela do Norte venceu o Linhares FC por 4 a 3 nos pênaltis, depois de empate por 1 a 1, e conquistou o Capixaba Série B em 19 de setembro. A Federação de Futebol do Espírito Santo também informou que os dois finalistas já tinham garantido acesso à primeira divisão de 2027.",
+        "A seleção da competição foi escolhida por jornalistas dos portais ge e A Gazeta Esportes e do programa Globo Esporte, segundo o GE. O Estrela teve sete representantes no time ideal, além de Canário ser apontado como craque do campeonato.",
+        "A equipe ideal incluiu Léo Rodrigues no gol; Jairo e Willian Simões nas laterais; Ferrugem, do Estrela, e Dedé, do Rive, na zaga; e Matheus Santos como volante. A lista reúne atletas de três clubes diferentes.",
+        "No meio-campo aparecem Canário, do Estrela, e Wesley, do Linhares. O ataque foi formado por Gustavo Tonoli, do Estrela, e Wendy e Neto, do Linhares; Wendy marcou nove gols na competição.",
+        "Yupi Silva, do Linhares, foi escolhido melhor técnico, e Natanael, goleiro do Audax São Mateus, foi a revelação. Lucas Dedé, do Rive, apareceu na seleção em sua primeira temporada profissional, conforme o relato do GE."
+      ]
+    },
+    "en": {
+      "title": "Estrela dominates Capixaba Série B team of the season after shootout title",
+      "summary": "The champion placed seven players on the ideal team; Linhares had three selections and won individual awards.",
+      "aiSummary": [
+        "Estrela do Norte beat Linhares 4-3 on penalties after a 1-1 draw to win the title.",
+        "Journalists from ge, A Gazeta Esportes and Globo Esporte selected the Capixaba second-division team of the season.",
+        "Canário was named the competition's standout player; Wendy was top scorer with nine goals, and Yupi Silva was coach of the season."
+      ],
+      "paragraphs": [
+        "Estrela do Norte beat Linhares FC 4-3 on penalties after a 1-1 draw to win the Capixaba Série B title on September 19. The Espírito Santo Football Federation also said both finalists had already secured promotion to the 2027 top division.",
+        "The team of the season was selected by journalists from the ge and A Gazeta Esportes websites and the Globo Esporte program, according to GE. Estrela had seven players on the ideal team, and Canário was named the competition's standout player.",
+        "The selected lineup included Léo Rodrigues in goal; Jairo and Willian Simões at fullback; Estrela's Ferrugem and Rive's Dedé at center back; and Matheus Santos as the holding midfielder. The team included players from three clubs.",
+        "Canário, from Estrela, and Wesley, from Linhares, were selected in midfield. The forward line included Estrela's Gustavo Tonoli and Linhares players Wendy and Neto; Wendy scored nine goals in the competition.",
+        "Yupi Silva of Linhares was named coach of the season, while Audax São Mateus goalkeeper Natanael was chosen as the revelation. Lucas Dedé of Rive also made the team in his first professional season, GE reported."
+      ]
+    }
+  },
+  "verification": {
+    "score": 9.1,
+    "checkedAt": "2026-09-24T15:59:13Z",
+    "checks": [
+      {
+        "provider": "Aos Fatos",
+        "url": "https://www.aosfatos.org/",
+        "finding": "no-match",
+        "note": "Exact tournament/final/result searches found no relevant fact-check. Neutral."
+      },
+      {
+        "provider": "Agência Lupa",
+        "url": "https://www.agencialupa.org/",
+        "finding": "no-match",
+        "note": "No check of this Capixaba final or awards poll found; unrelated sports checks excluded. Neutral."
+      },
+      {
+        "provider": "Projeto Comprova",
+        "url": "https://projetocomprova.com.br/",
+        "finding": "no-match",
+        "note": "No relevant fact-check found for the final, promotion, or lineup. Neutral."
+      },
+      {
+        "provider": "AFP Fact Check",
+        "url": "https://factcheck.afp.com/",
+        "finding": "no-match",
+        "note": "No relevant international fact-check found for this regional result. Neutral."
+      },
+      {
+        "provider": "Reuters Fact Check",
+        "url": "https://www.reuters.com/fact-check/",
+        "finding": "no-match",
+        "note": "No relevant fact-check found for the event or selected lineup. Neutral."
+      },
+      {
+        "provider": "Full Fact",
+        "url": "https://fullfact.org/",
+        "finding": "no-match",
+        "note": "No relevant fact-check found for this event. Neutral."
+      },
+      {
+        "provider": "Federação de Futebol do Estado do Espírito Santo",
+        "url": "https://futebolcapixaba.com/2026/09/estrela-comemora-o-titulo-do-capixabao-serie-b-diante-de-mais-de-4-300-pessoas-no-sumare/",
+        "finding": "supports",
+        "note": "The federation confirms the 1–1 final, Estrela do Norte's 4–3 shootout win, and both finalists' promotion."
+      }
+    ],
+    "caveat": "The governing body corroborates the result and promotion. The all-star team, coach, and individual awards are a journalist selection reported by GE, not an objective competition table; the article attributes the poll and claims."
+  }
+}

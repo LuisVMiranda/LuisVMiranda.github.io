@@ -1,0 +1,107 @@
+{
+  "id": "gilmar-propoe-que-stf-analise-caso-de-usinas-apos-mensagens-sobre-kassio-cnn-brasil",
+  "slug": "gilmar-propoe-que-stf-analise-caso-de-usinas-apos-mensagens-sobre-kassio-cnn-brasil",
+  "section": "politica",
+  "secondarySections": [],
+  "publishedAt": "2026-09-22T17:54:32-03:00",
+  "publishedDate": "2026-09-22",
+  "updatedAt": "2026-09-24T17:45:13.603Z",
+  "sources": [
+    {
+      "name": "CNN Brasil",
+      "url": "https://www.cnnbrasil.com.br/politica/gilmar-propoe-que-stf-analise-caso-de-usinas-apos-mensagens-sobre-kassio/"
+    },
+    {
+      "name": "Correio Braziliense",
+      "url": "https://www.correiobraziliense.com.br/politica/2026/09/7506020-gilmar-quer-levar-ao-plenario-disputa-sobre-indenizacao-a-usinas.html"
+    }
+  ],
+  "rights": {
+    "mode": "original-report"
+  },
+  "translations": {
+    "pt-BR": {
+      "title": "Gilmar pede que STF avalie envio ao plenário de disputa sobre usinas",
+      "summary": "A Segunda Turma decidirá se remete ao plenário um recurso sobre indenizações; essa etapa não define se a União deve pagar nem qual seria o valor.",
+      "aiSummary": [
+        "Gilmar Mendes propôs levar ao plenário uma discussão sobre indenizações a usinas sucroalcooleiras.",
+        "A Segunda Turma deve decidir sobre o encaminhamento entre 25 de setembro e 2 de outubro.",
+        "O julgamento não decide o direito à indenização nem seu valor."
+      ],
+      "paragraphs": [
+        "O ministro Gilmar Mendes propôs que o Supremo Tribunal Federal analise, no plenário, uma controvérsia sobre indenizações a usinas de açúcar e álcool. A Segunda Turma deve decidir primeiro se encaminha o recurso ao conjunto dos 11 ministros, em sessão virtual prevista de 25 de setembro a 2 de outubro.",
+        "O processo opõe a União à Raízen Energia e trata de prejuízos atribuídos à antiga política de controle de preços do Instituto do Açúcar e do Álcool. A questão jurídica é se cada empresa precisa apresentar perícia própria para demonstrar perdas, inclusive quando uma decisão definitiva já estabeleceu critérios de cálculo.",
+        "Gilmar defende uma análise pelo plenário para que o tribunal adote um entendimento uniforme, que possa orientar outros processos semelhantes. A etapa marcada para a Segunda Turma, porém, decide apenas se o tema será enviado ao plenário; não define se a União deve indenizar as empresas nem fixa valores.",
+        "A disputa ganhou atenção após a divulgação de mensagens extraídas do celular do ex-banqueiro Daniel Vorcaro. A CNN informou que a advogada Camilla Ramos comemorou uma decisão anterior do ministro Kassio Nunes Marques sobre a tese jurídica; a reportagem também citou negociações de honorários de um escritório com o Banco Master, condicionados a resultados em processos do setor.",
+        "Nunes Marques afirmou, em nota à CNN, que nunca votou em favor de Vorcaro ou do Banco Master e que o caso anterior examinava uma tese jurídica geral, aplicável a diferentes empresas. A mensagem atribuída à advogada e as negociações relatadas não demonstram, por si, favorecimento ou irregularidade.",
+        "O Supremo já havia discutido se a prova de prejuízos exige perícia individual em processos de usinas, mas o recurso atual ainda envolve uma questão de procedimento. Até o julgamento da Segunda Turma, o envio ao plenário permanecia uma proposta, e o mérito da disputa sobre indenização continuava pendente."
+      ]
+    },
+    "en": {
+      "title": "Gilmar asks Brazil’s top court to consider sending mill-compensation case to full bench",
+      "summary": "The Second Panel will decide whether to refer an appeal on compensation; that step will not determine whether the government must pay or how much.",
+      "aiSummary": [
+        "Gilmar Mendes proposed sending a dispute over sugar and ethanol mill compensation to the full court.",
+        "The Second Panel is scheduled to decide on referral between September 25 and October 2.",
+        "The proceeding does not decide entitlement to compensation or its amount."
+      ],
+      "paragraphs": [
+        "Justice Gilmar Mendes proposed that Brazil’s Supreme Federal Court consider in a full-bench session a dispute over compensation for sugar and ethanol mills. The Second Panel must first decide whether to refer the appeal to all 11 justices, in a virtual session scheduled from September 25 through October 2.",
+        "The case pits the federal government against Raízen Energia and concerns losses attributed to the former Sugar and Alcohol Institute’s price-control policy. The legal question is whether each company must provide its own expert assessment of losses, including when a final judgment has already set calculation criteria.",
+        "Gilmar says full-bench consideration would allow the court to adopt a uniform interpretation that could guide similar cases. The Second Panel’s scheduled step, however, concerns only referral; it will not decide whether the government owes compensation or set any amounts.",
+        "The dispute drew attention after messages extracted from former banker Daniel Vorcaro’s phone were disclosed. CNN Brasil reported that lawyer Camilla Ramos celebrated an earlier ruling by Justice Kassio Nunes Marques on the legal theory; the report also described fee negotiations between a law firm and Banco Master, contingent on outcomes in sector cases.",
+        "Nunes Marques said in a statement to CNN that he had never voted in favor of Vorcaro or Banco Master and that the earlier case addressed a general legal theory applicable to different companies. The message attributed to the lawyer and the reported negotiations do not by themselves establish favoritism or misconduct.",
+        "The Supreme Court had previously considered whether mill-compensation claims require individual proof of losses, but the current appeal still presents a procedural question. Until the Second Panel rules, referral to the full bench remains a proposal, and the merits of the compensation dispute remain unresolved."
+      ]
+    }
+  },
+  "verification": {
+    "score": 9.2,
+    "checkedAt": "2026-09-24T14:42:39Z",
+    "checks": [
+      {
+        "provider": "CNN Brasil",
+        "url": "https://www.cnnbrasil.com.br/politica/gilmar-propoe-que-stf-analise-caso-de-usinas-apos-mensagens-sobre-kassio/",
+        "finding": "supports",
+        "note": "Complete saved report supports Gilmar's procedural proposal, the Second Panel's September 25–October 2 session, the Raízen/Union issue and the distinction between referral and compensation merits."
+      },
+      {
+        "provider": "Correio Braziliense",
+        "url": "https://www.correiobraziliense.com.br/politica/2026/09/7506020-gilmar-quer-levar-ao-plenario-disputa-sobre-indenizacao-a-usinas.html",
+        "finding": "supports",
+        "note": "Opened independent report confirms the question of order, parties, need for company-specific expert proof, virtual-session dates, and that the panel decides referral only—not liability or amount."
+      },
+      {
+        "provider": "Aos Fatos",
+        "url": "https://www.aosfatos.org/",
+        "finding": "no-match",
+        "note": "No fact-check of the referral or compensation dispute found; neutral."
+      },
+      {
+        "provider": "Agência Lupa",
+        "url": "https://www.agencialupa.org/",
+        "finding": "no-match",
+        "note": "Search results about unrelated claims involving Gilmar Mendes did not address this compensation case; no direct match."
+      },
+      {
+        "provider": "Projeto Comprova",
+        "url": "https://projetocomprova.com.br/",
+        "finding": "no-match",
+        "note": "No relevant fact-check of this procedural proposal found; neutral."
+      },
+      {
+        "provider": "AFP Fact Check",
+        "url": "https://factcheck.afp.com/",
+        "finding": "no-match",
+        "note": "No matching fact-check found; neutral."
+      },
+      {
+        "provider": "Reuters Fact Check",
+        "url": "https://www.reuters.com/fact-check/",
+        "finding": "no-match",
+        "note": "Search surfaced older, unrelated claims about Gilmar and STF videos, not this case; neutral."
+      }
+    ],
+    "caveat": "Two independent reports agree on the procedural posture and date. The article appropriately treats the alleged messages and fee arrangements as reporting context, not proof of favoritism; it states that the Second Panel session concerns referral rather than entitlement or amount."
+  }
+}

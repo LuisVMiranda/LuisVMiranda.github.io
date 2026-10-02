@@ -1,0 +1,86 @@
+{
+  "id": "macbeth-desafia-a-maldicao-na-reabertura-do-d-maria-ii-em-lisboa",
+  "slug": "macbeth-desafia-a-maldicao-na-reabertura-do-d-maria-ii-em-lisboa",
+  "section": "cultura",
+  "secondarySections": [],
+  "publishedAt": "2026-09-18T08:02:46+02:00",
+  "updatedAt": "2026-09-24T17:45:13.603Z",
+  "sources": [
+    {
+      "name": "Euronews",
+      "url": "https://pt.euronews.com/2026/09/18/macbeth-desafia-a-maldicao-na-reabertura-do-teatro-d-maria-ii-em-lisboa"
+    },
+    {
+      "name": "Teatro Nacional D. Maria II",
+      "url": "https://tndm.pt/macbeth"
+    }
+  ],
+  "rights": {
+    "mode": "original-report"
+  },
+  "translations": {
+    "pt-BR": {
+      "title": "“Macbeth” reabre o Teatro D. Maria II após obras em Lisboa",
+      "summary": "A peça de Shakespeare abriu a nova temporada do teatro lisboeta em 18 de setembro, em uma montagem que retoma a história do incêndio de 1964.",
+      "aiSummary": [
+        "O Teatro Nacional D. Maria II reabriu em 18 de setembro com uma nova montagem de Macbeth.",
+        "A produção usa fogo cênico para retomar a memória do incêndio que destruiu o edifício em 1964.",
+        "A temporada da peça está prevista até 31 de outubro, na Sala Garrett."
+      ],
+      "paragraphs": [
+        "O Teatro Nacional D. Maria II, em Lisboa, reabriu em 18 de setembro após obras de requalificação, e escolheu Macbeth para inaugurar a nova etapa. A produção de Pedro Penim tem temporada prevista até 31 de outubro na Sala Garrett.",
+        "A escolha retoma uma coincidência histórica: a tragédia de Shakespeare estava em cartaz quando um incêndio destruiu o edifício, em 1964. A montagem atual usa fogo real em cena como elemento simbólico ligado à memória do teatro, não como acidente ou dano ao edifício.",
+        "Penim disse que a obra permite discutir a atração pelo mal e a forma como ele se exibe na sociedade contemporânea. O encenador também associou a reabertura e o retorno da peça ao peso que o incêndio deixou na história da instituição.",
+        "José Raposo interpreta Macbeth e Bárbara Branco vive Lady Macbeth. O cenário de Joana Sousa reproduz a fachada do teatro no Rossio, enquanto uma das personagens representa a própria rainha Maria II.",
+        "Como não obteve autorização para usar a tradução de Manuel Bandeira, empregada na montagem de 1964, Penim preparou uma nova versão de Shakespeare, que será publicada em livro. As obras também modernizaram a sala principal, com palco rotativo e elevatório e melhorias de luz, som e mecânica cênica."
+      ]
+    },
+    "en": {
+      "title": "Macbeth reopens Lisbon’s D. Maria II Theatre after renovation",
+      "summary": "Shakespeare’s play opened the Lisbon theatre’s new season on September 18 in a staging that recalls the building’s 1964 fire.",
+      "aiSummary": [
+        "The National D. Maria II Theatre reopened on September 18 with a new production of Macbeth.",
+        "The production uses stage fire to revisit the memory of the blaze that destroyed the building in 1964.",
+        "The play is scheduled to run in the Garrett Room through October 31."
+      ],
+      "paragraphs": [
+        "Lisbon’s National D. Maria II Theatre reopened on September 18 after renovation work and chose Macbeth to mark its return. Pedro Penim’s production is scheduled to run in the Garrett Room through October 31.",
+        "The choice recalls a historical coincidence: Shakespeare’s tragedy was being staged when a fire destroyed the building in 1964. The new production uses real stage fire as a symbolic element tied to the theatre’s memory, not as an accident or damage to the venue.",
+        "Penim said the play allows audiences to consider the attraction of evil and the way it is displayed in contemporary society. The director also connected the reopening and the return of Macbeth to the fire’s lasting place in the institution’s history.",
+        "José Raposo plays Macbeth and Bárbara Branco is Lady Macbeth. Joana Sousa’s set recreates the theatre’s façade in Lisbon’s Rossio square, while one character represents Queen Maria II.",
+        "After permission to use Manuel Bandeira’s translation—the version used in the 1964 production—was not secured, Penim prepared a new translation of Shakespeare that is due to be published as a book. Renovation also upgraded the main auditorium with a revolving, elevating stage and improvements to lighting, sound and stage machinery."
+      ]
+    }
+  },
+  "verification": {
+    "score": 9.2,
+    "checkedAt": "2026-09-24T14:17:43Z",
+    "checks": [
+      {
+        "provider": "Euronews",
+        "url": "https://pt.euronews.com/2026/09/18/macbeth-desafia-a-maldicao-na-reabertura-do-teatro-d-maria-ii-em-lisboa",
+        "finding": "supports",
+        "note": "Original report supports the September 18 reopening, 1964 fire context, cast, director's remarks and use of stage fire."
+      },
+      {
+        "provider": "Teatro Nacional D. Maria II",
+        "url": "https://tndm.pt/macbeth",
+        "finding": "supports",
+        "note": "Official production page confirms Macbeth as the reopening production, first performance on September 18 and Sala Garrett schedule through October 31."
+      },
+      {
+        "provider": "Aos Fatos",
+        "url": "https://www.aosfatos.org/",
+        "finding": "no-match",
+        "note": "Targeted Portuguese search for the theatre reopening and 1964 fire found no relevant fact-check; neutral, not evidence of truth."
+      },
+      {
+        "provider": "AFP Fact Check",
+        "url": "https://factcheck.afp.com/",
+        "finding": "no-match",
+        "note": "Targeted search for the production and historical claim found no relevant fact-check; neutral, not evidence of truth."
+      }
+    ],
+    "caveat": "The ‘Macbeth curse’ is presented as theatrical superstition and quoted interpretation, not a verifiable causal claim; no attendance or reception inference is made. Fact-check no-matches are neutral."
+  }
+}

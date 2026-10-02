@@ -1,0 +1,116 @@
+{
+  "id": "ibovespa-fecha-em-alta-e-dolar-fica-estavel-com-ata-do-copom-e-cenario-eleitoral",
+  "slug": "ibovespa-fecha-em-alta-e-dolar-fica-estavel-com-ata-do-copom-e-cenario-eleitoral",
+  "section": "economia",
+  "secondarySections": [],
+  "publishedAt": "2026-09-22T17:42:56-03:00",
+  "updatedAt": "2026-09-24T17:45:13.603Z",
+  "sources": [
+    {
+      "name": "Forbes Brasil",
+      "url": "https://forbes.com.br/geral/2026/09/ibovespa-fecha-em-alta-e-dolar-fica-estavel-com-ata-do-copom-e-cenario-eleitoral/"
+    },
+    {
+      "name": "Exame",
+      "url": "https://exame.com/invest/mercados/ibovespa-ibov-fechamento-22-09-2026/"
+    }
+  ],
+  "rights": {
+    "mode": "original-report"
+  },
+  "translations": {
+    "pt-BR": {
+      "title": "Ibovespa avança 0,44% e fecha acima de 187 mil pontos",
+      "summary": "O índice terminou o pregão de 22 de setembro aos 187.422,92 pontos; Forbes e Exame registraram pequenas diferenças em suas cotações do dólar.",
+      "aiSummary": [
+        "O Ibovespa subiu 0,44% e fechou em 187.422,92 pontos em 22 de setembro.",
+        "A Forbes reportou dólar à vista a R$ 5,1040, enquanto a Exame publicou R$ 5,103 e variação ligeiramente diferente.",
+        "A Forbes atribuiu a leitura de um pregão de espera à proximidade eleitoral e à análise da ata do Copom."
+      ],
+      "paragraphs": [
+        "No fechamento do pregão de terça-feira, 22 de setembro de 2026, o Ibovespa subiu 0,44%, para 187.422,92 pontos. A Forbes Brasil publicou seu relato às 17h42, no horário de Brasília, e informou mínima de 184.976,81 e máxima de 187.671,74 pontos durante a sessão.",
+        "A reportagem da Forbes descreveu a recuperação das ações da Petrobras como um dos apoios ao índice. Petrobras PN avançou 0,73% e ON subiu 0,61%, embora o Brent tenha recuado 1,09%, para US$ 99,25 por barril, segundo o mesmo relato.",
+        "No câmbio, a Forbes informou que o dólar à vista encerrou a sessão em baixa de 0,08%, a R$ 5,1040. A Exame também registrou a moeda perto de R$ 5,10, mas publicou variação negativa de 0,11% e cotação de R$ 5,103; os dois relatos, portanto, não coincidem exatamente nessa observação.",
+        "A Forbes registrou oscilações intradiárias do dólar entre R$ 5,1365, às 9h23, e R$ 5,0976, às 16h35. Rebecca Nossig, estrategista da Nomad, atribuiu a acomodação da moeda, em comentário citado pela publicação, a uma menor aversão externa ao risco; essa é a interpretação da analista, não uma causalidade demonstrada pelos preços.",
+        "A publicação também apontou que investidores acompanhavam a ata do Copom e o noticiário eleitoral. O documento manteve a indicação de política monetária restritiva com a Selic em 13,75% ao ano, e Jerson Zanlorenzi, do BTG Pactual, descreveu a bolsa como praticamente lateralizada enquanto o primeiro turno, marcado para 4 de outubro, se aproximava."
+      ]
+    },
+    "en": {
+      "title": "Ibovespa gains 0.44% to close above 187,000 points",
+      "summary": "The index ended the September 22 session at 187,422.92 points; Forbes and Exame reported slightly different dollar quotes.",
+      "aiSummary": [
+        "The Ibovespa rose 0.44% to close at 187,422.92 points on September 22.",
+        "Forbes reported spot dollar at R$5.1040, while Exame gave R$5.103 and a slightly different change.",
+        "Forbes described investors as waiting near the election and following the Copom minutes."
+      ],
+      "paragraphs": [
+        "At the close of trading on Tuesday, September 22, 2026, the Ibovespa gained 0.44% to 187,422.92 points. Forbes Brasil published its report at 5:42 p.m. Brasília time and gave an intraday low of 184,976.81 and a high of 187,671.74 points.",
+        "Forbes described a recovery in Petrobras shares as one support for the index. Petrobras preferred shares rose 0.73% and common shares gained 0.61%, even as Brent crude fell 1.09% to US$99.25 a barrel, according to the same report.",
+        "In foreign exchange, Forbes said spot dollar ended 0.08% lower at R$5.1040. Exame also placed the currency near R$5.10 but reported a 0.11% decline and a R$5.103 quote, so the two accounts do not match exactly on that observation.",
+        "Forbes recorded intraday dollar levels ranging from R$5.1365 at 9:23 a.m. to R$5.0976 at 4:35 p.m. Nomad strategist Rebecca Nossig attributed the currency's easing, in a comment quoted by the outlet, to lower external risk aversion; that is the analyst's interpretation, not a causal relationship established by the price data.",
+        "The report also said investors were following the Copom minutes and election coverage. The minutes retained a restrictive-policy stance with the Selic rate at 13.75% a year, while BTG Pactual's Jerson Zanlorenzi described stocks as nearly directionless as the first round, scheduled for October 4, approached."
+      ]
+    }
+  },
+  "verification": {
+    "score": 8.9,
+    "checkedAt": "2026-09-24T14:21:39Z",
+    "checks": [
+      {
+        "provider": "Aos Fatos",
+        "url": "https://aosfatos.org/",
+        "finding": "no-match",
+        "note": "Direct Portuguese site search for the September 22 Ibovespa close, 187,422.92 points and R$5.1040 dollar quote found no fact-check of this session; neutral, not evidence of truth."
+      },
+      {
+        "provider": "Agência Lupa",
+        "url": "https://www.agencialupa.org/",
+        "finding": "no-match",
+        "note": "Direct site search for the dated index close and dollar observation returned no matching fact-check; unrelated political/economic checks were not treated as verdicts."
+      },
+      {
+        "provider": "Projeto Comprova",
+        "url": "https://projetocomprova.com.br/",
+        "finding": "no-match",
+        "note": "Direct Portuguese search found no fact-check of the September 22 close; older dollar/election claims are not this market observation."
+      },
+      {
+        "provider": "Reuters Fact Check",
+        "url": "https://www.reuters.com/fact-check/",
+        "finding": "no-match",
+        "note": "Direct Portuguese/English searches for the precise date, index close and spot-dollar figures found no relevant fact-check; neutral."
+      },
+      {
+        "provider": "AFP Fact Check",
+        "url": "https://factcheck.afp.com/",
+        "finding": "no-match",
+        "note": "Direct Portuguese/English searches found no fact-check of this dated market close; unrelated Brazil checks were excluded."
+      },
+      {
+        "provider": "Full Fact",
+        "url": "https://fullfact.org/",
+        "finding": "no-match",
+        "note": "Direct English search for this Brazil-specific close found no matching fact-check; unrelated UK tax/equity results are not evidence about it."
+      },
+      {
+        "provider": "Google Fact Check Tools",
+        "url": "https://toolbox.google.com/factcheck/explorer",
+        "finding": "no-match",
+        "note": "Portuguese Explorer query for the September 22 Ibovespa close returned: no claims matching the query. Neutral; indexing absence is not verification."
+      },
+      {
+        "provider": "Forbes Brasil",
+        "url": "https://forbes.com.br/geral/2026/09/ibovespa-fecha-em-alta-e-dolar-fica-estavel-com-ata-do-copom-e-cenario-eleitoral/",
+        "finding": "supports",
+        "note": "Complete saved report gives the 0.44% close at 187,422.92, range 184,976.81–187,671.74, spot dollar R$5.1040/-0.08%, and attributed market explanations."
+      },
+      {
+        "provider": "Exame",
+        "url": "https://exame.com/invest/mercados/ibovespa-ibov-fechamento-22-09-2026/",
+        "finding": "supports",
+        "note": "Independent report matches the index close and session range; it gives a slightly different dollar quote/change (R$5.103/-0.11%), which the audited copy discloses rather than reconciling."
+      }
+    ],
+    "caveat": "Index close/range are independently matched. Forbes and Exame dollar observations differ slightly; explanations about currency moves remain attributed opinions, not proven causal effects."
+  }
+}

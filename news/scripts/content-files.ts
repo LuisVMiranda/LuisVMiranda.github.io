@@ -5,6 +5,7 @@ import {
   approvalSchema,
 } from '../src/modules/content/schema';
 import { validateCatalog } from '../src/modules/editions/integrity';
+import { sections } from '../src/modules/content/sections';
 
 export async function readContent() {
   const names = (await readdir('content/articles')).filter((name) =>
@@ -20,9 +21,17 @@ export async function readContent() {
   const editions = editionSchema
     .array()
     .parse(JSON.parse(await readFile('content/editions.json', 'utf8')));
+  const editorialManifests: Record<string, unknown> = Object.fromEntries(
+    await Promise.all(
+      sections.map(async ({ id }) => [
+        id,
+        JSON.parse(await readFile(`research/editorial/${id}.json`, 'utf8')),
+      ]),
+    ),
+  );
   const approval = approvalSchema
     .nullable()
     .parse(JSON.parse(await readFile('content/approval.json', 'utf8')));
   validateCatalog(articles, editions);
-  return { articles, editions, approval };
+  return { articles, editions, approval, editorialManifests };
 }

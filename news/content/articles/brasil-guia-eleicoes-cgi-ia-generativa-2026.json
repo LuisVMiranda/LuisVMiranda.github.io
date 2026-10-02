@@ -1,0 +1,99 @@
+{
+  "id": "brasil-guia-eleicoes-cgi-ia-generativa-2026",
+  "slug": "brasil-guia-eleicoes-cgi-ia-generativa-2026",
+  "section": "brasil",
+  "secondarySections": [],
+  "publishedAt": "2026-09-22T23:56:00-03:00",
+  "publishedDate": "2026-09-22",
+  "updatedAt": "2026-09-24T17:45:13.603Z",
+  "sources": [
+    {
+      "name": "Agência Brasil",
+      "url": "https://agenciabrasil.ebc.com.br/geral/noticia/2026-09/ia-e-videos-falsos-superam-fake-news-como-maior-ameaca-democracia"
+    },
+    {
+      "name": "CGI.br",
+      "url": "https://www.cgi.br/noticia/releases/cgi-br-lanca-segunda-edicao-do-guia-internet-democracia-e-eleicoes-com-enfase-nos-riscos-da-ia-generativa/"
+    }
+  ],
+  "rights": {
+    "mode": "original-report"
+  },
+  "translations": {
+    "pt-BR": {
+      "title": "CGI.br lança novo guia sobre internet e eleições",
+      "summary": "A segunda edição, publicada em 22 de setembro, atualiza a discussão sobre plataformas, desinformação e inteligência artificial no ciclo eleitoral de 2026. As avaliações de risco são atribuídas ao guia.",
+      "aiSummary": [
+        "O CGI.br publicou em 22 de setembro o segundo volume do Guia Internet, Democracia e Eleições; a primeira edição é de 2018.",
+        "O documento examina sistemas de recomendação, circulação de vídeos manipulados, IA generativa e chatbots.",
+        "As avaliações sobre formatos e riscos são conclusões atribuídas ao guia, não evidência de que um conteúdo específico tenha alterado uma eleição."
+      ],
+      "paragraphs": [
+        "O Comitê Gestor da Internet no Brasil (CGI.br) publicou em 22 de setembro a segunda edição do Guia Internet, Democracia e Eleições. O novo volume atualiza a edição lançada em 2018 e discute o ambiente informacional durante o ciclo eleitoral de 2026.",
+        "O guia avalia que conteúdos enganosos passaram a circular de forma mais distribuída, ao mesmo tempo, em várias plataformas. A publicação também dá maior atenção a redes fechadas e aplicativos de mensagens, como o WhatsApp; essa comparação é uma avaliação dos autores, não uma medição independente apresentada pela reportagem.",
+        "Os autores apontam o vídeo como um formato central na circulação de desinformação e descrevem o uso de textos curtos para ancorar narrativas. A afirmação é atribuída ao documento, que analisa tendências e riscos sem demonstrar que um vídeo específico tenha mudado o resultado de uma votação.",
+        "A publicação trata a inteligência artificial generativa como um desafio relevante para a eleição de 2026, especialmente pela produção acessível de imagens, áudios e vídeos sintéticos. Também discute deepfakes e modelos de linguagem conversacionais, sem afirmar que um caso particular já tenha causado dano eleitoral comprovado.",
+        "O CGI.br organiza o material em cinco partes: plataformas e sistemas de recomendação; IA generativa no cenário eleitoral; respostas institucionais à desinformação; orientações para o público; e referências para aprofundamento. A coordenadora Renata Mielli afirma que compreender como as plataformas distribuem conteúdos é importante para discutir a integridade da informação."
+      ]
+    },
+    "en": {
+      "title": "CGI.br releases new guide on the internet and elections",
+      "summary": "The second edition, published on September 22, updates discussion of platforms, disinformation and artificial intelligence in the 2026 election cycle. Risk assessments are attributed to the guide.",
+      "aiSummary": [
+        "CGI.br published the second volume of its Internet, Democracy and Elections guide on September 22; the first edition dates to 2018.",
+        "The document examines recommendation systems, manipulated-video circulation, generative AI and chatbots.",
+        "Assessments of formats and risks are attributed to the guide, not presented as evidence that a particular item changed an election."
+      ],
+      "paragraphs": [
+        "The Brazilian Internet Steering Committee, CGI.br, published the second edition of its Internet, Democracy and Elections guide on September 22. The new volume updates the edition released in 2018 and discusses the information environment during the 2026 election cycle.",
+        "The guide says misleading material has become more distributed, circulating simultaneously across multiple platforms. It also gives greater attention to closed networks and messaging apps such as WhatsApp; this comparison is the authors' assessment, not an independent measurement presented in the report.",
+        "The authors identify video as a central format in the spread of disinformation and describe short text as a way to anchor narratives. That claim is attributed to the document, which analyzes trends and risks without demonstrating that a specific video changed a vote count.",
+        "The publication treats generative artificial intelligence as a significant challenge for the 2026 election, particularly because synthetic images, audio and video are becoming easier to produce. It also discusses deepfakes and conversational language models without claiming that a particular case has already caused proven electoral harm.",
+        "CGI.br organizes the guide into five parts: platforms and recommendation systems; generative AI in elections; institutional responses to disinformation; guidance for the public; and references for further reading. Coordinator Renata Mielli says understanding how platforms distribute content matters to discussions of information integrity."
+      ]
+    }
+  },
+  "verification": {
+    "score": 8.5,
+    "checkedAt": "2026-09-24T14:14:34Z",
+    "checks": [
+      {
+        "provider": "Aos Fatos",
+        "url": "https://www.aosfatos.org/",
+        "finding": "no-match",
+        "note": "No check of CGI.br's second guide or its attributed assessment of formats and election risks was located; neutral."
+      },
+      {
+        "provider": "Agência Lupa",
+        "url": "https://www.agencialupa.org/eleicoes/2026/09/11/vigia-64-dos-conteudos-eleitorais-feitos-com-ia-nao-seguem-regra-de-transparencia/",
+        "finding": "context",
+        "note": "Lupa's VigIA report concerns its monitoring of AI-generated election content and transparency rules. It does not independently validate the CGI guide's relative-risk assessments or the claims summarized in this article."
+      },
+      {
+        "provider": "Projeto Comprova",
+        "url": "https://projetocomprova.com.br/",
+        "finding": "no-match",
+        "note": "No fact-check of the guide launch or its specific attributed assessments was found; neutral."
+      },
+      {
+        "provider": "AFP Fact Check",
+        "url": "https://factcheck.afp.com/",
+        "finding": "no-match",
+        "note": "No check of CGI.br's guide or of these Brazil-specific trend assessments was found; neutral."
+      },
+      {
+        "provider": "Reuters Fact Check",
+        "url": "https://www.reuters.com/fact-check/",
+        "finding": "no-match",
+        "note": "No relevant fact-check of the guide or its attributed claims was found; neutral."
+      },
+      {
+        "provider": "Full Fact",
+        "url": "https://fullfact.org/",
+        "finding": "no-match",
+        "note": "General misinformation coverage did not evaluate this Brazilian guide or its assessments; no direct match. Neutral."
+      }
+    ],
+    "caveat": "The Agência Brasil extraction and CGI.br/NIC.br release confirm the guide's launch, topics and five-part structure. Claims about relative threat, platform distribution and likely election effects remain attributed to the guide; the inspected material is not an independent measurement of those assessments. No claim that a specific manipulated item changed an election appears in the article. PT-BR and EN preserve these qualifications."
+  }
+}

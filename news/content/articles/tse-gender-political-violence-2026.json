@@ -1,0 +1,119 @@
+{
+  "id": "tse-gender-political-violence-2026",
+  "slug": "tse-gender-political-violence-2026",
+  "section": "politica",
+  "secondarySections": ["brasil"],
+  "publishedAt": "2026-09-22T19:09:41.233-03:00",
+  "publishedDate": "2026-09-22",
+  "updatedAt": "2026-09-24T17:45:13.603Z",
+  "sources": [
+    {
+      "name": "G1",
+      "url": "https://g1.globo.com/politica/eleicoes/2026/noticia/2026/09/22/eleicoes-2026-tse-registra-177-processos-de-violencia-politica-de-genero-este-ano.ghtml"
+    },
+    {
+      "name": "Agência Brasil",
+      "url": "https://agenciabrasil.ebc.com.br/radioagencia-nacional/politica/audio/2026-09/brasil-registra-177-processos-por-violencia-politica-de-genero-em-2016"
+    }
+  ],
+  "rights": {
+    "mode": "original-report"
+  },
+  "verification": {
+    "score": 9,
+    "checkedAt": "2026-09-24T14:42:39Z",
+    "checks": [
+      {
+        "provider": "G1",
+        "url": "https://g1.globo.com/politica/eleicoes/2026/noticia/2026/09/22/eleicoes-2026-tse-registra-177-processos-de-violencia-politica-de-genero-este-ano.ghtml",
+        "finding": "supports",
+        "note": "Complete saved article reports 177 proceedings registered in 2026, not necessarily incidents occurring in 2026; also supports regional figures and the TSE panel/protocol."
+      },
+      {
+        "provider": "Agência Brasil",
+        "url": "https://agenciabrasil.ebc.com.br/radioagencia-nacional/politica/audio/2026-09/brasil-registra-177-processos-por-violencia-politica-de-genero-em-2016",
+        "finding": "supports",
+        "note": "Independent saved report confirms 177 in 2026 and separately gives 392 actions since 2019 and 219 pending. Its URL slug says 2016, but headline/body say 2026; treat as a low-risk URL metadata typo, not a factual contradiction."
+      },
+      {
+        "provider": "Aos Fatos",
+        "url": "https://www.aosfatos.org/",
+        "finding": "no-match",
+        "note": "Targeted Portuguese search found no fact-check of the 177 count; no-match is neutral."
+      },
+      {
+        "provider": "Agência Lupa",
+        "url": "https://www.agencialupa.org/",
+        "finding": "no-match",
+        "note": "Search surfaced broader gender-violence reporting, not a check of the TSE 177 figure; no-match is neutral."
+      },
+      {
+        "provider": "Projeto Comprova",
+        "url": "https://projetocomprova.com.br/",
+        "finding": "no-match",
+        "note": "No relevant verdict on this count found in the targeted search; no-match is neutral."
+      },
+      {
+        "provider": "TSE Fato ou Boato",
+        "url": "https://www.tse.jus.br/comunicacao/noticias/fato-ou-boato",
+        "finding": "no-match",
+        "note": "Targeted search returned no matching fact-check; this is not evidence for the count."
+      },
+      {
+        "provider": "AFP Fact Check",
+        "url": "https://factcheck.afp.com/",
+        "finding": "no-match",
+        "note": "No matching fact-check found in targeted English search; neutral."
+      },
+      {
+        "provider": "Reuters Fact Check",
+        "url": "https://www.reuters.com/fact-check/",
+        "finding": "no-match",
+        "note": "No matching fact-check found in targeted Portuguese/English search; neutral."
+      },
+      {
+        "provider": "Google Fact Check Explorer",
+        "url": "https://toolbox.google.com/factcheck/explorer/search/177%20processos%20viol%C3%AAncia%20pol%C3%ADtica%20de%20g%C3%AAnero%202026%20Brasil;hl=pt",
+        "finding": "no-match",
+        "note": "Explorer reported no claims matching this query in Portuguese; neutral."
+      }
+    ],
+    "caveat": "The two complete reports agree on the central figure and clearly distinguish process-registration year from incident date. The Agência Brasil URL suffix is inconsistent with its own headline and body; the selected PT/EN copy correctly uses 2026 and does not reproduce the slug error."
+  },
+  "translations": {
+    "pt-BR": {
+      "title": "TSE registra 177 processos de violência política de gênero em 2026",
+      "summary": "Os registros apresentados pela Justiça Eleitoral não indicam necessariamente quando ocorreram os episódios; a Corte também lançou medidas de prevenção.",
+      "aiSummary": [
+        "O TSE informou 177 processos registrados em 2026, sem afirmar que os episódios ocorreram neste ano.",
+        "O Sudeste concentrava 63 registros; São Paulo, 29.",
+        "A Justiça Eleitoral lançou um painel e um protocolo de prevenção com a Procuradoria-Geral Eleitoral."
+      ],
+      "paragraphs": [
+        "O Tribunal Superior Eleitoral informou ter registrado 177 processos de violência política de gênero em 2026. Os números foram apresentados em 22 de setembro, durante uma mobilização da Justiça Eleitoral; o ano se refere ao registro dos processos, não necessariamente à data em que cada episódio ocorreu.",
+        "A distribuição regional apontada pelo TSE coloca o Sudeste na frente, com 63 processos, dos quais 29 em São Paulo. O Sul tinha 37 registros e o Nordeste, 36. A soma descreve a localização das ocorrências nos dados apresentados, não uma comparação de prevalência entre populações.",
+        "A cobertura da Agência Brasil acrescenta outro recorte: desde 2019, o país acumulava 392 ações judiciais originadas em 224 municípios de 21 estados, e 219 processos estavam em tramitação. Esses totais históricos não devem ser confundidos com os 177 registros feitos em 2026.",
+        "O presidente do TSE, Kassio Nunes Marques, alertou que os registros não representam toda a dimensão do problema. A ministra Estela Aranha e integrantes da comissão TSE Mulheres também destacaram que intimidação e constrangimento podem afastar tanto mulheres que já ocupam cargos quanto potenciais candidatas.",
+        "A Justiça Eleitoral apresentou um painel que reúne processos em tramitação na Justiça Eleitoral e denúncias encaminhadas ao Ministério Público Federal. A ferramenta está em aprimoramento, segundo a juíza Renata Gil, coordenadora da comissão TSE Mulheres.",
+        "No mesmo evento, TSE e Procuradoria-Geral Eleitoral firmaram um protocolo de prevenção e enfrentamento. O tribunal também anunciou a ferramenta Likeness ID, desenvolvida com o Google para identificar no YouTube usos irregulares da imagem de candidatas em conteúdos manipulados por inteligência artificial."
+      ]
+    },
+    "en": {
+      "title": "Brazil’s electoral court records 177 gender-based political-violence cases in 2026",
+      "summary": "The figures released by the electoral court do not necessarily date the incidents to this year; the court also announced prevention measures.",
+      "aiSummary": [
+        "The TSE reported 177 proceedings registered in 2026, not necessarily incidents that occurred that year.",
+        "The Southeast accounted for 63 registrations, including 29 in São Paulo state.",
+        "The electoral court launched a data panel and a prevention protocol with federal prosecutors."
+      ],
+      "paragraphs": [
+        "Brazil’s Superior Electoral Court, the TSE, said it had registered 177 proceedings involving gender-based political violence in 2026. The figures were presented on September 22 at an electoral-justice event; the year refers to when proceedings were registered, not necessarily when each incident took place.",
+        "The regional breakdown reported by the TSE placed the Southeast first, with 63 proceedings, including 29 in São Paulo state. The South had 37 registrations and the Northeast 36. These figures describe the locations in the data presented, not comparative prevalence across populations.",
+        "Agência Brasil supplied a separate historical measure: since 2019, the country had accumulated 392 court actions originating in 224 municipalities across 21 states, with 219 proceedings still pending. Those historical totals should not be conflated with the 177 registrations made in 2026.",
+        "TSE President Kassio Nunes Marques cautioned that registrations do not capture the full scale of the problem. Justice Estela Aranha and members of the TSE Women’s Commission also said intimidation and harassment can discourage both women already in office and potential candidates.",
+        "The electoral court presented a dashboard combining pending electoral-court proceedings and complaints filed with the Federal Prosecution Service. The tool is still being refined, according to judge Renata Gil, who coordinates the TSE Women’s Commission.",
+        "At the same event, the TSE and the Electoral Prosecutor General’s Office signed a prevention and response protocol. The court also announced Likeness ID, developed with Google to identify on YouTube improper uses of candidates’ images in content manipulated with artificial intelligence."
+      ]
+    }
+  }
+}

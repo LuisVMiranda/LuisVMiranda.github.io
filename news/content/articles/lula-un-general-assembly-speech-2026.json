@@ -1,0 +1,101 @@
+{
+  "id": "lula-un-general-assembly-speech-2026",
+  "slug": "lula-un-general-assembly-speech-2026",
+  "section": "mundo",
+  "secondarySections": ["brasil", "politica"],
+  "publishedAt": "2026-09-22",
+  "publishedDate": "2026-09-22",
+  "updatedAt": "2026-09-24T21:36:01.155Z",
+  "sources": [
+    {
+      "name": "Associated Press",
+      "url": "https://apnews.com/article/un-united-nations-general-assembly-lula-brazil-767e63e2ffd5a2898c84f290de816ff7"
+    },
+    {
+      "name": "G1 (full speech transcript)",
+      "url": "https://g1.globo.com/politica/noticia/2026/09/22/leia-a-integra-do-discurso-de-lula-na-assembleia-geral-da-onu.ghtml"
+    }
+  ],
+  "rights": {
+    "mode": "original-report"
+  },
+  "verification": {
+    "score": 9.2,
+    "checkedAt": "2026-09-24T14:23:42Z",
+    "checks": [
+      {
+        "provider": "Associated Press (primary report)",
+        "url": "https://apnews.com/article/un-united-nations-general-assembly-lula-brazil-767e63e2ffd5a2898c84f290de816ff7",
+        "finding": "supports",
+        "note": "The complete AP report supports that Lula spoke at the 81st General Assembly on September 22 and made the remarks summarized; its reporting does not establish that foreign interference occurred."
+      },
+      {
+        "provider": "G1 (full speech transcript)",
+        "url": "https://g1.globo.com/politica/noticia/2026/09/22/leia-a-integra-do-discurso-de-lula-na-assembleia-geral-da-onu.ghtml",
+        "finding": "supports",
+        "note": "The complete transcript confirms the date and the speech’s sovereignty, election-interference and UN-reform remarks; a transcript verifies what Lula said, not the truth of his assertions."
+      },
+      {
+        "provider": "Aos Fatos",
+        "url": "https://www.aosfatos.org/noticias/checamos-discurso-lula-onu-2026/",
+        "finding": "supports",
+        "note": "Its same-day speech coverage and claim checks corroborate the delivered address and provide a direct fact-check lead; the article’s central claim is the attributed speech, not the truth of the interference warning."
+      },
+      {
+        "provider": "Agência Lupa",
+        "url": "https://www.agencialupa.org/checagem/2026/09/22/na-onu-lula-acerta-sobre-desmatamento-e-lei-antifaccao-mas-exagera-sobre-feminicidio/",
+        "finding": "context",
+        "note": "Lupa found context/accuracy issues in other factual claims from the address, including an exaggerated femicide statement. Those claims are not repeated as facts in this article; its warning is attributed and explicitly not treated as proof of interference."
+      },
+      {
+        "provider": "Projeto Comprova",
+        "url": "https://projetocomprova.com.br/",
+        "finding": "no-match",
+        "note": "A targeted search found no fact-check of this September 22 speech report or its attributed warning; neutral."
+      },
+      {
+        "provider": "TSE Fato ou Boato",
+        "url": "https://www.tse.jus.br/comunicacao/noticias/fato-ou-boato",
+        "finding": "no-match",
+        "note": "Election-focused searches found no fact-check of Lula’s attributed September 22 warning; neutral, and not evidence that interference occurred."
+      }
+    ],
+    "caveat": "The AP report and G1 transcript verify the address and what Lula said, not whether foreign interference occurred. The story preserves that distinction in both locales. This is the single Mundo-primary article reused by Brasil and Política; the edition’s disclosed pre-event preview still needs parent compilation review."
+  },
+  "translations": {
+    "pt-BR": {
+      "title": "Na ONU, Lula alerta contra interferência externa em eleições",
+      "summary": "No discurso de 22 de setembro, o presidente defendeu a soberania brasileira, criticou interferências eleitorais e pediu ação internacional diante de conflitos.",
+      "aiSummary": [
+        "Lula falou na abertura da 81ª Assembleia Geral da ONU em 22 de setembro.",
+        "O presidente advertiu contra interferência externa e campanhas de desinformação nas eleições brasileiras.",
+        "As declarações são posições do presidente e não comprovam que uma interferência tenha ocorrido."
+      ],
+      "paragraphs": [
+        "O presidente Luiz Inácio Lula da Silva discursou em 22 de setembro na 81ª Assembleia Geral das Nações Unidas, em Nova York. Ele pediu que líderes atuem diante de conflitos internacionais e argumentou que países não devem interferir nos assuntos internos de outras nações.",
+        "Ao tratar do Brasil, Lula disse que a democracia do país pertence aos brasileiros e que o sistema eleitoral é robusto. Também alertou para campanhas de desinformação que, segundo ele, podem distorcer o debate público durante a campanha eleitoral.",
+        "O presidente afirmou que o Brasil não deve terceirizar a responsabilidade de proteger suas fronteiras e enfrentar o crime organizado. A fala foi apresentada como a posição de seu governo sobre soberania e cooperação internacional, não como uma descrição comprovada de atos de outros países.",
+        "Lula também criticou o que considera a incapacidade das Nações Unidas de responder a guerras e defendeu a reforma do Conselho de Segurança. Ele pediu que o organismo recupere sua capacidade de diálogo e mediação.",
+        "A advertência sobre interferência eleitoral foi uma declaração política feita semanas antes da eleição brasileira. O discurso e a transcrição confirmam o que Lula disse, mas não demonstram que uma interferência externa tenha ocorrido.",
+        "O endereço ocorreu antes da fala do presidente dos Estados Unidos, Donald Trump, na mesma sessão. A cobertura deste artigo se concentra nas declarações de Lula e não trata discursos distintos da Assembleia como uma única fala."
+      ]
+    },
+    "en": {
+      "title": "At UN, Lula warns against foreign interference in elections",
+      "summary": "In his September 22 address, the president defended Brazilian sovereignty, criticized election interference and called for international action on conflicts.",
+      "aiSummary": [
+        "Lula spoke at the opening of the UN General Assembly’s 81st session on September 22.",
+        "The president warned against foreign interference and disinformation campaigns in Brazil’s election.",
+        "These are the president’s stated positions and do not prove that interference occurred."
+      ],
+      "paragraphs": [
+        "President Luiz Inácio Lula da Silva addressed the 81st United Nations General Assembly in New York on September 22. He urged leaders to act in response to international conflicts and argued that countries should not interfere in the internal affairs of others.",
+        "On Brazil, Lula said the country’s democracy belonged to Brazilians and described its electoral system as robust. He also warned that disinformation campaigns could distort public debate during the election campaign.",
+        "The president said Brazil should not outsource responsibility for protecting its borders and confronting organized crime. The remarks were presented as his government’s position on sovereignty and international cooperation, not as proof of actions by other countries.",
+        "Lula also criticized what he described as the United Nations’ inability to respond to wars and called for Security Council reform. He urged the organization to recover its capacity for dialogue and mediation.",
+        "The warning about electoral interference was a political statement made weeks before Brazil’s election. The speech and its transcript confirm what Lula said, but do not establish that foreign interference took place.",
+        "The address came before U.S. President Donald Trump spoke at the same session. This article focuses on Lula’s remarks and does not combine separate addresses at the assembly into one speech."
+      ]
+    }
+  }
+}

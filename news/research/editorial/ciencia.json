@@ -1,6 +1,8 @@
 {
   "section": "ciencia",
-  "cutoff": "2026-09-22T11:21:20.336Z",
+  "cutoff": "2026-09-23T11:31:23.014Z",
+  "candidateRun": "research/runs/2026-09-23T11-31-23-014Z-8d26ca21-0863-4450-82bc-1cdf26820144",
+  "retrievedAt": "2026-09-23T18:06:59.900Z",
   "queries": [
     "Ciência notícias Brasil",
     "Science latest news Brazil",
@@ -14,115 +16,418 @@
     "site:sciencedaily.com/releases science research",
     "site:news.mit.edu science research latest",
     "site:medicalxpress.com/news science health research",
-    "site:space.com space science latest news",
-    "focused-query note: NASA APOD and ESTIM primary pages were extracted separately after the broad batch to add current space and Earth-science coverage; both focused records were complete, status 200 and warning-free."
+    "site:space.com space science latest news"
   ],
   "verified": [
     {
-      "articleId": "ciencia-2026-09-22-morte-celular",
-      "url": "https://www.nature.com/articles/d41586-026-02929-z",
-      "publishedAt": "2026-09-22T00:00:00-03:00",
-      "evidence": "Complete extraction research/runs/2026-09-22T11-21-20-336Z-6df281a2-9343-4cb7-a1b3-001b9e9a3dde/extractions/ciencia/0d1ae821a9e8.json was retrieved with status 200, complete=true, 83 paragraphs and no warnings. The calendar date is 2026-09-22; the article records a local-midnight normalized publishedAt for ordering and preserves publishedDate separately. The extraction covers alkaliptosis, the expansion from two classical cell-death modes to about 20 described forms, immune and tissue effects, and evidence for reversible death through anastasis.",
-      "selectionReason": "Most substantive and authoritative current health-science report in the run, from Nature, with direct relevance to cancer biology, inflammation and immunity; selected first for source quality, depth and public scientific interest.",
+      "articleId": "nasa-spacecraft-discovers-a-huge-new-crater-on-the-moon",
+      "primarySection": "ciencia",
+      "secondarySections": [],
+      "secondarySectionRationale": {},
+      "url": "https://apnews.com/article/moon-lunar-crater-space-nasa-80eea242ad275fda1f7a88587cdccd2f",
+      "publisher": "Associated Press",
+      "headline": "NASA spacecraft discovers a huge new crater on the moon",
+      "publishedAt": "2026-09-16T18:04Z",
+      "publishedDate": "2026-09-16",
+      "publicationPrecision": "approximate-minute",
+      "publicationEvidence": "Immutable selection.json records the selected Associated Press item with publishedAt 2026-09-16T18:04Z at approximate-minute precision; the saved extraction raw value is 2026-09-16T18:03:58 with no offset encoded. The selection qualification explicitly normalizes the approximate time as UTC and assesses it within the frozen window. No exact AP updatedAt was established. This publication timestamp is not proof of an AP body capture at cutoff.",
+      "sourceEvidencePath": "research/runs/2026-09-23T11-31-23-014Z-8d26ca21-0863-4450-82bc-1cdf26820144/focused/ciencia-1.json",
+      "evidence": "Frozen AP extraction focused/ciencia-1.json records HTTP 200, complete=true, 15 paragraphs, warnings=[], publishedAt=2026-09-16T18:03:58, and retrievedAt=2026-09-23T13:56:37.544Z, after the 2026-09-23T11:31:23.014Z cutoff; the later extraction is not cutoff-time body proof. The cutoff-provenance supplement classifies the exact selected AP page body NOT_PROVEN: its two pre-cutoff Wayback captures (2026-09-17T10:52:03Z and 2026-09-17T19:33:20Z) both returned HTTP 403 text/html anti-bot challenge pages, not AP story text. A distinct NASA Science first-party event account was fully archived at 2026-09-22T21:41:04Z (HTTP 200 text/html; 10 narrative paragraphs), before cutoff; it supports the discovery, dimensions/timing, qualified rarity, Diviner cold spot/temperature and regolith interpretation, including that the cold area is about four miles wide. This alternate event body supports cutoff-time availability of the retained factual claims but is not the selected AP body. Its HTML was re-fetched and matched the saved 309073-byte artifact byte-for-byte (SHA-256 2288344fc086514ab62eb04496766998eb64497f92ecac9238b6314079383a4b); the claim map and retrieval record are at research/runs/2026-09-23T11-31-23-014Z-8d26ca21-0863-4450-82bc-1cdf26820144/focused/recovery/ciencia/nasa-lunar-crater-cutoff-evidence-20260925.json, and the article links to the timestamped archive copy. PubMed records/abstracts were consulted for consistency only; neither full Science Advances paper was reviewed and no abstract-only paper detail is added to the article. Post-cutoff current-page and abstract reads are corroboration, not cutoff proof. The Publicnow distribution marker has no locally verifiable release body and is not body evidence.",
+      "extractionGates": {
+        "httpStatus": 200,
+        "complete": true,
+        "paragraphCount": 15,
+        "warnings": [],
+        "passed": true,
+        "bodyContaminationNote": "Frozen extraction gates pass for the AP page as retrieved after cutoff; that later body does not establish cutoff availability. The only qualifying archived story body found is the alternate NASA Science narrative, not AP."
+      },
+      "primarySources": [
+        {
+          "url": "https://science.nasa.gov/solar-system/moon/nasas-moon-orbiter-spots-new-once-in-century-moon-crater/",
+          "archiveUrl": "https://web.archive.org/web/20260922214104id_/https://science.nasa.gov/solar-system/moon/nasas-moon-orbiter-spots-new-once-in-century-moon-crater/",
+          "matchingFacts": "Full NASA Science first-party narrative captured 2026-09-22T21:41:04Z and byte-verified; supports the retained event facts. Alternate source body, not the selected AP page."
+        }
+      ],
+      "corroboratingSources": [
+        {
+          "url": "https://pubmed.ncbi.nlm.nih.gov/42748243/",
+          "matchingFacts": "Post-cutoff-read PubMed record/abstract for DOI 10.1126/sciadv.aeh7812 identifies the crater study and supports the 2024 formation/qualified rarity context; abstract only, not full text or cutoff-body evidence."
+        },
+        {
+          "url": "https://pubmed.ncbi.nlm.nih.gov/42748253/",
+          "matchingFacts": "Post-cutoff-read PubMed record/abstract for DOI 10.1126/sciadv.aeh9568 supports the cold-spot context; abstract only, not full text or cutoff-body evidence."
+        }
+      ],
+      "corroborationNote": "The NASA Science archive is a pre-cutoff first-party account of the same event and supports the retained facts, but it does not establish the exact selected AP body or wording; AP cutoff body status remains NOT_PROVEN. PubMed primary records were consulted at abstract level only; neither full Science Advances paper was reviewed, and the article adds no paper-only details.",
+      "selectionReason": "Selected for ciencia as a distinct, recent story with a complete original-source extraction and a clear desk fit; shared events are represented by one stable identity.",
       "contentReview": {
         "bodyComplete": true,
         "aiSummaryReviewed": true
       }
     },
     {
-      "articleId": "ciencia-2026-09-22-alinhamento-apod",
-      "url": "https://science.nasa.gov/image-article/apod-2026-september-22-chance-triple-alignment-plane-space-station-sun/",
-      "publishedAt": "2026-09-22T00:05:00-04:00",
-      "evidence": "Complete focused extraction research/runs/2026-09-22T11-21-20-336Z-6df281a2-9343-4cb7-a1b3-001b9e9a3dde/extractions/ciencia/focused-apod.json was retrieved with status 200, complete=true, 6 paragraphs and no warnings. NASA’s page gives the exact 2026-09-22T00:05:00-04:00 publication time and describes the planned sub-second capture from Prasek, the sunspots, ISS, airplane and the photographer’s approximately one-in-30-million estimate.",
-      "selectionReason": "Current primary NASA space-science item with an exact timestamp and a distinct visual astronomy event; selected as a concise, low-risk observational story that adds space coverage without duplicating a mission or policy report.",
+      "articleId": "unmasking-zombie-cells-in-aging-tissue-with-an-ai-powered-barcode",
+      "primarySection": "ciencia",
+      "secondarySections": [],
+      "secondarySectionRationale": {},
+      "url": "https://news.mit.edu/2026/unmasking-zombie-cells-aging-tissue-ai-powered-barcode-0921",
+      "publisher": "MIT News",
+      "headline": "Unmasking “zombie cells” in aging tissue with an AI-powered barcode",
+      "publishedAt": "2026-09-21T09:00:00Z",
+      "publishedDate": "2026-09-21",
+      "updatedAt": "2026-09-21T09:00:00Z",
+      "publicationEvidence": "The MIT News page and saved extraction give an exact UTC publication time of 2026-09-21T09:00:00Z. No later source update time was verified.",
+      "sourceEvidencePath": "research/runs/2026-09-23T11-31-23-014Z-8d26ca21-0863-4450-82bc-1cdf26820144/focused/ciencia-2.json",
+      "evidence": "Complete MIT institutional extraction (29 paragraphs; HTTP 200; complete=true; no warnings) was reviewed against the Nature Aging study record. The study used only three mice per age group, making the mouse-tissue findings exploratory; the report also keeps the Raman/gene-expression method, 30-hour-per-square-millimeter processing time and any prospective human use distinct.",
+      "extractionGates": {
+        "httpStatus": 200,
+        "complete": true,
+        "paragraphCount": 29,
+        "warnings": [],
+        "passed": true,
+        "bodyContaminationNote": "The full MIT institutional article was reviewed; video credit, sharing text and navigation material were excluded. Findings and limitations were checked against the linked Nature Aging paper record."
+      },
+      "primarySources": [
+        {
+          "url": "https://doi.org/10.1038/s43587-026-01219-7",
+          "matchingFacts": "Nature Aging paper on RamanOmics, senescent-cell signatures and mouse skin and lung tissue."
+        }
+      ],
+      "corroboratingSources": [
+        {
+          "url": "https://news.mit.edu/2026/unmasking-zombie-cells-aging-tissue-ai-powered-barcode-0921",
+          "matchingFacts": "MIT's complete institutional research report describes the mouse-tissue experiment, combined Raman and gene-expression method, processing time and untested human applications."
+        }
+      ],
+      "corroborationNote": "The institutional report and peer-reviewed Nature Aging study support the bounded account; no separate independent newsroom report was captured.",
+      "selectionReason": "Selected for a distinct aging-biology study that combines nondestructive Raman signals with gene-expression data. The report identifies the small exploratory sample (three mice per age group), separates mouse-tissue findings from any prospective human diagnostic use, and states the current processing-time limitation.",
       "contentReview": {
         "bodyComplete": true,
         "aiSummaryReviewed": true
       }
     },
     {
-      "articleId": "ciencia-2026-09-22-pinguim-gentoo",
-      "url": "https://news.ssbcrack.com/new-gentoo-penguin-species-identified-in-the-kerguelen-islands/",
-      "publishedAt": "2026-09-22T00:16:57-04:00",
-      "evidence": "Complete extraction research/runs/2026-09-22T11-21-20-336Z-6df281a2-9343-4cb7-a1b3-001b9e9a3dde/extractions/ciencia/c63ef64568d7.json was retrieved with status 200, complete=true, 12 paragraphs and no warnings. It reports the designation of Pygoscelis kerguelensis, four gentoo species identified through genetic evidence, whole-genome data from 64 penguins at ten colonies, trait comparisons and conservation pressures linked to climate, habitat and fisheries.",
-      "selectionReason": "Distinct current biodiversity story with a concrete genomic basis, a named species and conservation context; selected to represent environment and evolution while keeping all claims attributed to the complete report.",
+      "articleId": "networks-could-benefit-from-more-disorder",
+      "primarySection": "ciencia",
+      "secondarySections": [],
+      "secondarySectionRationale": {},
+      "url": "https://news.northwestern.edu/stories/2026/09/networks-could-benefit-from-more-disorder",
+      "publisher": "Northwestern University",
+      "headline": "Networks could benefit from more disorder",
+      "publishedAt": "2026-09-17T00:00:00-03:00",
+      "publishedDate": "2026-09-17",
+      "updatedAt": "2026-09-17T00:00:00-03:00",
+      "publicationEvidence": "The institutional page displays September 17, 2026, without an hour. publishedAt is a documented São Paulo-midnight ordering marker; publishedDate preserves the source calendar date. No later source update time was verified.",
+      "sourceEvidencePath": "research/runs/2026-09-23T11-31-23-014Z-8d26ca21-0863-4450-82bc-1cdf26820144/focused/ciencia-3.json",
+      "evidence": "Complete Northwestern institutional extraction (30 paragraphs; HTTP 200; complete=true; no warnings) was reviewed with the Science paper record. The article confines claims to mathematical and computational network models and preserves the finding that too much disorder can destabilize a system.",
+      "extractionGates": {
+        "httpStatus": 200,
+        "complete": true,
+        "paragraphCount": 30,
+        "warnings": [],
+        "passed": true,
+        "bodyContaminationNote": "The complete Northwestern release was reviewed; headings, image credit and staff biography were not treated as findings. The Science study record was consulted for the mathematical framework."
+      },
+      "primarySources": [
+        {
+          "url": "https://doi.org/10.1126/science.aeg3946",
+          "matchingFacts": "Science paper on disorder-promoted stability and the tested network models."
+        }
+      ],
+      "corroboratingSources": [
+        {
+          "url": "https://news.northwestern.edu/stories/2026/09/networks-could-benefit-from-more-disorder",
+          "matchingFacts": "Northwestern's complete institutional report describes the framework and its model tests across power grids, neurons, flocks, materials and ecological networks."
+        }
+      ],
+      "corroborationNote": "The originating university report and peer-reviewed Science paper support the account; no separate independent newsroom report was captured. Model results are not described as field demonstrations.",
+      "selectionReason": "Selected for a cross-disciplinary theoretical result relevant to physical, biological and engineered networks. The article preserves the model-based scope, the conditional effect of heterogeneity and the possibility that excessive disorder reduces stability.",
       "contentReview": {
         "bodyComplete": true,
         "aiSummaryReviewed": true
       }
     },
     {
-      "articleId": "ciencia-2026-09-22-estim-nasa",
-      "url": "https://esto.nasa.gov/estim2026/",
-      "publishedAt": "2026-09-22T00:00:00-03:00",
-      "evidence": "Complete focused extraction research/runs/2026-09-22T11-21-20-336Z-6df281a2-9343-4cb7-a1b3-001b9e9a3dde/extractions/ciencia/focused-estim.json was retrieved with status 200, complete=true, 33 paragraphs and no warnings. The page has no publication timestamp; 2026-09-22T00:00:00-03:00 is a normalized event-start marker because ESTIM2026 is scheduled for September 22-24. The evidence contains the meeting purpose, invitation status, venue, three-day agenda and Earth-science technology themes.",
-      "selectionReason": "Primary NASA Earth-science institutional program with complete evidence and current event dates; selected for its breadth across remote sensing, hydrology, wildfire, atmosphere, modeling and mission autonomy.",
+      "articleId": "unveiling-the-unevenness-of-global-warming-regional-accelerations-key-temperature-shifts-a",
+      "primarySection": "ciencia",
+      "secondarySections": [],
+      "secondarySectionRationale": {},
+      "url": "https://news.ucsc.edu/2026/09/regional-warming-accelerations/",
+      "publisher": "UC Santa Cruz",
+      "headline": "Unveiling the unevenness of global warming: Regional accelerations, key temperature shifts, and extreme events",
+      "publishedAt": "2026-09-22T18:53:27+00:00",
+      "publishedDate": "2026-09-22",
+      "updatedAt": "2026-09-22T18:53:27+00:00",
+      "publicationEvidence": "The saved institutional-page metadata gives the exact publication time 2026-09-22T18:53:27Z. No later source update time was verified.",
+      "sourceEvidencePath": "research/runs/2026-09-23T11-31-23-014Z-8d26ca21-0863-4450-82bc-1cdf26820144/focused/ciencia-4.json",
+      "evidence": "Complete UC Santa Cruz institutional extraction (20 paragraphs; HTTP 200; complete=true; no warnings) was reviewed with the Nature Communications study record. The report identifies the 1970–2024 dataset window, regional timing and locations, and leaves physical causes unresolved where the source does.",
+      "extractionGates": {
+        "httpStatus": 200,
+        "complete": true,
+        "paragraphCount": 20,
+        "warnings": [],
+        "passed": true,
+        "bodyContaminationNote": "The complete UC Santa Cruz release was reviewed; the map caption and section headings were not used as separate findings. The Nature Communications paper record was consulted."
+      },
+      "primarySources": [
+        {
+          "url": "https://doi.org/10.1038/s41467-026-77514-z",
+          "matchingFacts": "Nature Communications study using observational temperature datasets from 1970–2024 to map regional changes in warming rates."
+        }
+      ],
+      "corroboratingSources": [
+        {
+          "url": "https://news.ucsc.edu/2026/09/regional-warming-accelerations/",
+          "matchingFacts": "UC Santa Cruz's complete research release reports the same 1970–2024 observational analysis, regional timing and examples while noting that physical mechanisms require further study."
+        }
+      ],
+      "corroborationNote": "The peer-reviewed study and originating university account support the reported statistical patterns; no separate independent newsroom report was captured. Local drivers are explicitly unresolved in some regions.",
+      "selectionReason": "Selected for a current climate-science analysis with a clear multi-decade observational basis and geographically differentiated results. The report distinguishes statistical regional acceleration from a single global rate or an established cause, and treats adaptation relevance as prospective context rather than measured local harm.",
       "contentReview": {
         "bodyComplete": true,
         "aiSummaryReviewed": true
       }
     },
     {
-      "articleId": "ciencia-2026-09-22-primavera-astronomia",
-      "url": "https://www.gov.br/mcti/pt-br/acompanhe-o-mcti/noticias/noticias-julho-outubro-2026/primavera-2026-ciencia-explica-as-mudancas-na-vegetacao-nas-temperaturas-e-nas-chuvas",
-      "publishedAt": "2026-09-22T00:00:00-03:00",
-      "evidence": "Complete extraction research/runs/2026-09-22T11-21-20-336Z-6df281a2-9343-4cb7-a1b3-001b9e9a3dde/extractions/tecnologia/5252e1219874.json was retrieved with status 200, complete=true, 12 paragraphs and no warnings. The source gives the 2026-09-22 seasonal start at 21:05 Brasília time, explanations from the National Observatory and INPE, and the reported transition from dry conditions to more localized rain in parts of Brazil. The page has no publication timestamp, so the event date is used as a normalized publishedAt.",
-      "selectionReason": "Official Brazilian science explainer anchored in astronomy and Earth-system knowledge, with a current seasonal event and named institutional experts; selected instead of weather-only forecast pages because the evidence explains the physical mechanism and seasonal transition.",
+      "articleId": "researchers-observe-first-real-time-quantum-jump-in-sound",
+      "primarySection": "ciencia",
+      "secondarySections": [],
+      "secondarySectionRationale": {},
+      "url": "https://humsci.stanford.edu/feature/researchers-observe-first-real-time-quantum-jump-sound",
+      "publisher": "Stanford School of Humanities and Sciences",
+      "headline": "Researchers observe first real-time quantum jump in sound",
+      "publishedAt": "2026-09-17T00:00:00-03:00",
+      "publishedDate": "2026-09-17",
+      "updatedAt": "2026-09-17T00:00:00-03:00",
+      "publicationEvidence": "The Stanford institutional feature is dated September 17, 2026, without an hour. publishedAt is a documented São Paulo-midnight ordering marker; publishedDate preserves the source calendar date. No later source update time was verified.",
+      "sourceEvidencePath": "research/runs/2026-09-23T11-31-23-014Z-8d26ca21-0863-4450-82bc-1cdf26820144/focused/ciencia-5.json",
+      "evidence": "Complete Stanford institutional extraction (29 paragraphs; HTTP 200; complete=true; no warnings) was reviewed. The linked Science paper DOI was identified but its page was inaccessible through the retrieval backend; all reported experimental details and prospective applications are supported by the readable Stanford account and are qualified accordingly.",
+      "extractionGates": {
+        "httpStatus": 200,
+        "complete": true,
+        "paragraphCount": 29,
+        "warnings": [],
+        "passed": true,
+        "bodyContaminationNote": "The complete Stanford institutional report was reviewed; photo captions, author biographies and media-contact footer were excluded. The linked Science article DOI was identified, but the journal page itself was not accessible through the web retrieval backend; no claim depends on details absent from the Stanford report."
+      },
+      "primarySources": [
+        {
+          "url": "https://humsci.stanford.edu/feature/researchers-observe-first-real-time-quantum-jump-sound",
+          "matchingFacts": "Stanford's complete institutional research feature supplies the experimental description, resonator lifetime, qubit readout and stated prospective applications used in the article."
+        }
+      ],
+      "corroboratingSources": [],
+      "corroborationNote": "The linked Science DOI was identified but the article page could not be read through the retrieval backend; the accessible, complete Stanford institutional source supports the article. No separate independent newsroom report was captured; technology uses are labeled prospective.",
+      "selectionReason": "Selected for a distinct laboratory observation in quantum acoustics and a clear experimental design: a mechanical resonator, qubit readout and a two-millisecond ringdown. The article separates the foundational measurement from possible future technology.",
       "contentReview": {
         "bodyComplete": true,
         "aiSummaryReviewed": true
       }
     },
     {
-      "articleId": "ciencia-2026-09-22-cpqba-unicamp",
-      "url": "https://www.unicamp.br/noticias/2026/09/21/parque-cientifico-e-tecnologico-abre-edital-para-uso-de-campo-agricola-do-cpqba/",
-      "publishedAt": "2026-09-21T18:26:07+00:00",
-      "evidence": "Complete extraction research/runs/2026-09-22T11-21-20-336Z-6df281a2-9343-4cb7-a1b3-001b9e9a3dde/extractions/tecnologia/81cd65e23dcb.json was retrieved with status 200, complete=true, 25 paragraphs and no warnings. The source reports 7.7 hectares of experimental agricultural field and laboratory access, CPQBA’s research areas, continuous proposal review, contract limits, infrastructure and the ban on synthetic agricultural pesticides.",
-      "selectionReason": "Current official university research-and-innovation report with exact publication time and concrete agricultural, biotechnology and sustainability content; selected for Brazilian relevance and a distinct applied-science angle.",
+      "articleId": "the-ancient-ancestor-of-crispr-is-a-powerful-genomic-tool-research-uc-berkeley",
+      "primarySection": "ciencia",
+      "secondarySections": [],
+      "secondarySectionRationale": {},
+      "url": "https://vcresearch.berkeley.edu/news/ancient-ancestor-crispr-powerful-genomic-tool",
+      "publisher": "UC Berkeley Research",
+      "headline": "The Ancient Ancestor of CRISPR Is a Powerful Genomic Tool",
+      "publishedAt": "2026-09-17T00:00:00-03:00",
+      "publishedDate": "2026-09-17",
+      "updatedAt": "2026-09-17T00:00:00-03:00",
+      "publicationEvidence": "UC Berkeley Research displays September 17, 2026, without an hour. publishedAt is a documented São Paulo-midnight ordering marker; publishedDate preserves the source calendar date. No later source update time was verified.",
+      "sourceEvidencePath": "research/runs/2026-09-23T11-31-23-014Z-8d26ca21-0863-4450-82bc-1cdf26820144/focused/ciencia-r2-1.json",
+      "evidence": "Complete UC Berkeley institutional extraction (61 paragraphs; HTTP 200; complete=true; no warnings) was reviewed with both linked Science studies. The report separates the observed noncontiguous recognition and laboratory gene-silencing results from the proposed ancestry and future-tool interpretations.",
+      "extractionGates": {
+        "httpStatus": 200,
+        "complete": true,
+        "paragraphCount": 61,
+        "warnings": [],
+        "passed": true,
+        "bodyContaminationNote": "The full Berkeley institutional account was reviewed; the final citation list and media-contact footer were excluded. Both cited Science papers were consulted for the molecular recognition and triplex findings."
+      },
+      "primarySources": [
+        {
+          "url": "https://doi.org/10.1126/science.aei0498",
+          "matchingFacts": "Science study on VIPR's noncontiguous RNA-guided DNA recognition and phage-defense findings."
+        },
+        {
+          "url": "https://doi.org/10.1126/science.aei3472",
+          "matchingFacts": "Science study on VIPR RNA-guided DNA recognition through geometric triplex formation."
+        }
+      ],
+      "corroboratingSources": [
+        {
+          "url": "https://vcresearch.berkeley.edu/news/ancient-ancestor-crispr-powerful-genomic-tool",
+          "matchingFacts": "Berkeley's full institutional research report explains the VIPR experiments, computational discovery process and the authors' qualified evolutionary interpretation."
+        }
+      ],
+      "corroborationNote": "The Berkeley institutional report explains the two linked primary Science studies; the papers are not independent replications. Evolutionary ancestry and potential tool applications are attributed as interpretations or future possibilities.",
+      "selectionReason": "Selected for a substantial molecular-biology discovery supported by two linked primary studies and an accessible Berkeley research account. The article distinguishes experimentally described recognition and gene silencing from the proposed evolutionary ancestry and future applications.",
       "contentReview": {
         "bodyComplete": true,
         "aiSummaryReviewed": true
       }
     },
     {
-      "articleId": "ciencia-2026-09-22-florestas-terapeuticas",
-      "url": "https://www.noticiasaominuto.com/mundo/3055026/bussaco-vai-coordenar-projeto-internacional-sobre-florestas-terapeuticas",
-      "publishedAt": "2026-09-21T18:48:46+01:00",
-      "evidence": "Complete extraction research/runs/2026-09-22T11-21-20-336Z-6df281a2-9343-4cb7-a1b3-001b9e9a3dde/extractions/mundo/efe0073da9e6.json was retrieved with status 200, complete=true, 19 paragraphs and no warnings. It reports the three-year PhorestAll project, budget above one million euros, five-country consortium, the biodiversity/soil-microbiome/phytoncide design, participant health indicators, community participation and the scheduled first session.",
-      "selectionReason": "Current health-science and environment project with named institutions, a defined study design and international scope; selected because it connects biodiversity research to measurable human well-being without presenting a therapy as an established treatment.",
+      "articleId": "speed-and-low-light-conditions-linked-to-drivers-skipping-seatbelts",
+      "primarySection": "ciencia",
+      "secondarySections": [],
+      "secondarySectionRationale": {},
+      "url": "https://www.pennmedicine.org/news/high-speed-low-light-conditions-tied-to-unbuckled-driving",
+      "publisher": "Penn Medicine",
+      "headline": "Speed and low-light conditions linked to drivers skipping seatbelts",
+      "publishedAt": "2026-09-18T00:00:00-03:00",
+      "publishedDate": "2026-09-18",
+      "updatedAt": "2026-09-18T00:00:00-03:00",
+      "publicationEvidence": "Penn Medicine's release is dated September 18, 2026, without an hour. publishedAt is a documented São Paulo-midnight ordering marker; publishedDate preserves the source calendar date. No later source update time was verified.",
+      "sourceEvidencePath": "research/runs/2026-09-23T11-31-23-014Z-8d26ca21-0863-4450-82bc-1cdf26820144/focused/ciencia-r2-2.json",
+      "evidence": "Complete Penn Medicine institutional extraction (21 paragraphs; HTTP 200; complete=true; no warnings) was reviewed with the Traffic Injury Prevention/PubMed study record. Sample counts and associations are attributed to the observational analysis, which underrepresented drivers ages 18–24 and non-white groups; conclusions are limited to the sample, and proposed campaigns are not presented as tested outcomes.",
+      "extractionGates": {
+        "httpStatus": 200,
+        "complete": true,
+        "paragraphCount": 21,
+        "warnings": [],
+        "passed": true,
+        "bodyContaminationNote": "The full Penn Medicine release was reviewed; subheads were not counted as claims. The Traffic Injury Prevention/PubMed study record was consulted."
+      },
+      "primarySources": [
+        {
+          "url": "https://pubmed.ncbi.nlm.nih.gov/42599247/",
+          "matchingFacts": "Traffic Injury Prevention study record for the observational analysis of seatbelt use across vehicle trips."
+        }
+      ],
+      "corroboratingSources": [
+        {
+          "url": "https://www.pennmedicine.org/news/high-speed-low-light-conditions-tied-to-unbuckled-driving",
+          "matchingFacts": "Penn Medicine's complete study report describes the consenting sample, trip-sensor method, situational associations and observational limitations."
+        }
+      ],
+      "corroborationNote": "The peer-reviewed article record and Penn Medicine research report support the sample and associations; neither establishes that a targeted campaign causes more seatbelt use.",
+      "selectionReason": "Selected for a safety-relevant behavioral study with a large trip-level dataset and measurable situational associations. The report notes that ages 18–24 and non-white groups were underrepresented, avoids generalizing beyond the sample, preserves the observational design and treats targeted campaigns as a proposal to test, not a demonstrated outcome.",
       "contentReview": {
         "bodyComplete": true,
         "aiSummaryReviewed": true
       }
     },
     {
-      "articleId": "ciencia-2026-09-22-matrizes-cultura-celular",
-      "url": "https://finance.yahoo.com/healthcare/articles/cell-culture-matrices-market-set-083600015.html",
-      "publishedAt": "2026-09-22T08:36:00+00:00",
-      "evidence": "Complete extraction research/runs/2026-09-22T11-21-20-336Z-6df281a2-9343-4cb7-a1b3-001b9e9a3dde/extractions/cultura/e5b76672763c.json was retrieved with status 200, complete=true, 39 paragraphs and no warnings. The GlobeNewswire/ResearchAndMarkets release reports the estimated 2025 market value, 2033 projection, 8% CAGR, 3D cell-culture applications and product, application, end-use and regional segments. Forecast figures remain explicitly attributed to the report.",
-      "selectionReason": "Complete current biomedical-research market report with concrete 3D-cell-culture applications and clearly attributed forecasts; selected as a health-science infrastructure story, not as an efficacy claim or investment recommendation.",
+      "articleId": "making-invisible-cancers-visible-study-suggests-a-new-route-to-turn-cold-tumors-hot-dana-f",
+      "primarySection": "ciencia",
+      "secondarySections": [],
+      "secondarySectionRationale": {},
+      "url": "https://www.dana-farber.org/newsroom/news-releases/2026/making-invisible-cancers-visible-study-suggests-a-new-route-to-turn-cold-tumors-hot",
+      "publisher": "Dana-Farber Cancer Institute",
+      "headline": "Making invisible cancers visible: Study suggests a new route to turn ‘cold’ tumors ‘hot’",
+      "publishedAt": "2026-09-17T12:00:00Z",
+      "publishedDate": "2026-09-17",
+      "updatedAt": "2026-09-17T12:00:00Z",
+      "publicationEvidence": "The saved Dana-Farber page metadata gives the exact publication time 2026-09-17T12:00:00Z. No later source update time was verified.",
+      "sourceEvidencePath": "research/runs/2026-09-23T11-31-23-014Z-8d26ca21-0863-4450-82bc-1cdf26820144/focused/ciencia-r2-3.json",
+      "evidence": "Complete Dana-Farber institutional extraction (22 paragraphs; HTTP 200; complete=true; no warnings) was reviewed with the Immunity/PubMed study record. The article preserves peptide-count and ERAP1 laboratory findings and explicitly states that no patient treatment result was demonstrated.",
+      "extractionGates": {
+        "httpStatus": 200,
+        "complete": true,
+        "paragraphCount": 22,
+        "warnings": [],
+        "passed": true,
+        "bodyContaminationNote": "The full Dana-Farber study report was reviewed; media-contact/footer text was excluded. The Immunity/PubMed paper record was consulted. The article explicitly distinguishes laboratory mechanisms from patient treatment."
+      },
+      "primarySources": [
+        {
+          "url": "https://pubmed.ncbi.nlm.nih.gov/42753739/",
+          "matchingFacts": "Immunity study record for p53 peptide display, antigen-processing escape and ERAP1 experiments."
+        }
+      ],
+      "corroboratingSources": [
+        {
+          "url": "https://www.dana-farber.org/newsroom/news-releases/2026/making-invisible-cancers-visible-study-suggests-a-new-route-to-turn-cold-tumors-hot",
+          "matchingFacts": "Dana-Farber's complete institutional report describes the measured p53 peptides, ERAP1 laboratory experiments and absence of patient-treatment results."
+        }
+      ],
+      "corroborationNote": "The institute release and peer-reviewed Immunity paper support the mechanistic findings; the study does not report conversion of cold tumors in patients or clinical efficacy.",
+      "selectionReason": "Selected for a consequential tumor-immunology mechanism with quantitative peptide measurements and laboratory experiments. The report states the translational idea as prospective and excludes any claim of demonstrated patient benefit.",
       "contentReview": {
         "bodyComplete": true,
         "aiSummaryReviewed": true
       }
     },
     {
-      "articleId": "ciencia-2026-09-22-musica-escolhas-alimentares",
-      "url": "https://www.terra.com.br/vida-e-estilo/comportamento/voce-sabia-que-a-musica-pode-ter-influencia-no-que-voce-come-veja-o-que-diz-estudo,f655e40724d570046dca21a1b9e501e1k2bsx6kt.html",
-      "publishedAt": "2026-09-22T00:00:00-03:00",
-      "evidence": "Complete extraction research/runs/2026-09-22T11-21-20-336Z-6df281a2-9343-4cb7-a1b3-001b9e9a3dde/extractions/ciencia/2e13134182ad.json was retrieved with status 200, complete=true, 12 paragraphs and no warnings. The page does not expose a publication timestamp in the extraction; the local-midnight 2026-09-22 marker is used only for current-run ordering. The complete body reports four tests, 911 cafeteria meals, the 18.94% versus 13.59% comparison and the laboratory scores for calm and high-stimulation music.",
-      "selectionReason": "A distinct behavioral-health research report with a complete body, quantified study design and direct relevance to everyday food environments; selected after excluding weather-only, political, opinion and inaccessible candidates.",
+      "articleId": "tampa-bay-migrant-potters-mississippian-study-2026",
+      "primarySection": "ciencia",
+      "secondarySections": [],
+      "secondarySectionRationale": {},
+      "url": "https://www.floridamuseum.ufl.edu/science/archaeologists-uncover-centuries-old-mystery-of-tampa-bays-secret-community-of-migrant-potters/",
+      "publisher": "Florida Museum of Natural History",
+      "headline": "Archaeologists uncover centuries-old mystery of Tampa Bay’s secret community of migrant potters",
+      "publishedAt": "2026-09-21T11:41:53-04:00",
+      "publishedDate": "2026-09-21",
+      "updatedAt": "2026-09-21T11:41:53-04:00",
+      "publicationEvidence": "The live Florida Museum page's article:published_time metadata and saved extraction give 2026-09-21T11:41:53-04:00. No later source update time was verified.",
+      "sourceEvidencePath": "research/runs/2026-09-23T11-31-23-014Z-8d26ca21-0863-4450-82bc-1cdf26820144/focused/ciencia-r3-1.json",
+      "evidence": "Complete Florida Museum institutional extraction (38 paragraphs; HTTP 200; complete=true; no warnings) was reviewed with the American Antiquity study and independent Nautilus report. The article limits the migration interpretation to the 58-shard sample and material evidence.",
+      "extractionGates": {
+        "httpStatus": 200,
+        "complete": true,
+        "paragraphCount": 38,
+        "warnings": [],
+        "passed": true,
+        "bodyContaminationNote": "The full Florida Museum article and independent Nautilus report were reviewed; headings and research/media-contact footer material were excluded. The American Antiquity DOI was identified, but the journal page was inaccessible through the web retrieval backend; the readable institutional report supports the study details used."
+      },
+      "primarySources": [
+        {
+          "url": "https://doi.org/10.1017/aaq.2026.10227",
+          "matchingFacts": "American Antiquity study record for the Tampa Bay pottery sample and production evidence."
+        }
+      ],
+      "corroboratingSources": [
+        {
+          "url": "https://nautil.us/the-mysterious-migrant-potters-of-ancient-tampa-bay-1285200",
+          "matchingFacts": "Nautilus independently reports local clay, grog and mica evidence and attributes the migration interpretation to the study authors; it is coverage of the same study, not a separate replication."
+        }
+      ],
+      "corroborationNote": "The independent report agrees on the sampled pottery and the authors' inference; the article limits the migration claim to the archaeological evidence and analyzed sample.",
+      "selectionReason": "Selected for a distinctive archaeological study that tests a long-running origin question with compositional and production evidence. The article distinguishes local clay from the authors' inference about migrant artisans and avoids generalizing from 58 sherds to an entire population.",
       "contentReview": {
         "bodyComplete": true,
         "aiSummaryReviewed": true
       }
     },
     {
-      "articleId": "ciencia-2026-09-22-ouro-rios-erosao",
-      "url": "https://oantagonista.com.br/economia/por-que-o-ouro-aparece-em-determinados-rios-e-nao-em-outros-a-relacao-entre-montanhas-erosao-e-antigos-depositos-minerais/",
-      "publishedAt": "2026-09-22T01:23:00+00:00",
-      "evidence": "Complete extraction research/runs/2026-09-22T11-21-20-336Z-6df281a2-9343-4cb7-a1b3-001b9e9a3dde/extractions/economia/ba9f34fb1007.json was retrieved with status 200, complete=true, 43 paragraphs and no warnings. It explains how erosion, quartz veins, tectonic and volcanic history, river-bed geometry, heavy sediment and floods contribute to alluvial-gold concentration; unrelated recommendation modules were excluded from the report.",
-      "selectionReason": "A self-contained geology explainer with an exact timestamp and distinct environmental-science content; selected to complete the desk’s coverage of Earth processes while omitting the source’s unrelated recommendation material.",
+      "articleId": "sixteen-new-aureobasidium-species-thailand-2026",
+      "primarySection": "ciencia",
+      "secondarySections": [],
+      "secondarySectionRationale": {},
+      "url": "https://www.newswise.com/articles/sixteen-new-fungus-species-found-hiding-in-thailands-flowers",
+      "publisher": "Newswise (institution-submitted research release)",
+      "headline": "Sixteen New Fungus Species Found Hiding in Thailand's Flowers",
+      "publishedAt": "2026-09-18T03:30:00-04:00",
+      "publishedDate": "2026-09-18",
+      "updatedAt": "2026-09-18T03:30:00-04:00",
+      "publicationEvidence": "Newswise JSON-LD datePublished metadata gives 2026-09-18T03:30:00-04:00; the saved extraction has no publishedAt value. No later source update time was verified.",
+      "sourceEvidencePath": "research/runs/2026-09-23T11-31-23-014Z-8d26ca21-0863-4450-82bc-1cdf26820144/focused/ciencia-r3-2.json",
+      "evidence": "Complete Newswise institutional-submitted extraction (9 paragraphs; HTTP 200; complete=true; no warnings) and the complete Scientias report were reviewed alongside indexed IMA Fungus study details. The direct journal page returned HTTP 403; the draft stays within the release and indexed study record and does not infer population prevalence or health risk.",
+      "extractionGates": {
+        "httpStatus": 200,
+        "complete": true,
+        "paragraphCount": 9,
+        "warnings": [],
+        "passed": true,
+        "bodyContaminationNote": "The full Newswise research release and complete independent Scientias report were reviewed; journal-link footer material was excluded. The IMA Fungus article page returned HTTP 403 through the retrieval backend; its journal record and abstract details were checked in indexed records and the institutional-submitted release."
+      },
+      "primarySources": [
+        {
+          "url": "https://imafungus.pensoft.net/article/188009",
+          "matchingFacts": "IMA Fungus source-of-record page and indexed paper record support the survey, 54 strains, 31 flower species, 16 new species and combined taxonomic methods; direct page retrieval returned 403."
+        }
+      ],
+      "corroboratingSources": [
+        {
+          "url": "https://scientias.nl/zestien-nieuwe-schimmelsoorten-ontdekt-in-thaise-bloemen/",
+          "matchingFacts": "Independent coverage matches the 2024 survey, sample counts, 16 new species and the combined molecular, morphological and physiological methods; it notes that the new species' industrial or health properties were not tested."
+        }
+      ],
+      "corroborationNote": "Scientias independently matches the survey's taxonomy and sample facts. The journal page was blocked, so the draft stays within the complete institutional-submitted release and indexed study record and makes no broader prevalence or health-risk claim.",
+      "selectionReason": "Selected for a well-defined fungal-taxonomy study with a finite field sample, multiple identification methods and an independent secondary report. The article limits conclusions to the surveyed flowers and strains; it does not infer clinical, environmental or industrial effects.",
       "contentReview": {
         "bodyComplete": true,
         "aiSummaryReviewed": true
@@ -134,7 +439,12 @@
     "en": ""
   },
   "improvements": [],
-  "candidateRun": "research/runs/2026-09-22T11-21-20-336Z-6df281a2-9343-4cb7-a1b3-001b9e9a3dde",
-  "retrievedAt": "2026-09-22T11:26:42.066Z",
-  "reviewStatus": "draft-source-verified-no-publication-approval"
+  "editorialFlags": [
+    {
+      "articleId": "copper-boom-energy-transition-wildlands-vicuna-2026",
+      "flag": "Source study attribution corrected",
+      "details": "Mongabay's text attributes the 54% land-overlap statistic to a 2025 Nature study; it matches Owen et al.'s 2022 Nature Sustainability paper (DOI 10.1038/s41893-022-00994-6). The article copy uses the primary source and states that the result is global, spans multiple minerals and does not establish Vicuña-specific impacts."
+    }
+  ],
+  "reviewStatus": "draft-source-reviewed-no-fact-check-or-publication-approval"
 }

@@ -1,0 +1,118 @@
+{
+  "id": "ex-arbitro-sidrack-marinho-e-o-convidado-do-zyb-podcast-desta-quarta-ge",
+  "slug": "ex-arbitro-sidrack-marinho-e-o-convidado-do-zyb-podcast-desta-quarta-ge",
+  "section": "esportes",
+  "secondarySections": [],
+  "publishedAt": "2026-09-22T18:04:52.749-03:00",
+  "updatedAt": "2026-09-24T17:45:13.603Z",
+  "sources": [
+    {
+      "name": "GE",
+      "url": "https://ge.globo.com/se/noticia/2026/09/22/ex-arbitro-sidrack-marinho-e-o-convidado-do-zyb-podcast-desta-quarta.ghtml"
+    },
+    {
+      "name": "GE (schedule context, 8 September 2026)",
+      "url": "https://ge.globo.com/google/amp/se/noticia/2026/09/08/novo-gerente-do-sergipe-jorge-junior-e-o-convidado-do-zyb-podcast.ghtml"
+    },
+    {
+      "name": "Federação Sergipana de Futebol (official schedule archive; page credits GE)",
+      "url": "https://fsf-se.com.br/milton-dantas-e-primeiro-convidado-de-2025-do-zyb-podcast-esporte-clube/"
+    },
+    {
+      "name": "FM Sergipe ZYB YouTube playlist (linked from GE)",
+      "url": "https://www.youtube.com/watch?list=PLFxU_RWstUcbQFF7FNoQ9c_kwxTipf5P5&v=R2I0DS1uagc"
+    }
+  ],
+  "rights": {
+    "mode": "original-report"
+  },
+  "translations": {
+    "pt-BR": {
+      "title": "Sidrack Marinho é o convidado de podcast esportivo em Sergipe",
+      "summary": "O ex-árbitro foi anunciado para a edição 85 do ZYB Podcast Esporte Clube, programada para quarta-feira, 23 de setembro.",
+      "aiSummary": [
+        "O GE anunciou Sidrack Marinho para a edição 85, marcada para 23 de setembro às 15h.",
+        "O ZYB vai ao vivo às quartas-feiras, às 15h, no canal da FM Sergipe no YouTube.",
+        "Segundo o GE, Marinho ganhou destaque como árbitro nos anos 1990, foi escolhido duas vezes como melhor do país e hoje administra a Arena Batistão."
+      ],
+      "paragraphs": [
+        "O GE anunciou o ex-árbitro Sidrack Marinho como convidado da edição 85 do ZYB Podcast Esporte Clube. A reportagem de 22 de setembro informou que o programa estava marcado para quarta-feira, 23 de setembro, às 15h; no corte desta edição, a transmissão ainda era futura.",
+        "O GE também informou, em 8 de setembro, que a edição semanal do ZYB vai ao vivo às quartas-feiras, às 15h, no canal da FM Sergipe no YouTube. Um aviso anterior da Federação Sergipana de Futebol registra o mesmo horário e declara que usou informações do GE.",
+        "Fábio Carneiro, Thiago Barbosa e Eduardo Costa foram indicados como entrevistadores da edição. O GE informou que o público poderia participar pelo chat da transmissão e enviar perguntas por WhatsApp.",
+        "Sidrack nasceu na Bahia e cresceu em Aracaju, segundo o perfil publicado pelo GE. Ele se tornou árbitro de futebol e ganhou destaque na década de 1990; atualmente, administra a Arena Batistão.",
+        "A reportagem do GE afirma que Marinho foi escolhido duas vezes como melhor árbitro do Brasil e trabalhou em finais do Campeonato Brasileiro e da Copa do Brasil. Esses dados biográficos permanecem atribuídos à publicação."
+      ]
+    },
+    "en": {
+      "title": "Sidrack Marinho named guest on a sports podcast in Sergipe",
+      "summary": "The former referee was announced for episode 85 of ZYB Podcast Esporte Clube, scheduled for Wednesday, September 23.",
+      "aiSummary": [
+        "GE announced Sidrack Marinho as the guest for episode 85, scheduled for September 23 at 3 p.m.",
+        "ZYB airs live on Wednesdays at 3 p.m. on FM Sergipe’s YouTube channel.",
+        "GE says Marinho rose to prominence as a referee in the 1990s, was selected twice as Brazil’s best, and now manages Arena Batistão."
+      ],
+      "paragraphs": [
+        "GE named former referee Sidrack Marinho as the guest for episode 85 of ZYB Podcast Esporte Clube. Its September 22 report said the program was scheduled for Wednesday, September 23, at 3 p.m.; at this edition's cutoff, the broadcast was still in the future.",
+        "GE also reported on September 8 that the weekly ZYB edition airs live on Wednesdays at 3 p.m. on FM Sergipe’s YouTube channel. An earlier Sergipe Football Federation notice gives the same time and says it used information from GE.",
+        "Fábio Carneiro, Thiago Barbosa and Eduardo Costa were listed as the episode interviewers. GE said viewers could take part in the live chat or send questions through WhatsApp.",
+        "Marinho was born in Bahia and grew up in Aracaju, according to GE. He became a football referee and gained prominence in the 1990s; he now manages Arena Batistão.",
+        "GE reports that Marinho was selected twice as Brazil's best referee and officiated finals of the Brazilian Championship and Copa do Brasil. These biographical details remain attributed to that report."
+      ]
+    }
+  },
+  "verification": {
+    "score": 8.2,
+    "checkedAt": "2026-09-24T15:59:13Z",
+    "checks": [
+      {
+        "provider": "Aos Fatos",
+        "url": "https://www.aosfatos.org/",
+        "finding": "no-match",
+        "note": "Exact-name/ZYB searches found no relevant fact-check of Sidrack Marinho or the preview. Neutral."
+      },
+      {
+        "provider": "Agência Lupa",
+        "url": "https://www.agencialupa.org/",
+        "finding": "no-match",
+        "note": "No claim-specific check of Sidrack Marinho or ZYB found. Neutral."
+      },
+      {
+        "provider": "Projeto Comprova",
+        "url": "https://projetocomprova.com.br/",
+        "finding": "no-match",
+        "note": "No relevant fact-check found for the local podcast announcement. Neutral."
+      },
+      {
+        "provider": "AFP Fact Check",
+        "url": "https://factcheck.afp.com/",
+        "finding": "no-match",
+        "note": "No relevant international fact-check found for the named guest or program. Neutral."
+      },
+      {
+        "provider": "Reuters Fact Check",
+        "url": "https://www.reuters.com/fact-check/",
+        "finding": "no-match",
+        "note": "No relevant fact-check found for the preview or guest. Neutral."
+      },
+      {
+        "provider": "Full Fact",
+        "url": "https://fullfact.org/",
+        "finding": "no-match",
+        "note": "No relevant fact-check found for the scheduled episode. Neutral."
+      },
+      {
+        "provider": "GE",
+        "url": "https://ge.globo.com/se/noticia/2026/09/22/ex-arbitro-sidrack-marinho-e-o-convidado-do-zyb-podcast-desta-quarta.ghtml",
+        "finding": "supports",
+        "note": "Complete GE preview identifies Marinho as episode 85 guest and the planned September 23, 15:00 live slot; it says the broadcast was still future at cutoff."
+      },
+      {
+        "provider": "GE",
+        "url": "https://ge.globo.com/google/amp/se/noticia/2026/09/08/novo-gerente-do-sergipe-jorge-junior-e-o-convidado-do-zyb-podcast.ghtml",
+        "finding": "supports",
+        "note": "Earlier GE schedule report gives the recurring Wednesday 15:00 slot; the FSF schedule notice mirrors and credits GE, so is not independent."
+      }
+    ],
+    "caveat": "Bounded one-source exception: this is a low-risk preview of GE's own scheduled program, not a claim that the interview aired. The recurring slot is from the same outlet; the official FSF notice credits GE. Biographical awards/career details remain attributed to GE, and no post-cutoff airing status is asserted."
+  }
+}

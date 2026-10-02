@@ -75,7 +75,7 @@ export const articleSchema = z
     slug: z.string().regex(/^[a-z0-9-]+$/),
     section: sectionIdSchema,
     secondarySections: z.array(sectionIdSchema),
-    publishedAt: timestamp,
+    publishedAt: timestamp.or(z.iso.date()),
     publishedDate: z.iso.date().optional(),
     updatedAt: timestamp,
     sources: z

@@ -1,0 +1,89 @@
+{
+  "id": "uk-and-us-warned-to-take-action-on-spiralling-debt-costs-by-imf",
+  "slug": "uk-and-us-warned-to-take-action-on-spiralling-debt-costs-by-imf",
+  "section": "mundo",
+  "secondarySections": [],
+  "publishedAt": "2026-09-23T08:31:16.333Z",
+  "publishedDate": "2026-09-23",
+  "updatedAt": "2026-09-24T17:45:13.603Z",
+  "sources": [
+    {
+      "name": "BBC News",
+      "url": "https://www.bbc.com/news/articles/cx305ymq4ldqo"
+    },
+    {
+      "name": "UK Office for National Statistics",
+      "url": "https://www.ons.gov.uk/economy/governmentpublicsectorandtaxes/publicsectorfinance/bulletins/publicsectorfinances/august2026"
+    }
+  ],
+  "rights": {
+    "mode": "original-report"
+  },
+  "translations": {
+    "pt-BR": {
+      "title": "Chefe do FMI pede a EUA e Reino Unido que reduzam endividamento",
+      "summary": "Em entrevista à BBC, Kristalina Georgieva defendeu contenção fiscal; dados oficiais britânicos registraram empréstimos de £18,3 bilhões em agosto.",
+      "aiSummary": [
+        "Kristalina Georgieva disse que economias avançadas precisam reduzir dívidas e priorizar consolidação fiscal.",
+        "O Reino Unido tomou £18,3 bilhões emprestados em agosto, 19% acima do mesmo mês de 2025, segundo o ONS.",
+        "As falas da diretora são recomendações, não uma política adotada pelo FMI ou pelos governos."
+      ],
+      "paragraphs": [
+        "A diretora-gerente do Fundo Monetário Internacional, Kristalina Georgieva, pediu que economias avançadas, incluindo Reino Unido e Estados Unidos, reduzam o endividamento e priorizem a consolidação fiscal. Ela fez as recomendações em entrevista exclusiva à BBC durante a Assembleia Geral da ONU.",
+        "Georgieva atribuiu a pressão sobre a dívida a choques econômicos e ao aumento dos custos de juros. Ela disse que governos controlam parte das respostas por meio de decisões domésticas, embora não controlem todos os fatores externos que afetam suas economias.",
+        "No Reino Unido, o Escritório Nacional de Estatísticas informou que o governo tomou £18,3 bilhões emprestados em agosto, cerca de 19% mais que um ano antes e acima das previsões oficiais. O órgão também informou que o pagamento de juros da dívida foi o maior já registrado para um mês de agosto.",
+        "Georgieva recomendou reduzir a dívida, colocar a consolidação fiscal entre as prioridades e preservar a estabilidade de preços. Essas declarações refletem a avaliação da diretora-gerente na entrevista; não representam uma medida já adotada pelo governo britânico ou pelo norte-americano.",
+        "A diretora também apontou um possível risco financeiro ligado à inteligência artificial. Ela disse que incidentes em que sistemas escapem do controle poderiam criar riscos à estabilidade, enquanto empresas de tecnologia disputam recursos para financiar novos investimentos.",
+        "A entrevista ainda citou a energia como fonte de pressão econômica e a necessidade de uma retomada duradoura das exportações do Golfo. Os dados oficiais britânicos corroboram o número de empréstimos de agosto, não as declarações atribuídas a Georgieva."
+      ]
+    },
+    "en": {
+      "title": "IMF chief urges UK and US to rein in borrowing",
+      "summary": "In a BBC interview, Kristalina Georgieva called for fiscal restraint; official UK figures recorded £18.3 billion in borrowing in August.",
+      "aiSummary": [
+        "Kristalina Georgieva said advanced economies should reduce debt and prioritize fiscal consolidation.",
+        "UK borrowing was £18.3 billion in August, 19% above the same month in 2025, according to the ONS.",
+        "The managing director’s remarks are recommendations, not policies adopted by the IMF or governments."
+      ],
+      "paragraphs": [
+        "International Monetary Fund Managing Director Kristalina Georgieva urged advanced economies, including the United Kingdom and the United States, to reduce borrowing and prioritize fiscal consolidation. She made the recommendations in a BBC exclusive interview on the sidelines of the UN General Assembly.",
+        "Georgieva attributed debt pressure to economic shocks and rising interest costs. She said governments control some responses through domestic decisions, even though they cannot control every external factor affecting their economies.",
+        "In the United Kingdom, the Office for National Statistics said the government borrowed £18.3 billion in August, about 19% more than a year earlier and above official forecasts. It also reported that debt-interest spending was the highest recorded for an August since monthly records began.",
+        "Georgieva recommended reducing debt, making fiscal consolidation a priority and maintaining price stability. These are the managing director’s views as stated in the interview; they are not measures shown as adopted by the British or U.S. governments.",
+        "The IMF chief also described a possible financial risk linked to artificial intelligence. She said incidents in which systems act beyond safe control could pose a stability risk as technology companies compete for funding for new investment.",
+        "The interview also cited energy as a source of economic pressure and the need for Gulf exports to resume durably. Official UK data corroborate the August borrowing figure, not the statements attributed to Georgieva."
+      ]
+    }
+  },
+  "verification": {
+    "score": 8.8,
+    "checkedAt": "2026-09-24T14:23:42Z",
+    "checks": [
+      {
+        "provider": "BBC News (interview source)",
+        "url": "https://www.bbc.com/news/articles/cx305ymq4ldqo",
+        "finding": "supports",
+        "note": "The complete BBC extraction supports the attributed interview recommendations and quoted risk assessments; these are Georgieva’s views, not adopted government policy."
+      },
+      {
+        "provider": "UK Office for National Statistics",
+        "url": "https://www.ons.gov.uk/economy/governmentpublicsectorandtaxes/publicsectorfinance/bulletins/publicsectorfinances/august2026",
+        "finding": "supports",
+        "note": "The official August bulletin confirms £18.3 billion borrowing, about 19% above August 2025 and above forecast; it also supports the report’s August debt-interest comparison."
+      },
+      {
+        "provider": "Full Fact",
+        "url": "https://fullfact.org/",
+        "finding": "no-match",
+        "note": "Targeted searches for the specific August 2026 borrowing and Georgieva interview claims found no relevant fact-check; neutral."
+      },
+      {
+        "provider": "Reuters Fact Check",
+        "url": "https://www.reuters.com/fact-check/",
+        "finding": "no-match",
+        "note": "No direct fact-check of the ONS August figures or these interview quotations found; neutral."
+      }
+    ],
+    "caveat": "ONS corroborates the public-finance data; Georgieva’s policy recommendations and AI-risk assessment are supported by the BBC interview only and remain attributed. The article does not present them as adopted policy or certain outcomes."
+  }
+}

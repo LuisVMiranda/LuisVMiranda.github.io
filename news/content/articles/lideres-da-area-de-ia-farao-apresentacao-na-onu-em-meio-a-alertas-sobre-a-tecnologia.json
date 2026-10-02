@@ -1,0 +1,110 @@
+{
+  "id": "lideres-da-area-de-ia-farao-apresentacao-na-onu-em-meio-a-alertas-sobre-a-tecnologia",
+  "slug": "lideres-da-area-de-ia-farao-apresentacao-na-onu-em-meio-a-alertas-sobre-a-tecnologia",
+  "section": "tecnologia",
+  "secondarySections": [],
+  "publishedAt": "2026-09-23T08:15:49-03:00",
+  "updatedAt": "2026-09-24T17:45:13.603Z",
+  "sources": [
+    {
+      "name": "UOL/Tilt (Reuters)",
+      "url": "https://www.uol.com.br/tilt/noticias/reuters/2026/09/23/lideres-da-area-de-ia-farao-apresentacao-na-onu-em-meio-a-alertas-sobre-a-tecnologia.htm"
+    },
+    {
+      "name": "Le Monde",
+      "url": "https://www.lemonde.fr/international/article/2026/09/23/l-ia-pour-la-premiere-fois-en-debat-au-conseil-de-securite-de-l-onu_6780876_3210.html"
+    }
+  ],
+  "rights": {
+    "mode": "original-report"
+  },
+  "translations": {
+    "pt-BR": {
+      "title": "Executivos de IA devem falar ao Conselho de Segurança da ONU",
+      "summary": "Sam Altman, Dario Amodei e Clément Delangue estavam previstos para apresentar um relatório ao Conselho de Segurança em 23 de setembro, durante a Assembleia Geral. No horário de corte, a reunião ainda estava por acontecer.",
+      "aiSummary": [
+        "Executivos da OpenAI, Anthropic e Hugging Face deveriam apresentar um relatório ao Conselho de Segurança da ONU em 23 de setembro.",
+        "Segundo a Reuters, Sam Altman planejava defender parâmetros para medir capacidades de IA e avaliar medidas de segurança das empresas.",
+        "A apresentação estava programada para ocorrer durante a Assembleia Geral; as fontes não a descrevem como concluída no horário de corte."
+      ],
+      "paragraphs": [
+        "Executivos da OpenAI, da Anthropic e da Hugging Face estavam previstos para apresentar um relatório ao Conselho de Segurança das Nações Unidas na quarta-feira, 23 de setembro. A agenda coincidia com a Assembleia Geral anual, que reúne líderes mundiais em Nova York.",
+        "A Reuters identificou os participantes como Sam Altman, presidente-executivo da OpenAI; Dario Amodei, que ocupa o mesmo cargo na Anthropic; e Clément Delangue, cofundador da Hugging Face. O Conselho tem 15 integrantes, entre eles Estados Unidos e China.",
+        "Antes da reunião, Altman planejava pedir aos governos que adotassem parâmetros de referência para medir as capacidades dos sistemas de IA e avaliar as salvaguardas implantadas por empresas durante o desenvolvimento. A Reuters atribuiu essa descrição a um executivo da OpenAI.",
+        "O encontro foi apresentado como um debate sobre os riscos de sistemas avançados escaparem ao controle humano e sobre possíveis consequências para a segurança internacional. Um diplomata europeu ouvido pela Reuters disse que a discussão buscaria relacionar esses riscos ao mandato do Conselho.",
+        "O ministro das Relações Exteriores da França, Jean-Noël Barrot, deveria presidir a sessão. Le Monde também descreveu o tema como uma primeira discussão do Conselho sobre inteligência artificial. Até o corte desta edição, porém, as fontes tratavam a apresentação como programada, não como um evento já realizado nem como uma decisão regulatória."
+      ]
+    },
+    "en": {
+      "title": "AI executives are due to address the UN Security Council",
+      "summary": "Sam Altman, Dario Amodei and Clément Delangue were expected to present a report to the Security Council on September 23 during the General Assembly. At the edition cutoff, the meeting was still upcoming.",
+      "aiSummary": [
+        "Executives from OpenAI, Anthropic and Hugging Face were due to present a report to the UN Security Council on September 23.",
+        "Reuters said Sam Altman planned to call for benchmarks of AI capabilities and reviews of companies’ safety measures.",
+        "The presentation was scheduled during the General Assembly; the sources did not describe it as completed by the cutoff."
+      ],
+      "paragraphs": [
+        "Executives from OpenAI, Anthropic and Hugging Face were scheduled to present a report to the United Nations Security Council on Wednesday, September 23. The agenda coincided with the annual General Assembly, which brings world leaders to New York.",
+        "Reuters identified the participants as OpenAI chief executive Sam Altman, Anthropic chief executive Dario Amodei, and Hugging Face co-founder Clément Delangue. The Council has 15 members, including the United States and China.",
+        "Before the meeting, Altman planned to urge governments to adopt benchmarks for measuring AI systems’ capabilities and for assessing safeguards used by companies as they develop the technology. Reuters attributed that account to an OpenAI executive.",
+        "The gathering was framed as a discussion of risks that advanced systems could escape human control and of possible consequences for international security. A European diplomat quoted by Reuters said the session would connect those risks to the Council’s remit.",
+        "France’s foreign minister, Jean-Noël Barrot, was expected to chair the session. Le Monde also described it as the Council’s first discussion focused on artificial intelligence. At this edition’s cutoff, however, sources described the presentation as scheduled—not completed—and reported no resulting regulation or decision."
+      ]
+    }
+  },
+  "verification": {
+    "score": 9,
+    "checkedAt": "2026-09-24T14:35:43Z",
+    "checks": [
+      {
+        "provider": "Aos Fatos",
+        "url": "https://www.aosfatos.org/",
+        "finding": "no-match",
+        "note": "Portuguese site-scoped searches for the event, named executives and AI-risk claims found no applicable fact-check; no-match is neutral, not evidence of truth."
+      },
+      {
+        "provider": "Agência Lupa",
+        "url": "https://www.agencialupa.org/",
+        "finding": "no-match",
+        "note": "Portuguese site-scoped searches for the event, named executives and AI-risk claims found no applicable fact-check; no-match is neutral, not evidence of truth."
+      },
+      {
+        "provider": "Projeto Comprova",
+        "url": "https://projetocomprova.com.br/",
+        "finding": "no-match",
+        "note": "Portuguese site-scoped searches for the event, named executives and AI-risk claims found no applicable fact-check; no-match is neutral, not evidence of truth."
+      },
+      {
+        "provider": "AFP Fact Check",
+        "url": "https://factcheck.afp.com/",
+        "finding": "no-match",
+        "note": "English fact-check searches found no directly applicable claim review; AFP's separate event reporting is not treated as a fact-check verdict. Neutral."
+      },
+      {
+        "provider": "Reuters Fact Check",
+        "url": "https://www.reuters.com/fact-check/",
+        "finding": "no-match",
+        "note": "Search found no Reuters Fact Check item addressing this event; the underlying Reuters news report is assessed separately. Neutral."
+      },
+      {
+        "provider": "Full Fact",
+        "url": "https://fullfact.org/",
+        "finding": "no-match",
+        "note": "Search found no directly applicable Full Fact article. This absence is neutral and does not verify the event."
+      },
+      {
+        "provider": "UOL/Tilt (Reuters)",
+        "url": "https://www.uol.com.br/tilt/noticias/reuters/2026/09/23/lideres-da-area-de-ia-farao-apresentacao-na-onu-em-meio-a-alertas-sobre-a-tecnologia.htm",
+        "finding": "supports",
+        "note": "Complete eight-paragraph saved Reuters extraction identifies Altman, Amodei and Delangue as scheduled briefers and attributes the benchmark proposal to an OpenAI executive."
+      },
+      {
+        "provider": "Le Monde",
+        "url": "https://www.lemonde.fr/international/article/2026/09/23/l-ia-pour-la-premiere-fois-en-debat-au-conseil-de-securite-de-l-onu_6780876_3210.html",
+        "finding": "supports",
+        "note": "Full article reviewed in saved corroboration evidence; independently confirms the planned AI-focused Council discussion and expected participants. It does not establish an outcome by the frozen cutoff."
+      }
+    ],
+    "caveat": "Low-risk time-sensitive exception: the 23 September session was still scheduled at the 2026-09-23T11:31:23.014Z cutoff. Article, translation and summaries preserve future tense and do not imply that a decision or rule had been adopted. Later coverage of the meeting is not used to rewrite the frozen-time framing."
+  }
+}

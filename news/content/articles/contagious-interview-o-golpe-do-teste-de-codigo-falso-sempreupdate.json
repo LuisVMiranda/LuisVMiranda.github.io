@@ -1,0 +1,116 @@
+{
+  "id": "contagious-interview-o-golpe-do-teste-de-codigo-falso-sempreupdate",
+  "slug": "contagious-interview-o-golpe-do-teste-de-codigo-falso-sempreupdate",
+  "section": "tecnologia",
+  "secondarySections": [],
+  "publishedAt": "2026-09-22T18:00:00-03:00",
+  "updatedAt": "2026-09-24T17:45:13.603Z",
+  "sources": [
+    {
+      "name": "SempreUpdate",
+      "url": "https://sempreupdate.com.br/contagious-interview-golpe-falsa-entrevista-desenvolvedores/"
+    },
+    {
+      "name": "The Register",
+      "url": "https://www.theregister.com/security/2026/09/18/north-koreas-fake-job-interviews-infected-30000-devices/5297461"
+    }
+  ],
+  "rights": {
+    "mode": "original-report"
+  },
+  "translations": {
+    "pt-BR": {
+      "title": "Golpe de falsas entrevistas teria infectado 30 mil dispositivos",
+      "summary": "Autoridades de quatro países atribuíram à campanha Contagious Interview infecções em larga escala e roubo de criptomoedas. A abordagem usa vagas e testes de programação falsos para induzir candidatos a executar arquivos maliciosos.",
+      "aiSummary": [
+        "Um alerta internacional atribuiu ao grupo identificado como WaterPlum o uso de falsas entrevistas para comprometer dispositivos de candidatos.",
+        "As autoridades disseram que mais de 30 mil dispositivos e mais de 7 mil carteiras de criptomoedas foram afetados; são números atribuídos ao alerta, não uma auditoria independente.",
+        "A fraude explora testes de código que levam candidatos a baixar e executar projetos ou arquivos de origem não verificada."
+      ],
+      "paragraphs": [
+        "A campanha chamada Contagious Interview transformava processos seletivos remotos em oportunidade para instalar malware. Segundo a reportagem do SempreUpdate e a cobertura independente do The Register, operadores identificados por autoridades como WaterPlum se passavam por recrutadores e miravam profissionais de desenvolvimento, Web3 e criptomoedas.",
+        "Um alerta conjunto de órgãos do Japão, Estados Unidos, Austrália e Alemanha afirmou que pelo menos 30 mil dispositivos em mais de cem países foram comprometidos entre dezembro de 2025 e julho de 2026. A escala é atribuída às autoridades que divulgaram o alerta; não representa uma contagem auditada de forma independente pelas reportagens.",
+        "O esquema começa com uma oferta de emprego convincente e avança para uma entrevista ou teste técnico. O candidato pode ser instruído a baixar um repositório, instalar dependências ou executar um script. Os pesquisadores citados nas reportagens associam essa etapa a malware capaz de coletar informações e manter acesso ao computador.",
+        "Os órgãos citados também disseram que mais de 7 mil carteiras de criptomoedas tiveram fundos ou credenciais comprometidos. O The Register atribuiu às agências uma estimativa de pelo menos US$ 10,71 milhões em valores roubados e direcionados à Coreia do Norte; esse total também permanece uma cifra reportada pelo alerta.",
+        "Para reduzir o risco, especialistas recomendam confirmar a vaga e a identidade do recrutador por canais oficiais, inspecionar o código antes de executá-lo e manter testes em ambientes isolados, sem credenciais pessoais ou corporativas. Um processo seletivo legítimo não deve exigir que o candidato desative proteções ou execute comandos desconhecidos no computador principal."
+      ]
+    },
+    "en": {
+      "title": "Fake job interviews reportedly infected 30,000 devices",
+      "summary": "Authorities in four countries attributed large-scale infections and cryptocurrency theft to the Contagious Interview campaign. It uses fake vacancies and coding tests to persuade applicants to run malicious files.",
+      "aiSummary": [
+        "An international advisory attributed fake-interview attacks against job applicants to a group identified as WaterPlum.",
+        "Authorities said more than 30,000 devices and over 7,000 cryptocurrency wallets were affected; those are advisory figures, not an independent audit.",
+        "The operation exploits coding tests that prompt candidates to download or run projects and files from unverified sources."
+      ],
+      "paragraphs": [
+        "The campaign known as Contagious Interview turned remote hiring into an opportunity to install malware. SempreUpdate and independent coverage by The Register said authorities identified the operators as WaterPlum and described targets including software developers, Web3 specialists and cryptocurrency professionals.",
+        "A joint advisory from agencies in Japan, the United States, Australia and Germany said at least 30,000 devices in more than 100 countries were compromised between December 2025 and July 2026. The scale is attributed to the agencies that issued the warning; the reports did not independently audit the count.",
+        "The scheme begins with a plausible job offer and moves to a video interview or technical test. Applicants may be told to download a repository, install dependencies or run a script. Researchers cited by the reports linked that step to malware that can collect information and maintain access to a computer.",
+        "The agencies also said more than 7,000 cryptocurrency wallets had funds or credentials compromised. The Register attributed an estimate of at least $10.71 million in stolen funds, ultimately directed to North Korea, to the agencies; that figure likewise remains a reported advisory estimate.",
+        "To reduce exposure, specialists advise confirming vacancies and recruiter identities through official channels, inspecting code before running it, and keeping tests in isolated environments without personal or corporate credentials. A legitimate hiring process should not require applicants to disable protections or run unknown commands on their primary computer."
+      ]
+    }
+  },
+  "verification": {
+    "score": 9.1,
+    "checkedAt": "2026-09-24T14:35:43Z",
+    "checks": [
+      {
+        "provider": "Aos Fatos",
+        "url": "https://www.aosfatos.org/",
+        "finding": "no-match",
+        "note": "Portuguese site-scoped searches for WaterPlum, Contagious Interview and the reported counts found no applicable fact-check; no-match is neutral, not evidence of truth."
+      },
+      {
+        "provider": "Agência Lupa",
+        "url": "https://www.agencialupa.org/",
+        "finding": "no-match",
+        "note": "Portuguese site-scoped searches for WaterPlum, Contagious Interview and the reported counts found no applicable fact-check; no-match is neutral, not evidence of truth."
+      },
+      {
+        "provider": "Projeto Comprova",
+        "url": "https://projetocomprova.com.br/",
+        "finding": "no-match",
+        "note": "Portuguese site-scoped searches for WaterPlum, Contagious Interview and the reported counts found no applicable fact-check; no-match is neutral, not evidence of truth."
+      },
+      {
+        "provider": "AFP Fact Check",
+        "url": "https://factcheck.afp.com/",
+        "finding": "no-match",
+        "note": "English fact-check searches found no relevant WaterPlum/Contagious Interview claim review. Neutral, not corroboration."
+      },
+      {
+        "provider": "Reuters Fact Check",
+        "url": "https://www.reuters.com/fact-check/",
+        "finding": "no-match",
+        "note": "Search found no Reuters Fact Check item on this campaign or its reported figures. Neutral, not corroboration."
+      },
+      {
+        "provider": "Full Fact",
+        "url": "https://fullfact.org/",
+        "finding": "no-match",
+        "note": "Search found no directly applicable Full Fact article. The result is neutral."
+      },
+      {
+        "provider": "Google Fact Check Explorer",
+        "url": "https://toolbox.google.com/factcheck/explorer/search/WaterPlum%20Contagious%20Interview%2030000%20devices%207000%20wallets;hl=en",
+        "finding": "no-match",
+        "note": "Explorer explicitly reported no matching claims in English for this query. This is an index gap, not evidence that the underlying event is true."
+      },
+      {
+        "provider": "FBI Internet Crime Complaint Center (joint advisory)",
+        "url": "https://www.ic3.gov/CSA/2026/260918.pdf",
+        "finding": "supports",
+        "note": "The 18 September joint government advisory states at least 30,000 devices in over 100 countries, over 7,000 cryptocurrency wallets, and 1.7 billion JPY (US$10.71 million) transferred to the DPRK; it identifies agency assessments rather than an independent audit."
+      },
+      {
+        "provider": "The Register",
+        "url": "https://www.theregister.com/security/2026/09/18/north-koreas-fake-job-interviews-infected-30000-devices/5297461",
+        "finding": "supports",
+        "note": "Full 581-word article reviewed in saved evidence independently reports the advisory's scale, wallet count and attributed theft estimate."
+      }
+    ],
+    "caveat": "The headline says 'reportedly'; the body and both summaries attribute the figures and North Korean attribution to the multi-agency advisory and expressly say the totals were not independently audited. Numerical estimates are supported as agency-reported claims, not as independently counted outcomes. Defensive advice remains general and non-operational."
+  }
+}

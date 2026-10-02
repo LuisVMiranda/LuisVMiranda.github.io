@@ -1,0 +1,107 @@
+{
+  "id": "world-news-g4-countries-call-for-immediate-unsc-reform-cite-councils-inability-to-uphold-g",
+  "slug": "world-news-g4-countries-call-for-immediate-unsc-reform-cite-councils-inability-to-uphold-g",
+  "section": "politica",
+  "secondarySections": [],
+  "publishedAt": "2026-09-23T11:24:15+05:30",
+  "publishedDate": "2026-09-23",
+  "updatedAt": "2026-09-24T17:45:13.603Z",
+  "sources": [
+    {
+      "name": "LatestLY (ANI)",
+      "url": "https://www.latestly.com/agency-news/world-news-g4-countries-call-for-immediate-unsc-reform-cite-councils-inability-to-uphold-global-peace-security-7616526.html"
+    },
+    {
+      "name": "Federal Foreign Office of Germany",
+      "url": "https://www.auswaertiges-amt.de/en/newsroom/news/2803658-2803658"
+    }
+  ],
+  "rights": {
+    "mode": "original-report"
+  },
+  "translations": {
+    "pt-BR": {
+      "title": "Brasil e parceiros do G4 pedem avanço rápido na reforma do Conselho de Segurança",
+      "summary": "Ministros de Brasil, Índia, Alemanha e Japão defenderam ampliar as duas categorias de membros do Conselho; a declaração expressa a posição do grupo, não uma reforma aprovada.",
+      "aiSummary": [
+        "Os chanceleres do G4 se reuniram em Nova York em 22 de setembro, à margem da Assembleia Geral da ONU.",
+        "O grupo defende ampliar membros permanentes e não permanentes do Conselho de Segurança.",
+        "A declaração conjunta não altera a composição atual do Conselho."
+      ],
+      "paragraphs": [
+        "Os ministros das Relações Exteriores do Brasil, da Índia, da Alemanha e do Japão reuniram-se em Nova York em 22 de setembro, durante a 81ª Assembleia Geral das Nações Unidas. O grupo, conhecido como G4, divulgou uma declaração conjunta favorável a acelerar a reforma do Conselho de Segurança da ONU.",
+        "O documento afirma que, na avaliação dos quatro governos, o Conselho não consegue cumprir de forma eficaz sua responsabilidade central de manter a paz e a segurança internacionais. O grupo atribui parte do problema a uma estrutura criada há oito décadas, que considera pouco representativa das atuais relações de poder.",
+        "O G4 defende ampliar tanto a categoria de membros permanentes quanto a de não permanentes. Também pede maior representação de regiões que considera sub-representadas ou sem assento, entre elas África, Ásia-Pacífico e América Latina e Caribe.",
+        "Os ministros disseram que as negociações intergovernamentais passaram 18 anos sem resultados concretos e defenderam iniciar negociações baseadas em texto. A declaração também afirma que consenso não deve ser o parâmetro para decisões sobre reforma, posição apresentada pelo próprio grupo e não como uma decisão já adotada pela ONU.",
+        "A nota oficial do Ministério das Relações Exteriores da Alemanha confirma a reunião de Mauro Vieira, Subrahmanyam Jaishankar, Johann Wadephul e Motegi Toshimitsu em 22 de setembro e registra o mesmo compromisso com a ampliação do Conselho. Os ministros incumbiram autoridades de seus países de dar seguimento às conversas e planejaram avaliar o andamento em uma próxima reunião em Nova Délhi.",
+        "A declaração representa uma posição diplomática do G4. Ela não modifica a composição do Conselho de Segurança nem estabelece prazo vinculante para uma reforma, que ainda depende das negociações entre os membros das Nações Unidas."
+      ]
+    },
+    "en": {
+      "title": "Brazil and G4 partners call for faster UN Security Council reform",
+      "summary": "Ministers from Brazil, India, Germany and Japan backed expanding both membership categories; the statement is the group’s position, not an adopted reform.",
+      "aiSummary": [
+        "G4 foreign ministers met in New York on September 22 during the UN General Assembly.",
+        "The group supports expanding both permanent and non-permanent Security Council membership.",
+        "The joint statement does not change the Council’s current composition."
+      ],
+      "paragraphs": [
+        "The foreign ministers of Brazil, India, Germany and Japan met in New York on September 22 during the 81st United Nations General Assembly. The group, known as the G4, issued a joint statement calling for faster reform of the UN Security Council.",
+        "The statement says the four governments believe the Council is unable to effectively fulfill its central responsibility for maintaining international peace and security. The group attributes part of the problem to an eight-decade-old structure that it considers unrepresentative of current power relations.",
+        "The G4 supports expanding both permanent and non-permanent membership. It also calls for stronger representation for regions it considers underrepresented or without a seat, including Africa, Asia-Pacific, and Latin America and the Caribbean.",
+        "The ministers said intergovernmental negotiations had produced no concrete outcomes in 18 years and called for text-based negotiations to begin. The statement also says consensus should not be the benchmark for decisions on reform, a position advanced by the group rather than a decision already adopted by the UN.",
+        "Germany’s Foreign Office statement confirms the September 22 meeting of Mauro Vieira, Subrahmanyam Jaishankar, Johann Wadephul and Motegi Toshimitsu and records the same commitment to expanding the Council. The ministers tasked their officials with following up and planned to review progress at a future meeting in New Delhi.",
+        "The statement represents the G4’s diplomatic position. It does not change the Security Council’s membership or set a binding timetable for reform, which remains subject to negotiations among UN members."
+      ]
+    }
+  },
+  "verification": {
+    "score": 9.5,
+    "checkedAt": "2026-09-24T14:42:39Z",
+    "checks": [
+      {
+        "provider": "LatestLY (ANI)",
+        "url": "https://www.latestly.com/agency-news/world-news-g4-countries-call-for-immediate-unsc-reform-cite-councils-inability-to-uphold-global-peace-security-7616526.html",
+        "finding": "supports",
+        "note": "Complete saved ANI-syndicated report gives the ministers, meeting date, statement contents, position on expansion/text-based talks and planned follow-up."
+      },
+      {
+        "provider": "Federal Foreign Office of Germany",
+        "url": "https://www.auswaertiges-amt.de/en/newsroom/news/2803658-2803658",
+        "finding": "supports",
+        "note": "Opened primary joint statement confirms the four foreign ministers met in New York on 22 September, calls for expansion in both categories, describes the 18-year lack of outcomes and records the G4's position on consensus. The statement is a diplomatic position, not an adopted UN reform."
+      },
+      {
+        "provider": "Aos Fatos",
+        "url": "https://www.aosfatos.org/",
+        "finding": "no-match",
+        "note": "No fact-check of the G4 statement found; neutral."
+      },
+      {
+        "provider": "Agência Lupa",
+        "url": "https://www.agencialupa.org/",
+        "finding": "no-match",
+        "note": "No matching fact-check found; neutral."
+      },
+      {
+        "provider": "Projeto Comprova",
+        "url": "https://projetocomprova.com.br/",
+        "finding": "no-match",
+        "note": "No matching fact-check found; neutral."
+      },
+      {
+        "provider": "AFP Fact Check",
+        "url": "https://factcheck.afp.com/",
+        "finding": "no-match",
+        "note": "No matching fact-check found; neutral."
+      },
+      {
+        "provider": "Reuters Fact Check",
+        "url": "https://www.reuters.com/fact-check/",
+        "finding": "no-match",
+        "note": "Search results about unrelated UN videos do not address this September statement; no direct match."
+      }
+    ],
+    "caveat": "Strongest corroborated item: the direct joint statement verifies the central reported facts. Copy correctly attributes evaluative language to the G4 and says the statement neither changes current membership nor sets a binding reform deadline."
+  }
+}

@@ -1,0 +1,122 @@
+{
+  "id": "apple-settlement-offers-eligible-iphone-owners-up-to-95-here-is-how-to-file-a-claim",
+  "slug": "apple-settlement-offers-eligible-iphone-owners-up-to-95-here-is-how-to-file-a-claim",
+  "section": "tecnologia",
+  "secondarySections": [],
+  "publishedAt": "2026-09-22T12:26:14-04:00",
+  "updatedAt": "2026-09-24T17:45:13.603Z",
+  "sources": [
+    {
+      "name": "CBS News",
+      "url": "https://www.cbsnews.com/news/apple-settlement-iphone-siri-claim/"
+    },
+    {
+      "name": "Smartphone AI Settlement Administrator",
+      "url": "https://smartphoneaisettlement.com/frequently-asked-questions/"
+    }
+  ],
+  "rights": {
+    "mode": "original-report"
+  },
+  "translations": {
+    "pt-BR": {
+      "title": "Acordo sobre Siri prevê até US$ 95 para alguns compradores de iPhone",
+      "summary": "O período para apresentar pedidos em um acordo coletivo de US$ 250 milhões está aberto, mas a aprovação final ainda depende de uma audiência marcada para fevereiro de 2027. A Apple negou as alegações e o acordo não representa admissão de responsabilidade.",
+      "aiSummary": [
+        "O acordo busca encerrar alegações de publicidade enganosa sobre recursos da Siri ligados à Apple Intelligence; a empresa negou irregularidades.",
+        "O pedido é restrito a compradores originais residentes nos Estados Unidos que adquiriram no país um iPhone elegível para uso pessoal ou profissional, não para revenda.",
+        "O valor inicial informado é US$ 25 por aparelho elegível, podendo variar até US$ 95; a aprovação judicial final ainda está pendente."
+      ],
+      "paragraphs": [
+        "A Apple concordou em financiar um acordo coletivo de US$ 250 milhões relacionado a alegações de que a empresa divulgou recursos da Siri associados à Apple Intelligence que não estavam disponíveis como alguns consumidores esperavam. A informação foi publicada pela CBS News com base nos termos do processo e em declarações dos advogados dos autores.",
+        "A ação foi apresentada por consumidores que disseram ter comprado aparelhos esperando determinadas funções. A Apple já havia negado as alegações, e o acordo especifica que sua celebração não deve ser interpretada como admissão de culpa ou irregularidade.",
+        "Segundo CBS News e o administrador do acordo, podem apresentar pedidos os compradores originais residentes nos Estados Unidos que adquiriram no país um iPhone 15 Pro, iPhone 15 Pro Max ou modelo da linha iPhone 16 para uso pessoal ou profissional, não para revenda, entre 10 de junho de 2024 e 29 de março de 2025. O pagamento é limitado a uma solicitação por aparelho elegível; aparelhos adicionais exigem formulários separados.",
+        "A CBS informou que os pagamentos válidos começam em US$ 25 por dispositivo. O valor poderá subir até US$ 95 ou diminuir, dependendo do total de pedidos aceitos e de outros fatores previstos no acordo. O prazo informado para solicitar o benefício termina em 21 de dezembro de 2026.",
+        "Uma audiência em um tribunal federal da Califórnia foi marcada para 24 de fevereiro de 2027 para decidir se o acordo será aprovado. Até que isso ocorra, os pagamentos não estão garantidos; recursos também podem atrasar o processo. A reportagem descreve uma proposta de acordo ainda sujeita à aprovação judicial, não uma decisão final sobre as alegações."
+      ]
+    },
+    "en": {
+      "title": "Apple Siri settlement offers up to $95 to some iPhone buyers",
+      "summary": "The claims period for a $250 million class settlement is open, but final approval still depends on a hearing scheduled for February 2027. Apple denied the allegations, and the settlement is not an admission of liability.",
+      "aiSummary": [
+        "The settlement would resolve false-advertising allegations about Siri features tied to Apple Intelligence; Apple denied wrongdoing.",
+        "The claim is limited to original purchasers living in the United States who bought a covered iPhone there for personal or business use, not resale.",
+        "The reported initial payment is $25 per eligible device and could vary up to $95; final court approval remains pending."
+      ],
+      "paragraphs": [
+        "Apple agreed to fund a $250 million class settlement concerning allegations that it advertised Siri features associated with Apple Intelligence that were not available as some consumers expected. CBS News reported the terms based on the case and statements from attorneys for the plaintiffs.",
+        "The lawsuit was brought by consumers who said they bought devices expecting certain functions. Apple had previously denied the allegations, and the settlement says it should not be treated as an admission of liability or wrongdoing.",
+        "According to CBS News and the settlement administrator, original purchasers living in the United States who bought an iPhone 15 Pro, iPhone 15 Pro Max or iPhone 16 model there for personal or business use—not resale—between June 10, 2024, and March 29, 2025, may submit claims. Payment is limited to one claim per eligible device; additional qualifying devices require separate forms.",
+        "CBS reported that valid claims would initially receive $25 per device. The amount could increase to as much as $95 or decrease, depending on the number of valid claims and other settlement factors. The reported deadline to submit a claim is December 21, 2026.",
+        "A federal court in California scheduled a hearing for February 24, 2027, to decide whether to approve the settlement. Payments are not guaranteed before that decision, and appeals could delay the process. The report describes a proposed settlement still subject to court approval, not a final ruling on the allegations."
+      ]
+    }
+  },
+  "verification": {
+    "score": 9.3,
+    "checkedAt": "2026-09-24T14:35:43Z",
+    "checks": [
+      {
+        "provider": "Aos Fatos",
+        "url": "https://www.aosfatos.org/",
+        "finding": "no-match",
+        "note": "Portuguese site-scoped searches for the Siri/Apple Intelligence class settlement, eligibility and payment range found no applicable fact-check; no-match is neutral."
+      },
+      {
+        "provider": "Agência Lupa",
+        "url": "https://www.agencialupa.org/",
+        "finding": "no-match",
+        "note": "Portuguese site-scoped searches for the Siri/Apple Intelligence class settlement, eligibility and payment range found no applicable fact-check; no-match is neutral."
+      },
+      {
+        "provider": "Projeto Comprova",
+        "url": "https://projetocomprova.com.br/",
+        "finding": "no-match",
+        "note": "Portuguese site-scoped searches for the Siri/Apple Intelligence class settlement, eligibility and payment range found no applicable fact-check; no-match is neutral."
+      },
+      {
+        "provider": "AFP Fact Check",
+        "url": "https://factcheck.afp.com/",
+        "finding": "no-match",
+        "note": "Search found no directly applicable AFP fact-check of these settlement terms. Neutral."
+      },
+      {
+        "provider": "Reuters Fact Check",
+        "url": "https://www.reuters.com/fact-check/",
+        "finding": "no-match",
+        "note": "Search found no Reuters Fact Check item on this specific settlement. Reuters' legal news coverage is not treated as a fact-check verdict. Neutral."
+      },
+      {
+        "provider": "Full Fact",
+        "url": "https://fullfact.org/",
+        "finding": "no-match",
+        "note": "Search found no directly applicable Full Fact article. Neutral."
+      },
+      {
+        "provider": "U.S. District Court settlement agreement (CourtListener copy)",
+        "url": "https://storage.courtlistener.com/recap/gov.uscourts.cand.446692/gov.uscourts.cand.446692.78.1.pdf",
+        "finding": "supports",
+        "note": "The filed agreement specifies the $250 million total, class period, eligible iPhone models, U.S. residence/purchase conditions, presumptive $25 payment and possible pro-rata increase up to $95; it makes clear this is not an admission of liability."
+      },
+      {
+        "provider": "U.S. District Court preliminary approval order (CourtListener copy)",
+        "url": "https://storage.courtlistener.com/recap/gov.uscourts.cand.446692/gov.uscourts.cand.446692.94.0.pdf",
+        "finding": "supports",
+        "note": "The 17 July 2026 order grants preliminary approval, not final approval, consistent with the article's pending-final-approval caveat."
+      },
+      {
+        "provider": "Smartphone AI Settlement administrator",
+        "url": "https://smartphoneaisettlement.com/frequently-asked-questions/",
+        "finding": "supports",
+        "note": "The complete FAQ reviewed in the saved evidence lists the claim deadline and final-approval hearing dates and explains the claim process and variable payment."
+      },
+      {
+        "provider": "CBS News",
+        "url": "https://www.cbsnews.com/news/apple-settlement-iphone-siri-claim/",
+        "finding": "supports",
+        "note": "Full 21-paragraph saved report supports that claims opened, the eligibility and payment descriptions, and that final approval remained pending."
+      }
+    ],
+    "caveat": "The settlement is preliminarily approved but not finally approved; allegations remain allegations and Apple denies wrongdoing. The article accurately conditions payments on valid claims and court approval, states the claim window dates, and does not treat settlement as a judicial finding. No contradiction found."
+  }
+}

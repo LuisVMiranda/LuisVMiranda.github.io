@@ -1,6 +1,6 @@
 {
   "section": "tecnologia",
-  "cutoff": "2026-09-22T11:21:20.336Z",
+  "cutoff": "2026-09-23T11:31:23.014Z",
   "queries": [
     "Tecnologia notícias Brasil",
     "Technology latest news Brazil",
@@ -9,124 +9,551 @@
     "site:canaltech.com.br tecnologia IA",
     "site:theverge.com technology AI latest news"
   ],
+  "retrievedAt": "2026-09-23T11:31:31.301Z",
+  "candidateRun": "research/runs/2026-09-23T11-31-23-014Z-8d26ca21-0863-4450-82bc-1cdf26820144",
   "verified": [
     {
-      "articleId": "custos-ia-modelos-mais-baratos-2026-09-22",
-      "url": "https://www.bloomberglinea.com.br/negocios/custos-de-ia-da-openai-e-da-anthropic-levam-startups-a-buscar-modelos-mais-baratos/",
-      "publishedAt": "2026-09-22T10:55:56.325Z",
-      "evidence": "Complete extraction research/runs/2026-09-22T11-21-20-336Z-6df281a2-9343-4cb7-a1b3-001b9e9a3dde/extractions/tecnologia/fcac6ee364e0.json was retrieved with status 200, complete=true, 54 paragraphs and no warnings. Published at 2026-09-22T10:55:56.325Z, it reports startups moving toward open-weight or in-house models as proprietary AI costs rise, including the attributed Harvey margin figures, model examples, token-use growth and the operational trade-offs. Corroboration basis: the extraction includes named executives, investors and company responses; no matching independent complete extraction was used, so the article keeps financial figures and market assessments explicitly attributed and does not turn them into forecasts.",
-      "selectionReason": "Most recent complete technology-business report in the run, with direct relevance to the economics of AI infrastructure and a detailed account of how startups are responding to model costs; selected ahead of less consequential product or niche items.",
+      "articleId": "lideres-da-area-de-ia-farao-apresentacao-na-onu-em-meio-a-alertas-sobre-a-tecnologia",
+      "primarySection": "tecnologia",
+      "secondarySections": [],
+      "articleFile": "content/articles/lideres-da-area-de-ia-farao-apresentacao-na-onu-em-meio-a-alertas-sobre-a-tecnologia.json",
+      "url": "https://www.uol.com.br/tilt/noticias/reuters/2026/09/23/lideres-da-area-de-ia-farao-apresentacao-na-onu-em-meio-a-alertas-sobre-a-tecnologia.htm",
+      "publisher": "UOL/Tilt (Reuters)",
+      "publishedAt": "2026-09-23T08:15:49-03:00",
+      "publicationEvidence": {
+        "value": "2026-09-23T08:15:49-03:00",
+        "precision": "second",
+        "timezone": "explicit-offset",
+        "cutoffAssessment": "within-window; the planned Council session was still upcoming at the immutable cutoff"
+      },
+      "sourceEvidencePath": "research/runs/2026-09-23T11-31-23-014Z-8d26ca21-0863-4450-82bc-1cdf26820144/extractions/tecnologia/5b0b3f81b401.json",
+      "sources": [
+        {
+          "role": "original reporting",
+          "name": "UOL/Tilt (Reuters)",
+          "url": "https://www.uol.com.br/tilt/noticias/reuters/2026/09/23/lideres-da-area-de-ia-farao-apresentacao-na-onu-em-meio-a-alertas-sobre-a-tecnologia.htm",
+          "matchingFacts": "Scheduled participation by OpenAI, Anthropic and Hugging Face executives; proposed remarks on AI benchmarks and safety; Council membership and meeting context."
+        },
+        {
+          "role": "independent corroboration",
+          "name": "Le Monde",
+          "url": "https://www.lemonde.fr/international/article/2026/09/23/l-ia-pour-la-premiere-fois-en-debat-au-conseil-de-securite-de-l-onu_6780876_3210.html",
+          "matchingFacts": "Full article body reviewed; corroborates the first AI-focused Security Council discussion and expected participation by Sam Altman and Dario Amodei."
+        }
+      ],
+      "extractionGates": {
+        "httpStatus": 200,
+        "complete": true,
+        "paragraphCount": 8,
+        "warnings": [],
+        "bodyContaminationNote": "Reuters narrative reviewed in full; only scheduled actions are described as plans, not completed events."
+      },
+      "facts": [
+        "Sam Altman, Dario Amodei and Clément Delangue were expected to present a report to the 15-member UN Security Council on September 23.",
+        "An OpenAI executive told Reuters that Altman planned to urge benchmarks for measuring AI capabilities and company safety measures."
+      ],
+      "qualifications": [
+        "The presentation had not occurred by the frozen cutoff; the report does not establish that the Council adopted rules or a decision."
+      ],
+      "evidence": "The UOL/Reuters extraction passed HTTP 200, complete=true, eight paragraphs, no warnings. The full Le Monde article was read through web retrieval after its local browser route returned a client challenge; the matching event and participants were confirmed. Body and AI bullets retain future tense at cutoff.",
+      "selectionReason": "Selected for tecnologia as a distinct, very recent international AI-governance story with a complete Reuters source and independent Le Monde confirmation; it broadens the desk beyond product announcements.",
       "contentReview": {
         "bodyComplete": true,
         "aiSummaryReviewed": true
       }
     },
     {
-      "articleId": "amazon-bloqueia-muse-meta",
-      "url": "https://www.theverge.com/tech/998078/amazon-blocks-meta-muse-ai-agent-shopping",
-      "publishedAt": "2026-09-21T09:21:47+00:00",
-      "evidence": "Complete extraction from The Verge, published at 2026-09-21T09:21:47+00:00, reports Amazon's block on Meta's Muse shopping agent, the retailer's terms-of-use and privacy/security concerns, Meta's stated limits on access to login and payment data, and the related dispute over competing shopping agents. The copy preserves both companies' positions and does not assert a security breach.",
-      "selectionReason": "Current, in-scope AI-agent platform development with a concrete access decision and attributed positions from both companies; selected as a distinct technology-business event after excluding an unresolved survey-number discrepancy.",
+      "articleId": "contagious-interview-o-golpe-do-teste-de-codigo-falso-sempreupdate",
+      "primarySection": "tecnologia",
+      "secondarySections": [],
+      "articleFile": "content/articles/contagious-interview-o-golpe-do-teste-de-codigo-falso-sempreupdate.json",
+      "url": "https://sempreupdate.com.br/contagious-interview-golpe-falsa-entrevista-desenvolvedores/",
+      "publisher": "SempreUpdate",
+      "publishedAt": "2026-09-22T18:00:00-03:00",
+      "publicationEvidence": {
+        "value": "2026-09-22T18:00:00-03:00",
+        "precision": "second",
+        "timezone": "explicit-offset",
+        "cutoffAssessment": "within-window"
+      },
+      "sourceEvidencePath": "research/runs/2026-09-23T11-31-23-014Z-8d26ca21-0863-4450-82bc-1cdf26820144/extractions/tecnologia/b968411d0bc8.json",
+      "sources": [
+        {
+          "role": "original reporting",
+          "name": "SempreUpdate",
+          "url": "https://sempreupdate.com.br/contagious-interview-golpe-falsa-entrevista-desenvolvedores/",
+          "matchingFacts": "Recruitment-scam mechanics, reported device and wallet counts, malware families and defensive guidance."
+        },
+        {
+          "role": "independent corroboration",
+          "name": "The Register",
+          "url": "https://www.theregister.com/security/2026/09/18/north-koreas-fake-job-interviews-infected-30000-devices/5297461",
+          "matchingFacts": "Full 581-word article reviewed; independently reports the international advisory, more than 30,000 devices, over 7,000 wallets and attributed theft estimate."
+        }
+      ],
+      "extractionGates": {
+        "httpStatus": 200,
+        "complete": true,
+        "paragraphCount": 64,
+        "warnings": [],
+        "bodyContaminationNote": "Narrative and security guidance were reviewed; navigation, related-story material and the closing share/comment prompt were excluded."
+      },
+      "facts": [
+        "Agencies from Japan, the United States, Australia and Germany attributed a campaign called WaterPlum/Contagious Interview to at least 30,000 compromised devices in over 100 countries and more than 7,000 affected cryptocurrency wallets.",
+        "The Register attributes at least US$10.71 million in thefts to the agencies' advisory."
+      ],
+      "qualifications": [
+        "Counts and North Korean attribution are reports of agency assessments, not independently audited totals; the article preserves attribution and does not state that every number is independently verified."
+      ],
+      "evidence": "The original SempreUpdate extraction passed HTTP 200, complete=true, 64 extracted paragraphs, no warnings. The complete The Register article also passed HTTP 200, complete=true, 581 words and no warnings. Matching scale and wallet figures were checked in both bodies; CTA material was not carried into the report.",
+      "selectionReason": "Selected as a distinct, recent cybersecurity story with concrete defensive relevance and a complete original extraction; The Register independently corroborates the advisory-based scale and theft figures.",
       "contentReview": {
         "bodyComplete": true,
         "aiSummaryReviewed": true
       }
     },
     {
-      "articleId": "gpt6-astra-codigo-secreto-2026-09-22",
-      "url": "https://canaltech.com.br/inteligencia-artificial/gpt-6-astra-decifra-codigo-secreto-da-1-guerra-apos-108-anos-entenda-o-feito/",
-      "publishedAt": "2026-09-22T08:01:01.000-03:00",
-      "evidence": "Complete extraction research/runs/2026-09-22T11-21-20-336Z-6df281a2-9343-4cb7-a1b3-001b9e9a3dde/extractions/tecnologia/1d1f8f1ce140.json was retrieved with status 200, complete=true, 18 paragraphs and no warnings. Published at 2026-09-22T08:01:01.000-03:00, it describes the reported GPT-6 Astra solution, the ADFGVX method, the keyword, the recovered naval message and the unresolved historical date discrepancy. Corroboration basis: the complete extraction itself preserves the link to British naval records and the uncertainty about when the keyword entered official use; the copy attributes the achievement to the report and retains that unresolved qualification.",
-      "selectionReason": "Fresh, distinct AI-capability story with a concrete historical-cryptography application and an explicit unresolved caveat; selected because it offers technology relevance without presenting the historical interpretation as settled beyond the source evidence.",
+      "articleId": "brasil-e-mexico-discutem-plataformas-conjuntas-para-desenvolvimento-e-producao-de-tecnolog",
+      "primarySection": "tecnologia",
+      "secondarySections": [],
+      "articleFile": "content/articles/brasil-e-mexico-discutem-plataformas-conjuntas-para-desenvolvimento-e-producao-de-tecnolog.json",
+      "url": "https://www.gov.br/saude/pt-br/assuntos/noticias-ms/2026/setembro/brasil-e-mexico-discutem-plataformas-conjuntas-para-desenvolvimento-e-producao-de-tecnologias-em-saude",
+      "publisher": "Ministério da Saúde do Brasil",
+      "publishedAt": "2026-09-22",
+      "publicationEvidence": {
+        "value": "2026-09-22",
+        "precision": "date-only",
+        "timezone": "not supplied",
+        "articleOrderingNormalization": "2026-09-22T00:00:00-03:00; publishedDate preserves the source date and the normalized time is not presented as source time",
+        "cutoffAssessment": "within-window-date-only"
+      },
+      "sourceEvidencePath": "research/runs/2026-09-23T11-31-23-014Z-8d26ca21-0863-4450-82bc-1cdf26820144/extractions/tecnologia/2de2f5262579.json",
+      "sources": [
+        {
+          "role": "original official source",
+          "name": "Ministério da Saúde do Brasil",
+          "url": "https://www.gov.br/saude/pt-br/assuntos/noticias-ms/2026/setembro/brasil-e-mexico-discutem-plataformas-conjuntas-para-desenvolvimento-e-producao-de-tecnologias-em-saude",
+          "matchingFacts": "Brazil's Health Ministry reports Padilha's September 22 BIRMEX visit, mRNA cooperation discussions, prior cooperation and Brazilian projects and funding; these details are ministry-attributed, not independently confirmed by La Jornada."
+        },
+        {
+          "role": "independent reporting on a separate meeting; broader bilateral agenda only, not the BIRMEX visit",
+          "name": "La Jornada",
+          "url": "https://www.jornada.com.mx/noticia/2026/09/22/sociedad/mexico-y-brasil-avanzan-en-acuerdos-sobre-soberania-sanitaria",
+          "matchingFacts": "La Jornada's full article reports a separate same-day meeting with Mexico's health secretary at Kalan, the April 2026 memorandum and follow-up planning; it supports the broader bilateral agenda only, not the BIRMEX visit or Brazilian funding claims."
+        }
+      ],
+      "extractionGates": {
+        "httpStatus": 200,
+        "complete": true,
+        "paragraphCount": 10,
+        "warnings": [],
+        "bodyContaminationNote": "Full government article reviewed; ongoing research and vaccine candidates remain described as work in progress."
+      },
+      "facts": [
+        "Brazil's Health Ministry reported that Padilha visited BIRMEX on September 22 to discuss research, production and technology transfer, including mRNA platforms.",
+        "Brazil's Health Ministry reported R$210 million in funding for mRNA projects involving Fiocruz, Butantan and UFMG."
+      ],
+      "qualifications": [
+        "The BIRMEX visit and R$210 million funding details are supported only by the Brazilian Health Ministry's account. La Jornada covers a separate same-day meeting at Kalan and supports the broader bilateral agenda, not the BIRMEX visit or funding. Existing 2025 cooperation and the April 2026 memorandum are distinct chronology points."
+      ],
+      "evidence": "The Brazilian Ministry extraction passed HTTP 200, complete=true, ten paragraphs, no warnings. The full La Jornada article was read through web retrieval after the local extractor found no article container; it covers a separate same-day meeting at Kalan, not the BIRMEX visit or the Ministry's funding figures. The selected gob.mx corroborator was attempted but returned Challenge Validation and is not treated as evidence.",
+      "selectionReason": "Selected for its technology-and-health fit and Brazilian relevance, with a complete Brazilian Health Ministry source. La Jornada supports the broader bilateral agenda through a separate meeting only; visit and funding details remain attributed to the Ministry, and planned cooperation is not described as completed production.",
       "contentReview": {
         "bodyComplete": true,
         "aiSummaryReviewed": true
       }
     },
     {
-      "articleId": "nvidia-huang-apocalipse-ia-2026-09-21",
-      "url": "https://canaltech.com.br/inteligencia-artificial/nvidia-declara-guerra-ao-discurso-do-apocalipse-de-ia-0-de-chance/",
-      "publishedAt": "2026-09-21T15:04:00.000-03:00",
-      "evidence": "Complete extraction research/runs/2026-09-22T11-21-20-336Z-6df281a2-9343-4cb7-a1b3-001b9e9a3dde/extractions/tecnologia/87c7589d06fc.json was retrieved with status 200, complete=true, 19 paragraphs and no warnings. Published at 2026-09-21T15:04:00.000-03:00, it reports Jensen Huang's rejection of AI-extinction warnings in a CBS News interview, the contrasting risk warnings from Jacob Coxon and Dario Amodei, support from Sam Altman and Elon Musk for parts of the safety proposal, NVIDIA's preference for rapid development subject to safety, and the distinction between legitimate safety concerns and unsupported extinction predictions. Corroboration basis: the complete extraction attributes the statements to Huang, CBS News, named researchers and executives, and the report's framing; the article keeps the 0% forecast and regulation claims explicitly attributed rather than treating them as established facts, with no unresolved numeric discrepancy in the extracted account.",
-      "selectionReason": "Clear, current AI-safety report with a distinct industry debate and no unresolved number discrepancy; selected to replace the Meta glasses feature without repeating its wearable, privacy and market-share focus. The complete extraction supports five substantive paragraphs while the article preserves attribution for Huang's forecast and the opposing safety position.",
+      "articleId": "huawei-unveils-new-chip-technologies-as-chinese-firm-steps-up-the-ai-race-with-nvidia",
+      "primarySection": "tecnologia",
+      "secondarySections": [],
+      "articleFile": "content/articles/huawei-unveils-new-chip-technologies-as-chinese-firm-steps-up-the-ai-race-with-nvidia.json",
+      "url": "https://apnews.com/article/huawei-ai-chips-nvidia-superpod-technology-26ab418df1339c518483918218ffbe57",
+      "publisher": "Associated Press",
+      "publishedAt": "2026-09-17T08:17:15",
+      "publicationEvidence": {
+        "value": "2026-09-17T08:17:15",
+        "precision": "second",
+        "timezone": "not encoded in extracted metadata",
+        "articlePublishedDate": "2026-09-17",
+        "articleOrderingNormalization": "date-only at 2026-09-17T00:00:00-03:00; exact source time zone is not inferred",
+        "cutoffAssessment": "within-window-offset-not-encoded"
+      },
+      "sourceEvidencePath": "research/runs/2026-09-23T11-31-23-014Z-8d26ca21-0863-4450-82bc-1cdf26820144/focused/tecnologia-1.json",
+      "sources": [
+        {
+          "role": "original reporting",
+          "name": "Associated Press",
+          "url": "https://apnews.com/article/huawei-ai-chips-nvidia-superpod-technology-26ab418df1339c518483918218ffbe57",
+          "matchingFacts": "Atlas system announcement, chip road map, U.S.-China competition and supply-chain context."
+        },
+        {
+          "role": "company announcement",
+          "name": "Huawei",
+          "url": "https://www.huawei.com/en/news/2026/9/hc-ascend960-supernode",
+          "matchingFacts": "Full announcement reviewed for the Atlas 960E name, NPO design and company-stated specifications."
+        }
+      ],
+      "extractionGates": {
+        "httpStatus": 200,
+        "complete": true,
+        "paragraphCount": 14,
+        "warnings": [],
+        "bodyContaminationNote": "Photo captions and duplicate headlines were excluded; Huawei performance and capacity statements are attributed as company claims."
+      },
+      "facts": [
+        "Huawei announced the Atlas 960E SuperPoD and plans for Ascend 970 and 980 generations in 2028 and 2029, respectively."
+      ],
+      "qualifications": [
+        "Huawei's specifications and performance claims were not independently measured in the AP report. Huawei calls the system Atlas 960E SuperPoD; AP's report calls it Atlas 960 SuperPoD. Future chip dates are plans, not completed releases.",
+        "The Huawei page was read in full through web retrieval after the local extractor returned a challenge page."
+      ],
+      "evidence": "The AP extraction passed HTTP 200, complete=true, 14 paragraphs, no warnings. The company's complete announcement was reviewed through web retrieval; company figures and statements were kept attributed and no independent performance result was inferred.",
+      "selectionReason": "Selected for a distinct semiconductor and AI-infrastructure development with international significance; the product announcement is balanced with supply-chain context and explicit attribution of manufacturer claims.",
       "contentReview": {
         "bodyComplete": true,
         "aiSummaryReviewed": true
       }
     },
     {
-      "articleId": "california-regras-data-centers-ia-2026-09-21",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/998453/california-ai-data-center-bills",
-      "publishedAt": "2026-09-21T20:29:45+00:00",
-      "evidence": "Complete extraction research/runs/2026-09-22T11-21-20-336Z-6df281a2-9343-4cb7-a1b3-001b9e9a3dde/extractions/tecnologia/c4d22e79dcde.json was retrieved with status 200, complete=true, 10 paragraphs and no warnings. Published at 2026-09-21T20:29:45+00:00, it reports seven California laws, the proposed data-center rate classification, grid and water-system costs, disclosure requirements, streamlined-approval conditions and the governor's stated rationale. Corroboration basis: the extraction attributes the earlier account to the Los Angeles Times and includes the governor's press-release position; the draft stays within those reported requirements and does not add legal interpretation.",
-      "selectionReason": "Current technology-policy development with direct consequences for AI infrastructure, energy, water and local utility costs; selected for material public impact and a clear legislative action rather than a company claim.",
+      "articleId": "apple-settlement-offers-eligible-iphone-owners-up-to-95-here-is-how-to-file-a-claim",
+      "primarySection": "tecnologia",
+      "secondarySections": [],
+      "articleFile": "content/articles/apple-settlement-offers-eligible-iphone-owners-up-to-95-here-is-how-to-file-a-claim.json",
+      "url": "https://www.cbsnews.com/news/apple-settlement-iphone-siri-claim/",
+      "publisher": "CBS News",
+      "publishedAt": "2026-09-22T12:26:14-0400",
+      "publicationEvidence": {
+        "value": "2026-09-22T12:26:14-0400",
+        "precision": "second",
+        "timezone": "explicit-offset",
+        "schemaOffsetNormalization": "2026-09-22T12:26:14-04:00",
+        "cutoffAssessment": "within-window"
+      },
+      "sourceEvidencePath": "research/runs/2026-09-23T11-31-23-014Z-8d26ca21-0863-4450-82bc-1cdf26820144/focused/tecnologia-2.json",
+      "sources": [
+        {
+          "role": "original reporting",
+          "name": "CBS News",
+          "url": "https://www.cbsnews.com/news/apple-settlement-iphone-siri-claim/",
+          "matchingFacts": "Allegations, Apple's denial, eligible device and purchase period, payment range, claim deadline and pending hearing."
+        },
+        {
+          "role": "primary settlement information",
+          "name": "Smartphone AI Settlement Administrator",
+          "url": "https://smartphoneaisettlement.com/frequently-asked-questions/",
+          "matchingFacts": "Settlement administrator terms reviewed for U.S. residence and purchase criteria, eligible devices, personal/professional-use conditions, payment range, filing deadline and final-approval status."
+        }
+      ],
+      "extractionGates": {
+        "httpStatus": 200,
+        "complete": true,
+        "paragraphCount": 21,
+        "warnings": [],
+        "bodyContaminationNote": "Full report reviewed; allegations, Apple's denial and the non-admission clause remain distinct from judicial findings."
+      },
+      "facts": [
+        "CBS reports a proposed US$250 million settlement and a possible $25-to-$95 payment for eligible original purchasers of specified iPhone models.",
+        "The settlement administrator lists a December 21, 2026 claim deadline and a February 24, 2027 final-approval hearing."
+      ],
+      "qualifications": [
+        "Final court approval remained pending at publication; Apple denied the allegations and the settlement is not an admission of liability."
+      ],
+      "evidence": "The CBS extraction passed HTTP 200, complete=true, 21 paragraphs, no warnings. The settlement administrator's full public terms page was also reviewed; device eligibility, payment range, deadline and hearing date were checked against it. No legal conclusion is drawn beyond the reported settlement terms.",
+      "selectionReason": "Selected as a concrete consumer-technology development with practical eligibility and deadline information; the report attributes litigation claims and preserves the pending-approval and non-admission qualifications.",
       "contentReview": {
         "bodyComplete": true,
         "aiSummaryReviewed": true
       }
     },
     {
-      "articleId": "lideres-seguranca-ia-onu-2026-09-21",
-      "url": "https://www.correiobraziliense.com.br/mundo/2026/09/7505407-lideres-defendem-medidas-de-seguranca-para-ia-antes-de-assembleia-da-onu.html",
-      "publishedAt": "2026-09-21T21:54:53+00:00",
-      "evidence": "Complete extraction research/runs/2026-09-22T11-21-20-336Z-6df281a2-9343-4cb7-a1b3-001b9e9a3dde/extractions/tecnologia/c862157c631e.json was retrieved with status 200, complete=true, 17 paragraphs and no warnings. Published at 2026-09-21T21:54:53+00:00, it reports the joint call by more than 20 countries for mandatory AI-safety measures, the cited Hugging Face episode, signatory and non-signatory countries, testing and human-control language. Corroboration basis: a second complete extraction, research/runs/2026-09-22T11-21-20-336Z-6df281a2-9343-4cb7-a1b3-001b9e9a3dde/extractions/tecnologia/2b69ef954ad9.json, independently repeats the central declaration, country lists, requested protocols and UN timing; the article uses both reports and retains the claims as statements by the signatories.",
-      "selectionReason": "High-impact international AI-governance development with two complete extractions from independent Brazilian domains; selected after direct corroboration of the central declaration and its signatory context.",
+      "articleId": "the-king-and-ai-uk-monarch-charles-meets-artificial-intelligence-leaders-as-safety-concern",
+      "primarySection": "tecnologia",
+      "secondarySections": [],
+      "articleFile": "content/articles/the-king-and-ai-uk-monarch-charles-meets-artificial-intelligence-leaders-as-safety-concern.json",
+      "url": "https://apnews.com/article/britain-king-charles-ai-summit-0765bee1e338cf65846a046fb5825a4a",
+      "publisher": "Associated Press",
+      "publishedAt": "2026-09-17T08:55:58",
+      "publicationEvidence": {
+        "value": "2026-09-17T08:55:58",
+        "precision": "second",
+        "timezone": "not encoded in extracted metadata",
+        "articlePublishedDate": "2026-09-17",
+        "articleOrderingNormalization": "date-only at 2026-09-17T00:00:00-03:00; exact source time zone is not inferred",
+        "cutoffAssessment": "within-window-offset-not-encoded"
+      },
+      "sourceEvidencePath": "research/runs/2026-09-23T11-31-23-014Z-8d26ca21-0863-4450-82bc-1cdf26820144/focused/tecnologia-3.json",
+      "sources": [
+        {
+          "role": "original reporting",
+          "name": "Associated Press",
+          "url": "https://apnews.com/article/britain-king-charles-ai-summit-0765bee1e338cf65846a046fb5825a4a",
+          "matchingFacts": "September 17 Scotland meeting, attendees, Charles's safety remarks and the industry debate."
+        }
+      ],
+      "extractionGates": {
+        "httpStatus": 200,
+        "complete": true,
+        "paragraphCount": 23,
+        "warnings": [],
+        "bodyContaminationNote": "Captions were excluded; statements and positions are attributed to the named speakers and AP account."
+      },
+      "facts": [
+        "King Charles III met AI-company leaders in Scotland; AP names Nvidia, Google DeepMind and OpenAI executives present, while an Anthropic representative was expected.",
+        "Jensen Huang argued that companies should test products and hold those that are not yet safe."
+      ],
+      "qualifications": [
+        "The AP report describes a discussion, not a new regulation, agreement or government decision. No independent corroborating URL was captured in the selection record; the report stays within the complete AP account."
+      ],
+      "evidence": "The AP extraction passed HTTP 200, complete=true, 23 paragraphs, no warnings. The public meeting and attributed remarks were checked in the complete article; photo captions and unsupported implications were not used.",
+      "selectionReason": "Selected for a distinct international AI-safety discussion involving major technology companies; the public, low-risk event is reported from a complete AP account without implying a policy outcome.",
       "contentReview": {
         "bodyComplete": true,
         "aiSummaryReviewed": true
       }
     },
     {
-      "articleId": "amd-trilhao-infraestrutura-ia-2026-09-21",
-      "url": "https://canaltech.com.br/mercado/amd-entra-para-clube-do-us-1-trilhao-e-deixa-rival-intel-para-tras-como-isso-aconteceu/",
-      "publishedAt": "2026-09-21T21:01:00.000-03:00",
-      "evidence": "Complete extraction research/runs/2026-09-22T11-21-20-336Z-6df281a2-9343-4cb7-a1b3-001b9e9a3dde/extractions/tecnologia/cc5da328963d.json was retrieved with status 200, complete=true, 21 paragraphs and no warnings. Published at 2026-09-21T21:01:00.000-03:00, it records AMD's approximate US$1.004 trillion valuation, its comparison with Intel and other chipmakers, Instinct and EPYC infrastructure, quarterly revenue and data-center figures, and the share-price context. Corroboration basis: the complete report identifies CompaniesMarketCap, Reuters and MarketWatch as the data context; no matching independent complete extraction was used, so the draft treats the valuation and trading figures as a time-specific reported market snapshot and makes no investment recommendation.",
-      "selectionReason": "Current and consequential semiconductor milestone directly tied to AI infrastructure, with concrete market and operating figures; selected as a distinct technology-business event rather than a duplicate of broader AI-cost coverage.",
+      "articleId": "one-hidden-meta-muse-setting-could-let-attackers-turn-the-ai-assistant-into-a-backdoor",
+      "primarySection": "tecnologia",
+      "secondarySections": [],
+      "articleFile": "content/articles/one-hidden-meta-muse-setting-could-let-attackers-turn-the-ai-assistant-into-a-backdoor.json",
+      "url": "https://thehackernews.com/2026/09/one-hidden-meta-muse-setting-could-let.html",
+      "publisher": "The Hacker News",
+      "publishedAt": "2026-09-22",
+      "publicationEvidence": {
+        "value": "2026-09-22",
+        "precision": "date-only",
+        "timezone": "not supplied",
+        "articleOrderingNormalization": "2026-09-22T00:00:00-03:00; publishedDate preserves the source date and the normalized time is not presented as source time",
+        "cutoffAssessment": "within-window-date-only"
+      },
+      "sourceEvidencePath": "research/runs/2026-09-23T11-31-23-014Z-8d26ca21-0863-4450-82bc-1cdf26820144/focused/tecnologia-4.json",
+      "sources": [
+        {
+          "role": "original reporting",
+          "name": "The Hacker News",
+          "url": "https://thehackernews.com/2026/09/one-hidden-meta-muse-setting-could-let.html",
+          "matchingFacts": "Local macOS setting, conditions needed for the demonstration, potential misuse and stated limits."
+        },
+        {
+          "role": "independent corroboration and update",
+          "name": "The Register",
+          "url": "https://www.theregister.com/ai-and-ml/2026/09/21/meta-muse-ai-app-flaw-lets-local-malware-redirect-dictation-traffic/5297980",
+          "matchingFacts": "Full 751-word report reviewed; corroborates the local-code requirement and adds Meta's September 22 hotfix statement and its risk qualification."
+        }
+      ],
+      "extractionGates": {
+        "httpStatus": 200,
+        "complete": true,
+        "paragraphCount": 23,
+        "warnings": [],
+        "bodyContaminationNote": "Scope remains the macOS app and local access; no remote-only compromise or cloud breach is claimed."
+      },
+      "facts": [
+        "Patrick Wardle demonstrated that a local process could modify an undocumented Muse setting and redirect dictation traffic.",
+        "Meta's David Singleton said on September 22 that the app was revised and a hotfix issued."
+      ],
+      "qualifications": [
+        "The demonstration required code already running under the logged-in user's account; both outlets say it was not a standalone remote exploit.",
+        "Meta described practical risk as low; this company assessment remains attributed. A source update verified at 12:56 UTC on September 22 is reflected in updatedAt."
+      ],
+      "evidence": "The original Hacker News extraction passed HTTP 200, complete=true, 23 paragraphs, no warnings. The complete The Register article passed HTTP 200, complete=true, 751 words, no warnings and included its dated Meta statement; reported fix status is attributed to Meta.",
+      "selectionReason": "Selected as a distinct AI-agent security report with an independently reported local-access mechanism and a material correction in scope: this is not a remote break-in or cloud breach.",
       "contentReview": {
         "bodyComplete": true,
         "aiSummaryReviewed": true
       }
     },
     {
-      "articleId": "ia-roi-gartner-2026-09-21",
-      "url": "https://www.suno.com.br/noticias/inteligencia-artificial-roi-projetos-gartner-mt/",
-      "publishedAt": "2026-09-21T19:11:00-03:00",
-      "evidence": "Complete extraction research/runs/2026-09-22T11-21-20-336Z-6df281a2-9343-4cb7-a1b3-001b9e9a3dde/extractions/tecnologia/0675f61369dd.json was retrieved with status 200, complete=true, 16 paragraphs and no warnings. Published at 2026-09-21T19:11:00-03:00, it reports Gartner's conference figures on positive ROI, executive value perception, risk growth, AI-use expansion, governance, workforce substitution and reinvestment. Corroboration basis: the extraction identifies the Gartner conference and attributes all forecasts and survey figures to the consultancy and its analyst; the article preserves those attributions and presents projections as projections.",
-      "selectionReason": "Current Brazil-based enterprise-technology report with quantified evidence about AI adoption, returns and governance; selected for practical relevance to organizations and for its distinct focus on implementation quality rather than model prices.",
+      "articleId": "continuing-our-reset",
+      "primarySection": "tecnologia",
+      "secondarySections": [],
+      "articleFile": "content/articles/continuing-our-reset.json",
+      "url": "https://news.xbox.com/en-us/2026/09/22/continuing-our-reset/",
+      "publisher": "Xbox Wire",
+      "publishedAt": "2026-09-22T14:00:00+00:00",
+      "publicationEvidence": {
+        "value": "2026-09-22T14:00:00+00:00",
+        "precision": "second",
+        "timezone": "explicit-offset",
+        "cutoffAssessment": "within-window"
+      },
+      "sourceEvidencePath": "research/runs/2026-09-23T11-31-23-014Z-8d26ca21-0863-4450-82bc-1cdf26820144/focused/tecnologia-5.json",
+      "sources": [
+        {
+          "role": "original company announcement",
+          "name": "Xbox Wire",
+          "url": "https://news.xbox.com/en-us/2026/09/22/continuing-our-reset/",
+          "matchingFacts": "Announced role reductions, planned studio changes, completed divestitures and consultations still underway."
+        },
+        {
+          "role": "independent corroboration",
+          "name": "GeekWire",
+          "url": "https://www.geekwire.com/2026/microsoft-cuts-hundreds-more-jobs-shifts-next-halo-game-to-activision-in-xbox-overhaul/",
+          "matchingFacts": "Full indexed article body reviewed; reports a companywide total under 600 cuts, about 300 in Washington, and says the 268 Xbox roles are part of the July-announced 3,200-role reduction. The repository browser fallback returned HTTP 403."
+        }
+      ],
+      "extractionGates": {
+        "httpStatus": 200,
+        "complete": true,
+        "paragraphCount": 10,
+        "warnings": [],
+        "bodyContaminationNote": "Official message reviewed in full; announced cuts and future assignments are not described as completed product releases."
+      },
+      "facts": [
+        "Microsoft announced 268 role eliminations and assigned development of the next Halo title to a new Activision team.",
+        "GeekWire reports the 268 Xbox cuts are part of the roughly 3,200-role reduction announced in July; Microsoft said that restructuring was about 75% complete.",
+        "GeekWire, citing Microsoft, reports a companywide total of fewer than 600 cuts, with about 300 in Washington state.",
+        "Xbox Wire said Compulsion, Double Fine and Undead Labs transitions were completed, while consultations at Ninja Theory and Arkane had different statuses."
+      ],
+      "qualifications": [
+        "The 268 roles and organizational changes are company announcements; the proposed Ninja Theory closure was not a final decision."
+      ],
+      "evidence": "The Xbox Wire extraction passed HTTP 200, complete=true, ten paragraphs, no warnings. The GeekWire body was read through web retrieval after the repository extraction route returned HTTP 403. Completed studio transitions were kept separate from announced cuts, planned assignments and ongoing consultations.",
+      "selectionReason": "Selected for a material technology-company restructuring with employment and product implications; source claims and plans are attributed, and already completed studio changes are separated from future plans.",
       "contentReview": {
         "bodyComplete": true,
         "aiSummaryReviewed": true
       }
     },
     {
-      "articleId": "openai-hacktron-teste-seguranca-2026-09-21",
-      "url": "https://canaltech.com.br/inteligencia-artificial/openai-foi-invadida-por-hackers-que-usaram-rival-do-chatgpt/",
-      "publishedAt": "2026-09-21T10:06:00-03:00",
-      "evidence": "Complete extraction research/runs/2026-09-22T11-21-20-336Z-6df281a2-9343-4cb7-a1b3-001b9e9a3dde/extractions/tecnologia/600f5d196c03.json was retrieved with status 200, complete=true, 10 paragraphs and no warnings. Published at 2026-09-21T10:06:00-03:00, it reports an authorized Hacktron AI exercise, the Discourse forum flaw, the Anthropic models used, OpenAI's confirmation, the roughly 14-hour fix and the US$6,500 bounty. Corroboration basis: the complete report preserves the authorization, the disclosure to OpenAI and Discourse, and OpenAI's confirmation to AFP; no separate matching complete extraction was used, so the article does not characterize the exercise as an unqualified criminal breach.",
-      "selectionReason": "Current, concrete AI-security report with a defined authorized test, remediation timeline and responsible-disclosure context; selected because it distinguishes a controlled exercise from an unsupported hacking allegation.",
+      "articleId": "advisory-group-on-mathematics-and-artificial-intelligence",
+      "primarySection": "tecnologia",
+      "secondarySections": [],
+      "articleFile": "content/articles/advisory-group-on-mathematics-and-artificial-intelligence.json",
+      "url": "https://openai.com/index/advisory-group-on-mathematics-and-ai/",
+      "publisher": "OpenAI",
+      "publishedAt": "2026-09-21T07:00:00.000Z",
+      "publicationEvidence": {
+        "value": "2026-09-21T07:00:00.000Z",
+        "precision": "millisecond",
+        "timezone": "UTC",
+        "cutoffAssessment": "within-window"
+      },
+      "sourceEvidencePath": "research/runs/2026-09-23T11-31-23-014Z-8d26ca21-0863-4450-82bc-1cdf26820144/focused/tecnologia-6.json",
+      "sources": [
+        {
+          "role": "original company announcement",
+          "name": "OpenAI",
+          "url": "https://openai.com/index/advisory-group-on-mathematics-and-ai/",
+          "matchingFacts": "Purpose, stated independence, advisory scope and OpenAI's internal-model claims. The only complete saved OpenAI capture displaying seven names was retrieved at 2026-09-23T14:00:02.717Z, after the immutable cutoff at 2026-09-23T11:31:23.014Z; it is excluded from cutoff-eligible copy and does not establish what the page showed at the cutoff."
+        },
+        {
+          "role": "independent reporting",
+          "name": "TechCrunch",
+          "url": "https://techcrunch.com/2026/09/21/openai-forms-math-advisory-group-as-its-ai-resolves-more-than-100-open-problems/",
+          "matchingFacts": "Full report body reviewed; independently covers the group's formation, lists nine mathematicians and discusses the company's mathematical-results claims, without independently validating each solution."
+        },
+        {
+          "role": "group announcement",
+          "name": "Advisory Group on Mathematics and Artificial Intelligence (guest post on Terence Tao's blog)",
+          "url": "https://terrytao.wordpress.com/2026/09/21/advisory-group-on-mathematics-and-artificial-intelligence/",
+          "matchingFacts": "Dated September 21; lists nine group members and says the group formed after OpenAI approached some members, then agreed with OpenAI to invite others."
+        },
+        {
+          "role": "member statement",
+          "name": "Martin Hairer (guest post on Terence Tao's blog)",
+          "url": "https://terrytao.wordpress.com/2026/09/22/why-i-agreed-to-join-agmai/comment-page-1/",
+          "matchingFacts": "Dated September 22; says not all nine members were initially contacted by OpenAI and that the nine participate in the group's conversations."
+        }
+      ],
+      "extractionGates": {
+        "httpStatus": 200,
+        "complete": true,
+        "paragraphCount": 15,
+        "warnings": [],
+        "bodyContaminationNote": "The copy attributes the nine-name list to the group's September 21 post, keeps Hairer's September 22 caveat attributed, and excludes the post-cutoff seven-name capture."
+      },
+      "facts": [
+        "OpenAI announced an advisory group hosted at the Institute for Advanced Study to advise on communicating and assessing mathematical results, research standards and the use of tools in research and learning.",
+        "OpenAI said an internal model solved Navier–Stokes and more than 100 open problems; TechCrunch reports the announcement but does not independently validate each solution.",
+        "The group's September 21 post lists nine members and says OpenAI approached some before the group and company agreed to invite others; Martin Hairer's September 22 post says OpenAI had not initially contacted all nine."
+      ],
+      "qualifications": [
+        "The only complete saved OpenAI body capture displaying seven names was retrieved at 2026-09-23T14:00:02.717Z, after the immutable cutoff at 2026-09-23T11:31:23.014Z. That post-cutoff capture is excluded from cutoff-eligible copy and cannot establish what OpenAI's announcement displayed at the cutoff. The group's September 21 post lists nine members, while Hairer says not all nine were initially contacted by OpenAI; these accounts do not establish the exact relationship between the group's list and OpenAI's announcement or when any list may have changed. The article therefore makes no claim about the membership count in OpenAI's initial announcement.",
+        "The model's claimed results remain OpenAI's account, not an independently adjudicated result in the sources reviewed."
+      ],
+      "evidence": "The complete saved OpenAI body capture passed HTTP 200, complete=true, 15 paragraphs and no warnings, but its retrieval time was 2026-09-23T14:00:02.717Z—after the frozen cutoff of 2026-09-23T11:31:23.014Z. Although it displays seven names under 'Initial Members', this post-cutoff capture is excluded from cutoff-eligible copy and is not evidence of what the page showed at cutoff. TechCrunch's September 21 report and the group's September 21 post each list nine mathematicians; the group post says OpenAI approached some before the group and company agreed to invite others. Hairer's September 22 post says not all nine were initially contacted by OpenAI. These records do not establish how the group's list relates to OpenAI's announcement at cutoff or when any page list may have changed. OpenAI's remit is retained; its Navier–Stokes and more-than-100-problems statements remain explicitly attributed company claims, with no independent validation asserted.",
+      "selectionReason": "Selected as a distinct AI-and-research governance development. OpenAI and TechCrunch support the advisory remit; the group's and Hairer's dated posts are used only for their attributed account of the membership process. The post-cutoff seven-name OpenAI capture is excluded from cutoff-eligible copy, no OpenAI initial-member count is asserted, and mathematical performance claims remain attributed to the company rather than independently validated.",
       "contentReview": {
         "bodyComplete": true,
         "aiSummaryReviewed": true
       }
     },
     {
-      "articleId": "anel-ia-reunioes-privacidade-2026-09-21",
-      "url": "https://canaltech.com.br/produtos/anel-com-ia-grava-ate-8-horas-de-reunioes-mas-levanta-alerta-de-privacidade/",
-      "publishedAt": "2026-09-21T16:14:45.000-03:00",
-      "evidence": "Complete extraction research/runs/2026-09-22T11-21-20-336Z-6df281a2-9343-4cb7-a1b3-001b9e9a3dde/extractions/tecnologia/27688c7150fa.json was retrieved with status 200, complete=true, 16 paragraphs and no warnings. Published at 2026-09-21T16:14:45.000-03:00, it reports the Vocci Ring's recording duration, transcription and AI integrations, hardware details, battery, pricing and privacy concerns, including the manufacturer's recommendation to notify participants. Corroboration basis: the complete product report attributes performance and price claims to the manufacturer and separates them from the consent concern; no second matching complete extraction was used, so the article keeps specifications as company claims and avoids legal conclusions.",
-      "selectionReason": "Distinct current consumer-technology report with concrete product capabilities and a material privacy question; selected to balance the desk beyond enterprise AI, markets and regulation.",
+      "articleId": "us-proposes-ai-incident-alert-system-in-talks-with-china-bessent-says",
+      "primarySection": "tecnologia",
+      "secondarySections": [],
+      "articleFile": "content/articles/us-proposes-ai-incident-alert-system-in-talks-with-china-bessent-says.json",
+      "url": "https://apnews.com/article/bessent-ai-xi-trump-china-trade-2c7f54f07e755f506d9db9b91df282bd",
+      "publisher": "Associated Press",
+      "publishedAt": "2026-09-21T01:49:25",
+      "publicationEvidence": {
+        "value": "2026-09-21T01:49:25",
+        "precision": "second",
+        "timezone": "not encoded in extracted metadata",
+        "articlePublishedDate": "2026-09-21",
+        "articleOrderingNormalization": "date-only at 2026-09-21T00:00:00-03:00; exact source time zone is not inferred",
+        "cutoffAssessment": "within-window-offset-not-encoded"
+      },
+      "sourceEvidencePath": "research/runs/2026-09-23T11-31-23-014Z-8d26ca21-0863-4450-82bc-1cdf26820144/focused/tecnologia-7.json",
+      "sources": [
+        {
+          "role": "original reporting",
+          "name": "Associated Press",
+          "url": "https://apnews.com/article/bessent-ai-xi-trump-china-trade-2c7f54f07e755f506d9db9b91df282bd",
+          "matchingFacts": "Bessent's proposal, the New York talks and the national-security threshold."
+        },
+        {
+          "role": "independent corroboration",
+          "name": "EL PAÍS",
+          "url": "https://elpais.com/tecnologia/2026-09-21/estados-unidos-propone-a-china-un-sistema-de-alertas-mutuo-por-incidentes-de-ia.html",
+          "matchingFacts": "Full 460-word report reviewed; corroborates the proposal and its non-final status."
+        }
+      ],
+      "extractionGates": {
+        "httpStatus": 200,
+        "complete": true,
+        "paragraphCount": 10,
+        "warnings": [],
+        "bodyContaminationNote": "Proposal and public statements are attributed; no implementation or bilateral agreement is inferred."
+      },
+      "facts": [
+        "Scott Bessent said the United States proposed a notification mechanism for AI incidents that could affect national security.",
+        "Chinese state media said AI was discussed but supplied no details on a mechanism."
+      ],
+      "qualifications": [
+        "The proposal is not an implemented system or confirmed bilateral agreement; the two accounts differ in detail about the level of agreement."
+      ],
+      "evidence": "The AP extraction passed HTTP 200, complete=true, ten paragraphs, no warnings. The full EL PAÍS report passed HTTP 200, complete=true, 460 words, no warnings. Both were read in full; proposed notification remains distinct from any later agreement or operational system.",
+      "selectionReason": "Selected as a distinct international AI-governance development with direct technology-policy relevance; AP and EL PAÍS corroborate the proposal while both preserve its non-final status.",
       "contentReview": {
         "bodyComplete": true,
         "aiSummaryReviewed": true
       }
     }
   ],
+  "unsupportedClaims": [
+    {
+      "articleId": "advisory-group-on-mathematics-and-artificial-intelligence",
+      "claim": "The initial advisory group's member count",
+      "evidence": "OpenAI's September 21 announcement names seven initial members; TechCrunch's September 21 report describes nine mathematicians. The dated sources reviewed do not reconcile the count.",
+      "handling": "The seven-versus-nine discrepancy remains in this manifest's evidence; the article and summaries omit a definitive membership total. The story and advisory remit are still supported."
+    }
+  ],
+  "accessLimitations": [
+    {
+      "articleId": "brasil-e-mexico-discutem-plataformas-conjuntas-para-desenvolvimento-e-producao-de-tecnolog",
+      "url": "https://www.gob.mx/salud/prensa/070-mexico-y-brasil-consolidan-agenda-bilateral-de-cooperacion-en-salud?idiom=es",
+      "status": "not relied upon",
+      "reason": "The repository extraction returned Challenge Validation without article text. The Brazilian Health Ministry original is the sole support for the BIRMEX visit and funding details; La Jornada reports a separate same-day meeting at Kalan and supports broader bilateral context only. The inaccessible gob.mx page is not relied upon or listed in the article's sources."
+    }
+  ],
+  "deduplication": "The exact ten technology references remain in selection.json order. All ten have primarySection tecnologia and empty secondarySections; none of these ten IDs appears in another section's selected list.",
   "shortfall": {
     "pt-BR": "",
     "en": ""
   },
   "improvements": [],
-  "candidateRun": "research/runs/2026-09-22T11-21-20-336Z-6df281a2-9343-4cb7-a1b3-001b9e9a3dde",
-  "retrievedAt": "2026-09-22T11:21:33.743Z",
   "reviewStatus": "draft-source-verified-no-publication-approval"
 }

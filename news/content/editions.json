@@ -403,5 +403,140 @@
       }
     },
     "leadArticleId": "brasil-2026-09-22-helicoptero-rick-buscas"
+  },
+  {
+    "id": "2026-09-23",
+    "cutoff": "2026-09-23T11:31:23.014Z",
+    "sections": {
+      "brasil": {
+        "articleIds": [
+          "tse-gender-political-violence-2026",
+          "lula-un-general-assembly-speech-2026",
+          "guia-do-enem-reune-orientacoes-e-metodos-de-estudo-para-provas",
+          "mega-sena-acumula-para-r-38-milhoes-confira-os-numeros-sorteados",
+          "anvisa-manda-apreender-medicamento-falsificado-para-cancer-de-mama",
+          "indigenas-yanomami-terao-acesso-a-consultas-e-exames-especializados-durante-expedicao-do-s",
+          "cinco-pessoas-morrem-em-acidente-com-onibus-no-interior-de-sp",
+          "policia-civil-faz-operacao-contra-faccao-criminosa-em-quatro-estados",
+          "sus-vai-oferecer-cirurgia-que-trata-glaucoma-e-catarata-ao-mesmo-tempo",
+          "ans-aprova-atualizacao-de-cinco-tecnologias-no-rol"
+        ],
+        "shortfall": "",
+        "shortfallEn": ""
+      },
+      "mundo": {
+        "articleIds": [
+          "a-us-military-plane-crashes-near-a-us-air-base-in-germany-injuring-the-pilot",
+          "em-despedida-chefe-da-onu-denuncia-coercao-de-potencias-e-fratura-do-mundo-icl-noticias",
+          "lula-un-general-assembly-speech-2026",
+          "uk-and-us-warned-to-take-action-on-spiralling-debt-costs-by-imf",
+          "seguro-e-merkel-discutem-relacoes-bilaterais-e-contexto-internacional",
+          "pornhub-age-checks-investigated-by-ofcom",
+          "philippines-banga-high-school-shooting-2026",
+          "dmz-explosion-injures-three-south-korean-officers-2026",
+          "russia-united-russia-dominates-parliamentary-vote-2026",
+          "saudi-coalition-says-houthi-missile-targeted-riyadh-2026"
+        ],
+        "shortfall": "",
+        "shortfallEn": ""
+      },
+      "politica": {
+        "articleIds": [
+          "tse-gender-political-violence-2026",
+          "quem-sao-os-maiores-doadores-das-campanhas-presidenciais-g1",
+          "lula-recorre-a-artistas-e-empresarios-na-tentativa-de-conquistar-votos-na-reta-final-do-1o",
+          "aliados-de-milton-leite-perdem-forca-em-sp-apos-prisao-de-ex-vereador-cnn-brasil",
+          "brazil-supreme-court-feud-escalates-with-new-call-for-investigation",
+          "vorcaro-tenta-adiar-oitivas-enquanto-caso-master-acirra-crise-no-supremo-cnn-brasil",
+          "sovereignty-takes-center-stage-in-foreign-policy-electoral-platforms",
+          "world-news-g4-countries-call-for-immediate-unsc-reform-cite-councils-inability-to-uphold-g",
+          "gilmar-propoe-que-stf-analise-caso-de-usinas-apos-mensagens-sobre-kassio-cnn-brasil",
+          "lula-un-general-assembly-speech-2026"
+        ],
+        "shortfall": "",
+        "shortfallEn": ""
+      },
+      "economia": {
+        "articleIds": [
+          "ibovespa-fecha-em-alta-e-dolar-fica-estavel-com-ata-do-copom-e-cenario-eleitoral",
+          "custo-de-passagens-aereas-sobe-10-4-em-agosto-cnn-brasil",
+          "brazil-trims-gdp-outlook-sees-slower-recovery-amid-cautious-monetary-easing-cycle",
+          "petroleo-de-morpho-pode-ser-o-melhor-do-brasil-diz-diretora-da-petrobras",
+          "abren-entra-em-disputa-judicial-sobre-usinas-de-recuperacao-energetica-em-sp-megawhat",
+          "apexbrasil-e-cni-firmam-convenio-de-r-7-1-milhoes-para-ampliar-presenca-da-industria-brasi",
+          "finep-disponibiliza-r-220-milhoes-para-inovacao-em-cooperativas-de-agricultura-familiar",
+          "pim-mantem-trajetoria-de-crescimento-e-atinge-r-142-9-bilhoes-em-faturamento-ate-julho",
+          "biopark-celebra-10-anos-com-anuncio-de-r-1-bilhao-da-prati-donaduzzi-e-r-74-milhoes-para-o",
+          "construido-no-brasil-navio-afretado-pela-petrobras-ganha-o-mar-com-tripulacao-100-feminina"
+        ],
+        "shortfall": "",
+        "shortfallEn": ""
+      },
+      "tecnologia": {
+        "articleIds": [
+          "lideres-da-area-de-ia-farao-apresentacao-na-onu-em-meio-a-alertas-sobre-a-tecnologia",
+          "contagious-interview-o-golpe-do-teste-de-codigo-falso-sempreupdate",
+          "brasil-e-mexico-discutem-plataformas-conjuntas-para-desenvolvimento-e-producao-de-tecnolog",
+          "huawei-unveils-new-chip-technologies-as-chinese-firm-steps-up-the-ai-race-with-nvidia",
+          "apple-settlement-offers-eligible-iphone-owners-up-to-95-here-is-how-to-file-a-claim",
+          "the-king-and-ai-uk-monarch-charles-meets-artificial-intelligence-leaders-as-safety-concern",
+          "one-hidden-meta-muse-setting-could-let-attackers-turn-the-ai-assistant-into-a-backdoor",
+          "continuing-our-reset",
+          "advisory-group-on-mathematics-and-artificial-intelligence",
+          "us-proposes-ai-incident-alert-system-in-talks-with-china-bessent-says"
+        ],
+        "shortfall": "",
+        "shortfallEn": ""
+      },
+      "ciencia": {
+        "articleIds": [
+          "nasa-spacecraft-discovers-a-huge-new-crater-on-the-moon",
+          "unmasking-zombie-cells-in-aging-tissue-with-an-ai-powered-barcode",
+          "networks-could-benefit-from-more-disorder",
+          "unveiling-the-unevenness-of-global-warming-regional-accelerations-key-temperature-shifts-a",
+          "researchers-observe-first-real-time-quantum-jump-in-sound",
+          "the-ancient-ancestor-of-crispr-is-a-powerful-genomic-tool-research-uc-berkeley",
+          "speed-and-low-light-conditions-linked-to-drivers-skipping-seatbelts",
+          "making-invisible-cancers-visible-study-suggests-a-new-route-to-turn-cold-tumors-hot-dana-f",
+          "tampa-bay-migrant-potters-mississippian-study-2026",
+          "sixteen-new-aureobasidium-species-thailand-2026"
+        ],
+        "shortfall": "",
+        "shortfallEn": ""
+      },
+      "cultura": {
+        "articleIds": [
+          "previous-winners-marlon-james-and-douglas-stuart-shortlisted-for-booker-prize",
+          "museu-do-folclore-recebe-bordados-do-vale-do-jequitinhonha",
+          "longa-de-andre-novais-vence-o-festival-de-brasilia-de-cinema",
+          "pesquisa-mostra-desafio-de-cineastas-indigenas-para-financiar-filmes",
+          "filme-cearense-feito-pipa-representa-brasil-na-disputa-pelo-oscar",
+          "cloudburst-in-florence-rain-pours-into-the-uffizi-and-historic-palazzo-pitti",
+          "france-selects-russian-language-film-minotaur-for-oscar-glory",
+          "iris-and-weeping-willow-unseen-monet-paintings-set-for-paris-sale",
+          "eurovision-2027-ireland-follows-netherlands-in-boycott-of-song-contest-for-second-year-in",
+          "macbeth-desafia-a-maldicao-na-reabertura-do-d-maria-ii-em-lisboa"
+        ],
+        "shortfall": "",
+        "shortfallEn": ""
+      },
+      "esportes": {
+        "articleIds": [
+          "apos-vitoria-na-estreia-novo-esporte-visita-o-nova-lavras-pela-segunda-divisao-do-mineiro",
+          "futebol-em-cacoal-projeto-pensando-no-amanha-foca-no-carater-ge",
+          "corinthians-e-sao-paulo-decidem-o-titulo-do-brasileirao-feminino-2026",
+          "campeonato-capixaba-serie-b-2026-conheca-a-selecao-dos-melhores-ge",
+          "jean-drosny-pede-confianca-e-ve-jogo-em-limeira-como-final-para-o-paysandu",
+          "lider-da-serie-b-vila-nova-acerta-defesa-e-faz-contas-pelo-acesso",
+          "para-assistir-na-data-fifa-os-melhores-filmes-e-series-sobre-futebol",
+          "india-at-asian-games-highlights-from-day-4-action-as-mirabai-chanu-won-silver-men-s-team-b",
+          "ex-arbitro-sidrack-marinho-e-o-convidado-do-zyb-podcast-desta-quarta-ge",
+          "pedro-emanuel-supera-desconfianca-inicial-e-resgata-temporada-cruzmaltina"
+        ],
+        "shortfall": "",
+        "shortfallEn": ""
+      }
+    },
+    "leadArticleId": "em-despedida-chefe-da-onu-denuncia-coercao-de-potencias-e-fratura-do-mundo-icl-noticias"
   }
 ]

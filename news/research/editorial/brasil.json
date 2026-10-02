@@ -1,6 +1,9 @@
 {
   "section": "brasil",
-  "cutoff": "2026-09-22T11:21:20.336Z",
+  "edition": "2026-09-23",
+  "cutoff": "2026-09-23T11:31:23.014Z",
+  "windowStart": "2026-09-16T11:31:23.014Z",
+  "windowDefinition": "inclusive lower bound through immutable cutoff; UTC",
   "queries": [
     "Brasil notícias Brasil",
     "Brazil latest news Brazil",
@@ -9,112 +12,402 @@
     "site:g1.globo.com Brasil notícias hoje",
     "site:cnnbrasil.com.br Brasil notícias"
   ],
+  "candidateRun": "research/runs/2026-09-23T11-31-23-014Z-8d26ca21-0863-4450-82bc-1cdf26820144",
+  "retrievedAt": "2026-09-23T11:31:25.105Z",
   "verified": [
     {
-      "articleId": "brasil-2026-09-22-helicoptero-rick-buscas",
-      "url": "https://agenciabrasil.ebc.com.br/geral/noticia/2026-09/fab-e-bombeiros-buscam-helicoptero-com-cantor-rick-desaparecido-em-sc",
-      "publishedAt": "2026-09-21T23:03:00-03:00",
-      "evidence": "Complete extraction b53eb4fd589c.json, status 200 with no warnings, published 2026-09-21; Agência Brasil reports the missing PP-MGR helicopter near São Joaquim, the presence of singer Rick and businessman Bruno Avelar, the Porto Belo departure and 4 p.m. last contact, the FAB Black Hawk and SC-105 search aircraft, two search points about 30 kilometers apart, and the participation of about 20 firefighters with four-wheel-drive vehicles. The report describes an ongoing search and does not assert an outcome.",
-      "selectionReason": "Strong pre-cutoff national public-safety report from Agência Brasil with concrete search details and careful treatment of an unresolved event; selected as the desk's distinct breaking-news item instead of the several duplicate helicopter reports in the candidate run.",
+      "articleId": "tse-gender-political-violence-2026",
+      "primarySection": "politica",
+      "secondarySections": ["brasil"],
+      "secondarySectionRationale": "The same TSE proceedings count is relevant to Brazilian domestic coverage; this is one event and one article identity, not a second story.",
+      "url": "https://g1.globo.com/politica/eleicoes/2026/noticia/2026/09/22/eleicoes-2026-tse-registra-177-processos-de-violencia-politica-de-genero-este-ano.ghtml",
+      "publisher": "G1",
+      "publishedAt": "2026-09-22T19:09:41.233-03:00",
+      "sourceEvidencePath": "research/runs/2026-09-23T11-31-23-014Z-8d26ca21-0863-4450-82bc-1cdf26820144/extractions/politica/b86a0e9be15a.json",
+      "retrievalEvidence": [
+        {
+          "evidencePath": "research/runs/2026-09-23T11-31-23-014Z-8d26ca21-0863-4450-82bc-1cdf26820144/extractions/politica/b86a0e9be15a.json",
+          "publisher": "G1",
+          "retrievedAt": "2026-09-23T11:33:54.988Z"
+        },
+        {
+          "evidencePath": "research/runs/2026-09-23T11-31-23-014Z-8d26ca21-0863-4450-82bc-1cdf26820144/extractions/brasil/b56e18e41eee.json",
+          "publisher": "Agência Brasil",
+          "retrievedAt": "2026-09-23T11:32:00.027Z"
+        }
+      ],
+      "evidence": "G1 reports 177 TSE proceedings registered in 2026 and prevention measures. Registration year is not necessarily the year of the underlying incident; TSE officials note under-reporting. Agência Brasil independently reports the 177 count; its headline and body say 2026 despite a 2016 URL suffix.",
+      "selectionReason": "Selected for politica as a distinct, recent story with a complete original-source extraction and a clear desk fit; shared events are represented by one stable identity.",
+      "corroboratingSources": [
+        {
+          "url": "https://agenciabrasil.ebc.com.br/radioagencia-nacional/politica/audio/2026-09/brasil-registra-177-processos-por-violencia-politica-de-genero-em-2016",
+          "matchingFacts": "Agência Brasil independently reports the 177 count; its headline/body say 2026 despite a 2016 URL suffix."
+        }
+      ],
+      "extractionGates": {
+        "httpStatus": 200,
+        "complete": true,
+        "paragraphCount": 23,
+        "warnings": [],
+        "passed": true
+      },
       "contentReview": {
         "bodyComplete": true,
         "aiSummaryReviewed": true
       }
     },
     {
-      "articleId": "brasil-2026-09-22-alerta-ventos-rio",
-      "url": "https://agenciabrasil.ebc.com.br/meio-ambiente/noticia/2026-09/defesa-civil-alerta-para-ventos-fortes-na-cidade-do-rio",
-      "publishedAt": "2026-09-22T00:16:00-03:00",
-      "evidence": "Complete extraction 17c092838b9e.json, status 200 with no warnings, published 2026-09-22; Agência Brasil reports the Rio Civil Defense phone alert, the cold-front forecast of cloudy skies, moderate to heavy rain and lightning, winds up to 51.9 km/h with gusts above 76 km/h, and the temperature and rain outlook through Friday. The earlier complete alert is used so the selected source remains within the immutable cutoff.",
-      "selectionReason": "Earliest complete pre-cutoff version of the desk's weather-safety story, with direct service value and measurable forecast details; selected once and not duplicated with the later post-cutoff weather update.",
+      "articleId": "lula-un-general-assembly-speech-2026",
+      "primarySection": "mundo",
+      "secondarySections": ["brasil", "politica"],
+      "secondarySectionRationale": "The speaker is Brazil's president and the address is directly relevant to Brazil's international role; retain one shared speech identity.",
+      "url": "https://apnews.com/article/un-united-nations-general-assembly-lula-brazil-767e63e2ffd5a2898c84f290de816ff7",
+      "publisher": "Associated Press",
+      "publishedAt": "2026-09-22T15:43:28",
+      "sourceEvidencePath": "research/runs/2026-09-23T11-31-23-014Z-8d26ca21-0863-4450-82bc-1cdf26820144/extractions/mundo/97c229b751d6.json",
+      "retrievalEvidence": [
+        {
+          "evidencePath": "research/runs/2026-09-23T11-31-23-014Z-8d26ca21-0863-4450-82bc-1cdf26820144/extractions/mundo/97c229b751d6.json",
+          "publisher": "Associated Press",
+          "retrievedAt": "2026-09-23T11:33:42.043Z"
+        },
+        {
+          "evidencePath": "research/runs/2026-09-23T11-31-23-014Z-8d26ca21-0863-4450-82bc-1cdf26820144/extractions/politica/b1722b2f9fe2.json",
+          "publisher": "G1",
+          "retrievedAt": "2026-09-23T11:33:58.858Z"
+        },
+        {
+          "evidencePath": "research/runs/2026-09-23T11-31-23-014Z-8d26ca21-0863-4450-82bc-1cdf26820144/extractions/politica/3ba1f615a379.json",
+          "publisher": "G1",
+          "retrievedAt": "2026-09-23T11:34:04.098Z"
+        }
+      ],
+      "evidence": "Lula spoke at the 81st UN General Assembly on September 22 and warned against foreign interference in electoral processes. Attribute the warning to Lula; the speech does not establish that interference occurred. G1's transcript confirms the date and stated warning; its second saved report covers the same event and is not a separate article.",
+      "selectionReason": "Selected for mundo as a distinct, recent story with a complete original-source extraction and a clear desk fit; shared events are represented by one stable identity.",
+      "corroboratingSources": [
+        {
+          "url": "https://g1.globo.com/politica/noticia/2026/09/22/leia-a-integra-do-discurso-de-lula-na-assembleia-geral-da-onu.ghtml",
+          "matchingFacts": "G1 transcript confirms the September 22 speech and warnings about electoral interference and sovereignty."
+        },
+        {
+          "url": "https://g1.globo.com/politica/noticia/2026/09/22/na-onu-lula-defende-cooperacao-contra-crime-organizado-em-meio-a-divergencia-com-eua-sobre-pcc-e-cv.ghtml",
+          "matchingFacts": "Second saved source extraction covers the same event; it is not counted as a separate article."
+        }
+      ],
+      "extractionGates": {
+        "httpStatus": 200,
+        "complete": true,
+        "paragraphCount": 21,
+        "warnings": [],
+        "passed": true
+      },
       "contentReview": {
         "bodyComplete": true,
         "aiSummaryReviewed": true
       }
     },
     {
-      "articleId": "brasil-2026-09-22-quaest-pesquisa-presidente",
-      "url": "https://g1.globo.com/politica/eleicoes/2026/pesquisa-eleitoral/noticia/2026/09/21/quaest-divulga-nova-pesquisa-eleitoral-para-presidente-nesta-segunda-21.ghtml",
-      "publishedAt": "2026-09-21T09:26:47.104-03:00",
-      "evidence": "Complete extraction 07a58d86c486.json, status 200 with no warnings, published 2026-09-21; g1 reports the planned Quaest presidential poll, the prior first- and second-round figures, interviews with 2,004 people from September 17 to 20, the two-point margin of error, 95% confidence level, TSE registration BR-06004/2026, and questionnaire topics including government approval, the economy, the election, the STF crisis and the Master case. The report is framed as survey context and does not treat planned results as already released.",
-      "selectionReason": "Complete pre-cutoff election-research report from a major Brazilian outlet with transparent methodology and civic relevance; selected for national public interest and to replace the post-cutoff e-Título notice without repeating an event already selected in this desk.",
+      "articleId": "guia-do-enem-reune-orientacoes-e-metodos-de-estudo-para-provas",
+      "primarySection": "brasil",
+      "secondarySections": [],
+      "url": "https://agenciabrasil.ebc.com.br/educacao/noticia/2026-09/guia-do-enem-traz-orientacoes-e-metodos-de-estudo-para-provas",
+      "publisher": "Agência Brasil",
+      "publishedAt": "2026-09-22T16:37:00-03:00",
+      "sourceEvidencePath": "research/runs/2026-09-23T11-31-23-014Z-8d26ca21-0863-4450-82bc-1cdf26820144/extractions/brasil/b31974920cc1.json",
+      "retrievalEvidence": [
+        {
+          "evidencePath": "research/runs/2026-09-23T11-31-23-014Z-8d26ca21-0863-4450-82bc-1cdf26820144/extractions/brasil/b31974920cc1.json",
+          "publisher": "Agência Brasil",
+          "retrievedAt": "2026-09-23T11:32:02.479Z"
+        }
+      ],
+      "evidence": "MEC launched an official Enem study guide on September 21 for the 2026 exam; the first test day is November 8. Gov.br registration is required for the listed apps; treat this as service information, not an outcome claim.",
+      "selectionReason": "Selected for brasil as a distinct, recent story with a complete original-source extraction and a clear desk fit; shared events are represented by one stable identity.",
+      "corroboratingSources": [],
+      "corroborationNote": "No independent matching URL was captured in the supplied evidence; this is limited to low-risk service information or an official primary-source announcement.",
+      "extractionGates": {
+        "httpStatus": 200,
+        "complete": true,
+        "paragraphCount": 29,
+        "warnings": [],
+        "passed": true
+      },
       "contentReview": {
         "bodyComplete": true,
         "aiSummaryReviewed": true
       }
     },
     {
-      "articleId": "brasil-2026-09-22-turma-kn-master",
-      "url": "https://www.cnnbrasil.com.br/politica/turma-do-kn-negociou-contrato-de-r-427-mi-com-master-apontam-mensagens/",
-      "publishedAt": "2026-09-21T17:07:29-03:00",
-      "evidence": "Complete extraction 734354d033d1.json, status 200 with no warnings, published 2026-09-21T17:07:29-03:00; CNN Brasil reports that messages from Daniel Vorcaro's phone, obtained by the Federal Police and sent to the STF, point to a R$427 million legal contract described as the ‘Turma do KN’, the possible release of R$8.5 billion in precatórios, the messages' identification of ‘KN’ with Justice Kassio Nunes Marques and the ‘group’ with Newton Ramos and Camilla Ramos, Nunes Marques's denials, the 12 sugar-sector cases, the 5% fee and payment timing, and Newton Ramos's response. The report attributes allegations to documents and messages and preserves responses rather than asserting wrongdoing as established.",
-      "selectionReason": "Complete pre-cutoff CNN Brasil investigation report with substantial documentary detail, explicit attribution and responses from named parties; selected as a distinct document-based public-interest item, not a duplicate of the existing Quaest survey story, which only mentions the Master case as a questionnaire topic.",
+      "articleId": "mega-sena-acumula-para-r-38-milhoes-confira-os-numeros-sorteados",
+      "primarySection": "brasil",
+      "secondarySections": [],
+      "url": "https://agenciabrasil.ebc.com.br/geral/noticia/2026-09/mega-sena-acumula-para-r-38-milhoes-confira-os-numeros-sorteados",
+      "publisher": "Agência Brasil",
+      "publishedAt": "2026-09-23T00:30:00-03:00",
+      "sourceEvidencePath": "research/runs/2026-09-23T11-31-23-014Z-8d26ca21-0863-4450-82bc-1cdf26820144/extractions/brasil/d64a4d85698e.json",
+      "evidence": "The complete Agência Brasil extraction reports contest 3061, the six numbers, no jackpot winner and a R$38 million next-prize estimate. Caixa's official contest API confirms the draw date, numbers, winner counts, lower-tier payouts and rollover estimate. G1 matches the six numbers only; its available copy does not confirm the final payouts or R$38 million estimate.",
+      "selectionReason": "Caixa's official contest record supports the result and payouts; G1's independent check is limited to the six numbers drawn.",
+      "corroboratingSources": [
+        {
+          "url": "https://servicebus2.caixa.gov.br/portaldeloterias/api/megasena/3061",
+          "matchingFacts": "Official API confirms contest date, numbers, payout tiers, rollover and next-prize estimate."
+        },
+        {
+          "url": "https://g1.globo.com/loterias/mega-sena/noticia/2026/09/22/mega-sena-concurso-3061-confira-os-numeros-sorteados.ghtml",
+          "matchingFacts": "Matches the six drawn numbers only; its available page does not corroborate final payout amounts or the R$38 million estimate."
+        }
+      ],
+      "extractionGates": {
+        "httpStatus": 200,
+        "complete": true,
+        "paragraphCount": 11,
+        "warnings": [],
+        "passed": true,
+        "bodyContaminationNote": "Manual section-qualification report reviewed the source body; captions, sidebar/recommendation and page-chrome material were excluded where present."
+      },
+      "contentReview": {
+        "bodyComplete": true,
+        "aiSummaryReviewed": true
+      },
+      "reviewFlags": [
+        "G1 corroborates the six numbers only; use Caixa for the official result and payout table.",
+        "The frozen source body was captured at 2026-09-23T11:32:03.252Z, 40.238 seconds after the immutable cutoff; this does not prove exact wording at cutoff."
+      ],
+      "secondarySectionRationale": null,
+      "retrievalEvidence": [
+        {
+          "evidencePath": "research/runs/2026-09-23T11-31-23-014Z-8d26ca21-0863-4450-82bc-1cdf26820144/extractions/brasil/d64a4d85698e.json",
+          "publisher": "Agência Brasil",
+          "retrievedAt": "2026-09-23T11:32:03.252Z",
+          "retrievedAfterImmutableCutoff": true
+        }
+      ]
+    },
+    {
+      "articleId": "anvisa-manda-apreender-medicamento-falsificado-para-cancer-de-mama",
+      "primarySection": "brasil",
+      "secondarySections": [],
+      "url": "https://agenciabrasil.ebc.com.br/saude/noticia/2026-09/anvisa-manda-apreender-medicamento-falsificado-para-cancer-de-mama",
+      "publisher": "Agência Brasil",
+      "publishedAt": "2026-09-21T18:27:00-03:00",
+      "sourceEvidencePath": "research/runs/2026-09-23T11-31-23-014Z-8d26ca21-0863-4450-82bc-1cdf26820144/focused/brasil-2.json",
+      "retrievalEvidence": [
+        {
+          "evidencePath": "research/runs/2026-09-23T11-31-23-014Z-8d26ca21-0863-4450-82bc-1cdf26820144/focused/brasil-2.json",
+          "publisher": "Agência Brasil",
+          "retrievedAt": "2026-09-23T14:02:15.807Z"
+        }
+      ],
+      "evidence": "Anvisa ordered seizure of falsified Phesgo and Dysport lots and announced additional sanitary measures. Describe regulatory orders as agency action; do not imply patient exposure or clinical harm beyond the record.",
+      "selectionReason": "Selected for brasil as a distinct, recent story with a complete original-source extraction and a clear desk fit; shared events are represented by one stable identity.",
+      "corroboratingSources": [],
+      "corroborationNote": "The supplied qualification report says this item was corroborated, but it did not preserve a corroborating URL accepted for this record; no URL was fabricated.",
+      "extractionGates": {
+        "httpStatus": 200,
+        "complete": true,
+        "paragraphCount": 19,
+        "warnings": [],
+        "passed": true
+      },
       "contentReview": {
         "bodyComplete": true,
         "aiSummaryReviewed": true
       }
     },
     {
-      "articleId": "brasil-2026-09-22-investigacao-isabelle-caracristi",
-      "url": "https://agenciabrasil.ebc.com.br/radioagencia-nacional/seguranca/audio/2026-09/mp-do-ceara-acompanha-investigacoes-sobre-morte-de-isabelle-caracristi",
-      "publishedAt": "2026-09-21T23:10:00-03:00",
-      "evidence": "Complete extraction d76612dc9dfb.json, status 200 with no warnings, published 2026-09-21; Agência Brasil reports that Ceará prosecutors are monitoring the investigation into the death of 22-year-old Isabelle Caracristi, that Civil Police and forensic authorities are conducting the inquiry, that the prosecutors' office is supporting the family, and that family lawyers described the case as being in the testimony stage. The account preserves the family's statements as allegations and does not assert an investigative conclusion.",
-      "selectionReason": "Recent, complete public-safety report with an official prosecutorial update and a clearly stated evidentiary boundary; selected over speculative crime coverage because it avoids declaring a cause or culprit.",
+      "articleId": "indigenas-yanomami-terao-acesso-a-consultas-e-exames-especializados-durante-expedicao-do-s",
+      "primarySection": "brasil",
+      "secondarySections": [],
+      "url": "https://www.gov.br/saude/pt-br/assuntos/noticias-ms/2026/setembro/indigenas-yanomami-terao-acesso-a-consultas-e-exames-especializados-durante-expedicao-do-sus-em-roraima",
+      "publisher": "Brazilian federal government",
+      "publishedAt": "2026-09-22T19:41:52-03:00",
+      "sourceEvidencePath": "research/runs/2026-09-23T11-31-23-014Z-8d26ca21-0863-4450-82bc-1cdf26820144/focused/brasil-3.json",
+      "retrievalEvidence": [
+        {
+          "evidencePath": "research/runs/2026-09-23T11-31-23-014Z-8d26ca21-0863-4450-82bc-1cdf26820144/focused/brasil-3.json",
+          "publisher": "Brazilian federal government",
+          "retrievedAt": "2026-09-23T14:02:22.413Z"
+        }
+      ],
+      "evidence": "The Ministry of Health planned 750 procedures for about 2,544 Yanomami in 33 communities from September 23–30. This is a scheduled expedition, not completed service delivery; use the Ministry's dates, not a corroborator's inconsistent '10 days' label.",
+      "selectionReason": "Selected for brasil as a distinct, recent story with a complete original-source extraction and a clear desk fit; shared events are represented by one stable identity.",
+      "corroboratingSources": [],
+      "corroborationNote": "The supplied qualification report says this item was corroborated, but it did not preserve a corroborating URL accepted for this record; no URL was fabricated.",
+      "extractionGates": {
+        "httpStatus": 200,
+        "complete": true,
+        "paragraphCount": 10,
+        "warnings": [],
+        "passed": true
+      },
       "contentReview": {
         "bodyComplete": true,
         "aiSummaryReviewed": true
       }
     },
     {
-      "articleId": "brasil-2026-09-22-pe-de-meia-sexta-parcela",
-      "url": "https://agenciabrasil.ebc.com.br/educacao/noticia/2026-09/pe-de-meia-comeca-pagar-sexta-parcela-estudantes-nesta-segunda",
-      "publishedAt": "2026-09-21T19:38:00-03:00",
-      "evidence": "Complete extraction a1c7cf18b001.json, status 200 with no warnings, published 2026-09-21; Agência Brasil reports the start of the sixth Pé-de-Meia attendance installment, the payment window through September 28, the R$200 regular-school and R$225 EJA amounts, the birth-month calendar, the 80% attendance rule, CadÚnico and age requirements, and the treatment of withheld installments.",
-      "selectionReason": "Recent official education-service report with concrete payment dates, amounts and eligibility rules that affect students nationwide; selected for practical public value and distinct from the desk's legal, weather and security items.",
+      "articleId": "cinco-pessoas-morrem-em-acidente-com-onibus-no-interior-de-sp",
+      "primarySection": "brasil",
+      "secondarySections": [],
+      "url": "https://agenciabrasil.ebc.com.br/geral/noticia/2026-09/cinco-pessoas-morrem-em-acidente-com-onibus-no-interior-de-sp",
+      "publisher": "Agência Brasil",
+      "publishedAt": "2026-09-20T14:07:00-03:00",
+      "sourceEvidencePath": "research/runs/2026-09-23T11-31-23-014Z-8d26ca21-0863-4450-82bc-1cdf26820144/focused/brasil-4.json",
+      "evidence": "A full Wayback capture of the selected Agência Brasil body at 2026-09-21T03:12:54Z predates the cutoff and preserves the initial five-death count, 48 aboard and the approximately 05:15 account; the replay body was downloaded after cutoff. G1/Terra report about 05:30, and Terra reports 42 injured while Estadão Conteúdo/JC reports 41. Those later reports remain attributed variants, not a reconciled final account; their exact bodies are not proven by a pre-cutoff capture.",
+      "selectionReason": "The public article is limited to the initial Agência Brasil account supported by the pre-cutoff archive; no exact crash time, injury count or later toll is asserted because qualifying pre-cutoff body evidence does not resolve those details.",
+      "corroboratingSources": [
+        {
+          "url": "https://g1.globo.com/sp/vale-do-paraiba-regiao/noticia/2026/09/20/onibus-cai-em-ribanceira-e-deixa-mortos-em-cruzeiro-sp.ghtml",
+          "matchingFacts": "Independent report gives an approximately 05:30 event time and casualty details; timing differs from Agência Brasil's 05:15 account."
+        },
+        {
+          "url": "https://www.terra.com.br/noticias/quem-sao-as-vitimas-do-acidente-de-onibus-que-caiu-em-ribanceira-em-sao-paulo,fc1f10d87a28094e55ac407fcf36809794n0lc8x.html",
+          "matchingFacts": "Independent report also places the crash at about 05:30; retain its approximation and attribution."
+        }
+      ],
+      "extractionGates": {
+        "httpStatus": 200,
+        "complete": true,
+        "paragraphCount": 11,
+        "warnings": [],
+        "passed": true,
+        "bodyContaminationNote": "Manual section-qualification report reviewed the source body; captions, sidebar/recommendation and page-chrome material were excluded where present."
+      },
+      "contentReview": {
+        "bodyComplete": true,
+        "aiSummaryReviewed": true
+      },
+      "reviewFlags": [
+        "The event time remains a source-attributed discrepancy: Agência Brasil/Estadão Conteúdo via JC say about 05:15; G1/Terra say about 05:30; G1's 05:15 emergency-call time is a separate record. No single verified occurrence time is asserted.",
+        "Injury counts remain attributed and unresolved: Terra reports 42 and Estadão Conteúdo via JC reports 41; no authoritative final casualty roll was located. The later G1/Terra/JC bodies are not proven by qualifying pre-cutoff captures.",
+        "The selected Agência Brasil story has a full archived capture at 2026-09-21T03:12:54Z, before cutoff, supporting its initial account. The replay was downloaded after cutoff; the archived capture time establishes when that copy existed."
+      ],
+      "secondarySectionRationale": null,
+      "retrievalEvidence": [
+        {
+          "evidencePath": "research/runs/2026-09-23T11-31-23-014Z-8d26ca21-0863-4450-82bc-1cdf26820144/focused/brasil-4.json",
+          "publisher": "Agência Brasil",
+          "retrievedAt": "2026-09-23T14:02:28.722Z",
+          "retrievedAfterImmutableCutoff": true
+        },
+        {
+          "evidencePath": "research/runs/2026-09-23T11-31-23-014Z-8d26ca21-0863-4450-82bc-1cdf26820144/audits/fact-check/recovery-reviews/evidence/bus-20260921031254.wayback.html",
+          "publisher": "Agência Brasil via Wayback Machine",
+          "archiveUrl": "https://web.archive.org/web/20260921031254id_/https://agenciabrasil.ebc.com.br/geral/noticia/2026-09/cinco-pessoas-morrem-em-acidente-com-onibus-no-interior-de-sp",
+          "captureTimestampUtc": "2026-09-21T03:12:54Z",
+          "retrievedAt": "2026-09-25T06:39:31.993820Z",
+          "retrievedAfterImmutableCutoff": true
+        }
+      ]
+    },
+    {
+      "articleId": "policia-civil-faz-operacao-contra-faccao-criminosa-em-quatro-estados",
+      "primarySection": "brasil",
+      "secondarySections": [],
+      "url": "https://agenciabrasil.ebc.com.br/geral/noticia/2026-09/policia-civil-faz-operacao-contra-faccao-criminosa-em-quatro-estados",
+      "publisher": "Agência Brasil",
+      "publishedAt": "2026-09-22T10:55:00-03:00",
+      "sourceEvidencePath": "research/runs/2026-09-23T11-31-23-014Z-8d26ca21-0863-4450-82bc-1cdf26820144/focused/brasil-5.json",
+      "evidence": "A full pre-cutoff Wayback capture of the selected Agência Brasil story at 2026-09-22T23:16:53Z records the four-state operation, police-attributed allegations and six arrests by 06:30. The arrest figure is retained only as a time-bounded snapshot, not a final total; allegations remain attributed to investigators.",
+      "selectionReason": "The selected Agência Brasil report and its pre-cutoff archived body support the six-arrest snapshot by 06:30; CNN Brasil is retained only as separate corroboration for a six-arrest report, not for the 06:30 timestamp. The count is not presented as final.",
+      "corroboratingSources": [
+        {
+          "url": "https://www.cnnbrasil.com.br/nacional/sudeste/rj/operacao-mira-canal-de-drogas-do-comando-vermelho-em-quatro-estados/",
+          "matchingFacts": "Separate coverage also reported six arrests; this corroborates only the reported count and does not establish the 06:30 timestamp in the selected Agência Brasil body."
+        }
+      ],
+      "extractionGates": {
+        "httpStatus": 200,
+        "complete": true,
+        "paragraphCount": 12,
+        "warnings": [],
+        "passed": true,
+        "bodyContaminationNote": "Manual section-qualification report reviewed the source body; captions, sidebar/recommendation and page-chrome material were excluded where present."
+      },
+      "contentReview": {
+        "bodyComplete": true,
+        "aiSummaryReviewed": true
+      },
+      "reviewFlags": [
+        "Six arrests by 06:30 are present in the selected Agência Brasil body captured before cutoff at 2026-09-22T23:16:53Z; CNN Brasil is separate corroboration for a six-arrest report, not proof of the 06:30 timestamp. Keep the count as a timestamped snapshot, not a final operation total.",
+        "post-cutoff-context only: Later G1/O Globo updates showed higher arrest totals; their exact update bodies are not proven by qualifying pre-cutoff captures. Do not use these reports as cutoff proof or public-article sources; higher totals have been removed from the public article. The 06:30 count remains only a timestamped snapshot, not a final operation total.",
+        "The focused selected-source extraction was downloaded after cutoff at 2026-09-23T14:02:34.632Z. The archived 2026-09-22T23:16:53Z body proves that earlier copy existed before cutoff, but not the exact page version at the cutoff instant."
+      ],
+      "secondarySectionRationale": null,
+      "retrievalEvidence": [
+        {
+          "evidencePath": "research/runs/2026-09-23T11-31-23-014Z-8d26ca21-0863-4450-82bc-1cdf26820144/focused/brasil-5.json",
+          "publisher": "Agência Brasil",
+          "retrievedAt": "2026-09-23T14:02:34.632Z",
+          "retrievedAfterImmutableCutoff": true
+        },
+        {
+          "evidencePath": "research/runs/2026-09-23T11-31-23-014Z-8d26ca21-0863-4450-82bc-1cdf26820144/audits/fact-check/recovery-reviews/evidence/police-20260922231653.wayback.html",
+          "publisher": "Agência Brasil via Wayback Machine",
+          "archiveUrl": "https://web.archive.org/web/20260922231653id_/https://agenciabrasil.ebc.com.br/geral/noticia/2026-09/policia-civil-faz-operacao-contra-faccao-criminosa-em-quatro-estados",
+          "captureTimestampUtc": "2026-09-22T23:16:53Z",
+          "retrievedAt": "2026-09-25T06:39:37.729949Z",
+          "retrievedAfterImmutableCutoff": true
+        }
+      ]
+    },
+    {
+      "articleId": "sus-vai-oferecer-cirurgia-que-trata-glaucoma-e-catarata-ao-mesmo-tempo",
+      "primarySection": "brasil",
+      "secondarySections": [],
+      "url": "https://www.gov.br/saude/pt-br/assuntos/noticias-ms/2026/setembro/sus-vai-oferecer-cirurgia-que-trata-glaucoma-e-catarata-ao-mesmo-tempo",
+      "publisher": "Brazilian federal government",
+      "publishedAt": "2026-09-21T11:43:00-03:00",
+      "sourceEvidencePath": "research/runs/2026-09-23T11-31-23-014Z-8d26ca21-0863-4450-82bc-1cdf26820144/focused/brasil-6.json",
+      "retrievalEvidence": [
+        {
+          "evidencePath": "research/runs/2026-09-23T11-31-23-014Z-8d26ca21-0863-4450-82bc-1cdf26820144/focused/brasil-6.json",
+          "publisher": "Brazilian federal government",
+          "retrievedAt": "2026-09-23T14:02:40.916Z"
+        }
+      ],
+      "evidence": "SUS added a combined cataract/glaucoma procedure for some mild or moderate primary open-angle glaucoma cases. Implementation may take up to 180 days; do not describe availability as immediate.",
+      "selectionReason": "Selected for brasil as a distinct, recent story with a complete original-source extraction and a clear desk fit; shared events are represented by one stable identity.",
+      "corroboratingSources": [],
+      "corroborationNote": "The supplied qualification report says this item was corroborated, but it did not preserve a corroborating URL accepted for this record; no URL was fabricated.",
+      "extractionGates": {
+        "httpStatus": 200,
+        "complete": true,
+        "paragraphCount": 11,
+        "warnings": [],
+        "passed": true
+      },
       "contentReview": {
         "bodyComplete": true,
         "aiSummaryReviewed": true
       }
     },
     {
-      "articleId": "brasil-2026-09-22-futebol-feminino-corinthians-bahia",
-      "url": "https://agenciabrasil.ebc.com.br/esportes/noticia/2026-09/futebol-feminino-tv-brasil-exibe-corinthians-e-bahia-pela-semifinal",
-      "publishedAt": "2026-09-21T18:44:00-03:00",
-      "evidence": "Complete extraction 06a15be7207f.json, status 200 with no warnings, published 2026-09-21; Agência Brasil reports the Corinthians-Bahia Women's Série A1 semifinal return leg, the 21h30 broadcast, Corinthians' 1-0 first-leg win, the advancement scenarios, TV Brasil's women's-football strategy and the competition format.",
-      "selectionReason": "Recent complete sports-service report with a scheduled match, verified scoreline and clear public-broadcast information; selected as one distinct women's-sports story rather than a duplicate match listing.",
-      "contentReview": {
-        "bodyComplete": true,
-        "aiSummaryReviewed": true
-      }
-    },
-    {
-      "articleId": "brasil-2026-09-22-tst-correios",
-      "url": "https://agenciabrasil.ebc.com.br/geral/noticia/2026-09/tst-suspende-julgamento-de-dissidio-da-greve-dos-correios",
-      "publishedAt": "2026-09-21T18:35:00-03:00",
-      "evidence": "Complete extraction 2f40e9a72272.json, status 200 with no warnings, published 2026-09-21; Agência Brasil reports the TST suspension and September 24 resumption date, the 48-hour union response period for newly filed documents, the president's due-process explanation, the strike's start after failed wage talks, the 80% staffing order and Correios' continuity plan.",
-      "selectionReason": "Recent labor and public-service report with a concrete court schedule and service implications; selected as distinct from the Pé-de-Meia education item and other institutional updates.",
-      "contentReview": {
-        "bodyComplete": true,
-        "aiSummaryReviewed": true
-      }
-    },
-    {
-      "articleId": "brasil-2026-09-22-jet-ski-maceio",
-      "url": "https://www.itatiaia.com.br/brasil/nordeste/al/jet-ski-adaptado-para-circular-no-asfalto-chama-atencao-em-maceio-veja-o-video/",
-      "publishedAt": "2026-09-21T20:35:47-03:00",
-      "evidence": "Complete extraction 4557813acb4a.json, status 200 with no warnings, published 2026-09-21T20:35:47-03:00; Rádio Itatiaia reports a jet ski adapted for road travel spotted in Maceió, the DMTT's requirement for prior authorization, the application of CTB article 98 to changes in color, suspension, engine, fuel and structure, the need to regularize and record changes in the CRLV, the article 230 VII serious infraction with R$195.23 fine, five CNH points and retention, and that the authority did not say whether this vehicle had authorization. The article does not resolve the vehicle's legal status.",
-      "selectionReason": "Complete pre-cutoff local service report with a directly attributed DMTT explanation and a bounded unresolved point; selected as a distinct transport-regulation and human-interest item, replacing the blocked local-fire story without duplicating the desk's weather, helicopter, investigation, labor or education events.",
-      "contentReview": {
-        "bodyComplete": true,
-        "aiSummaryReviewed": true
-      }
-    },
-    {
-      "articleId": "brasil-2026-09-22-ibge-mapas-mundi",
-      "url": "https://agenciadenoticias.ibge.gov.br/agencia-noticias/2012-agencia-de-noticias/noticias/48104-colecao-de-mapas-mundi-do-ibge-ultrapassa-7-4-mil-downloads-apos-liberacao-gratuita",
-      "publishedAt": "2026-09-21T14:29:35+00:00",
-      "evidence": "Complete extraction 461d5d455149.json, status 200 with no warnings, published 2026-09-21; IBGE reports 7,408 downloads of its free world-map collection, identifies the three leading map models and their counts, describes the 2024-2026 series and explains that the collection remains available for download.",
-      "selectionReason": "Recent official IBGE public-information report with precise usage data and accessible educational material; selected as a distinct civic and knowledge item, avoiding event-listing and low-quality listicle coverage.",
+      "articleId": "ans-aprova-atualizacao-de-cinco-tecnologias-no-rol",
+      "primarySection": "brasil",
+      "secondarySections": [],
+      "url": "https://www.gov.br/ans/pt-br/assuntos/noticias-1/periodo-eleitoral/ans-aprova-atualizacao-de-cinco-tecnologias-no-rol",
+      "publisher": "Brazilian federal government",
+      "publishedAt": "2026-09-22T18:41:25-03:00",
+      "sourceEvidencePath": "research/runs/2026-09-23T11-31-23-014Z-8d26ca21-0863-4450-82bc-1cdf26820144/focused/brasil-7.json",
+      "retrievalEvidence": [
+        {
+          "evidencePath": "research/runs/2026-09-23T11-31-23-014Z-8d26ca21-0863-4450-82bc-1cdf26820144/focused/brasil-7.json",
+          "publisher": "Brazilian federal government",
+          "retrievedAt": "2026-09-23T14:05:45.659Z"
+        }
+      ],
+      "evidence": "ANS approved five Rol technologies, including hormonal IUD/SIU coverage in some endometriosis cases, effective October 1. This is a future coverage date, not coverage already in force at the cutoff.",
+      "selectionReason": "Selected for brasil as a distinct, recent story with a complete original-source extraction and a clear desk fit; shared events are represented by one stable identity.",
+      "corroboratingSources": [],
+      "corroborationNote": "The supplied qualification report says this item was corroborated, but it did not preserve a corroborating URL accepted for this record; no URL was fabricated.",
+      "extractionGates": {
+        "httpStatus": 200,
+        "complete": true,
+        "paragraphCount": 8,
+        "warnings": [],
+        "passed": true
+      },
       "contentReview": {
         "bodyComplete": true,
         "aiSummaryReviewed": true
@@ -126,7 +419,6 @@
     "en": ""
   },
   "improvements": [],
-  "candidateRun": "research/runs/2026-09-22T11-21-20-336Z-6df281a2-9343-4cb7-a1b3-001b9e9a3dde",
-  "retrievedAt": "2026-09-22T11:22:12.152Z",
-  "reviewStatus": "draft-source-verified-no-publication-approval"
+  "reviewStatus": "draft-source-verified-no-publication-approval",
+  "authoringStatus": "The ten ordered records match the frozen Brasil selection. Three selected source records absent from the prior manifest are restored with their frozen extraction paths. The bus article is narrowed to the pre-cutoff Agência Brasil initial account, without an occurrence time or injury count. Mega-Sena remains blocked: its selected body was retrieved 40.238 seconds after cutoff, and later Caixa API/publication metadata do not prove body availability at cutoff. The police count remains the 06:30 snapshot. No publication approval is implied."
 }

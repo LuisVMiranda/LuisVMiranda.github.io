@@ -1,0 +1,86 @@
+{
+  "id": "cloudburst-in-florence-rain-pours-into-the-uffizi-and-historic-palazzo-pitti",
+  "slug": "cloudburst-in-florence-rain-pours-into-the-uffizi-and-historic-palazzo-pitti",
+  "section": "cultura",
+  "secondarySections": [],
+  "publishedAt": "2026-09-17T19:10:54+02:00",
+  "updatedAt": "2026-09-24T17:45:13.603Z",
+  "sources": [
+    {
+      "name": "Euronews",
+      "url": "https://www.euronews.com/2026/09/17/cloudburst-in-florence-rain-pours-into-the-uffizi-and-historic-palazzo-pitti"
+    },
+    {
+      "name": "Uffizi Galleries",
+      "url": "https://www.uffizi.it/en/notices/rain-bomb-in-florence-no-damage-to-the-uffizi-the-museum-is-regularly-open"
+    }
+  ],
+  "rights": {
+    "mode": "original-report"
+  },
+  "translations": {
+    "pt-BR": {
+      "title": "Chuva atinge Uffizi e Palazzo Pitti; Uffizi diz que obras não foram danificadas",
+      "summary": "Temporal em Florença provocou infiltração em uma sala da Galeria Uffizi e entrada de água no Palazzo Pitti; a nota do museu não apontou danos às obras do Uffizi.",
+      "aiSummary": [
+        "Mais de 45 milímetros de chuva caíram em uma hora em Florença em 17 de setembro.",
+        "No Uffizi, a água atingiu o vidro externo da proteção de Bacchus, de Caravaggio; o museu não encontrou danos às obras.",
+        "No Palazzo Pitti, pisos de galerias foram molhados e algumas áreas foram isoladas, segundo representante sindical citado pela Euronews."
+      ],
+      "paragraphs": [
+        "Um temporal que despejou mais de 45 milímetros de chuva em uma hora atingiu Florença em 17 de setembro. Na Galeria Uffizi, a água entrou sob a claraboia de uma sala com sete pinturas do século 17, entre elas Bacchus, de Caravaggio.",
+        "A administração do Uffizi informou que a água atingiu o vidro externo da caixa de proteção de Bacchus. Após inspeção, o museu declarou que nenhuma das obras havia sido danificada.",
+        "O comunicado do museu disse que a sala abriria normalmente aos visitantes na manhã de 18 de setembro, um dia depois do temporal. A declaração se referia às obras verificadas na Galeria Uffizi.",
+        "A chuva também entrou no Palazzo Pitti, complexo histórico que abriga diferentes espaços expositivos. A reportagem citou Silvia Barlacchi, representante sindical da Cisl, segundo quem pisos da Galeria Palatina e da Galeria de Arte Moderna foram atingidos e algumas áreas ficaram temporariamente fechadas.",
+        "A causa da entrada de água no Palazzo Pitti não estava esclarecida no relato. A nota de ausência de danos do Uffizi não abrangia o acervo do palácio, e a reportagem não afirmou que obras ali tivessem sido danificadas."
+      ]
+    },
+    "en": {
+      "title": "Rain enters Uffizi and Palazzo Pitti; Uffizi says artworks were unharmed",
+      "summary": "A storm in Florence caused a leak in one Uffizi Gallery room and water ingress at Palazzo Pitti; the museum’s notice reported no damage to works at the Uffizi.",
+      "aiSummary": [
+        "More than 45 millimetres of rain fell in one hour in Florence on September 17.",
+        "At the Uffizi, water reached the outer protective glass around Caravaggio’s Bacchus; the museum found no damage to artworks.",
+        "At Palazzo Pitti, gallery floors were affected and some areas were closed, according to a union representative cited by Euronews."
+      ],
+      "paragraphs": [
+        "A downpour that brought more than 45 millimetres of rain in an hour hit Florence on September 17. At the Uffizi Gallery, water entered beneath the skylight in a room with seven 17th-century paintings, including Caravaggio’s Bacchus.",
+        "The Uffizi administration said water reached the outside glass of the protective case around Bacchus. After inspection, the museum said none of the works had been damaged.",
+        "The museum notice said the room would open to visitors as usual on the morning of September 18, one day after the storm. That statement applied to works checked at the Uffizi Gallery.",
+        "Rain also entered Palazzo Pitti, the historic complex housing several exhibition spaces. Euronews quoted Silvia Barlacchi, a Cisl union representative, as saying floors in the Palatine Gallery and Gallery of Modern Art were affected and some areas were temporarily closed.",
+        "The report said the cause of water entering Palazzo Pitti had not been established. The Uffizi’s no-damage notice did not cover the palace collection, and the report did not say that artworks there had been damaged."
+      ]
+    }
+  },
+  "verification": {
+    "score": 8.4,
+    "checkedAt": "2026-09-24T14:17:43Z",
+    "checks": [
+      {
+        "provider": "Euronews",
+        "url": "https://www.euronews.com/2026/09/17/cloudburst-in-florence-rain-pours-into-the-uffizi-and-historic-palazzo-pitti",
+        "finding": "supports",
+        "note": "Original report supports the September 17 downpour and attributes Palazzo Pitti floor/closure details to Cisl representative Silvia Barlacchi."
+      },
+      {
+        "provider": "Uffizi Galleries",
+        "url": "https://www.uffizi.it/en/notices/rain-bomb-in-florence-no-damage-to-the-uffizi-the-museum-is-regularly-open",
+        "finding": "supports",
+        "note": "Official notice confirms a leak at the Uffizi, no damage to inspected works there and room reopening; it does not speak for Palazzo Pitti."
+      },
+      {
+        "provider": "Aos Fatos",
+        "url": "https://www.aosfatos.org/",
+        "finding": "no-match",
+        "note": "Targeted search for the Florence/Uffizi claim found no relevant fact-check; neutral, not evidence of truth."
+      },
+      {
+        "provider": "AFP Fact Check",
+        "url": "https://factcheck.afp.com/",
+        "finding": "no-match",
+        "note": "Targeted English search for the museum and storm claim found no relevant fact-check; neutral, not evidence of truth."
+      }
+    ],
+    "caveat": "Palazzo Pitti impacts remain a single-source, attributed union-representative account and the cause was unresolved; the article correctly does not extend the Uffizi no-damage finding to Pitti or claim collection damage."
+  }
+}

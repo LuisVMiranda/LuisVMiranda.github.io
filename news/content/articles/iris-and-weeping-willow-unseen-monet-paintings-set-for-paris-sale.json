@@ -1,0 +1,96 @@
+{
+  "id": "iris-and-weeping-willow-unseen-monet-paintings-set-for-paris-sale",
+  "slug": "iris-and-weeping-willow-unseen-monet-paintings-set-for-paris-sale",
+  "section": "cultura",
+  "secondarySections": [],
+  "publishedAt": "2026-09-18T12:21:41+02:00",
+  "updatedAt": "2026-09-24T17:45:13.603Z",
+  "sources": [
+    {
+      "name": "Euronews",
+      "url": "https://www.euronews.com/2026/09/18/iris-and-weeping-willow-unseen-monet-paintings-go-on-sale-in-paris"
+    },
+    {
+      "name": "Sotheby’s",
+      "url": "https://www.sothebys.com/en/digital-catalogues/le-temps-retrouve-the-schlumberger-collection"
+    },
+    {
+      "name": "Le Monde",
+      "url": "https://www.lemonde.fr/argent/article/2026/09/18/dans-les-ventes-aux-encheres-les-impressionnistes-en-vedette-a-paris_6776766_1657007.html"
+    }
+  ],
+  "rights": {
+    "mode": "original-report"
+  },
+  "translations": {
+    "pt-BR": {
+      "title": "“Íris” e “Weeping Willow”, de Monet, serão leiloadas em Paris",
+      "summary": "Duas telas pouco vistas do artista estão previstas para um leilão em outubro, dentro de uma coleção avaliada em mais de 40 milhões de euros; a venda ainda não ocorreu.",
+      "aiSummary": [
+        "Sotheby’s programou para 22 de outubro um leilão em Paris com 28 obras da coleção Schlumberger.",
+        "Iris, de Monet, tem estimativa de 22 milhões a 30 milhões de euros; isso não é preço de venda confirmado.",
+        "O leilão permanece futuro na data de corte de 23 de setembro."
+      ],
+      "paragraphs": [
+        "A Sotheby’s programou para 22 de outubro, em Paris, um leilão de 28 obras da coleção particular Schlumberger. A seleção reúne pinturas e esculturas estimadas em mais de 40 milhões de euros, mas a venda ainda estava no futuro na data de corte desta edição, 23 de setembro.",
+        "Entre as peças está Iris, pintura de Claude Monet estimada entre 22 milhões e 30 milhões de euros. A obra permaneceu por décadas na coleção da família Schlumberger e, segundo a reportagem, conserva a tela original e não passou por restauração.",
+        "Weeping Willow, outro quadro de Monet, também integra o conjunto. As duas telas ficaram fora de vista pública por longo período; a reportagem descreve Iris como uma obra que permaneceu na sala de estar da família e só agora será oferecida em leilão.",
+        "O catálogo inclui quatro obras de Monet e trabalhos de Paul Cézanne, Gustave Moreau, Gustave Courbet e Camille Claudel, entre outros artistas. Um grupo de três pinturas de Cézanne também faz parte da venda, que reúne 28 peças no total.",
+        "As cifras divulgadas são estimativas de leilão, não valores realizados. Até 23 de setembro, nenhuma obra havia sido vendida nessa operação e não havia preço final confirmado para Iris ou Weeping Willow."
+      ]
+    },
+    "en": {
+      "title": "Monet’s Iris and Weeping Willow set for Paris auction",
+      "summary": "Two rarely seen paintings are scheduled for an October sale within a collection valued at more than €40 million; the auction has not yet taken place.",
+      "aiSummary": [
+        "Sotheby’s scheduled a Paris auction of 28 works from the Schlumberger collection for October 22.",
+        "Monet’s Iris is estimated at €22 million to €30 million; that is not a confirmed sale price.",
+        "The auction was still upcoming at the September 23 reporting cutoff."
+      ],
+      "paragraphs": [
+        "Sotheby’s scheduled a Paris auction of 28 works from the Schlumberger private collection for October 22. The paintings and sculptures are estimated to be worth more than €40 million in total, but the sale was still in the future at this edition’s September 23 cutoff.",
+        "The works include Iris, a Claude Monet painting estimated at €22 million to €30 million. It remained in the Schlumberger family collection for decades and, according to the report, retains its original canvas and has never been restored.",
+        "Weeping Willow, another Monet, is also part of the group. The two paintings had been out of public view for a long period; Euronews described Iris as having remained in the family’s living room before its planned auction appearance.",
+        "The catalogue includes four Monet works and pieces by Paul Cézanne, Gustave Moreau, Gustave Courbet and Camille Claudel, among others. A composition of three Cézanne paintings is also included in the 28-work sale.",
+        "The published figures are auction estimates, not realized prices. As of September 23, the sale had not taken place and no final price for Iris or Weeping Willow had been established."
+      ]
+    }
+  },
+  "verification": {
+    "score": 9.1,
+    "checkedAt": "2026-09-24T14:17:43Z",
+    "checks": [
+      {
+        "provider": "Euronews",
+        "url": "https://www.euronews.com/2026/09/18/iris-and-weeping-willow-unseen-monet-paintings-go-on-sale-in-paris",
+        "finding": "supports",
+        "note": "Original report supports the planned October 22 sale, painting descriptions and estimates."
+      },
+      {
+        "provider": "Sotheby’s",
+        "url": "https://www.sothebys.com/en/digital-catalogues/le-temps-retrouve-the-schlumberger-collection",
+        "finding": "supports",
+        "note": "Official catalogue lists the Schlumberger collection and Iris estimate; figures are estimates, not realized prices."
+      },
+      {
+        "provider": "Le Monde",
+        "url": "https://www.lemonde.fr/argent/article/2026/09/18/dans-les-ventes-aux-encheres-les-impressionnistes-en-vedette-a-paris_6776766_1657007.html",
+        "finding": "supports",
+        "note": "Independent report corroborates the scheduled Paris auction and its estimates."
+      },
+      {
+        "provider": "Agência Lupa",
+        "url": "https://www.agencialupa.org/",
+        "finding": "no-match",
+        "note": "Targeted Portuguese search for the Monet auction and estimates found no relevant fact-check; neutral, not evidence of truth."
+      },
+      {
+        "provider": "Full Fact",
+        "url": "https://fullfact.org/",
+        "finding": "no-match",
+        "note": "Targeted English search for the paintings and auction claim found no relevant fact-check; neutral, not evidence of truth."
+      }
+    ],
+    "caveat": "Auction date and prices were plans/estimates at the September 23 cutoff, not a completed sale or realized price. Fact-check no-matches are neutral."
+  }
+}

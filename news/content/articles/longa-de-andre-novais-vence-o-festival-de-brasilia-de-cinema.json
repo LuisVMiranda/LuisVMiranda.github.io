@@ -1,0 +1,86 @@
+{
+  "id": "longa-de-andre-novais-vence-o-festival-de-brasilia-de-cinema",
+  "slug": "longa-de-andre-novais-vence-o-festival-de-brasilia-de-cinema",
+  "section": "cultura",
+  "secondarySections": [],
+  "publishedAt": "2026-09-20T19:40:00-03:00",
+  "updatedAt": "2026-09-24T21:36:17.000Z",
+  "sources": [
+    {
+      "name": "Agência Brasil",
+      "url": "https://agenciabrasil.ebc.com.br/cultura/noticia/2026-09/longa-de-andre-novais-vence-o-festival-de-brasilia-de-cinema"
+    },
+    {
+      "name": "Estado de Minas / Correio Braziliense",
+      "url": "https://www.em.com.br/cultura/2026/09/7504539-festival-de-cinema-de-brasilia-consagra-o-mineiro-se-eu-fosse-vivo-vivia.html"
+    }
+  ],
+  "rights": {
+    "mode": "original-report"
+  },
+  "translations": {
+    "pt-BR": {
+      "title": "“Se eu fosse vivo...vivia” conquista o principal Candango em Brasília",
+      "summary": "O longa de André Novais Oliveira levou o prêmio de melhor filme na 59ª edição do festival, além de troféus de roteiro e figurino.",
+      "aiSummary": [
+        "Se eu fosse vivo...vivia ganhou o prêmio principal e os Candangos de roteiro e figurino.",
+        "O drama acompanha um casal no interior de Minas Gerais depois de cinco décadas de casamento.",
+        "A edição recebeu 2 mil inscrições e selecionou mais de 70 filmes para diferentes mostras."
+      ],
+      "paragraphs": [
+        "Se eu fosse vivo...vivia, dirigido por André Novais Oliveira, foi o principal vencedor do 59º Festival de Brasília do Cinema Brasileiro, encerrado em 19 de setembro. O longa recebeu o Troféu Candango de melhor filme pelo júri oficial.",
+        "A produção também ganhou os prêmios de melhor roteiro e melhor figurino. A escritora Conceição Evaristo e o ator Norberto Novais Oliveira receberam menções honrosas por suas participações no filme.",
+        "A história acompanha Gilberto e Jacira, um casal do interior de Minas Gerais que chega aos 50 anos de casamento. Quando Jacira é internada, Gilberto passa a viver experiências fora do comum, segundo a sinopse divulgada pela reportagem.",
+        "O festival, em sua 59ª edição, recebeu um recorde de 2 mil inscrições, das quais mais de 70 produções foram selecionadas para mostras competitivas, paralelas e especiais. O resultado registra decisões dos júris e não permite inferir desempenho de público ou bilheteria.",
+        "A Agência Brasil informou ainda que os longas vencedores seriam exibidos no Cine Brasília e que Se eu fosse vivo...vivia teria uma reprise gratuita programada para 21 de setembro, às 20h. A reportagem não confirma se a sessão ocorreu."
+      ]
+    },
+    "en": {
+      "title": "Se eu fosse vivo...vivia wins Brasília Film Festival’s top Candango",
+      "summary": "André Novais Oliveira’s feature won best film at the festival’s 59th edition, along with awards for screenplay and costume design.",
+      "aiSummary": [
+        "Se eu fosse vivo...vivia won the top prize and the Candangos for screenplay and costume design.",
+        "The drama follows a couple in the Minas Gerais countryside after five decades of marriage.",
+        "The edition received 2,000 submissions and selected more than 70 films for different sections."
+      ],
+      "paragraphs": [
+        "Se eu fosse vivo...vivia, directed by André Novais Oliveira, was the leading winner at the 59th Brasília Brazilian Film Festival, which ended on September 19. The feature received the official jury’s Candango for best film.",
+        "The production also won awards for best screenplay and costume design. Writer Conceição Evaristo and actor Norberto Novais Oliveira received honourable mentions for their performances in the film.",
+        "The story follows Gilberto and Jacira, a couple in the Minas Gerais countryside who have been married for 50 years. After Jacira is hospitalised, Gilberto begins to experience unusual events, according to the synopsis reported by Agência Brasil.",
+        "The festival’s 59th edition received a record 2,000 submissions, of which more than 70 productions were selected for competitive, parallel and special sections. The result records jury decisions and does not establish audience or box-office performance.",
+        "Agência Brasil also reported that winning features would be screened at Cine Brasília and that Se eu fosse vivo...vivia was scheduled for a free repeat screening on September 21 at 8 p.m. The report does not confirm whether the screening took place."
+      ]
+    }
+  },
+  "verification": {
+    "score": 9.6,
+    "checkedAt": "2026-09-24T14:17:43Z",
+    "checks": [
+      {
+        "provider": "Agência Brasil",
+        "url": "https://agenciabrasil.ebc.com.br/cultura/noticia/2026-09/longa-de-andre-novais-vence-o-festival-de-brasilia-de-cinema",
+        "finding": "supports",
+        "note": "Original report identifies the best-film Candango, screenplay and costume awards, festival close and dated repeat screening."
+      },
+      {
+        "provider": "Estado de Minas / Correio Braziliense",
+        "url": "https://www.em.com.br/cultura/2026/09/7504539-festival-de-cinema-de-brasilia-consagra-o-mineiro-se-eu-fosse-vivo-vivia.html",
+        "finding": "supports",
+        "note": "Separate report corroborates the film as best-film winner and confirms screenplay and costume awards."
+      },
+      {
+        "provider": "Aos Fatos",
+        "url": "https://www.aosfatos.org/",
+        "finding": "no-match",
+        "note": "Targeted Portuguese search for the festival result and film found no relevant fact-check; neutral, not evidence of truth."
+      },
+      {
+        "provider": "Reuters Fact Check",
+        "url": "https://www.reuters.com/fact-check/",
+        "finding": "no-match",
+        "note": "Targeted English search for the award result found no relevant fact-check; neutral, not evidence of truth."
+      }
+    ],
+    "caveat": "The stated 2,000 submissions is a rounded figure; the article correctly treats awards as jury decisions. Agência Brasil scheduled the free repeat screening for September 21 at 20:00 but does not confirm whether it took place. No audience or box-office inference."
+  }
+}

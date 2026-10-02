@@ -1,0 +1,133 @@
+{
+  "id": "the-ancient-ancestor-of-crispr-is-a-powerful-genomic-tool-research-uc-berkeley",
+  "slug": "the-ancient-ancestor-of-crispr-is-a-powerful-genomic-tool-research-uc-berkeley",
+  "section": "ciencia",
+  "secondarySections": [],
+  "publishedAt": "2026-09-17T00:00:00-03:00",
+  "publishedDate": "2026-09-17",
+  "updatedAt": "2026-09-24T17:45:13.603Z",
+  "sources": [
+    {
+      "name": "UC Berkeley Research",
+      "url": "https://vcresearch.berkeley.edu/news/ancient-ancestor-crispr-powerful-genomic-tool"
+    },
+    {
+      "name": "Science — A Noncontiguous Code for RNA-Guided DNA Recognition at the Origin of CRISPR-Cas",
+      "url": "https://doi.org/10.1126/science.aei0498"
+    },
+    {
+      "name": "Science — VIPR RNA-guided DNA recognition by noncontiguous geometric triplex formation",
+      "url": "https://doi.org/10.1126/science.aei3472"
+    }
+  ],
+  "rights": {
+    "mode": "original-report"
+  },
+  "translations": {
+    "pt-BR": {
+      "title": "Sistema viral VIPR usa código descontínuo para reconhecer DNA",
+      "summary": "Dois estudos descrevem um mecanismo guiado por RNA que se liga ao DNA; a possível relação evolutiva com o CRISPR e os usos como ferramenta permanecem questões de pesquisa.",
+      "aiSummary": [
+        "VIPR reconhece DNA com um padrão guiado por RNA que deixa intervalos entre partes da sequência lida.",
+        "Dois estudos descrevem sua estrutura e mostram silenciamento gênico em experimentos.",
+        "A hipótese de que o sistema antecede o CRISPR não é uma história evolutiva definitivamente estabelecida."
+      ],
+      "paragraphs": [
+        "Dois artigos publicados na revista Science descrevem o VIPR, um sistema de reconhecimento de DNA guiado por RNA encontrado em vírus. Os pesquisadores da Universidade da Califórnia em Berkeley propõem que ele pode anteceder sistemas CRISPR conhecidos. Essa relação é uma interpretação evolutiva dos autores, não uma cronologia observada diretamente.",
+        "Ao contrário de um guia que lê bases em sequência contínua, o RNA do VIPR usa um padrão descontínuo. A equipe identificou repetições de três bases e posições intermediárias que funcionam como intervalos; o arranjo reconheceu trechos de DNA viral mesmo quando partes do alvo variavam. Os testes apoiam um mecanismo de reconhecimento diferente, não uma garantia de que qualquer mutação será tolerada.",
+        "O segundo estudo descreve a estrutura do complexo: o RNA e proteínas se organizam ao redor do DNA e formam uma estrutura tripla, em vez de cortar a molécula como a enzima Cas9. Em experimentos, os pesquisadores reprogramaram o sistema para se ligar perto de um promotor e reduzir a expressão de um gene. O resultado é silenciamento em laboratório, não edição terapêutica em pessoas.",
+        "A busca que levou ao achado combinou análise computacional de estruturas proteicas com observação experimental. Um modelo de linguagem genômica ajudou a revelar um padrão no RNA que não era evidente pela leitura convencional, enquanto análises estruturais e bioquímicas foram necessárias para testar a hipótese. A descoberta, portanto, não dependeu apenas de inteligência artificial.",
+        "Os autores sugerem que o tamanho reduzido e a forma de ligação do VIPR possam inspirar ferramentas de pesquisa, mas isso ainda exige testes de especificidade, segurança e entrega em células. A hipótese de origem viral para partes do maquinário CRISPR também precisa ser tratada como proposta apoiada por esses dois estudos, não como consenso final sobre a história de todos os sistemas CRISPR."
+      ]
+    },
+    "en": {
+      "title": "Viral VIPR system uses a noncontiguous code to recognize DNA",
+      "summary": "Two studies describe an RNA-guided mechanism that binds DNA; its possible evolutionary relationship to CRISPR and uses as a tool remain research questions.",
+      "aiSummary": [
+        "VIPR recognizes DNA using an RNA-guided pattern that leaves gaps between parts of the sequence it reads.",
+        "Two studies describe its structure and show gene silencing in experiments.",
+        "The idea that the system predates CRISPR is not a definitively established evolutionary history."
+      ],
+      "paragraphs": [
+        "Two papers in Science describe VIPR, an RNA-guided DNA-recognition system found in viruses. Researchers at the University of California, Berkeley, propose that it may predate known CRISPR systems. That relationship is the authors’ evolutionary interpretation, not a chronology directly observed in nature.",
+        "Unlike a guide that reads bases in an uninterrupted sequence, VIPR RNA uses a noncontiguous pattern. The team identified repeating three-base segments and intervening positions that act as gaps; the arrangement recognized sections of viral DNA even when parts of the target varied. The experiments support a different recognition mechanism, not a guarantee that every mutation will be tolerated.",
+        "The second study describes the complex’s structure: RNA and proteins arrange around DNA to form a triplex rather than cutting the molecule as the Cas9 enzyme does. In experiments, researchers reprogrammed the system to bind near a promoter and reduce a gene’s expression. That is gene silencing in the laboratory, not therapeutic editing in people.",
+        "The search that led to the finding combined computational analysis of protein structures with experimental observation. A genomic language model helped reveal a pattern in the RNA that was not apparent through conventional reading, while structural and biochemical analyses were needed to test the hypothesis. The discovery therefore did not rely on artificial intelligence alone.",
+        "The authors suggest VIPR’s small size and binding mechanism may inspire research tools, but that possibility requires tests of specificity, safety and delivery into cells. The viral-origin hypothesis for parts of CRISPR machinery should also be treated as a proposal supported by these two studies, not a final consensus on the history of all CRISPR systems."
+      ]
+    }
+  },
+  "verification": {
+    "score": 8.2,
+    "checkedAt": "2026-09-24T14:21:03Z",
+    "checks": [
+      {
+        "provider": "PubMed / Science",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42752133/",
+        "finding": "supports",
+        "note": "The primary abstract describes VIPR protein/RNA systems, noncontiguous target recognition, viral competition and programmable phage defense/transcriptional repression. The companion study's distinct structural mechanism is checked separately below."
+      },
+      {
+        "provider": "PubMed / Science",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42752121/",
+        "finding": "supports",
+        "note": "The companion paper's abstract reports 21 cryo-EM structures and a gapped RNA-DNA hybrid/ geometric triplex mechanism; it supports the article's description of recognition and laboratory gene silencing, not a therapeutic application."
+      },
+      {
+        "provider": "UC Berkeley Research",
+        "url": "https://vcresearch.berkeley.edu/news/ancient-ancestor-crispr-powerful-genomic-tool",
+        "finding": "supports",
+        "note": "The complete report describes the noncontiguous RNA-guided recognition, triplex binding, laboratory gene silencing, and authors' proposed evolutionary relationship. The article correctly labels ancestry as a hypothesis, not a directly observed chronology or settled history."
+      },
+      {
+        "provider": "Science Perspective / PubMed",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42752153/",
+        "finding": "context",
+        "note": "The linked one-page Comment says ancient viral warfare could be at the root of modern Class 1 CRISPR defense. This is an evolutionary interpretation/comment, not a direct observation or independent experimental replication."
+      },
+      {
+        "provider": "Aos Fatos",
+        "url": "https://www.aosfatos.org/",
+        "finding": "no-match",
+        "note": "Targeted Portuguese claim/title variants produced no relevant fact-check. Neutral result; no-match is not evidence of truth."
+      },
+      {
+        "provider": "Agência Lupa",
+        "url": "https://www.agencialupa.org/",
+        "finding": "no-match",
+        "note": "Targeted Portuguese claim/title variants produced no relevant fact-check. Neutral result; no-match is not evidence of truth."
+      },
+      {
+        "provider": "Projeto Comprova",
+        "url": "https://projetocomprova.com.br/",
+        "finding": "no-match",
+        "note": "Targeted Portuguese claim/title variants produced no relevant fact-check. Neutral result; no-match is not evidence of truth."
+      },
+      {
+        "provider": "AFP Fact Check",
+        "url": "https://factcheck.afp.com/",
+        "finding": "no-match",
+        "note": "Targeted English claim variants (VIPR, noncontiguous RNA-guided recognition, CRISPR origin) produced no relevant fact-check. Neutral result; no-match is not evidence of truth."
+      },
+      {
+        "provider": "Reuters Fact Check",
+        "url": "https://www.reuters.com/fact-check/",
+        "finding": "no-match",
+        "note": "Targeted English claim variants produced no relevant fact-check. Neutral result; no-match is not evidence of truth."
+      },
+      {
+        "provider": "Full Fact",
+        "url": "https://fullfact.org/",
+        "finding": "no-match",
+        "note": "Targeted English claim variants produced no relevant fact-check. Neutral result; no-match is not evidence of truth."
+      },
+      {
+        "provider": "Google Fact Check Tools",
+        "url": "https://toolbox.google.com/factcheck/explorer",
+        "finding": "no-match",
+        "note": "Targeted ClaimReview searches produced no relevant indexed fact-check. Neutral result; no-match is not evidence of truth."
+      }
+    ],
+    "caveat": "The two primary papers are connected studies from one research program, not independent replications. Their abstracts support the bounded molecular claims; VIPR's possible ancestry and future-tool value remain hypotheses, and no clinical application was tested."
+  }
+}

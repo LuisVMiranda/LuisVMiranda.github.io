@@ -1,0 +1,162 @@
+{
+  "id": "grupo-city-aporte-r-12-milhoes-estadio-camacari-2026",
+  "slug": "grupo-city-aporte-r-12-milhoes-estadio-camacari-2026",
+  "section": "esportes",
+  "secondarySections": [],
+  "publishedAt": "2026-09-22T11:42:00-03:00",
+  "updatedAt": "2026-09-24T17:45:13.603Z",
+  "sources": [
+    {
+      "name": "A TARDE",
+      "url": "https://atarde.com.br/esportes/ecbahia/grupo-city-fara-aporte-de-r-12-milhoes-para-reforma-de-estadio-na-bahia-1403007"
+    },
+    {
+      "name": "Política Bahia",
+      "url": "https://www.politicabahia.com.br/noticia/city-reforma-estadio-camacari"
+    },
+    {
+      "name": "ecbahia.com",
+      "url": "https://www.ecbahia.com/politica/grupo-city-estadio-camacari/"
+    }
+  ],
+  "rights": {
+    "mode": "original-report"
+  },
+  "translations": {
+    "pt-BR": {
+      "title": "Grupo City prevê aporte de R$ 12 milhões para reforma de estádio em Camaçari",
+      "summary": "O prefeito Luiz Caetano atribuiu ao grupo o investimento e a previsão de gramado padrão FIFA; no corte de 23 de setembro, a formalização do TAC seguia prevista para o dia 26.",
+      "aiSummary": [
+        "Luiz Caetano anunciou aporte previsto de R$ 12 milhões do Grupo City para reformar o Estádio Municipal Fernando Ferreira Lopes.",
+        "O prefeito atribuiu ao projeto a previsão de um novo gramado padrão FIFA.",
+        "A formalização do TAC com a Prefeitura de Camaçari ainda estava prevista para 26 de setembro no corte editorial."
+      ],
+      "paragraphs": [
+        "O Grupo City prevê destinar R$ 12 milhões à reforma do Estádio Municipal Fernando Ferreira Lopes, em Camaçari. O anúncio foi confirmado em 22 de setembro pelo prefeito Luiz Caetano, segundo a reportagem da A TARDE.",
+        "Caetano atribuiu ao conglomerado o aporte e disse que o projeto prevê um novo gramado padrão FIFA. As reportagens descrevem uma intervenção planejada; não confirmam que as obras tenham começado.",
+        "No corte editorial congelado de 23 de setembro de 2026, às 11:31:23.014 UTC, A TARDE e Política Bahia informavam que a formalização do Termo de Ajustamento de Conduta (TAC) entre o grupo e a prefeitura estava prevista para 26 de setembro. O ecbahia.com descreveu o acordo como alcançado, mas isso não demonstra que o TAC já tivesse sido assinado.",
+        "A TARDE também relatou que engenheiros ligados ao Grupo City vistoriaram o estádio em novembro de 2025 para avaliar as condições da estrutura. A vistoria antecede o anúncio de setembro, mas não confirma o início das intervenções.",
+        "A reforma foi apresentada como contrapartida ligada ao projeto do City Football Academy Bahia, novo centro de treinamento do Bahia em Camaçari. A TARDE situa o complexo na Via Metropolitana; as fontes consultadas não detalham a lista completa de obras nem um cronograma de execução."
+      ]
+    },
+    "en": {
+      "title": "City Football Group plans R$12 million contribution to Camaçari stadium renovation",
+      "summary": "Mayor Luiz Caetano attributed the investment and planned FIFA-standard pitch to the group; at the September 23 cutoff, formalization of the TAC was still scheduled for September 26.",
+      "aiSummary": [
+        "Luiz Caetano announced a planned R$12 million City Football Group contribution to renovate the Fernando Ferreira Lopes Municipal Stadium.",
+        "The mayor said the project includes a planned FIFA-standard pitch.",
+        "Formalization of the TAC with Camaçari's city government was still scheduled for September 26 at the editorial cutoff."
+      ],
+      "paragraphs": [
+        "City Football Group plans to contribute R$12 million toward renovating the Fernando Ferreira Lopes Municipal Stadium in Camaçari. Mayor Luiz Caetano confirmed the announcement on September 22, according to A TARDE.",
+        "Caetano attributed the contribution to the conglomerate and said the project includes a planned FIFA-standard pitch. The reports describe intended work; they do not confirm that construction has begun.",
+        "At the frozen editorial cutoff of 11:31:23.014 UTC on September 23, 2026, A TARDE and Política Bahia said formalization of the Conduct Adjustment Agreement (TAC) between the group and the city government was scheduled for September 26. ecbahia.com described an agreement as reached, but that does not establish that the TAC had been signed.",
+        "A TARDE also reported that engineers linked to City Football Group inspected the stadium in November 2025 to assess its condition. That inspection predates the September announcement but does not confirm that renovation work has started.",
+        "The renovation was described as a counterperformance tied to the City Football Academy Bahia project, the Bahia club's new training center in Camaçari. A TARDE places the complex on the Via Metropolitana; the sources do not detail a complete works list or execution timetable."
+      ]
+    }
+  },
+  "verification": {
+    "score": 8.4,
+    "checkedAt": "2026-09-24T17:21:21Z",
+    "checks": [
+      {
+        "provider": "A TARDE",
+        "url": "https://atarde.com.br/esportes/ecbahia/grupo-city-fara-aporte-de-r-12-milhoes-para-reforma-de-estadio-na-bahia-1403007",
+        "finding": "supports",
+        "note": "Complete HTTP 200 extraction (9 paragraphs; no warnings) supports the planned R$12 million contribution, planned FIFA-standard pitch, TAC formalization scheduled for September 26, November 2025 inspection, and CFA Bahia counterperformance. The page displays 2026-09-22 11:42 without an offset. Its body was captured at 2026-09-23T11:33:26.843Z, 123.829 seconds after the frozen cutoff; this is not a pre-cutoff snapshot."
+      },
+      {
+        "provider": "Política Bahia",
+        "url": "https://www.politicabahia.com.br/noticia/city-reforma-estadio-camacari",
+        "finding": "supports",
+        "note": "Complete 645-word extraction, no warnings; the page is dated 2026-09-22 12:10 local and supports the contribution, pitch plan, and TAC signature/formalization scheduled for September 26. Capture retrieved 2026-09-24T16:45:19.755Z, after cutoff."
+      },
+      {
+        "provider": "ecbahia.com",
+        "url": "https://www.ecbahia.com/politica/grupo-city-estadio-camacari/",
+        "finding": "context",
+        "note": "Complete 255-word extraction, no warnings; published 2026-09-22T15:00:00-03:00. It says an agreement was reached and confirms the R$12 million amount and CT counterperformance, but does not establish that the TAC was signed. Capture retrieved 2026-09-24T16:45:26.777Z, after cutoff."
+      },
+      {
+        "provider": "Política Livre",
+        "url": "https://www.politicalivre.com.br/2026/09/caetano-anuncia-reforma-do-estadio-municipal-de-camacari-com-aporte-de-r-12-milhoes-do-grupo-city",
+        "finding": "supports",
+        "note": "The September 22 static report repeats the mayor-attributed R$12 million and FIFA-standard pitch announcement, the September 26 TAC date, inspection, and counterperformance. It corroborates what was publicly reported, not a completed payment or work."
+      },
+      {
+        "provider": "Política ao Ponto",
+        "url": "https://politicaaoponto.com.br/caetano-anuncia-inicio-da-reforma-do-estadio-de-camacari-com-r-12-milhoes-e-pacote-de-requalificacao-na-orla/",
+        "finding": "context",
+        "note": "The static report is dated 2026-09-22 16:12 and quotes Caetano saying the service order and start of work were planned for September 26. It calls the stadium 'Fernando Ferreira da Silva', unlike A TARDE, Política Bahia, ecbahia.com, and Política Livre, which use 'Fernando Ferreira Lopes'; the copy follows the latter reporting. Its planned date is future at cutoff, not evidence that the TAC was signed or work had begun. The page was accessed after cutoff."
+      },
+      {
+        "provider": "Aos Fatos",
+        "url": "https://www.aosfatos.org/",
+        "finding": "no-match",
+        "note": "Domain-restricted searches for Grupo City/Camaçari, R$12 million, FIFA-standard pitch, and TAC variants returned no relevant fact-check. Neutral; not proof."
+      },
+      {
+        "provider": "Agência Lupa",
+        "url": "https://www.agencialupa.org/",
+        "finding": "no-match",
+        "note": "Domain-restricted searches for the named parties, amount, stadium, and TAC variants returned no relevant fact-check. Neutral; not proof."
+      },
+      {
+        "provider": "Projeto Comprova",
+        "url": "https://projetocomprova.com.br/",
+        "finding": "no-match",
+        "note": "Domain-restricted searches for the named parties, amount, stadium, and TAC variants returned no relevant fact-check. Neutral; not proof."
+      },
+      {
+        "provider": "TSE Fato ou Boato",
+        "url": "https://www.tse.jus.br/comunicacao/noticias/fato-ou-boato",
+        "finding": "no-match",
+        "note": "Searches for the claim and named entities returned no relevant election or civic-process fact-check. Neutral; not proof."
+      },
+      {
+        "provider": "AFP Fact Check",
+        "url": "https://factcheck.afp.com/",
+        "finding": "no-match",
+        "note": "Searches for Camaçari, Fernando Ferreira Lopes, and City Football Group/12 million variants returned no relevant fact-check. Neutral; not proof."
+      },
+      {
+        "provider": "Reuters Fact Check",
+        "url": "https://www.reuters.com/fact-check/",
+        "finding": "no-match",
+        "note": "Searches for Camaçari, Fernando Ferreira Lopes, and City Football Group/12 million variants returned no relevant fact-check. Neutral; not proof."
+      },
+      {
+        "provider": "Full Fact",
+        "url": "https://fullfact.org/",
+        "finding": "no-match",
+        "note": "Searches for the named club group, Brazilian municipality, and stadium claim returned no relevant fact-check. Neutral; not proof."
+      },
+      {
+        "provider": "Google Fact Check Tools",
+        "url": "https://toolbox.google.com/factcheck/explorer",
+        "finding": "no-match",
+        "note": "Domain-restricted searches for Grupo City/Camaçari and the amount/TAC variants returned no relevant indexed ClaimReview. No API query was performed; neutral, not proof."
+      },
+      {
+        "provider": "BNews extraction",
+        "url": "https://www.bnews.com.br/noticias/esporte/estadio-tradicional-na-bahia-tera-reforma-de-r12-milhoes-bancada-pelo-grupo-city-com-gramado-padrao-fifa.html",
+        "finding": "inconclusive",
+        "note": "The saved HTTP 200 extraction has zero paragraphs, complete:false, and extraction warnings. Excluded; not used as evidence."
+      },
+      {
+        "provider": "CN1 extraction",
+        "url": "https://www.cn1.com.br/noticias/18/147008%2Ccaetano-anuncia-reforma-do-estadio-de-camacari-com-investimento-de-rusd-12-milhoes-do-grupo-city",
+        "finding": "inconclusive",
+        "note": "The saved extraction is complete:false and contains only 16 words from an unrelated September 24 article. Excluded; not used as evidence."
+      },
+      {
+        "provider": "Salvador/Bahia timezone reference",
+        "url": "https://www.timeanddate.com/time/zone/brazil/salvador",
+        "finding": "supports",
+        "note": "Salvador/Bahia is UTC-03:00 in September 2026. Interpreting A TARDE's un-offset 11:42 timestamp as publisher-local Bahia time is defensible; it converts to 2026-09-22T14:42:00Z, before the cutoff."
+      }
+    ],
+    "caveat": "A TARDE displays 2026-09-22 11:42 without an offset; interpreting it as Bahia-local UTC−03:00 gives 14:42Z, before cutoff. All source-body captures were after cutoff, so no pre-cutoff snapshot proves exact wording; the dated pages are static, not liveblogs. Copy distinguishes an agreement reached from the TAC and work start planned for Sep 26, and asserts none was signed or begun by cutoff. Four reports use Lopes; one differs. BNews/CN1 extractions were incomplete and excluded; no-match is neutral."
+  }
+}

@@ -1,0 +1,60 @@
+{
+  "id": "dmz-explosion-injures-three-south-korean-officers-2026",
+  "slug": "dmz-explosion-injures-three-south-korean-officers-2026",
+  "section": "mundo",
+  "secondarySections": [],
+  "publishedAt": "2026-09-21",
+  "publishedDate": "2026-09-21",
+  "updatedAt": "2026-09-25T06:11:59Z",
+  "sources": [
+    {
+      "name": "Associated Press",
+      "url": "https://apnews.com/article/north-korea-dmz-explosion-border-85889eaed6308b7c05a2bf402076c772"
+    },
+    {
+      "name": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260921006151315"
+    },
+    {
+      "name": "Yonhap News Agency — follow-up on the JCS investigation",
+      "url": "https://en.yna.co.kr/view/AEN20260923011100315"
+    }
+  ],
+  "rights": {
+    "mode": "original-report"
+  },
+  "translations": {
+    "pt-BR": {
+      "title": "Duas explosões em operação na DMZ ferem três militares sul-coreanos",
+      "summary": "Atualização do JCS descreve duas explosões durante a limpeza de uma rota na DMZ; a origem dos fragmentos de mina segue sob análise.",
+      "aiSummary": [
+        "O JCS informou posteriormente que duas explosões consecutivas ocorreram no oeste da DMZ e feriram três militares.",
+        "A equipe limpava uma rota antes de inspeção da ONU; fragmentos estavam em análise e a origem da mina não havia sido definida.",
+        "Dois militares ficaram gravemente feridos e um terceiro teve ferimentos leves, segundo a Yonhap."
+      ],
+      "paragraphs": [
+        "Duas explosões consecutivas feriram três militares sul-coreanos na segunda-feira, 21 de setembro, no setor oeste da zona desmilitarizada (DMZ), informou a Yonhap em atualização de 23 de setembro baseada no Estado-Maior Conjunto (JCS). O local fica ao sul da Linha de Demarcação Militar, que divide as duas Coreias.",
+        "A equipe trabalhava na limpeza de uma rota na DMZ antes de uma inspeção do Comando das Nações Unidas a relatos de instalação de minas, segundo o JCS citado pela Yonhap. O relato inicial da Associated Press disse apenas que os militares participavam de uma operação não especificada.",
+        "Um oficial militar disse que a primeira explosão feriu um sargento e que a segunda atingiu um comandante de batalhão quando ele tentou prestar socorro. A sequência foi apresentada como relato inicial da operação; a análise dos fragmentos ainda estava em andamento.",
+        "O JCS considerou provável que uma mina tenha causado as explosões, mas disse que a origem ainda não havia sido determinada. Peritos examinavam os fragmentos para avaliar se a mina era sul-coreana ou norte-coreana; nenhuma responsabilidade de Pyongyang foi estabelecida.",
+        "A Yonhap informou que o comandante sofreu ferimento grave no tornozelo, outro militar fraturou a perna e o terceiro teve lesões leves. Dois foram levados de helicóptero; o terceiro caminhou para o lado sul da zona antes de ser transportado ao hospital. Os três permaneceram internados, enquanto 15 colegas sem ferimentos receberam alta."
+      ]
+    },
+    "en": {
+      "title": "Two blasts in DMZ operation injure three South Korean officers",
+      "summary": "A JCS update described two explosions during route clearance in the DMZ; the origin of mine fragments remained under investigation.",
+      "aiSummary": [
+        "The JCS later reported two consecutive explosions in the western DMZ that injured three South Korean military personnel.",
+        "The team was clearing a route ahead of a U.N. inspection; fragments were under analysis and the mine's origin was undetermined.",
+        "Two personnel were seriously injured and a third had minor injuries, Yonhap reported."
+      ],
+      "paragraphs": [
+        "Two consecutive explosions injured three South Korean military personnel on Monday, September 21, in the western sector of the Demilitarized Zone (DMZ), Yonhap reported in a September 23 follow-up citing the Joint Chiefs of Staff (JCS). The site was south of the Military Demarcation Line dividing the two Koreas.",
+        "The team was clearing a route in the DMZ ahead of a United Nations Command inspection of reported mine placements, according to the JCS as cited by Yonhap. The Associated Press’s initial report said only that the personnel were taking part in an unspecified operation.",
+        "A military official said the first blast injured a sergeant and the second hit a battalion commander as he tried to help. That sequence was presented as an initial account of the operation; analysis of recovered fragments was still underway.",
+        "The JCS said a land mine was considered likely but that its origin had not been determined. Investigators were examining fragments to assess whether the mine was South Korean or North Korean; no responsibility by Pyongyang had been established.",
+        "Yonhap reported that the battalion commander suffered a severe ankle injury, another service member fractured a leg and the third had minor injuries. Two were airlifted; the third walked to the southern side of the zone before being taken to hospital. All three remained hospitalized, while 15 colleagues without injuries were discharged."
+      ]
+    }
+  }
+}

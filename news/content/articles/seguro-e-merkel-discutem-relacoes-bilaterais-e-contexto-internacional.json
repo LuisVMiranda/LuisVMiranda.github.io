@@ -1,0 +1,89 @@
+{
+  "id": "seguro-e-merkel-discutem-relacoes-bilaterais-e-contexto-internacional",
+  "slug": "seguro-e-merkel-discutem-relacoes-bilaterais-e-contexto-internacional",
+  "section": "mundo",
+  "secondarySections": [],
+  "publishedAt": "2026-09-22T20:01:03+01:00",
+  "publishedDate": "2026-09-22",
+  "updatedAt": "2026-09-24T17:45:13.603Z",
+  "sources": [
+    {
+      "name": "Notícias ao Minuto",
+      "url": "https://www.noticiasaominuto.com/mundo/3055717/seguro-recebe-merkel-em-belem-para-discutir-relacoes-bilaterais-e-contexto-internacional"
+    },
+    {
+      "name": "Presidency of the Portuguese Republic",
+      "url": "https://www.presidencia.pt/atualidade/agenda/"
+    }
+  ],
+  "rights": {
+    "mode": "original-report"
+  },
+  "translations": {
+    "pt-BR": {
+      "title": "Presidente de Portugal recebe Angela Merkel em Lisboa",
+      "summary": "António José Seguro conversou com a ex-chanceler alemã sobre relações bilaterais, Europa, Ucrânia e temas internacionais; não foi anunciado acordo.",
+      "aiSummary": [
+        "António José Seguro recebeu Angela Merkel no Palácio de Belém em 22 de setembro.",
+        "A visita de Merkel a Lisboa estava ligada à cerimônia do Prêmio Gulbenkian para a Humanidade.",
+        "A Presidência informou que os dois trataram de relações bilaterais e de temas internacionais, sem anunciar medidas conjuntas."
+      ],
+      "paragraphs": [
+        "O presidente português António José Seguro recebeu Angela Merkel no Palácio de Belém, em Lisboa, em 22 de setembro. Merkel foi chanceler da Alemanha entre 2005 e 2021; o encontro foi descrito como uma audiência de cortesia.",
+        "A ex-chanceler estava em Portugal para a cerimônia do Prêmio Gulbenkian para a Humanidade, cujo júri ela preside. A agenda da Presidência portuguesa também registrou a audiência com Seguro.",
+        "Segundo comunicado presidencial citado por Notícias ao Minuto, a conversa abordou as relações bilaterais entre Portugal e Alemanha e o contexto internacional. A nota descreveu a conversa como estimulante, sem detalhar propostas específicas.",
+        "O comunicado também mencionou a Europa e a guerra na Ucrânia entre os assuntos discutidos. Não informou que os dois tenham firmado um acordo, anunciado uma iniciativa ou definido próximos passos diplomáticos.",
+        "O registro público apresenta o encontro como uma conversa entre o presidente português e uma ex-chefe de governo alemã durante uma visita já programada a Lisboa. As informações disponíveis se limitam aos temas descritos pela Presidência.",
+        "A audiência reuniu autoridades com experiência em funções nacionais e europeias, mas não foi apresentada como negociação oficial entre governos. Nenhuma posição detalhada de Merkel ou Seguro sobre a guerra foi atribuída no relato."
+      ]
+    },
+    "en": {
+      "title": "Portugal’s president receives Angela Merkel in Lisbon",
+      "summary": "António José Seguro spoke with the former German chancellor about bilateral ties, Europe, Ukraine and international issues; no agreement was announced.",
+      "aiSummary": [
+        "António José Seguro received Angela Merkel at Belém Palace on September 22.",
+        "Merkel was in Lisbon for the Gulbenkian Prize for Humanity ceremony.",
+        "The Portuguese presidency said they discussed bilateral ties and international issues but announced no joint measure."
+      ],
+      "paragraphs": [
+        "Portuguese President António José Seguro received Angela Merkel at Belém Palace in Lisbon on September 22. Merkel served as Germany’s chancellor from 2005 to 2021; the meeting was described as a courtesy audience.",
+        "The former chancellor was in Portugal for the ceremony of the Gulbenkian Prize for Humanity, whose jury she chairs. The Portuguese presidency’s agenda also listed her audience with Seguro.",
+        "A statement from the presidency, quoted by Notícias ao Minuto, said the conversation covered bilateral relations between Portugal and Germany and the international context. It characterized the discussion as stimulating but did not detail specific proposals.",
+        "The statement also listed Europe and the war in Ukraine among the subjects discussed. It did not say that the two signed an agreement, announced an initiative or set diplomatic follow-up steps.",
+        "The public record presents the meeting as a conversation between Portugal’s president and a former German head of government during a previously scheduled Lisbon visit. The available information is limited to the topics described by the presidency.",
+        "The audience brought together figures with experience in national and European roles, but it was not presented as formal negotiations between governments. The report attributed no detailed position on the war to either Merkel or Seguro."
+      ]
+    }
+  },
+  "verification": {
+    "score": 9,
+    "checkedAt": "2026-09-24T14:23:42Z",
+    "checks": [
+      {
+        "provider": "Notícias ao Minuto (primary report)",
+        "url": "https://www.noticiasaominuto.com/mundo/3055717/seguro-recebe-merkel-em-belem-para-discutir-relacoes-bilaterais-e-contexto-internacional",
+        "finding": "supports",
+        "note": "Complete saved extraction supports the courtesy audience, Merkel’s Lisbon visit and the reported discussion topics, attributed to the Portuguese presidency’s statement."
+      },
+      {
+        "provider": "Presidency of the Portuguese Republic",
+        "url": "https://www.presidencia.pt/atualidade/agenda/",
+        "finding": "supports",
+        "note": "The official agenda link supports the audience with Merkel; it does not report an agreement or policy outcome."
+      },
+      {
+        "provider": "AFP Fact Check",
+        "url": "https://factcheck.afp.com/",
+        "finding": "no-match",
+        "note": "No direct fact-check of the Seguro–Merkel audience or reported topics found; neutral."
+      },
+      {
+        "provider": "Reuters Fact Check",
+        "url": "https://www.reuters.com/fact-check/",
+        "finding": "no-match",
+        "note": "No matching fact-check of this meeting found; neutral, not corroboration."
+      }
+    ],
+    "caveat": "The public record supports a courtesy audience and announced discussion topics. Both locales avoid inferring an agreement, negotiation or new policy; the specific conversation topics are reported from the presidency’s statement."
+  }
+}

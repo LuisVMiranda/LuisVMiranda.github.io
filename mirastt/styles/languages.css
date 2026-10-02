@@ -1,0 +1,121 @@
+.header-actions {
+  display: flex;
+  align-items: center;
+  gap: 16px;
+}
+.site-language select {
+  font: inherit;
+  font-size: 12px;
+  color: var(--ink);
+  background: var(--paper);
+  border: 1px solid var(--line);
+  border-radius: 8px;
+  padding: 11px 8px;
+  max-width: 160px;
+  cursor: pointer;
+  min-height: 44px;
+}
+html:not([lang="en"]) .hero h1 {
+  font-size: clamp(53px, 5.6vw, 80px);
+}
+html:not([lang="en"]) .hero-copy {
+  min-width: 0;
+}
+html:not([lang="en"]) .hero-actions {
+  flex-wrap: wrap;
+  gap: 12px 20px;
+}
+.hero h1,
+h2,
+h3 {
+  overflow-wrap: break-word;
+}
+.hero-bottom {
+  gap: 20px;
+}
+.floating-note {
+  max-width: 95%;
+}
+.note-listening #scene-status {
+  min-width: 0;
+}
+.scene-controls {
+  flex-wrap: wrap;
+}
+.demo-bottom {
+  flex-wrap: wrap;
+}
+.record-button {
+  font-size: 14px;
+}
+.editor-footer {
+  flex-wrap: wrap;
+}
+.download-card > span:nth-child(2) {
+  min-width: 0;
+  overflow-wrap: break-word;
+}
+.site-footer {
+  flex-wrap: wrap;
+}
+@media (max-width: 1100px) {
+  .site-header nav {
+    gap: 16px;
+  }
+  .site-header {
+    gap: 18px;
+  }
+}
+@media (max-width: 900px) {
+  .site-header nav {
+    display: none;
+  }
+}
+@media (max-width: 600px) {
+  .hero-art { height: 410px; }
+  #voice-scene { height: calc(100% - 50px); }
+  .scene-controls > span { flex-basis: 100%; }
+  .header-actions > .button {
+    display: none;
+  }
+  .header-actions {
+    gap: 8px;
+  }
+  .site-language select {
+    font-size: 11px;
+    max-width: 125px;
+  }
+  .site-header .button {
+    padding: 10px 12px;
+    font-size: 11px;
+  }
+  html:not([lang="en"]) .hero h1 {
+    font-size: clamp(46px, 12.3vw, 72px);
+  }
+  .hero-bottom {
+    font-size: 7px;
+  }
+  .version-tag {
+    flex-wrap: wrap;
+  }
+}
+@media (max-width: 370px) {
+  .hero-art { height: 375px; }
+  .header-actions > .button {
+    display: none;
+  }
+  .site-header .wordmark {
+    font-size: 24px;
+    gap: 6px;
+  }
+  .site-header .brand-tag {
+    display: none;
+  }
+  .site-language select {
+    max-width: 106px;
+    padding-inline: 4px;
+  }
+  .header-actions {
+    gap: 6px;
+  }
+}

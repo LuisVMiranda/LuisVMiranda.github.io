@@ -1,0 +1,120 @@
+{
+  "id": "apos-vitoria-na-estreia-novo-esporte-visita-o-nova-lavras-pela-segunda-divisao-do-mineiro",
+  "slug": "apos-vitoria-na-estreia-novo-esporte-visita-o-nova-lavras-pela-segunda-divisao-do-mineiro",
+  "section": "esportes",
+  "secondarySections": [],
+  "publishedAt": "2026-09-22T19:12:24.376-03:00",
+  "updatedAt": "2026-09-24T17:45:13.603Z",
+  "sources": [
+    {
+      "name": "GE",
+      "url": "https://ge.globo.com/mg/grande-minas-vales/noticia/2026/09/22/apos-vitoria-na-estreia-novo-esporte-visita-o-nova-lavras-pela-segunda-divisao-do-mineiro.ghtml"
+    },
+    {
+      "name": "Mantena Online",
+      "url": "https://mantenaonline.com.br/com-gols-de-erick-e-joao-vitor-novo-esporte-vence-inter-minas-por-2-a-1-em-estreia-no-campeonato-mineiro/"
+    },
+    {
+      "name": "Federação Mineira de Futebol",
+      "url": "https://fmf.com.br/Competicoes/ProxJogos.aspx?d=3"
+    }
+  ],
+  "rights": {
+    "mode": "original-report"
+  },
+  "translations": {
+    "pt-BR": {
+      "title": "Novo Esporte estreia com vitória e visita Nova Lavras pela Série B",
+      "summary": "Equipe de Itabirinha venceu o Inter de Minas por 2 a 1 na abertura; o próximo compromisso será em Lavras, no dia 26.",
+      "aiSummary": [
+        "Novo Esporte venceu o Inter de Minas por 2 a 1 na primeira rodada da Segunda Divisão mineira.",
+        "Eriky e João Vitor marcaram para o time de Itabirinha; Vinicius Palmeira de Oliveira fez o gol do Inter.",
+        "O próximo jogo será contra o Nova Lavras, em 26 de setembro, às 16h."
+      ],
+      "paragraphs": [
+        "O Novo Esporte abriu a Segunda Divisão do Campeonato Mineiro com uma vitória por 2 a 1 sobre o Inter de Minas, em 19 de setembro, no Estádio Dr. Adilson Machado de Farias, em Itabirinha. O resultado deu ao time seus primeiros três pontos.",
+        "Com base na súmula da Federação Mineira de Futebol, o GE registrou Eriky como autor do primeiro gol, aos 11 minutos do primeiro tempo. A grafia segue a reportagem do GE; Mantena Online escreveu Erick.",
+        "João Vitor ampliou para o Novo Esporte no início do segundo tempo. A reportagem independente difere da GE por um minuto no registro desse gol, por isso o relato não fixa a minutagem.",
+        "Vinicius Palmeira de Oliveira diminuiu para o Inter de Minas aos 31 minutos da etapa final. O time de Itabirinha suportou a pressão após sofrer o gol e manteve a vantagem até o apito final.",
+        "Na segunda rodada, o Novo Esporte fará seu primeiro jogo fora de casa contra o Nova Lavras, no sábado, 26 de setembro, às 16h, no Estádio Municipal Coronel Juventino Dias, em Lavras. A partida ainda estava por acontecer no horário de corte desta edição."
+      ]
+    },
+    "en": {
+      "title": "Novo Esporte opens with a win and travels to face Nova Lavras",
+      "summary": "The Itabirinha side beat Inter de Minas 2-1 in its opener; its next match is in Lavras on September 26.",
+      "aiSummary": [
+        "Novo Esporte beat Inter de Minas 2-1 in the opening round of Minas Gerais' second division.",
+        "Eriky and João Vitor scored for the Itabirinha team; Vinicius Palmeira de Oliveira scored for Inter.",
+        "The next match is against Nova Lavras on September 26 at 4 p.m."
+      ],
+      "paragraphs": [
+        "Novo Esporte opened the Minas Gerais Second Division with a 2-1 win over Inter de Minas on September 19 at Dr. Adilson Machado de Farias Stadium in Itabirinha. The result gave the team its first three points.",
+        "Citing the Minas Gerais Football Federation match sheet, GE identified Eriky as the first scorer, in the 11th minute of the first half. This follows GE's spelling; Mantena Online wrote Erick.",
+        "João Vitor extended Novo Esporte's lead early in the second half. The independent report differs from GE by one minute on the timing of that goal, so this account does not give an exact minute.",
+        "Vinicius Palmeira de Oliveira pulled one back for Inter de Minas in the 31st minute of the second half. The Itabirinha side held off pressure after conceding and kept its lead until the final whistle.",
+        "In the second round, Novo Esporte is due to play its first away match against Nova Lavras on Saturday, September 26, at 4 p.m. at Estádio Municipal Coronel Juventino Dias in Lavras. The fixture had not been played by this edition's cutoff."
+      ]
+    }
+  },
+  "verification": {
+    "score": 9.2,
+    "checkedAt": "2026-09-24T15:59:13Z",
+    "checks": [
+      {
+        "provider": "Aos Fatos",
+        "url": "https://www.aosfatos.org/",
+        "finding": "no-match",
+        "note": "Exact-name and claim-variant searches for the 2–1 Inter de Minas result found no relevant fact-check; unrelated results excluded. Neutral, not proof."
+      },
+      {
+        "provider": "Agência Lupa",
+        "url": "https://www.agencialupa.org/",
+        "finding": "no-match",
+        "note": "No fact-check of this match or fixture appeared for the exact teams/date query; unrelated football and political checks excluded. Neutral."
+      },
+      {
+        "provider": "Projeto Comprova",
+        "url": "https://projetocomprova.com.br/",
+        "finding": "no-match",
+        "note": "No relevant match-result or fixture fact-check found for the exact teams/date query. Neutral."
+      },
+      {
+        "provider": "AFP Fact Check",
+        "url": "https://factcheck.afp.com/",
+        "finding": "no-match",
+        "note": "No relevant fact-check found for the Brazilian lower-division result or upcoming fixture. Neutral."
+      },
+      {
+        "provider": "Reuters Fact Check",
+        "url": "https://www.reuters.com/fact-check/",
+        "finding": "no-match",
+        "note": "No relevant fact-check found for the exact match/result query. Neutral."
+      },
+      {
+        "provider": "Full Fact",
+        "url": "https://fullfact.org/",
+        "finding": "no-match",
+        "note": "Search results concerned unrelated football misinformation, not this match. No relevant verdict; neutral."
+      },
+      {
+        "provider": "Federação Mineira de Futebol",
+        "url": "https://fmf.com.br/Competicoes/ProxJogos.aspx?d=3",
+        "finding": "inconclusive",
+        "note": "The ordinary FMF extraction is incomplete (HTTP 200 but zero prose paragraphs). A separate structured browser capture retrieved 2026-09-24T15:45:52.313Z shows the 2-1 result and September 26 Nova Lavras–Novo Esporte fixture at 16:00, but is after the 2026-09-23T11:31:23.014Z cutoff and proves only the table state at capture, not its pre-cutoff state."
+      },
+      {
+        "provider": "Mantena Online",
+        "url": "https://mantenaonline.com.br/com-gols-de-erick-e-joao-vitor-novo-esporte-vence-inter-minas-por-2-a-1-em-estreia-no-campeonato-mineiro/",
+        "finding": "context",
+        "note": "Independent report confirms the 2-1 score but spells Eriky as Erick and places João Vitor's goal one minute later than GE. The current copy explicitly follows GE's spelling and omits the disputed minute."
+      },
+      {
+        "provider": "GE (complete selected-source extraction)",
+        "url": "https://ge.globo.com/mg/grande-minas-vales/noticia/2026/09/22/apos-vitoria-na-estreia-novo-esporte-visita-o-nova-lavras-pela-segunda-divisao-do-mineiro.ghtml",
+        "finding": "supports",
+        "note": "The complete GE story displays publication at 2026-09-22 19:12 -03, before cutoff, and reports the 2-1 opener plus the September 26, 16:00 Nova Lavras fixture at Estádio Municipal Coronel Juventino Dias. The saved full extraction was retrieved just after cutoff, so its retrieval time is not treated as a pre-cutoff snapshot."
+      }
+    ],
+    "caveat": "The complete GE report has a pre-cutoff publication dateline and supports the score, scorers, venue and September 26 fixture; Mantena independently confirms 2-1 but differs on scorer spelling and one goal minute, both handled explicitly in the copy. FMF’s structured fixture-table capture is post-cutoff and is not proof of FMF page state by cutoff. No unresolved factual contradiction remains."
+  }
+}
