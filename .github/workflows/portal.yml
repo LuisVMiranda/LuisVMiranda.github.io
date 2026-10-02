@@ -1,0 +1,81 @@
+name: Publish complete static portal
+
+on:
+  push:
+    branches: [main]
+  workflow_dispatch:
+  # Repair the complete site after news finishes, including failed/cancelled releases.
+  workflow_run:
+    workflows: ['GitHub Pages portal']
+    types: [completed]
+    branches: [main]
+
+permissions:
+  contents: read
+
+jobs:
+  publish:
+    if: >-
+      github.event_name != 'workflow_run' ||
+      github.event.workflow_run.event == 'push' ||
+      github.event.workflow_run.event == 'workflow_dispatch'
+    runs-on: ubuntu-latest
+    # Shared with news.yml: source selection and deployment cannot overlap a news publish.
+    concurrency:
+      group: github-pages
+      cancel-in-progress: false
+    permissions:
+      contents: read
+      actions: read
+      pages: write
+      id-token: write
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    env:
+      SITE_URL: ${{ vars.NEWS_SITE_URL || 'https://luisvmiranda.github.io' }}
+      GH_TOKEN: ${{ github.token }}
+      PAGES_OUTPUT: ${{ runner.temp }}/complete-pages
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: main
+          persist-credentials: false
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '24'
+      - name: Record the current portal revision
+        run: echo "PORTAL_SHA=$(git rev-parse HEAD)" >> "$GITHUB_ENV"
+      - run: node --test scripts/portal/*.test.mjs
+      - run: node mirastt/tools/verify.mjs
+      - name: Select the last successfully published news source
+        id: news
+        run: node scripts/portal/news-source.mjs
+      - uses: actions/checkout@v4
+        with:
+          ref: ${{ steps.news.outputs.sha }}
+          path: .reviewed-news
+          persist-credentials: false
+      - name: Install the approved news build dependencies
+        working-directory: .reviewed-news/news
+        run: npm ci
+      - name: Recheck the original news approvals and rebuild that published version
+        working-directory: .reviewed-news/news
+        env:
+          GITHUB_SHA: ${{ steps.news.outputs.sha }}
+        run: |
+          npx tsx scripts/release-check.ts
+          npm run build
+      - name: Package portfolio, Mira and approved news together
+        env:
+          NEWS_SHA: ${{ steps.news.outputs.sha }}
+          NEWS_RUN_ID: ${{ steps.news.outputs.run_id }}
+        run: node scripts/portal/package.mjs
+      - uses: actions/configure-pages@v5
+      - uses: actions/upload-pages-artifact@v3
+        with:
+          path: ${{ env.PAGES_OUTPUT }}
+      - name: Reject an obsolete portal build
+        run: node scripts/portal/news-source.mjs check-head
+      - id: deployment
+        uses: actions/deploy-pages@v4
