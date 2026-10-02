@@ -63,10 +63,11 @@ jobs:
       - name: Recheck the original news approvals and rebuild that published version
         working-directory: .reviewed-news/news
         env:
-          GITHUB_SHA: ${{ steps.news.outputs.sha }}
+          NEWS_SHA: ${{ steps.news.outputs.sha }}
         run: |
+          test "$(git rev-parse HEAD)" = "$NEWS_SHA"
           npx tsx scripts/release-check.ts
-          npm run build
+          env GITHUB_SHA="$NEWS_SHA" npm run build
       - name: Package portfolio, Mira and approved news together
         env:
           NEWS_SHA: ${{ steps.news.outputs.sha }}

@@ -19,3 +19,11 @@ test('failed news releases also queue recovery after displacing a pending portal
   assert.match(condition, /workflow_run\.event == 'workflow_dispatch'/);
   assert.doesNotMatch(condition, /pull_request/);
 });
+
+test('the news build receives its checked-out revision instead of the reserved runner revision', async () => {
+  const workflow = await readFile(new URL('../../.github/workflows/portal.yml', import.meta.url), 'utf8');
+  assert.doesNotMatch(workflow, /^\s+GITHUB_SHA:/m,
+    'GitHub reserves GITHUB_* environment settings; override only the child build process');
+  assert.ok(workflow.includes('test "$(git rev-parse HEAD)" = "$NEWS_SHA"'));
+  assert.ok(workflow.includes('env GITHUB_SHA="$NEWS_SHA" npm run build'));
+});
